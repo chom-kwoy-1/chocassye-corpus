@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<meta>
+	<title lang="kor">구급간이방</title>
+	<title lang="chi">救急簡易方</title>
+	<volume n="1"/>
+	<year n="1489"/>
+	<photograph>세종대왕기념사업회 영인본</photograph>
+	<photograph>홍문각 영인본</photograph>
+	<photograph>단국대학교 동양학연구소 영인본</photograph>
+</meta>
+<sent type="title" lang="chi" page="서1a" n="1">救急簡易方序</sent>
+<sent type="main" lang="chi" page="서1a" n="2">臣聞天地以生成爲德運化亭毒流形品類使之生育於二氣之中然不能令死者生而天者壽有聖人者出繼天保民敎之稼穡以盡生養之道制其醫藥以拯疾病之危俾斯民咸有樂於壽考之天噫天地雖有是理是物無聖人爲之輔相則理與物無乃或幾乎泯滅而無用乎以此而論之則聖人叅贊化育</sent>
+<sent type="main" lang="chi" page="서1b" n="2">之功反有浮於天地者矣吁其盛矣哉自神農嘗百藥之味而本草興焉黃帝作內外之經而方書始焉是<!--영인본에서는 글자에 탈획 있음-->後名醫繼出咸相祖述立論著方各成一家之言方之多殆未可以悉擧矣是以療病之家檢用之餘如入市貨物珍寶滿目有眩於去取矣 況病遽不可徧閱藥多未易卒合世之人咸以此病焉我國家聖神相繼保養斯民無所不用其極留意醫</sent>
+<sent type="main" lang="chi" page="서2a" n="2">術多所纂定醫方類聚旣集醫家之大成其刪煩擧要者則先有曰鄕藥濟生方曰救急方而或取舍未精詳略失當皆不適於中今 上御極恩深字人思欲廣選約取以便民生醫病之用乃命領敦寧府事臣尹壕西河君臣任元濬工曹叅判臣朴安性漢城府左尹臣權健曁臣琮率其僚属捜括古方病取其</sent>
+<sent type="main" lang="chi" page="서2b" n="2">要而以急爲先藥收其寡而以易爲務其所裁定實稟神規擇之必精簡而不略又翻以方言使人易曉書成凡爲卷八爲門一百二十七命曰救急簡易方仍令臣序之臣未知醫何能有言然臣竊惟天地合氣命之曰人六欲損其內五邪干其外陰陽 或爽疢疾斯興不有醫藥何能有濟輦轂之下方藥所萃雖有倉卒猶或庶幾焉</sent>
+<sent type="main" lang="chi" page="서3a" n="2">如偏州下邑窮鄕僻村病起所忽蒼黃失措莫知救止以至於喪生者不知其幾於聖上不忍人之心寜不於此而有隱乎此此書之所以作也旣命有司多所印出又頒諸諸道鏤板廣布使家家貯千金之訣人人有十全之功一有所苦不必旁走廣詢雖婦女兒童開卷檢方治療之術了然於心目而尋</sent>
+<sent type="main" lang="chi" page="서3b" n="2">常容易之物可以續垂死之命其聖上仁民愛物之盛心直與上古聖神嘗樂作經者同一揆也於乎至哉臣於是乎再拜而謹書弘治二年巳酉九月上澣精忠出氣布義敵愾純誠佐理功臣崇祿大夫行兵曹判書陽川君臣許琮敬序</sent>
+
+<sent type="title" lang="chi" page="목록1a" n="1">救急簡易方目錄</sent>
+<sent type="title" lang="chi" page="목록1a" n="2">卷之一</sent>
+<sent type="contents" lang="chi" page="목록1a" n="3">一 中風</sent>
+<sent type="contents" lang="kor" page="목록1a" n="3">과ᄀᆞ리 ᄇᆞᄅᆞᆷ 마ᄌᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록1a" n="4">二 中寒</sent>
+<sent type="contents" lang="kor" page="목록1a" n="4">ᄎᆞᆫ 긔운 ᄉᆞ외 마ᄌᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록1a" n="5">三 夏月熱死</sent>
+<sent type="contents" lang="kor" page="목록1a" n="5">녀름애 더위며여 주그니</sent>
+<sent type="contents" lang="chi" page="목록1a" n="6">四 中氣</sent>
+<sent type="contents" lang="kor" page="목록1a" n="6">노ᄒᆞᆫ 긔운으로 난 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록1a" n="7">五 五絶死</sent>
+<sent type="contents" lang="kor" page="목록1a" n="7">다ᄉᆞᆺ 가짓 과ᄀᆞ리 주그니</sent>
+<sent type="contents" lang="chi" page="목록1a" n="8">六 卒死</sent>
+<sent type="contents" lang="kor" page="목록1a" n="8">과ᄀᆞ리 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="1">七 自縊死</sent>
+<sent type="contents" lang="kor" page="목록1b" n="1">절로 목 ᄆᆡ야 ᄃᆞ라 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="2">八 溺死</sent>
+<sent type="contents" lang="kor" page="목록1b" n="2">므레 디여 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="3">九 木石壓死</sent>
+<sent type="contents" lang="kor" page="목록1b" n="3">나모 돌해 지즐여 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="4">十 夜魘死</sent>
+<sent type="contents" lang="kor" page="목록1b" n="4">바ᄆᆡ ᄀᆞ오 눌여 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="5">十一 冬月凍</sent>
+<sent type="contents" lang="kor" page="목록1b" n="5">겨ᅀᅳ래 어러 주그니</sent>
+<sent type="contents" lang="chi" page="목록1b" n="6">十二 白虎風</sent>
+<sent type="contents" lang="kor" page="목록1b" n="6">두루 슬슈셔 알ᄑᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록1b" n="7">十三 諸風癇</sent>
+<sent type="contents" lang="kor" page="목록1b" n="7">여라가짓 겨ᇰ간</sent>
+<sent type="contents" lang="chi" page="목록1b" n="8">十四 傷寒時疫</sent>
+<sent type="contents" lang="kor" page="목록1b" n="8">ᄎᆞᆫ 긔운으로 발ᅀᅧᆳ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2a" n="1">十五 煩熱少睡</sent>
+<sent type="contents" lang="kor" page="목록2a" n="1">ᄆᆞᅀᆞ미 히코 ᅀᅧᆯᄒᆞ야 ᄌᆞᆷ 몯 자ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="title" lang="chi" page="목록2a" n="2">卷之二</sent>
+<sent type="contents" lang="chi" page="목록2a" n="3">一 頭痛</sent>
+<sent type="contents" lang="kor" page="목록2a" n="3">머리 알ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2a" n="4">二 卒咳嗽</sent>
+<sent type="contents" lang="kor" page="목록2a" n="4">과ᄀᆞᄅᆞᆫ 기춤 ᄒᆞᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2a" n="5">三 心腹痛</sent>
+<sent type="contents" lang="kor" page="목록2a" n="5">가ᄉᆞᆷ ᄇᆡ 알ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2a" n="6">四 卒腰痛</sent>
+<sent type="contents" lang="kor" page="목록2a" n="6">과ᄀᆞ리 허리 알ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록2a" n="7">五 絞膓沙</sent>
+<sent type="contents" lang="kor" page="목록2a" n="7">ᄇᆡ ᄌᆞᄅᆞᄂᆞᆫ ᄃᆞᆺ 알ᄑᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2a" n="8">六 霍乱</sent>
+<sent type="contents" lang="kor" page="목록2a" n="8">도와리</sent>
+<sent type="contents" lang="chi" page="목록2b" n="1">七 咽喉腫</sent>
+<sent type="contents" lang="kor" page="목록2b" n="1">목뎟 브ᅀᅳᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="2">八 纒喉風</sent>
+<sent type="contents" lang="kor" page="목록2b" n="2">목 안히 과ᄀᆞ리 브ᅀᅳᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="3">九 噎塞</sent>
+<sent type="contents" lang="kor" page="목록2b" n="3">목 몐 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="4">十 失音</sent>
+<sent type="contents" lang="kor" page="목록2b" n="4">목소리 몯 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="5">十一 舌腫</sent>
+<sent type="contents" lang="kor" page="목록2b" n="5">혀 브ᅀᅳ니</sent>
+<sent type="contents" lang="chi" page="목록2b" n="6">十二 鼻衂</sent>
+<sent type="contents" lang="kor" page="목록2b" n="6">고해 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="7">十三 吐血</sent>
+<sent type="contents" lang="kor" page="목록2b" n="7">모ᄀᆡ 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록2b" n="8">十四九竅出血</sent>
+<sent type="contents" lang="kor" page="목록2b" n="8">귀와 눈과 고콰 입과 아래 오래로 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="title" lang="chi" page="목록3a" n="1">卷之三</sent>
+<sent type="contents" lang="chi" page="목록3a" n="2">一 口瘡</sent>
+<sent type="contents" lang="kor" page="목록3a" n="2">입 헌 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3a" n="3">二 唇口緊</sent>
+<sent type="contents" lang="kor" page="목록3a" n="3">입시울 ᄇᆞᄅᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3a" n="4">三 面上生瘡</sent>
+<sent type="contents" lang="kor" page="목록3a" n="4">ᄂᆞᆺ 헐므ᅀᅳᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3a" n="5">四 腮腫</sent>
+<sent type="contents" lang="kor" page="목록3a" n="5">ᄲᅣᆷ 브ᅀᅳᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3a" n="6">五 失欠頷車蹉</sent>
+<sent type="contents" lang="kor" page="목록3a" n="6">하외욤 ᄒᆞ다가 ᄐᆞᆨ 글희여 난 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3a" n="7">六 丁瘡</sent>
+<sent type="contents" lang="kor" page="목록3a" n="7">머리와 ᄂᆞᆺ과 손바래 난 모딘 죠ᇰ긔</sent>
+<sent type="contents" lang="chi" page="목록3a" n="8">七 背腫</sent>
+<sent type="contents" lang="kor" page="목록3a" n="8">드ᇰ의 난 죠ᇰ긔</sent>
+<sent type="contents" lang="chi" page="목록3b" n="1">八 走馬疳</sent>
+<sent type="contents" lang="kor" page="목록3b" n="1">ᄲᆞᄅᆞᆫ 감차ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3b" n="2">九 丹毒</sent>
+<sent type="contents" lang="kor" page="목록3b" n="2">단독</sent>
+<sent type="contents" lang="chi" page="목록3b" n="3">十 便毒</sent>
+<sent type="contents" lang="kor" page="목록3b" n="3">가ᄅᆞᆺ톳</sent>
+<sent type="contents" lang="chi" page="목록3b" n="4">十一 大小便不通</sent>
+<sent type="contents" lang="kor" page="목록3b" n="4">큰ᄆᆞᆯ 져근ᄆᆞᆯ 다 몯 보ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3b" n="5">十二 大便不通</sent>
+<sent type="contents" lang="kor" page="목록3b" n="5">큰ᄆᆞᆯ 몯 보ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3b" n="6">十三 小便不通</sent>
+<sent type="contents" lang="kor" page="목록3b" n="6">져근ᄆᆞᆯ 몯 보ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3b" n="7">十四 大小便血</sent>
+<sent type="contents" lang="kor" page="목록3b" n="7">져근ᄆᆞᆯ 큰ᄆᆞ래 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록3b" n="8">十五 尿血</sent>
+<sent type="contents" lang="kor" page="목록3b" n="8">져근ᄆᆞ래 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4a" n="1">十六 諸淋</sent>
+<sent type="contents" lang="kor" page="목록4a" n="1">여러 가짓 림질</sent>
+<sent type="contents" lang="chi" page="목록4a" n="2">十七 夜多小便</sent>
+<sent type="contents" lang="kor" page="목록4a" n="2">바ᄆᆡ 져근ᄆᆞᆯ ᄌᆞ조 누ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="title" lang="chi" page="목록4a" n="3">卷之四</sent>
+<sent type="contents" lang="chi" page="목록4a" n="4">一 㿗疝</sent>
+<sent type="contents" lang="kor" page="목록4a" n="4">퇴사ᇇ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4a" n="5">二 隂縮</sent>
+<sent type="contents" lang="kor" page="목록4a" n="5">슈신이 움처 드ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4a" n="6">三 外痔</sent>
+<sent type="contents" lang="kor" page="목록4a" n="6">하ᇰ문 브ᅀᅥ 피 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4a" n="7">四 脫工</sent>
+<sent type="contents" lang="kor" page="목록4a" n="7">하ᇰ문 두위여딘 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4a" n="8">五 泄瀉</sent>
+<sent type="contents" lang="kor" page="목록4a" n="8">즈츼ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="1">六 赤白痢</sent>
+<sent type="contents" lang="kor" page="목록4b" n="1">블근ᄆᆞᆯ ᄒᆡᆫᄆᆞᆯ 보ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="2">七 目珠子突出</sent>
+<sent type="contents" lang="kor" page="목록4b" n="2">눈ᄌᆞᅀᆞ 블어난 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="3">八 眼卒生翳膜</sent>
+<sent type="contents" lang="kor" page="목록4b" n="3">눈ᄌᆞᅀᆞ 과ᄀᆞ리 ᄀᆞ리ᄭᅵᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="4">九 物必眼</sent>
+<sent type="contents" lang="kor" page="목록4b" n="4">아못거시나 누네 든 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="5">十 耳痛</sent>
+<sent type="contents" lang="kor" page="목록4b" n="5">귀 알ᄑᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="6">十一 百虫入耳</sent>
+<sent type="contents" lang="kor" page="목록4b" n="6">여러 가짓 벌에 귀예 든 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록4b" n="7">十二 物入耳</sent>
+<sent type="contents" lang="kor" page="목록4b" n="7">아못뭇거시나 귀예 드니</sent>
+<sent type="title" lang="chi" page="목록4b" n="8">卷之五</sent>
+<sent type="contents" lang="chi" page="목록5a" n="1">一 蠱毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="1">노올굴인 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록5a" n="2">二 六畜肉毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="2">쇼와 ᄆᆞᆯ와 가히와 야ᇰ과 돋과ᄋᆡ 고기 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="3">三 一切煮毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="3">믌고기 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="4">四 諸藥毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="4">약 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="5">五 砒礵毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="5">비상 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="6">六 一切蕈毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="6">버슷 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="7">七 一切菜毒</sent>
+<sent type="contents" lang="kor" page="목록5a" n="7">ᄂᆞᄆᆞᆯ 머근 독</sent>
+<sent type="contents" lang="chi" page="목록5a" n="8">八 金瘡</sent>
+<sent type="contents" lang="kor" page="목록5a" n="8">갈나래 헌ᄃᆡ</sent>
+<sent type="contents" lang="chi" page="목록5b" n="1">九 打撲傷損</sent>
+<sent type="contents" lang="kor" page="목록5b" n="1">다티거나 업더디거나 ᄒᆞ야 헌ᄃᆡ</sent>
+<sent type="contents" lang="chi" page="목록5b" n="2">十 湯火傷</sent>
+<sent type="contents" lang="kor" page="목록5b" n="2">더운 므레 데니와 브레 데니</sent>
+<sent type="contents" lang="chi" page="목록5b" n="3">十一 杖瘡</sent>
+<sent type="contents" lang="kor" page="목록5b" n="3">매 마자 헌ᄃᆡ</sent>
+<sent type="contents" lang="chi" page="목록5b" n="4">十二 凍瘡</sent>
+<sent type="contents" lang="kor" page="목록5b" n="4">ᄃᆞ라 헌ᄃᆡ</sent>
+<sent type="contents" lang="chi" page="목록5b" n="5">十三 漆瘡</sent>
+<sent type="contents" lang="kor" page="목록5b" n="5">옷 올이니</sent>
+<sent type="contents" lang="chi" page="목록5b" n="6">十四 手足裂</sent>
+<sent type="contents" lang="kor" page="목록5b" n="6">손발 ᄩᅳ니</sent>
+<sent type="title" lang="chi" page="목록5b" n="7">卷之五</sent>
+<sent type="contents" lang="chi" page="목록5b" n="8">一 骨鯁</sent>
+<sent type="contents" lang="kor" page="목록5b" n="8">ᄲᅧ 목의 거니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="1">二 誤吞針類</sent>
+<sent type="contents" lang="kor" page="목록6a" n="1">바ᄂᆞᆯ 몰라 ᄉᆞᆷᄭᅵ니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="2">三 誤吞金銀</sent>
+<sent type="contents" lang="kor" page="목록6a" n="2">금이어나 은이어나 몰라 ᄉᆞᆷᄭᅵ니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="3">四 誤吞竹木</sent>
+<sent type="contents" lang="kor" page="목록6a" n="3">대어나 남기어나 몰라 ᄉᆞᆷᄭᅵ니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="4">五 針刺折肉中</sent>
+<sent type="contents" lang="kor" page="목록6a" n="4">바ᄂᆞ리어나 가ᄉᆡ어나 ᄉᆞᆯ해 드러 것그니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="5">六 竹木刺入肉中</sent>
+<sent type="contents" lang="kor" page="목록6a" n="5">댓가ᄉᆡ어나 나못가ᄉᆡ어나 ᄉᆞᆯ해 박키니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="6">七 虎傷</sent>
+<sent type="contents" lang="kor" page="목록6a" n="6">범 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="7">八 風犬傷</sent>
+<sent type="contents" lang="kor" page="목록6a" n="7">미친 가히 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6a" n="8">九 常犬傷</sent>
+<sent type="contents" lang="kor" page="목록6a" n="8">샤ᇰ녯 가히 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="1">十 毒蛇傷</sent>
+<sent type="contents" lang="kor" page="목록6b" n="1">모딘 ᄇᆡ얌 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="2">十一 諸惡虫傷</sent>
+<sent type="contents" lang="kor" page="목록6b" n="2">모딘 벌에 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="3">十二 蜈蚣咬</sent>
+<sent type="contents" lang="kor" page="목록6b" n="3">지네 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="4">十三 蜂蠆毒</sent>
+<sent type="contents" lang="kor" page="목록6b" n="4">벌 ᄡᅬ이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="5">十四 蜘蛛傷</sent>
+<sent type="contents" lang="kor" page="목록6b" n="5">거믜 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="6">十五 蚯蚓咬</sent>
+<sent type="contents" lang="kor" page="목록6b" n="6">거ᇫ위 믈어니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="7">十六 馬咬</sent>
+<sent type="contents" lang="kor" page="목록6b" n="7">ᄆᆞᆯ 믈이니</sent>
+<sent type="contents" lang="chi" page="목록6b" n="8">十七 猪咬</sent>
+<sent type="contents" lang="kor" page="목록6b" n="8">돋 믈이니</sent>
+<sent type="contents" lang="chi" page="목록7a" n="1">十八 猫咬</sent>
+<sent type="contents" lang="kor" page="목록7a" n="1">괴 믈이니</sent>
+<sent type="contents" lang="chi" page="목록7a" n="2">十九 䑕咬</sent>
+<sent type="contents" lang="kor" page="목록7a" n="2">쥐 믈이니</sent>
+<sent type="contents" lang="chi" page="목록7a" n="3">二十 破傷風</sent>
+<sent type="contents" lang="kor" page="목록7a" n="3">헌 ᄯᅡ히 ᄇᆞᄅᆞᆷ 드리니</sent>
+<sent type="contents" lang="chi" page="목록7a" n="4">二十一 紫白癡風</sent>
+<sent type="contents" lang="kor" page="목록7a" n="4">블근 어르러지와 ᄒᆡᆫ 어르러지</sent>
+<sent type="contents" lang="chi" page="목록7a" n="5">三十二 治瘢痕</sent>
+<sent type="contents" lang="kor" page="목록7a" n="5">허렛던 허믈 고툠</sent>
+<sent type="title" lang="chi" page="목록7a" n="6">卷之七</sent>
+<sent type="tilte" lang="chi" page="목록7a" n="7">婦人門</sent>
+<sent type="contents" lang="chi" page="목록7a" n="8">一 姙娠中風</sent>
+<sent type="contents" lang="kor" page="목록7a" n="8">아기 ᄇᆡ어셔 ᄇᆞᄅᆞᆷ 마ᄌᆞ니</sent>
+<sent type="contents" lang="chi" page="목록7b" n="1">二 姙娠心腹痛</sent>
+<sent type="contents" lang="kor" page="목록7b" n="1">아기 ᄇᆡ어셔 가ᄉᆞᆷ ᄇᆡ 알ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록7b" n="2">三 姙娠大小便不通</sent>
+<sent type="contents" lang="kor" page="목록7b" n="2">아기 ᄇᆡ여셔 큰ᄆᆞᆯ 져근ᄆᆞᆯ 몯 봄</sent>
+<sent type="contents" lang="chi" page="목록7b" n="3">四 姙娠咳嗽</sent>
+<sent type="contents" lang="kor" page="목록7b" n="3">아기 ᄇᆡ여셔 기춤 깃ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록7b" n="4">五 兒在腹中哭</sent>
+<sent type="contents" lang="kor" page="목록7b" n="4">아기 ᄇᆡ 안해셔 우ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록7b" n="5">六 子死腹中</sent>
+<sent type="contents" lang="kor" page="목록7b" n="5">ᄌᆞ시기 ᄇᆡ 안해셔 주그니</sent>
+<sent type="contents" lang="chi" page="목록7b" n="6">七 難産</sent>
+<sent type="contents" lang="kor" page="목록7b" n="6">아기 어려이 낟ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록7b" n="7">八 胎衣不下</sent>
+<sent type="contents" lang="kor" page="목록7b" n="7">뒤 조지 몯 낟ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록7b" n="8">九 産後血不止</sent>
+<sent type="contents" lang="kor" page="목록7b" n="8">아기 나ᄒᆞᆫ 후에 피 긋디 아니ᄒᆞᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8a" n="1">十 産後血不下</sent>
+<sent type="contents" lang="kor" page="목록8a" n="1">아기 나ᄒᆞᆫ 후에 피 아니 나ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8a" n="2">十一 産後膓出</sent>
+<sent type="contents" lang="kor" page="목록8a" n="2">아기 나ᄒᆞᆫ 후에 아래 오랫 거시 밧긔 나 드디 몯ᄒᆞᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록8a" n="3">十二 乳瘇</sent>
+<sent type="contents" lang="kor" page="목록8a" n="3">져젯 죠ᇰ긔</sent>
+<sent type="contents" lang="chi" page="목록8a" n="4">十三 乳汁不下</sent>
+<sent type="contents" lang="kor" page="목록8a" n="4">졋 아니 나ᄂᆞ니</sent>
+<sent type="title" lang="chi" page="목록8a" n="5">卷之八</sent>
+<sent type="title" lang="chi" page="목록8a" n="6">小兒門</sent>
+<sent type="contents" lang="chi" page="목록8a" n="7">一 生下氣絶</sent>
+<sent type="contents" lang="kor" page="목록8a" n="7">나다가ᇝ 결로 긔운 업스니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="1">二 大小便閉</sent>
+<sent type="contents" lang="kor" page="목록8b" n="1">큰ᄆᆞᆯ와 져근ᄆᆞᆯ 몯 보ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="2">三 遍身無皮</sent>
+<sent type="contents" lang="kor" page="목록8b" n="2">모매 갓 업스니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="3">四 臍腫</sent>
+<sent type="contents" lang="kor" page="목록8b" n="3">ᄇᆡᆺ복 브ᅀᅳ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="4">五 口出白沫</sent>
+<sent type="contents" lang="kor" page="목록8b" n="4">이베 ᄒᆡᆫ 거품 나ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="5">六 不飮乳</sent>
+<sent type="contents" lang="kor" page="목록8b" n="5">졋 몯 먹ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="6">七 吐乳</sent>
+<sent type="contents" lang="kor" page="목록8b" n="6">졋 너ᄆᆞᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="7">八 口噤不開</sent>
+<sent type="contents" lang="kor" page="목록8b" n="7">이비 ᄆᆡ조자 버리디 몯ᄒᆞᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록8b" n="8">九 重舌</sent>
+<sent type="contents" lang="kor" page="목록8b" n="8">혀 아래 ᄯᅩ 혀 나ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록9a" n="1">十 口瘡</sent>
+<sent type="contents" lang="kor" page="목록9a" n="1">입 허니</sent>
+<sent type="contents" lang="chi" page="목록9a" n="2">十一 牙疳</sent>
+<sent type="contents" lang="kor" page="목록9a" n="2">니예 머글 것 브튼 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록9a" n="3">十二 驚癎</sent>
+<sent type="contents" lang="kor" page="목록9a" n="3">겨ᇰ간</sent>
+<sent type="contents" lang="chi" page="목록9a" n="4">十三 夜啼</sent>
+<sent type="contents" lang="kor" page="목록9a" n="4">바ᄆᆡ 우ᄂᆞᆫ 벼ᇰ</sent>
+<sent type="contents" lang="chi" page="목록9a" n="5">十四 痘瘡陷入</sent>
+<sent type="contents" lang="kor" page="목록9a" n="5">ᄒᆡᇰ역이 ᄢᅥ디니</sent>
+<sent type="contents" lang="chi" page="목록9a" n="6">十五 痘瘡黑陷</sent>
+<sent type="contents" lang="kor" page="목록9a" n="6">ᄒᆡᇰ역이 검고 ᄢᅥ디ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록9a" n="7">十六 痘瘡入眼</sent>
+<sent type="contents" lang="kor" page="목록9a" n="7">ᄒᆡᇰ역이 누네 드ᄂᆞ니</sent>
+<sent type="contents" lang="chi" page="목록9a" n="8">十七 痘瘡爛</sent>
+<sent type="contents" lang="kor" page="목록9a" n="8">ᄒᆡᇰ역이 즛믈롬</sent>
+<sent type="contents" lang="chi" page="목록9b" n="1">十八 客忤</sent>
+<sent type="contents" lang="kor" page="목록9b" n="1">귓것 든 병</sent>
+<sent type="contents" lang="chi" page="목록9b" n="2">十九 腦後有核</sent>
+<sent type="contents" lang="kor" page="목록9b" n="2">머릿곡뒤헤 도ᄃᆞᆫ 것</sent>
+<sent type="contents" lang="chi" page="목록9b" n="3">二十 隂囊腫</sent>
+<sent type="contents" lang="kor" page="목록9b" n="3">외시ᇇ알 브ᅀᅳᆫ 병</sent>
+<sent type="title" lang="chi" page="목록9b" n="4">救急簡易方目録</sent>
+<sent type="title" lang="chi" page="1a" n="1">救急簡易方卷之一</sent>
+<sent type="disease" lang="chi" page="1a" n="2">中風</sent>
+<sent type="disease" lang="kor" page="1a" n="2">ᄇᆞᄅᆞᆷ 마ᄌᆞ니라</sent>
+<sent type="main" lang="chi" page="1a-1b" n="3">宜服和劑方半黃清心圓至寶丹小續命湯排風湯省風湯御藥院方木香保命丹得效方觧語湯</sent>
+<sent type="main" lang="kor" page="1a-1b" n="3">화졔바ᇰ애 우화ᇰ쳐ᇰ심원 지보단 쇼쇽며ᇰ타ᇰ ᄇᆡ푸ᇰ타ᇰ ᄉᆡᇰ푸ᇰ타ᇰ 어약원바ᇰ애 목햐ᇰ 보며ᇰ단 득효바ᇰ애 ᄒᆡ어타ᇰ과ᄅᆞᆯ 머고미 맛다ᇰᄒᆞ니^라</sent>
+<sent type="main" lang="chi" page="1b-3a" n="4">卒中法 圓白天南星<anno>두렫고 ᄒᆡᆫ 두야머주저깃 불휘 濕紙裹煨</anno>南木香 蒼术<anno>삽듓 불휘니 비치 프러코 ᄆᆞᄃᆡ 기니</anno>白羊眼半夏<anno>ᄒᆡᆫ 야ᇰ의 눈 ᄀᆞᄐᆞᆫ ᄭᅴ모롭 불휘 用百沸湯就銚蘸少頃各一錢半</anno> 辢細辛 甘草 石菖蒲<anno>돌 서리예 난 쇼ᇰ의맛 불휘 細切各一錢</anno>剉散分作二服水一盞半生薑七厚片煎取其半乗熱調蘇合香圓三圓灌下痰盛者加全蝎二枚炙 先皂角去弦皮細辛或生南星半夏爲末揭以管子<anno>대로ᇰ</anno>吹入鼻中俟其噴嚏即進前藥 牙噤者中指點南星細辛末并烏梅肉<anno>ᄆᆡ홧 여름 검게 그ᅀᅳ려 ᄆᆞᄅᆞ니</anno>頻擦自開</sent>
+<sent type="main" lang="kor" page="1b-3a" n="4">믄득 ᄇᆞᄅᆞᆷ 맛거든 두렫고 ᄒᆡᆫ 두야머주저깃 불휘ᄅᆞᆯ 저즌 죠ᄒᆡ예 ᄡᅡ 구으니와 남목햐ᇰ과 삽듓 불휘와 ᄒᆡᆫ 야ᇰ의 눈 ᄀᆞᄐᆞᆫ ᄭᅴ모롭 불휘ᄅᆞᆯ 일ᄇᆡᆨ 번 솟글ᄂᆞᆫ 므레 아니한 ᄉᆞᅀᅵ ᄃᆞ모니 각 ᄒᆞᆫ 돈 반과 ᄆᆡ온 셰시ᇇ 불휘와 감초^와 돌 서리예 난 쇼ᇰ의맛 불휘 ᄀᆞᄂᆞ리 사ᄒᆞ로니 각 ᄒᆞᆫ 돈을 대도히 사ᄒᆞ라 두 복애 ᄂᆞᆫ화 ᄆᆡᇰᄀᆞ라 믈 ᄒᆞᆫ 되 닷 홉과 ᄉᆡᇰ아ᇰ 두터운 닐굽 편 조쳐 글효니 바니어든 더운 제 소합원 세 환을 프러 이베 브ᅀᅩᄃᆡ 춤 하니란 젼갈 두 나ᄎᆞᆯ 구어 녀흐라 몬져 조각을 시울와 거플 앗고 셰신이어나 두야머주저기어나 ᄭᅴ모로비어나 ᄀᆞᆯ을 ᄆᆡᇰᄀᆞ라 대로ᇰ^으로 ᄯᅥ 곳굼긔 부러 드려 ᄌᆞᄎᆡ욤 호ᄆᆞᆯ 기드려 우흿 약을 머교ᄃᆡ 니 마고므니란 댜ᇰ가락애 두야머주저기와 셰시ᇇ ᄀᆞᆯᄋᆞᆯ 무텨 그ᅀᅳ려 ᄆᆞᆯ외욘 ᄆᆡ홧 여름 □ 조쳐 ᄌᆞ조 니예 ᄲᅮ츠면 절로 버ᇰ으리리라</sent><!--영인본에서 '리'의 일부 획이 잘 보이지 않음-->
+<sent type="main" lang="chi" page="3b-4a" n="1">中風不省人事涏潮口噤語言不出得病之日便進此樂可使風退氣和 用栢葉<anno>즉ᄇᆡᆨ 닙 一握</anno>葱白<anno>팟 믿 ᄒᆡᆫ ᄃᆡ 一握連根</anno>細研如泥無灰酒<anno>됴ᄒᆞᆫ 술</anno>一鍾同煎一二十沸去柤溫服不拘時 如不飮酒分作四五次服</sent>
+<sent type="main" lang="kor" page="3b-4a" n="1">ᄇᆞᄅᆞᆷ 마자 ᅀᅵᆫᄭᅴ 몯 ᄎᆞ리고 추미 올아 다와텨 입을 마고믈오 말ᄉᆞᆷ 몯ᄒᆞ거든 믄득 이 약을 머기면 어로 ᄇᆞᄅᆞ미 업스며 긔운이 편안ᄒᆞ리니 즉ᄇᆡᆨ 닙 ᄒᆞᆫ 줌과 팟 믿 ᄒᆡᆫ ᄃᆡ 불휘 조ᄎᆞ니 ᄒᆞᆫ 줌과ᄅᆞᆯ ᄂᆞ로니 ᄒᆞᆰ ᄀᆞ티 두드려 됴ᄒᆞᆫ 술 ᄒᆞᆫ 죠ᇰ과 ᄒᆞᆫᄃᆡ 열 스믈 소솜 글혀 ^ 즈ᅀᅴ 앗고 ᄃᆞᄉᆞ닐 머교ᄃᆡ ᄢᅵ니 혜디 말라 ᄒᆞ다가 술옷 몯 먹거든 너덧 번에 ᄂᆞᆫ화 머기라</sent>
+<sent type="main" lang="chi" page="4b-5a" n="1">卒中風涎潮昏塞不知人 大附子<anno>一枚生去皮臍切作八片</anno>以水二梡生薑一兩切同煎 至一大盞去滓溫冷服 一法加沉香一錢一法加展砂<anno>쥬사</anno>末少匕 凡中風無問冷熱虚實可服盖此藥能正氣消痰散風神效</sent>
+<sent type="main" lang="kor" page="4b-5a" n="1">과ᄀᆞ리 ᄇᆞᄅᆞᆷ 마자 추미 올아 다와텨 아ᄃᆞᆨᄒᆞ야 ᅀᅵᆫᄭᅴ 모ᄅᆞ거든 큰 부ᄌᆞ ᄒᆞᆫ 나ᄎᆞᆯ 거플와 브르도ᄃᆞᆫ 것 앗고 여듧 조각애 사ᄒᆞ라 믈 두 사발애 ᄉᆡᇰ아ᇰ ᄒᆞᆫ 랴ᇰ 사ᄒᆞ로니와ᄅᆞᆯ ᄒᆞᆫᄃᆡ 글혀 ᄒᆞᆫ 사바리 ᄃᆞ외어든 즈ᅀᅴ 앗고 ᄃᆞᆺᄆᆡ욘히 ᄒᆞ야 머그라 ᄒᆞᆫ 법엔 팀햐ᇰ ᄒᆞᆫ 돈을 더 녀코 한 법엔 쥬사 ᄀᆞ로니 져고맛 술로 ᄒᆞᆫ나ᄒᆞᆯ 더 녀흐라 ᄒᆞ니라 믈읫 ᄇᆞᄅᆞᆷ 마ᄌᆞᆫ ^ 사ᄅᆞᄆᆡ 긔운이 ᄂᆡᇰᄒᆞ며 ᅀᅧᆯᄒᆞ며 긔운 사오나옴 됴호ᄆᆞᆯ 혜디 말오 다 머고미 맛다ᇰᄒᆞ니 이 약ᄋᆞᆫ 느ᇰ히 긔운을 고티며 건 춤을 삭게 ᄒᆞ고 푸ᇰ긔 업게 ᄒᆞ요매 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="5b-6a" n="1">中風忽然昏若醉形體昏悶四肢不収涎潮於上鬲氣閉不通 光明晉礬<anno>ᄆᆞᆯᄀᆞᆫ ᄇᆡᆨ번 一兩</anno>猪牙皂角<anno>四箇肥實并不曾蛀者去黑皮</anno>細末硏勻輕者半錢匕重者三錢匕溫水調灌下不大嘔吐但微微冷涎出一二升便得醒醒 次緩而調理不可大吐</sent>
+<sent type="main" lang="kor" page="5b-6a" n="1">ᄇᆞᄅᆞᆷ 마자 믄득 어즐ᄒᆞ야 ᄎᆔᄒᆞᆫ ᄃᆞᆺ ᄒᆞ며 답답고 네 활기ᄅᆞᆯ 몯 ᄡᅳ며 추미 우흐로 올아 긔운이 마가 토ᇰ티 몯ᄒᆞ거든 ᄆᆞᆯᄀᆞᆫ ᄇᆡᆨ번 ᄒᆞᆫ 랴ᇰ과 도ᄐᆡ 엄 ᄀᆞᄐᆞᆫ 조각 ᄉᆞᆯ지고 염글오 좀 아니 머그니 네 나ᄎᆞᆯ 거믄 거플 앗고 ᄀᆞᄂᆞ리 ᄀᆞ라 고ᄅᆞ게 ᄒᆞ야 벼ᇰ이 겨ᇰᄒᆞ니란 반 돈^만 ᄒᆞ고 듀ᇰᄒᆞ니란 세 돈을 ᄃᆞᄉᆞᆫ 므레 프러 이베 브ᅀᅥ 너무 토티 아니케 ᄒᆞ고 오직 젹젹 ᄎᆞᆫ 추미 ᄒᆞᆫ두 되만 나면 곧 ᄉᆞᆲᄉᆞᆲᄒᆞᄂᆞ니라 버거 날회야 됴리ᄒᆞ고 너무 토티 아니케 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="6b-7a" n="1">中風癱瘓口眼喎斜涎潮語澁渾身疼痛應一切風疾悉皆治愈 生附子<anno>一兩</anno>天南星<anno>두야머주저깃 불휘 二錢半並炮</anno>全蝎<anno>二錢半炒</anno>麁末每服三錢水二盞生薑十五片煎至七分去滓放溫服</sent>
+<sent type="main" lang="kor" page="6b-7a" n="1">ᄇᆞᄅᆞᆷ 마자 왼 녁 올ᄒᆞᆫ 녁을 다 몯 ᄡᅳ며 입과 눈과 기울며 추미 올아 다와텨 말ᄉᆞ미 굳ᄇᆞᄅᆞ며 모미 다 알ᄑᆞ거든 대도ᄒᆞᆫ ᄇᆞᄅᆞᆷ앗 벼ᇰ을 다 고티ᄂᆞ니라 부ᄌᆞ ᄒᆞᆫ 랴ᇰ과 두야머주저깃 불휘 두 돈 반을 다 죠ᄒᆡ예 ᄡᅡ<!--영인본상으로는 'ᄡᅵ'이나 탈획으로 생각됨--> 믈 저져 구으니와 젼갈 두 돈 반 봇그니와ᄅᆞᆯ 사ᄒᆞ라 ᄒᆞᆫ 복<!--영인본상으로는 '목'이나 탈획으로 생각됨-->애 세 돈곰 ᄒᆞ야 믈 두 되예 ᄉᆡᇰ아ᇰ ^ 열 다ᄉᆞᆺ 편을 ᄒᆞᆫᄃᆡ 녀허 글히니 반 남ᄌᆞᆨ거든 즈ᅀᅴ 앗고 ᄃᆞᄉᆞ닐 머그라</sent>
+<sent type="main" lang="chi" page="7b-8a" n="1">卒暴中風涎潮氣閉牙関緊急眼目上視破損傷風搐搦潮作 甜葶藶<anno>ᄃᆞᆫ두루믜나ᅀᅵ</anno>香白芷<anno>구리댓 불휘</anno>天南星<anno>두야머주저깃 불휘</anno>半夏<anno>ᄭᅴ모롭 불휘 湯洗去滑</anno>巴豆<anno>去殻不去油各等分並生用</anno>細末每服半錢用生薑自然汁一呷調下 牙関緊急湯劑灌不下者此藥輒能治之</sent>
+<sent type="main" lang="kor" page="7b-8a" n="1">믄득 ᄇᆞᄅᆞᆷ 마자 추미 올아 긔운이 막딜이며 어귀 굳ᄇᆞᄅᆞ고 누ᄂᆞᆯ 티ᄠᅳ고 헌ᄃᆡ로 ᄇᆞᄅᆞᆷ 드러 거두혀며 뷔트리혀미 이시락 업스락 ᄒᆞ거든 ᄃᆞᆫ두루믜나ᅀᅵ와 구리댓 불휘와 두야머주저깃 불휘와 ᄭᅴ모롭 불휘ᄅᆞᆯ 더운 므레 시서 믯믜즌 것 업게 ᄒᆞ요니와 파두ᄅᆞᆯ 거플 앗고 기름으란 앗디 아니ᄒᆞ니와ᄅᆞᆯ ᄀᆞᆮ게 ᄂᆞᆫ화 ᄀᆞᄂᆞ리 ᄀᆞ라 반 돈곰 ^ 머고ᄃᆡ ᄉᆡᇰ아ᇰ 즛디허 ᄧᅩᆫ 즙 ᄒᆞᆫ 머곰만 ᄒᆞ야 프러 머그라 어귀 굳ᄇᆞᆯ라 약을 브ᅀᅥ도 ᄂᆞ리오디 몯ᄒᆞᄂᆞ니도 이 약이 믄득 수이 고티ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="8b-9a" n="1">男子婦人中風左癱右瘓行歩艱難語言蹇澁口眼喎斜並皆治之 蒼术<anno>삽듓 불휘 니비 치프러ᄒᆞ고 ᄆᆞᄃᆡ 기니 四兩泔浸一宿</anno>草烏頭<anno>바곳 불휘 四兩酒浸一宿</anno>切作片子焙乾同爲細末用浸烏頭酒打麫糊爲丸如桐子大每服二十丸空心一服臨卧一服日進二服</sent>
+<sent type="main" lang="kor" page="8b-9a" n="1">남진이어나 겨지비어나 ᄇᆞᄅᆞᆷ 마자 왼 녁 올ᄒᆞᆫ 녁을 다 몯 ᄡᅥ 거름 거로미 어려우며 말ᄉᆞ미 저주브며 입과 눈과 기울어든 삽듓 불휘 넉 랴ᇰ을 ᄯᅳ므레 ᄌᆞ마 ᄒᆞᄅᆞᆺ 밤 재요니와 바곳 불휘 넉 랴ᇰ 수레 ᄌᆞ마 ᄒᆞᄅᆞᆺ 밤 재요니와ᄅᆞᆯ 나볃나벼디 사ᄒᆞ라 브레 ᄆᆞᆯ외^야 ᄒᆞᆫᄃᆡ ᄀᆞᄂᆞ리 ᄀᆞ라 바곳 ᄌᆞ맛던 수레 진ᄀᆞᆯ으로 플 수어 환 ᄆᆡᇰᄀᆞ로ᄃᆡ 머귓 여름마곰 ᄒᆞ야 ᄒᆞᆫᄢᅴ 스믈 환곰 머고ᄃᆡ 고ᇰ심에 ᄒᆞᆫ 번 먹고 누을 제 ᄒᆞᆫ 번 머거 ᄒᆞᄅᆞ 두 번곰 머그라</sent>
+<sent type="main" lang="chi" page="9a" n="1">中風多以香油<anno>ᄎᆞᆷ기름</anno>生薑汁灌之吐即醒</sent>
+<sent type="main" lang="kor" page="9a" n="1">ᄇᆞᄅᆞᆷ 맛거든 ᄎᆞᆷ기르미어나 ᄉᆡᇰ아ᇰ즙이어나 이베 브ᅀᅥ 토ᄒᆞ면 즉재 ᄭᆡ리라</sent>
+<sent type="main" lang="chi" page="9b-10b" n="1">癱瘓中風 半身不遂 語言蹇澁 口眼喎斜 肢體麻痹 草烏頭<anno>바곳 불휘 一斤黑豆一斗同煮豆爛熟去豆不用</anno>蒼术<anno>삽듓 불휘니 비치 프러ᄒᆞ고 ᄆᆞᄃᆡ 기니 二斤泔浸去皮</anno>葱白<anno>팟 믿 ᄒᆡᆫ ᄃᆡ 三斤細切</anno>同擣爲劑焙乾爲細末好醋麫糊爲丸如桐子大每服十丸至二十丸食前溫酒下日進三服大效</sent>
+<sent type="main" lang="kor" page="9b-10b" n="1">왼 녁 올ᄒᆞᆫ 녁을 다 몯 ᄡᅳ며 ᄇᆞᄅᆞᆷ 마자 ᄒᆞᆫ 겨틀 몯 ᄡᅳ며 말ᄉᆞ미 저주브며 입과 눈과 기^울며 ᄉᆞ지와 몸과 범븨여 ᄂᆞᄆᆡ ᄉᆞᆯ ᄀᆞᆮ거든 바곳 불휘 ᄒᆞᆫ 근을 거믄 코ᇰ ᄒᆞᆫ 말와 ᄒᆞᆫᄃᆡ 글혀 코ᇰ이 므르닉거든 코ᇰ으란 앗고 삽듓 불휘 두 근을 ᄯᅳ므레 ᄌᆞ마 것 밧기고 팟 믿 ᄒᆡᆫ ᄃᆡ 세 근을 ᄀᆞᄂᆞ리 사ᄒᆞ라 ᄒᆞᆫᄃᆡ ᄯᅵ허 브레 ᄆᆞᆯ외야 ᄀᆞᄂᆞ리 ᄀᆞ라 됴ᄒᆞᆫ 초애 진ᄀᆞᆯ으로 플 수어 머귓 여름마곰 환 ᄆᆡᇰᄀᆞ라 ᄒᆞᆫᄢᅴ 열 환곰 머고ᄃᆡ 스믈 환 지히 밥 아니 머거셔 ^ ᄃᆞᄉᆞᆫ 수레 ᄒᆞᄅᆞ 세 번곰 머그면 ᄀᆞ자ᇰ 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="10b-11a" n="1">卒中風不省人事多因痰壅用白礬二錢重生硏末生薑自然汁調斡開口灌下其涎或吐或化下便醒</sent>
+<sent type="main" lang="kor" page="10b-11a" n="1">과ᄀᆞ리 ᄇᆞᄅᆞᆷ 마자 ᅀᅵᆫᄭᅴ 몯 ᄎᆞ료ᄆᆞᆫ 추미 올아 다와티ᄂᆞᆫ 다시니 ᄇᆡᆨ번 두 돈을 므그니 ᄃᆞ라 ᄀᆞ라 ᄉᆡᇰ아ᇰ 즛디허 ᄧᅩᆫ 즙에 프러 입 버리^혀고 브ᅀᅳ라 그 춤을 토커나 사가 ᄂᆞ리거나 ᄒᆞ면 곧 ᄭᆡ리라</sent>
+<sent type="main" lang="chi" page="11a-11b" n="1"><!--난상에 '怳語'라고 기입되어 있음-->中風五臟擁熱言語蹇澁手足不隨神情冒昧大膓澀滯 冬麻子<anno>돌열ᄡᅵ 半升</anno>白米<anno>三合</anno>水二升硏濾麻子取汁煮粥空心食之</sent>
+<sent type="main" lang="kor" page="11a-11b" n="1">ᄇᆞᄅᆞᆷ 마자 ᄇᆡ 안해 덥단 긔운이 ᄀᆞᄃᆞᆨᄒᆞ야 말ᄉᆞ미 저주브며 손바ᄅᆞᆯ ᄡᅳ디 몯ᄒᆞ며 ᄆᆞᅀᆞ미 아ᄃᆞᆨᄒᆞ며 대벼니 굳거든 돌열ᄡᅵ 반 ^ 되와 ᄒᆡᆫ ᄡᆞᆯ 서 홉과ᄅᆞᆯ 믈 두 되예 열ᄡᅵ ᄀᆞ라 바톤 즙으로 쥭 수어 고ᇰ심에<!--'에'의 가로획이 탈각되어 있음--> 머그라</sent>
+<sent type="main" lang="chi" page="11b-12a" n="1">中風言語蹇澁手足不隨大膓擁滯 薏苡人<anno>율믜ᄡᆞᆯ 三合</anno>冬麻子<anno>돌열ᄡᅵ 半升</anno>水三升硏濾麻子取汁用煮苡人煮粥空心食之</sent>
+<sent type="main" lang="kor" page="11b-12a" n="1">ᄇᆞᄅᆞᆷ 마자 말ᄉᆞ미 저줍고 손발 몯 ᄡᅳ며 대벼니 굳거든 율믜ᄡᆞᆯ 서 홉과 돌열ᄡᅵ 반 되ᄅᆞᆯ 믈 서 되예 ᄀᆞ라 바타 그 믈로 율믜 쥭 슈^어 고ᇰ심에 머그라</sent>
+<sent type="main" lang="chi" page="12a-12b" n="1">中風手足不隨言語蹇澁嘔吐煩燥惛憒不下 白梁米飯<anno>ᄒᆡᆫ ᄎᆞᆯ조<!--영인본상으로는 '즈'이나 탈획으로 판단됨--> 밥 半升以□水浸</anno>葛粉<anno>츩 불휘 ᄆᆞᆯ외야 ᄀᆞ론 ᄀᆞᄅᆞ 四兩</anno>漉出粟飯以葛粉拌令勻於豉汁中煮調和食之</sent>
+<sent type="main" lang="kor" page="12a-12b" n="1">ᄇᆞᄅᆞᆷ 마자 손발 몯 ᄡᅳ고 말ᄉᆞ미 저주브며 토ᄒᆞ고 답답ᄒᆞ야 어즐ᄒᆞ며 긔운이 ᄂᆞ리디 아니ᄒᆞ거든 ᄒᆡᆫ ᄎᆞᆯ조ᄡᆞᆯ 밥 반 되ᄅᆞᆯ 글힌 ^ 므레 ᄌᆞ마 둣다가 거려내야 츩 불휘 ᄆᆞᆯ외야 ᄀᆞ론 ᄀᆞᄅᆞ 넉 랴ᇰ애 섯거 고ᄅᆞ게 ᄒᆞ야 쟈ᇱ국의 글혀 머그라</sent>
+<sent type="main" lang="chi" page="12b-13a" n="1">中風筋骨風冷頑痹或多不睡 酸棗人<anno>예<!--영인본상으로는 '여'이나 탈획으로 판단됨-->초 ᄡᅵ 솝 半兩炒令黃硏末以酒三合浸汁</anno>粳米<anno>ᄒᆡᆫ ᄡᆞᆯ 三合</anno>先以粳米煮作粥臨熟下酸棗人汁更煮三五沸空心食之</sent>
+<sent type="main" lang="kor" page="12b-13a" n="1">ᄇᆞᄅᆞᆷ 마자 힘과 ᄲᅧ왜 슬혀 범븨오 ᄯᅩ ᄌᆞᆷ 자^디 몯ᄒᆞ거든 예초 ᄡᅵ 솝 반 랴ᇰ을 누르게 봇가 ᄀᆞ론 ᄀᆞᆯ을 술 서 홉애 ᄌᆞ마 즙 내야 몬져 ᄒᆡᆫ ᄡᆞᆯ 서 홉으로 쥭 수어 니거갈 저긔 그 예촛 ᄡᅵ 즙을 녀허 다시 세 소소미어나 다ᄉᆞᆺ 소소미어나 글혀 고ᇰ심에 머그라</sent>
+<sent type="main" lang="chi" page="13a-13b" n="1">中風煩熱失音頭痛頭風驚悸用淡竹葉<anno>소옴 댓닙</anno>一握煎湯服</sent>
+<sent type="main" lang="kor" page="13a-13b" n="1">ᄇᆞᄅᆞᆷ 마자 답답ᄒᆞ야 덥달며 말ᄉᆞᆷ 몯ᄒᆞ며 ^ 머리 알ᄑᆞ며 머리예 ᄇᆞᄅᆞᆷ 드러 놀라 옴ᄌᆞᆨ옴ᄌᆞᆨᄒᆞ거든 소옴 댓닙 ᄒᆞᆫ 줌 글힌 므를 머그라</sent>
+<sent type="main" lang="chi" page="13b-14a" n="1">中風有熱氣實者服之 天南星<anno>두야머주저깃 불휘 湯泡七次八錢</anno>木香<anno>一錢</anno>㕮咀分二服每服用生薑七片水一盞半煎至一盞溫服</sent>
+<sent type="main" lang="kor" page="13b-14a" n="1">ᄇᆞᄅᆞᆷ 마자 덥달오 긔운 됴ᄒᆞᆫ 사ᄅᆞᄆᆞᆯ 머교ᄃᆡ 두야머주저깃 불휘 더운 므레 닐굽 번 ^ 시소니 여듧 돈과 목햐ᇰ ᄒᆞᆫ 돈과ᄅᆞᆯ 사ᄒᆞ라 두 복애 ᄂᆞᆫ화 ᄒᆞᆫ 복애 ᄉᆡᇰ아ᇰ 닐굽 편곰 녀허 믈 ᄒᆞᆫ 되 반애 글혀 ᄒᆞᆫ 되 ᄃᆞ외어든 ᄃᆞᄉᆞ닐 머그라</sent>
+<sent type="main" lang="chi" page="14a-14b" n="1">身體角弓反張四肢不收煩亂欲死者 清酒<anno>五升</anno>鷄白矢<anno>ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ 一升</anno>搗篩合和揚之千遍乃飮之大人服一升日三少小服五合差</sent>
+<sent type="main" lang="kor" page="14a-14b" n="1">모미 두의틀오 네 활기 몯 ᄡᅳ며 답답고 어^즐ᄒᆞ야 주거가거든 ᄆᆞᆯᄀᆞᆫ 술 닷 되예 ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ ᄀᆞᆯᄒᆡ야 ᄒᆞᆫ 되ᄅᆞᆯ ᄯᅵ허 처 ᄒᆞᆫᄃᆡ 섯거 일쳔 번을 저ᅀᅥ 머교ᄃᆡ 얼운 사ᄅᆞᆷ으란 ᄒᆞᆫ 되옴 ᄒᆞᄅᆞ 세 번 머기고 져므니란 닷 홉곰 머기면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="14b-15a" n="1">中風通身冷口噤不知人者 川獨活<anno>四兩</anno>好酒<anno>一升</anno>煎至半升分溫服</sent>
+<sent type="main" lang="kor" page="14b-15a" n="1">ᄇᆞᄅᆞᆷ 마자 모미 다 ᄎᆞ고 입 마고믈오 ᅀᅵᆫᄭᅴ ^ 모ᄅᆞ거든 쳔독활 넉 랴ᇰ을 됴ᄒᆞᆫ 술 ᄒᆞᆫ 되예 글혀 반 되어든 ᄂᆞᆫ화 ᄃᆞᄉᆞ닐 머그라</sent>
+<sent type="main" lang="chi" page="15a" n="1">中風口噤不知人者 芥子<anno>계ᄌᆞ 一升</anno>酢<anno>초 三升</anno>煮取一升傅頭以布裹之日一度</sent>
+<sent type="main" lang="kor" page="15a" n="1">ᄇᆞᄅᆞᆷ 마자 입 마고믈오 ᅀᅵᆫᄭᅴ 모ᄅᆞ거든 계ᄌᆞ ᄒᆞᆫ 되ᄅᆞᆯ 초 서 되예 글혀 ᄒᆞᆫ 되 ᄃᆞ외어든 머리예 브티고 뵈로 ᄡᅡᄆᆡ요ᄃᆡ ᄒᆞᄅᆞ ᄒᆞᆫ 번곰 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="15b" n="1">豉<anno>젼국 五升</anno>呉茱萸<anno>一升</anno>以水七升煮取三升漸飮之</sent>
+<sent type="main" lang="kor" page="15b" n="1">젼국 닷 되와 오슈유 ᄒᆞᆫ 되ᄅᆞᆯ 믈 닐굽 되예 글혀 서 되 ᄃᆞ외어든 졈졈 머그라</sent>
+<sent type="main" lang="chi" page="15b" n="2">白朮<anno>삽듓 불휘 四兩</anno>以酒三升煮取一升頓服</sent>
+<sent type="main" lang="kor" page="15b" n="2">삽듓 불휘 넉 랴ᇰ을 술 서 되예 글혀 ᄒᆞᆫ 되어든 믄득 머그라</sent>
+<sent type="main" lang="chi" page="16a" n="1">服淡竹瀝<anno>소옴댓 진</anno>一升服荊瀝<anno>가ᄉᆡ나못 진</anno>一升亦可</sent>
+<sent type="main" lang="kor" page="16a" n="1">소옴댓 진 ᄒᆞᆫ 되ᄅᆞᆯ 머그라 가ᄉᆡ나못 진 ᄒᆞᆫ 되ᄅᆞᆯ 머거도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="16a-16b" n="2">中風口噤不開 獨活<anno>一兩搗碎</anno>黑豆<anno>거믄 코ᇰ 一合炒熟</anno>以酒二大盞煎至一盞三分去滓分爲三服放溫不計時候拗開口灌之</sent>
+<sent type="main" lang="kor" page="16a-16b" n="2">ᄇᆞᄅᆞᆷ 마자 입 마고믈오 버리디 몯ᄒᆞ거든 독홠 불휘 ᄒᆞᆫ 랴ᇰ ᄇᆞᅀᆞᄯᅵ흐니와 거믄 코ᇰ 두 ^ 홉 닉게 봇그니와ᄅᆞᆯ 술 두 되예<!--‘예’의 가로획이 모두 탈획되어 있음--> 글혀 ᄒᆞᆫ 되 남ᄌᆞᆨ거든 즈ᅀᅴ 앗고 세 번에 ᄂᆞᆫ화 ᄃᆞᄉᆞ닐 ᄢᅵ니 혜디 말오 이블 버리혀고 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="16b" n="1">失音 槐花<anno>회화나못 곳</anno>炒香熟三更後床上仰卧隨意服</sent>
+<sent type="main" lang="kor" page="16b" n="1">말ᄉᆞᆷ 몯ᄒᆞ거든 회홧 고ᄌᆞᆯ 구스게 니기 봇가 삼겨ᇰ 후에 펴ᇰ사ᇰ 우희 졋바뉘이고 ᄆᆞᅀᆞᆷ 조초 머기라</sent>
+<sent type="main" lang="chi" page="17a" n="1">中風失音 白殭蠶<anno>절로 주거 ᄆᆞᄅᆞᆫ ᄒᆡᆫ 누에</anno>七枚爲末酒調服</sent>
+<sent type="main" lang="kor" page="17a" n="1">ᄇᆞᄅᆞᆷ 마자 말ᄉᆞᆷ 몯ᄒᆞ거든 절로 주거 ᄆᆞᄅᆞᆫ 누에 닐굽 나ᄎᆞᆯ ᄀᆞ라 수레 프러 머기라</sent>
+<sent type="main" lang="chi" page="17a" n="2">韭菜<anno>염교</anno>搗汁服</sent>
+<sent type="main" lang="kor" page="17a" n="2">염교 ᄯᅵ허 ᄧᅩᆫ 즙을 머기라</sent>
+<sent type="main" lang="chi" page="17b" n="1">濃煮桂汁<anno>계핏 즙</anno>服一升覆取汗亦可末桂着舌下漸漸嚥汁</sent>
+<sent type="main" lang="kor" page="17b" n="1">계피 디투 글힌 믈 ᄒᆞᆫ 되ᄅᆞᆯ 먹고 두터이 더퍼 ᄯᆞᆷ 내라 ᄯᅩ 계핏 ᄀᆞᆯ을 혀 아래 녀허 졈졈 그 므를 ᄉᆞᆷᄭᅧ도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="17b" n="2">濃煮大豆汁<anno>코ᇰ 글힌 믈</anno>舎亦佳</sent>
+<sent type="main" lang="kor" page="17b" n="2">코ᇰ 디투 글힌 므를 머거도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="17b-18a" n="3">卒不得語酒五合和人乳汁<anno>사ᄅᆞᄆᆡ 졋</anno>中半分爲二服</sent>
+<sent type="main" lang="kor" page="17b-18a" n="3">과ᄀᆞ리 말ᄉᆞᆷ 몯ᄒᆞ거든 술 닷 홉을 사ᄅᆞᄆᆡ ^ 져제 섯거 ᄂᆞᆫ화 두 번에 머기라</sent>
+<sent type="main" lang="chi" page="18a" n="1">豆豉<anno>젼국</anno>煮取濃汁放溫稍稍服之立效</sent>
+<sent type="main" lang="kor" page="18a" n="1">젼국을 디투 글혀 ᄃᆞᄉᆞ닐 젹젹 머그면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="18a-18b" n="2">卒中風不語舌根強硬 陳醬<anno>무근 쟈ᇰ 五合三年者妙</anno>人乳汁<anno>사ᄅᆞᄆᆡ 졋 五合</anno>相和硏以生布絞取汁不計時候少少與服良久當語</sent>
+<sent type="main" lang="kor" page="18a-18b" n="2">과ᄀᆞ리 ᄇᆞᄅᆞᆷ 마자 말ᄉᆞᆷ 몯ᄒᆞ고 혓 불휘 굳^세어든 삼년 무근 쟈ᇰ 닷 홉<!--영인본상으로는 ‘흡’이나 탈획으로 판단됨-->을 사ᄅᆞᄆᆡ 졋 닷 홉<!--영인본상으로는 ‘흡’이나 탈획으로 판단됨-->애 ᄀᆞ라 프러 ᄉᆡᇰ뵈로 ᄧᅡ 그 즙을 ᄢᅵ니 혜디 말오 젹젹 머그면 이ᅀᅳᆨ고 말ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="19a-19b" n="1">中風失音不語煩熱頭痛 黑豆<anno>거믄 코ᇰ 二升浄淘過</anno>羌活<anno>二兩</anno>獨活<anno>二兩</anno>荊芥<anno>뎌ᇰ가 一兩</anno>擣羅爲末先以水五大梡煮黑豆令爛去豆取汁入諸藥末慢火煎十餘沸次漸入無灰酒一升煎爲膏盛於瓷器中每服不計時候以溫酒調下半匙頭</sent>
+<sent type="main" lang="kor" page="19a-19b" n="1">ᄇᆞᄅᆞᆷ 마자 말ᄉᆞᆷ 몯ᄒᆞ며 덥다라 머리 알ᄑᆞ거든 거믄 코ᇰ 두 되 조히 이로니와 가ᇰ활 두 랴ᇰ과 독<!--영인본상으로는 ‘득’이나 탈획으로 판단됨-->활 두 랴ᇰ과 뎌ᇰ가 ᄒᆞᆫ 랴ᇰ과ᄅᆞᆯ 디허 처 ᄀᆞᆯ이 ᄃᆞ외어든 몬져 믈 큰 다ᄉᆞᆺ 사발애 거믄 코ᇰ을 므르글혀 코ᇰ으란 앗고 그 므레 약 ᄀᆞ론 ᄀᆞᆯ을 녀허 ᄯᅳᆫ 브레 여라ᄆᆞᆫ 소솜 글히고 버거 졈졈 됴ᄒᆞᆫ 술 ᄒᆞᆫ 되ᄅᆞᆯ 녀코 글혀 얼^의어든 사그르세 다마 두고 머글 제 ᄢᅵ니 혜디 말오 ᄃᆞᄉᆞᆫ 수레 반 술옴 프러 머그라</sent>
+<sent type="main" lang="chi" page="19b-20a" n="1">卒患偏口喎語澁取衣中白魚<anno>옷 ᄉᆞᅀᅵ옛 반대좀</anno>摩耳下穴口向左摩右穴向右摩左穴似正即止</sent>
+<sent type="main" lang="kor" page="19b-20a" n="1">과ᄀᆞ리 입 기울오 말ᄉᆞ미 굳ᄇᆞᄅᆞ거든 옷 ᄉᆞ이예 잇ᄂᆞᆫ 반대좀을 귀 아래 오목ᄒᆞᆫ ᄃᆡ ᄡᅮ초ᄃᆡ 이비 왼 녁으로 기울어든 올ᄒᆞᆫ 녁 ^ 오목ᄒᆞᆫ ᄃᆡ ᄡᅮᆺ고 올ᄒᆞᆫ 녁으로 기울어든 왼 녁 오목ᄒᆞᆫ ᄃᆡ ᄡᅮ초ᄃᆡ 이비 펴ᇰᄒᆞᆫ ᄃᆞᆺ거든 즉재 말라</sent>
+<sent type="main" lang="chi" page="20b" n="1">口眼斜用草麻子去殼硏碎塗在手心以一盂子置在手心草麻子上用熱水貯盂中口正則急取盂子</sent>
+<sent type="main" lang="kor" page="20b" n="1">입과 눈괘 기울어든 비마ᄌᆞᄡᅵᄅᆞᆯ 거플 앗고 ᄇᆞᅀᆞᄀᆞ라 소ᇇ바다ᇰ애 ᄇᆞᄅᆞ고 위ᄌᆞᄅᆞᆯ 비마ᄌᆞᆺ 우희 바티고 더운 므ᄅᆞᆯ 그 위ᄌᆞ애 브ᅀᅥ 둣다가 입곳 펴ᇰᄒᆞ거든 ᄲᆞᆯ리 위ᄌᆞᄅᆞᆯ 아ᅀᆞ라</sent>
+<sent type="main" lang="chi" page="20b-21a" n="2">右歪塗左手心左歪塗右手心口眼纔<!--글자가 잘 보이지 않음-->正急洗去藥 或隨病處貼亦可喎</sent>
+<sent type="main" lang="kor" page="20b-21a" n="2">올ᄒᆞᆫ 녁으로 기울어든 왼 녁 소ᇇ바다ᇰ애 ᄇᆞᄅᆞ고 왼 녁으로 기울어든 올ᄒᆞᆫ 녁 소ᇇ바다ᇰ애 ᄇᆞᆯ라 입과 눈과 ᄀᆞᆺ 바ᄅᆞ거든 ᄲᆞᆯ리 약을 시서 ᄇᆞ리라 ᄯᅩ 벼ᇰᄒᆞᆫ 녀긔 브텨도 됴^ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="21a" n="1">大鱔魚<anno>큰 우ᇰ에</anno>一條以針刺頭上血左歪塗右右歪塗左□正即洗去鱔魚放之則不發</sent>
+<sent type="main" lang="kor" page="21a" n="1">큰 우ᇰ에 ᄒᆞᆫ나ᄒᆞᆯ 침으로 머리ᄅᆞᆯ ᄣᅵᆯ어 피 내야 왼 녁이 기울어든 올ᄒᆞᆫ 녁의 ᄇᆞᄅᆞ고 올ᄒᆞᆫ 녁이 기울어든 왼 녁의 ᄇᆞᆯ라 펴ᇰ커든 즉재 시서 ᄇᆞ리고 그 우ᇰ에ᄅᆞᆯ 므레 노ᄒᆞ면 벼ᇰ이 다시 나디 아니ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="21b-22a" n="1">肉桂<anno>두터운 계피 一兩半刮去麁皮擣羅爲末</anno>酒一大盞調肉桂令勻以慢火煎成膏去火良久用匙攤在一片帛上貼在腮上頻頻更用熱瓦子<anno>더운 디새</anno>熨令熱透專看正即去却桂膏患左貼右患右貼左</sent>
+<sent type="main" lang="kor" page="21b-22a" n="1">두터운 계피 ᄒᆞᆫ 랴ᇰ<!--‘ㄹ’이 거꾸로 새겨져 있음--> 반을 웃 거플 ᄀᆞᆯ가 앗고 디허 처 ᄀᆞᆯ이 ᄃᆞ외어든 술 ᄒᆞᆫ 되예 계피ᄅᆞᆯ 프러 ᄯᅳᆫ 브레 달혀 곱 ᄀᆞᆮ거든 블 믈리고 이^ᅀᅳᆨᄒᆞ야 술로 ᄯᅥ 헌것 우희 ᄇᆞᆯ라 ᄲᅡᆷ애 브티고 ᄌᆞ조 다시 더운 디새로 눌러 울호ᄃᆡ 더운 긔운이 ᄉᆞᄆᆞᆺ게 ᄒᆞ고 젼위ᄒᆞ야 보ᄃᆡ 펴ᇰ커든 즉재 아ᅀᆞ라 왼 녁으로 기울어든 올ᄒᆞᆫ 녀긔 브티고 올ᄒᆞᆫ 녁으로 기울어든 왼 녀긔 브티라</sent>
+<sent type="main" lang="chi" page="22b" n="1">中風口眼喎斜 葀蔞<anno>하ᄂᆞᆳᄃᆞ래</anno>去子皮用穰水調如稀糊入大麥麫調左喎塗右右喎塗左才正便急洗去</sent>
+<sent type="main" lang="kor" page="22b" n="1">ᄇᆞᄅᆞᆷ 마자 입과 눈과 기울어든 하ᄂᆞᆳᄃᆞ래ᄅᆞᆯ ᄡᅵ와 거플와 앗고 솝앳 거슬 므레 프로ᄃᆡ 누근 플 ᄀᆞ티 ᄒᆞ야 보릿 ᄀᆞᆯᄋᆞᆯ 드려 ᄆᆞ라 이비 왼 녁이 기울어든 올ᄒᆞᆫ 녁의 ᄇᆞᄅᆞ고 올ᄒᆞᆫ 녁이 기울어든 왼 녁의 ᄇᆞᆯ라 ᄀᆞᆺ 펴ᇰ커든 믄득 시서 ᄇᆞ리라</sent>
+<sent type="main" lang="chi" page="23a" n="1">蜘蛛子<anno>거믜</anno>摩其偏急處叩齒候正則止亦可向火摩之</sent>
+<sent type="main" lang="kor" page="23a" n="1">거믜ᄅᆞᆯ 입 기운 ᄃᆡ ᄇᆞᄅᆞ고 아라웃 니ᄅᆞᆯ 두드려 보ᄃᆡ 바ᄅᆞ거든 말라 ᄯᅩ 브레 ᄧᅬ여 ᄇᆞᆯ롬도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="23a-23b" n="2">以石灰向右即於左邊塗之向左即於右邊塗之才正如舊即須以水洗下大妙</sent>
+<sent type="main" lang="kor" page="23a-23b" n="2">셕회ᄅᆞᆯ ᄇᆞᆯ로ᄃᆡ 올ᄒᆞᆫ 녁으로 기울어든 즉재 왼 녁의 ᄇᆞᄅᆞ고 왼 녁으로 기울어든 즉^재 올ᄒᆞᆫ 녁의 ᄇᆞᆯ라 ᄀᆞᆺ 펴ᇰ호미 녜 ᄀᆞᆮ거든 즉재 믈로 시서 ᄇᆞ료미 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="23b" n="1">皂角煮成膏如前貼洗</sent>
+<sent type="main" lang="kor" page="23b" n="1">조각을 글혀 얼의어든 우희 셕회 ᄇᆞᄅᆞᄂᆞᆫ 법 ᄀᆞ티 ᄒᆞ야 브텨 둣다가 시서 ᄇᆞ리라</sent>
+<sent type="main" lang="chi" page="23b-24a" n="2">生鹿肉<anno>사ᄉᆞᄆᆡ ᄂᆞᆯ고기</anno>并生椒<anno>죠피</anno>同搗傅之右患傅左左患傅右看正即除之</sent>
+<sent type="main" lang="kor" page="23b-24a" n="2">사ᄉᆞᄆᆡ ᄂᆞᆯ고기와 ᄂᆞᆯ죠피와 ᄒᆞᆫᄃᆡ 디허 브^툐ᄃᆡ 올ᄒᆞᆫ 녁으로 기울어든 왼 녁의 브티고 왼 녁으로 기울어든 올ᄒᆞᆫ 녁의 브툐ᄃᆡ 펴ᇰ커든 즉재 아ᅀᅡ ᄇᆞ리라</sent>
+<sent type="main" lang="chi" page="24a-24b" n="1">天南星<anno>두야<!--영인본상으로는 ‘아’이나 탈획으로 판단됨-->머주저깃 불휘</anno>不以多少爲末生薑自然汁調左喎貼右右喎貼左正洗去</sent>
+<sent type="main" lang="kor" page="24a-24b" n="1">두야머주저깃 불휘 하나 져그나 ᄀᆞᆯᄋᆞᆯ<!--영인본에서는 ‘ᄆᆞᆯ’처럼 보임--> ᄆᆡᇰᄀᆞ라 ᄉᆡᇰ아ᇰ 즛디허 ᄧᅩᆫ 즙에 ᄆᆞ라 왼 녁으로 기울어든 올ᄒᆞᆫ 녁의 브티고 올ᄒᆞᆫ 녁으로 ^ 기울어든 왼 녁의 브툐ᄃᆡ 펴ᇰ커든 시서 ᄇᆞ리라<!--글자 ‘라’가 거꾸로 새겨져 있고 자형도 이상함--></sent>
+<sent type="main" lang="chi" page="24b-25a" n="1">中風面目相引口偏着耳牙車急舌不得轉獨活<anno>三兩</anno>竹瀝<anno>댓진</anno>生地黃汁<anno>各一升</anno>合煎取一升頓服之即愈</sent>
+<sent type="main" lang="kor" page="24b-25a" n="1">ᄇᆞᄅᆞᆷ 마자 ᄂᆞᆺ과 눈과 서르 혜여 이비 기우러 귀예 가며 어귀 세여 혀ᄅᆞᆯ 놀이디 몯ᄒᆞ거든 독홠 불휘 석 랴ᇰ과 댓진과 ᄉᆡᇰ디화ᇰ 즛디허 ᄧᅩᆫ 즙 각 ᄒᆞᆫ 되와ᄅᆞᆯ ᄒᆞᆫᄃᆡ 글혀 ᄒᆞᆫ 되 ᄃᆞ외어든 다 머그면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="25a-25b" n="1">牡蠣<anno>굸죠갯 거플 燒粉</anno>礬石<anno>ᄇᆡᆨ번 火煨</anno>附子 竈下黃土<anno>가마 믿 마촘 아랫 누런 ᄒᆞᆰ</anno>各等分爲末取三年雄雞冠血<anno>ᄃᆞᆰ의 머리 벼셋 피</anno>和藥傅其上持鏡候纔欲復故便急洗去之不速去便過不復還也</sent>
+<sent type="main" lang="kor" page="25a-25b" n="1">굸죠갯 거플 ᄉᆞ론 분과 ᄇᆡᆨ번 달혀 시그니와 부ᄌᆞ와 가마 믿 마촘 아랫 누런 ᄒᆞᆰ과ᄅᆞᆯ ^ ᄀᆞᆮ게 ᄂᆞᆫ화 ᄀᆞ라 삼 년 무근 수ᄃᆞᆰ의 머리 벼셋 피ᄅᆞᆯ 약애 ᄆᆞ라 그 우희 ᄇᆞᄅᆞ고 거우루 가져셔 보ᄃᆡ 져기 녜 ᄀᆞᆮ거든 ᄲᆞᆯ리 시서 ᄇᆞ리라 ᄲᆞᆯ리 시서 ᄇᆞ리디 아니ᄒᆞ면 곧 기운 녁으로 더 가 다시 펴ᇰ티 아니ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="26a" n="1">竹瀝<anno>댓진 三升</anno>防風 防已<anno>이흐름너출</anno>升麻 桂心<anno>계피 갓근 솝</anno>芎藭<anno>구ᇰ구ᇰ잇 불휘 各二兩</anno>麻黃<anno>四兩</anno>羚羊角<anno>산야ᇰ의 ᄲᅳᆯ 三兩</anno>㕮咀以水四升合竹瀝煮取一升半分三服日服一劑常用效</sent>
+<sent type="main" lang="kor" page="26a" n="1">댓진 서 되와 바ᇰ푸ᇰ과 이흐름너출와 스ᇰ맛 불휘와 계피 갓근 솝과 구ᇰ구ᇰ잇 불휘 각 두 랴ᇰ과 마화ᇰ 넉 랴ᇰ과 산야ᇰ의 ᄲᅳᆯ 석 랴ᇰ과ᄅᆞᆯ 사ᄒᆞ라 믈 넉 되예 댓진 ᄒᆞᆫ게 글혀 ᄒᆞᆫ 되 반이어든 세헤 ᄂᆞᆫ화 머고ᄃᆡ ᄒᆞᄅᆞ ᄒᆞᆫ 졔옴 머그면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="26b" n="1">靑松葉<anno>프른 솘 닙 一斤</anno>搗令汁出清酒一斗漬一宿近火一宿初服半升漸至一升頭面汁出即止</sent>
+<sent type="main" lang="kor" page="26b" n="1">프른 솘닢 ᄒᆞᆫ 근을 즛디허 ᄧᅩᆫ 즙을 ᄆᆞᆯᄀᆞᆫ 술 ᄒᆞᆫ 마래 ᄌᆞ마 ᄒᆞᄅᆞᆺ 밤 재야 븘 겨틔 노하 ᄒᆞᄅᆞᆺ 밤 디나거든 처ᅀᅥᄆᆡ 반 되ᄅᆞᆯ 먹고 졈졈 ᄒᆞᆫ 되ᄅᆞᆯ 머거 머리예와 ᄂᆞᄎᆡ ᄯᆞᆷ 나거든 즉재 말라</sent>
+<sent type="main" lang="chi" page="27a" n="1">酒煮桂<anno>계피</anno>取汁以故布榻病上正則止 左喎榻右右喎榻左 此秘方不傳余常用大效</sent>
+<sent type="main" lang="kor" page="27a" n="1">수레 계피 글힌 즙을 ᄂᆞᆯᄀᆞᆫ 헌 거싀 무텨 벼ᇰᄒᆞᆫ ᄃᆡ 브툐ᄃᆡ 펴ᇰ커든 아ᅀᆞ라 왼 녁으로 기울어든 올ᄒᆞᆫ 녁의 브티고 올ᄒᆞᆫ 녁으로 기울어든 왼 녁의 브티라 이ᄂᆞᆫ 비밀ᄒᆞᆫ 바ᇰ문이라 ᄂᆞᄆᆞᆯ 알외디 몯ᄒᆞ리니 내 샤ᇰ녜 ᄡᅥ ᄒᆞ니 ᄀᆞ자ᇰ 됴타</sent>
+<sent type="main" lang="chi" page="27b" n="1">大皂莢<anno>一兩</anno>去皮子下篩以三年大酢<anno>세 ᄒᆡ 무근 됴ᄒᆞᆫ 초</anno>和左喎塗右<!--영인본상으로는 ‘石’이나 바로잡음-->右喎塗左乾更塗之</sent>
+<sent type="main" lang="kor" page="27b" n="1">큰 조협 ᄒᆞᆫ 랴ᇰ을 거플와 ᄡᅵ 앗고 ᄀᆞ라 처 삼 년 무근 됴ᄒᆞᆫ 초애 ᄆᆞ라 왼 녁으로 기울어든 올ᄒᆞᆫ 녁의 ᄇᆞᄅᆞ고 올ᄒᆞᆫ 녁으로 기울어든 왼 녁의 ᄇᆞᆯ로ᄃᆡ ᄆᆞᄅᆞ거든 다시 ᄇᆞᄅᆞ라</sent>
+<sent type="main" lang="chi" page="27b-28a" n="2">炒大豆<anno>코ᇰ<!--영인본상으로는 ‘고ᇰ’이나 탈획으로 판단됨--> 三升</anno>令焦以酒三升淋取汁頓服亦治口噤不開</sent>
+<sent type="main" lang="kor" page="27b-28a" n="2">코ᇰ 서 되ᄅᆞᆯ 누르 봇가 술 서 되예 ᄌᆞ마 우러^난 므를 다 머그라 ᄯᅩ 입 마고믈오 버리디 몯ᄒᆞᄂᆞ니도 고티ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="28a-28b" n="1">諸藥不能瘥者枳實上青<anno>ᄐᆡᇰᄌᆞᆺ 우희 프른 거플</anno>刮取末欲至心止得茹五升微火炒去濕氣以酒一斗漬微火煖令得藥味隨性飮之主口僻眼急大驗治緩風急風並佳以治</sent>
+<sent type="main" lang="kor" page="28a-28b" n="1">녀나ᄆᆞᆫ 약으로 됴ᄒᆡ오디 몯ᄒᆞᄂᆞᆫ ᄇᆞᄅᆞᆷ 마^ᄌᆞᆫ 벼ᇰ을 ᄐᆡᇰᄌᆞᆺ 우희 프른 거플 솝 쳐ᇰ애 다ᄃᆞᆮ게 ᄀᆞᆯ고니 닷 되ᄅᆞᆯ 져고맛 브레 봇가 저즌 긔운 업거든 술 ᄒᆞᆫ 마래 ᄌᆞ마 져고맛 브레 덥게 ᄒᆞ야 마시 우러나거든 제 머글 야ᇰ으로 머그면 입 기울며 눈 기운<!--영인본상으로는 ‘은’이나 탈획으로 생각됨--> ᄃᆡ도 ᄀᆞ자ᇰ 됴ᄒᆞ며 느즌 ᄇᆞᄅᆞᆷ과 과ᄀᆞᄅᆞᆫ ᄇᆞᄅᆞᆷ 마ᄌᆞᆫ 벼ᇰ에 다 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="28b-29a" n="1">身直不得屈伸反覆者 枳樹皮<anno>ᄐᆡᇰᄌᆞ나못 거플</anno>亦得</sent>
+<sent type="main" lang="kor" page="28b-29a" n="1">ᄯᅩ 모미 고다 구브며 펴며 두위눕디 몯ᄒᆞ거든 ᄐᆡᇰᄌᆞ나못 거프ᄅᆞᆯ 이 야ᇰ^으로 ᄒᆞ야 수레 ᄌᆞ마 머거도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="29a-29b" n="1">中風手臂不仁口面喎僻 附子 桂心<anno>계피 갓근 솝 各五兩</anno>細辛 防風 人参<anno>심</anno>乾薑<anno>ᄆᆞᄅᆞ ᄉᆡᇰ아ᇰ 各六兩</anno>治下篩酒服方寸匕日三稍增之</sent>
+<sent type="main" lang="kor" page="29a-29b" n="1">ᄇᆞᄅᆞᆷ 마자 손과 ᄑᆞᆯ왜 ᄂᆞᄆᆡ ᄉᆞᆯ ᄀᆞᆮ고 입과 ᄂᆞᆺ괘 기울어든 부ᄌᆞ와 계피 갓근 솝 각 닷 랴ᇰ과 셰시ᇇ 불휘와 바ᇰ푸ᇱ 불휘와 심과 ᄆᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ 각 엿 랴ᇰ과ᄅᆞᆯ ᄀᆞ라 처 수레 ᄒᆞᆫ 술옴 프러 ^ ᄒᆞᄅᆞ 세 번곰 머고ᄃᆡ 졈졈 더 머그라</sent>
+<sent type="main" lang="chi" page="29b" n="1">暗風倒地用北細卒爲末每挑一字搐鼻中</sent>
+<sent type="main" lang="kor" page="29b" n="1">모딘 ᄇᆞᄅᆞᆷ 마자 ᄯᅡ해 업더디거든 셰신을 ᄀᆞ라 죠고매 ᄯᅥ 곳굼긔 불라</sent>
+<sent type="main" lang="chi" page="29b-30a" n="2">中風耳痛有汁熬杏仁<anno>ᄉᆞᆯ고ᄡᅵ 솝</anno>令赤黑色搗如膏緜裹塞耳中日三易之</sent>
+<sent type="main" lang="kor" page="29b-30a" n="2">ᄇᆞᄅᆞᆷ 마자 귀 알ᄑᆞ고 믈 나거든 ᄉᆞᆯ고ᄡᅵ 솝 검븕게 봇그닐 곱 ᄀᆞ티 디허 소옴애 ᄡᅡ 귀^예 고조ᄃᆡ ᄒᆞᄅᆞ 세 번곰 ᄀᆞ라 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="30a" n="1">中風白汗 石膏 甘草<anno>炙等分爲末</anno>以酒服一匕日移一丈一服忌蒜</sent>
+<sent type="main" lang="kor" page="30a" n="1">ᄇᆞᄅᆞᆷ 마자 ᄒᆡᆫ ᄯᆞᆷ 나거든 셕고와 감초 브레 ᄧᅬ니와ᄅᆞᆯ ᄀᆞᆮ게 ᄂᆞᆫ화 ᄀᆞ라 ᄀᆞᆯ이 ᄃᆞ외어든 수레 ᄒᆞᆫ 술옴 프러 먹고 약 머근 ᄉᆞᅀᅵ 오라거든 ᄯᅩ ᄒᆞᆫ 복을 머고ᄃᆡ 마ᄂᆞᆯ란 먹디 말라</sent>
+<sent type="main" lang="chi" page="30b" n="1">卒中風頭面腫杵杏仁<anno>ᄉᆞᆯ고ᄡᅵ 솝</anno>如膏傅之</sent>
+<sent type="main" lang="kor" page="30b" n="1">과ᄀᆞ리 ᄇᆞᄅᆞᆷ 마자 머리와 ᄂᆞᆺ과 븟거든 ᄉᆞᆯ고ᄡᅵᄅᆞᆯ 곱 ᄀᆞ티 디허 브티라</sent>
+<sent type="main" lang="chi" page="30b" n="2">中風無藥備用急取頂心髪<anno>뎌ᇰ바기옛 머리터리</anno>一撮毒掣之以省人事爲度</sent>
+<sent type="main" lang="kor" page="30b" n="2">ᄇᆞᄅᆞᆷ 마자 과ᄀᆞ리 ᄡᅳᆯ 약곳 업거든 ᄲᆞᆯ리 뎌ᇰ바기옛 머리터리 ᄒᆞᆫ 져봄을 ᄆᆡ이 자바 ᄃᆞᆯᄋᆡ요ᄃᆡ ᅀᅵᆫᄭᅴ ᄎᆞ리ᄃᆞ록 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="31a" n="1">灸顖會 頰車 地倉 百會 肩井 曲池 風市 足三里 絶骨 閒使 風池</sent>
+<sent type="main" lang="kor" page="31a" n="1">신회와 협거와 디차ᇰ과 ᄇᆡᆨ회와 견져ᇰ과 곡디와 푸ᇰ시와 죡참리와 졀골와 간ᄉᆞ와 푸ᇰ디와ᄅᆞᆯ ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="31a" n="2">急灸足大趾下横文隨年壯立愈</sent>
+<sent type="main" lang="kor" page="31a" n="2">ᄲᆞᆯ리 밠 엄지가락 아랫 ᄀᆞᄅᆞᆫ 금을 나 마초 ᄯᅳ면 됴ᄒᆞ리라</sent>
+<sent type="disease" lang="chi" page="31b" n="1">中寒</sent>
+<sent type="disease" lang="kor" page="31b" n="1">ᄎᆞᆫ 긔운 ᄉᆞ외 든 벼ᇰ이라</sent>
+<sent type="main" lang="chi" page="31b" n="2">宜服三因方附子理中湯和劑方附子理中圓濟生方薑附湯四逆湯二薑湯直指方不換金正氣散</sent>
+<sent type="main" lang="kor" page="31b" n="2">삼ᅀᅵᆫ바ᇰ애 부ᄌᆞ 리튜ᇰ타ᇰ 화졔바ᇰ애 부ᄌᆞ 리튜ᇰ원 졔ᄉᆡᇰ바ᇰ애 가ᇰ부타ᇰ ᄉᆞ역타ᇰ ᅀᅵ가ᇰ타ᇰ 딕지바ᇰ애 블환금져ᇰ긔산을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="32a" n="1">中寒腹痛用食鹽<anno>소곰</anno>一大把多飮水送下忽當吐即愈</sent>
+<sent type="main" lang="kor" page="32a" n="1">ᄎᆞᆫ 긔운 ᄉᆞ외 드러 ᄇᆡ 알프거든 소곰 큰 ᄒᆞᆫ 줌을 믈 조쳐 만히 머그라 믄득 토ᄒᆞ면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="32a-32b" n="2">胃寒五臟風冷心腹痛吐清水用胡椒<anno>고쵸</anno>硏酒服之亦宜湯服若冷氣吞三七粒</sent>
+<sent type="main" lang="kor" page="32a-32b" n="2">ᄇᆡ 안히 차 ᄇᆞᄅᆞᆷ ᄅᆡᇰ긔로 가ᄉᆞᆷ ᄇᆡ 알하 ᄆᆞᆯᄀᆞᆫ ^ 믈 토ᄒᆞ거든 고쵸ᄅᆞᆯ ᄀᆞ라 수레 머그라 더운 므레 머거도 됴ᄒᆞ니 그저 세닐굽 나ᄎᆞᆯ ᄉᆞᆷᄭᅧ도 됴ᄒᆞ니라</sent>
+<sent type="disease" lang="chi" page="32b" n="1">夏月熱死</sent>
+<sent type="disease" lang="kor" page="32b" n="1">녀르메 더위며여 주그니라</sent>
+<sent type="main" lang="chi" page="32b" n="2">宜服和劑方六和湯香薷湯桂苓圓</sent>
+<sent type="main" lang="kor" page="32b" n="2">화졔바ᇰ애 륙화타ᇰ 햐ᇰ유타ᇰ 계려ᇰ원을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="33a" n="1">中暑熱暍死 道上熱土<anno>길헷 더운 ᄒᆞᆰ</anno>大蒜<anno>마ᄂᆞᆯ</anno>略等多少爛硏冷水和去滓脚飮之即差</sent>
+<sent type="main" lang="kor" page="33a" n="1">더위 드려 죽ᄂᆞ닐 길헷 더운 ᄒᆞᆰ과 마ᄂᆞᆯ와ᄅᆞᆯ ᄀᆞᆮ게 ᄂᆞᆫ화 므르ᄀᆞ라 ᄎᆞᆫ 므레 프러 즈ᅀᅴ 앗고 머그면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="33a-33b" n="2">令暍人仰卧以熱土<anno>더운 ᄒᆞᆰ</anno>壅臍上令人尿之<anno>사ᄅᆞᄆᆡ 오좀</anno>臍中溫即愈</sent>
+<sent type="main" lang="kor" page="33a-33b" n="2">더위면 사ᄅᆞᆷ을 졋바누이고 더운 ᄒᆞᆰ으로 ᄇᆡ 우희 노하 우기고 사ᄅᆞᆷ으로 오좀 누어 ^ ᄇᆡᆺ복 가온ᄃᆡ 덥게 ᄒᆞ면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="33b" n="1">可飮熱湯<anno>더운 믈</anno>亦可內少乾薑<anno>ᄆᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ</anno>橘皮<anno>귨 거플</anno>甘草熬飮之稍稍咽勿頓使飽但以熱土<anno>더운 ᄒᆞᆰ</anno>及熬灰土<anno>봇근 ᄌᆡ</anno>壅臍上佳</sent>
+<sent type="main" lang="kor" page="33b" n="1">더운 믈 머곰도 됴ᄒᆞ며 ᄯᅩ 져기 ᄆᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ과 귨 거플와 감초와 녀허 글혀 젹젹 ᄉᆞᆷᄭᅧ 과ᄀᆞ리 해 머기디 말오 오직 더운 ᄒᆞᆰ과 ᄌᆡᄅᆞᆯ 봇가 ᄇᆡᆺ복 우희 우겨 두미 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="34a" n="1">濃煮蓼取汁<anno>료화 글힌 즙</anno>三升飮之即愈</sent>
+<sent type="main" lang="kor" page="34a" n="1">료<!--‘ㄹ’이 거꾸로 새겨져 있음-->화 디투 글힌 즙 서 되ᄅᆞᆯ 머그면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="34a" n="2">使人噓其心令煖易人爲之</sent>
+<sent type="main" lang="kor" page="34a" n="2">사ᄅᆞᆷ으로 가ᄉᆞᄆᆞᆯ 구러 덥게 호ᄃᆡ 사ᄅᆞᆷ을 ᄀᆞ라곰 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="34a" n="3">地黃汁一盞服之</sent>
+<sent type="main" lang="kor" page="34a" n="3">디화ᇰ 즙 ᄒᆞᆫ 잔을 머그라</sent>
+<sent type="main" lang="chi" page="34b" n="1">熱暍心悶取麫<anno>밄ᄀᆞᄅᆞ 一兩</anno>以溫水一中盞攪和服之</sent>
+<sent type="main" lang="kor" page="34b" n="1">더위며여 가ᄉᆞ미 답답ᄒᆞ거든 밄ᄀᆞᄅᆞ ᄒᆞᆫ 랴ᇰ을 ᄃᆞᄉᆞᆫ 믈 반 되예 프러 저ᅀᅥ 머그라</sent>
+<sent type="main" lang="chi" page="34b" n="2">服地漿<anno>딜ᄒᆞᆰ ᄯᅡᄒᆞᆯ ᄑᆞ고 믈 브ᅀᅥ 후ᇰ두ᇰ인 믈</anno>一盞即愈</sent>
+<sent type="main" lang="kor" page="34b" n="2">딜ᄒᆞᆰ ᄯᅡᄒᆞᆯ ᄑᆞ고 후ᇰ두ᇰ인 믈 ᄒᆞᆫ 되ᄅᆞᆯ 머그면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="35a" n="1">抱狗子<anno>가ᇰ아지</anno>若雞<anno>ᄃᆞᆰ</anno>着心上熨之</sent>
+<sent type="main" lang="kor" page="35a" n="1">가ᇰ아지어나 ᄃᆞᆰ이어나 가ᄉᆞ매 다혀 ᄃᆞ시 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="35a" n="2">凡中暑急嚼生薑一大塊冷水送下</sent>
+<sent type="main" lang="kor" page="35a" n="2">믈읫 더위 드려든 ᄉᆡᇰ아ᇰ 큰 ᄒᆞᆫ 무적을 ᄲᆞᆯ리 십고 ᄎᆞᆫ 므ᄅᆞᆯ 머그라</sent>
+<sent type="main" lang="chi" page="35a-35b" n="3">如已迷悶嚼大蒜<anno>마ᄂᆞᆯ</anno>一大辨冷水送下</sent>
+<sent type="main" lang="kor" page="35a-35b" n="3">ᄒᆞ마 어즐ᄒᆞ야 답답^ᄒᆞ거든 마ᄂᆞᆯ 큰 ᄒᆞᆫ 알ᄒᆞᆯ 십고 ᄎᆞᆫ 므ᄅᆞᆯ 머그라</sent>
+<sent type="main" lang="chi" page="35b" n="1">如不能嚼以水硏灌之立醒</sent>
+<sent type="main" lang="kor" page="35b" n="1">ᄒᆞ다가 십디 몯게 ᄃᆞ외옛거든 므레 ᄀᆞ라 브ᅀᅳ면 즉재 ᄭᆡ리라</sent>
+<sent type="main" lang="chi" page="35b" n="2">路中倉卒無水渴甚急嚼生葱<anno>ᄂᆞᆯ 파</anno>二寸許津同嚥下可抵水二升</sent>
+<sent type="main" lang="kor" page="35b" n="2">길헤 가다가 과ᄀᆞ리 믈 업고 목 ᄆᆞᄅᆞ거든 ᄲᆞᆯ리 ᄂᆞᆯ 파 두 촌만 ᄒᆞ닐 시버 춤 조쳐 ᄉᆞᆷᄭᅵ면 어루 믈 두 되 머곰만 ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="36a" n="1">中熱暍不省取生菖蒲<anno>ᄂᆞᆯ 쇼ᇰ의맛 불휘</anno>不拘多少搗絞取汁微溫一盞灌之</sent>
+<sent type="main" lang="kor" page="36a" n="1">더위며여 ᄎᆞ림 몯ᄒᆞ거든 ᄂᆞᆯ 쇼ᇰ의맛 불휘 하나 져그나 디허 ᄧᅩᆫ 즙 자ᇝ간 ᄃᆞᄉᆞ니 ᄒᆞᆫ 잔을 입에 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="36a" n="2">中熱暍死取路上熱塵土<anno>더운 몬ᄌᆡ</anno>以壅其心冷復易候氣通乃止</sent>
+<sent type="main" lang="kor" page="36a" n="2">더위며여 죽<!--영인본상으로 글자가 흐릿하게 보임-->ᄂᆞ닐 길헷 더운 몬ᄌᆡ ᄒᆞᆰ을 가ᄉᆞᆷ애 물위여 노하 식거든 ᄀᆞ라곰 ᄒᆞ야 긔운이 토ᇰ커든 말라</sent>
+<sent type="main" lang="chi" page="36b" n="1">三㑀中暑途中卒死者用車輪土<anno>술윗 바회예 무든 ᄒᆞᆰ</anno>五錢冷水調澄清服之妙</sent>
+<sent type="main" lang="kor" page="36b" n="1">삼복 ᄉᆞᅀᅵ예 더위 드려 길헤셔 믄득 죽거든 술윗 바회예 무든 ᄒᆞᆰ 닷 돈을 ᄎᆞᆫ 므레 프러 ᄆᆞᆰ안초아 머기면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="36b-37a" n="2">暑風中不發語言不省人事以蘿萄子<anno>댓무ᅀᅮ ᄡᅵ</anno>硏極細末新汲水調服大效</sent>
+<sent type="main" lang="kor" page="36b-37a" n="2">더윗 ᄇᆞᄅᆞᆷ 마자 말ᄉᆞᆷ 몯ᄒᆞ며 ᅀᅵᆫᄭᅴ ᄎᆞ리디 ^ 몯<!--영인본상으로는 ‘른’이나 오각으로 판단됨-->ᄒᆞ거든 댓무ᅀᅮ ᄡᅵᄅᆞᆯ ᄀᆞ자ᇰ ᄀᆞᄂᆞ리 ᄀᆞ라 ᄀᆞᆺ 기론 므레 프러 머그면 ᄀᆞ자ᇰ 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="37a" n="1">中熱死不可便與冷物取屋上熱瓦<anno>집 우흿 더운 디새</anno>熨心下</sent>
+<sent type="main" lang="kor" page="37a" n="1">더위 드려 죽ᄂᆞ닐 ᄎᆞᆫ 것 머교미 몯ᄒᆞ리니 집 우흿 더운 디새로 가ᄉᆞᆷ 아래 울ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="37b" n="1">中暑發昏以新汲水<anno>ᄀᆞᆺ 기론 믈</anno>滴入鼻孔用扇搧之</sent>
+<sent type="main" lang="kor" page="37b" n="1">더위 드려 어즐커든 ᄀᆞᆺ 기론 믈로 곳굼긔 처디오 부체로 부츠라</sent>
+<sent type="main" lang="chi" page="37b" n="2">重者以地漿<anno>딜ᄒᆞᆰ ᄯᅡᄒᆞᆯ ᄑᆞ고 믈 브ᅀᅥ 후ᇰ두ᇰ인 믈</anno>灌則醒與冷水飮則死</sent>
+<sent type="main" lang="kor" page="37b" n="2">듀ᇰᄒᆞ니란 딜ᄒᆞᆰ ᄯᅡᄒᆞᆯ ᄑᆞ고 믈 브ᅀᅥ 후ᇰ두ᇰ인 므를 브ᅀᅳ면 ᄭᆡ<!--영인본상으로는 ‘미’처럼 보이나 탈획으로 판단됨-->ᄂᆞ니 ᄎᆞᆫ 믈 머그면 죽ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="37b" n="3">熱暍欲死悶亂灸兩乳頭各七壯</sent>
+<sent type="main" lang="kor" page="37b" n="3">더위며여 주거가며 답답ᄒᆞ야 ᄒᆞᄂᆞ닐 두 녁 졋머리ᄅᆞᆯ 닐굽 붓곰 ᄯᅳ라</sent>
+<sent type="disease" lang="chi" page="38a" n="1">中氣</sent>
+<sent type="disease" lang="kor" page="38a" n="1">노ᄒᆞᆫ 긔운을 펴디 몯ᄒᆞ야 난 벼ᇰ이라</sent>
+<sent type="main" lang="chi" page="38a" n="2">宜服和劑方麝香蘇合圓七氣湯</sent>
+<sent type="main" lang="kor" page="38a" n="2">화졔바ᇰ애 샤햐ᇰ 소합원 칠긔타ᇰ을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="38b-39a" n="1">氣中證候者多生於驕貴之人因事激挫忿怒盛氣不得宣泄逆氣上行忽然仆倒昏迷不省人事牙闗緊急手足拘攣其狀與中風無異但口內無涎聲此證只是氣中不可妄投取涎發汗等藥而反生他病但可與七氣湯分觧其氣散其壅結其氣自止七氣湯連進效速更與蘇合香圓</sent>
+<sent type="main" lang="kor" page="38b-39a" n="1">긔<!--영인본상으로는 ‘기’이나 탈획으로 판단됨-->듀ᇰᄒᆞᆫ 즈ᇰᄋᆞᆫ 호화ᄒᆞᆫ 사ᄅᆞ미 아못 일뢰나 ᄀᆞ자ᇰ 노ᄒᆞᆫ 긔운을 펴디 몯ᄒᆞ야 믄득 업더디여 어즐ᄒᆞ야 ᅀᅵᆫᄭᅴ 몯 ᄎᆞ리고 어귀 세워드며 손바리 거두주여 그 즈ᇰ이 ᄇᆞᄅᆞᆷ 마ᄌᆞ니와 다ᄅᆞ디 아니호ᄃᆡ 오직 입 안해 춤 소^리 업스니 이 즈ᇰ에 춤 업게 ᄒᆞ며 ᄯᆞᆷ 낼 약ᄃᆞᆯᄒᆞᆯ 간대로 ᄡᅳ디 마오 오직 칠긔타ᇰ을 머겨 그 긔운을 펴게 ᄒᆞ며 ᄆᆡ친 ᄆᆞᅀᆞᄆᆞᆯ 플에 ᄒᆞ면 그 긔운이 절로 긋ᄂᆞ니 칠긔타ᇰ을 니ᇫ워 머기면 효허미 ᄲᆞᄅᆞ니 ᄯᅩ 소합원 머고미 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="39b" n="1">中氣閉目不語四肢不收昏沉等證 南木香爲末每服一錢冬瓜子煎湯<anno>도ᇰ화 ᄡᅵ 글힌 믈</anno>調下</sent>
+<sent type="main" lang="kor" page="39b" n="1">듀ᇰ긔ᄒᆞ야 눈 ᄀᆞᆷ고 말 몯ᄒᆞ고 네 활기 ᄡᅳ디 몯ᄒᆞ고 혼팀ᄒᆞᆫ 즈ᇰ에 목햐ᇰ을 ᄀᆞ라 ᄒᆞᆫ 돈곰 도ᇰ화 ᄡᅵ 글힌 므레 프러 머기라</sent>
+<sent type="main" lang="chi" page="39b-40a" n="1">中氣脉弱大叚虛怯等證 川烏<anno>生去皮臍</anno>附子<anno>生去皮臍 各半兩</anno>乾薑<anno>ᄆᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ 炮二錢</anno>青皮<anno>선 귨 거플 去穰一兩</anno>益智仁<anno>一兩</anno>剉每服三錢水二盞生薑七片棗一枚同煎至一盞去滓溫服</sent>
+<sent type="main" lang="kor" page="39b-40a" n="1">듀ᇰ긔ᄒᆞ야 ᄆᆡ기 사오나와 ᄀᆞ자ᇰ 허ᅀᅣᆨᄒᆞᆫ 즈ᇰ^ᄃᆞᆯ해 쳔오와 부ᄌᆞ와 ᄂᆞᄅᆞᆯ 거플와 브르도ᄃᆞᆫ 것 아ᅀᆞ니 각 반 랴ᇰ과 ᄆᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ 죠ᄒᆡ예<!--영인본상으로는 ‘에’이나 탈각으로 판단됨--> ᄡᅡ 믈 저져 노ᄋᆞᆯ 압 ᄌᆡ예 무더 구으니 두 돈과 선 귨 거플 솝 아ᅀᆞ니 ᄒᆞᆫ 랴ᇰ과 익디ᅀᅵᆫ ᄒᆞᆫ 랴ᇰ과ᄅᆞᆯ 사ᄒᆞ라 서 돈곰 ᄒᆞ야 믈 두 되예 ᄉᆡᇰ아ᇰ 닐굽 편과 대초 ᄒᆞᆫ 낫과 ᄒᆞᆫᄃᆡ 글효니 ᄒᆞᆫ 되 ᄃᆞ외어든 즈ᅀᅴ 앗고 ᄃᆞ시 ᄒᆞ야 머그라</sent>
+<sent type="main" lang="chi" page="40a" n="1">或入小木香</sent>
+<sent type="main" lang="kor" page="40a" n="1">ᄯᅩ 목햐ᇰ을 더 드리ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="40b-41a" n="1">白朮<anno>삽듓 불<!--영인본상으로는 ‘볼’이나 오각으로 판단됨-->휘 四兩去蘆</anno>緜附子<anno>炮去皮臍薄切片一兩半</anno>甘草<anno>炙 二兩</anno>剉散每服三錢水一盞薑十片煎取八分去滓後調蘇合香圓二粒併進二服</sent>
+<sent type="main" lang="kor" page="40b-41a" n="1">삽듓 불휘 넉 랴ᇰ 웃귿 버히니와 부ᄌᆞ 죠ᄒᆡ예 ᄡᅡ 믈 저져 노ᄋᆞᆯ 압 ᄌᆡ예 구어 것과 브르도ᄃᆞᆫ 것 앗고 엷게 사ᄒᆞ로니 ᄒᆞᆫ 랴ᇰ 반과 감초 브레 ᄧᅬ요니 두 랴ᇰ과ᄅᆞᆯ 사ᄒᆞ라 서 돈곰 ᄒᆞ야 믈 ᄒᆞᆫ 되예 ᄉᆡᇰ아ᇰ 열 편을 녀허 달효니 ^ 여듧 호비어든 즈ᅀᅴ 앗고 소합원 두 환을 프러 두 번에 니ᇫ워 머기라</sent>
+<sent type="disease" lang="chi" page="41a" n="1">五絶死<anno>卒死 自縊死 溺死 木石壓死 夜魘死</anno></sent>
+<sent type="disease" lang="kor" page="41a" n="1">다ᄉᆞᆺ 가짓 주근 사ᄅᆞ미라<anno>과ᄀᆞ리 주그니와 절로 목 ᄆᆡ야 ᄃᆞ라 주그니와 므레 드러 주그니와 나모 돌해 지즐여 주그니와 바ᄆᆡ ᄀᆞ오눌여 주그니라</anno></sent>
+<sent type="main" lang="chi" page="41b" n="1">凡心頭溫者皆可救治用半夏<anno>ᄭᅴ모롭 불휘</anno>湯泡七次爲末丸如豆大吹入鼻□噴嚏即活或用皂莢爲末吹八鼻中亦妙</sent>
+<sent type="main" lang="kor" page="41b" n="1">주근 사ᄅᆞ미 가ᄉᆞ미 ᄃᆞᆺᄒᆞ얏ᄂᆞ닌 다 사ᄅᆞᆯ 거시라 ᄭᅴ모롭 불휘ᄅᆞᆯ 더운 므레 닐굽 번 시서 ᄀᆞ라 코ᇰ만 케 비ᄇᆡ야 곳굼긔 부러 들에 ᄒᆞ라 ᄌᆞᄎᆡ욤ᄒᆞ면 즉재 살리라 ᄯᅩ 조협을 ᄀᆞ라 부러도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="42a" n="1">葱黃心<anno>팟 누른 고ᄀᆡ야ᇰ</anno>或韭黃<anno>염굣<!--영인본상으로는 ‘곳’이나 탈각으로 판단됨--> 누른 고ᄀᆡ야ᇰ</anno>男左女右刺入鼻中深四五寸令目中出血即活</sent>
+<sent type="main" lang="kor" page="42a" n="1">팟 누른 고ᄀᆡ야ᇰ이어나 염굣 누른 고ᄀᆡ야ᇰ이어나 남진ᄋᆞᆫ 왼 녁 곳구무 겨집ᄋᆞᆫ 올ᄒᆞᆫ 녁 곳굼긔 네다ᄉᆞᆺ 촌만 기피 ᄣᅵᆯ어 누네 피 나게 ᄒᆞ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="42a-42b" n="2">急於人中穴及兩脚大母指甲離甲一薤葉許各灸三五壯即活</sent>
+<sent type="main" lang="kor" page="42a-42b" n="2">ᄲᆞᆯ리 ᅀᅵᆫ듀ᇰ혈와<anno>ᅀᅵᆫ듀ᇰ혈ᄋᆞᆫ 고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡ라</anno> 두 밠 엄지가락톱 뒤흐로셔 부ᄎᆡᆺ닙 너븨만 ^ ᄒᆞᆫ ᄃᆡ 세 붓기어나 다ᄉᆞᆺ 붓기어나 ᄯᅳ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="42b" n="1">臍中灸百壯亦效</sent>
+<sent type="main" lang="kor" page="42b" n="1">ᄇᆡᆺ복 가온ᄃᆡ 일ᄇᆡᆨ 붓글 ᄯᅥ도 됴ᄒᆞ리라</sent>
+<sent type="disease" lang="chi" page="42b" n="2">卒死<anno>附中惡 客忤 尸厥 鬼擊</anno></sent>
+<sent type="disease" lang="kor" page="42b" n="2">과ᄀᆞ리 주그니라 모딘 긔운 마자 주그니와 옷긔 드니와 ᄆᆡᆨ은 잇고 긔운 업스니와 긧거싀게 티이니와 브텟ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="43a" n="1">卒死無脉牽牛臨鼻上二百息牛䑛必瘥牛不肯䑛着塩汁<anno>소곰믈</anno>塗面上牛即肯䑛</sent>
+<sent type="main" lang="kor" page="43a" n="1">과ᄀᆞ리 주거 ᄆᆡᆨ 업스닐 쇼ᄅᆞᆯ 잇거 고해 다혀 ᅀᅵᄇᆡᆨ 번을 숨 쉬울 디니 ᄉᆈ 할ᄒᆞ면 반ᄃᆞ기 됻ᄂᆞ니라 쇼옷 할티 아니커든 소곰므를 ᄂᆞᄎᆡ ᄇᆞᄅᆞ면 ᄉᆈ 할ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="43a" n="2">灸熨斗兩脇下 又治尸厥</sent>
+<sent type="main" lang="kor" page="43a" n="2">다리우리ᄅᆞᆯ 데여 두 녁 녀블 울ᄒᆞ라 ᄯᅩ ᄆᆡᆨᄋᆞᆫ 잇고 긔운 업스니도 고티ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="43b" n="1">卒死而四肢不收失便者 馬屎<anno>ᄆᆞᆯᄯᅩᇰ</anno>一升水三斗煮取二斗以洗之</sent>
+<sent type="main" lang="kor" page="43b" n="1">과ᄀᆞ리 주거 네 활기 몯 ᄡᅳ고 대<!--영인본상으로는 ‘내’이나 탈각으로 판단됨-->쇼변을 ᄡᆞ거든 ᄆᆞᆯᄯᅩᇰ ᄒᆞᆫ 되ᄅᆞᆯ 믈 서 마래 글혀 두 마리 ᄃᆞ외<!--영인본상으로는 ‘의’이나 탈각으로 판단됨-->어든 싯기라</sent>
+<sent type="main" lang="chi" page="43b" n="2">又取牛洞<anno>ᄉᆈᄯᅩᇰ</anno>一升溫酒灌口中</sent>
+<sent type="main" lang="kor" page="43b" n="2">ᄯᅩ ᄉᆈᄯᅩᇰ ᄒᆞᆫ 되ᄅᆞᆯ ᄃᆞᄉᆞᆫ 수레 프러 이베 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="43b" n="3">又牛馬屎絞取汁飮之</sent>
+<sent type="main" lang="kor" page="43b" n="3">ᄯᅩ ᄆᆞ쇼ᄯᅩᇰ을 ᄧᅡ 즙 내야 머그라</sent>
+<sent type="main" lang="chi" page="43b-44a" n="4">無新者水和乾者亦得</sent>
+<sent type="main" lang="kor" page="43b-44a" n="4">새옷 업거든 ᄆᆞᄅᆞᆫ ᄯᅩᇰ을 므레 프^러 머거도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="44a" n="1">卒死而壯熱者礬石<anno>ᄇᆡᆨ번</anno>半斤以水一斗半煮消以漬脚令沒踝</sent>
+<sent type="main" lang="kor" page="44a" n="1">과ᄀᆞ리 주거 덥달어든 ᄇᆡᆨ번 반 근을 믈 ᄒᆞᆫ 말 반애 글혀 녹거든 바ᄅᆞᆯ 저죠ᄃᆡ 밠귀머리 ᄌᆞᆷ게 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="44a" n="2">小便灌其面即能迴語</sent>
+<sent type="main" lang="kor" page="44a" n="2">오좀을 ᄂᆞᄎᆡ ᄲᅳ리면 즉재 말ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="44b" n="1">卒死 薤<anno>부ᄎᆡ</anno>搗汁灌鼻中</sent>
+<sent type="main" lang="kor" page="44b" n="1">과ᄀᆞ리 죽거든 부ᄎᆡ 즛두드려 ᄧᅩᆫ 즙을 곳굼긔 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="44b" n="2">雄雞冠<anno>수ᄃᆞᆰ의 볏</anno>割取血管<anno>대로ᇰ</anno>吹內鼻中</sent>
+<sent type="main" lang="kor" page="44b" n="2">수ᄃᆞᆰ의 벼셋 피ᄅᆞᆯ 대로ᇰ애 녀허 곳굼긔 부러 드리라</sent>
+<sent type="main" lang="chi" page="44b" n="3">又雞肝及血塗面上以灰圍四方立起</sent>
+<sent type="main" lang="kor" page="44b" n="3">ᄯᅩ ᄃᆞᆰ의 간과 피ᄅᆞᆯ ᄂᆞᄎᆡ ᄇᆞᄅᆞ고 ᄌᆡᄅᆞᆯ ᄀᆞᅀᆡ 휫두로 ᄭᆞ라 두면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="45a" n="1">大豆<anno>코ᇰ</anno>二七粒以雞子白<anno>ᄃᆞᆯᄀᆡ 알 솝앳 ᄒᆡᆫ 믈</anno>并酒和盡以吞之</sent>
+<sent type="main" lang="kor" page="45a" n="1">코ᇰ 두닐굽 나ᄎᆞᆯ ᄃᆞᆯᄀᆡ 알 솝앳 ᄒᆡᆫ 믈와 술와 ᄒᆞᆫᄃᆡ 프러 다<!--영인본상으로는 ‘디’이나 탈획으로 판단됨--> ᄉᆞᆷᄭᅵ라</sent>
+<sent type="main" lang="chi" page="45a-45b" n="2">卒死中惡及尸厥以緜漬好酒手挼汁令入鼻中并持其手足莫令驚動</sent>
+<sent type="main" lang="kor" page="45a-45b" n="2">과ᄀᆞ리 주그니와 모딘 긔운 마ᄌᆞ니와 ᄆᆡᆨ은 잇고 긔운이 업스닐 소옴으로 됴ᄒᆞᆫ 수^ᄅᆞᆯ 저져 소ᄂᆞ로 즙을 ᄧᅡ 곳굼긔 들에 ᄒᆞ고 손바ᄅᆞᆯ 자바 놀라디 아니케 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="45b" n="1">中惡暴死 菖蒲<anno>쇼ᇰ의맛 불휘 二兩</anno>搗細羅爲散取半錢着舌底</sent>
+<sent type="main" lang="kor" page="45b" n="1">모딘 긔운 마자 과ᄀᆞ리 죽거든 쇼ᇰ의맛 불휘 두 랴ᇰ을 디허 ᄀᆞᄂᆞ리 처 반 돈을 혓 미ᄐᆡ 녀흐라</sent>
+<sent type="main" lang="chi" page="45b-46a" n="2">又吹入兩鼻孔中及下部中更吹入兩耳內即活矣</sent>
+<sent type="main" lang="kor" page="45b-46a" n="2">ᄯᅩ 두 곳구무와 하ᇰ문에 부러 녀코 ^ 다시 두 귓굼긔 부러 드리면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="46a" n="1">捧兩手莫放須臾即活</sent>
+<sent type="main" lang="kor" page="46a" n="1">두 소ᄂᆞᆯ 받드러 노티 말면 이ᅀᅳᆨ고 즉재 살리라</sent>
+<sent type="main" lang="chi" page="46a" n="2">握兩大拇指令固即活</sent>
+<sent type="main" lang="kor" page="46a" n="2">두 녁 엄지밠가락을 구디 주여시면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="46b" n="1">竹管<anno>대로ᇰ</anno>吹下部數人更互吹之氣滿即活</sent>
+<sent type="main" lang="kor" page="46b" n="1">대로ᇰ<!--영인본상으로는 ‘르ᇰ’이나 탈각으로 판단됨-->을 하ᇰ문에 다히고 두ᅀᅥ 사ᄅᆞ미 서르 ᄀᆞ람 부러 긔운이 ᄀᆞᄃᆞ기 들면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="46b" n="2">竹管<anno>대로ᇰ</anno>令人更互吹兩耳中不過良久即活</sent>
+<sent type="main" lang="kor" page="46b" n="2">대로ᇰ을 두 녁 귓굼긔 다히고 사ᄅᆞᆷ으로 서르 ᄀᆞ람 불면 이ᅀᅳᆨᄒᆞ야 살리라</sent>
+<sent type="main" lang="chi" page="47a" n="1">酒磨桂心<anno>계피 갓근 솝</anno>灌之即活</sent>
+<sent type="main" lang="kor" page="47a" n="1">수레 계피 갓근 솝을 ᄀᆞ라 이베 브ᅀᅳ면 살리라</sent>
+<sent type="main" lang="chi" page="47a" n="2">硏麝香一錢醋和灌之即活</sent>
+<sent type="main" lang="kor" page="47a" n="2">샤햐ᇰ ᄒᆞᆫ 돈을 초애 섯거 이베 브ᅀᅳ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="47a" n="3">床下土<anno>펴ᇰ사ᇰ 아랫 ᄒᆞᆰ</anno>小便硏灌之瀝入口鼻即活</sent>
+<sent type="main" lang="kor" page="47a" n="3">펴ᇰ사ᇰ 아랫 ᄒᆞᆰ을 오좀애 ᄀᆞ라 이베와 곳굼긔 브ᅀᅳ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="47b" n="1">中惡證候視其上脣裏弦者有白如黍米大以針决去之</sent>
+<sent type="main" lang="kor" page="47b" n="1">모딘 긔운 마ᄌᆞᆫ 즈ᇰ에 웃 입시울 안ᄒᆞᆯ 보ᄃᆡ ᄒᆡᆫ 거시 기자ᇰᄡᆞᆯ만 ᄀᆞᄐᆞ니 잇거든 침으로 ᄯᅡ ᄇᆞ리라</sent>
+<sent type="main" lang="chi" page="47b" n="2">半夏末<anno>ᄭᅴ모롭 불휘 ᄀᆞ론 ᄀᆞᄅᆞ</anno>如豆大吹鼻中</sent>
+<sent type="main" lang="kor" page="47b" n="2">ᄭᅴ모롭 불휘 ᄀᆞ론 ᄀᆞᄅᆞ 코ᇰ 낫만 ᄒᆞ닐 곳굼긔 불라</sent>
+<sent type="main" lang="chi" page="48a" n="1">中惡 葱心黃<anno>팟 누런 고ᄀᆡ야ᇰ</anno>刺鼻孔中男左女右血出愈</sent>
+<sent type="main" lang="kor" page="48a" n="1">모딘 긔운 마ᄌᆞ닐 팟 누런 고ᄀᆡ야ᇰ으로 남진ᄋᆞᆫ 왼 녁 곳구모 겨집ᄋᆞᆫ 올ᄒᆞᆫ 녁 곳굼긔 ᄯᅵᆯ어 피 나면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="48a" n="2">便人尿其面上可愈</sent>
+<sent type="main" lang="kor" page="48a" n="2">사ᄅᆞᆷ으로 제 ᄂᆞᄎᆡ 오좀 누면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="48a" n="3">或用小便灌其面</sent>
+<sent type="main" lang="kor" page="48a" n="3">ᄯᅩ 오좀을 ᄂᆞᄎᆡ 저지라</sent>
+<sent type="main" lang="chi" page="48b" n="1">中惡心痛欲絶 釜底墨<anno>가마 미틧 거믜여ᇰ 半兩</anno>鹽<anno>소곰 一錢</anno>和硏以熱水一盞調頓服之</sent>
+<sent type="main" lang="kor" page="48b" n="1">모딘 긔운 마자 가ᄉᆞᆷ 알파 죽ᄂᆞ닐 가마 미틧 거믜여ᇰ 반 랴ᇰ과 소곰 ᄒᆞᆫ 돈을 섯거 ᄀᆞ라 더운 믈 ᄒᆞᆫ 되예 프러 믄득 머그라</sent>
+<sent type="main" lang="chi" page="48b-49a" n="1">中惡氣絶以上好未砂細硏於舌上書鬼字又額上亦書之此法極效</sent>
+<sent type="main" lang="kor" page="48b-49a" n="1">모딘 긔운 마자 긔우니 긋거든 ᄀᆞ자ᇰ 됴ᄒᆞᆫ ^ 쥬사ᄅᆞᆯ ᄀᆞᄂᆞ리 ᄀᆞ라 혀 우희 귓것 귀 ᄍᆞᄅᆞᆯ 스고 ᄯᅩ 니마해도 스라 이 법이 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="49a-49b" n="1">暴心痛面無顔色欲死者以布裹塩<anno>소곰</anno>如彈丸大燒令赤置酒中消服之利即愈</sent>
+<sent type="main" lang="kor" page="49a-49b" n="1">과ᄀᆞ리 가ᄉᆞᆷ 알하 ᄂᆞᆺ비치 다ᄅᆞ고 주거 가거든 뵈예 소곰 탄ᄌᆞ만 ᄒᆞ닐 ᄡᅡ 브레 구어 븕거든 수레 녀허 노겨 먹고 즈츼면 즉재 ^ 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="49b" n="1">中惡心痛 桑上鵲巢土<anno>ᄲᅩᇰ남긧 가ᄎᆡ 지뷧 ᄒᆞᆰ</anno>爲末酒服已死者內鼻孔</sent>
+<sent type="main" lang="kor" page="49b" n="1">모딘 긔운 마자 가ᄉᆞᆷ 알커든 ᄲᅩᇰ남긧 가ᄎᆡ 지븻 ᄒᆞᆰ을 ᄀᆞ라 수레 머그라 ᄒᆞ마 주그니란 곳굼긔 녀흐라</sent>
+<sent type="main" lang="chi" page="49b-50a" n="2">中惡灸胃管五十壯愈</sent>
+<sent type="main" lang="kor" page="49b-50a" n="2">모딘 긔운 마ᄌᆞ닐 위관혈 쉰 붓글 ᄯᅳ면 됴^ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="50a" n="1">又灸足兩大[足+母]趾上甲役聚毛中各十四壯不愈再灸十四壯</sent>
+<sent type="main" lang="kor" page="50a" n="1">두 발 엄지가락톱 뒤 털 난 ᄯᅡᄒᆞᆯ 열네 붓곰 ᄯᅮᄃᆡ 됴티 아니커든 다시 열네 붓글 ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="50a-50b" n="2">中惡客忤卒死者用皂角末吹鼻或硏韭汁<anno>염굣 즙</anno>灌耳中以艾灸臍中百壯</sent>
+<sent type="main" lang="kor" page="50a-50b" n="2">모딘 긔운 마자 옷긔 드러 믄득 죽거든 조^각 ᄀᆞ론 ᄀᆞᆯ을 곳굼긔 불며 ᄯᅩ 염굣 즙을 귓굼긔 븟고 ᄡᅮ그로 ᄇᆡᆺ복을 일ᄇᆡᆨ 붓만 ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="50b" n="1">麝和一錢硏和醋二合服之</sent>
+<sent type="main" lang="kor" page="50b" n="1">샤햐ᇰ ᄒᆞᆫ 돈을 ᄀᆞ라 초 두 홉애 ᄆᆞ라 머기면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="51a" n="1">客忤者中惡之類也令人心腹絞痛脹滿氣衝心胸不即治殺人</sent>
+<sent type="main" lang="kor" page="51a" n="1">옷긔 드닌 모딘 긔운 마ᄌᆞ니와 ᄒᆞᆫ가지니 사ᄅᆞ미 가ᄉᆞᆷ ᄇᆡ 알ᄑᆞ며 탸ᇰ만ᄒᆞ야 긔운이 가ᄉᆞ매 다와티ᄂᆞ니 즉재 고티디 아니ᄒᆞ면 사ᄅᆞᄆᆞᆯ 주기ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="51a" n="2">細辛 桂末<anno>계핏 ᄀᆞᄅᆞ</anno>等分內口中</sent>
+<sent type="main" lang="kor" page="51a" n="2">셰시ᇇ 불휘와 계핏 ᄀᆞᆯ을 ᄀᆞᆮ게 ᄂᆞᆫ화 입 안해 녀흐라</sent>
+<sent type="main" lang="chi" page="51b" n="1">卒忤 塩<anno>소곰</anno>八合以水三升煮取一升半分二服得吐即愈</sent>
+<sent type="main" lang="kor" page="51b" n="1">믄득 옷긔 드닐 소곰 여듧 홉을 믈 서 되예 글혀 ᄒᆞᆫ 되 반이어든 두 번에 ᄂᆞᆫ화 머거 토ᄒᆞ면 즉재 됻ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="51b" n="2">若小便不通筆頭七枚燒作灰末水和服之即通</sent>
+<sent type="main" lang="kor" page="51b" n="2">ᄒᆞ다가 쇼변이 토ᇰ티 아니커든 붇머리 닐굽을 ᄉᆞ라 ᄀᆞᆯ을 ᄆᆡᇰᄀᆞ라 므레 프러 머그면 즉재 토ᇰᄒᆞᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="51b-52a" n="1">卒客忤不能言 桔梗末<anno>도랏 ᄀᆞ론 ᄀᆞᄅᆞ</anno>一兩麝香末一分更硏令勻每服二錢以溫水調下</sent>
+<sent type="main" lang="kor" page="51b-52a" n="1">믄득 옷긔 드러 말 몯ᄒᆞ거든 도랏 ᄀᆞ론 ᄀᆞ^ᄅᆞ ᄒᆞᆫ 랴ᇰ과 샤 ᄀᆞᄅᆞ 두 돈 반을 다시 ᄀᆞ라 고ᄅᆞ게 ᄒᆞ야 두 돈곰 ᄃᆞᄉᆞᆫ 므레 프러 머그라</sent>
+<sent type="main" lang="chi" page="52a" n="1">卒忤灸人中三壯又灸肩井百壯又灸閒使七壯又灸巨闕百壯</sent>
+<sent type="main" lang="kor" page="52a" n="1">믄득 옷긔 드닐 ᅀᅵᆫ듀ᇰ혈 세 붓글 ᄯᅳ고 ᄯᅩ 견져ᇰ혈 일ᄇᆡᆨ 붓글 ᄯᅳ고 ᄯᅩ 간ᄉᆞ혈 닐굽 붓글 ᄯᅳ고 ᄯᅩ 거궐혈 일ᄇᆡᆨ 붓글 ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="52b-53b" n="1">尸厥其證奄然死去四肢逆冷不省人事腹中氣走如雷鳴 焰焇<anno>염소 半兩</anno>硫<anno>셔류화ᇰ 一兩</anno>細硏如粉分作三服每服用好舊酒一大盞煎覺焰起傾於盞內盖着溫灌與服如人行五里又進一服不過二服即醒兼灸頭上百會穴四十九壯兼臍下氣海丹田三百壯覺身體溫暖即止</sent>
+<sent type="main" lang="kor" page="52b-53b" n="1">ᄆᆡᆨᄋᆞᆫ 잇고 긔운 업서 믄득 주거 네 활기 ᄎᆞ^고 ᅀᅵᆫᄭᅴ ᄎᆞ리디 몯ᄒᆞ고 ᄇᆡ 안히 우르거든 염소 반 랴ᇰ과 셔류화ᇰ ᄒᆞᆫ 랴ᇰ을 ᄀᆞᄂᆞ리 분 ᄀᆞ티 ᄀᆞ라 세 복애 ᄂᆞᆫ화 ᄒᆞᆫ 복곰 됴ᄒᆞᆫ 무근 술 ᄒᆞᆫ 되예 글혀 븘 고지 니러 니거든 그르세 브ᅀᅥ 더퍼 두고 ᄃᆞᄉᆞ닐 이베 브ᅀᅥ 머기고 사ᄅᆞ미 오 리예 갈 만ᄒᆞ야 ᄯᅩ ᄒᆞᆫ 복을 머기면 두 복애 넘디 아니ᄒᆞ야셔 즉재 ᄭᆡᄂᆞ니 머릿 ᄇᆡᆨ호혈ᄋᆞᆯ 마ᅀᆞᆫ 아홉 붓글 ᄯᅳ고 ᄇᆡᆺ복 ^ 아래 긔ᄒᆡ혈와 단뎐혈와 삼ᄇᆡᆨ 붓글 ᄯᅥ 모미 덥거든 말라</sent><!--'즉재'의 ‘ㅈ’이 탈획되어 있음. '아홉'의 '홉'은 영인본상으로는 ‘흡’으로 보임-->
+<sent type="main" lang="chi" page="53b-54a" n="1">附子重七錢許炮熟去皮臍爲末分作二服每服用酒三盞煎至一盞溫服</sent>
+<sent type="main" lang="kor" page="53b-54a" n="1">부ᄌᆞ 므긔 닐굽 돈만 ᄒᆞ닐 죠ᄒᆡ예 ᄡᅡ 믈 저져 브레 구어 거플와 브르도ᄃᆞᆫ 것 앗고 ᄀᆞᄂᆞ리 ᄀᆞ라 ᄂᆞᆫ화 두 복애 ᄆᆡᇰᄀᆞ라 ᄒᆞᆫ 복애 술 서 되로 글혀 ᄒᆞᆫ 되 ᄃᆞ외어든 ᄃᆞ시 ᄒᆞ야 머^기라</sent>
+<sent type="main" lang="chi" page="54a" n="1">生薑自然汁半盞酒一盞煎百沸併灌二服</sent>
+<sent type="main" lang="kor" page="54a" n="1">ᄉᆡᇰ아ᇰ 즙 닷 홉을 술 ᄒᆞᆫ 되ᄅᆞᆯ 글혀 일ᄇᆡᆨ 소솜 글커든 조쳐 브ᅀᅥ 두 번에 머기라</sent>
+<sent type="main" lang="chi" page="54a-54b" n="2">尸厥脉動而無氣氣閉不通剔取左角髪<anno>왼 녁 귀 미틧 터리</anno>方寸燒末酒和灌令入喉立起</sent>
+<sent type="main" lang="kor" page="54a-54b" n="2">믄득 주거 ᄆᆡᆨᄋᆞᆫ 잇고 긔운이 업스며 긔우니 마가 토ᇰ티 아니커든 왼녁 귀미틧 머리^터리 ᄒᆞᆫ 져봄만 뷔여 브레 ᄉᆞ라 수레 프러 이베 브ᅀᅥ 목의 들에 ᄒᆞ면 즉재 닐니라</sent>
+<sent type="main" lang="chi" page="54b" n="1">熨其兩脇下取竈中墨<anno>가마 미틧 거믜여ᇰ</anno>如彈丸□水<anno>ᄡᆞᆯ 글힌 믈</anno>和飮之須臾三四</sent>
+<sent type="main" lang="kor" page="54b" n="1">두 녁 녑을 울ᄒᆞ고 가마 미틧 거믜여ᇰ 탄ᄌᆞ만 ᄒᆞ닐 ᄡᆞᆯ 글힌 므레 프러 머교ᄃᆡ 아니한 ᄉᆞᅀᅵ예 서너 번 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="55a-55b" n="1">灸鼻入中七壯又灸隂囊下去下部一寸百壯若婦人灸兩乳中閒又去爪刺人中良久又針人中至齒立起</sent>
+<sent type="main" lang="kor" page="55a-55b" n="1">고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡᆯ 닐굽 붓글 ᄯᅳ고 ᄯᅩ 음나ᇰ 아래 하ᇰ문으로셔 ᄒᆞᆫ 촌만 일ᄇᆡᆨ 붓글 ᄯᅳ라 ᄒᆞ다가 겨지비어든 두 졋 가온ᄃᆡᆯ ᄯᅳ라 ᄯᅩ 고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡ 소ᇇ톱으로 오래 ᄣᅵᆯ어시며 ᄯᅩ 고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡ 침 호ᄃᆡ 니예 다ᄃᆞᆮ게 ^ᄒᆞ면 즉재 닐리라</sent>
+<sent type="main" lang="chi" page="55b" n="1">鬼神所擊諸術不治取白犬血<anno>ᄒᆡᆫ 가ᄒᆡ 피</anno>一合熱飮之</sent>
+<sent type="main" lang="kor" page="55b" n="1">귓거싀게 티여 여러 가지로 고티디 몯ᄒᆞ거든 ᄒᆡᆫ 가ᄒᆡ 피 ᄒᆞᆫ 홉을 더우닐 머그라</sent>
+<sent type="main" lang="chi" page="56a" n="1">割雞冠血<anno>ᄃᆞᆰ의 벼셋 피</anno>以瀝口中令入咽內仍破此鷄以搨心下冷乃棄之於道邊得烏鷄可矣</sent>
+<sent type="main" lang="kor" page="56a" n="1">ᄃᆞᆰ의 벼셋 피ᄅᆞᆯ 이베 츳들여 목 안해 들에 ᄒᆞ고 그 ᄃᆞᆰ을 ᄩᅡ 헤텨 가ᄉᆞᆷ애 다텨 둣다가 ᄎᆞ거든 긼 ᄀᆞᅀᅢ ᄇᆞ리라 오계ᄃᆞᆯ기면 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="56a" n="2">艾<anno>디ᄒᆞᆫ ᄡᅮᆨ</anno>如雞子大三枚以水五升煮取二升頓服</sent>
+<sent type="main" lang="kor" page="56a" n="2">디ᄒᆞᆫ ᄡᅮᆨ ᄃᆞᆰ의 알만 무ᇰ긔니 세흘 믈 닷 되예 글혀 두 되만 커든 믄득 머그라</sent>
+<sent type="main" lang="chi" page="56b" n="1">卒得鬼擊之病無漸卒着如人刃刺狀胸脇腹內絞急切痛不可抑按或即吐血或鼻中出血或下血以醇酒<anno>됴ᄒᆞᆫ 술</anno>吹內兩鼻中</sent>
+<sent type="main" lang="kor" page="56b-57a" n="1">믄득 귓것 티인 벼ᇰ을 어더 졈졈 알히디 아니ᄒᆞ야 믄득 어두미 갈ᄒᆞ로 디ᄅᆞᄂᆞᆫ ᄃᆞᆺᄒᆞ야 가ᄉᆞᆷ과 녑과 ᄇᆡ 안히 ᄀᆞ자ᇰ 알파 ᄆᆞᆫ지디 몯ᄒᆞ며 시혹 피ᄅᆞᆯ 토ᄒᆞ며 시혹 고해 피 내며 시혹 아래로 피 나ᄂᆞ닐 됴ᄒᆞᆫ 수ᄅᆞᆯ 두 곳^굼긔 부러 녀흐라</sent>
+<sent type="main" lang="chi" page="57a" n="1">鼠屎<anno>쥐ᄯᅩᇰ</anno>末服如黍米不能飮之以少水和納喉中</sent>
+<sent type="main" lang="kor" page="57a" n="1">쥐ᄯᅩᇰ을 ᄇᆞᅀᅡ 기자ᇰᄡᆞᆯ만 머고ᄃᆡ 먹디 몯ᄒᆞ거든 므를 져기 ᄒᆞ야 프러 목의 녀흐라</sent>
+<sent type="main" lang="chi" page="57b" n="1">卒中鬼擊及刀兵所傷血滿膓中不出煩悶欲死 雄黃<anno>셕우화ᇰ</anno>一兩細硏如粉以溫酒調一分服日三服血化爲水</sent>
+<sent type="main" lang="kor" page="57b" n="1">귓거싀게 믄득 티이며 갈잠개예 허러 피 ᄇᆡ 안해 ᄀᆞᄃᆞᆨᄒᆞ야 나디 몯ᄒᆞ야 답ᄭᅡ와 죽ᄂᆞ닐 셕우화ᇰ ᄒᆞᆫ 랴ᇰ을 ᄀᆞᄂᆞ리 분 ᄀᆞ티 ᄀᆞ라 ᄃᆞᄉᆞᆫ 수레 두 돈 반을 프러 ᄒᆞᄅᆞ 세 번곰 머그면 피므리 ᄃᆞ외ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="58a" n="1">鬼擊 雞屎白<anno>ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ 如棗大</anno>青花痳<anno>삼</anno> 一把以酒七升煮取三升熱服須臾發汗若不汗熨斗盛火灸兩脇下使熱汗出愈</sent>
+<sent type="main" lang="kor" page="58a" n="1">귓거싀게 티이닐 ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ 대초만 ᄒᆞ니와 삼 ᄒᆞᆫ 줌과ᄅᆞᆯ 술 닐굽 되예 글혀 서 되만 커든 더우닐 머그면 아니ᄒᆞᆫ ᄉᆞᅀᅵ예 ᄯᆞᆷ 나ᄂᆞ니 ᄒᆞ다가 ᄯᆞᆷ 나디 아니커든 다리우리예 블 다마 두 녁 녑을 ᄧᅬ야 덥게 ᄒᆞ야 ᄯᆞᆷ 나면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="58b" n="1">鬼擊灸臍上一寸七壯及兩踵白肉際取瘥又灸臍下一寸三壯</sent>
+<sent type="main" lang="kor" page="58b" n="1">귓거싀게 티이닐 ᄇᆡᆺ복 우희 ᄒᆞᆫ 촌만 닐굽 붓글 ᄯᅳ고 두 녁 밠 귀머리 ᄒᆡᆫ ᄉᆞᆳᄀᆞᅀᆞᆯ ᄯᅳ면 됴ᄒᆞ리라 ᄯᅩ ᄇᆡᆺ복 아래 ᄒᆞᆫ 촌만 세 붓글 ᄯᅳ라</sent>
+<sent type="disease" lang="chi" page="58b" n="2">自縊死</sent>
+<sent type="disease" lang="kor" page="58b" n="2">절로 목 ᄆᆡ야 ᄃᆞ라 주그니라</sent>
+<sent type="main" lang="chi" page="59b-61a" n="1">須安定心神抱起緩緩解下用膝頭或手厚裹衣抵定糞門切勿割斷繩抱下安被卧之刺雞冠血<anno>ᄃᆞᆯᄀᆡ 벼셋 피</anno>滴入口中男雌女雄一人以脚踏其兩肩以手少挽其頂髪常常緊勿放之一人以手揉其項撚正喉嚨按據胸上數數動之一人坐於脚後用脚裹㡳抵住糞門勿令洩氣即死仍摩捋臂腿屈伸之若已彊漸漸強屈之并按其腹雖氣従口出呼吸開眼猶引按莫置亦苦勞之用蘆管<anno>ᄀᆞᆳ대</anno>四筒取梁上塵<anno>집보 우흿 듣글</anno>如豆大入管中却將蘆管置死, 人兩耳兩鼻用四人各執一筒用力吹入耳鼻待其氣轉但心下溫無不活者頻以薑湯<anno>ᄉᆡᇰ아ᇰ 글힌 믈</anno>或桂湯<anno>계피 글힌 믈</anno>及粥飮舍與之潤其喉嚨</sent>
+<sent type="main" lang="kor" page="59b-61a" n="1">모로매 ᄆᆞᅀᆞᄆᆞᆯ 편안히 ᄒᆞ야 아나 니ᄅᆞ와다 날혹ᄌᆞᄂᆞ기 글어 ᄂᆞ리와 무로피어나 소니어나 오ᄉᆞ로 두터이 ᄡᅡ 미틔 다왇고 자ᇝ간도 노ᄒᆞᆯ 긋디 말오 아나 ᄂᆞ리와 니블 더퍼 뉘이고 ᄃᆞᆰ의 머리 벼셋 피ᄅᆞᆯ 이베 처디요ᄃᆡ 남지니어든 암ᄐᆞᆰ 겨지비어든 수ᄐᆞᆰ으로 ᄒᆞ라 ᄒᆞᆫ 사ᄅᆞᄆᆞᆫ 발로 주근 사ᄅᆞᄆᆡ 두 엇게ᄅᆞᆯ 드듸오 소ᄂᆞ로 그 뎌ᇰ바기옛 머리터럭을 ᄃᆡᆫᄌᆞ기 자바 노티 말오 ᄒᆞᆫ 사ᄅᆞᄆᆞᆫ 소ᄂᆞ로 목을 쥐믈어 목 ᄆᆞᄃᆡᆺ ᄲᅧᄅᆞᆯ ᄡᅮ처 바ᄅᆞ게 ᄒᆞ고 가ᄉᆞᄆᆞᆯ 눌러 ᄌᆞ로 움즈기고 ᄒᆞᆫ 사ᄅᆞᄆᆞᆫ 발 뒤헤 안자셔 오ᄉᆞ로 바ᄅᆞᆯ ᄡᅡ 미틔 다와다 긔우니 나디 아니케 ᄒᆞ라 긔^운 곳 나면 즉재 주그리라 ᄯᅩ ᄑᆞᆯ와 구브를 ᄡᅮ츠며 굽힐훠 보라 ᄒᆞ다가 다 주거 세웓거든 졈졈 구피며 ᄇᆡ 조쳐 누르라 비록 이브로 숨 쉬며 누ᄂᆞᆯ ᄠᅥ도 혀 힐후고 눌로ᄆᆞᆯ 마디 말며 ᄯᅩ 해 ᄀᆞᆺ브게 말오 ᄀᆞᆳ대 네헤 집보 우흿 듣글 코ᇰ만치ᄅᆞᆯ 녀코 주근 사ᄅᆞᄆᆡ 두 귀와 두 곳굼긔 ᄀᆞᆳ대ᄅᆞᆯ 다히고 네 사ᄅᆞ미 저여곰 자바 힘ᄡᅥ 부러 귀예와 고해 들^에 ᄒᆞ야 긔우니 토ᇰ호ᄆᆞᆯ 기드리라 가ᄉᆞᆷ곳 ᄃᆞᄉᆞ면 아니 살 리 업스리니 ᄌᆞᄅᆞᆫ ᄉᆡᇰ아ᇰ 글힌 므리어나 계피 글힌 므리어나 쥭므리어나 머구머 머겨 모기 젓게 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="61a-61b" n="1">以物塞兩耳竹筒<anno>대로ᇰ</anno>納口中使兩人痛吹之塞口傍無令氣得出半日死人即噫噫即勿吹也</sent>
+<sent type="main" lang="kor" page="61a-61b" n="1">아못 거소뢰나 두 귀ᄅᆞᆯ 막고 대로ᇰ을 이베^ 녀허 두 사ᄅᆞ미 ᄆᆡ이 부로ᄃᆡ 입 ᄀᆞᅀᆞᆯ 마가 긔우니 나디 몯게 ᄒᆞ라 반 날 주것던 사ᄅᆞ미 곧 숨 쉬리니 숨 쉬어든 부디 말라</sent>
+<sent type="main" lang="chi" page="61b" n="1">雞血<anno>ᄃᆞᆰ의 피</anno>塗喉下</sent>
+<sent type="main" lang="kor" page="61b" n="1">ᄃᆞᆰ의 피ᄅᆞᆯ 목 아래 ᄇᆞᄅᆞ라</sent>
+<sent type="main" lang="chi" page="61b-62a" n="1">雞屎白<anno>ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ</anno>如棗大酒半盞和灌口鼻中佳</sent>
+<sent type="main" lang="kor" page="61b-62a" n="1">ᄃᆞᆰ의 ᄯᅩᇰ ᄒᆡᆫ ᄃᆡ 대초만 ᄒᆞ닐 술 반 잔애 프러 ^이베와 곳굼긔 브ᅀᅩ미 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="62a" n="1">藍青<anno>족닙</anno>汁灌之立活</sent>
+<sent type="main" lang="kor" page="62a" n="1">족닙 ᄀᆞ론 므를 이베 브ᅀᅳ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="62a" n="2">搗皂莢 細辛屑如豆大吹兩鼻中</sent>
+<sent type="main" lang="kor" page="62a" n="2">조협과 셰시ᇇ 불휘와 디흔 ᄀᆞᄅᆞ 코ᇰ만 ᄒᆞ닐 두 곳굼긔 불라</sent>
+<sent type="main" lang="chi" page="62b" n="1">尿<anno>오좀</anno>鼻口眼耳中并捉頭髪一撮如筆管大製之立活</sent>
+<sent type="main" lang="kor" page="62b" n="1">고콰 입과 눈과 귀예 다 오좀 누고 머리터럭 ᄒᆞᆫ 져봄 붇 ᄌᆞᄅᆞ만 ᄒᆞ닐 자바ᄃᆞᇰᄀᆡ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="62b" n="2">緊用兩手掩其口勿令透氣兩時氣急即活</sent>
+<sent type="main" lang="kor" page="62b" n="2">ᄆᆡ이 두 소ᄂᆞ로 그 입을 마가 긔운이 ᄉᆞᄆᆞᆺ디 아니케 ᄒᆞ라 두 시극만 ᄒᆞ야 귀우니 붑^바티면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="63a" n="1">所縊繩<anno>목 ᄆᆡ엿던 노</anno>燒三指撮白湯<anno>더운 믈</anno>調服之</sent>
+<sent type="main" lang="kor" page="63a" n="1">목 ᄆᆡ엿던 노 ᄉᆞ로니 세 소ᇇ가락으로 지보니ᄅᆞᆯ 더운 므레 프러 머기라</sent>
+<sent type="main" lang="chi" page="63a" n="2">灸四肢大節陷 大指本文名曰地袖 各七壯</sent>
+<sent type="main" lang="kor" page="63a" n="2">네 활기 큰 ᄆᆞᄃᆡᆺ 오목ᄒᆞᆫ ᄃᆡ와 엄지가락 미틧 금을 일후ᄆᆞᆯ 디ᄉᆔ라 ᄒᆞᄂᆞ니 각 닐굽 붓글 ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="63b" n="1">即於鼻下人中穴針灸遂活</sent>
+<sent type="main" lang="kor" page="63b" n="1">고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡ 침 주고 ᄯᅳ면 살리라</sent>
+<sent type="disease" lang="chi" page="63b" n="2">溺死</sent>
+<sent type="disease" lang="kor" page="63b" n="2">므레 드러 주그니라</sent>
+<sent type="main" lang="chi" page="64b-66b" n="1">溺水死者 其證氣絶身冷手足強直心頭煖 溫者可救 冷者不可活矣 盖腹中元氣爲水所併上下闗格氣不能通急於避風處 屈病人兩脚置生人肩上 更迭令有力之人背負病人 復以手執兩脚令頭垂下徐徐行動 令二人更迭灸手摩病人腹脇使水從口中出將盡 急將病人仰臥卧煖處用紙堆塞鼻孔用緜衾包頭面身體手足令周遍次用二寸長小竹舌<anno>대로ᇰ</anno>三莖挿入病人口中及兩耳仍用緜衣塞口耳四圍却令壯年男子數人更迭口噙竹管呵吐生氣令煖氣入腹中 與病人元氣交接半日 久候氣透則自然活矣 尤須尖削小竹管納穀道中令人更迭以熱手按腹令水從大小便出 若天寒多用緜絮於中蒸熱包裹病人從頭至胸腹及足冷則易之令煖氣內外透徹即活此法活人甚多眞能起死回生也</sent>
+<sent type="main" lang="kor" page="64b-66b" n="1">므레 드러 주근 사ᄅᆞ미 긔운이 그처 모미 ᄎᆞ고 손바리 세웓고 가ᄉᆞ미 ᄃᆞᄉᆞ닌 어루 사ᄅᆞ려니와 ᄎᆞ닌 사ᄅᆞ디 몯ᄒᆞ리라 ᄇᆡ옛 ^ 긔우니 므ᄅᆡ게 자펴 아라우히 막딜여 긔우니 수이 토ᇰ티 몯ᄒᆞ거든 ᄲᆞᆯ리 ᄇᆞᄅᆞᆷ 업슨 ᄃᆡ 가 벼ᇰᅀᅵᆫ의 두 허튀ᄅᆞᆯ 구펴 산 사ᄅᆞᄆᆡ 엇게 우희 여ᇇ고 힘센 사ᄅᆞᄆᆞ로 ᄀᆞ라곰 드ᇰ의 벼ᇰᄒᆞ닐 업고 다시 소ᄂᆞ로 두 바ᄅᆞᆯ 자바 머리ᄅᆞᆯ 드라디게 ᄒᆞ야 날혹ᄌᆞᄂᆞ기 움즈겨 ᄃᆞᆫ뇨ᄃᆡ 두 사ᄅᆞ미 ᄀᆞ라곰 소ᄂᆞᆯ ᄧᅬ야 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆡ ᄇᆡ와 녑과ᄅᆞᆯ ᄆᆞᆫ져 므리 이브로 다 ^ 나거든 ᄲᆞᆯ리 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆞᆯ 더브러다가 더운 ᄯᅡ해 졋바뉘이고 죠ᄒᆡᄅᆞᆯ 물위여 곳굼글 막고 핟니블로 머리와 ᄂᆞᆺ과 몸과 손바ᄅᆞᆯ 휫두로 ᄡᆞ고 버거 두  기리만 ᄒᆞᆫ 져고맛 대로ᇰ 세ᄒᆞᆯ 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆡ 입과 두 귀예 다히고 핟오ᄉᆞ로 입과 귀와 휫두로 막고 ᄯᅩ 센 남진 두 사ᄅᆞ미 서르 ᄀᆞ라곰 이베 대로ᇰ을 므러 산 긔운을 구러 더운 긔우니 ᄇᆡ예 ^ 드러 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆡ 긔운과 서르 븓ᄃᆞᆮ게 ᄒᆞ요ᄆᆞᆯ 반 날만 ᄒᆞ야 긔우니 ᄉᆞᄆᆞ초ᄆᆞᆯ 기드리면 ᄌᆞᅀᅧᆫ히 살리니 모로매 져근 대로ᇰ을 ᄲᅩ로디 갓가 하ᇰ문애 녀코 사ᄅᆞᄆᆡ 서르 ᄀᆞ람 더운 소ᄂᆞ로 ᄇᆡᄅᆞᆯ 눌러 므리 큰 ᄆᆞᆯ 져근 ᄆᆞᆯ 보ᄂᆞᆫ ᄃᆡ로 조차 나게 ᄒᆞ라 ᄒᆞ다가 치운 시져리어든 소옴을 만히 실의 ᄠᅧ 덥게 ᄒᆞ야 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆡ 머리로셔 가ᄉᆞᆷ ᄇᆡ와 밠 ᄀᆞ^자ᇰ ᄡᅩᄃᆡ ᄎᆞ거든 ᄀᆞ라곰 ᄒᆞ야 더운 긔우니 안팟긔 ᄉᆞᄆᆞᄎᆞ면 즉재 살리니 이 법은 사ᄅᆞᆷ 살오미 ᄀᆞ자ᇰ 하니 진실로 주그닐 니ᄅᆞ와다 도로 살리라</sent>
+<sent type="main" lang="chi" page="67a-68a" n="1">救男女墮水中者 以常用薦席卷之就平地上轉 一二百轉則水出自活 亦有用陳壁土<anno>오란 ᄇᆞᄅᆞᆷ앳 ᄒᆞᆰ</anno>末覆之死者 更以爐中煖灰<anno>화로앳 더운 ᄌᆡ</anno>覆臍上下則元氣回自活 省後當服利水之藥 如和劑方五苓散犬附湯不換金正氣散 得效方異功五積散 直指方除濕湯 若欲兼服安心神收歛神氣之藥 宜服和劑方蘇合香圓 在人斟酌輕重冷熱而投之</sent>
+<sent type="main" lang="kor" page="67a-68a" n="1">남진이어나 겨지비어나 므레 디닐 살오ᄃᆡ 샤ᇰ녜 ᄡᅳᄂᆞᆫ 딥지즑에 ᄆᆞ라 펴ᇰᄒᆞᆫ ᄯᅡ해다가 그우료ᄃᆡ 일ᅀᅵᄇᆡᆨ 번을 구우리면 므리 나 ᄌᆞᅀᅧᆫ히 살리라 ᄯᅩ ᄇᆞ^ᄅᆞᆷ앳 오란 ᄒᆞᆰ을 ᄇᆞᅀᅡ ᄀᆞᆯ이 ᄃᆞ외어든 주근 사ᄅᆞᄆᆞᆯ 덥고 다시 화로앳 더운 ᄌᆡᄅᆞᆯ ᄇᆡᆺ복 아라우희 더프면 긔우니 도라와 ᄌᆞᅀᅧᆫ히 살리니 ᄭᆡᆫ 후에 믈 즈츼여 ᄇᆞ릴 약을 머글 디니 화졔바ᇰ애 오려ᇰ산과 튤부타ᇰ과 블환금져ᇰ긔산과 득효바ᇰ애 이고ᇰ오젹산과 딕지바ᇰ애 뎨습타ᇰ ᄀᆞᄐᆞ닐 ᄒᆞ라 ᄆᆞᅀᆞᆷ 편안ᄒᆞ며 긔운 뫼홀 약을 조쳐 먹고져 ᄒᆞ린댄 소합햐ᇰ원 머고미 맛^다ᇰ커니와 사ᄅᆞ미 그 벼ᇰ즈ᇰ의 겨ᇰᄒᆞ며 듀ᇰᄒᆞ며 ᄅᆡᇰᄒᆞ며 ᅀᅧᆯ호ᄆᆞᆯ 짐쟉ᄒᆞ야 ᄡᅳ라</sent>
+<sent type="main" lang="chi" page="68b-69b" n="1">先刀開溺者口横放箸一隻令其牙銜之使可出水 或覆或瓮立甑以溺者腹肚覆其上令頭垂出水 如無甑瓮横腹圓木上亦可 水出後令徤夫屈死人兩足着肩上以背相貼倒䭾之而行令出血水盡仍 先打壁土<anno>ᄇᆞᄅᆞᆷ앳 ᄒᆞᆰ</anno>一堵置地上以死者仰卧其上更以壁土覆之止露口眼自然水氣翕入土中其人遂甦仍急用竹管<anno>대로ᇰ</anno>各於口耳鼻臍糞門內更迭吹之令上下氣相通</sent>
+<sent type="main" lang="kor" page="68b-69b" n="1">몬져 갈ᄒᆞ로 므레 주근 사ᄅᆞᄆᆡ 이블 버리혀고 져 ᄒᆞᆫ 가락을 빗긔 노하 제 니예 믈여 믈 나게 ᄒᆞ며 ᄯᅩ 독을 업거나 실을 셰어나 ᄒᆞ야 주근 사ᄅᆞᄆᆡ ᄇᆡᄅᆞᆯ 그 우희 업텨 머리ᄅᆞᆯ 드리워 므리 나게 ᄒᆞ라 ᄒᆞ다가 시르와 ^ 독이 업거든 ᄇᆡᄅᆞᆯ 두려운 나모 우희 걸툠도 됴ᄒᆞ니 믈 난 후에 힘센 사ᄅᆞᆷ으로 주근 사ᄅᆞᄆᆡ 두 바ᄅᆞᆯ 구펴 엇게예 연저 두ᇰ을 서르 브텨 갓고로 지여ᄃᆞᆫ녀 피와 믈와 다 나게 ᄒᆞ고 몬져 ᄇᆞᄅᆞᆷ앳 ᄒᆞᆰ ᄒᆞᆫ ᄀᆞᆲ을 브ᅀᅳ텨 ᄯᅡ해 ᄭᆞᆯ오 주근 사ᄅᆞᄆᆞᆯ 그 우희 졋바뉘이고 다시 ᄇᆞᄅᆞᆷ앳 ᄒᆞᆰ으로 더포ᄃᆡ 입과 눈과 만나게 ᄒᆞ면 ᄌᆞᅀᅧᆫ히 믌 긔운이 ᄒᆞᆰ의 ᄲᅮᆷ겨드^러 그 주근 사ᄅᆞ미 ᄭᆡ<!--영인본상으로 ‘ᄭᅵ’이나 탈획으로 판단됨-->어든 ᄲᆞᆯ리 대로ᇰ으로 입과 귀와 고콰 ᄇᆡᆺ복과 하ᇰ문과애 다히고 서르 ᄀᆞ람 부러 아라우ᄒᆞ로 긔우니 토ᇰ케 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="69b-70a" n="1">溺水死已經半日 取大壅覆地以溺死人腹伏甕上 以微火於甕下燃之正對死人心下 須臾甕煖口中水出盡即甦 勿令過熱</sent>
+<sent type="main" lang="kor" page="69b-70a" n="1">므레 주근 사ᄅᆞ미 반 날만 디나 니어든 큰 ^ 독을 ᄯᅡ해 업고 그 주근 사ᄅᆞᄆᆡ ᄇᆡᄅᆞᆯ 독 우희 업더이고 져고매 브를 독 안해 퓌워 주근 사ᄅᆞᄆᆡ 가ᄉᆞᄆᆞᆯ 바ᄅᆞ 다히면 아니한 ᄉᆞᅀᅵ예 도기 더워 이브로 므리 다 나면 즉재 ᄭᆡ리니 너무 덥게 말라</sent>
+<sent type="main" lang="chi" page="70a-70b" n="1">埋溺人暖灰中頭足俱沒唯開七孔水出即活</sent>
+<sent type="main" lang="kor" page="70a-70b" n="1">므레 ᄲᅡ딘 사ᄅᆞᄆᆞᆯ 더운 ᄌᆡ예 무두ᄃᆡ 머리^와 발왜 다 들에 ᄒᆞ고 오직 눈과 고콰 귀와 입과ᄅᆞᆯ 여러 두어 므리 나면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="70b-71a" n="1">溺水心頭尚溫先用人包定令頭微仰用口於鼻中吸出黃水却先用緜絮熰其下體及陰囊處即活 如無緜絮可用灰數十籮通體埋盖只留面在外令頭仰亦可活</sent>
+<sent type="main" lang="kor" page="70b-71a" n="1">므레 주근 사ᄅᆞ미 가ᄉᆞ미 ᄃᆞᄉᆞ거든 몬져 사ᄅᆞᄆᆞ로 아나 머리ᄅᆞᆯ 져기 울월에 ᄒᆞ고 ^ 이브로 주근 사ᄅᆞᄆᆡ 고ᄒᆞᆯ ᄲᆞ라 누른 므를 내오 ᄯᅩ 소옴으로 허리 아래와 음나ᇰ을 ᄡᅡ 덥게 ᄒᆞ면 즉재 살리라 ᄒᆞ다가 소옴곳 업거든 ᄌᆡ 스므 나ᄆᆞᆫ 키로 모ᄆᆞᆯ 다 무도ᄃᆡ ᄂᆞᆺ만 밧긔 나게 ᄒᆞ고 머리ᄅᆞᆯ 울월에 ᄒᆞ야도 어로 살리라</sent>
+<sent type="main" lang="chi" page="71b-72a" n="1">凡有人溺水者救上岸即將牛一頭却令溺水之人將肚横覆相抵在牛背上兩邊用人扶策徐徐牽牛而行以出腹內之水如醒即以蘇合香圓之類或老生薑擦其齒 若無牛以活人於長板凳上仰卧却令溺水人如前法將肚相抵活人身聽其水出即活</sent>
+<sent type="main" lang="kor" page="71b-72a" n="1">므레 주근 사ᄅᆞ미 잇거든 살오ᄃᆡ 두던에 올이고 쇼 ᄒᆞᆫ나ᄒᆞᆯ 가져다가 그 주근 사ᄅᆞᄆᆡ ᄇᆡᄅᆞᆯ ᄉᆈ 드ᇰ의 서르 다혀 걸티고 두 ᄀᆞᅀᅢ 사ᄅᆞᄆᆞ로 븓드러 날혹ᄌᆞᄂᆞ기 쇼ᄅᆞᆯ 잇거^ᄃᆞᆫ 녀ᄇᆡ 안햇 므리 나게 ᄒᆞ고 ᄭᆡᆫ ᄃᆞᆺ거든 즉재 소합햐ᇰ원류엣 약이어나 ᄯᅩ 무근 ᄉᆡᇰ아ᇰ을 니예 ᄡᅮ츠라 ᄒᆞ다가 ᄉᆈ 업거든 산 사ᄅᆞᄆᆞᆯ 댜ᇰ사ᇰ 우희 올여 졋바뉘이고 ᄯᅩ 므레 주근 사ᄅᆞᄆᆞᆯ 몬져 ᄒᆞ던 야ᇰ으로 ᄇᆡᄅᆞᆯ 산 사ᄅᆞᄆᆡ 모매 서르 브텨 다혀 그 므리 나게 ᄒᆞ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="72b-73a" n="1">竈中灰布地令厚五寸以甑側着灰上令死者伏於甑上使頭少垂下抄塩二方寸匕納竹管中吹下孔中即當吐水水下因去甑下死者着灰中壅身使出鼻口即活</sent>
+<sent type="main" lang="kor" page="72b-73a" n="1">브ᅀᅥ긧 ᄌᆡᄅᆞᆯ ᄯᅡ해 반 잣 둗긔만 ᄭᆞᆯ오 ᄭᅩᆯ을 ᄌᆡ 우희 기우리혀 노코 주근 사ᄅᆞᄆᆞᆯ 시르 우희 업데요ᄃᆡ 머리ᄅᆞᆯ 져기 드리디게 ᄒᆞ고 소곰 두 술만 ᄯᅥ 대로ᇰ애 녀허 하ᇰ문에 녀코 불면 즉재 므를 토ᄒᆞ리니 믈옷 토ᄒᆞ야^ᄃᆞᆫ 실을 앗고 주근 사ᄅᆞᄆᆞᆯ ᄂᆞ리와 ᄌᆡ예 두고 모ᄆᆞᆯ 무도ᄃᆡ 고콰 입과 나게 ᄒᆞ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="73b-74a" n="1">瓮傾之以死人着瓮上令口臨瓮口燃蘆火七枚於瓮中當死人心下即烟出小入死人口鼻中口鼻水出盡即活更益二七爲之取活常以手候瓮勿令甚熱 若卒無瓮者可就岸即穿地形如竈燒之</sent>
+<sent type="main" lang="kor" page="73b-74a" n="1">독을 기우리혀고 므레 주근 사ᄅᆞᄆᆞᆯ 독 우희 두ᄃᆡ 이비 독 부리예 다케 ᄒᆞ고 ᄀᆞᆯ 닐굽 나ᄎᆞ로 독 안해 블 디더 주근 사ᄅᆞᄆᆡ ᄆᆞᅀᆞᆷ ᄧᅩᆨ 아래 맛게 ᄒᆞ야 ᄂᆡ 나 주근 사ᄅᆞᄆᆡ 입과 고해 져기 들에 ᄒᆞ야 입과 고콰로 므리 다 나면 즉재 살리니 다시 ᄀᆞᆯ 두닐굽을 더 디더 살에 호ᄃᆡ ᄆᆡ야ᇰ 소ᄂᆞ로 독을 ᄆᆞᆫ져 ᄉᆞ외 덥디 아니케 ᄒᆞ라 ᄒᆞ다가 과ᄀᆞ리 독이 업^거든 두던에 가 ᄯᅡᄒᆞᆯ 파 브ᅀᅥᆨᄀᆞ티 ᄒᆞ야 ᄀᆞᆯ로 블 디더 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="74a" n="1">半夏<anno>ᄭᅴ모롭 불휘</anno>末少許搐其鼻如略活用清粥飮灌之</sent>
+<sent type="main" lang="kor" page="74a" n="1">ᄭᅴ모롭 불휘ᄅᆞᆯ ᄀᆞ라 져기 곳굼긔 부러 져기 산 ᄃᆞᆺ거든 ᄆᆞᆯᄀᆞᆫ 쥭므를<!--영인본상으로 ‘롤’이나 오각으로 판단됨--> 이베 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="74b" n="1">不蛙皂角爲細末以葱白汁<anno>팟 믿 ᄒᆡᆫ ᄃᆡᆺ 즙</anno>或棗穰<anno>대촛 ᄉᆞᆯ</anno>和丸如棗核大內下部中其水自出效</sent>
+<sent type="main" lang="kor" page="74b" n="1">좀 아니 머근 조각을 ᄀᆞᄂᆞ리 ᄀᆞ라 팟 믿 ᄒᆡᆫ ᄃᆡ로 ᄧᅩᆫ 즈비어나 대초 ᄠᅧ 걸온 즙에 나 ᄆᆞ라 대초ᄡᅵ마곰 환 ᄆᆡᇰᄀᆞ라 하ᇰ문에 녀흐면 그 므리 절로 나 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="74b-75a" n="2">酒壜<anno>술 담ᄂᆞᆫ 딜그릇</anno>一箇以紙錢一把燒放壜中及以壜口覆溺水人面上或臍上冷則再燒紙錢於壜內覆面上去水即活</sent>
+<sent type="main" lang="kor" page="74b-75a" n="2">술 담ᄂᆞᆫ 딜그릇 ᄒᆞᆫ나ᄒᆡ 죠ᄒᆡ젼 ᄒᆞᆫ 줌을 그 ^ 그릇 안해 ᄉᆞᆯ라 ᄲᆞᆯ리 그릇 부리ᄅᆞᆯ 므레 주근 사ᄅᆞᄆᆡ ᄂᆞᆺ과 ᄇᆡ예 업프라 그르시 ᄎᆞ거든 다시 죠ᄒᆡ젼을 그 그릇 안해 ᄉᆞ라 ᄂᆞᄎᆡ 더퍼 믈옷 업스면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="75a-75b" n="1">熬沙覆死人 上下有沙但出鼻口耳沙冷濕徹即易</sent>
+<sent type="main" lang="kor" page="75a-75b" n="1">몰애ᄅᆞᆯ 봇가 므레 주근 사ᄅᆞᄆᆞᆯ 더퍼 아라우희 몰애ᄅᆞᆯ 두ᄃᆡ 고콰 입과 귀와 나게 ᄒᆞ^라 몰애옷 ᄎᆞ고 젓거든 즉재 ᄀᆞ라곰 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="75b" n="1">掘地作坑灰數斛熬納坑中下死人覆灰濕徹即易勿令大熬煿人灰冷更易半日即活</sent>
+<sent type="main" lang="kor" page="75b" n="1">ᄯᅡᄒᆞᆯ 파 굳 ᄆᆡᇰᄀᆞᆯ오 ᄌᆡ 두ᅀᅥ 셤을 봇가 구데 녀코 주근 사ᄅᆞᄆᆞᆯ ᄂᆞ리와 ᄌᆡ로 더퍼 ᄉᆞᄆᆞᆺ 젓거든 즉재 ᄀᆞ라곰 ᄒᆞ야 너무 더워 사ᄅᆞ미 데디 아니케 호ᄃᆡ ᄌᆡ옷 ᄎᆞ거든 다시 ᄀᆞᆯ라 반 날만 ᄒᆞ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="76a" n="1">石灰緜裹納下部中 水出盡則活</sent>
+<sent type="main" lang="kor" page="76a" n="1">셕회ᄅᆞᆯ 소옴애 ᄡᅡ 하ᇰ문에 녀허 므리 다 나면 살리라</sent>
+<sent type="main" lang="chi" page="76a" n="2">松子油<anno>잣기름</anno>一盞入口中即活</sent>
+<sent type="main" lang="kor" page="76a" n="2">잣기름 ᄒᆞᆫ 잔을 이베 녀흐면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="76a-76b" n="3">急解去死人衣帶灸臍中即活 令兩人以筆管<anno>붇ᄌᆞᄅᆞᆺ 대</anno>吹其耳中</sent>
+<sent type="main" lang="kor" page="76a-76b" n="3">므레 주근 사ᄅᆞᄆᆞᆯ ᄲᆞᆯ리 옷 밧기고 ᄇᆡᆺ복 가^온ᄃᆡᆯ ᄯᅳ면 즉재 살리니 두 사ᄅᆞ미 붇ᄌᆞᄅᆞᆺ 대로 므레 주근 사ᄅᆞᄆᆡ 귓굼긔 다히고 불라</sent>
+<sent type="main" lang="chi" page="76b-77a" n="1">冬月落水微有氣者以大器炒灰熨心上候熳氣通溫尿粥稍稍吞之即活 便將火久即死</sent>
+<sent type="main" lang="kor" page="76b-77a" n="1">겨ᅀᆞ래 므레 디여 자ᇝ간 긔운 잇ᄂᆞᆫ 사ᄅᆞᄆᆞᆯ 큰 그르세 ᄌᆡᄅᆞᆯ 봇가 ᄆᆞᅀᆞᆷ ᄧᅩᆨ을 울ᄒᆞ야 더^운 긔우니 토ᇰ호ᄆᆞᆯ 기들워 ᄃᆞᄉᆞᆫ 오좀매 쥭을 젹젹 머기면 즉재 살려니와 가그기 브레 ᄧᅬ면 즉재 주그리라</sent>
+<sent type="main" lang="chi" page="77a-77b" n="1">急於人中穴及兩脚大母趾內離甲一韭葉許各灸三五壯即活</sent>
+<sent type="main" lang="kor" page="77a-77b" n="1">ᄲᆞᆯ리 고 아래 입시울 우희 오목ᄒᆞᆫ ᄃᆡ와 두 발 엄지가락톱 안 녁 ᄀᆞᅀᆞ로 ᄒᆞᆫ 염굣닙 너븨만 ᄠᅴ워 두 녁을 세 붓기어나 다ᄉᆞᆺ 붓기^어나 ᄯᅳ면 즉재 살리라</sent>
+<sent type="disease" lang="chi" page="77b" n="1">木石壓死</sent>
+<sent type="disease" lang="kor" page="77b" n="1">나모 돌해 지즐여 주그니라</sent>
+<sent type="main" lang="chi" page="77b" n="2">宜服和劑方牛黃淸心圓 衞生寳鑑傷元活血湯</sent>
+<sent type="main" lang="kor" page="77b" n="2">화졔바ᇰ애 우화ᇰ쳐ᇰ심원 위ᄉᆡᇰ보감애 샤ᇰ원활혈타ᇰ을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="78a-78b" n="1">從高墜下及木石所壓一切傷損血瘀痛用大黃一兩酒蒸杏仁<anno>ᄉᆞᆯ고ᄡᅵ 솝</anno>三七粒去皮尖硏細酒一梡煎六分去滓雞鳴時服至曉取下瘀血 若傷重覺氣絶不能言取藥不及急擘開口熱小便<anno>오좀</anno>灌之</sent>
+<sent type="main" lang="kor" page="78a-78b" n="1">노ᄑᆞᆫ ᄃᆡ셔 ᄂᆞ려디거나 나모 돌해 지즐여 ᄒᆞᆫᄀᆞᆯᄋᆞ티 샤ᇰᄒᆞ야 피 안ᄒᆞ로 디여 얼의여 알ᄑᆞ거든 대화ᇰ ᄒᆞᆫ 랴ᇰ을 수레 ᄌᆞ마 뒷다가 ᄠᅵ고 ᄉᆞᆯ고ᄡᅵ 솝 세 닐굽 나ᄎᆞᆯ 거플와 부리 앗고 ᄀᆞᄂᆞ리 ᄀᆞ라 술 ᄒᆞᆫ 사발애 달혀 반 남^ᄌᆞᆨ거든 즈ᅀᅴ 앗고 ᄃᆞᆰ 울 ᄣᅢ예 머기면 새배만 얼읜 피 나리라 ᄒᆞ다가 ᄀᆞ자ᇰ 샤ᇰᄒᆞ야 긔우니 그처 말 몯ᄒᆞᄂᆞᆫ 주ᄅᆞᆯ 믄득 아라 약곳 몯 미처 ᄒᆞᆯ 야ᇰ이어든 ᄲᆞᆯ리 입을 버ᇰ으리왇고 더운 오좀을 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="79a-79b" n="1">被壓笮舟舩車轢馬踏牛觸胸腹破陷四肢摧折氣悶欲絶烏雞一隻合毛杵一千二百下好苦酒<anno>됴ᄒᆞᆫ 초</anno>一升相和得所以新布搨患處取藥塗布上乾即易覺寒搌欲吐不輒去藥須臾復上一雞少則再作</sent>
+<sent type="main" lang="kor" page="79a-79b" n="1">지즐이며 ᄇᆡ와 술위예 ᄭᅴ이며 ᄆᆞᆯ게 ᄇᆞᆯ이며 ᄉᆈ게 ᄣᅵᆯ여 가ᄉᆞᆷ ᄇᆡ ᄒᆞ야디며 네 활기 것거디여 긔우니 답답ᄒᆞ야 주거가거든 오계 ᄒᆞᆫ나ᄒᆞᆯ 짓 조쳐 일쳔 ᅀᅵᄇᆡᆨ 번을 디코 됴ᄒᆞᆫ 초 ᄒᆞᆫ 되와 섯거 고ᄅᆞ게 ᄒᆞ고 새 뵈로 알ᄑᆞᆫ ᄯᅡ해 펴 노코 약을 뵈 우희 ᄇᆞᆯ로ᄃᆡ ᄆᆞᄅᆞ^거든 즉재 ᄀᆞ람ᄒᆞ라 치워 너터러 토코져 호ᄆᆞᆯ 그치디 아니커든 약을 앗고 아니ᄒᆞᆫ ᄉᆞᅀᅵ예 다시 연조ᄃᆡ ᄒᆞᆫ ᄃᆞᆰ곳 젹거든 다시 ᄆᆡᇰᄀᆞᆯ라</sent>
+<sent type="main" lang="chi" page="79b-80a" n="1">腦骨破及骨折 葱白<anno>팟 믿 ᄒᆡᆫ ᄃᆡ</anno>細硏舌蜜<anno>ᄢᅮᆯ</anno>厚封損處立差</sent>
+<sent type="main" lang="kor" page="79b-80a" n="1">머리ᄲᅧ ᄒᆞ야디니와 ᄲᅧ 것그닐 팟 믿 ᄒᆡᆫ ᄃᆡᄅᆞᆯ ᄀᆞᄂᆞ리 ᄀᆞ라 ᄢᅮ레 ᄆᆞ라 헌ᄃᆡ 둗거이 브^티면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="80a-81a" n="1">從高隋下及爲木石所迮或因落馬凡傷損血瘀凝積氣絶欲死無不治之 取淨土五升蒸令溜分半以故布數重裹之以熨病上勿令大熱 恐破肉冷則易之取痛止即已 凡有損傷皆以此法治之神效已死不能言者亦活三十年者亦瘥</sent>
+<sent type="main" lang="kor" page="80a-81a" n="1">노ᄑᆞᆫ ᄃᆡ셔 ᄂᆞ려디니와 나모 돌해 지즐이^니와 ᄆᆞᆯ 타니와 믈읫 샤ᇰᄒᆞ야 피 얼의여 모다 긔운이 그처 죽ᄂᆞ닐 몯 고티리 업스니 조ᄒᆞᆫ ᄒᆞᆰ 닷 되ᄅᆞᆯ ᄠᅥ 젓게 ᄒᆞ야 반만 ᄂᆞᆫ화 ᄂᆞᆯᄀᆞᆫ 뵈로 두ᅀᅥᄆᆞᆯ ᄡᅡ 알ᄑᆞᆫ ᄃᆡ 울호ᄃᆡ 너무 덥게 말라 ᄉᆞᆯ히 헐가 저헤니 ᄎᆞ거든 ᄀᆞ라곰 호ᄃᆡ 알ᄑᆞ디 아니커든 말라 믈읫 샤ᇰᄒᆞᆫ ᄃᆡ다 이 법으로 고티면 됻ᄂᆞ니 ᄒᆞ마 주거 말 몯ᄒᆞᄂᆞ니도 살며 셜흔 ᄒᆡ라도 됴ᄒᆞ리^라</sent>
+<sent type="main" lang="chi" page="81a-81b" n="1">爲兵杖所加木石所迮血在胸背及脇中痛不得氣息 青竹<anno>프른 대 刮取茹</anno>亂髪<anno>허튼 머리터리 各如雞子大二放</anno>於炭火上灸令焦燥合搗篩以酒一升煮三沸一服盡之三服愈</sent>
+<sent type="main" lang="kor" page="81a-81b" n="1">벼ᇰ잠개예와 막대예 샤ᇰ커나 나모 돌해 지즐여 피 가ᄉᆞᆷ과 드ᇰ과 녀븨 이셔 알파 숨 몯 쉬어든 프른 대 ᄉᆞᅀᅵᆺ 거플 ᄀᆞᆯ고 니와 허튼 ^ 머리터리 ᄃᆞᆰ의 알만 무ᇰ긔요니 각 두 나ᄎᆞᆯ 숫브레 ᄧᅬ여 눋게 ᄒᆞ야 뫼화 디허 처 술 ᄒᆞᆫ 되예 녀허 세 소솜 글혀 ᄒᆞᆫ 번애 다 머교ᄃᆡ 세 번 머기면 됴ᄒᆞ리라</sent>
+<sent type="disease" lang="chi" page="81b" n="1">夜魘死</sent>
+<sent type="disease" lang="kor" page="81b" n="1">바ᄆᆡ ᄀᆞ오눌여 주그니라</sent>
+<sent type="main" lang="chi" page="81b" n="2">宜服和劑方牛黃清心圓麝和蘇合圓</sent>
+<sent type="main" lang="kor" page="81b" n="2">화졔바ᇰ애 우화ᇰ쳐ᇰ심원과 샤햐ᇰ소합원을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="82a-82b" n="1">凡常卧不宜仰卧以手覆心則魘 暗中着魘不得以火照之明中着魘則不得滅其火 亦不得近前急喚多殺人 但痛咬其足跟及足拇指甲邊并多唾其面即活</sent>
+<sent type="main" lang="kor" page="82a-82b" n="1">샤ᇰ녜 누을 제 졋바누오미 됴티 아니ᄒᆞ니 소ᄂᆞᆯ 가ᄉᆞᆷ 우희 노하 두면 ᄀᆞ오눌이ᄂᆞ니라 어드운 ᄃᆡ셔 ᄀᆞ오눌여ᄃᆞᆫ 블 혀디 말오 ᄇᆞᆯᄀᆞᆫ ᄃᆡ셔 ᄀᆞ오눌여ᄃᆞᆫ 블 ᄢᅳ디 말라 ᄯᅩ 갓^가이 가 가그기 브르디 마롤디니 사ᄅᆞᆷ을 만히 주기리라 오직 ᄉᆞ외 발측과 밠 엄지가락톱 ᄀᆞᅀᆞᆯ ᄆᆡ이 믈오 그 ᄂᆞᄎᆡ 춤을 만히 바ᄐᆞ면 즉재 살리라</sent>
+<sent type="main" lang="chi" page="83a" n="1">卧忽不悟愼勿以火照則殺人 但唾其面更痛嚙足大拇指甲際即省 更以半夏末<anno>ᄭᅴ모롭 불휘 ᄀᆞ론 ᄀᆞᄅᆞ</anno>吹入鼻中更以韭葉<anno>엄굣 닙</anno>取自然汁灌鼻孔中冬月用韭根<anno>염굣 불휘</anno>搗取自然汁灌即活</sent>
+<sent type="main" lang="kor" page="83a" n="1">자다가 ᄀᆞ오눌여 ᄭᆡ디 몯거든 자ᇝ간도 블 혀디 마롤디니 블 혀면 사ᄅᆞᄆᆞᆯ 주기ᄂᆞ니 오직 ᄂᆞᄎᆡ 춤 받고 ᄯᅩ 발 엄지가락톱 미틀 ᄆᆡ이 믈면 즉재 ᄭᆡᄂᆞ니라 ᄯᅩ ᄭᅴ모롭 불휘 ᄀᆞ론 ᄀᆞᆯ을 곳굼긔 불오 ᄯᅩ 부ᄎᆡᆺ닙 디허 ᄧᅩᆫ<!--영인본상으로는 ‘ᄧᅳᆫ’이나 탈획으로 판단됨--> 즙을 곳굼긔 브ᅀᅳ라 겨ᅀᅳ리어든 염굣 불휘ᄅᆞᆯ 디혀 ᄧᅩᆫ 즙을 브ᅀᅳ면 즉재 사ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="83b" n="1">卒魘昏魅不覺以皂莢末用細竹管<anno>대로ᇰ</anno>吹兩鼻中即起 三兩日猶可吹之</sent>
+<sent type="main" lang="kor" page="83b" n="1">믄득 ᄀᆞ오눌여 아ᄃᆞᆨᄒᆞ야 ᄭᆡ디 몯ᄒᆞ거든 조협 ᄀᆞᆯ을 ᄀᆞᄂᆞᆫ 대로ᇰ애 녀허 두 곳굼긔 불면 즉재 니러나리니 두ᅀᅥ 나리라도 불라</sent>
+<sent type="main" lang="chi" page="83b-84a" n="1">筆毛<anno>붇귿</anno>刺兩鼻中 男左女右展轉即起也</sent>
+<sent type="main" lang="kor" page="83b-84a" n="1">붇털 그ᄐᆞ로 두 곳굼글 ᄣᅵᆯ오ᄃᆡ 남진ᄋᆞᆫ 왼 녁 겨집ᄋᆞᆫ 올ᄒᆞᆫ 녁을 ᄒᆞ고 두위구우리면 ^ 즉재 닐리라</sent>
+<sent type="main" lang="chi" page="84a" n="1">雄黃<anno>셕우화ᇰ</anno>細硏以蘆管<anno>ᄀᆞᆳ대</anno>吹入兩鼻中 桂心末<anno>피 갓근 솝 ᄀᆞ론 ᄀᆞᄅᆞ</anno>亦得</sent>
+<sent type="main" lang="kor" page="84a" n="1">셕우화ᇰ을 ᄀᆞᄂᆞ리 ᄀᆞ라 ᄀᆞᆳ대예 녀허 두 곳굼긔 블라 계피 갓근 솝 ᄀᆞ론 ᄀᆞᄅᆞ도 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="84b" n="1">井底泥<anno>우믈 미틧 ᄒᆞᆰ</anno>塗目畢令人垂頭於井中呼其姓各即便起也</sent>
+<sent type="main" lang="kor" page="84b" n="1">우믈 미틧 ᄒᆞᆰ을 누네 ᄇᆞᄅᆞ고 사ᄅᆞ미 우므레 가 구버셔 주근 사ᄅᆞᄆᆡ 셔ᇰ과 일훔과ᄅᆞᆯ 브르게 ᄒᆞ면 즉재 닐리라</sent>
+<sent type="main" lang="chi" page="84b" n="2">瓦甑<anno>딜시르</anno>覆病人面上使人疾打破甑則寤</sent>
+<sent type="main" lang="kor" page="84b" n="2">딜실을 벼ᇰᄒᆞᆫ 사ᄅᆞᄆᆡ ᄂᆞᄎᆡ 업고 사ᄅᆞ미 믄득 실을 ᄣᆞ려 ᄇᆞ리면 ᄭᆡ리라</sent>
+<sent type="main" lang="chi" page="84b-85a" n="1">菖蒲末<anno>쇼ᇰ의맛 불휘 ᄀᆞ론 ᄀᆞᄅᆞ</anno>吹兩鼻中 又末內舌下</sent>
+<sent type="main" lang="kor" page="84b-85a" n="1">쇼ᇰ의맛 불휘 ᄀᆞ론 ᄀᆞᆯ을 두 곳굼긔 불오 ᄯᅩ ^ 혀 아래 녀흐라</sent>
+<sent type="main" lang="chi" page="85a" n="1">魔睡強眠失氣以屋梁上塵<anno>집 보 우흿 듣글</anno>吹入鼻中 又以雄黃<anno>셕우화ᇰ</anno>抹鼻</sent>
+<sent type="main" lang="kor" page="85a" n="1">ᄌᆞ오롬신 들여 너무 자다가 긔운을 일허든 집 보 우흿 듣글을 곳굼긔 불오 ᄯᅩ 셕우화ᇱ ᄀᆞᆯ을 고해 ᄇᆞᄅᆞ라</sent>
+<sent type="main" lang="chi" page="85b" n="1">卒魘死搗韭汁<anno>염굣 즙</anno>灌鼻孔中劇者灌兩耳或灌口中</sent>
+<sent type="main" lang="kor" page="85b" n="1">믄득 ᄀᆞ오눌여 죽ᄂᆞ닐 염교 디허 ᄧᅩᆫ 즙을 곳굼긔 브ᅀᅩᄃᆡ 주글 ᄃᆞᆺ거든 두 녁 귓굼긔 븟고 ᄯᅩ 이베 브ᅀᅳ라</sent>
+<sent type="main" lang="chi" page="85b" n="2">服猪脂<anno>도ᄐᆡ 기름</anno>如雞子大即差 未差再服</sent>
+<sent type="main" lang="kor" page="85b" n="2">도ᄐᆡ 기름 ᄃᆞᆰ의 알만 ᄒᆞ닐 머그면 즉재 됻ᄂᆞ니 됴티 아니커든 다시 머그라</sent>
+<sent type="main" lang="chi" page="85b-86a" n="3">鬼魘不悟 伏龍肝<anno>가마 믿 마촘 아랫 ᄒᆞᆰ</anno>爲末吹鼻中</sent>
+<sent type="main" lang="kor" page="85b-86a" n="3">ᄀᆞ오눌여 ᄭᆡ디 몯ᄒᆞ거든 가마 믿 마촘 아^랫 ᄒᆞᆰ을 ᄀᆞ라 곳굼긔 불라</sent>
+<sent type="disease" lang="chi" page="86a" n="1">冬月凍死</sent>
+<sent type="disease" lang="kor" page="86a" n="1">겨ᅀᆞ래 어러 주그니라</sent>
+<sent type="main" lang="chi" page="86a-86b" n="2">冬月凍死及落水凍死 微有氣者脫去濕衣觧活人熱衣包之 用大米<anno>니ᄡᆞᆯ</anno>炒熱熨心上或炒竈灰<anno>브ᅀᅥ긧 ᄌᆡ</anno>令熱以囊盛熨心上冷即換之令煖氣通溫 以熱酒或薑湯或粥飮少許灌之即</sent>活
+<sent type="main" lang="kor" page="86a-86b" n="2">겨ᅀᆞ래 어러 주그니와 므레 디여 주근 사^ᄅᆞ미 져기 긔운 잇ᄂᆞ닐 저즌 오ᄉᆞ란 밧겨 앗고 산 사ᄅᆞᄆᆡ 니벳ᄂᆞᆫ 더운 오ᄉᆞᆯ 밧겨 ᄢᅳ리고 니ᄡᆞᄅᆞᆯ 봇가 덥게 ᄒᆞ야 ᄆᆞᅀᆞᆷ ᄧᅩᆨ을 울ᄒᆞ며 ᄯᅩ 브ᅀᅥ긧 ᄌᆡᄅᆞᆯ 봇가 뎝게ᄒᆞ야 쟐ᄋᆡ 녀허 ᄆᆞᅀᆞᆯ ᄧᅩᆨ을 울호ᄃᆡ ᄎᆞ거든 ᄀᆞ라곰 ᄒᆞ야 더운 긔운으로 토ᇰᄒᆞ야 ᄃᆞᄉᆞ게 ᄒᆞ고 더운 수리어나 ᄉᆡᇰ아ᇰ 글힌 므리어나 쥭므리어나 져기 이베 브ᅀᅳ면 살리라</sent>
+<sent type="main" lang="chi" page="87a-87b" n="1">氈單<anno>시욱</anno>或藁薦<anno>거적</anno>裹之以索繫放平穩處 令兩人對面輕輕衮轉往來如捍氈法 四肢溫和即活 切不可用火烘之逼 寒氣入內即死</sent>
+<sent type="main" lang="kor" page="87a-87b" n="1">시우기어나 ᄯᅩ 거저기어나 주그닐 ᄡᅡ 노ᄒᆞ로 ᄆᆡ야 펴ᇰᄒᆞᆫ ᄯᅡ해 두고 두 사ᄅᆞᆷ으로 마조 안자 ᄀᆞᄆᆞᆫᄀᆞᄆᆞ니 구우료ᄃᆡ 시욱 미ᄃᆞ시 ᄒᆞ라 네 활기 ᄃᆞᄉᆞ면 즉재 살리니 자ᇝ간^도 블로 ᄧᅬ디 말라 ᄎᆞᆫ 긔운이 안해 들에 ᄒᆞ면 즉재 주그리라</sent>
+<sent type="main" lang="chi" page="87b-88a" n="1">灰以大器中多熬使煖囊盛以搏其心 冷即更易心煖氣通 目轉口開可與溫酒服粥清稍稍嚥之即活 若不先溫其心便將火灸其身 冷氣與火相搏急即不活也</sent>
+<sent type="main" lang="kor" page="87b-88a" n="1">ᄌᆡᄅᆞᆯ 큰 그르세 만히 봇가 덥거든 쟐의 녀허 그 ᄆᆞᅀᆞᆷ ᄧᅩᆨ의 다와다 두ᄃᆡ ᄎᆞ거든 ᄀᆞ라^곰 ᄒᆞ야 마ᅀᆞᆷ ᄧᅩ기 더워 긔우니 토ᇰᄒᆞ면 눈도 두르며 입도 버리리니 ᄃᆞᄉᆞᆫ 수를 머기며 쥭믈도 ᄉᆞᆷᄭᅵ면 즉재 살리라 ᄒᆞ다가 몬져 그 ᄆᆞᅀᆞᆷ ᄧᅩᆨ으란 ᄃᆞ시 아니ᄒᆞ고 믄득 블로 그 모ᄆᆞᆯ ᄧᅬ면 ᄎᆞᆫ 긔운이 블와로 서르 다이저 사디 몯ᄒᆞ리라</sent>
+<sent type="disease" lang="chi" page="88a" n="1">白虎風</sent>
+<sent type="disease" lang="kor" page="88a" n="1">두루 슬슈셔 알호미라</sent>
+<sent type="main" lang="chi" page="88b" n="1">宜服直指方虎骨散 和劑方烏藥順氣散</sent>
+<sent type="main" lang="kor" page="88b" n="1">딕지바ᇰ애 호골산 화졔바ᇰ애 오약슌긔산을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="88b-89a" n="2">白虎歷節疼痛不可忍 虎脛骨<anno>범의 앏 허튀옛 ᄲᅧ 一兩塗酥灸令黃</anno>附子<anno>一兩炮裂去皮臍</anno>擣細羅爲散每服不計時候以溫酒調下一錢</sent>
+<sent type="main" lang="kor" page="88b-89a" n="2">력졀푸ᇱ벼ᇰᄒᆞ야 온 ᄆᆞᄃᆡ 알파 ᄎᆞᆷ디 몯ᄒᆞ거든 범의 앏 허튀옛 ᄲᅧ ᄒᆞᆫ 랴ᇰ을 수유 ᄇᆞᆯ라 브레 누르게 ᄧᅬ니와 부ᄌᆞ ᄒᆞᆫ 랴ᇰ을 죠ᄒᆡ예 ᄡᅡ ^ 믈 저져 ᄩᅥ디게 구어 거플와 브르도ᄃᆞᆫ 것 아ᅀᆞ니와ᄅᆞᆯ 디허 ᄀᆞᄂᆞ리 처 ᄢᅵ니 혜디 말오 ᄃᆞᄉᆞᆫ 수레 프러 ᄒᆞᆫ 돈곰 머그라</sent>
+<sent type="main" lang="chi" page="89a" n="1">松節<anno>솘고ᇰ이</anno>羌活 獨活各等分浸酒煮過 每日早空心一柸</sent>
+<sent type="main" lang="kor" page="89a" n="1">솘고ᇰ이와 가ᇰ활와 독활와ᄅᆞᆯ ᄀᆞᆮ게 ᄂᆞᆫ화 수레 ᄌᆞ마 글혀 둣다가 날마다 아ᄎᆞᄆᆡ 고ᇰ심에 ᄒᆞᆫ 잔곰 머그라</sent>
+<sent type="main" lang="chi" page="89b" n="1">白虎風走轉疼痛兩膝熱腫 防風<anno>二兩去蘆頭</anno>地龍<anno>거ᇫ위 二兩微炒</anno>漏蘆<anno>二兩</anno>擣細羅爲散 每服不計時候以溫酒調下二錢</sent>
+<sent type="main" lang="kor" page="89b" n="1">ᄇᆡᆨ호푸ᇱ벼ᇰ이 옮ᄃᆞᆫ녀 알파 무루피 덥고 붓거든 바ᇰ푸ᇱ 불휘 두 랴ᇰ 데저비 아ᅀᆞ니와 거ᇫ위 두 랴ᇰ 자ᇝ간 봇그니와 루롯 불휘 두 랴ᇰ과ᄅᆞᆯ 디허 ᄀᆞᄂᆞ리 처 ᄢᅵ니 혜디 말오 ᄃᆞᄉᆞᆫ 수레 프러 두 돈곰 머그라</sent>
+<sent type="main" lang="chi" page="90a-90b" n="1">白虎風痛走不定 無問老少 地龍糞<anno>거ᇫ위 ᄯᅩᇰ 一升</anno>紅藍花<anno>니ᅀᅵᆺ 곳 三兩</anno> 炭灰<anno>숫 ᄉᆞ론 ᄌᆡ 五升</anno> 攪和熬令極熱以釅醋<anno>됴ᄒᆞᆫ 초</anno>拌之令勻以故帛三四重裏分作三裏更替熨痛處以效爲度</sent>
+<sent type="main" lang="kor" page="90a-90b" n="1">ᄇᆡᆨ호푸ᇱ벼ᇰ이 두로 ᄃᆞᆫ녀 알파 ᄒᆞᆫ 고디 아니어든 늘그며 져모ᄆᆞᆯ 묻디 말오 거ᇫ위 ᄯᅩᇰ ᄒᆞᆫ 되와 니ᅀᅵᆺ 곳 석 랴ᇰ과 숫 ᄉᆞ론 ᄌᆡ 닷 되와ᄅᆞᆯ 섯거 저ᅀᅥ 봇고ᄃᆡ ᄀᆞ자ᇰ 덥거든 됴ᄒᆞᆫ 초 버^므려 고ᄅᆞ게 ᄒᆞ고 ᄂᆞᆯᄀᆞᆫ ᄒᆡᆫ 거스로 서너 ᄇᆞᆯ 다시곰 ᄡᅡ 세 ᄡᆞ매 ᄂᆞᆫ화 알ᄑᆞᆫ ᄃᆡ ᄀᆞ라곰 울호ᄃᆡ 됴ᄐᆞ록 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="90b-91a" n="1">白虎風疼痛徹骨髓不可忍者 釅醋<anno>됴ᄒᆞᆫ 초</anno>五升煎三五滿切葱白<anno>팟 믿 ᄒᆡᆫ ᄃᆡ</anno>二升煮一兩沸即漉出以布帛裹熱熨痛處極效</sent>
+<sent type="main" lang="kor" page="90b-91a" n="1">ᄇᆡᆨ호푸ᇱ 벼ᇰ이 ᄲᅨ ᄉᆞᄆᆞᆺ 알파 ᄎᆞᆷ디 몯ᄒᆞ거든 됴ᄒᆞᆫ 초 닷 되ᄅᆞᆯ 세 소소미어나 다ᄉᆞᆺ 소소^미어나 글히고 팟 믿 ᄒᆡᆫ ᄃᆡ 사ᄒᆞ로니 두 되 조쳐 ᄒᆞᆫ두 소솜 글혀 건뎌내야 뵈 헌거스로 ᄡᅡ 더우닐 알ᄑᆞᆫ ᄃᆡ 울호미 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="91a" n="1">歷節風 松膏<anno>소진</anno>一升酒三升浸 七日每服一合日再數劑愈</sent>
+<sent type="main" lang="kor" page="91a" n="1">력졀푸ᇱ벼ᇰ에 소진 ᄒᆞᆫ 되ᄅᆞᆯ 술 서 되예 ᄌᆞ마 닐웨어든 ᄒᆞᆫ 홉곰 ᄒᆞᄅᆞ 두 번 머그라</sent>
+<sent type="main" lang="chi" page="91b" n="1">歷節風四肢疼痛如解落 松節<anno>솘고ᇰ이</anno>二十斤酒五斗漬 二七日服一合月五六服</sent>
+<sent type="main" lang="kor" page="91b" n="1">력졀푸ᇱ벼ᇰᄒᆞ야 네 활기 알파 글희여 디ᄂᆞᆫ ᄃᆞᆺ거든 솘고ᇰ이 갓고니 스믈 근을 술 닷 마래 ᄌᆞ마 두 닐웨어든 ᄒᆞᆫ 홉곰 ᄒᆞᄅᆞ 다엿 번 머그라</sent>
+<sent type="main" lang="chi" page="92a" n="1">歷節白虎風走注癢痛 芥茶子<anno>계ᄌᆞ</anno>爲末雞子白<anno>ᄃᆞᆰ의 알 소뱃 ᄒᆡᆫ 믈</anno>傅之</sent>
+<sent type="main" lang="kor" page="92a" n="1">력졀푸ᇱ벼ᇰ이 두로 ᄃᆞᆫ녀 ᄇᆞ랍고 알ᄑᆞ거든 계ᄌᆞᄅᆞᆯ ᄀᆞ라 ᄃᆞᆰ의 알 소뱃 ᄒᆡᆫ 므레 섯거 브티라</sent>
+<sent type="main" lang="chi" page="92a-92b" n="2">黃脚雞主白虎病 布飯病處將鷄來食飯 亦可抱雞來壓之</sent>
+<sent type="main" lang="kor" page="92a-92b" n="2">발 누른 ᄃᆞᆰ은 ᄇᆡᆨ호푸ᇱ벼ᇰ을 고티ᄂᆞ니 알ᄑᆞᆫ ᄃᆡ 밥을 ᄭᆞᆯ오 ᄃᆞᆰ을 가져다가 그 밥을 먹게 ᄒᆞ며 ᄯᅩ ᄃᆞᆰ을 아나 알ᄑᆞᆫ ᄃᆡ 눌름도 됴ᄒᆞ니^라</sent>
+<sent type="disease" lang="chi" page="92b" n="1">諸風癎</sent>
+<sent type="disease" lang="kor" page="92b" n="1">겨ᇰ가ᇇ벼ᇰ이라</sent>
+<sent type="main" lang="chi" page="92b" n="2">宜服和劑方至寳丹牛黃清心圓 御藥院方木香保命丹</sent>
+<sent type="main" lang="kor" page="92b" n="2">화졔바ᇰ애 지보단 우화ᇰ쳐ᇰ심원 어약원바ᇰ애 목햐ᇰ보며ᇰ단을 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="93a-94a" n="1">風癎積年不差發時迷悶吐沫或作牛聲 銀末<anno>으ᇇᄀᆞᄅᆞ 半兩</anno>鐵粉<anno>쇳ᄀᆞᄅᆞ 一兩</anno>黑猫兒糞<anno>거믄 괴 ᄯᅩᇰ 炒一兩</anno>黃丹<anno>二兩</anno>相和水硏令勻以醋飯和丸如菉豆大如患五年服十五丸患十年服二十丸患十五年服三十丸初服時即於食前以熱酒下如服 五服不吐不瀉即第六服用水一大盞煎黃耆末<anno>ᄃᆞᆫ너ᅀᅡᇝ 불휘</anno>二錢煎至五分溫溫下丸藥須臾吐黏痰 每日空心服之不絶半月其疾永不發動</sent>
+<sent type="main" lang="kor" page="93a-94a" n="1">겨ᇰ가ᇇ벼ᇰ이 여러 ᄒᆡ 됴티 몯ᄒᆞ야 그 벼ᇰᄒᆞᆯ 저^기어든 어즐ᄒᆞ고 답답ᄒᆞ야 거품 토ᄒᆞ며 ᄯᅩ ᄉᆈ 소리 ᄒᆞ거든 으ᇇᄀᆞᄅᆞ 반 랴ᇰ과 쇳ᄀᆞᄅᆞ ᄒᆞᆫ 랴ᇰ과 거믄 괴ᄯᅩᇰ ᄒᆞᆫ 랴ᇰ 봇그니와 화ᇰ단 두 랴ᇰ과ᄅᆞᆯ 섯거 므레 ᄀᆞ라 고ᄅᆞ게 ᄒᆞ고 초와 밥과로 섯거 환 ᄆᆡᇰᄀᆞ로ᄃᆡ 록두만 케 ᄒᆞ야 벼ᇰᄒᆞ얀 디 다ᄉᆞᆺ ᄒᆡ어든 열다ᄉᆞᆺ 환곰 먹고 열 ᄒᆡ어든 스믈 환곰 먹고 열다ᄉᆞᆺ ᄒᆡ어든 셜흔 환곰 머고ᄃᆡ 처ᅀᅥᆷ 머글 저긔 밥 아니 ^ 머거셔 더운 수레 머그라 다ᄉᆞᆺ 번을 머고ᄃᆡ 토티 아니ᄒᆞ며 즈츼디 아니커든 여슷 번 머글 저긔 믈 ᄒᆞᆫ 되예 ᄃᆞᆫ너ᅀᅡᇝ 불휘 ᄀᆞ론 ᄀᆞᄅᆞ 두 돈을 달혀 반만 커든 ᄃᆞᄉᆞ게 ᄒᆞ야 이 약을 머그면 아니 한 ᄉᆞᅀᅵ예 건 춤 토ᄒᆞ리라 ᄆᆡ야ᇰ 고ᇰ심애 머고ᄆᆞᆯ 반 ᄃᆞᆯ만 그치디 아니ᄒᆞ면 그 벼ᇰ이 내죠ᇰ내 발티 아니ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="94b-95a" n="1">風癎欲發 即精神不足眼目不明瘈瘲惡聲嚼舌吐沫 雌黃<anno>셕ᄌᆞ화ᇰ 一兩細硏炒令褐色</anno>黃丹<anno>一兩炒令褐色</anno>麝舌<anno>一錢細硏</anno>相和硏令勻用牛乳<anno>ᄉᆈ졋</anno>一升慢火熬成膏候可丸 即丸如梧桐子大 每服不計時候以溫酒下七丸</sent>
+<sent type="main" lang="kor" page="94b-95a" n="1">겨ᇰ가ᇇ벼ᇰ이 발코져<!--영인본상으로 ‘지’이나 탈획으로 판단됨--> ᄒᆞᆯ 제 져ᇰ신이 업서 가고 누니 ᄇᆞᆰ디 아니ᄒᆞ며 모미 뷔트러 아니환ᄒᆞᆫ 소리 ᄒᆞ고 혀를 시브며 거품을 토ᄒᆞ거^든 셕ᄌᆞ화ᇰ ᄒᆞᆫ 랴ᇰ ᄀᆞᄂᆞ리 ᄀᆞ로니와 화ᇰ단 ᄒᆞᆫ 랴ᇰ과 이 두 거슬 봇가 거머케 ᄒᆞ고 샤햐ᇰ ᄒᆞᆫ 돈을 ᄀᆞᄂᆞ리 ᄀᆞ라 뫼화 섯거 ᄀᆞ라 고ᄅᆞ거든 ᄉᆈ졋 ᄒᆞᆫ 되로 ᄯᅳᆫ 브레 달효ᄃᆡ 거로미 환 짓게 ᄃᆞ외어든 즉재 머귀 여름마곰 환 ᄆᆡᇰᄀᆞ라 ᄢᅵ니 혜디 말오 ᄃᆞᄉᆞᆫ 수레 닐굽 환곰 머그라</sent>
+<sent type="main" lang="chi" page="95b" n="1">心熱風癎 黑驢乳<anno>거믄 라귀졋</anno>食上暖服三大合日再服</sent>
+<sent type="main" lang="kor" page="95b" n="1">ᄆᆞᅀᆞ미 덥다라 겨ᇰ가ᇇ벼ᇰᄒᆞ거든 거믄 라귀져ᄌᆞᆯ 밥 우희 데여 서 홉곰 머고ᄃᆡ ᄒᆞᄅᆞ 두 번곰 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="95b-96a" n="2">風癎暗風 好臈茶<anno>섯ᄃᆞ래 ᄠᆞᆫ 쟉셜차 半兩</anno>白礬<anno>一兩</anno>爲末硏細蜜<anno>ᄢᅮᆯ</anno>爲圓如梧桐子大 每服三十圓臈茶湯下取涎自大便出極妙</sent>
+<sent type="main" lang="kor" page="95b-96a" n="2">겨ᇰ가ᇇ벼ᇰᄒᆞ며 모딘 ᄇᆞᄅᆞᆷ 마ᄌᆞ닐 섯ᄃᆞ래 ᄠᆞᆫ ^ 됴ᄒᆞᆫ 쟉셜차 반 랴ᇰ과 ᄇᆡᆨ번 ᄒᆞᆫ 랴ᇰ과ᄅᆞᆯ ᄀᆞᄂᆞ리 ᄀᆞ라 ᄢᅮᆯ로 머귀 여름마곰 환 ᄆᆡᇰᄀᆞ라 설흔 환곰 더운 차애 머거 추미 대변으로 나게 ᄒᆞ면 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="96b" n="1">風癎不問長㓜發作漸頻嘔吐涎沫 飛鴟頭<anno>쇠록이 머리 一枚燒灰</anno>虢丹<anno>화ᇰ단 五錢細硏</anno>皂角<anno>五鋌酥灸</anno>細末用糯米糊爲圓如菉豆大 每服十五圓加至二十圓以粥飮送下不拘時候</sent>
+<sent type="main" lang="kor" page="96b" n="1">겨ᇰ가ᇇ벼ᇰ호ᄃᆡ 얼우니어나 져므니어나 벼ᇰ호미 졈졈 ᄌᆞ자 춤과 거품과 토ᄒᆞ거든 쇠록의 머리 ᄒᆞᆫ 낫 ᄉᆞ론 ᄌᆡ와 화ᇰ단 닷 돈 ᄀᆞᄂᆞ리 ᄀᆞ로니와 조각 다ᄉᆞᆺ 낫 수유 ᄇᆞᆯ라 블에 구으니와ᄅᆞᆯ ᄀᆞ라 ᄎᆞᆯᄡᆞᆯ 플로 록두마곰 환 ᄆᆡᇰᄀᆞ라 열다ᄉᆞᆺ 환으로 스믈 환 지히 ᄢᅵ니 혜디 말오 쥭므레 머그라</sent>
+<sent type="main" lang="chi" page="97a-97b" n="1">諸癎 好辰砂<anno>쥬사</anno>不以多少細硏猪心血<anno>도ᄐᆡ 렴토ᇰ앳 피</anno>和勻以蒸餅裹劑蒸熟就熱取出九如桐子大 每服一九人參湯<anno>심 글힌 늘</anno>下食後臨卧</sent>
+<sent type="main" lang="kor" page="97a-97b" n="1">여러 가짓 겨ᇰ가ᇇ벼ᇰ애 됴ᄒᆞᆫ 쥬사ᄅᆞᆯ 하나 저그나 ᄀᆞᄂᆞ리 ᄀᆞ라 도ᄐᆡ 렴토ᇰ앳 피로 골오 섯거 밄ᄀᆞᆯ으로 ᄒᆞ욘 즈ᇰ편애 ᄡᅡ ᄠᅧ 닉거든 더운 제 내야 머귀여름마곰 환 ᄆᆡᇰᄀᆞ라 밥 머근 후와 누을 제 ᄒᆞᆫ 환곰 심 글힌 므레 머^그라</sent>
+<sent type="main" lang="chi" page="97b" n="1">風癎 芭蕉<anno>반쵸</anno>自然汁時時呷一兩口 重者服及五升必愈 亦治小兒驚風</sent>
+<sent type="main" lang="kor" page="97b" n="1">겨ᇰ가ᇇ벼ᇰ애 반쵸 즛디허 ᄧᅩᆫ 즙을 잇다감 ᄒᆞᆫ두 머굼곰 ᄉᆞᆷᄭᅵ라 벼ᇰ이 듀ᇰᄒᆞ닌 닷 되 지히 머그면 일뎌ᇰ 됴ᄒᆞ리라 ᄯᅩ 아ᄒᆡ 겨ᇰ가ᇇ벼ᇰ도 고티ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="98a" n="1">癲狂鬼氣方取桑上鵲巢土<anno>ᄲᅩᇰ남ᄀᆡᆺ 가ᄎᆡ 즤븻 ᄒᆞᆰ</anno>以水和服日三</sent>
+<sent type="main" lang="kor" page="98a" n="1">뎐간커나 미쳐 귓것 조<!--영인본상으로는 ‘초’이나 오각로 판단됨-->ᄎᆞᆫ 벼ᇰ이어든 ᄲᅩᇰ남긧 가ᄎᆡ 지븻 ᄒᆞᆰ을 므레 프러 ᄒᆞᄅᆞ 세 번곰 머그라</sent>
+<sent type="main" lang="chi" page="98a-98b" n="2">苦參<anno>ᄡᅳᆫ 너ᅀᅡᇝ 불휘 五升</anno>細切以好酒三斗漬三十日每服一合 又瓦甑<anno>딜시르</anno>覆面疾打破 又敗天公<anno>ᄂᆞᆯᄀᆞᆫ 펴랴ᇰᄌᆞ 갇</anno>燒酒服 又鐵漿<anno>쇠ᄃᆞ마 우러난 믈</anno>服之宜</sent>
+<sent type="main" lang="kor" page="98a-98b" n="2">ᄡᅳᆫ 너ᅀᅡᇝ 불휘 닷 되ᄅᆞᆯ ᄀᆞᄂᆞ리 사ᄒᆞ라 됴ᄒᆞᆫ ^ 술 서 마래 ᄌᆞ마 ᄒᆞᆫ ᄃᆞᆯ만 커든 ᄒᆞᆫ 홉곰 머그라 ᄯᅩ 딜실을 ᄂᆞᄎᆡ 업고 가ᄀᆞ기 텨 ᄣᆞ려 ᄇᆞ리라 ᄯᅩ ᄂᆞᆯᄀᆞᆫ 펴랴ᇰᄌᆞ 가ᄃᆞᆯ ᄉᆞ라 수레 프러 머그며 ᄯᅩ 쇠 ᄃᆞ마 우러난 므를 머고미 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="98b-99a" n="1">癲癎用艾於隂囊下穀道正門當中聞隨年歳灸之</sent>
+<sent type="main" lang="kor" page="98b-99a" n="1">뎐가ᇇ벼ᇰ에 ᄡᅮᆨ으로 음나ᇰ 아래 하ᇰ무ᇇ 마좀 가^온ᄃᆡᄅᆞᆯ 제 나 마초 ᄯᅳ라</sent>
+<sent type="main" lang="chi" page="99a-99b" n="1">卒癲灸隂莖上宛宛中三壯得小便通即羌 又灸隂莖頭三壯 又灸足大趾上聚毛中七壯 又灸囊下縫二七壯 又灸兩乳頭三壯 又灸耳上髪際各五十壯</sent>
+<sent type="main" lang="kor" page="99a-99b" n="1">과ᄀᆞᄅᆞᆫ 뎐가ᇇ벼ᇰ에 슈신 우희 오목ᄒᆞᆫ ᄃᆡ 세 붓글 ᄯᅳ고 쇼변곳 보면 즉재 됴ᄒᆞ리라 ᄯᅩ 슈시ᇇ 머리ᄅᆞᆯ 세 붓글 ᄯᅳ라 ᄯᅩ 엄지밠가락 ^ 우희 터리 모다 난 ᄃᆡ 닐굽 붓만 ᄯᅳ라 ᄯᅩ 음나ᇰ 아랫 금을 두닐굽 붓 ᄯᅳ라 ᄯᅩ 두 녁 졋머리 세 붓곰 ᄯᅳ라 ᄯᅩ 두 녁 귀 우희 머리터럭 난 ᄀᆞᅀᆞᆯ 각 쉰 붓곰 ᄯᅳ라</sent>
+<sent type="disease" lang="chi" page="99b" n="1">傷寒時疫<anno>附發狂欲走 狂言鬼語</anno></sent>
+<sent type="disease" lang="kor" page="99b" n="1">치위 드려 샤ᇰᄒᆞᆫ 시긔옛 ᅀᅧᆯ벼ᇰ이라<anno>미쳐 나ᄃᆞᆮ고져 ᄒᆞᄂᆞᆫ 벼ᇰ과 미친 말와 귓거싀 말홈괘 브톗ᄂᆞ니라</anno></sent>
+<sent type="main" lang="chi" page="100a" n="1">宜服和劑方人參敗毒散不換金正氣散小柴胡湯大柴胡湯參蘇飮</sent>
+<sent type="main" lang="kor" page="100a" n="1">화졔바ᇰ애 ᅀᅵᆫᄉᆞᆷ 패독산 블환금져ᇰ긔산 쇼싀호타ᇰ 대싀호타ᇰ ᄉᆞᆷ소음과ᄅᆞᆯ 머고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="100b-101a" n="1">傷寒爲證四時不同服藥亦異 凡傷寒不問表裏用五積散敗毒散各一貼 春加香蘇散夏加王苓散秋加金沸草散冬加小柴胡湯右依時將所加藥合前二藥和雜每服三錢重水二盞半薑三片棗一枚煎至八分去滓熱服不拘時候 此方甚效</sent>
+<sent type="main" lang="kor" page="100b-101a" n="1">샤ᇰ벼ᇰ 즈ᇰ이 ᄉᆞ져리 ᄒᆞᆫ가지 아닐ᄉᆡ 약 ᄡᅮᆷ도 다ᄅᆞ니 믈읫 샤ᇰ벼ᇰ을 밧긔 잇ᄂᆞᆫ 적 안해 든 적을 혜디 말오 오젹산 ᄒᆞᆫ 복과 패독산 ᄒᆞᆫ 복을 ᄉᆞ졀 샤ᇰ벼ᇰ애 다 ᄡᅮᄃᆡ 보미어든 햐ᇰ소산 ᄒᆞᆫ 복 조쳐 ᄡᅳ고 녀르미어든 오려ᇰ산 ᄒᆞᆫ 복을 조쳐 ᄡᅳ고 ᄀᆞᅀᆞᆯ히어든 금블초산 ᄒᆞᆫ 복을 조쳐 ᄡᅳ고 겨ᅀᅳ리어든 쇼싀^호타ᇰ ᄒᆞᆫ 복을 조쳐 ᄡᅮᄃᆡ ᄉᆞ졀애 조쳐 ᄡᅳᄂᆞᆫ 약을 오젹산 패독산애 섯거 ᄒᆞᆫ 복애 서 돈 남ᄌᆞᆨ게 ᄆᆡᇰᄀᆞ라 믈 ᄒᆞᆫ 되 반애 ᄉᆡᇰ아ᇰ 세 편과 대초 ᄒᆞᆫ 낫과ᄅᆞᆯ 조쳐 달히니 반 남ᄌᆞᆨ거든 즈ᅀᅴ 앗고 더우닐 머고ᄃᆡ ᄢᅵ니 혜디 말오 머그라 이 법이 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="101b-102a" n="1">傷寒及時疫用蒼术<anno>삽듓 불휘니 비치 프러ᄒᆞ고 ᄆᆞᄃᆡ 기니 一斤浄洗焙䇄</anno>甘草<anno>四兩生</anno>搗羅爲末每服二大錢以熱葱茶清<anno>파와 차와 글힌 더운 믈</anno>調下熱水漱口良久稀粥飮投之汗出立差</sent>
+<sent type="main" lang="kor" page="101b-102a" n="1">샤ᇰ한과 시긧 ᅀᅧᆯ벼ᇰ이어든 삽듓 불휘 ᄒᆞᆫ 근 조히 시서 브레 ᄆᆞᆯ외요니와 ᄂᆞᆯ감초 넉 랴ᇰ과ᄅᆞᆯ 디허 처 ᄀᆞᆯ이 ᄃᆞ외어든 ᄒᆞᆫ 복 므긔 큰 두 돈만 ᄒᆞ야 파와 차와 글힌 더운 므레 프러 먹고 더운 믈로 야ᇰ지ᄒᆞ고 이ᅀᅳᆨᄒᆞ야 후로로ᄒᆞᆫ 쥭을 머기면 ᄯᆞ미 나 즉재 됴ᄒᆞ리^라</sent>
+<sent type="main" lang="chi" page="102a-102b" n="1">春夏之交或夏秋之交霖兩乍歇地氣蒸欝令人驟病頭痛壯熱嘔逆有舉家皆病者 謂之風濕氣不知服藥漸成瘟疫宜用五苓敬半貼入薑錢三片大棗一枚同煎熱服一梡立效</sent>
+<sent type="main" lang="kor" page="102a-102b" n="1">봄과 녀름괏 ᄉᆞᅀᅵ나 녀름과 ᄀᆞᅀᆞᆯ왓 ᄉᆞᅀᅵ예 맛비 ᄀᆞᆺ 그처 ᄯᅡᆺ 긔우니 무더워 사ᄅᆞ미 ^ 믄득 벼ᇰ호ᄃᆡ 머리 알ᄑᆞ고 ᄀᆞ자ᇰ 더워 거스려 토ᄒᆞ며 집 오로 벼ᇰᄒᆞ거든 닐오ᄃᆡ ᄇᆞᄅᆞᆷ 습긔라 ᄒᆞ야 약 머글 주ᄅᆞᆯ 몰라 졈졈 ᅀᅧᆯ벼ᇰ이 ᄃᆞ외ᄂᆞ니 오려ᇰ산 반복애 ᄉᆡᇰ아ᇰ 세 편과 대초 ᄒᆞᆫ 낫 조쳐 달혀 더우니 ᄒᆞᆫ 사바ᄅᆞᆯ 머그면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="103a" n="1">村落聞未有贖藥處得病後即以白粳米<anno>ᄒᆡᆫ ᄡᆞᆯ</anno>煮稀粥入紫蘇葉<anno>ᄎᆞ쇳 닙</anno>四七葉生薑錢二七片同煮熱喫微汗即愈</sent>
+<sent type="main" lang="kor" page="103a" n="1">스골 ᄆᆞᅀᆞᆯ 서리예 약 살 ᄯᅡ히 업거든 벼ᇰᄒᆞᆫ 후에 즉재 ᄒᆡᆫ ᄡᆞᆯ로 후로로케 쥭 수어 ᄎᆞ쇳 닙 네닐굽과 ᄉᆡᇰ아ᇰ 두닐굽 편 조쳐 녀허 글혀 더우니 먹고 자ᇝ간 ᄯᆞᆷ 내면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="103b" n="1">時氣得病一日宜發汗二月三日 亦可發汗四日可吐五日宜下</sent>
+<sent type="main" lang="kor" page="103b" n="1">시긧벼ᇰᄒᆞᆫ 사ᄅᆞ미 ᄒᆞᆯ리어든 ᄯᆞᆷ 내요미 맛다ᇰᄒᆞ니 이틀 사ᄋᆞ리라도 ᄯᆞᆷ 내요미 ᄯᅩ 됴코 나ᄋᆞ리어든 토ᄒᆞ고 닷쇄어든 즈츼요미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="103b-104a" n="2">傷寒時疫初覺頭痛身熱用帶根葱頭<anno>불휘 조ᄎᆞᆫ 팟 믿</anno>十箇切碎以醋一盞煎稀粥飮一梡乘熱喫下以柀盖汗出即觧</sent>
+<sent type="main" lang="kor" page="103b-104a" n="2">샤ᇰ한ᄒᆞ야 시긧벼ᇰ애 처ᅀᅥ믜 머리 알ᄑᆞ고 ^ 모미 덥달어든 불휘 조ᄎᆞᆫ 팟 믿 열 나ᄎᆞᆯ 사ᄒᆞ라 ᄇᆞᅀᅡ 초 ᄒᆞᆫ 잔과ᄅᆞᆯ 후로로 ᄒᆞᆫ 쥭므레 글혀 ᄒᆞᆫ 사바ᄅᆞᆯ 더운 제 먹고 니블 두퍼 ᄯᆞᆷ 내면 즉재 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="104a" n="1">天行病熱盛用蚯蚓<anno>거ᇫ위</anno>以塩<anno>소곰</anno>塗之化成水去泥飮之</sent>
+<sent type="main" lang="kor" page="104a" n="1">시긧벼ᇰ이 ᄀᆞ자ᇰ 덥달어든 거ᇫ위ᄅᆞᆯ 소곰 노하 므리 ᄃᆞ외어든 ᄒᆞᆰ 업게 코 마시라</sent>
+<sent type="main" lang="chi" page="104b" n="1">凡時行疫病□以月望日細剉東引桃枝<anno>도ᇰ녀그로 버든 복셔ᇰ홧 가지</anno>煮湯浴之</sent>
+<sent type="main" lang="kor" page="104b" n="1">믈읫 시긧벼ᇰ이어든 ᄃᆞᆳ 보름날 도ᇰ녁으로 버든 복셔ᇰ홧 가지ᄅᆞᆯ ᄀᆞᄂᆞ리 사ᄒᆞ라 므레 글혀 모욕 ᄀᆞᄆᆞ라</sent>
+<sent type="main" lang="chi" page="104b-105a" n="2">青竹茹<anno>프른 댓 거플 □고니</anno>二升以水四升煮取三升分三服</sent>
+<sent type="main" lang="kor" page="104b-105a" n="2">ᄯᅩ 프른 댓 거플 ᄀᆞᆯ고니 두 되ᄅᆞᆯ 믈 넉 되예 ^ 글혀 서 되어든 세 번에 ᄂᆞᆫ화 머그라</sent>
+<sent type="main" lang="chi" page="105a-105b" n="1">疫氣傷寒三日已前不觧者 好豉<anno>됴ᄒᆞᆫ 젼국 一升緜裹</anno>葱白<anno>팟 믿 ᄒᆡᆫ ᄃᆡ 切一升</anno>少男兒尿<anno>져믄 ᄉᆞᆫ아ᄒᆡ 오좀 三升</anno> 先熬豉葱令相得則投小便煮取二升分再服徐徐服之覆令汗神驗</sent>
+<sent type="main" lang="kor" page="105a-105b" n="1">샤ᇰ벼ᇰ 어든 사ᄋᆞᆳ ᄂᆡ예 됴티 몯거든 됴ᄒᆞᆫ 젼국 ᄒᆞᆫ 되 소옴애 ᄡᆞ니와 팟 믿 ᄒᆡᆫ ᄃᆡ 사ᄒᆞ로니 ᄒᆞᆫ 되와 져믄 ᄉᆞᆫ아ᄒᆡ 오좀 서 되와ᄅᆞᆯ ^ 몬져 젼국과 파ᄅᆞᆯ 봇가 긔운이 서르 들어든 오좀을 녀허 글혀 두 되어든 두 번에 ᄂᆞᆫ화 날혹ᄌᆞᄂᆞ기 먹고 두퍼 ᄯᆞᆷ 나게 ᄒᆞ면 ᄀᆞ자ᇰ 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="106a" n="1">天行病 生牛蒡根<anno>우워ᇱ 불휘</anno>搗取汁五大合空腹分爲兩服 服訖取桑葉<anno>ᄲᅩᇰ나못 닙</anno>一大把灸令黃以水一升煮取五合去滓頓服暖覆取汗 無葉用桑枝<anno>ᄲᅩᇰ나못 가지</anno></sent>
+<sent type="main" lang="kor" page="106a" n="1">시긧벼ᇰ애 ᄂᆞᆯ우워ᇱ 불휘 디허 ᄧᅩᆫ 즙 닷 홉을 고ᇰ심에 머고ᄃᆡ 두 번에 ᄂᆞᆫ화 머그라 머근 후에 ᄲᅩᇰ나못 닙 큰 ᄒᆞᆫ 줌을 브레 누르게 ᄧᅬ야 믈 ᄒᆞᆫ 되예 글혀 닷 홉이어든 즈ᅀᅴ 앗고 다 먹고 더이 더퍼 ᄯᆞᆷ 내라 ᄲᅩᇰ나못 닙곳 업거든 가지로 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="106b" n="1">時氣熱毒 心神煩躁 狂亂欲走 以藍靛<anno>쳐ᇰᄃᆡᆺ 즈ᅀᅴ</anno>半大匙以新汲水<anno>ᄀᆞᆺ 기론 믈</anno>一盞調令勻頓服</sent>
+<sent type="main" lang="kor" page="106b" n="1">시긧벼ᇰ ᅀᅧᆯ독으로 ᄆᆞᅀᆞ미 답답고 미쳐 간대로 ᄃᆞᆮ고져 커든 쳐ᇰᄃᆡᆺ 즈ᅀᅴ 큰 반 수를 ᄀᆞᆺ 기론 믈 ᄒᆞᆫ 잔애 고ᄅᆞ게 프러 믄득 머그라</sent>
+<sent type="main" lang="chi" page="106b-107a" n="2">時氣嘔逆不下食生薑汁<anno>半兩</anno>蜜<anno>ᄢᅮᆯ 一合</anno>一相和令勻不計時候頻</sent>
+<sent type="main" lang="kor" page="106b-107a" n="2">시긧벼ᇰ ᄒᆞ야 거스려 토ᄒᆞ고 음식을 ᄂᆞ리오디 몯ᄒᆞ거든 ᄉᆡᇰ아ᇰ 즙 반 랴ᇰ과 ᄢᅮᆯ ᄒᆞᆫ 홉을 싯거 고ᄅᆞ게 ᄒᆞ야 ᄢᅵ니 혜디 말오 ᄌᆞ조 머^그라</sent>
+<sent type="main" lang="chi" page="107a-107b" n="1">傷寒及時氣溫病頭痛壯熱脉大 始得一日方 小蒜<anno>효ᄀᆞᆫ 마ᄂᆞᆯ</anno>一升搗取汁三合頓服之 不過再作便差</sent>
+<sent type="main" lang="kor" page="107a-107b" n="1">샤ᇰ한 시긧벼ᇰ ᄒᆞ야 머리 알ᄑᆞ고 ᄀᆞ자ᇰ 덥다라 ᄆᆡᆨ이 굵거든 처ᅀᅥᆷ 비르슨 나래 고티ᄂᆞᆫ 법은 효ᄀᆞᆫ 마ᄂᆞᆯ ᄒᆞᆫ 되ᄅᆞᆯ 즛두드려 ᄧᅩᆫ 즙 서 홉을 다 머그라 두 번 아니 머거셔 즉재 됴^ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="107b" n="1">雞子<anno>ᄃᆞᆰ의 알</anno>一枚着冷水半升攪與和乃復煮三升水極令沸以向所和水投湯中急攪令相得適寒溫頓服取汗</sent>
+<sent type="main" lang="kor" page="107b" n="1">ᄃᆞᆰ의 알 ᄒᆞᆫ 나ᄎᆞᆯ ᄎᆞᆫ 믈 반 되예 저ᅀᅥ 섯고 ᄯᅩ 믈 서 되ᄅᆞᆯ ᄀᆞ자ᇰ 글히고 우흿 ᄃᆞᆰ의 알 섯근 므를 글ᄂᆞᆫ 므레 녀허 ᄲᆞᆯ리 저ᅀᅥ ᄎᆞ며 더우미 맛거든 즉재 다 먹고 ᄯᆞᆷ 내라</sent>
+<sent type="main" lang="chi" page="108a" n="1">天行病心悶 水中細苔<anno>므렛 효ᄀᆞᆫ 잇</anno>擣絞汁服</sent>
+<sent type="main" lang="kor" page="108a" n="1">시긧벼ᇰ ᄒᆞ야 ᄆᆞᅀᆞ미 답답ᄒᆞ거든 므렛 효ᄀᆞᆫ 잇글 즛두드려 ᄧᅩᆫ 즙을 머그라</sent>
+<sent type="main" lang="chi" page="108a" n="2">天行熱盛口中生瘡飮 蛇苺<anno>ᄇᆡ얌ᄠᅡᆯ기</anno>自然汁擣絞一斗煎取五升稍稍飮之</sent>
+<sent type="main" lang="kor" page="108a" n="2">시긧벼ᇰ ᄒᆞ야 덥다라 입 안히 헐어든 ᄇᆡ얌ᄠᅡᆯ기ᄅᆞᆯ 즛두드려 ᄧᅩᆫ 즙 ᄒᆞᆫ 마ᄅᆞᆯ 달혀 닷 되만 커든 젹젹 머그라</sent>
+<sent type="main" lang="chi" page="108b" n="1">天行病六七日熱盛心煩狂見鬼者絞人屎汁<anno>사ᄅᆞᄆᆡ ᄯᅩᇰ ᄧᅩᆫ 즙</anno>飮數合</sent>
+<sent type="main" lang="kor" page="108b" n="1">시긧벼ᇰ ᄒᆞᆫ 엿쇄 닐웨예 덥다라 ᄆᆞᅀᆞ미 답답ᄒᆞ고 미쳐 귓것 뵈어든 사ᄅᆞᄆᆡ ᄯᅩᇰ ᄧᅩᆫ 즙을 두ᅀᅥ 홉만 머기라</sent>
+<sent type="main" lang="chi" page="109a" n="1">時行病後犯房勞病復發男病以婦人裩襠<anno>겨지븨 듀ᇰ의 믿</anno>婦病以男子裩襠<anno>남진의 듀ᇰ의 믿</anno>燒灰湯調服 又燒婦人月經衣<anno>월겨ᇰ ᄒᆞ야실 젯 듀ᇰ의</anno>熟水服方寸匕</sent>
+<sent type="main" lang="kor" page="109a" n="1">시긧벼ᇰ ᄒᆞᆫ 후에 남진 겨지비 ᄒᆞᆫᄃᆡ 자 벼ᇰ이 ᄂᆞ외어든 남진ᄋᆞᆫ 겨지븨 듀ᇰ의 미ᄐᆞᆯ ᄉᆞ라 더운 므레 프러 먹고 겨집ᄋᆞᆫ 남진의 듀ᇰ의 미ᄐᆞᆯ ᄉᆞ라 더운 므레 프러 머그라 ᄯᅩ 남진이어나 겨집이어나 이 벼ᇰᄒᆞ야ᄃᆞᆫ 겨집의 월겨ᇰᄒᆞ야실 젯 듀ᇰ의ᄅᆞᆯ ᄉᆞ라 ᄒᆞᆫ 술만 니근 므레 프러 머그라</sent>
+<sent type="main" lang="chi" page="109b" n="1">天氣不和疫疾流行可預備之取栢樹<anno>즉ᄇᆡᆨ나모</anno>東向葉乾擣爲末湯或酒服一錢神驗</sent>
+<sent type="main" lang="kor" page="109b" n="1">하ᄂᆞᆳ 긔운이 펴ᇰ화티 아니ᄒᆞ야 시긧벼ᇰ이 흔커<!--영인본상으로는 ‘키’이나 탈획으로 판단됨-->든 미리 예비호미 됴ᄒᆞ니 즉ᄇᆡᆨ나모 도ᇰ녁으로 햐ᇰᄒᆞᆫ 니플 ᄆᆞᆯ외야 디허 ᄀᆞᆯ이 ᄃᆞ외어든 더운 므레어나 수레어나 ᄒᆞᆫ 돈만 프러 머고미 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="110a" n="1">發狂欲走似著邪崇者蠶退紙<anno>누에 낸 죠ᄒᆡ</anno>作灰酒調服之</sent>
+<sent type="main" lang="kor" page="110a" n="1">미쳐 나ᄃᆞᆮ고져 호미 샤긔와 빌믜와 들인 ᄃᆞᆺ ᄒᆞ닐 누에 낸 죠ᄒᆡᄅᆞᆯ ᄉᆞ라 수레 프러 머기라</sent>
+<sent type="main" lang="chi" page="110b" n="1">癲狂不止得之驚憂之極者用瓜蔕<anno>ᄎᆞᄆᆡᆺ 고고리 半兩</anno>爲末每服一錢并花水<anno>새배 ᄂᆞᆷ 아니 기러셔 몬져 기론 우믌 믈</anno>調一盞投之即大吐後熟睡勿令人驚起即效</sent>
+<sent type="main" lang="kor" page="110b" n="1">미쳐 됴티 아니ᄒᆞ야 놀라ᄆᆞᆯ ᄀᆞ자ᇰ ᄒᆞ거든 차ᄆᆡᆺ 고고리 반 랴ᇰᄋᆞᆯ ᄀᆞ라 ᄒᆞᆫ 돈곰 새배 ᄂᆞᆷ 아니 기러셔 몬져 기론 우믌 믈 ᄒᆞᆫ 자내 프러 머거 즉재 만히 토ᄒᆞᆫ 후에 니기 자거든 사ᄅᆞ미 ᄭᆡ오디 몯게 ᄒᆞ면 됴ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="110b-111a" n="2">邪狂癲癎不欲眠妄行不休 用白雄雞<anno>ᄒᆡᆫ 수ᄐᆞᆰ</anno>二隻煮熟五味調和作羮食之</sent>
+<sent type="main" lang="kor" page="110b-111a" n="2">샤긔로 미쳐 자디 몯ᄒᆞ며 간대로 ᄃᆞᆫ녀 쉬^디 아니커든 ᄒᆡᆫ 수ᄐᆞᆰ 두 나ᄎᆞᆯ 니기 ᄉᆞᆯ마 소곰과 쟈ᇰ과 ᄉᆡᇰ아ᇰ과 초와 계ᄌᆞ와 다ᄉᆞᆺ 가짓 마시 맛게 ᄒᆞ야 ᄀᆡᇰ ᄆᆡᇰᄀᆞ라 머기라</sent>
+<sent type="main" lang="chi" page="111a" n="1">古鏡煮汁服</sent>
+<sent type="main" lang="kor" page="111a" n="1">ᄂᆞᆯᄀᆞᆫ 거우로ᄅᆞᆯ 글혀 우러난 므를 머기라</sent>
+<sent type="main" lang="chi" page="111a" n="2">狂言鬼語 蝦蟆<anno>두터비 一箇</anno>燒爲末酒調服</sent>
+<sent type="main" lang="kor" page="111a" n="2">미친 말와 귓거싀 말 ᄒᆞ거든 두터비 ᄒᆞᆫ나ᄒᆞᆯ ᄉᆞ라 ᄀᆞ라 수레 프러 머기라</sent>
+<sent type="main" lang="chi" page="111b" n="1">熱病狂言及諸黃 大黃五兩剉炒微赤搗爲散用臈月雪水<anno>섯ᄃᆞ래 눈 노ᄀᆞᆫ 믈</anno>五升煎如膏每服不計時冷水調下半匙</sent>
+<sent type="main" lang="kor" page="111b" n="1">ᅀᅧᆯ벼ᇰᄒᆞ야 미친 말 ᄒᆞ며 화ᇰ벼ᇰ ᄒᆞ야든 대화ᇰ 닷 랴ᇰᄋᆞᆯ 사ᄒᆞ라 봇가 자ᇝ간 븕거든 디허 처 섯ᄃᆞ래 눈 노ᄀᆞᆫ 믈 닷 되예 곱ᄀᆞ티 달혀 ᄢᅵ니 혜디 말오 ᄎᆞᆫ 므레 반 술옴 프러 머기라</sent>
+<sent type="main" lang="chi" page="112a-112b" n="1">熱病及時疾心躁亂狂奔走狀似癲癎言語不定久不得汗不知人事者 人中黃<anno>분짓 미틧 누른 것</anno>不以多少入缸內以泥固濟大火煆半且去火後取出於地上以盆盖之水半日許細硏新汲水<anno>ᄀᆞᆺ기론 믈</anno>調下三錢 或未退再作差</sent>
+<sent type="main" lang="kor" page="112a-112b" n="1">ᅀᅧᆯ벼ᇰ과 시벼ᇰ에 ᄆᆞᅀᆞ미 아니환ᄒᆞ야 미쳐 나ᄃᆞ로미 겨ᇰ간ᄒᆞᆫ 사ᄅᆞᆷ ᄀᆞᆮᄒᆞ야 말ᄉᆞ미 일뎌ᇰ티 아니코 오래 ᄯᆞᆷ 나디 아니ᄒᆞ며 ᅀᅵᆫᄭᅴᄅᆞᆯ 모ᄅᆞ거든 분지 미틧 누른 거슬 하나 져^그나 하ᇰ의 녀코 ᄒᆞᆰ으로 구디 ᄇᆞᄅᆞ고 ᄒᆞᆫ 브레 ᄉᆞ라 나잘만 ᄒᆞ야 븘독이 업거든 ᄯᅡ해 내야 도ᇰᄒᆡ로 둡고 ᄯᅩ 나잘만 커든 ᄀᆞᄂᆞᆯ에 ᄀᆞ라 ᄀᆞᆺ 기론 므레 서 돈을 프러 머그라 됴티 아니커든 다시 ᄒᆞ야 머기면 됴ᄒᆞ리라</sent>
+<sent type="disease" lang="chi" page="112b" n="1">煩熱少睡</sent>
+<sent type="disease" lang="kor" page="112b" n="1">ᄆᆞᅀᆞ미 어즈럽고 덥다라 ᄌᆞᆷ 몯 잘 시라</sent>
+<sent type="main" lang="chi" page="112b-113a" n="2">宜服和劑方寧志膏平補鎭心丹</sent>
+<sent type="main" lang="kor" page="112b-113a" n="2">화졔바ᇰ애 려ᇰ지고와 펴ᇰ보딘심단과ᄅᆞᆯ 머^고미 맛다ᇰᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="113a" n="1">煩熱少睡用小麥<anno>밀</anno>作飯食之</sent>
+<sent type="main" lang="kor" page="113a" n="1">어즈러오며 덥다라 자디 몯ᄒᆞ거든 밀흐로 밥 지ᅀᅥ 머그라</sent>
+<sent type="main" lang="chi" page="113a" n="2">煩悶用野紅花<anno>니ᅀᅵ</anno>苗根絞汁飮或水煎服</sent>
+<sent type="main" lang="kor" page="113a" n="2">ᄆᆞᅀᆞ미 어즈러오며 답답거든 니ᅀᅵᆺ 움과 불휘와ᄅᆞᆯ 즛두드려 ᄧᅩᆫ 즙을 머그며 ᄯᅩ 므레 달혀 머그라</sent>
+<sent type="main" lang="chi" page="113b" n="1">葛根<anno>츩 불휘</anno>擣汁飮</sent>
+<sent type="main" lang="kor" page="113b" n="1">츩 불휘ᄅᆞᆯ 디허 ᄧᅩᆫ 즙을 머그라</sent>
+<sent type="main" lang="chi" page="113b" n="2">大豆<anno>코ᇰ</anno>半升水二升煮濃汁食後服之</sent>
+<sent type="main" lang="kor" page="113b" n="2">코ᇰ 반 되ᄅᆞᆯ 믈 두 되예 달혀 즙을 밥 머근 후에 머그라</sent>
+<sent type="main" lang="chi" page="113b" n="3">白朮<anno>삽듓 불휘</anno>末水調半錢匕服</sent>
+<sent type="main" lang="kor" page="113b" n="3">삽듓 불휘ᄅᆞᆯ ᄀᆞ라 반 돈곰 므레 프러 머그라</sent>
+<sent type="main" lang="chi" page="114a" n="1">不得眠用榆白皮<anno>느릅나못 ᄒᆡᆫ 거플</anno>隂乾爲末每日朝夜用水五合末三錢煎如膏服</sent>
+<sent type="main" lang="kor" page="114a" n="1">자디 몯ᄒᆞ거든 느릅나못 ᄒᆡᆫ 거프를 ᄀᆞᄂᆞᆯ해 ᄆᆞᆯ외야 ᄀᆞ라 날마다 아ᄎᆞᆷ과 바ᄆᆡ 믈 닷 홉애 ᄀᆞᄅᆞ 서 돈을 녀허 글혀 얼의어든 머그라</sent>
+<sent type="main" lang="chi" page="114b" n="1">大病之後晝夜虛煩不得睡用酸棗仁<anno>예촛ᄡᅵ</anno>榆白皮<anno>느릅나못 ᄒᆡᆫ 거플</anno>等分煎汁溫服則自睡矣大妙</sent>
+<sent type="main" lang="kor" page="114b" n="1">큰 벼ᇰᄒᆞᆫ 후에 나져 바며 ᄆᆞᅀᆞ미 허손ᄒᆞ야 자디 몯ᄒᆞ거든 예촛ᄡᅵ와 느릅나못 ᄒᆡᆫ 거플와ᄅᆞᆯ ᄀᆞᆮ게 ᄂᆞᆫ화 달힌 므ᄅᆞᆯ ᄃᆞ시 ᄒᆞ야 머그면 ᄌᆞᅀᅧᆫ히 자리니 ᄀᆞ자ᇰ 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="115a-115b" n="1">大病後虛煩不得睡卧及心膽虛怯觸事易驚短氣悸乏 或復自汗並宜服之半夏<anno>ᄭᅴ모롭 불휘 一兩湯燒七次</anno>枳實<anno>선 ᄐᆡᇰᄌᆞ 泡洗製炒一兩</anno>橘紅<anno>귨 거플 一兩半</anno>甘草<anno>炙四錢</anno>茯苓<anno>三分</anno>㕮咀每服四錢水一盞半薑七片棗一枚竹茹<anno>대 ᄀᆞᆯ고니</anno>一塊如錢大煎至六分空心熱服</sent>
+<sent type="main" lang="kor" page="115a-115b" n="1">큰 벼ᇰᄒᆞᆫ 후예 긔운이 헙헙ᄒᆞ고 답답ᄒᆞ야 ᄌᆞ디 몯ᄒᆞ며 ᄆᆞᅀᆞ미 저프며 이레 다ᄃᆞ라 수이 놀라며 단긔ᄒᆞ야 절로 ᄯᆞᆷ 나ᄂᆞ닌 다 머골 디니 ᄭᅴ모롭 불휘 ᄒᆞᆫ 랴ᇰ 더운 므레 닐굽 번 시소니와 선 ᄐᆡᇰᄌᆞ 더운 므레 시서 사^ᄒᆞ라 봇그니 ᄒᆞᆫ 랴ᇰ과 귨 거플 ᄒᆞᆫ 랴ᇰ 반과 감초 네 돈 브레 ᄧᅬ요니와 북려ᇰ 닐굽 돈 반과ᄅᆞᆯ 사ᄒᆞ라 네 돈곰 ᄒᆞ야 믈 ᄒᆞᆫ 되 닷 홉과 ᄉᆡᇰ아ᇰ 닐굽 편과 대초 ᄒᆞᆫ 낫과 댓 거플 ᄀᆞᆯ가 돈만 무ᇰ긔요니 ᄒᆞᆫ 무적과ᄅᆞᆯ ᄒᆞᆫᄃᆡ 달혀 반 남ᄌᆞᆨ거든 고ᇰ심에 덥게 ᄒᆞ야 머그라</sent>
+<sent type="main" lang="chi" page="116a" n="1">膽虛睡卧不安心多驚悸用酸棗仁<anno>예촛ᄡᅵ 一兩炒香</anno>爲末每服二錢竹葉湯<anno>댓닙 글힌 믈</anno>調下不拘時</sent>
+<sent type="main" lang="kor" page="116a" n="1">ᄆᆞᅀᆞ미 허손ᄒᆞ야 ᄌᆞᆷ 자미 편안티 아니ᄒᆞ고 ᄆᆞᅀᆞ미 놀라거든 예촛ᄡᅵ ᄒᆞᆫ 랴ᇰᄋᆞᆯ 구스게 봇가 ᄀᆞ라 두 돈곰 댓닙 글힌 믈레 프러 ᄢᅵ니 혜디 말오 머그라</sent>
+<sent type="title" lang="chi" page="116a" n="2">救急簡易方卷之一</sent>
+</doc>

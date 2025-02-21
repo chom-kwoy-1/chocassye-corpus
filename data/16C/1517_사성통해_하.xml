@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">사성통해_하</title>
+<title lang="chi">四聲通解_下</title>
+<volume n=""/>
+<author>최세진</author>
+<date>1517</date><!--1517년 간년인 원간본은 불전. 해당 저본은 일본 국회도서관 소장인 간년 미상(임진란 이전)의 원간본의 복각본-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>일본국회도서관본</title>
+<pubPlace>일본국회도서관</pubPlace>
+<publisher></publisher>
+<date>임진란 이전</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2022/02/14</date>
+<respStmt>
+<resp>입력자</resp><name>전한솔</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name></name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+
+<!--한국어 어휘로 주석을 단 한자 및 그러한 한자에서 同上 등으로 참조한 한자만 입력하였음-->
+<!--한국어 어휘 중에는 방점이 찍히지 않은 듯 보이는 것도 있으나, 모두 평성이 찍힌 것으로 입력하였음-->
+
+
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/1517_사성통해하/01a.jpg</img>
+<sent type="title" lang="" page="01a" n="1"> 四聲通解下</sent>
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/1517_사성통해하/02b.jpg</img>
+<sent type="main" lang="" page="02b" n="1"> 𪑩靛</sent>
+<!--靛의 定은 㝎으로 되어 있음-->
+<sent type="anno" lang="" page="02b" n="2"> 藍─  LL</sent>
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/1517_사성통해하/03a.jpg</img>
+<sent type="main" lang="" page="03a" n="1"> 撚</sent>
+<sent type="anno" lang="" page="03a" n="2"> 以指搣物 뱌다 LLL</sent>
+<sent type="main" lang="" page="03a" n="3"> 蝙</sent>
+<sent type="anno" lang="" page="03a" n="4"> 今俗呼─蝠 쥐 RL 音 벼 LL</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/1517_사성통해하/04b.jpg</img>
+<sent type="main" lang="" page="04b" n="1"> 薦</sent>
+<sent type="anno" lang="" page="04b" n="2"> 籍也進也草稠也𥙊也又六畜所食曰─又今俗呼藁─ 지즑 LH</sent>
+<sent type="main" lang="" page="04b" n="3"> 牮</sent>
+<sent type="anno" lang="" page="04b" n="4"> 今俗謂整頓傾危之屋曰─屋 기운 집 니르다 LL L LLH 或作擶</sent>
+<sent type="main" lang="" page="04b" n="5"> 癤</sent>
+<sent type="anno" lang="" page="04b" n="6"> 瘡─ 브름 LLL</sent>
+<sent type="main" lang="" page="04b" n="7"> 茜</sent>
+<sent type="anno" lang="" page="04b" n="8"> 茅蒐今俗呼─草 곡도 LLH</sent>
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/1517_사성통해하/05a.jpg</img>
+<sent type="main" lang="" page="05a" n="1"> 蘚</sent>
+<sent type="anno" lang="" page="05a" n="2"> 苔─又白─ 검화 LL</sent>
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/1517_사성통해하/06a.jpg</img>
+<sent type="main" lang="" page="06a" n="1"> 䩢</sent>
+<sent type="anno" lang="" page="06a" n="2"> 柔皮亦作靻又今俗語鐙─皮 피 LL</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/1517_사성통해하/06b.jpg</img>
+<sent type="main" lang="" page="06b" n="1"> 鱓鱔</sent>
+<sent type="anno" lang="" page="06b" n="2"> 魚名通作鱣 드허리 LLLH</sent>
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/1517_사성통해하/07a.jpg</img>
+<sent type="main" lang="" page="07a" n="1"> 蝘</sent>
+<sent type="anno" lang="" page="07a" n="2"> ─蜓守宮 혀후 LL</sent>
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/1517_사성통해하/07b.jpg</img>
+<sent type="main" lang="" page="07b" n="1"> 莧</sent>
+<sent type="anno" lang="" page="07b" n="2"> 商陸 (易) ─陸 쟈리군 LHH 章陸也</sent>
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/1517_사성통해하/08b.jpg</img>
+<sent type="main" lang="" page="08b" n="1"> 鵑</sent>
+<sent type="anno" lang="" page="08b" n="2"> 杜─ 졉새 LLR</sent>
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/1517_사성통해하/09a.jpg</img>
+<sent type="main" lang="" page="09a" n="1"> 蕨</sent>
+<sent type="anno" lang="" page="09a" n="2"> 菜名一名虌今俗奉頭菜 고사리 LLL 一曰莾芽</sent>
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/1517_사성통해하/10a.jpg</img>
+<sent type="main" lang="" page="10a" n="1"> 越</sent>
+<sent type="anno" lang="" page="10a" n="2"> 顛─又逾也於也墜也發揚也語辭又國名通作粤又蒲草又草布又姓又俗語 더욱 LL</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/1517_사성통해하/11a.jpg</img>
+<sent type="main" lang="" page="11a" n="1"> 腨</sent>
+<sent type="anno" lang="" page="11a" n="2"> 腓腸 허툇 LHH 又音時兖切 (韻學集成) 音篆</sent>
+<!--규장각본에는 "허툇"의 성조가 LRH로 보임-->
+<sent type="main" lang="" page="11a" n="3"> 釧</sent>
+<sent type="anno" lang="" page="11a" n="4"> 臂環集韻又音平聲今俗呼車─ 술윗 구뭇 시울게 바근 쇠 LH LLH LHL LL L</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/1517_사성통해하/11b.jpg</img>
+<sent type="main" lang="" page="11b" n="1"> 菀</sent>
+<sent type="anno" lang="" page="11b" n="2"> 茂貌又紫─藥草 퇴알 LL</sent>
+<sent type="main" lang="" page="11b" n="3"> 萱</sent>
+<sent type="anno" lang="" page="11b" n="4"> 忘憂草 (詩) 作諼草今俗呼黃草菜一名鹿䓤 넘 LLL</sent>
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/1517_사성통해하/12a.jpg</img>
+<sent type="main" lang="" page="12a" n="1"> 楦</sent>
+<sent type="anno" lang="" page="12a" n="2"> 織履模範亦作楥𩋢免疑作𩋢音宣𩋢鞋 신  받다 L HL LL</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/1517_사성통해하/12b.jpg</img>
+<sent type="main" lang="" page="12b" n="1"> 蚖</sent>
+<sent type="anno" lang="" page="12b" n="2"> 蠑蚖 도마얌 LHHL</sent>
+<sent type="main" lang="" page="12b" n="3"> 㮕</sent>
+<sent type="anno" lang="" page="12b-13a" n="4"> 俗呼獼猴桃曰─棗 래 LL 或書作圓棗一云呼梬曰─棗 고욤 LL 或書作軟棗</sent>
+<!--梬曰^─棗-->
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/1517_사성통해하/13b.jpg</img>
+<sent type="main" lang="" page="13b" n="1"> 蕎</sent>
+<sent type="anno" lang="" page="13b" n="2"> 今俗─麥 모밀 LL 亦作𪍷</sent>
+<sent type="main" lang="" page="13b" n="3"> 貂鼦</sent>
+<sent type="anno" lang="" page="13b" n="4"> 今俗呼─鼠 돈피 LL</sent>
+<sent type="main" lang="" page="13b" n="5"> 鵰</sent>
+<sent type="anno" lang="" page="13b" n="6"> 一名鷲 수리 LL 今俗呼皂─皂鷹</sent>
+<sent type="main" lang="" page="13b" n="7"> 蔦</sent>
+<sent type="anno" lang="" page="13b" n="8"> 寄生草 겨사리 LLLL 亦作樢</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/1517_사성통해하/14b.jpg</img>
+<sent type="main" lang="" page="14b" n="1"> 銚</sent>
+<sent type="anno" lang="" page="14b" n="2"> 燒器無足鐺也今俗呼銅─ 쥬젼 LLL</sent>
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/1517_사성통해하/16b.jpg</img>
+<sent type="main" lang="" page="16b" n="1"> 麨𪍑𪌯</sent>
+<sent type="anno" lang="" page="16b" n="2"> 糗也 미시 LL</sent>
+<sent type="main" lang="" page="16b" n="3"> 葽</sent>
+<sent type="anno" lang="" page="16b" n="4"> 苦─小草一名狗尾草今遠志 아기플 LLL</sent>
+<sent type="main" lang="" page="16b" n="5"> 䙅</sent>
+<sent type="anno" lang="" page="16b" n="6"> 衣襻 빈툐 LL</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/1517_사성통해하/18a.jpg</img>
+<sent type="main" lang="" page="18a" n="1"> 料</sent>
+<sent type="anno" lang="" page="18a" n="2"> 量也計也理也好也又祿─又今俗語  LL</sent>
+<sent type="main" lang="" page="18a" n="3"> 橈</sent>
+<sent type="anno" lang="" page="18a" n="4"> 楫也  L</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/1517_사성통해하/18b.jpg</img>
+<sent type="main" lang="" page="18b" n="1"> 篙㰏</sent>
+<sent type="anno" lang="" page="18b" n="2"> 所以刺舩竿 사횟대 LHH</sent>
+<sent type="main" lang="" page="18b" n="3"> 𥬯</sent>
+<sent type="anno" lang="" page="18b" n="4"> ─䇭屈柳爲器 고리 LL</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/1517_사성통해하/19a.jpg</img>
+<sent type="main" lang="" page="19a" n="1"> 螯</sent>
+<sent type="anno" lang="" page="19a" n="2"> 同又蠏屬倒行者今俗呼石─ 가재 LL 或呼刺古音 구 LL</sent>
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/1517_사성통해하/19b.jpg</img>
+<sent type="main" lang="" page="19b" n="1"> 淘</sent>
+<sent type="anno" lang="" page="19b" n="2"> 水流貌又澄汰也今俗語─未  이다 R RH</sent>
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/1517_사성통해하/20a.jpg</img>
+<sent type="main" lang="" page="20a" n="1"> 鴇</sent>
+<sent type="anno" lang="" page="20a" n="2"> 鳥名俗呼獨豹今俗呼𦉓  L 子 너 RL</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/1517_사성통해하/20b.jpg</img>
+<sent type="main" lang="" page="20b" n="1"> 𥄹</sent>
+<sent type="anno" lang="" page="20b" n="2"> 今俗呼眼─ 두에 LLL</sent>
+<sent type="main" lang="" page="20b" n="3"> 麅</sent>
+<sent type="anno" lang="" page="20b" n="4"> 麞屬今俗呼─子 고라니 LLL</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/1517_사성통해하/21a.jpg</img>
+<sent type="main" lang="" page="21a" n="1"> 遭</sent>
+<sent type="anno" lang="" page="21a" n="2"> 遇也匝也又今俗語一─  번 L L</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/1517_사성통해하/21b.jpg</img>
+<sent type="main" lang="" page="21b" n="1"> 笊</sent>
+<sent type="anno" lang="" page="21b-22a" n="2"> ─籬撈飯編竹杓 죠 RL</sent>
+<!--籬는 원래 [竹(대죽변) + 牧 + 丆] (세로)로, 유니코드에 없는 것으로 보임-->
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/1517_사성통해하/22a.jpg</img>
+<sent type="main" lang="" page="22a" n="1"> 艄</sent>
+<sent type="anno" lang="" page="22a" n="2"> 船舵尾曰─亦作䈰梢今謂篙師曰─工─子 샤 LL</sent>
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/1517_사성통해하/22b.jpg</img>
+<sent type="main" lang="" page="22b" n="1"> 蠔</sent>
+<sent type="anno" lang="" page="22b" n="2"> 今俗呼蠣房 굴 H</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/1517_사성통해하/23a.jpg</img>
+<sent type="main" lang="" page="23a" n="1"> 䇭</sent>
+<sent type="anno" lang="" page="23a" n="2"> 栲─柳器 고리 RL</sent>
+<!--"고"의 방점이 점보다는 단선에 가까운 모양을 하고 있음-->
+<sent type="main" lang="" page="23a" n="3"> 䳓</sent>
+<sent type="anno" lang="" page="23a" n="4"> 鴜─ 두로미 HLH</sent>
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/1517_사성통해하/23b.jpg</img>
+<sent type="main" lang="" page="23b" n="1"> 酵</sent>
+<sent type="anno" lang="" page="23b" n="2"> 今俗語酒─ 서김 LL</sent>
+<!--일본국회도서관본에는 今이 全처럼 보임. 규장각본을 따라 今으로 입력함.-->
+<sent type="main" lang="" page="23b" n="3"> 靿</sent>
+<sent type="anno" lang="" page="23b" n="4"> 今俗語靴─ 훳돈 LL</sent>
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/1517_사성통해하/25b.jpg</img>
+<sent type="main" lang="" page="25b" n="1"> 駝</sent>
+<sent type="anno" lang="" page="25b" n="2"> 橐─今俗呼駱─ 약대 RH 今俗音從ㅗ下至去聲同</sent>
+<sent type="main" lang="" page="25b" n="3"> 舵䑨</sent>
+<sent type="anno" lang="" page="25b" n="4"> 正船木 치 L</sent>
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/1517_사성통해하/27a.jpg</img>
+<sent type="main" lang="" page="27a" n="1"> 𦽅</sent>
+<sent type="anno" lang="" page="27a" n="2"> 蔢─俗書作薄荷藥草 이 LLL</sent>
+<sent type="main" lang="" page="27a" n="3"> 籮</sent>
+<sent type="anno" lang="" page="27a" n="4"> 除麁取細竹器今俗呼𥱰─ 체 L 又曰─兒又箕兒又箕也筐也</sent>
+<sent type="main" lang="" page="27a" n="5"> 鑼</sent>
+<sent type="anno" lang="" page="27a" n="6"> 䤬─銅器 소라 HL 又銅─鈑也 바라 LL</sent>
+<!--鈑은 [金+叐] (좌우)로 생겼음. 우리말 큰사전의 "바라" 항목의 예문 입력을 참고하여 입력함.-->
+<sent type="main" lang="" page="27a" n="7"> 囉</sent>
+<sent type="anno" lang="" page="27a" n="8"> 歌助聲出 (歌詞) 哩─又嘍─又小兒語又俗喚猪聲──又哱─  쥬라 RH LL</sent>
+</pages>
+
+<pages n="27b">
+<img n="27b">https://kohico.kr/_media/image/1517_사성통해하/27b.jpg</img>
+<sent type="main" lang="" page="27b" n="1"> 贏</sent>
+<sent type="anno" lang="" page="27b" n="2"> 蚌屬今俗呼─螄在田者曰田─ 골이 LLL 又作杯者曰鸚鵡─ 무 LLL 飾器者曰鈿─ 라뎐 LH 紫貝斑文者曰砑─ 쟈개 LL 吹以節樂者曰梵─ 골오래 LLL</sent>
+<!--"무"의 오른쪽에 점이 찍혀서, 마치 在田者의 田 왼쪽에 방점이 찍힌 듯이 보임-->
+<!--"라뎐"에서 "뎐"의 방점이 비정상적으로 큼-->
+<sent type="main" lang="" page="27b" n="3"> 蝌</sent>
+<sent type="anno" lang="" page="27b" n="4"> ─蚪蝦䗫子 올이 HHH</sent>
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/1517_사성통해하/28b.jpg</img>
+<sent type="main" lang="" page="28b" n="1"> 鏁</sent>
+<sent type="anno" lang="" page="28b" n="2"> 今俗呼鐵─ 사 LL 鋃鐺也又─子 쇠 LLL</sent>
+<sent type="main" lang="" page="28b" n="3"> 萵</sent>
+<sent type="anno" lang="" page="28b" n="4"> 今俗呼─苣 부루 LL</sent>
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/1517_사성통해하/29a.jpg</img>
+<sent type="main" lang="" page="29a" n="1"> 蚆𧵅</sent>
+<sent type="anno" lang="" page="29a" n="2"> 螺屬今俗呼海─ 쟈개 LL</sent>
+<sent type="main" lang="" page="29a" n="3"> 疤</sent>
+<sent type="anno" lang="" page="29a" n="4"> 瘢痕結節病今俗語─子 허믈 LL</sent>
+<sent type="main" lang="" page="29a" n="5"> 杷</sent>
+<sent type="anno" lang="" page="29a" n="6"> 刀柄今俗從上聲又今俗語鉄─子 쇼시 LLH 音從去聲</sent>
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/1517_사성통해하/29b.jpg</img>
+<sent type="main" lang="" page="29b" n="1"> 痲</sent>
+<sent type="anno" lang="" page="29b" n="2"> 風熱病 자리다 LHL</sent>
+<sent type="main" lang="" page="29b" n="3"> 樝</sent>
+<sent type="anno" lang="" page="29b" n="4"> 榠─ 쟈 RL </sent>
+<sent type="main" lang="" page="29b" n="5"> 柤</sent>
+<sent type="anno" lang="" page="29b" n="6"> 同又木閑又今俗語木─ 기족 LH 又同下</sent>
+<sent type="main" lang="" page="29b" n="7"> 𥹁渣</sent>
+<sent type="anno" lang="" page="29b" n="8"> 藥煎滓又豆─ 비지 LH</sent>
+<sent type="main" lang="" page="29b" n="9"> 鮓</sent>
+<sent type="anno" lang="" page="29b" n="10"> 以塩米釀魚爲葅今俗語魚─ 젓 H</sent>
+<sent type="main" lang="" page="29b" n="11"> 苴</sent>
+<sent type="anno" lang="" page="29b" n="12"> 芏─不眞物也又査滓也又和糞草又糟粕 [魚] [] 芏 파차 LL 二音上聲</sent>
+<sent type="main" lang="" page="29b" n="13"> 榨醡</sent>
+<sent type="anno" lang="" page="29b" n="14"> 俗謂打油者曰油─壓酒者曰酒─亦作𨢦笮 고조 LH</sent>
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/1517_사성통해하/30a.jpg</img>
+<sent type="main" lang="" page="30a" n="1"> 汉</sent>
+<sent type="anno" lang="" page="30a" n="2"> 水歧流也港─ 개 H</sent>
+<sent type="main" lang="" page="30a" n="3"> 沙砂</sent>
+<sent type="anno" lang="" page="30a" n="4"> 水散石也又水旁曰─又斯也又丘迤邐曰─丘又汰也又今俗語─米  이다 H LH</sent>
+<sent type="main" lang="" page="30a" n="5"> 桬</sent>
+<sent type="anno" lang="" page="30a" n="6"> 木名 작나모 LLLL</sent>
+<sent type="main" lang="" page="30a" n="7"> 灑</sent>
+<sent type="anno" lang="" page="30a" n="8"> 落也汛也今俗語─子 드레 LH 柳編者曰柳罐元語鐵落</sent>
+<sent type="main" lang="" page="30a" n="9"> 廈</sent>
+<sent type="anno" lang="" page="30a" n="10"> 旁屋今俗呼披─ 협실 HH</sent>
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/1517_사성통해하/30b.jpg</img>
+<sent type="main" lang="" page="30b" n="1"> 耞</sent>
+<sent type="anno" lang="" page="30b" n="2"> 打穀具今俗呼連─ 도리채 LLL</sent>
+<sent type="main" lang="" page="30b" n="3"> 痂</sent>
+<sent type="anno" lang="" page="30b" n="4"> 瘡生肉其所蛻乹甲爲─ 더데 LH</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/1517_사성통해하/31a.jpg</img>
+<sent type="main" lang="" page="31a" n="1"> 鴉鵶</sent>
+<sent type="anno" lang="" page="31a" n="2"> 今俗語老─ 가마괴 LLL 寒─亦曰環─ 아마괴 LLLL 緫稱烏─</sent>
+<sent type="main" lang="" page="31a" n="3"> 丫</sent>
+<sent type="anno" lang="" page="31a" n="4"> 物之歧頭今俗語─頭 갓나 LLL</sent>
+<sent type="main" lang="" page="31a" n="5"> 蝦</sent>
+<sent type="anno" lang="" page="31a" n="6"> 今俗語癩─蟆 옴둗거비 RLLH 音  L 或呼黑䗫又─兒 새요 LL 或作鰕</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/1517_사성통해하/31b.jpg</img>
+<sent type="main" lang="" page="31b" n="1"> 蝸</sent>
+<sent type="anno" lang="" page="31b" n="2"> 俗音 와 L 今俗呼─牛 이 HLH 亦曰草螺子亦書作瓜牛</sent>
+<sent type="main" lang="" page="31b" n="3"> 銙𩊓</sent>
+<sent type="anno" lang="" page="31b" n="4"> 帶─ 돈 LL</sent>
+<sent type="main" lang="" page="31b" n="5"> 𤬦</sent>
+<sent type="anno" lang="" page="31b" n="6"> 尼─屋今俗語─瓦 디새 니다 LL RH</sent>
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/1517_사성통해하/32a.jpg</img>
+<sent type="main" lang="" page="32a" n="1"> 鏵</sent>
+<sent type="anno" lang="" page="32a" n="2"> 兩刃𢆍也─鍫亦作鋘又今俗語─子 보십 LL</sent>
+<!--鍫과 鋘은 판독이 어려워 규장각본을 참고하였음-->
+<!--"보십"은 한 글자가 들어가야 할 칸에 두 글자가 한꺼번에 들어가 있음. 규장각본에는 "보십" 대신 "볃"이 쓰여 있음.-->
+<sent type="main" lang="" page="32a" n="3"> 踝</sent>
+<sent type="anno" lang="" page="32a" n="4"> 足─足骨也今俗呼─子骨亦曰內─外─ 밧귀머리 LRLH 今俗音或呼  L 又腿兩旁亦曰內外─本註云俗音 꽈 H 此音未詳</sent>
+</pages>
+
+<pages n="32b">
+<img n="32b">https://kohico.kr/_media/image/1517_사성통해하/32b.jpg</img>
+<sent type="main" lang="" page="32b" n="1"> 褯</sent>
+<sent type="anno" lang="" page="32b" n="2"> 今俗語─子 아깃 HLH</sent>
+<sent type="main" lang="" page="32b" n="3"> 遮</sent>
+<sent type="anno" lang="" page="32b-33a" n="4"> 遏也要也蔽也斷也又今俗語─莫縱令也猶言儘敎 므던타 LLL</sent>
+<!--蔽은 규장각본을 참고해 입력함-->
+<!--蔽^斷-->
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/1517_사성통해하/34a.jpg</img>
+<sent type="main" lang="" page="34a" n="1"> 剛</sent>
+<sent type="anno" lang="" page="34a" n="2"> 彊斷也堅也又今俗語─ 계우 LH</sent>
+<sent type="main" lang="" page="34a" n="3"> 缸瓨缻</sent>
+<sent type="anno" lang="" page="34a" n="4"> 今俗語甖─音   L 목 긴  L R L 長頸可容十升 (韻會蒙韻)  L 韻學集成  L  L 二音</sent>
+<!--頸의 巠자는 판독이 잘 안 됨. 규장각본을 참고하여 입력하였음.-->
+<sent type="main" lang="" page="34a" n="5"> 𤮊</sent>
+<sent type="anno" lang="" page="34a" n="6"> 瓦盆底又鼓─ 곳구레 LHLL</sent>
+<sent type="main" lang="" page="34a" n="7"> 炕</sent>
+<sent type="anno" lang="" page="34a-34b" n="8"> 乹也旱也─陽─旱又今俗語土─ 구들 LL</sent>
+<!--今^俗-->
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/1517_사성통해하/35a.jpg</img>
+<sent type="main" lang="" page="35a" n="1"> 𧘐</sent>
+<sent type="anno" lang="" page="35a" n="2"> 今俗語─肩 깃바대 LLH</sent>
+<sent type="main" lang="" page="35a" n="3"> 驝</sent>
+<sent type="anno" lang="" page="35a" n="4"> ─駝 약대 LL 亦作馲橐</sent>
+<sent type="main" lang="" page="35a" n="5"> 餹糖</sent>
+<sent type="anno" lang="" page="35a" n="6"> 飴也 엿 H 又粆─</sent>
+<sent type="main" lang="" page="35a" n="7"> 螳</sent>
+<sent type="anno" lang="" page="35a" n="8"> 今俗呼─螂 구으리 LLLLH</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/1517_사성통해하/36a.jpg</img>
+<sent type="main" lang="" page="36a" n="1"> 蒡</sent>
+<sent type="anno" lang="" page="36a" n="2"> 今俗呼牛─菜 우 LL</sent>
+<sent type="main" lang="" page="36a" n="3"> 髆</sent>
+<sent type="anno" lang="" page="36a" n="4"> 肩甲亦作拍胉今俗呼𦘸─ 독 LH</sent>
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/1517_사성통해하/36b.jpg</img>
+<sent type="main" lang="" page="36b" n="1"> 膀</sent>
+<sent type="anno" lang="" page="36b" n="2"> ─胱亦作髈又今俗呼肩曰肩─ 엇게 LL 音  L</sent>
+<sent type="main" lang="" page="36b" n="3"> 瓝瓟</sent>
+<sent type="anno" lang="" page="36b" n="4"> 小瓜今俗呼 쥐 RHL 曰赤─音  L</sent>
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/1517_사성통해하/37a.jpg</img>
+<sent type="main" lang="" page="37a" n="1"> 鰒</sent>
+<sent type="anno" lang="" page="37a" n="2"> 石決明今俗呼─魚 포 LL</sent>
+<sent type="main" lang="" page="37a" n="3"> 蟒</sent>
+<!--[艹+犬] 부분이 共처럼 보임-->
+<sent type="anno" lang="" page="37a" n="4"> 大蛇 구이 LLL</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/1517_사성통해하/37b.jpg</img>
+<sent type="main" lang="" page="37b" n="1"> 枋</sent>
+<sent type="anno" lang="" page="37b" n="2"> 蘇─木可染紅今俗呼蘇木 다목 LL 又檀木也又蜀以木偃魚爲─</sent>
+</pages>
+
+<pages n="38b">
+<img n="38b">https://kohico.kr/_media/image/1517_사성통해하/38b.jpg</img>
+<sent type="main" lang="" page="38b" n="1"> 柞</sent>
+<sent type="anno" lang="" page="38b" n="2"> 櫟也 가랍나모 LLLL</sent>
+<sent type="main" lang="" page="38b" n="3"> 嗓</sent>
+<sent type="anno" lang="" page="38b" n="4"> 喉也今俗呼─子 목쥴 뒤 LL L</sent>
+<sent type="main" lang="" page="38b" n="5"> 𤸯</sent>
+<!--桑 부분이 桒으로 되어 있음-->
+<sent type="anno" lang="" page="38b" n="6"> 馬病  고 내  L H RR R</sent>
+<sent type="main" lang="" page="38b" n="7"> 𪂹</sent>
+<sent type="anno" lang="" page="38b" n="8"> 今俗呼青─ 오가리 LHH</sent>
+</pages>
+
+<pages n="40a">
+<img n="40a">https://kohico.kr/_media/image/1517_사성통해하/40a.jpg</img>
+<sent type="main" lang="" page="39b-40a" n="1"> 貉貈</sent>
+<!--貉^貈-->
+<sent type="anno" lang="" page="40a" n="2"> 獸似狐善睡 오리 LLL 免疑音何</sent>
+</pages>
+
+<pages n="40b">
+<img n="40b">https://kohico.kr/_media/image/1517_사성통해하/40b.jpg</img>
+<sent type="main" lang="" page="40b" n="1"> 𦃆</sent>
+<sent type="anno" lang="" page="40b" n="2"> 繮絲也又今俗謂馬勒繮繩曰接─ 쥬리올 LLH</sent>
+<sent type="main" lang="" page="40b" n="3"> 韁繮</sent>
+<sent type="anno" lang="" page="40b" n="4"> 馬紲 셕 LH 又今俗呼─繩 쥬리올 LLL</sent>
+<sent type="main" lang="" page="40b" n="5"> 豇</sent>
+<sent type="anno" lang="" page="40b" n="6"> ─豆今俗呼長─ 이 LLH</sent>
+</pages>
+
+<pages n="42a">
+<img n="42a">https://kohico.kr/_media/image/1517_사성통해하/42a.jpg</img>
+<sent type="main" lang="" page="42a" n="1"> 檣艢</sent>
+<sent type="anno" lang="" page="42a" n="2"> 㠶柱今俗呼桅竿 대 LL</sent>
+</pages>
+
+<pages n="42b">
+<img n="42b">https://kohico.kr/_media/image/1517_사성통해하/42b.jpg</img>
+<sent type="main" lang="" page="42b" n="1"> 鞝</sent>
+<sent type="anno" lang="" page="42b" n="2"> 肩鞍皮又縫皮也</sent>
+<sent type="main" lang="" page="42b" n="3"> 𠫝</sent>
+<sent type="anno" lang="" page="42b" n="4"> 同上今俗語─鞋 신 받다 LL LL</sent>
+</pages>
+
+<pages n="44b">
+<img n="44b">https://kohico.kr/_media/image/1517_사성통해하/44b.jpg</img>
+<sent type="main" lang="" page="44b" n="1"> 鑰</sent>
+<sent type="anno" lang="" page="44b" n="2"> 今俗呼─匙 열쇠 RH</sent>
+</pages>
+
+<pages n="45b">
+<img n="45b">https://kohico.kr/_media/image/1517_사성통해하/45b.jpg</img>
+<sent type="main" lang="" page="45b" n="1"> 瓤</sent>
+<sent type="anno" lang="" page="45b" n="2"> 㼕─瓜中犀今俗呼瓜─ 욋어월 LHL []</sent>
+</pages>
+
+<pages n="46a">
+<img n="46a">https://kohico.kr/_media/image/1517_사성통해하/46a.jpg</img>
+<sent type="main" lang="" page="46a" n="1"> 蠖</sent>
+<sent type="anno" lang="" page="46a" n="2"> 尺─虫 자재 LL</sent>
+<sent type="main" lang="" page="46a" n="3"> 籰</sent>
+<sent type="anno" lang="" page="46a" n="4"> 收絲具 (蒙韻集韻)  L 今俗呼─子 어르 LL 音  L</sent>
+</pages>
+
+<pages n="46b">
+<img n="46b">https://kohico.kr/_media/image/1517_사성통해하/46b.jpg</img>
+<sent type="main" lang="" page="46b" n="1"> 蟥</sent>
+<sent type="anno" lang="" page="46b" n="2"> ─蛢甲虫又今俗呼馬─ 거머리 RLL</sent>
+</pages>
+
+<pages n="47a">
+<img n="47a">https://kohico.kr/_media/image/1517_사성통해하/47a.jpg</img>
+<sent type="main" lang="" page="47a" n="1"> 荊</sent>
+<sent type="anno" lang="" page="47a" n="2"> ─楚又木名今俗呼─條 리 LH ─籠 채 LH</sent>
+</pages>
+
+<pages n="47b">
+<img n="47b">https://kohico.kr/_media/image/1517_사성통해하/47b.jpg</img>
+<sent type="main" lang="" page="47b" n="1"> 徑</sent>
+<sent type="anno" lang="" page="47b" n="2"> 小道今俗呼抄路 즈름길 LLH 又直也</sent>
+<sent type="main" lang="" page="47b" n="3"> 墼</sent>
+<sent type="anno" lang="" page="47b" n="4"> 未燒磚今俗呼土─ 벽 LL</sent>
+</pages>
+
+<pages n="48a">
+<img n="48a">https://kohico.kr/_media/image/1517_사성통해하/48a.jpg</img>
+<sent type="main" lang="" page="48a" n="1"> 屐</sent>
+<sent type="anno" lang="" page="48a" n="2"> 履─也木─ 나모격지 LLLH 今俗呼脚濇古呼澁子</sent>
+<!--澁가 원문에서는 澀에서 刃이 하나만 있는 자형으로 보임. 규장각본을 참고하여 입력함.-->
+</pages>
+
+<pages n="48b">
+<img n="48b">https://kohico.kr/_media/image/1517_사성통해하/48b.jpg</img>
+<sent type="main" lang="" page="48b" n="1"> 矴碇磸</sent>
+<sent type="anno" lang="" page="48b" n="2"> 錘舟石今俗呼鐵猫或呼抛 닫 L</sent>
+</pages>
+
+<pages n="49a">
+<img n="49a">https://kohico.kr/_media/image/1517_사성통해하/49a.jpg</img>
+<sent type="main" lang="" page="49a" n="1"> 葶</sent>
+<sent type="anno" lang="" page="49a" n="2"> ─藶大薺 두루믜나 LLHLH</sent>
+<!--"믜"의 방점이 ㅡ보다 아래에 찍혀 있으므로 단순한 얼룩일 수도 있어 보임-->
+</pages>
+
+<pages n="49b">
+<img n="49b">https://kohico.kr/_media/image/1517_사성통해하/49b.jpg</img>
+<sent type="main" lang="" page="49b" n="1"> 荻</sent>
+<sent type="anno" lang="" page="49b" n="2"> 蘆屬 달 R 今俗呼─子草</sent>
+</pages>
+
+<pages n="51a">
+<img n="51a">https://kohico.kr/_media/image/1517_사성통해하/51a.jpg</img>
+<sent type="main" lang="" page="51a" n="1"> 蜻</sent>
+<sent type="anno" lang="" page="51a" n="2"> ─蛚今俗呼促織兒 귓도라미 LLHL</sent>
+</pages>
+
+<pages n="52a">
+<img n="52a">https://kohico.kr/_media/image/1517_사성통해하/52a.jpg</img>
+<sent type="main" lang="" page="52a" n="1"> 鯽𩺀</sent>
+<sent type="anno" lang="" page="52a" n="2"> 鮒也今俗呼─魚 어 RL</sent>
+<sent type="main" lang="" page="52a" n="3"> 鶺</sent>
+<sent type="anno" lang="" page="52a" n="4"> ─鴒俗呼雪姑兒 할미새 HLR</sent>
+<sent type="main" lang="" page="52a" n="5"> 襀</sent>
+<sent type="anno" lang="" page="52a" n="6"> 襞─衣裙閒踧也通作積今俗呼細者曰細褶兒  주룸 LL LH</sent>
+<sent type="main" lang="" page="52a" n="7"> 績</sent>
+<sent type="anno" lang="" page="52a" n="8"> 緝也今俗語─麻 삼 삼다 R LL 音  H 又成也續也</sent>
+</pages>
+
+<pages n="53a">
+<img n="53a">https://kohico.kr/_media/image/1517_사성통해하/53a.jpg</img>
+<sent type="main" lang="" page="53a" n="1"> 蜥</sent>
+<sent type="anno" lang="" page="53a" n="2"> ─蜴 셕텩 LL</sent>
+</pages>
+
+<pages n="53b">
+<img n="53b">https://kohico.kr/_media/image/1517_사성통해하/53b.jpg</img>
+<sent type="main" lang="" page="53b" n="1"> 蟶</sent>
+<sent type="anno" lang="" page="53b" n="2"> 蚌屬今俗語─腸 가리맏 LLL</sent>
+</pages>
+
+<pages n="54a">
+<img n="54a">https://kohico.kr/_media/image/1517_사성통해하/54a.jpg</img>
+<sent type="main" lang="" page="54a" n="1"> 筬</sent>
+<sent type="anno" lang="" page="54a" n="2"> ─筐織具 집 LLL</sent>
+<sent type="main" lang="" page="54a" n="3"> 勝</sent>
+<sent type="anno" lang="" page="54a-54b" n="4"> 克也─負又加也優過之也又戴勝鳥名又今俗語方─兒  LL 即流蘇結也又同下</sent>
+<!--今^俗-->
+</pages>
+
+<pages n="54b">
+<img n="54b">https://kohico.kr/_media/image/1517_사성통해하/54b.jpg</img>
+<sent type="main" lang="" page="54b" n="1"> 蕂</sent>
+<sent type="anno" lang="" page="54b" n="2"> 苣─胡麻</sent>
+</pages>
+
+<pages n="55a">
+<img n="55a">https://kohico.kr/_media/image/1517_사성통해하/55a.jpg</img>
+<sent type="main" lang="" page="55a" n="1"> 梬</sent>
+<sent type="anno" lang="" page="55a" n="2"> (蒙韻) 韻會  L 似枾圎小名丁香柿名牛乳枾一名美矢棗今俗呼軟棗兒 고욤 RH</sent>
+</pages>
+
+<pages n="55b">
+<img n="55b">https://kohico.kr/_media/image/1517_사성통해하/55b.jpg</img>
+<sent type="main" lang="" page="55b" n="1"> 擤</sent>
+<sent type="anno" lang="" page="55b" n="2"> 集成虎梗切  L 捻鼻中齈今俗作□□鼻涕 고 프다 H RL</sent>
+<!--원문에는 梗이 [扌+更]로 보임. 규장각본을 참고하여 입력함.-->
+<!--□의 한자는 [木+ [卉+丰] (상하)] (좌우)이다.-->
+<sent type="main" lang="" page="55b" n="3"> 桁</sent>
+<sent type="anno" lang="" page="55b" n="4"> 屋橫木今俗呼─條 혀 LL</sent>
+<sent type="main" lang="" page="55b" n="5"> 衡</sent>
+<sent type="anno" lang="" page="55b" n="6"> 權─又平也今俗語─子 저울 LL 音  L</sent>
+</pages>
+
+<pages n="56a">
+<img n="56a">https://kohico.kr/_media/image/1517_사성통해하/56a.jpg</img>
+<sent type="main" lang="" page="56a" n="1"> 脛踁</sent>
+<sent type="anno" lang="" page="56a" n="2"> 脚─ 허튓 LLLL</sent>
+<sent type="main" lang="" page="56a" n="3"> 脛踁</sent>
+<sent type="anno" lang="" page="56a" n="4"> 腓腸前骨 허튓 LLLL</sent>
+</pages>
+
+<pages n="56b">
+<img n="56b">https://kohico.kr/_media/image/1517_사성통해하/56b.jpg</img>
+<sent type="main" lang="" page="56b" n="1"> 蜴</sent>
+<sent type="anno" lang="" page="56b" n="2"> 蜥─ 셕텩 LL</sent>
+</pages>
+
+<pages n="57a">
+<img n="57a">https://kohico.kr/_media/image/1517_사성통해하/57a.jpg</img>
+<sent type="main" lang="" page="57a" n="1"> 綾</sent>
+<sent type="anno" lang="" page="57a" n="2"> 綺也 고로 LH</sent>
+<sent type="main" lang="" page="57a" n="3"> 菱蔆</sent>
+<sent type="anno" lang="" page="57a" n="4"> 芰也今俗呼─角 말왐 LH</sent>
+<sent type="main" lang="" page="57a" n="5"> 䍽𦎐</sent>
+<sent type="anno" lang="" page="57a" n="6"> 今俗呼羖─ 염쇼 LH 又曰山羊</sent>
+</pages>
+
+<pages n="57b">
+<img n="57b">https://kohico.kr/_media/image/1517_사성통해하/57b.jpg</img>
+<sent type="main" lang="" page="57b" n="1"> 櫟</sent>
+<sent type="anno" lang="" page="57b" n="2"> 木名 가랍나모 LLLL 今俗呼橃欏樹又有一種鐵─木 소리나모 LHHLL 又呼青杠樹</sent>
+<sent type="main" lang="" page="57b" n="3"> 秔稉</sent>
+<sent type="anno" lang="" page="57b" n="4"> 稻不粘者</sent>
+<sent type="main" lang="" page="57b" n="5"> 粳</sent>
+<sent type="anno" lang="" page="57b" n="6"> 同今俗呼─米 音  L 니 RH</sent>
+</pages>
+
+<pages n="58b">
+<img n="58b">https://kohico.kr/_media/image/1517_사성통해하/58b.jpg</img>
+<sent type="main" lang="" page="58b" n="1"> 鐙</sent>
+<sent type="anno" lang="" page="58b" n="2"> 鞍─  HH</sent>
+<sent type="main" lang="" page="58b" n="3"> 橙</sent>
+<sent type="anno" lang="" page="58b" n="4"> 坐具 사오리 LLL</sent>
+</pages>
+
+<pages n="59a">
+<img n="59a">https://kohico.kr/_media/image/1517_사성통해하/59a.jpg</img>
+<sent type="main" lang="" page="59a" n="1"> 絣</sent>
+<sent type="anno" lang="" page="59a" n="2"> 俗音  L 下至去聲同 (蒙韻)  L 下至崩字振繩墨直物曰─又 ─開 줄 이 버튀우다 H LLL LLLL</sent>
+<sent type="main" lang="" page="59a" n="3"> 檗蘗</sent>
+<sent type="anno" lang="" page="59a" n="4"> 今俗呼黃─木又曰暖木 황병피나모 LLHLL 方書多書作黃柏</sent>
+</pages>
+
+<pages n="59b">
+<img n="59b">https://kohico.kr/_media/image/1517_사성통해하/59b.jpg</img>
+<sent type="main" lang="" page="59b" n="1"> 白</sent>
+<sent type="anno" lang="" page="59b" n="2"> (蒙韻) 빼 下至鮊字同素也西方色又告也潔也明也又罰爵名又今俗語魚白兒 고기의 이루 LLL LL</sent>
+<sent type="main" lang="" page="59b" n="3"> 蝱虻</sent>
+<sent type="anno" lang="" page="59b" n="4"> 今俗呼─虫 의 HL</sent>
+</pages>
+
+<pages n="60b">
+<img n="60b">https://kohico.kr/_media/image/1517_사성통해하/60b.jpg</img>
+<sent type="main" lang="" page="60b" n="1"> 罾</sent>
+<sent type="anno" lang="" page="60b" n="2"> 魚網有機者今俗呼扮─ 들그믈 LLL</sent>
+<sent type="main" lang="" page="60b" n="3"> 鱡鰂 </sent>
+<sent type="anno" lang="" page="60b" n="4"> 烏─魚 오어 LLL</sent>
+</pages>
+
+<pages n="61a">
+<img n="61a">https://kohico.kr/_media/image/1517_사성통해하/61a.jpg</img>
+<sent type="main" lang="" page="61a" n="1"> 鐺</sent>
+<sent type="anno" lang="" page="61a" n="2"> 三足溫器  LL 通作鎗 (集韻) 云俗音當</sent>
+<!--원문에서는 "ㅈ"처럼 보임. 규장각본을 참고하여 입력하였음.-->
+</pages>
+
+<pages n="62b">
+<img n="62b">https://kohico.kr/_media/image/1517_사성통해하/62b.jpg</img>
+<sent type="main" lang="" page="62b" n="1"> 礦</sent>
+<sent type="anno" lang="" page="62b" n="2"> 銅鐵朴石亦作鑛𨥥今俗語銀─音  L 銀ㅅ 들궐 LL</sent>
+</pages>
+
+<pages n="63b">
+<img n="63b">https://kohico.kr/_media/image/1517_사성통해하/63b.jpg</img>
+<sent type="main" lang="" page="63b" n="1"> 檾䔛苘</sent>
+<sent type="anno" lang="" page="63b" n="2"> 今俗呼─麻 삼 LL</sent>
+</pages>
+
+<pages n="64a">
+<img n="64a">https://kohico.kr/_media/image/1517_사성통해하/64a.jpg</img>
+<sent type="main" lang="" page="64a" n="1"> 蠑</sent>
+<sent type="anno" lang="" page="64a" n="2"> ─螈 도마얌 LLLL</sent>
+</pages>
+
+<pages n="64b">
+<img n="64b">https://kohico.kr/_media/image/1517_사성통해하/64b.jpg</img>
+<sent type="main" lang="" page="64b" n="1"> 韝</sent>
+<sent type="anno" lang="" page="64b" n="2"> 射臂决 지 LL 又進食者以韋韜臂亦曰─</sent>
+<!--韜의 판독이 어려움. 규장각본을 참고하여 입력함.-->
+</pages>
+
+<pages n="65a">
+<img n="65a">https://kohico.kr/_media/image/1517_사성통해하/65a.jpg</img>
+<sent type="main" lang="" page="65a" n="1"> 𫃜</sent>
+<sent type="anno" lang="" page="65a" n="2"> 今俗語紐─ 마기 LLL</sent>
+<sent type="main" lang="" page="65a" n="3"> 簆</sent>
+<sent type="anno" lang="" page="65a" n="4"> 織具  LL</sent>
+</pages>
+
+<pages n="65b">
+<img n="65b">https://kohico.kr/_media/image/1517_사성통해하/65b.jpg</img>
+<sent type="main" lang="" page="65b" n="1"> 痘</sent>
+<sent type="anno" lang="" page="65b" n="2"> 今俗呼─子 역 LL</sent>
+<!--"역" 옆에 방점처럼 보이는 점이 있으나, 색이 너무 짙고 계선 위에 걸쳐 있음-->
+</pages>
+
+<pages n="67a">
+<img n="67a">https://kohico.kr/_media/image/1517_사성통해하/67a.jpg</img>
+<sent type="main" lang="" page="67a" n="1"> 篘</sent>
+<sent type="anno" lang="" page="67a" n="2"> 漉取酒  LL</sent>
+<sent type="main" lang="" page="67a" n="3"> 鷗</sent>
+<sent type="anno" lang="" page="67a" n="4"> 水鴞今俗呼江鷹 며기 LHH 又呼海猫兒</sent>
+</pages>
+
+<pages n="67b">
+<img n="67b">https://kohico.kr/_media/image/1517_사성통해하/67b.jpg</img>
+<sent type="main" lang="" page="67b" n="1"> 蔞</sent>
+<sent type="anno" lang="" page="67b" n="2"> ─蒿 믈 LL</sent>
+<sent type="main" lang="" page="67b" n="3"> 𧁾</sent>
+<sent type="anno" lang="" page="67b" n="4"> 𦸈─天瓜 하래 LLLL</sent>
+</pages>
+
+<pages n="68a">
+<img n="68a">https://kohico.kr/_media/image/1517_사성통해하/68a.jpg</img>
+<sent type="main" lang="" page="68a" n="1"> 梂</sent>
+<sent type="anno" lang="" page="68a" n="2"> 櫟實 도토리 LLL</sent>
+</pages>
+
+<pages n="68b">
+<img n="68b">https://kohico.kr/_media/image/1517_사성통해하/68b.jpg</img>
+<sent type="main" lang="" page="68b" n="1"> 紐</sent>
+<sent type="anno" lang="" page="68b" n="2"> 結會爲系今俗語─子 마기 LLL</sent>
+<sent type="main" lang="" page="68b" n="3"> 扭</sent>
+<!--원문에는 扭의 丑이 丒으로 되어 있음-->
+<sent type="anno" lang="" page="68b" n="4"> 手轉今俗語─ 뷔트다 LLL</sent>
+</pages>
+
+<pages n="69a">
+<img n="69a">https://kohico.kr/_media/image/1517_사성통해하/69a.jpg</img>
+<sent type="main" lang="" page="69a" n="1"> 緧</sent>
+<sent type="anno" lang="" page="69a" n="2"> 馬紖 고개 LLL 通作鞦鞧䋺</sent>
+<sent type="main" lang="" page="69a" n="3"> 鰍</sent>
+<sent type="anno" lang="" page="69a" n="4"> 今俗呼泥─ 믯구리 LLL</sent>
+<sent type="main" lang="" page="69a" n="5"> 䐐</sent>
+<sent type="anno" lang="" page="69a" n="6"> 股脛閒今俗呼曲膝曰曲─ 무룹 LL</sent>
+<sent type="main" lang="" page="69a" n="7"> 鏽銹鏥</sent>
+<sent type="anno" lang="" page="69a" n="8"> 鐵上生衣今俗語上─ 보 다 L LL</sent>
+<!--"보"에 얼룩이 묻어 ㅗ를 판독하기 어려움. 규장각본을 참고하여 입력하였음.-->
+</pages>
+
+<pages n="69b">
+<img n="69b">https://kohico.kr/_media/image/1517_사성통해하/69b.jpg</img>
+<sent type="main" lang="" page="69b" n="1"> 胄䩜</sent>
+<sent type="anno" lang="" page="69b" n="2"> 兜鍪今俗呼頭盔 투구 HH</sent>
+</pages>
+
+<pages n="70b">
+<img n="70b">https://kohico.kr/_media/image/1517_사성통해하/70b.jpg</img>
+<sent type="main" lang="" page="70b" n="1"> 鵂</sent>
+<sent type="anno" lang="" page="70b" n="2"> ─鶹 부이 LLL</sent>
+</pages>
+
+<pages n="72b">
+<img n="72b">https://kohico.kr/_media/image/1517_사성통해하/72b.jpg</img>
+<sent type="main" lang="" page="72b" n="1"> 芩</sent>
+<sent type="anno" lang="" page="72b" n="2"> 黃─藥名 솝서근플 RLLH</sent>
+<sent type="main" lang="" page="72b" n="3"> 妗</sent>
+<sent type="anno" lang="" page="72b" n="4"> 俗謂舅母曰─ 어믜 오라 겨집 HL HLH LL 亦曰─子又連─ 남진 동셰 LL LH</sent>
+<!--"셰"으 방점은 제법 작기 때문에 얼룩일 가능성이 있어 보임-->
+<sent type="main" lang="" page="72b" n="5"> 芨</sent>
+<sent type="anno" lang="" page="72b" n="6"> 白─ 대왐플 LLL 一云白芷也</sent>
+</pages>
+
+<pages n="73a">
+<img n="73a">https://kohico.kr/_media/image/1517_사성통해하/73a.jpg</img>
+<sent type="main" lang="" page="73a" n="1"> 蔈</sent>
+<sent type="anno" lang="" page="73a" n="2"> 菌也今俗呼香─ 표고 LL</sent>
+</pages>
+
+<pages n="73b">
+<img n="73b">https://kohico.kr/_media/image/1517_사성통해하/73b.jpg</img>
+<sent type="main" lang="" page="73b" n="1"> 葴</sent>
+<sent type="anno" lang="" page="73b" n="2"> 馬藍  LL 又酸漿 아 LL</sent>
+<sent type="main" lang="" page="73b" n="3"> 蕺</sent>
+<sent type="anno" lang="" page="73b" n="4"> 今俗呼筆管菜 멸 L 又龍鬚菜</sent>
+</pages>
+
+<pages n="74a">
+<img n="74a">https://kohico.kr/_media/image/1517_사성통해하/74a.jpg</img>
+<sent type="main" lang="" page="74a" n="1"> 窨</sent>
+<sent type="anno" lang="" page="74a" n="2"> 地室今俗語─子 움 L</sent>
+</pages>
+
+<pages n="75a">
+<img n="75a">https://kohico.kr/_media/image/1517_사성통해하/75a.jpg</img>
+<sent type="main" lang="" page="75a" n="1"> 鴿</sent>
+<sent type="anno" lang="" page="75a" n="2"> 鳩屬今俗呼─子又曰鵓─ 집비두리 LLLL</sent>
+</pages>
+
+<pages n="75b">
+<img n="75b">https://kohico.kr/_media/image/1517_사성통해하/75b.jpg</img>
+<sent type="main" lang="" page="75b" n="1"> 坩</sent>
+<sent type="anno" lang="" page="75b" n="2"> ─堝燒鍊金銀器 도관 HL</sent>
+</pages>
+
+<pages n="76a">
+<img n="76a">https://kohico.kr/_media/image/1517_사성통해하/76a.jpg</img>
+<sent type="main" lang="" page="76a" n="1"> 䌋</sent>
+<sent type="anno" lang="" page="76a" n="2"> 紇─ 실 LLL</sent>
+<sent type="main" lang="" page="76a" n="3"> 㘱𣲹</sent>
+<sent type="anno" lang="" page="76a" n="4"> 水衝岸壞吏語─塌 므르듣다 LLLL</sent>
+<!--원문에는 塌이 판독하기 어려움. 규장각본을 참고하여 입력함.-->
+<!--원문에는 "므르듣다"가 "므르듣디"처럼 보임. 규장각본을 참고하여 입력함.-->
+<sent type="main" lang="" page="76a" n="5"> 潭</sent>
+<sent type="anno" lang="" page="76a" n="6"> 水名又深水曰潭今俗語龍潭 의소 LHH</sent>
+</pages>
+
+<pages n="76b">
+<img n="76b">https://kohico.kr/_media/image/1517_사성통해하/76b.jpg</img>
+<sent type="main" lang="" page="76b" n="1"> 𡐧</sent>
+<sent type="anno" lang="" page="76b" n="2"> 甒屬  L 今俗語─子</sent>
+</pages>
+
+<pages n="77a">
+<img n="77a">https://kohico.kr/_media/image/1517_사성통해하/77a.jpg</img>
+<sent type="main" lang="" page="77a" n="1"> 帆䑺颿</sent>
+<sent type="anno" lang="" page="77a" n="2"> 舟上幔 돗 LL</sent>
+</pages>
+
+<pages n="77b">
+<img n="77b">https://kohico.kr/_media/image/1517_사성통해하/77b.jpg</img>
+<sent type="main" lang="" page="77b" n="1"> 𩐅</sent>
+<sent type="anno" lang="" page="77b" n="2"> 攱起也 괴오다 LHH</sent>
+</pages>
+
+<pages n="79b">
+<img n="79b">https://kohico.kr/_media/image/1517_사성통해하/79b.jpg</img>
+<sent type="main" lang="" page="79b" n="1"> 藍</sent>
+<sent type="anno" lang="" page="79b" n="2"> 染青草名蓼─ 족 L 今俗呼小─馬─  LL 今俗呼大─又伽─浮屠所居</sent>
+<sent type="main" lang="" page="79b" n="3"> 籃</sent>
+<sent type="anno" lang="" page="79b" n="4"> 大篝又─籠今俗語提─ 드 주리 LL LLL</sent>
+<sent type="main" lang="" page="79b" n="5"> 鑞</sent>
+<sent type="anno" lang="" page="79b" n="6"> 今俗呼錫─ 랍 L</sent>
+</pages>
+
+<pages n="80b">
+<img n="80b">https://kohico.kr/_media/image/1517_사성통해하/80b.jpg</img>
+<sent type="main" lang="" page="80b" n="1"> 餡</sent>
+<sent type="anno" lang="" page="80b" n="2"> 今俗呼餕─ 소 LL 亦作𦡶𤑃</sent>
+</pages>
+
+<pages n="81b">
+<img n="81b">https://kohico.kr/_media/image/1517_사성통해하/81b.jpg</img>
+<sent type="main" lang="" page="81b" n="1"> 箝</sent>
+<sent type="anno" lang="" page="81b" n="2"> 鐵鑷也今俗呼鉄─ 집게 LL 亦作𥮠鍼鉆鉗柑拑枔</sent>
+<sent type="main" lang="" page="81b" n="3"> 芡</sent>
+<sent type="anno" lang="" page="81b" n="4"> 𨿸頭 가련 여름 LLL LL</sent>
+<sent type="main" lang="" page="81b" n="5"> 釅醶</sent>
+<sent type="anno" lang="" page="81b" n="6"> 酢漿酒醋味厚今俗語酒─了 술 다 L LL</sent>
+</pages>
+
+<pages n="82a">
+<img n="82a">https://kohico.kr/_media/image/1517_사성통해하/82a.jpg</img>
+<sent type="main" lang="" page="82a" n="1"> 點</sent>
+<sent type="anno" lang="" page="82a" n="2"> ─𪐴又更─又─畫又─手 손 헤다 L LL</sent>
+</pages>
+
+<pages n="82b">
+<img n="82b">https://kohico.kr/_media/image/1517_사성통해하/82b.jpg</img>
+<sent type="main" lang="" page="82b" n="1"> 鮎</sent>
+<sent type="anno" lang="" page="82b" n="2"> 今俗呼─魚 머유기 LLL</sent>
+<sent type="main" lang="" page="82b" n="3"> 艌</sent>
+<sent type="anno" lang="" page="82b" n="4"> 今俗語─船  틈 몌우다 L L LLL</sent>
+<sent type="main" lang="" page="82b" n="5"> 鑷</sent>
+<sent type="anno" lang="" page="82b" n="6"> 今俗呼─子 죡졉개 LLL</sent>
+<sent type="main" lang="" page="82b" n="7"> 捻</sent>
+<sent type="anno" lang="" page="82b" n="8"> 捏也今俗語指─ 라고로 뱌다 LLLLL LLL 又紙─兒 죠심 LLL</sent>
+</pages>
+
+<pages n="83a">
+<img n="83a">https://kohico.kr/_media/image/1517_사성통해하/83a.jpg</img>
+<sent type="main" lang="" page="83a" n="1"> 㰇</sent>
+<sent type="anno" lang="" page="83a" n="2"> 楔也通作尖 쇠야기 LLL</sent>
+<sent type="main" lang="" page="83a" n="3"> 檝艥楫</sent>
+<sent type="anno" lang="" page="83a" n="4"> 櫂也  L</sent>
+<!--""의 단독형으로 판단된다-->
+<sent type="main" lang="" page="83a" n="5"> 塹</sent>
+<sent type="anno" lang="" page="83a" n="6"> 繞城水坑  믿  L L LL</sent>
+</pages>
+
+<pages n="83b">
+<img n="83b">https://kohico.kr/_media/image/1517_사성통해하/83b.jpg</img>
+<sent type="main" lang="" page="83b" n="1"> 黵</sent>
+<sent type="anno" lang="" page="83b" n="2"> 黑汚今俗語─汚了 더러이다 LLLL</sent>
+<sent type="main" lang="" page="83b" n="3"> 襵</sent>
+<sent type="anno" lang="" page="83b" n="4"> 襞積</sent>
+<sent type="main" lang="" page="83b" n="5"> 褶</sent>
+<sent type="anno" lang="" page="83b-84a" n="6"> 同上今俗語板─ 굴근 주룸 LL LL 細─  주룸 LL LL 又曰踅─</sent>
+<!-- 주^룸-->
+</pages>
+
+<pages n="84a">
+<img n="84a">https://kohico.kr/_media/image/1517_사성통해하/84a.jpg</img>
+<sent type="main" lang="" page="84a" n="1"> 韂</sent>
+<sent type="anno" lang="" page="84a" n="2"> 馬障泥今俗呼馬─ 애 LL 省作䩞</sent>
+</pages>
+
+<pages n="84b">
+<img n="84b">https://kohico.kr/_media/image/1517_사성통해하/84b.jpg</img>
+<sent type="main" lang="" page="84b" n="1"> 淹</sent>
+<sent type="anno" lang="" page="84b" n="2"> 沒也今俗語水─了 믈 다 L LL</sent>
+</pages>
+
+<pages n="85a">
+<img n="85a">https://kohico.kr/_media/image/1517_사성통해하/85a.jpg</img>
+<sent type="main" lang="" page="85a" n="1"> 杴</sent>
+<sent type="anno" lang="" page="85a" n="2"> 鍫屬或作㸝鐵─ 삷 L 木─ 가래 LL</sent>
+<sent type="main" lang="" page="85a" n="3"> 薟</sent>
+<sent type="anno" lang="" page="85a" n="4"> 豨薟藥 두터븨니블 LLLLL</sent>
+</pages>
+
+<pages n="86a">
+<img n="86a">https://kohico.kr/_media/image/1517_사성통해하/86a.jpg</img>
+<sent type="main" lang="" page="86a" n="1"> 奩匳</sent>
+<sent type="anno" lang="" page="86a" n="2"> 今俗呼鏡─亦作籢 거우룻집 LLLL</sent>
+<sent type="main" lang="" page="86a" n="3"> 帘</sent>
+<sent type="anno" lang="" page="86a" n="4"> 青─酒家望子即酒旗也又今俗語酒─ 고조 주머니 LL LLL</sent>
+<sent type="main" lang="" page="86a" n="5"> 蘞</sent>
+<sent type="anno" lang="" page="86a" n="6"> 白─藥草 가희톱플 LLHH</sent>
+</pages>
+
+<pages n="86b">
+<img n="86b">https://kohico.kr/_media/image/1517_사성통해하/86b.jpg</img>
+<sent type="title" lang="" page="86b" n="1"> 四聲通解下</sent>
+</pages>
+</doc>

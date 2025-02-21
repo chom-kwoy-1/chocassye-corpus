@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<teiHeader>
+<titleStmt>
+<title>東國新續三綱行實圖 新續孝子圖 卷四</title>
+<author>미상</author>
+<date>1617년</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>東國新續三綱行實圖</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1992</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/01/20</date>
+<respStmt>
+<resp>입력자</resp><name>조남곤</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>장경준</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+<sent type="title" lang="chi" page="1a" n="1">柳氏斷指</sent>
+<sent type="main" lang="chi" page="1b" n="1">處女柳氏文化縣人</sent>
+<sent type="main" lang="kor" page="1b" n="1">쳐녀 뉴시ᄂᆞᆫ 문홰현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="1b" n="2">年十四父歿朝夕必親奠母</sent>
+<sent type="main" lang="kor" page="1b" n="2">나히 열네힌 제 아비 죽거ᄂᆞᆯ 아ᄎᆞᆷ나죄 반ᄃᆞ시 손소 졔뎐ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="1b" n="3">又得惡疾斷指燒進病愈</sent>
+<sent type="main" lang="kor" page="1b" n="3">ᄯᅩ 어미 사오나온 병을 어덧거ᄂᆞᆯ 손가락 버혀 ᄉᆞ라 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="1b" n="4">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="1b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="2a" n="1">吉氏入火</sent>
+<sent type="main" lang="chi" page="2b" n="1">吉氏洪原縣人</sent>
+<sent type="main" lang="kor" page="2b" n="1">길시ᄂᆞᆫ 홍원현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="2b" n="2">家嘗失火入烈熖中負姑未及出俱死</sent>
+<sent type="main" lang="kor" page="2b" n="2">지븨셔 일즉 블나여ᄂᆞᆯ 모딘 블곳 가온ᄃᆡ 드러 싀어미ᄅᆞᆯ 업고 몯 미처 나셔 다 죽으니라</sent>
+<sent type="main" lang="chi" page="2b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="2b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="3a" n="1">李植割股</sent>
+<sent type="main" lang="chi" page="3b" n="1">李植京都人</sent>
+<sent type="main" lang="kor" page="3b" n="1">니식은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="3b" n="2">母久病割股肉和藥以進病愈</sent>
+<sent type="main" lang="kor" page="3b" n="2">어미 오래 병ᄒᆞ거ᄂᆞᆯ 다리예 ᄉᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="3b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="3b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="4a" n="1">漢孫斷指</sent>
+<sent type="main" lang="chi" page="4b" n="1">梅漢孫黃澗縣人</sent>
+<sent type="main" lang="kor" page="4b" n="1">ᄆᆡ한손은 황간현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="4b" n="2">父得惡疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="4b" n="2">아비 사오나온 병 어덧거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="4b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="4b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="5a" n="1">梅臣至行</sent>
+<sent type="main" lang="chi" page="5b" n="1">判官鄭梅臣京都人鄭陟之孫誠謹之子舟臣之弟也</sent>
+<sent type="main" lang="kor" page="5b" n="1">판관 뎡ᄆᆡ신은 셔울 사ᄅᆞᆷ이니 뎡텩의 손ᄌᆡ오 셩근의 아ᄃᆞᆯ이오 쥬신의 아이라</sent>
+<sent type="main" lang="chi" page="5b" n="2">陟誠謹舟臣皆以忠孝旌閭</sent>
+<sent type="main" lang="kor" page="5b" n="2">텩과 셩근과 쥬신이 다 튱효로 졍표ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="5b" n="3">梅臣年纔十歲痛父非命言及甲子事輒涕淚交頥</sent>
+<sent type="main" lang="kor" page="5b" n="3">ᄆᆡ신이 나히 계요 열 설에 그 아비 명 아닌ᄃᆡ 주그믈 셜워 말솜이 갑ᄌᆞ년일에 미츠면 믄득 눈믈이 ᄐᆡᆨ애 흐르더라</sent>
+<!--원문에 ‘셜위’로 되어 있으나 오각 혹은 탈각으로 판단되어 ‘셜워’로 고쳤다.-->
+<sent type="main" lang="chi" page="5b" n="4">事母三十年溫凊甘旨克盡其誠</sent>
+<sent type="main" lang="kor" page="5b" n="4">어미 셤기기ᄅᆞᆯ 셜ᄒᆞᆫ ᄒᆡ예 ᄃᆞᄉᆞ며 서늘ᄒᆞ며 ᄃᆞᆯ며 만난 거슬 그 졍셩을 다ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="5b" n="5">母歿廬墓三年一不到家</sent>
+<sent type="main" lang="kor" page="5b" n="5">어미 죽거ᄂᆞᆯ 시묘ᄅᆞᆯ 삼 년을 사라 ᄒᆞᆫ 적도 집의 오디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="5b" n="6">晨昏哭墓雨雪不廢不食鹽醬不脫絰帶</sent>
+<sent type="main" lang="kor" page="5b" n="6">새배 어을므로 분묘애 울오ᄃᆡ 비며 눈이라도 폐티 아니ᄒᆞ고 소곰 쟝을 먹디 아니ᄒᆞ며 상복을 벗디 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="5b" n="7">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="5b" n="7">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="6a" n="1">石明追虎</sent>
+<sent type="main" lang="chi" page="6b" n="1">林石明三登縣人</sent>
+<sent type="main" lang="kor" page="6b" n="1">님셕명은 삼등현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="6b" n="2">年十五隨父入山父爲虎所攬</sent>
+<sent type="main" lang="kor" page="6b" n="2">나히 열다ᄉᆞ신 제 아비ᄅᆞᆯ 조차 뫼희 드러갓다가 아비 범의게 자핀 배 되거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="6b" n="3">石明揮劍追虎得免</sent>
+<sent type="main" lang="kor" page="6b" n="3">셕명이 칼ᄒᆞᆯ 저어 범을 ᄧᅩ츠니 면호물 어드니라</sent>
+<sent type="main" lang="chi" page="6b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="6b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="7a" n="1">碩汀割腿</sent>
+<sent type="main" lang="chi" page="7b" n="1">洪碩汀高原郡人</sent>
+<sent type="main" lang="kor" page="7b" n="1">홍셕뎡은 고원군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="7b" n="2">母疾割腿以服之得活</sent>
+<sent type="main" lang="kor" page="7b" n="2">어믜 병의 다리ᄲᆡᄅᆞᆯ 버혀 ᄡᅥ 받ᄌᆞ오니 시러곰 사니라</sent>
+<sent type="main" lang="chi" page="7b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="7b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="8a" n="1">叔倫割股</sent>
+<sent type="main" lang="chi" page="8b" n="1">河叔倫忠州人</sent>
+<sent type="main" lang="kor" page="8b" n="1">하슉뉸ᄂᆞᆫ 튱ᄌᆔ 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="8b" n="2">母得惡疾割股肉和酒以進病卽愈</sent>
+<sent type="main" lang="kor" page="8b" n="2">어미 악질을 어더ᄭᅥᄂᆞᆯ 다리 ᄲᆡᄅᆞᆯ 버혀 술에 ᄩᅡ ᄡᅥ 나오니 병이 즉제 됴화ᄯᅥ니</sent>
+<sent type="main" lang="chi" page="8b" n="3">後母病復作又斷指燒進其病永療</sent>
+<sent type="main" lang="kor" page="8b" n="3">후에 어믜 병이 도로 닐거ᄂᆞᆯ ᄯᅩ 손가락글 근처 ᄉᆞ라 나오니 그 병이 영히 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="8b" n="4">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="8b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="main" lang="kor" page="9a" n="1">守精廬墓</sent>
+<sent type="main" lang="chi" page="9b" n="1">高守精康津縣人</sent>
+<sent type="main" lang="kor" page="9b" n="1">고슈졍은 강진현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="9b" n="2">母死廬墓啜粥終喪親具奠饌</sent>
+<sent type="main" lang="kor" page="9b" n="2">어미 죽거ᄂᆞᆯ 시묘ᄒᆞ고 쥭 머거 상ᄉᆞ ᄆᆞᄎᆞ되 친히 뎐찬을 ᄀᆞ초고</sent>
+<sent type="main" lang="chi" page="9b" n="3">與人言或及父母未嘗不失聲哀哭</sent>
+<sent type="main" lang="kor" page="9b" n="3">사ᄅᆞᆷ으로 더브러 말호매 혹 부모의게 미츠면 일즉 실셩ᄒᆞ고 셜워 울기ᄅᆞᆯ 아니티 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="9b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="9b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="10a" n="1">權福立祠</sent>
+<sent type="main" lang="chi" page="10b" n="1">權福潭陽府人</sent>
+<sent type="main" lang="kor" page="10b" n="1">권복은 담양부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="10b" n="2">事父孝以</sent>
+<sent type="main" lang="kor" page="10b" n="2">아비 셤기ᄆᆞᆯ 효도로 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="10b" n="3">早喪母追慕爲立祠室以祭朝夕</sent>
+<sent type="main" lang="kor" page="10b" n="3">일 어미 죽그ᄆᆞ로ᄡᅥ 조초 ᄉᆞ모ᄒᆞ야 위ᄒᆞ야 ᄉᆞ당을 셰고 ᄡᅥ 됴셕의 졔ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="10b" n="4">父歿不離墓側啜粥三年喪畢奠朔望不輟</sent>
+<sent type="main" lang="kor" page="10b" n="4">아비 죽거ᄂᆞᆯ 무덤 겨틔 ᄠᅥ나디 아니ᄒᆞ야 삼 년 쥭 먹더니 상ᄉᆞ ᄆᆞᆺ고 삭망졔ᄅᆞᆯ 그치디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="10b" n="5">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="10b" n="5">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="11a" n="1">克通廬墓</sent>
+<sent type="main" lang="chi" page="11b" n="1">吳克通咸從縣人</sent>
+<sent type="main" lang="kor" page="11b" n="1">오극통은 함죵현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="11b" n="2">父母歿廬于墓側前後六年不食鹽醬</sent>
+<sent type="main" lang="kor" page="11b" n="2">부모 죽거ᄂᆞᆯ 무덤 ᄭᆞ의 집 지어 젼후의 여ᄉᆞᆮ ᄒᆡᄅᆞᆯ 소금 쟝을 아니 먹그니라</sent>
+<sent type="main" lang="chi" page="11b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="11b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="12a" n="1">鐵重斷指</sent>
+<sent type="main" lang="chi" page="12b" n="1">裵鐵重高陽郡人護軍亨孝之子</sent>
+<sent type="main" lang="kor" page="12b" n="1">ᄇᆡ텰듕은 고양군 사ᄅᆞᆷ이니 호군 형효의 아ᄃᆞᆯ이라</sent>
+<sent type="main" lang="chi" page="12b" n="2">其母李氏得惡疾</sent>
+<sent type="main" lang="kor" page="12b" n="2">그 어미 니시 사오나온 병을 어덧거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="12b" n="3">鐵重斷指和藥以進母疾遂愈</sent>
+<sent type="main" lang="kor" page="12b" n="3">텰듕이 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 어믜 병이 드듸여 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="12b" n="4">恭僖大王朝旌門復戶</sent>
+<sent type="main" lang="kor" page="12b" n="4">공희대왕됴애 졍문ᄒᆞ시고 복호ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="13a" n="1">蒙松抱屍</sent>
+<sent type="main" lang="chi" page="13b" n="1">韓蒙松水原府人</sent>
+<sent type="main" lang="kor" page="13b" n="1">한몽숑이ᄂᆞᆫ 슈원부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="13b" n="2">嘗從父捕魚父溺死蒙松投入抱屍而出</sent>
+<sent type="main" lang="kor" page="13b" n="2">일즉 아비ᄅᆞᆯ 조차 고기 잡다가 아비 므레 ᄲᅡ뎌 죽거ᄂᆞᆯ 몽숑이 ᄃᆞ라드러 주검을 안고 나오니라</sent>
+<sent type="main" lang="chi" page="13b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="13b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="14a" n="1">繼璉斷指</sent>
+<sent type="main" lang="chi" page="14b" n="1">韓繼璉京都人</sent>
+<sent type="main" lang="kor" page="14b" n="1">한계련은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="14b" n="2">外祖母久嬰狂疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="14b" n="2">외조뫼 오래 미친 병 ᄒᆞ거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="14b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="14b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="15a" n="1">柳熙斷指</sent>
+<sent type="main" lang="chi" page="15b" n="1">柳熙京都人</sent>
+<sent type="main" lang="kor" page="15b" n="1">뉴희ᄂᆞᆫ 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="15b" n="2">母得惡疾斷指和藥以進病遂愈</sent>
+<sent type="main" lang="kor" page="15b" n="2">어미 사오나온 병 어덧거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 믄득 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="15b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="15b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="16a" n="1">舟臣不食</sent>
+<sent type="main" lang="chi" page="16b" n="1">鄭舟臣廣州人</sent>
+<sent type="main" lang="kor" page="16b" n="1">뎡쥬신은 광ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="16b" n="2">其父誠謹遭燕山甲子之禍號擗不食而死</sent>
+<sent type="main" lang="kor" page="16b" n="2">그 아비 셩근이 연산 갑ᄌᆞ년 화ᄅᆞᆯ 만나ᄂᆞᆯ 울고 가ᄉᆞᆷ 두드리고 밥을 아니 머거 주그니라</sent>
+<sent type="main" lang="chi" page="16b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="16b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="17a" n="1">世匡割股</sent>
+<sent type="main" lang="chi" page="17b" n="1">宋世匡海州人</sent>
+<sent type="main" lang="kor" page="17b" n="1">송셰광은 ᄒᆡᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="17b" n="2">母病革割股肉和藥以進病卽愈</sent>
+<sent type="main" lang="kor" page="17b" n="2">어믜 병이 극ᄒᆞ엿거ᄂᆞᆯ 다리예 ᄉᆞᆯᄒᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 즉제 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="17b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="17b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="18a" n="1">世俊執喪</sent>
+<sent type="main" lang="chi" page="18b" n="1">杜世俊沃溝縣人</sent>
+<sent type="main" lang="kor" page="18b" n="1">두셰쥰은 옥구현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="18b" n="2">母病衣不解帶</sent>
+<sent type="main" lang="kor" page="18b" n="2">어미 병들거ᄂᆞᆯ 오새 ᄯᅴ 그르디 아니ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="18b" n="3">及歿躬爨以奠哀毁盡禮</sent>
+<sent type="main" lang="kor" page="18b" n="3">주그매 미처ᄂᆞᆫ 몸소 밥 지어 ᄡᅥ 졔ᄒᆞ고 셜워ᄒᆞ며 여위여 녜ᄅᆞᆯ 다ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="18b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="18b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="19a" n="1">成允廬墓</sent>
+<sent type="main" lang="chi" page="19b" n="1">梁成允沃溝縣人縣監梁甸之子</sent>
+<sent type="main" lang="kor" page="19b" n="1">냥셩윤은 옥구현 사ᄅᆞᆷ이니 현감 냥뎐의 아ᄃᆞ리라</sent>
+<sent type="main" lang="chi" page="19b" n="2">甸嘗病臥數歲晝夜不懈衣帶</sent>
+<sent type="main" lang="kor" page="19b" n="2">뎐이 일즉 병드러 두어 ᄒᆡᄅᆞᆯ 누엇거ᄂᆞᆯ 낟밤을 옷 ᄯᅴᄅᆞᆯ 그르디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="19b" n="3">母病十餘年侍奉亦盡誠父母歿皆廬墓三年</sent>
+<sent type="main" lang="kor" page="19b" n="3">어미 열나ᄆᆞᆫ ᄒᆡᄅᆞᆯ 병ᄒᆞ거ᄂᆞᆯ 뫼셔 받들기ᄅᆞᆯ ᄯᅩ 졍을 다ᄒᆞ더니 부모 죽거ᄂᆞᆯ 다 삼 년 시묘ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="19b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="19b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="20a" n="1">應台斷指</sent>
+<sent type="main" lang="chi" page="20b" n="1">姜應台晉州人</sent>
+<sent type="main" lang="kor" page="20b" n="1">강응ᄐᆡᄂᆞᆫ 진ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="20b" n="2">父得惡疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="20b" n="2">아비 사오나온 병 어덧거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="20b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="20b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="21a" n="1">繼賢斷指</sent>
+<sent type="main" lang="chi" page="21b" n="1">胡繼賢甕津縣人</sent>
+<sent type="main" lang="kor" page="21b" n="1">호계현은 옹진현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="21b" n="2">父惡疾斷指和藥以進疾乃愈</sent>
+<sent type="main" lang="kor" page="21b" n="2">아비 사오나온 병을 ᄒᆞ여ᄂᆞᆯ 손가락을 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="21b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="21b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="22a" n="1">石堅廬墓</sent>
+<sent type="main" lang="chi" page="22b" n="1">玉石堅昌原府人</sent>
+<sent type="main" lang="kor" page="22b" n="1">옥셕견은 챵원부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="22b" n="2">早孤家貧</sent>
+<sent type="main" lang="kor" page="22b" n="2">어버이 일 여희고 지비 가난터니</sent>
+<sent type="main" lang="chi" page="22b" n="3">事母以誠得異味輒懷以獻</sent>
+<sent type="main" lang="kor" page="22b" n="3">어미 셤기ᄆᆞᆯ 졍셩으로 ᄒᆞ야 긔이ᄒᆞᆫ 마ᄉᆞᆯ 어드면 믄득 푸머다가 ᄡᅥ 드리더니</sent>
+<sent type="main" lang="chi" page="22b" n="4">及歿哀毁踰禮</sent>
+<sent type="main" lang="kor" page="22b" n="4">주그매 미처ᄂᆞᆫ 셜워 여위ᄆᆞᆯ 녜예 넘게 ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="22b" n="5">時短喪法嚴獨廬墓不脫衰絰</sent>
+<sent type="main" lang="kor" page="22b" n="5">그저긔 단상법이 엄ᄒᆞᄃᆡ 홀로 녀묘ᄒᆞ야 최딜을 벋디 아니코</sent>
+<sent type="main" lang="chi" page="22b" n="6">喪畢後三年猶不廢朝夕奠</sent>
+<sent type="main" lang="kor" page="22b" n="6">상ᄉᆞ ᄆᆞᄎᆞᆫ 후의 삼 년을 오히려 됴셕뎐을 폐티 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="22b" n="7">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="22b" n="7">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="23a" n="1">亨溫吮淋</sent>
+<sent type="main" lang="chi" page="23b" n="1">蔡亨溫永同縣人</sent>
+<sent type="main" lang="kor" page="23b" n="1">채형온은 영동현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="23b" n="2">年十一母爲父所棄</sent>
+<sent type="main" lang="kor" page="23b" n="2">나히 열ᄒᆞ나희 어미 아븨게 ᄇᆞ린 배 되거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="23b" n="3">家貧拾橡栗以供朝夕母死稱貸以葬</sent>
+<sent type="main" lang="kor" page="23b" n="3">집이 가난ᄒᆞ야 도토리늘 주어 ᄡᅥ 됴셕을 치더니 어미 죽거ᄂᆞᆯ ᄂᆞᄆᆡ게 ᄭᅮ어 ᄡᅥ 영장ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="23b" n="4">父嘗患淋吮之乃愈</sent>
+<sent type="main" lang="kor" page="23b" n="4">아비 일즉 님질을 알커ᄂᆞᆯ ᄲᆞ니 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="23b" n="5">及歿廬墓啜粥三年</sent>
+<sent type="main" lang="kor" page="23b" n="5">주그매 미처ᄂᆞᆫ 무덤의 집 짓고 삼 년 쥭 머그니라</sent>
+<sent type="main" lang="chi" page="23b" n="6">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="23b" n="6">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="24a" n="1">善橿廬墓</sent>
+<sent type="main" lang="chi" page="24b" n="1">朴善橿文化縣人</sent>
+<sent type="main" lang="kor" page="24b" n="1">박션강은 문화현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="24b" n="2">少喪母事父孝</sent>
+<sent type="main" lang="kor" page="24b" n="2">져머셔 어미ᄅᆞᆯ 일코 아비 셤기ᄆᆞᆯ 효도로 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="24b" n="3">及歿廬墓三年又爲母追服</sent>
+<sent type="main" lang="kor" page="24b" n="3">주그매 미처ᄂᆞᆫ 삼 년 시묘ᄒᆞ고 ᄯᅩ 어미ᄅᆞᆯ 위ᄒᆞ야 조초 거상 니브니리</sent>
+<!--‘리’를 ‘라’로 고쳤다.-->
+<sent type="main" lang="chi" page="24b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="24b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="25a" n="1">允斤斷指</sent>
+<sent type="main" lang="chi" page="25b" n="1">朴允斤泰仁縣人</sent>
+<sent type="main" lang="kor" page="25b" n="1">박윤근은 태인현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="25b" n="2">父患惡疾</sent>
+<sent type="main" lang="kor" page="25b" n="2">아비 사오나온 병을 알커ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="25b" n="3">允斤年纔十五斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="25b" n="3">윤근이 나히 계우 열다ᄉᆞ새 손가락 버혀 구긔 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="25b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="25b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="26a" n="1">朴氤居廬</sent>
+<sent type="main" lang="chi" page="26b" n="1">朴氤晉州人</sent>
+<sent type="main" lang="kor" page="26b" n="1">박인은 진ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="26b" n="2">父歿當燕山時短喪法甚嚴氤服衰居廬以終三年</sent>
+<sent type="main" lang="kor" page="26b" n="2">아비 죽거ᄂᆞᆯ 연산 적 단상법이 심히 엄ᄒᆞᆫ 제ᄅᆞᆯ 당ᄒᆞ야 인이 졔복 닙고 거려ᄒᆞ야 ᄡᅥ 삼 년을 ᄆᆞᄎᆞ니라</sent>
+<sent type="main" lang="chi" page="26b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="26b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="27a" n="1">庭堅執喪</sent>
+<sent type="main" lang="chi" page="27b" n="1">朴庭堅昌原府人</sent>
+<sent type="main" lang="kor" page="27b" n="1">박뎡견은 챵원부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="27b" n="2">燕山朝短喪法甚嚴</sent>
+<sent type="main" lang="kor" page="27b" n="2">연산됴애 단상법이 심엄ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="27b" n="3">庭堅連喪父母服衰三年喪畢猶不廢朔望奠</sent>
+<sent type="main" lang="kor" page="27b" n="3">뎡견이 년ᄒᆞ야 부모 죽거ᄂᆞᆯ 졔복 삼 년 닙고 상ᄉᆞ ᄆᆞᆮ고 오히려 삭망뎐을 폐티 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="27b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="27b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="28a" n="1">佛山廬墓</sent>
+<sent type="main" lang="chi" page="28b" n="1">全佛山密陽府人</sent>
+<sent type="main" lang="kor" page="28b" n="1">젼불산은 밀양부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="28b" n="2">性至孝</sent>
+<sent type="main" lang="kor" page="28b" n="2">셩이 지극ᄒᆞᆫ ᄒᆈ러니</sent>
+<sent type="main" lang="chi" page="28b" n="3">父歿廬墓夜有風雨則必號哭墳前以待朝</sent>
+<sent type="main" lang="kor" page="28b" n="3">아비 죽거ᄂᆞᆯ 녀묘ᄒᆞᆯᄉᆡ 밤의 ᄇᆞᄅᆞᆷ비 이시면 반ᄃᆞ시 무덤 알ᄑᆡ 가 울고 ᄡᅥ 아젹을 기드리더라</sent>
+<sent type="main" lang="chi" page="28b" n="4">服闋又居三年一不到家</sent>
+<sent type="main" lang="kor" page="28b" n="4">복 ᄆᆞᆺ고 ᄯᅩ 삼 년 사로ᄃᆡ ᄒᆞᆫ 적도 집의 가디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="28b" n="5">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="28b" n="5">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="29a" n="1">時佐孝感</sent>
+<sent type="main" lang="chi" page="29b" n="1">金時佐安東府人</sent>
+<sent type="main" lang="kor" page="29b" n="1">김시좌ᄂᆞᆫ 안동부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="29b" n="2">早孤奉母至孝畋魚以供甘旨</sent>
+<sent type="main" lang="kor" page="29b" n="2">일 아비 업거ᄂᆞᆯ 어미ᄅᆞᆯ 봉양ᄒᆞᄆᆞᆯ 지극히 효도ᄒᆡ야 산ᄒᆡᆼ과 쳔녑ᄒᆞ여 ᄡᅥ 만난 거ᄉᆞᆯ ᄀᆞᆮ초더니</sent>
+<sent type="main" lang="chi" page="29b" n="3">母患腫時佐接髮分蝨晝夜吮之得瘳</sent>
+<sent type="main" lang="kor" page="29b" n="3">어미 죵긔ᄅᆞᆯ 알거ᄂᆞᆯ 시좨 머리터럭글 년ᄒᆞ야 니ᄅᆞᆯ 올리고 듀야의 ᄲᆞ니 됴흐믈 얻다</sent>
+<!--언해문에 ‘알거ᄂᆞᆯ’로 되어 있으나 오각이나 탈각으로 판단되어 ‘알커ᄂᆞᆯ’로 고쳤다.-->
+<sent type="main" lang="chi" page="29b" n="4">及歿居廬不下家</sent>
+<sent type="main" lang="kor" page="29b" n="4">믿 주그매 녀묘살이ᄒᆞ여 지븨 ᄂᆞ려오디 아니ᄒᆞ며</sent>
+<!--언해문에 ‘이’로 되어 있으나 탈각이 분명하여 ‘아’로 고쳤다.-->
+<sent type="main" lang="chi" page="29b" n="5">不食鹽醬菜果啜粥終喪哀毁過制</sent>
+<sent type="main" lang="kor" page="29b" n="5">소곰 쟝 ᄂᆞᄆᆞᆯ과 실과도 먹디 아니ᄒᆞ고 쥭믈만 마셔 상ᄉᆞᄅᆞᆯ ᄆᆞᄎᆞ되 셜워 샹훼ᄒᆞ믈 법졔예 넘게 ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="29b" n="6">一日大風失火將延祭廳</sent>
+<sent type="main" lang="kor" page="29b" n="6">ᄒᆞᄅᆞ날애 큰 ᄇᆞᄅᆞᆷ의 블을 내여 쟝ᄎᆞᆮ 졔텽의 연급ᄒᆞ거ᄅᆞᆯ</sent>
+<sent type="main" lang="chi" page="29b" n="7">號哭向風叩頭火旋自滅</sent>
+<sent type="main" lang="kor" page="29b" n="7">브느지져 울고 ᄇᆞᄅᆞᆷ을 향ᄒᆞ여 머리 조ᄋᆞ니 블이 믄득 절로 ᄭᅥ디니라</sent>
+<sent type="main" lang="chi" page="29b" n="8">旣免服晨昏謁廟朔望奠墓</sent>
+<sent type="main" lang="kor" page="29b" n="8">이믜 탈상ᄒᆞ고 새배 어을믜 ᄉᆞ당의 뵈고 초ᄒᆞᄅᆞ 보롬의 무덤의 졔ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="29b" n="9">國恤方喪三年國忌亦齋素</sent>
+<sent type="main" lang="kor" page="29b" n="9">국상의 거상 삼 년을 ᄒᆞ고 국긔예 ᄯᅩ ᄌᆡ계ᄒᆞ며 소ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="29b" n="10">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="29b" n="10">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="30a" n="1">壽堅斷指</sent>
+<sent type="main" lang="chi" page="30b" n="1">金壽堅京都人</sent>
+<sent type="main" lang="kor" page="30b" n="1">김슈견은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="30b" n="2">母得狂疾壽堅斷指爲藥以進病愈</sent>
+<sent type="main" lang="kor" page="30b" n="2">어미 미친 병 어덧거ᄂᆞᆯ 슈견이 손가락 버혀 약ᄒᆞ야 ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="30b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="30b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="31a" n="1">敬孫居廬</sent>
+<sent type="main" lang="chi" page="31b" n="1">金敬孫長水縣人</sent>
+<sent type="main" lang="kor" page="31b" n="1">김경손은 댱슈현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="31b" n="2">自少事親孝家貧稱貸務具甘旨</sent>
+<sent type="main" lang="kor" page="31b" n="2">져머셔브터 어버이 셤기ᄆᆞᆯ 효도로 ᄒᆞ더니 지비 가난ᄒᆞ야 ᄭᅮ어도 맛갓나게 ᄒᆞ기ᄅᆞᆯ 힘서 ᄒᆞ더라</sent>
+<!--언해문에 ‘이’로 되어 있으나 탈각으로 판단되어 ‘어’로 고쳤다.-->
+<sent type="main" lang="chi" page="31b" n="3">父死哀毁過禮</sent>
+<sent type="main" lang="kor" page="31b" n="3">아비 죽거ᄂᆞᆯ 셜워 여위기ᄅᆞᆯ 녜예 넘게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="31b" n="4">母病八年藥必先嘗</sent>
+<sent type="main" lang="kor" page="31b" n="4">어미 여ᄃᆞᆲ ᄒᆡᄅᆞᆯ 병ᄒᆞ거ᄂᆞᆯ 약을 반ᄃᆞ시 몬져 맛보더니</sent>
+<sent type="main" lang="chi" page="31b" n="5">及歿啜粥居廬一不到家</sent>
+<sent type="main" lang="kor" page="31b" n="5">주그매 미처ᄂᆞᆫ 쥭 먹고 시묘ᄒᆞ야 ᄒᆞᆫ 적도 지븨 오디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="31b" n="6">時年七十餘</sent>
+<sent type="main" lang="kor" page="31b" n="6">그저긔 나히 닐흐니 남더라</sent>
+<sent type="main" lang="chi" page="31b" n="7">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="31b" n="7">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="32a" n="1">金敏誠孝</sent>
+<sent type="main" lang="chi" page="32b" n="1">金敏龍岡縣人</sent>
+<sent type="main" lang="kor" page="32b" n="1">김민은 뇽강현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="32b" n="2">父歿旣葬每遇朔望躬祭于墓</sent>
+<sent type="main" lang="kor" page="32b" n="2">아비 죽거ᄂᆞᆯ 이믜 영장ᄒᆞ고 ᄆᆡ일 삭망 만나면 몸소 무덤의 가 졔호ᄃᆡ</sent>
+<sent type="main" lang="chi" page="32b" n="3">年踰八十猶不廢</sent>
+<sent type="main" lang="kor" page="32b" n="3">나히 여ᄃᆞ니 너므되 오히려 폐티 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="32b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="32b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="33a" n="1">金粹寫影</sent>
+<sent type="main" lang="chi" page="33b" n="1">金粹京都人</sent>
+<sent type="main" lang="kor" page="33b" n="1">김슈ᄂᆞᆫ 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="33b" n="2">事親孝每遇朔望必盛饌邀鄰里以娛之</sent>
+<sent type="main" lang="kor" page="33b" n="2">어버이 셤기ᄆᆞᆯ 효도ᄒᆞ야 ᄆᆡ일 삭망 만나셔 반ᄃᆞ시 셩찬ᄒᆞ야 이우즐 쳥ᄒᆞ야 ᄡᅥ 즐기며</sent>
+<sent type="main" lang="chi" page="33b" n="3">遭憂居廬一不到家</sent>
+<sent type="main" lang="kor" page="33b" n="3">거상 만나 시묘ᄒᆞ고 ᄒᆞᆫ 적도 지븨 가디 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="33b" n="4">喪畢猶服素三年寫影掛壁奠朝夕不廢</sent>
+<sent type="main" lang="kor" page="33b" n="4">상ᄉᆞ ᄆᆞᆺ고 ᄯᅩ 오히려 흰 것 삼 년 닙고 얼굴 그려 ᄇᆞᄅᆞᆷ의 걸고 됴셕의 졔홈을 폐티 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="33b" n="5">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="33b" n="5">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="34a" n="1">孟堅追服</sent>
+<sent type="main" lang="chi" page="34b" n="1">金孟堅京都人</sent>
+<sent type="main" lang="kor" page="34b" n="1">김ᄆᆡᆼ견은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="34b" n="2">五歲母死旣長服繼母喪畢仍爲生母追服三年</sent>
+<sent type="main" lang="kor" page="34b" n="2">다ᄉᆞᆺ 서릐 어미 죽거ᄂᆞᆯ 이믜 ᄌᆞ라셔 계모 거상 니버 ᄆᆞᆺ고 인ᄒᆞ야 ᄉᆡᆼ모 위ᄒᆞ야 조초 삼 년 복ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="34b" n="3">及父歿居廬朝夕奠</sent>
+<sent type="main" lang="kor" page="34b" n="3">아비 주그매 미처ᄂᆞᆫ 거려ᄒᆞ고 됴셕뎐ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="34b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="34b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="35a" n="1">金建誠孝</sent>
+<sent type="main" lang="chi" page="35b" n="1">金建沃川郡人</sent>
+<sent type="main" lang="kor" page="35b" n="1">김건은 옥쳔군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="35b" n="2">性至孝遭父母喪一遵家禮啜粥三年</sent>
+<sent type="main" lang="kor" page="35b" n="2">셩이 지극ᄒᆞᆫ 효되러니 부모 상ᄉᆞ 만나 일졀이 가례ᄅᆞᆯ 좃고 삼 년 쥭 머그니라</sent>
+<sent type="main" lang="chi" page="35b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="35b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="36a" n="1">處溫斷指</sent>
+<sent type="main" lang="chi" page="36b" n="1">金處溫舒川郡人</sent>
+<sent type="main" lang="kor" page="36b" n="1">김쳐온은 셔쳔군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="36b" n="2">母得惡疾斷指和藥以進病卽愈</sent>
+<sent type="main" lang="kor" page="36b" n="2">어미 사오나온 병 어덧거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 즉제 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="36b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="36b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="37a" n="1">石連割脚</sent>
+<sent type="main" lang="chi" page="37b" n="1">金石連京都人</sent>
+<sent type="main" lang="kor" page="37b" n="1">김셕년은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="37b" n="2">母病石連割脚肉和藥以進病乃愈</sent>
+<sent type="main" lang="kor" page="37b" n="2">어미 병ᄒᆞ거ᄂᆞᆯ 셕년이 다리예 ᄉᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="37b" n="3">母死服闋猶不廢朝夕奠</sent>
+<sent type="main" lang="kor" page="37b" n="3">어미 죽거ᄂᆞᆯ 복 ᄆᆞᆺ고 오히려 됴셕뎐을 폐티 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="37b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="37b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="38a" n="1">金碩斷指</sent>
+<sent type="main" lang="chi" page="38b" n="1">金碩居昌縣人</sent>
+<sent type="main" lang="kor" page="38b" n="1">김셕은 거챵현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="38b" n="2">事母至孝</sent>
+<sent type="main" lang="kor" page="38b" n="2">어미 셤기ᄆᆞᆯ 지효로 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="38b" n="3">母暴死斷指和酒以進母復甦</sent>
+<sent type="main" lang="kor" page="38b" n="3">어미 과글리 죽거ᄂᆞᆯ 손가락 버혀 수ᄅᆡ ᄩᅡ ᄡᅥ 받ᄌᆞ오니 어미 다시 ᄭᆡ니라</sent>
+<sent type="main" lang="chi" page="38b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="38b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="39a" n="1">芿叱達斷指</sent>
+<sent type="main" lang="chi" page="39b" n="1">金芿叱達江西縣人</sent>
+<sent type="main" lang="kor" page="39b" n="1">김늣달이ᄂᆞᆫ 강셔현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="39b" n="2">父久疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="39b" n="2">아비 오래 병ᄒᆞ거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="39b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="39b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="40a" n="1">守元斷指</sent>
+<sent type="main" lang="chi" page="40b" n="1">金守元海州人</sent>
+<sent type="main" lang="kor" page="40b" n="1">김슈원이ᄂᆞᆫ ᄒᆡᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="40b" n="2">父患惡疾</sent>
+<sent type="main" lang="kor" page="40b" n="2">아비 사오나온 병을 알커ᄂᆞᆯ</sent>
+<!--언해문에 ‘은’으로 되어 있으나 탈각으로 판단되어 ‘온’으로 고쳤다.-->
+<sent type="main" lang="chi" page="40b" n="3">守元時年十三斷指和酒以進病愈</sent>
+<sent type="main" lang="kor" page="40b" n="3">슈원이 나히 열세히러니 손가락 버혀 수릐 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="40b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="40b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="41a" n="1">精一斷指</sent>
+<sent type="main" lang="chi" page="41b" n="1">金精一安東府人</sent>
+<sent type="main" lang="kor" page="41b" n="1">김졍일은 안동부 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="41b" n="2">少孤奉母誠孝</sent>
+<sent type="main" lang="kor" page="41b" n="2">져머셔 아비 업서 어미ᄅᆞᆯ 봉양호ᄃᆡ 졍셩되고 효도로이 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="41b" n="3">母病斷手四指以服之病卽愈</sent>
+<sent type="main" lang="kor" page="41b" n="3">어미 병들거ᄂᆞᆯ 손 네 가락을 그처 잡소오니 병이 즉시 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="41b" n="4">及歿廬於墓側</sent>
+<sent type="main" lang="kor" page="41b" n="4">믿 주그매 무덤 겨ᄐᆡ 녀막ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="41b" n="5">仍追服父喪六年一不下家</sent>
+<sent type="main" lang="kor" page="41b" n="5">인ᄒᆡ여 아븨 몽상을 조초 니버 여슷 ᄒᆡᄅᆞᆯ ᄒᆞ야 ᄒᆞᆫ 적도 지븨 ᄂᆞ려가디 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="41b" n="6">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="41b" n="6">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="42a" n="1">貴進斷指</sent>
+<sent type="main" lang="chi" page="42b" n="1">李貴進延安府人</sent>
+<sent type="main" lang="kor" page="42b" n="1">니귀진은 연안부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="42b" n="2">父有惡疾斷指和水以進病乃愈</sent>
+<sent type="main" lang="kor" page="42b" n="2">아비 사오나온 병이 잇거ᄂᆞᆯ 손가락 버혀 므레 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴코</sent>
+<sent type="main" lang="chi" page="42b" n="3">母又得惡疾亦如之</sent>
+<sent type="main" lang="kor" page="42b" n="3">어미 ᄯᅩ 사오나온 병 어덧거ᄂᆞᆯ ᄯᅩ 이ᄀᆞ티 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="42b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="42b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="43a" n="1">李郊誠孝</sent>
+<sent type="main" lang="chi" page="43b" n="1">李郊咸安郡人</sent>
+<sent type="main" lang="kor" page="43b" n="1">니교ᄂᆞᆫ 함암군 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="43b" n="2">性孝友父歿喪葬盡禮</sent>
+<sent type="main" lang="kor" page="43b" n="2">셩이 효우ᄒᆞ더니 아비 주그매 상장을 녜ᄅᆞᆯ 다ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="43b" n="3">後服祖母喪亦廬墓墓距母家十五里</sent>
+<sent type="main" lang="kor" page="43b" n="3">후의 조모 거상 닙어 ᄯᅩ 시묘ᄒᆞ더니 분ᄆᆈ 어ᄆᆡ 지븨 상게 십오리라</sent>
+<sent type="main" lang="chi" page="43b" n="4">許每朝夕奠輟卽往省母</sent>
+<sent type="main" lang="kor" page="43b" n="4">ᄆᆡ양 됴셕의 졔 설고 즉시 가 어미 보더라</sent>
+<sent type="main" lang="chi" page="43b" n="5">恭僖大王朝命敍用</sent>
+<sent type="main" lang="kor" page="43b" n="5">공희대왕됴애 명ᄒᆞ야 셔용ᄒᆞ라 ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="44a" n="1">李權廬墓</sent>
+<sent type="main" lang="chi" page="44b" n="1">李權文化縣人</sent>
+<sent type="main" lang="kor" page="44b" n="1">니권은 문화현 사ᄅᆞᆷ이라</sent>
+<!--‘헌’을 ‘현’으로 고쳤다.-->
+<sent type="main" lang="chi" page="44b" n="2">事父母盡誠及歿廬墓</sent>
+<sent type="main" lang="kor" page="44b" n="2">부모ᄅᆞᆯ 셤기되 정셩을 다ᄒᆞ더니 주그매 미처ᄂᆞᆫ 무더믜 녀막ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="44b" n="3">朝夕必躬爨以奠不食稻米菜果</sent>
+<sent type="main" lang="kor" page="44b" n="3">됴셕의 반ᄃᆞ시 몸소 밥 지어 ᄡᅥ 졔ᄒᆞ며 니ᄡᆞᆯ와 ᄂᆞᄆᆞᆯ 과실을 먹디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="44b" n="4">恭僖大王朝復戶</sent>
+<sent type="main" lang="kor" page="44b" n="4">공희대왕됴애 복호ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="45a" n="1">性同斷指</sent>
+<sent type="main" lang="chi" page="45b" n="1">李性同海州人</sent>
+<sent type="main" lang="kor" page="45b" n="1">니셩동이ᄂᆞᆫ ᄒᆡᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="45b" n="2">母得惡疾斷指和酒以進病愈</sent>
+<sent type="main" lang="kor" page="45b" n="2">어미 사오나온 병 어덧거ᄂᆞᆯ 손가락을 버혀 수릐 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="45b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="45b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="46a" n="1">千枝割股</sent>
+<sent type="main" lang="chi" page="46b" n="1">李千枝龍安縣人</sent>
+<sent type="main" lang="kor" page="46b" n="1">니쳔지ᄂᆞᆫ 뇽안현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="46b" n="2">母得惡疾割股肉和藥以進疾愈</sent>
+<sent type="main" lang="kor" page="46b" n="2">어미 사오나온 병 어덧거ᄂᆞᆯ 다리예 ᄉᆞᆯᄒᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="46b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="46b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="47a" n="1">世湖割股</sent>
+<sent type="main" lang="chi" page="47b" n="1">崔世湖水原府人</sent>
+<sent type="main" lang="kor" page="47b" n="1">최셰화난 슈원부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="47b" n="2">母久病割股肉和藥以進卽愈</sent>
+<sent type="main" lang="kor" page="47b" n="2">어미 오래 병ᄒᆞ거ᄂᆞᆯ 다리예 ᄉᆞᆯᄒᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 즉제 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="47b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="47b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="48a" n="1">遂良廬墓</sent>
+<sent type="main" lang="chi" page="48b" n="1">朴遂良江陵府人也</sent>
+<sent type="main" lang="kor" page="48b" n="1">박슈량은 강능부 사ᄅᆞᆷ이니라</sent>
+<sent type="main" lang="chi" page="48b" n="2">燕山朝短喪制</sent>
+<sent type="main" lang="kor" page="48b" n="2">연산됴애 상졔ᄅᆞᆯ 뎌ᄅᆞ게 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="48b" n="3">遂良時遭母喪猶服衰廬墓三年</sent>
+<sent type="main" lang="kor" page="48b" n="3">슈량이 그 시처릐 어믜 상ᄉᆞ 만나 오히려 졔복 닙고 삼 년을 녀묘ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="48b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="48b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="49a" n="1">應祿斷指</sent>
+<sent type="main" lang="chi" page="49b" n="1">崔應祿江陵府人</sent>
+<sent type="main" lang="kor" page="49b" n="1">최응녹은 강능부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="49b" n="2">父病狂疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="49b" n="2">아비 미친 병 ᄒᆞ엿거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="49b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="49b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="50a" n="1">碩澗斷指</sent>
+<sent type="main" lang="chi" page="50b" n="1">崔碩澗泗川縣人</sent>
+<sent type="main" lang="kor" page="50b" n="1">최셕간은 ᄉᆞ쳔현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="50b" n="2">母久病百藥無效</sent>
+<sent type="main" lang="kor" page="50b" n="2">어미 오래 병ᄒᆞ야 일ᄇᆡᆨ 가지 약애 효험 업거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="50b" n="3">碩澗乃斷指爲藥以進病卽愈</sent>
+<sent type="main" lang="kor" page="50b" n="3">셕간이 손가락 버혀 ᄡᅥ 받ᄌᆞ오니 병이 즉제 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="50b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="50b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="51a" n="1">居敬斷指</sent>
+<sent type="main" lang="chi" page="51b" n="1">忠順衛權居敬楊州人</sent>
+<sent type="main" lang="kor" page="51b" n="1">튱슌위 권거경은 양ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="51b" n="2">父病斷指</sent>
+<sent type="main" lang="kor" page="51b" n="2">아븨 병의 손가락을 버히니라</sent>
+<sent type="main" lang="chi" page="51b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="51b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="52a" n="1">多勿斷指</sent>
+<sent type="main" lang="chi" page="52b" n="1">多勿咸安郡人</sent>
+<sent type="main" lang="kor" page="52b" n="1">다믈이ᄂᆞᆫ 함암군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="52b" n="2">父患惡疾斷指和藥得效</sent>
+<sent type="main" lang="kor" page="52b" n="2">아비 사오나온 병 알커ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ셔 효혐 어드니라</sent>
+<sent type="main" lang="chi" page="52b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="52b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="53a" n="1">今同廬墓</sent>
+<sent type="main" lang="chi" page="53b" n="1">都今同義城縣人</sent>
+<sent type="main" lang="kor" page="53b" n="1">도금동은 의셩현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="53b" n="2">父歿廬墓終喪猶不脫衰奠朝夕如初</sent>
+<sent type="main" lang="kor" page="53b" n="2">아비 죽거ᄂᆞᆯ 녀묘ᄒᆞ고 상ᄉᆞ ᄆᆞᄎᆞ되 오히려 졔복 벗디 아니코 됴셕의 졔ᄒᆞ기ᄅᆞᆯ 처엄ᄀᆞ티 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="53b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="53b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="54a" n="1">延同斷指</sent>
+<sent type="main" lang="chi" page="54b" n="1">諸延同義城縣人</sent>
+<sent type="main" lang="kor" page="54b" n="1">졔연동은 의셩현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="54b" n="2">母得惡疾斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="54b" n="2">어미 사오나온 병 어덧거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="54b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="54b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="55a" n="1">卵乙同割股</sent>
+<sent type="main" lang="chi" page="55b" n="1">卵乙同文川郡人</sent>
+<sent type="main" lang="kor" page="55b" n="1">알동이ᄂᆞᆫ 문쳔군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="55b" n="2">年十八父得病濱死割股和藥以進病愈</sent>
+<sent type="main" lang="kor" page="55b" n="2">나히 열여ᄃᆞᆲ빈 제 아비 병 어더 죽기예 다ᄃᆞᆮ거ᄂᆞᆯ 다리를 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<!--언해문에 ‘비’ 아래에 ‘ㅡ’가 표기되어 있으나 ‘빈’의 오기로 판단되어 ‘빈’으로 입력했다.-->
+<sent type="main" lang="chi" page="55b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="55b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="56a" n="1">山同斷指</sent>
+<sent type="main" lang="chi" page="56b" n="1">金山同海州人</sent>
+<sent type="main" lang="kor" page="56b" n="1">김산동이ᄂᆞᆫ ᄒᆡᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="56b" n="2">母患惡疾</sent>
+<sent type="main" lang="kor" page="56b" n="2">어미 사오나온 병을 알커ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="56b" n="3">山同年十三斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="56b" n="3">산동이 나히 열세힌 제 손가락을 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="56b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="56b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="57a" n="1">閏宗斷指</sent>
+<sent type="main" lang="chi" page="57b" n="1">書吏李閏宗安城郡人</sent>
+<sent type="main" lang="kor" page="57b" n="1">셔리 니윤종은 안셩군 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="57b" n="2">父久病斷指和藥以進病乃愈</sent>
+<sent type="main" lang="kor" page="57b" n="2">아비 오래 병ᄒᆞ엿거ᄂᆞᆯ 손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="57b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="57b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="58a" n="1">壽命斷指</sent>
+<sent type="main" lang="chi" page="58b" n="1">書吏李壽命京都人</sent>
+<sent type="main" lang="kor" page="58b" n="1">셔니 니슈명은 셔울 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="58b" n="2">母病斷指以進病卽瘳</sent>
+<sent type="main" lang="kor" page="58b" n="2">엄의 병의 단지ᄒᆞ야 ᄡᅥ 나오니 즈기 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="58b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="58b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="59a" n="1">李粲負土</sent>
+<sent type="main" lang="chi" page="59b" n="1">戶長李粲陜川郡人</sent>
+<sent type="main" lang="kor" page="59b" n="1">호댱 니찬은 합쳔군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="59b" n="2">年踰七十遭父母喪負土成墳</sent>
+<sent type="main" lang="kor" page="59b" n="2">나히 칠십이 너머셔 부모상ᄋᆞᆯ 맏나 ᄒᆞᆯ글 져셔 무덤을 일우고</sent>
+<sent type="main" lang="chi" page="59b" n="3">自爨供祭居廬六年</sent>
+<sent type="main" lang="kor" page="59b" n="3">스스로 밥 지어 졔ᄂᆞᆯ ᄀᆞ초고 녀묘 살기ᄅᆞᆯ 뉵 년을 호ᄃᆡ</sent>
+<sent type="main" lang="chi" page="59b" n="4">癘疫雖熾不廢祀事</sent>
+<sent type="main" lang="kor" page="59b" n="4">녀역이 비록 치셩ᄒᆞ나 졔ᄉᆞ늘 폐티 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="59b" n="5">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="59b" n="5">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="60a" n="1">好孫廬墓</sent>
+<sent type="main" lang="chi" page="60b" n="1">甲士田好孫京都人</sent>
+<sent type="main" lang="kor" page="60b" n="1">갑ᄉᆞ 뎐호손은 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="60b" n="2">年七歲喪母奠祭至誠</sent>
+<sent type="main" lang="kor" page="60b" n="2">나히 닐곱인 제 어미 여희고 졔ᄅᆞᆯ 지셩으로 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="60b" n="3">及父歿廬墓手具奠饌</sent>
+<sent type="main" lang="kor" page="60b" n="3">아비 주그매 미처ᄂᆞᆫ 녀묘호ᄃᆡ 손소 졔믈 ᄀᆞ초더니</sent>
+<sent type="main" lang="chi" page="60b" n="4">嘗持服從軍及還復終喪三年</sent>
+<sent type="main" lang="kor" page="60b" n="4">일즉 거상 니버 죵군ᄒᆞ엿다가 도라오매 미처ᄂᆞᆫ 다시 삼 년 상ᄉᆞ ᄆᆞᆺ고</sent>
+<sent type="main" lang="chi" page="60b" n="5">每遇國忌亦不食酒肉</sent>
+<sent type="main" lang="kor" page="60b" n="5">ᄆᆡ일 국긔 만나 ᄯᅩ 술 고기 아니 먹더라</sent>
+<sent type="main" lang="chi" page="60b" n="6">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="60b" n="6">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="61a" n="1">世禎誠孝</sent>
+<sent type="main" lang="chi" page="61b" n="1">正兵柳世禎咸昌縣人</sent>
+<sent type="main" lang="kor" page="61b" n="1">졍병 뉴셰뎡은 함챵현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="61b" n="2">居嫡母喪盡其誠孝</sent>
+<sent type="main" lang="kor" page="61b" n="2">뎍모 거상애 그 졍셩과 효도ᄂᆞᆯ 극진이 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="61b" n="3">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="61b" n="3">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="62a" n="1">漢亨嘗糞</sent>
+<sent type="main" lang="chi" page="62b" n="1">庶人金漢亨高原郡人</sent>
+<sent type="main" lang="kor" page="62b" n="1">셔인 김한형은 고원군 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="62b" n="2">父有宿疾嘗糞甜苦以驗吉凶</sent>
+<sent type="main" lang="kor" page="62b" n="2">아비 슉질이 이시매 ᄯᅩᆼ의 ᄃᆞᆯ며 ᄡᅳ믈 맏보아 ᄡᅥ곰 길흉을 시험ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="62b" n="3">國恤行素三年</sent>
+<sent type="main" lang="kor" page="62b" n="3">국상의 ᄒᆡᆼ소ᄒᆞ기ᄅᆞᆯ 삼 년을 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="62b" n="4">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="62b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="63a" n="1">愁伊同斷指</sent>
+<sent type="main" lang="chi" page="63b" n="1">盲人張愁伊同濟州人</sent>
+<sent type="main" lang="kor" page="63b" n="1">ᄆᆡᆼ인 댱쉬동이ᄂᆞᆫ ᄒᆡᄌᆔ 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="63b" n="2">父患惡疾</sent>
+<sent type="main" lang="kor" page="63b" n="2">아비 사오나온 병을 알커ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="63b" n="3">斷指和酒以進病愈</sent>
+<sent type="main" lang="kor" page="63b" n="3">손가락 버혀 수릐 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="63b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="63b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="64a" n="1">方萌廬墓</sent>
+<sent type="main" lang="chi" page="64b" n="1">鄕吏方萌禮山縣人</sent>
+<sent type="main" lang="kor" page="64b" n="1">향니 방ᄆᆡᆼ은 녜산현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="64b" n="2">事親誠孝</sent>
+<sent type="main" lang="kor" page="64b" n="2">어버이 셤기믈 셩효ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="64b" n="3">父歿葬祭以禮廬墓三年躬執奠饌</sent>
+<sent type="main" lang="kor" page="64b" n="3">아비 죽거ᄂᆞᆯ 영장과 졔ᄉᆞᄅᆞᆯ 녜로ᄡᅥ ᄒᆞ고 시묘 삼 년 ᄒᆞ고 몸소 졔찬을 자바 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="64b" n="4">喪畢出入必告子神主</sent>
+<sent type="main" lang="kor" page="64b" n="4">상ᄉᆞ ᄆᆞᄎᆞ매 츌입의 반ᄃᆞ시 신쥬의 고ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="64b" n="5">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="64b" n="5">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="65a" n="1">朴寧孝養</sent>
+<sent type="main" lang="chi" page="65b" n="1">鄕吏朴寧平澤縣人</sent>
+<sent type="main" lang="kor" page="65b" n="1">향니 박녕은 평ᄐᆡᆨ현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="65b" n="2">事父甚孝朝夕定省奉養不怠</sent>
+<sent type="main" lang="kor" page="65b" n="2">아비 셤기ᄆᆞᆯ 심히 효도ᄒᆞ야 됴셕의 문안ᄒᆞ며 봉양호믈 게을리 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="65b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="65b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="66a" n="1">閏今撲虎</sent>
+<sent type="main" lang="chi" page="66b" n="1">良女閏今楊州人</sent>
+<sent type="main" lang="kor" page="66b" n="1">냥녀 윤금은 양ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="66b" n="2">父夜爲虎所攬</sent>
+<sent type="main" lang="kor" page="66b" n="2">아비 바믜 버믜게 자핀 배 되거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="66b" n="3">閏今奮梃撲虎奪其父屍</sent>
+<sent type="main" lang="kor" page="66b" n="3">윤금이 매ᄅᆞᆯ 드러 범을 티고 그 아븨 주검을 아ᄋᆞ니라</sent>
+<sent type="main" lang="chi" page="66b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="66b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="67a" n="1">有今斷指</sent>
+<sent type="main" lang="chi" page="67b" n="1">有今義興縣人</sent>
+<sent type="main" lang="kor" page="67b" n="1">유금은 의흥현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="67b" n="2">祖父得惡疾</sent>
+<sent type="main" lang="kor" page="67b" n="2">할아비 사오나온 병 어덧거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="67b" n="3">斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="67b" n="3">손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="67b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="67b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="68a" n="1">末今斷指</sent>
+<sent type="main" lang="chi" page="68b" n="1">末今京都人</sent>
+<sent type="main" lang="kor" page="68b" n="1">말금이ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="68b" n="2">年十五父病革</sent>
+<sent type="main" lang="kor" page="68b" n="2">나히 열다ᄉᆞ신 제 아븨 병이 극ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="68b" n="3">斷指和藥以進病遂愈</sent>
+<sent type="main" lang="kor" page="68b" n="3">손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 믄득 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="68b" n="4">恭僖大王朝旌門</sent>
+<sent type="main" lang="kor" page="68b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="69a" n="1">兄弟搏虎</sent>
+<sent type="main" lang="chi" page="69b" n="1">仇叱非仇叱德兄弟安邊府人</sent>
+<sent type="main" lang="kor" page="69b" n="1">긋비 긋덕 형뎨ᄂᆞᆫ 안변부 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="69b" n="2">父爲虎所攬</sent>
+<sent type="main" lang="kor" page="69b" n="2">아비 범의게 자핀 배 되거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="69b" n="3">倂力搏虎父得免</sent>
+<sent type="main" lang="kor" page="69b" n="3">ᄒᆞᆫ가지로 힘ᄡᅥ 범을 티니 아비 면호믈 어드니라</sent>
+<sent type="main" lang="chi" page="69b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="69b" n="4">공희대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="70a" n="1">舜年吮淋</sent>
+<sent type="main" lang="chi" page="70b" n="1">驛吏車舜年長城縣人</sent>
+<sent type="main" lang="kor" page="70b" n="1">역니 챠슌년은 댱셩현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="70b" n="2">自少事親孝</sent>
+<sent type="main" lang="kor" page="70b" n="2">져머실 적브터 어버이 셤기믈 효도롭더니</sent>
+<sent type="main" lang="chi" page="70b" n="3">每遇佳節必具酒肉邀鄕黨以娛之</sent>
+<sent type="main" lang="kor" page="70b" n="3">ᄆᆡ양 아ᄅᆞᆷ다온 시졀을 만나 반ᄃᆞ시 술 고기ᄅᆞᆯ ᄀᆞ초고 일향 권당을 마자 와 ᄡᅥ 즐겁게 ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="70b" n="4">父嘗患淋氣塞欲絶</sent>
+<sent type="main" lang="kor" page="70b" n="4">아비 일즉 님질을 알하 긔우니 막혀 긔졀코져 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="70b" n="5">舜年籲天乞命仍吮之得蘇</sent>
+<sent type="main" lang="kor" page="70b" n="5">슌년이 하ᄂᆞᆯ흘 블러 목숨을 빌고 인ᄒᆞ여 ᄲᆞ니 소복호믈 얻다</sent>
+<sent type="main" lang="chi" page="70b" n="6">恭僖大王朝復戶</sent>
+<sent type="main" lang="kor" page="70b" n="6">공희대왕됴애 복호ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="71a" n="1">千同斷指</sent>
+<sent type="main" lang="chi" page="71b" n="1">私奴金千同全州人</sent>
+<sent type="main" lang="kor" page="71b" n="1">ᄉᆞ로 김쳔동이ᄂᆞᆫ 젼ᄌᆔ 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="71b" n="2">母病腫幾死</sent>
+<sent type="main" lang="kor" page="71b" n="2">어미 죵긔ᄅᆞᆯ 알하 ᄒᆞ마 죽게 되거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="71b" n="3">斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="71b" n="3">손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병을 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="71b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="71b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="72a" n="1">貴孫割股</sent>
+<sent type="main" lang="chi" page="72b" n="1">私奴朴貴孫京都人</sent>
+<sent type="main" lang="kor" page="72b" n="1">ᄉᆞ노 박귀손은 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="72b" n="2">父病割股肉和藥以進病愈母病亦如之</sent>
+<sent type="main" lang="kor" page="72b" n="2">아비 병ᄒᆞ거ᄂᆞᆯ 다리예 ᄉᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴커ᄂᆞᆯ 어믜 병에 ᄯᅩ ᄀᆞ티 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="72b" n="3">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="72b" n="3">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="73a" n="1">朴連寫影</sent>
+<sent type="main" lang="chi" page="73b" n="1">私奴朴連京都人</sent>
+<sent type="main" lang="kor" page="73b" n="1">ᄉᆞ노 박년이ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="73b" n="2">父母嘗酷信佛敎</sent>
+<sent type="main" lang="kor" page="73b" n="2">부뫼 일즉 불교ᄅᆞᆯ 혹히 믿더니</sent>
+<sent type="main" lang="chi" page="73b" n="3">及歿族黨燒化之朴連早年遭喪</sent>
+<sent type="main" lang="kor" page="73b" n="3">주그매 미처 권당ᄃᆞ리 블에 ᄉᆞ라ᄂᆞᆯ 박년이 져머셔 상ᄉᆞ 만난디라</sent>
+<sent type="main" lang="chi" page="73b" n="4">旣長哀慕不已</sent>
+<sent type="main" lang="kor" page="73b" n="4">이믜 ᄌᆞ라셔 셜워 ᄉᆞ모ᄒᆞᄆᆞᆯ 마디 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="73b" n="5">寫影掛壁日上食仍以遺服合葬于燒化之處</sent>
+<sent type="main" lang="kor" page="73b" n="5">샹을 그려 ᄇᆞᄅᆞᆷ의 걸고 날로 졔ᄒᆞ며 인ᄒᆞ야 기틴 의복으로ᄡᅥ 쇼화ᄒᆞ던 고ᄃᆡ 합장ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="73b" n="6">廬墓六年一不到家不食鹽醬菜果</sent>
+<sent type="main" lang="kor" page="73b" n="6">뉵 년을 녀묘ᄒᆞ야 ᄒᆞᆫ 적도 지븨 가디 아니코 소금 쟝 ᄂᆞᄆᆞᆯ 실과ᄅᆞᆯ 아니 먹으니라</sent>
+<sent type="main" lang="chi" page="73b" n="7">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="73b" n="7">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="74a" n="1">明伊斷指</sent>
+<sent type="main" lang="chi" page="74b" n="1">私奴明伊京都人</sent>
+<sent type="main" lang="kor" page="74b" n="1">ᄉᆞ노 명이ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="74b" n="2">年十二父得惡疾</sent>
+<sent type="main" lang="kor" page="74b" n="2">나히 열둘힌 제 아비 사오나온 병 어덧거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="74b" n="3">斷指和藥以進病愈</sent>
+<sent type="main" lang="kor" page="74b" n="3">손가락 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="74b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="74b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="75a" n="1">檢同斷指</sent>
+<sent type="main" lang="chi" page="75b" n="1">私奴檢同泗川縣人</sent>
+<sent type="main" lang="kor" page="75b" n="1">ᄉᆞ로 검동은 ᄉᆞ쳔현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="75b" n="2">父得惡疾</sent>
+<sent type="main" lang="kor" page="75b" n="2">아비 사오나온 병 어덧거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="75b" n="3">斷指和藥以進病卽愈</sent>
+<sent type="main" lang="kor" page="75b" n="3">손가락 버혀 수릐 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 즉제 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="75b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="75b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="76a" n="1">鄭同奉養</sent>
+<sent type="main" lang="chi" page="76b" n="1">私奴鄭同靑山峴人</sent>
+<sent type="main" lang="kor" page="76b" n="1">ᄉᆞ로 뎡동이ᄂᆞᆫ 쳥산현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="76b" n="2">早喪母父娶後妻鄭同盡心奉養</sent>
+<sent type="main" lang="kor" page="76b" n="2">일즉 어미 죽고 아비 후쳐ᄅᆞᆯ 어덧거ᄂᆞᆯ 뎡동이 ᄆᆞᄋᆞᆷ을 다ᄒᆞ야 봉양ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="76b" n="3">父死終喪三年事繼母益謹</sent>
+<sent type="main" lang="kor" page="76b" n="3">아비 죽거ᄂᆞᆯ 삼 년 상ᄉᆞ ᄆᆞᆺ고 계모ᄅᆞᆯ 셤기ᄃᆡ 더옥 삼가더라</sent>
+<sent type="main" lang="chi" page="76b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="76b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="77a" n="1">莫同投火</sent>
+<sent type="main" lang="chi" page="77b" n="1">私奴莫同報恩縣人</sent>
+<sent type="main" lang="kor" page="77b" n="1">ᄉᆞ로 막동이ᄂᆞᆫ 보은현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="77b" n="2">家嘗失火母女俱在火中</sent>
+<sent type="main" lang="kor" page="77b" n="2">지븨 일즉 블나셔 어미와 ᄯᆞ리 다 블 가온듸 잇거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="77b" n="3">莫同挻入負母而出女死不顧</sent>
+<sent type="main" lang="kor" page="77b" n="3">막동이 ᄠᅱ여드러 어미ᄅᆞᆯ 업고 나니 ᄯᆞᄅᆞᆫ 주그되 도라보디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="77b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="77b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="78a" n="1">於玎誠孝</sent>
+<sent type="main" lang="chi" page="78b" n="1">寺奴趙於玎京都人</sent>
+<sent type="main" lang="kor" page="78b" n="1">시노 됴어뎡이ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="78b" n="2">與其妹莫今事親俱孝</sent>
+<sent type="main" lang="kor" page="78b" n="2">그 누의 막금이로 더브러 어버이 셤기믈 효도ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="78b" n="3">父母連逝三年不食鹽醬菜果</sent>
+<sent type="main" lang="kor" page="78b" n="3">부뫼 년ᄒᆞ야 죽거ᄂᆞᆯ 삼 년을 소금 쟝 ᄂᆞᄆᆞᆯ 실과 먹디 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="78b" n="4">造木像以奠朝夕出入必告</sent>
+<sent type="main" lang="kor" page="78b" n="4">남그로 얼굴 ᄆᆡᆼᄀᆞ라 됴셕의 졔ᄒᆞ고 츌입의 반ᄃᆞ시 고ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="78b" n="5">得新物必薦朔望上墓</sent>
+<sent type="main" lang="kor" page="78b" n="5">새것 어드면 반ᄃᆞ시 쳔ᄒᆞ고 삭망의 무덤의 오ᄅᆞ더라</sent>
+<sent type="main" lang="chi" page="78b" n="6">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="78b" n="6">공희대왕됴애 다 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="79a" n="1">小非省母</sent>
+<sent type="main" lang="chi" page="79b" n="1">寺婢小非京都人</sent>
+<sent type="main" lang="kor" page="79b" n="1">시비 쇼비ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="79b" n="2">燕山時以罪人延坐流吉城母流明川相距幾六十里</sent>
+<sent type="main" lang="kor" page="79b" n="2">연산 적의 죄인의 연자로ᄡᅥ 길셩의 구향 가고 어미ᄂᆞᆫ 명쳔의 구향 가니 샹게 거의 뉵십 니러니</sent>
+<sent type="main" lang="chi" page="79b" n="3">小非晝役于官夜往省母</sent>
+<sent type="main" lang="kor" page="79b" n="3">쇼비 나지어든 고올희 역ᄉᆞᄒᆞ고 밤이어든 어미 가 보더라</sent>
+<sent type="main" lang="chi" page="79b" n="4">及放還乞丏以養溫淸盡心</sent>
+<sent type="main" lang="kor" page="79b" n="4">노혀 도라오매 미처ᄂᆞᆫ 비러셔 ᄡᅥ 치ᄃᆡ 더우며 ᄎᆞᄆᆞᆯ 진심ᄒᆞ야 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="79b" n="5">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="79b" n="5">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="80a" n="1">淑美割股</sent>
+<sent type="main" lang="chi" page="80b" n="1">寺婢淑美京都人</sent>
+<sent type="main" lang="kor" page="80b" n="1">시비 슉미ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="80b" n="2">年十四母得惡疾</sent>
+<sent type="main" lang="kor" page="80b" n="2">나히 열네힌 제 어미 사오나온 병 어덧거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="80b" n="3">割股肉和藥以進病愈</sent>
+<sent type="main" lang="kor" page="80b" n="3">다리예 ᄉᆞᆯ 버혀 약의 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="80b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="80b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="81a" n="1">時種斷指</sent>
+<sent type="main" lang="chi" page="81b" n="1">私婢時種文化縣人</sent>
+<sent type="main" lang="kor" page="81b" n="1">ᄉᆞ비 시죵이ᄂᆞᆫ 문화현 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="81b" n="2">父患惡疾</sent>
+<sent type="main" lang="kor" page="81b" n="2">아비 사오나온 병을 시름ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="81b" n="3">斷指和酒以進病乃愈</sent>
+<sent type="main" lang="kor" page="81b" n="3">손가락 버혀 수릐 ᄩᅡ ᄡᅥ 받ᄌᆞ오니 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="81b" n="4">恭僖大王朝旌閭</sent>
+<sent type="main" lang="kor" page="81b" n="4">공희대왕됴애 졍녀ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="82a" n="1">武毅豊祭</sent>
+<sent type="main" lang="chi" page="82b" n="1">白武毅平壤府人</sent>
+<sent type="main" lang="kor" page="82b" n="1">ᄇᆡᆨ무의ᄂᆞᆫ 평양부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="82b" n="2">父母墓祭盡誠豊備</sent>
+<sent type="main" lang="kor" page="82b" n="2">부모의 분묘애 졔ᄒᆞ기ᄅᆞᆯ 졍셩을 다ᄒᆞ야 만히 쟝만ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="82b" n="3">一日御史適過墓下</sent>
+<sent type="main" lang="kor" page="82b" n="3">ᄒᆞᆯᄂᆞᆫ 어ᄉᆡ 마ᄌᆞᆷ 무덤 아래로 디나가더니</sent>
+<sent type="main" lang="chi" page="82b" n="4">見其祭物嘉其孝誠爲之狀啓</sent>
+<sent type="main" lang="kor" page="82b" n="4">그 졔믈을 보고 그 효도ᄒᆞᄂᆞᆫ 졍셩을 아ᄅᆞᆷ다이 너겨 위ᄒᆞ야 장계ᄒᆞ야ᄅᆞᆯ</sent>
+<sent type="main" lang="chi" page="82b" n="5">榮靖大王特命旌門</sent>
+<sent type="main" lang="kor" page="82b" n="5">영졍대왕이 각별이 명ᄒᆞ셔 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="83a" n="1">麒禎斷指</sent>
+<sent type="main" lang="chi" page="83b" n="1">贈參判張麒禎京都人</sent>
+<sent type="main" lang="kor" page="83b" n="1">증참판 댱긔뎡은 셔울 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="chi" page="83b" n="2">性至孝</sent>
+<sent type="main" lang="kor" page="83b" n="2">셩이 지극ᄒᆞᆫ ᄒᆈ러니</sent>
+<sent type="main" lang="chi" page="83b" n="3">父病斷左指母病斷右指皆得效</sent>
+<sent type="main" lang="kor" page="83b" n="3">아비 병들어ᄂᆞᆯ 왼 손ᄀᆞ락글 긋고 어미 병들어ᄂᆞᆯ 올ᄒᆞᆫ 손가락글 긋처 다 효험을 엇다</sent>
+<sent type="main" lang="chi" page="83b" n="4">及歿俱廬墓三年一不到家</sent>
+<sent type="main" lang="kor" page="83b" n="4">믿 주그매 다 슈묘 삼 년 ᄒᆞ고 ᄒᆞᆫ 번도 지븨 니ᄅᆞ디 아니ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="83b" n="5">恭憲大王朝旌門除參奉</sent>
+<sent type="main" lang="kor" page="83b" n="5">공헌대왕됴애 졍문ᄒᆞ시고 참봉을 ᄒᆞ이시니라</sent>
+<!--‘다’를 ‘라’로 고쳤다.-->
+<sent type="title" lang="chi" page="84a" n="1">林薰執喪</sent>
+<sent type="main" lang="chi" page="84b" n="1">判決事林薰安陰縣人</sent>
+<sent type="main" lang="kor" page="84b" n="1">판결ᄉᆞ 님훈은 안음현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="84b" n="2">稟性純孝盡誠事親</sent>
+<sent type="main" lang="kor" page="84b" n="2">텬셩 타나미 슌일ᄒᆞᆫ 효되라 졍셩을 다ᄒᆞ여 어버이ᄅᆞᆯ 셤기더니</sent>
+<sent type="main" lang="chi" page="84b" n="3">及其遭喪一從禮制</sent>
+<sent type="main" lang="kor" page="84b" n="3">믿 그 상ᄉᆞ 만나 ᄒᆞᆫᄀᆞᆯᄀᆞᆮ티 녜졔ᄂᆞᆯ 조ᄎᆞ며</sent>
+<sent type="main" lang="chi" page="84b" n="4">居廬時癘疫大熾家小盡染</sent>
+<sent type="main" lang="kor" page="84b" n="4">녀막 살려 ᄒᆞᆯ 시절에 녀역이 크게 치발ᄒᆞ여 가쇽ᄃᆞ리 다 뎐염호ᄃᆡ</sent>
+<sent type="main" lang="chi" page="84b" n="5">猶不脫衰服不廢祭奠</sent>
+<sent type="main" lang="kor" page="84b" n="5">오히려 상복을 벋디 아니ᄒᆞ고 졔뎐을 폐티 아니ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="84b" n="6">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="84b" n="6">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="85a" n="1">安麟孝感</sent>
+<sent type="main" lang="chi" page="85b" n="1">通政大夫沈安麟宜寧縣人</sent>
+<sent type="main" lang="kor" page="85b" n="1">통졍태우 심안닌은 의녕현 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="85b" n="2">事親能盡子職</sent>
+<sent type="main" lang="kor" page="85b" n="2">어버이ᄂᆞᆯ 셤기되 능히 ᄌᆞ식의 직임을 다ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="85b" n="3">母病有飛雉自投堂下生鯉躍入舟中</sent>
+<sent type="main" lang="kor" page="85b" n="3">어미 병드러신 제 ᄂᆞᄂᆞᆫ ᄭᅯᆼ이 당 알애 절로 ᄠᅥ러디며 ᄉᆡᆼ니에 ᄠᅱ여 ᄇᆡᆮ 가온대 들거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="85b" n="4">得以奉之人稱孝感行</sent>
+<sent type="main" lang="kor" page="85b" n="4">어더 ᄡᅥ 받ᄌᆞ오니 사ᄅᆞᆷ이 효도의 감동ᄒᆞᄆᆞᆯ 일ᄏᆞᆮ더라</sent>
+<sent type="main" lang="chi" page="85b" n="5">年六十遭兩喪廬墓六年一不下家</sent>
+<sent type="main" lang="kor" page="85b" n="5">나히 여슌에 두 상ᄉᆞᄂᆞᆯ 년ᄒᆡ여 만나 무덤 겨ᄐᆡ 녀막ᄒᆞ고 여슫 ᄒᆡᄅᆞᆯ ᄒᆞᆫ 적도 지븨 ᄂᆞ려가디 아니ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="85b" n="6">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="85b" n="6">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="86a" n="1">希奎孝友</sent>
+<sent type="main" lang="chi" page="86b" n="1">牧使宋希奎星州人</sent>
+<sent type="main" lang="kor" page="86b" n="1">목ᄉᆞ 송희규ᄂᆞᆫ 셩ᄌᆔ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="86b" n="2">八歲父居母喪</sent>
+<sent type="main" lang="kor" page="86b" n="2">여ᄃᆞᇣ 설인 제 아비 어ᄆᆡ 거상 니벋거ᄅᆞᆯ</sent>
+<!--‘ᄃᆞᇣ’을 ‘ᄃᆞᆲ’으로 고쳤다.-->
+<sent type="main" lang="chi" page="86b" n="3">常陪苫側三年不食羶葷</sent>
+<sent type="main" lang="kor" page="86b" n="3">샹해 거적 ᄀᆞᄋᆡ 뫼셔 삼 년을 비리고 내 나ᄂᆞᆫ 거ᄉᆞᆯ 먹디 아니ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="86b" n="4">及長父病侍藥不怠嘗糞甛苦</sent>
+<sent type="main" lang="kor" page="86b" n="4">믿 ᄌᆞ라매 아비 병드럳거ᄅᆞᆯ 뫼셔 약ᄒᆞ기ᄅᆞᆯ 게을리 아니ᄒᆞ고 ᄯᅩᆼ이 ᄃᆞᆯ며 ᄡᅳ믈 맏보더니</sent>
+<sent type="main" lang="chi" page="86b" n="5">及歿哀毁骨立祭祀盡誠三年不出廬外</sent>
+<sent type="main" lang="kor" page="86b" n="5">믿 주그매 슬피 셜워ᄒᆞ야 ᄲᅧ만 셔고 졔ᄉᆞᄅᆞᆯ 졍셩을 다ᄒᆞ고 삼 년을 녀막 받ᄭᅴ 나디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="86b" n="6">與兄弟友愛彌篤</sent>
+<sent type="main" lang="kor" page="86b" n="6">형뎨로 더브러 ᄉᆞ랑ᄒᆞ기ᄅᆞᆯ 더옥 두터이 ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="86b" n="7">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="86b" n="7">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="87a" n="1">李氏沾屍</sent>
+<sent type="main" lang="chi" page="87b" n="1">李氏錦山郡人逸士李仁悌之妻也</sent>
+<sent type="main" lang="kor" page="87b" n="1">니시ᄂᆞᆫ 김산군 사ᄅᆞᆷ이니 일ᄉᆞ 니인뎨의 안해라</sent>
+<sent type="main" lang="chi" page="87b" n="2">十六歲時火賊突入害其父</sent>
+<sent type="main" lang="kor" page="87b" n="2">열여슫 설인 적의 블한당이 돌입ᄒᆞ여 그 아비ᄂᆞᆯ 해ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="87b" n="3">李氏冒白刃翼蔽拊心號痛求代死不得</sent>
+<sent type="main" lang="kor" page="87b" n="3">니시 흰 칼을 무룹ᄡᅥ ᄀᆞ리와 가ᄉᆞᆷᄋᆞᆯ 두드리며 브르지져 슬허 ᄃᆡᄒᆞ야 주그믈 구호ᄃᆡ 득디 몯ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="87b" n="4">及賊積箱屍上以火燒之</sent>
+<sent type="main" lang="kor" page="87b" n="4">믿 도적이 샹ᄌᆞᄂᆞᆯ 주검 우희 싸코 블노ᄡᅥ ᄉᆞᆯ오거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="87b" n="5">李氏乃擊酒甕沾屍免爲灰燼</sent>
+<sent type="main" lang="kor" page="87b" n="5">니시 술독을 ᄭᅫ텨 주검을 저져 ᄌᆡ 되믈 면ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="87b" n="6">有弱妹茫不知避</sent>
+<sent type="main" lang="kor" page="87b" n="6">어린아이 이셔 아득ᄒᆡ여 피ᄒᆞᆯ 주늘 아디 몯ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="87b" n="7">剝其衣裳投諸庭下得活</sent>
+<sent type="main" lang="kor" page="87b" n="7">그 옷과 치마ᄂᆞᆯ 벗ᄭᅧ ᄠᅳᆯ 아래 ᄂᆞ리텨 시러곰 살오니라</sent>
+<sent type="main" lang="chi" page="87b" n="8">及適仁悌事舅姑誠孝</sent>
+<sent type="main" lang="kor" page="87b" n="8">믿 인뎨게 가매 싀부모 셤김을 졍셩되고 효도로이 ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="87b" n="9">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="87b" n="9">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="88a" n="1">崔氏入火</sent>
+<sent type="main" lang="chi" page="88b" n="1">崔氏江陵府人僉知鄭崑之妻也</sent>
+<sent type="main" lang="kor" page="88b" n="1">최시ᄂᆞᆫ 강능부 사ᄅᆞᆷ이니 쳠디 뎡곤의 안해라</sent>
+<sent type="main" lang="chi" page="88b" n="2">性至孝</sent>
+<sent type="main" lang="kor" page="88b" n="2">셩되 지극히 효도롭더니</sent>
+<sent type="main" lang="chi" page="88b" n="3">一日家失火</sent>
+<sent type="main" lang="kor" page="88b" n="3">ᄒᆞᆯᄅᆞᆫ 지비 블브터ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="88b" n="4">直入烈熖中</sent>
+<sent type="main" lang="kor" page="88b" n="4">바로 모딘 블곧 가온대 드러가</sent>
+<sent type="main" lang="chi" page="88b" n="5">負老母力弱不得出母女同死</sent>
+<sent type="main" lang="kor" page="88b" n="5">늘근 어미ᄅᆞᆯ 업고 힘이 약ᄒᆞ야 시러곰 나디 몯ᄒᆞ야 어미와 ᄯᆞᆯ이 ᄒᆞᆫᄃᆡ 주그니라</sent>
+<sent type="main" lang="chi" page="88b" n="6">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="88b" n="6">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="89a" n="1">億秋獲鴨</sent>
+<sent type="main" lang="chi" page="89b" n="1">郡守朴億秋江陵府人</sent>
+<sent type="main" lang="kor" page="89b" n="1">군슈 박억츄ᄂᆞᆫ 강능부 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="89b" n="2">誠孝出天</sent>
+<sent type="main" lang="kor" page="89b" n="2">졍셩과 효되 텬셩에 낟더니</sent>
+<sent type="main" lang="chi" page="89b" n="3">父有七年之病</sent>
+<sent type="main" lang="kor" page="89b" n="3">아비 닐굽ᄒᆡ 병이 읻거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="89b" n="4">聞野鴨可醫至誠求之</sent>
+<sent type="main" lang="kor" page="89b" n="4">들올히로 가히 고티믈 듯고 지극ᄒᆞᆫ 졍셩으로 얻더니</sent>
+<sent type="main" lang="chi" page="89b" n="5">一日見兩鴨坐氷上投石俱獲以進父嘗之病愈</sent>
+<sent type="main" lang="kor" page="89b" n="5">ᄒᆞᆯᄂᆞᆫ 두 올히 어름 우희 안자시믈 보고 돌덩이로 텨 다 어더 나오니 아비 먹고 병이 됴ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="89b" n="6">後又病氣絶</sent>
+<sent type="main" lang="kor" page="89b" n="6">후에 ᄯᅩ 병드러 긔졀ᄒᆡ엳거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="89b" n="7">億秋呼天斷指以進卽甦</sent>
+<sent type="main" lang="kor" page="89b" n="7">억ᄎᆔ 하ᄂᆞᆯᄭᅴ 브ᄅᆞ지지고 손가락을 그처 ᄡᅥ 드리니 즉시 다시 사다</sent>
+<sent type="main" lang="chi" page="89b" n="8">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="89b" n="8">공허대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="90a" n="1">二子感虎</sent>
+<sent type="main" lang="chi" page="90b" n="1">參奉鄭元麟鄭元麒京都人孝子鄭梅臣之子也</sent>
+<sent type="main" lang="kor" page="90b" n="1">참봉 뎡원린과 뎡원긔ᄂᆞᆫ 셔울 사ᄅᆞᆷ이니 효ᄌᆞ 뎡ᄆᆡ신의 아ᄃᆞᆯ이라</sent>
+<sent type="main" lang="chi" page="90b" n="2">丁母憂兄弟哭不絶聲</sent>
+<sent type="main" lang="kor" page="90b" n="2">엄의 거상 만나 형뎨 울기ᄅᆞᆯ 소ᄅᆡ 그치디 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="90b" n="3">鷄鳴而哭几筵平明哭墓朝夕亦如之</sent>
+<sent type="main" lang="kor" page="90b" n="3">ᄃᆞᆰ 우러ᄃᆞᆫ 궤연의 가 울고 ᄇᆞᆰ거ᄃᆞᆫ 분묘애 가 울고 나죄도 그리ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="90b" n="4">雖雨雪不廢</sent>
+<sent type="main" lang="kor" page="90b" n="4">비록 비며 눈니라도 폐티 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="90b" n="5">三年不脫衰絰不施櫛沐</sent>
+<sent type="main" lang="kor" page="90b" n="5">삼 년을 상복을 벋디 아니ᄒᆞ며 머리 비ᄉᆞ며 ᄀᆞᆷ기ᄅᆞᆯ 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="90b" n="6">只啜饘粥柴毁骨立杖而不能起</sent>
+<sent type="main" lang="kor" page="90b" n="6">다ᄆᆞᆫ 쥭만 먹어 여위여 ᄲᅧ만 셔셔 막대 딥퍼도 능히 니디 몯ᄒᆞ더라</sent>
+<sent type="main" lang="chi" page="90b" n="7">一日方哭墓有虎來伏元麟之後</sent>
+<sent type="main" lang="kor" page="90b" n="7">ᄒᆞᆯᄅᆞᆫ 보야ᄒᆞ로 분묘에 가 우더니 범이 원린의 뒤헤 와 업데엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="90b" n="8">兄弟神色不變哭泣不止虎俛首而去</sent>
+<sent type="main" lang="kor" page="90b" n="8">형뎨 졍신이며 안ᄉᆡᆨ을 변티 아니ᄒᆞ야 우롬을 그치디 아니ᄒᆞ니 범이 머리ᄅᆞᆯ ᄂᆞ초고 나가더라</sent>
+<sent type="main" lang="chi" page="90b" n="9">恭憲大王朝旌門</sent>
+<sent type="main" lang="kor" page="90b" n="9">공헌대왕됴애 졍문ᄒᆞ시니라</sent>
+<sent type="title" lang="chi" page="90b" n="10">東國新續三綱行實孝子圖卷之四</sent>
+<!--title: 제목, main: 본문-->
+</doc>

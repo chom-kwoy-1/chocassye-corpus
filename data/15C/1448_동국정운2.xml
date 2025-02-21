@@ -1,0 +1,5213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<meta>
+	<title lang="kor">동국정운</title>
+	<title lang="chi">東國正韻</title>
+	<volume n="2"/>
+	<year n="1448"/>
+	<photograph>건국대학교도서관 영인본</photograph>
+</meta>
+
+	<!--유니코드로 나타낼 수 없는 한자를 合字하여 나타낼 때에는 [ ] 안에 제시하였다.
+	좌우 결합은 +로, 상하 결합은 $로 나타내었다. 예) [糸+𣳾], [山$頟]
+	좌우 결합과 상하 결합이 복합적으로 나타날 경우에는 ( )를 사용하여 조합 순서를 나타내었다. 예) [骨+(立$忠)]
+	동일한 결합이 셋 이상 연속적으로 나타날 경우에는 ( )를 사용하지 않았다. 예) [山+亻+項], [艹$罒$冖$我]-->
+
+<page n="1a"/>
+<title>東國正韻卷之二</title>
+<rhyme n="6">
+<head>弓<note>平</note> 重<note>上</note> 䛪<note>去</note> 匊<note>入</note></head>
+<nucleus type="ㅜ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>구ᇰ</head>
+			<chr><glyph>弓</glyph></chr>
+			<chr><glyph>躬</glyph></chr>
+			<chr><glyph>匑</glyph></chr>
+			<chr><glyph>匔</glyph><note>上同</note></chr>
+			<chr><glyph>宮</glyph></chr>
+		</syllable>
+		<!--'구ᇰ'의 상성자는 없음-->
+		<!--'구ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·국</head>
+			<chr><glyph>匊</glyph></chr>
+			<chr><glyph>菊</glyph></chr>
+			<chr><glyph>蓻</glyph><note>上同</note></chr>
+			<chr><glyph>𦶗</glyph><note>上同</note></chr>
+			<chr><glyph>𦵳</glyph><note>上同</note></chr>
+			<chr><glyph>鞠</glyph><note>又本韻弓韻</note></chr>
+			<chr><glyph>掬</glyph></chr>
+			<chr><glyph>𡙳</glyph><note>上同</note></chr>
+			<chr><glyph>𥵱</glyph><note>上同</note></chr>
+			<chr><glyph>鵴</glyph></chr>
+			<chr><glyph>鞫</glyph></chr>
+			<chr><glyph>𥰬</glyph><note>上同</note></chr>
+			<chr><glyph>𥱩</glyph><note>上同</note></chr>
+			<chr><glyph>諊</glyph><note>上同</note></chr>
+			<chr><glyph>告</glyph><note>上同又穀誥韻</note></chr>
+			<chr><glyph>𩛺</glyph></chr>
+			<chr><glyph>𨸰</glyph><note>又傀韻</note></chr>
+			<chr><glyph>㘲</glyph><note>上同</note></chr>
+			<chr><glyph>泦</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>쿠ᇰ</head>
+			<chr><glyph>穹</glyph></chr>
+			<chr><glyph>芎</glyph></chr>
+			<chr><glyph>鞠</glyph><note>上同又匊韻二</note></chr>
+		<!--'쿠ᇰ'의 상성자는 없음-->
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·쿠ᇰ</head>
+<page n="1b"/>
+			<chr><glyph>䛪</glyph></chr>
+			<chr><glyph>䠻</glyph></chr>
+			<chr><glyph>㑋</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쿡</head>
+			<chr><glyph>麴</glyph></chr>
+			<chr><glyph>𩍔</glyph><note>上同</note></chr>
+			<chr><glyph>麯</glyph><note>上同</note></chr>
+			<chr><glyph>𪌲</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="虯"><!--虯母-->
+		<syllable tone="level"><!--평성-->
+			<head>꾸ᇰ</head>
+			<chr><glyph>窮</glyph></chr>
+			<chr><glyph>藭</glyph></chr>
+		</syllable>
+		<!--'꾸ᇰ'의 상성자는 없음-->
+		<!--'꾸ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·꾹</head>
+			<chr><glyph>鞠</glyph><note>又本韻弓韻</note></chr>
+			<chr><glyph>局</glyph></chr>
+			<chr><glyph>跼</glyph></chr>
+			<chr><glyph>𩭊</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<!--'ᅙᅮᆨ'의 평성자는 없음-->
+		<!--'ᅙᅮᆨ'의 상성자는 없음-->
+		<!--'ᅙᅮᆨ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᅮᆨ</head>
+			<chr><glyph>彧</glyph></chr>
+			<chr><glyph>𡿿</glyph><note>上同</note></chr>
+			<chr><glyph>稶</glyph></chr>
+			<chr><glyph>稢</glyph><note>上同</note></chr>
+			<chr><glyph>郁</glyph></chr>
+			<chr><glyph>澳</glyph><note>又誥韻</note></chr>
+			<chr><glyph>燠</glyph><note>又誥屢韻</note></chr>
+			<chr><glyph>[目+奧]</glyph><note>上同</note></chr>
+			<chr><glyph>隩</glyph><note>又誥韻</note></chr>
+			<chr><glyph>薁</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅮᇰ</head>
+			<chr><glyph>雄</glyph></chr>
+			<chr><glyph>𩿅</glyph><note>上同</note></chr>
+			<chr><glyph>熊</glyph></chr>
+			<chr><glyph>𤠗</glyph><note>上同</note></chr>
+			<chr><glyph>能</glyph><note>上同又揯貲佳蓋韻</note></chr>
+			<chr><glyph>𧰯</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᅘᅮᇰ'의 상성자는 없음-->
+		<!--'ᅘᅮᇰ'의 거성자는 없음-->
+		<!--'ᅘᅮᇰ'의 입성자는 없음-->
+	</onset>
+	<onset type="業"><!--業母-->
+		<!--'ᅌᅲᆨ'의 평성자는 없음-->
+		<!--'ᅌᅲᆨ'의 상성자는 없음-->
+		<!--'ᅌᅲᆨ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅲᆨ</head>
+			<chr><glyph>囿</glyph><note>又救韻</note></chr>
+		</syllable>
+	</onset>
+</nucleus>
+<nucleus type="ㅠ">
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>듀ᇰ</head>
+			<chr><glyph>中</glyph><note>又䛪韻</note></chr>
+			<chr><glyph>忠</glyph></chr>
+			<chr><glyph>衷</glyph><note>又䛪韻</note></chr>
+		</syllable>
+		<!--'듀ᇰ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·듀ᇰ</head>
+			<chr><glyph>中</glyph><note>又弓韻</note></chr>
+			<chr><glyph>衷</glyph><note>又弓韻</note></chr>
+<page n="2a"/>
+			<head>·듁</head>
+			<chr><glyph>竹</glyph></chr>
+			<chr><glyph>竺</glyph></chr>
+			<chr><glyph>筑</glyph></chr>
+			<chr><glyph>築</glyph></chr>
+			<chr><glyph>𥰺</glyph><note>上同</note></chr>
+			<chr><glyph>𥯹</glyph><note>上同</note></chr>
+			<chr><glyph>𥭰</glyph><note>上同</note></chr>
+			<chr><glyph>茿</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="吞"><!--吞母-->
+		<syllable tone="level"><!--평성-->
+			<head>튜ᇰ</head>
+			<chr><glyph>忡</glyph></chr>
+		</syllable>
+		<!--'튜ᇰ'의 상성자는 없음-->
+		<!--'튜ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·튝</head>
+			<chr><glyph>蓄</glyph></chr>
+			<chr><glyph>稸</glyph><note>上同</note></chr>
+			<chr><glyph>矗</glyph></chr>
+			<chr><glyph>𨴨</glyph></chr>
+			<chr><glyph>閦</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>뜌ᇰ</head>
+			<chr><glyph>蟲</glyph><note>又䛪韻</note></chr>
+			<chr><glyph>爞</glyph><note>又公韻</note></chr>
+			<chr><glyph>烛</glyph><note>上同</note></chr>
+			<chr><glyph>盅</glyph><note>又公韻</note></chr>
+			<chr><glyph>沖</glyph></chr>
+			<chr><glyph>冲</glyph><note>上同</note></chr>
+			<chr><glyph>种</glyph></chr>
+			<chr><glyph>翀</glyph></chr>
+			<chr><glyph>重</glyph><note>又重䛪拱貢韻</note></chr>
+			<chr><glyph>蝩</glyph></chr>
+			<chr><glyph>種</glyph><note>又公韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:뜌ᇰ</head>
+			<chr><glyph>重</glyph><note>又弓䛪拱貢韻</note></chr>
+			<chr><glyph>鮦</glyph><note>又公韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·뜌ᇰ</head>
+			<chr><glyph>仲</glyph></chr>
+			<chr><glyph>中</glyph><note>上同</note></chr>
+			<chr><glyph>蟲</glyph><note>又弓韻</note></chr>
+			<chr><glyph>䖵</glyph><note>上同又昆韻</note></chr>
+			<chr><glyph>重</glyph><note>又弓重拱貢韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·뜍</head>
+			<chr><glyph>逐</glyph><note>又隔韻</note></chr>
+			<chr><glyph>蓫</glyph></chr>
+			<chr><glyph>軸</glyph></chr>
+			<chr><glyph>舳</glyph></chr>
+			<chr><glyph>柚</glyph><note>又救韻</note></chr>
+<page n="2b"/>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<!--'뉵'의 평성자는 없음-->
+		<!--'뉵'의 상성자는 없음-->
+		<!--'뉵'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·뉵</head>
+			<chr><glyph>肭</glyph></chr>
+			<chr><glyph>衄</glyph></chr>
+			<chr><glyph>𧗗</glyph><note>上同</note></chr>
+			<chr><glyph>恧</glyph><note>又亟韻</note></chr>
+			<chr><glyph>忸</glyph><note>上同又九韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>쥬ᇰ</head>
+			<chr><glyph>終</glyph></chr>
+			<chr><glyph>䈺</glyph></chr>
+			<chr><glyph>螽</glyph></chr>
+			<chr><glyph>𧑄</glyph><note>上同</note></chr>
+			<chr><glyph>𧕠</glyph><note>上同</note></chr>
+			<chr><glyph>鼨</glyph></chr>
+			<chr><glyph>𪔻</glyph><note>上同</note></chr>
+			<chr><glyph>𩅧</glyph></chr>
+			<chr><glyph>衆</glyph><note>又䛪韻</note></chr>
+		</syllable>
+		<!--'쥬ᇰ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·쥬ᇰ</head>
+			<chr><glyph>衆</glyph><note>又弓韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쥭</head>
+			<chr><glyph>蹙</glyph></chr>
+			<chr><glyph>戚</glyph><note>上同又穀隔韻</note></chr>
+			<chr><glyph>䠓</glyph><note>上同</note></chr>
+			<chr><glyph>䠞</glyph><note>上同</note></chr>
+			<chr><glyph>縬</glyph></chr>
+			<chr><glyph>𦄉</glyph><note>上同</note></chr>
+			<chr><glyph>顣</glyph></chr>
+			<chr><glyph>𣢰</glyph></chr>
+			<chr><glyph>踧</glyph><note>又隔韻</note></chr>
+			<chr><glyph>𨀚</glyph><note>上同</note></chr>
+			<chr><glyph>蹴</glyph></chr>
+			<chr><glyph>蹵</glyph><note>上同</note></chr>
+			<chr><glyph>𧑙</glyph></chr>
+			<chr><glyph>祝</glyph><note>又救韻</note></chr>
+			<chr><glyph>𩚶</glyph><note>上同</note></chr>
+			<chr><glyph>粥</glyph><note>又本韻二</note></chr>
+			<chr><glyph>𩱱</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<syllable tone="level"><!--평성-->
+			<head>츄ᇰ</head>
+			<chr><glyph>充</glyph></chr>
+			<chr><glyph>珫</glyph></chr>
+			<chr><glyph>㤝</glyph></chr>
+			<chr><glyph>茺</glyph></chr>
+		</syllable>
+		<!--'츄ᇰ'의 상성자는 없음-->
+		<!--'츄ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·츅</head>
+			<chr><glyph>俶</glyph><note>又隔韻</note></chr>
+			<chr><glyph>叔</glyph><note>上同又本韻</note></chr>
+<page n="3a"/>
+			<chr><glyph>琡</glyph><note>又本韻</note></chr>
+			<chr><glyph>柷</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="戍"><!--戍母-->
+		<syllable tone="level"><!--평성-->
+			<head>슈ᇰ</head>
+			<chr><glyph>嵩</glyph></chr>
+			<chr><glyph>崧</glyph></chr>
+			<chr><glyph>菘</glyph></chr>
+			<chr><glyph>𦬘</glyph><note>上同</note></chr>
+			<chr><glyph>娀</glyph></chr>
+		</syllable>
+		<!--'슈ᇰ'의 상성자는 없음-->
+		<!--'슈ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·슉</head>
+			<chr><glyph>肅</glyph><note>又本韻</note></chr>
+			<chr><glyph>鱐</glyph><note>又鳩韻</note></chr>
+			<chr><glyph>宿</glyph><note>又本韻救韻</note></chr>
+			<chr><glyph>蓿</glyph></chr>
+			<chr><glyph>夙</glyph></chr>
+			<chr><glyph>縮</glyph></chr>
+			<chr><glyph>蹜</glyph></chr>
+			<chr><glyph>宿</glyph><note>上同又本韻救韻</note></chr>
+			<chr><glyph>䎘</glyph></chr>
+			<chr><glyph>肅</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>謖</glyph></chr>
+			<chr><glyph>莤</glyph></chr>
+			<chr><glyph>菽</glyph></chr>
+			<chr><glyph>叔</glyph><note>又本韻</note></chr>
+			<chr><glyph>𡬧</glyph><note>上同</note></chr>
+			<chr><glyph>鮛</glyph></chr>
+			<chr><glyph>䱙</glyph><note>上同</note></chr>
+			<chr><glyph>倏</glyph></chr>
+			<chr><glyph>儵</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="邪"><!--邪母-->
+		<syllable tone="level"><!--평성-->
+			<head>쓔ᇰ</head>
+			<chr><glyph>崇</glyph></chr>
+			<chr><glyph>崈</glyph><note>上同</note></chr>
+			<chr><glyph>漴</glyph><note>又絳韻</note></chr>
+		</syllable>
+		<!--'쓔ᇰ'의 상성자는 없음-->
+		<!--'쓔ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·쓕</head>
+			<chr><glyph>孰</glyph></chr>
+			<chr><glyph>熟</glyph></chr>
+			<chr><glyph>塾</glyph></chr>
+			<chr><glyph>𨶝</glyph><note>上同</note></chr>
+			<chr><glyph>𨷙</glyph><note>上同</note></chr>
+			<chr><glyph>淑</glyph><note>又本韻</note></chr>
+			<chr><glyph>婌</glyph></chr>
+			<chr><glyph>琡</glyph><note>又本韻</note></chr>
+			<chr><glyph>淑</glyph><note>又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>휴ᇰ</head>
+			<chr><glyph>胷</glyph></chr>
+			<chr><glyph>𦙄</glyph><note>上同</note></chr>
+			<chr><glyph>洶</glyph><note>又重韻</note></chr>
+<page n="3b"/>
+			<chr><glyph>汹</glyph><note>上同</note></chr>
+			<chr><glyph>訩</glyph></chr>
+			<chr><glyph>𧧗</glyph><note>上同</note></chr>
+			<chr><glyph>哅</glyph><note>上同又䛪韻</note></chr>
+			<chr><glyph>兇</glyph><note>又重韻</note></chr>
+			<chr><glyph>恟</glyph><note>上同</note></chr>
+			<chr><glyph>忷</glyph><note>上同又重韻</note></chr>
+			<chr><glyph>凶</glyph></chr>
+			<chr><glyph>跫</glyph><note>又拱江韻</note></chr>
+			<chr><glyph>𧿖</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:휴ᇰ</head>
+			<chr><glyph>洶</glyph><note>又弓韻</note></chr>
+			<chr><glyph>詾</glyph></chr>
+			<chr><glyph>㕳</glyph><note>上同</note></chr>
+			<chr><glyph>匈</glyph><note>上同又䛪韻</note></chr>
+			<chr><glyph>兇</glyph><note>又弓韻</note></chr>
+			<chr><glyph>忷</glyph><note>上同又弓韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·휴ᇰ</head>
+			<chr><glyph>匈</glyph><note>又重韻</note></chr>
+			<chr><glyph>哅</glyph><note>上同又弓韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·휵</head>
+			<chr><glyph>畜</glyph><note>又救韻</note></chr>
+			<chr><glyph>慉</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="欲"><!--欲母-->
+		<syllable tone="level"><!--평성-->
+			<head>유ᇰ</head>
+			<chr><glyph>融</glyph></chr>
+			<chr><glyph>瀜</glyph></chr>
+			<chr><glyph>肜</glyph><note>又簪韻</note></chr>
+			<chr><glyph>烿</glyph></chr>
+		</syllable>
+		<!--'유ᇰ'의 상성자는 없음-->
+		<!--'유ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·육</head>
+			<chr><glyph>育</glyph><note>又救韻</note></chr>
+			<chr><glyph>毓</glyph><note>上同</note></chr>
+			<chr><glyph>堉</glyph></chr>
+			<chr><glyph>粥</glyph><note>又本韻二</note></chr>
+			<chr><glyph>昱</glyph></chr>
+			<chr><glyph>煜</glyph><note>又戢韻</note></chr>
+			<chr><glyph>焴</glyph><note>上同</note></chr>
+			<chr><glyph>儥</glyph></chr>
+			<chr><glyph>賣</glyph><note>又蓋韻</note></chr>
+			<chr><glyph>鬻</glyph><note>上同</note></chr>
+			<chr><glyph>粥</glyph><note>上同又本韻二</note></chr>
+		</syllable>
+	</onset>
+<page n="4a"/>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>류ᇰ</head>
+			<chr><glyph>隆</glyph></chr>
+			<chr><glyph>窿</glyph></chr>
+			<chr><glyph>霳</glyph></chr>
+			<chr><glyph>𪔴</glyph></chr>
+			<chr><glyph>𪔕</glyph><note>上同</note></chr>
+			<chr><glyph>癃</glyph></chr>
+			<chr><glyph>𤷬</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'류ᇰ'의 상성자는 없음-->
+		<!--'류ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·륙</head>
+			<chr><glyph>六</glyph></chr>
+			<chr><glyph>陸</glyph></chr>
+			<chr><glyph>𡴆</glyph><note>上同</note></chr>
+			<chr><glyph>坴</glyph><note>上同</note></chr>
+			<chr><glyph>稑</glyph></chr>
+			<chr><glyph>穋</glyph><note>上同</note></chr>
+			<chr><glyph>𧌉</glyph></chr>
+			<chr><glyph>蓼</glyph><note>又杲韻二</note></chr>
+			<chr><glyph>戮</glyph><note>又高鳩救韻</note></chr>
+			<chr><glyph>僇</glyph><note>上同</note></chr>
+			<chr><glyph>𡭁</glyph><note>上同</note></chr>
+			<chr><glyph>勠</glyph><note>又高鳩救韻</note></chr>
+			<chr><glyph>勎</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="穰"><!--穰母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅀᅲᇰ</head>
+			<chr><glyph>戎</glyph><note>又揯韻二公韻</note></chr>
+			<chr><glyph>駥</glyph></chr>
+			<chr><glyph>狨</glyph></chr>
+			<chr><glyph>絨</glyph></chr>
+			<chr><glyph>𢫨</glyph><note>又揯韻</note></chr>
+			<chr><glyph>茙</glyph></chr>
+			<chr><glyph>襛</glyph><note>又公韻</note></chr>
+			<chr><glyph>[艹$䘬]</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᅀᅲᇰ'의 상성자는 없음-->
+		<!--'ᅀᅲᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅀᅲᆨ</head>
+			<chr><glyph>肉</glyph><note>又鳩救韻</note></chr>
+		</syllable>
+	</onset>
+</nucleus>
+</rhyme>
+<rhyme n="7">
+<head>京<note>平</note> 景<note>上</note> 敬<note>去</note> 隔<note>入</note></head>
+<page n="4b"/>
+<nucleus type="ㅕ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>겨ᇰ</head>
+			<chr><glyph>京</glyph></chr>
+			<chr><glyph>驚</glyph></chr>
+			<chr><glyph>荊</glyph></chr>
+			<chr><glyph>麠</glyph></chr>
+			<chr><glyph>麖</glyph><note>上同</note></chr>
+			<chr><glyph>耕</glyph></chr>
+			<chr><glyph>經</glyph><note>又敬韻</note></chr>
+			<chr><glyph>涇</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:겨ᇰ</head>
+			<chr><glyph>景</glyph></chr>
+			<chr><glyph>警</glyph></chr>
+			<chr><glyph>儆</glyph><note>又敬韻</note></chr>
+			<chr><glyph>擏</glyph><note>上同又京韻</note></chr>
+			<chr><glyph>㯳</glyph></chr>
+			<chr><glyph>檠</glyph><note>上同又京敬韻</note></chr>
+			<chr><glyph>境</glyph></chr>
+			<chr><glyph>頸</glyph></chr>
+			<chr><glyph>剄</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·겨ᇰ</head>
+			<chr><glyph>敬</glyph></chr>
+			<chr><glyph>憼</glyph><note>上同</note></chr>
+			<chr><glyph>竟</glyph></chr>
+			<chr><glyph>鏡</glyph></chr>
+			<chr><glyph>獍</glyph></chr>
+			<chr><glyph>勁</glyph></chr>
+			<chr><glyph>徑</glyph></chr>
+			<chr><glyph>逕</glyph><note>上同</note></chr>
+			<chr><glyph>經</glyph><note>又京韻</note></chr>
+			<chr><glyph>俓</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·격</head>
+			<chr><glyph>隔</glyph></chr>
+			<chr><glyph>膈</glyph></chr>
+			<chr><glyph>䐙</glyph><note>上同</note></chr>
+			<chr><glyph>搹</glyph></chr>
+			<chr><glyph>鬲</glyph><note>又本韻</note></chr>
+			<chr><glyph>革</glyph><note>又亟韻</note></chr>
+			<chr><glyph>愅</glyph></chr>
+			<chr><glyph>𥴩</glyph></chr>
+			<chr><glyph>戟</glyph></chr>
+			<chr><glyph>棘</glyph><note>上同又亟韻二</note></chr>
+			<chr><glyph>撠</glyph></chr>
+			<chr><glyph>躆</glyph></chr>
+			<chr><glyph>激</glyph><note>又高韻</note></chr>
+			<chr><glyph>擊</glyph><note>又本韻</note></chr>
+			<chr><glyph>撽</glyph><note>上同又誥韻</note></chr>
+			<chr><glyph>轚</glyph><note>又罽韻</note></chr>
+			<chr><glyph>墼</glyph></chr>
+			<chr><glyph>噭</glyph><note>又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>켜ᇰ</head>
+<page n="5a"/>
+			<chr><glyph>卿</glyph></chr>
+			<chr><glyph>輕</glyph><note>又敬韻</note></chr>
+			<chr><glyph>𨆪</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:켜ᇰ</head>
+			<chr><glyph>謦</glyph></chr>
+			<chr><glyph>綮</glyph><note>又啓韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·켜ᇰ</head>
+			<chr><glyph>慶</glyph><note>又江韻</note></chr>
+			<chr><glyph>輕</glyph><note>又京韻</note></chr>
+			<chr><glyph>罄</glyph></chr>
+			<chr><glyph>磬</glyph></chr>
+			<chr><glyph>𨆪</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·켝</head>
+			<chr><glyph>隙</glyph></chr>
+			<chr><glyph>𡮱</glyph><note>上同</note></chr>
+			<chr><glyph>𧯈</glyph><note>上同</note></chr>
+			<chr><glyph>䧍</glyph><note>上同</note></chr>
+			<chr><glyph>郤</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>郄</glyph><note>上同</note></chr>
+			<chr><glyph>綌</glyph></chr>
+			<chr><glyph>𦃁</glyph><note>上同</note></chr>
+			<chr><glyph>𢂲</glyph><note>上同</note></chr>
+			<chr><glyph>郤</glyph><note>又本韻</note></chr>
+			<chr><glyph>喫</glyph></chr>
+			<chr><glyph>𡁒</glyph><note>上同</note></chr>
+			<chr><glyph>噭</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>毄</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虯"><!--虯母-->
+		<syllable tone="level"><!--평성-->
+			<head>껴ᇰ</head>
+			<chr><glyph>擎</glyph><note>又䛪韻</note></chr>
+			<chr><glyph>㢣</glyph><note>上同</note></chr>
+			<chr><glyph>擏</glyph><note>上同又景韻</note></chr>
+			<chr><glyph>檠</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>𢐧</glyph><note>上同</note></chr>
+			<chr><glyph>鯨</glyph></chr>
+			<chr><glyph>黥</glyph></chr>
+			<chr><glyph>剠</glyph><note>上同</note></chr>
+			<chr><glyph>勍</glyph></chr>
+		</syllable>
+		<!--'껴ᇰ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·껴ᇰ</head>
+			<chr><glyph>競</glyph></chr>
+			<chr><glyph>𧫙</glyph><note>上同</note></chr>
+			<chr><glyph>傹</glyph><note>上同</note></chr>
+			<chr><glyph>倞</glyph><note>上同又絳韻二</note></chr>
+<page n="5b"/>
+			<chr><glyph>檠</glyph><note>又京景韻</note></chr>
+			<chr><glyph>擎</glyph><note>又弓韻</note></chr>
+			<chr><glyph>儆</glyph><note>又景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·껵</head>
+			<chr><glyph>劇</glyph></chr>
+			<chr><glyph>屐</glyph></chr>
+			<chr><glyph>跂</glyph><note>上同又貲韻二紫恣韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᅧᇰ</head>
+			<chr><glyph>迎</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<!--'ᅌᅧᇰ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᅧᇰ</head>
+			<chr><glyph>迎</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅧᆨ</head>
+			<chr><glyph>逆</glyph></chr>
+			<chr><glyph>縌</glyph></chr>
+			<chr><glyph>𥿬</glyph><note>上同</note></chr>
+			<chr><glyph>鶂</glyph></chr>
+			<chr><glyph>鷁</glyph><note>上同</note></chr>
+			<chr><glyph>𪁌</glyph><note>上同</note></chr>
+			<chr><glyph>鶃</glyph><note>上同</note></chr>
+			<chr><glyph>霓</glyph><note>又訐雞韻</note></chr>
+			<chr><glyph>艗</glyph></chr>
+			<chr><glyph>搤</glyph><note>上同又亟蓋韻</note></chr>
+			<chr><glyph>𦩊</glyph><note>上同</note></chr>
+			<chr><glyph>虉</glyph></chr>
+			<chr><glyph>[(䒑$目$大)+鳥]</glyph><note>上同</note></chr>
+			<chr><glyph>𧄷</glyph><note>上同</note></chr>
+			<chr><glyph>鷊</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>뎌ᇰ</head>
+			<chr><glyph>禎</glyph></chr>
+			<chr><glyph>貞</glyph></chr>
+			<chr><glyph>偵</glyph><note>上同又本韻敬韻</note></chr>
+			<chr><glyph>楨</glyph></chr>
+			<chr><glyph>丁</glyph><note>又揯韻</note></chr>
+			<chr><glyph>釘</glyph><note>又敬韻</note></chr>
+			<chr><glyph>玎</glyph><note>又揯韻</note></chr>
+			<chr><glyph>㣔</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:뎌ᇰ</head>
+			<chr><glyph>頂</glyph></chr>
+			<chr><glyph>顁</glyph><note>上同又敬韻</note></chr>
+			<chr><glyph>酊</glyph></chr>
+			<chr><glyph>打</glyph><note>又肯哿韻</note></chr>
+			<chr><glyph>鼎</glyph></chr>
+		</syllable>
+<page n="6a"/>
+		<syllable tone="departing"><!--거성-->
+			<head>·뎌ᇰ</head>
+			<chr><glyph>矴</glyph></chr>
+			<chr><glyph>碇</glyph><note>上同</note></chr>
+			<chr><glyph>磸</glyph><note>上同</note></chr>
+			<chr><glyph>釘</glyph><note>又京韻</note></chr>
+			<chr><glyph>訂</glyph><note>又景韻</note></chr>
+			<chr><glyph>飣</glyph></chr>
+			<chr><glyph>𦘭</glyph><note>上同</note></chr>
+			<chr><glyph>定</glyph><note>又本韻</note></chr>
+			<chr><glyph>顁</glyph><note>又景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·뎍</head>
+			<chr><glyph>的</glyph></chr>
+			<chr><glyph>𤾠</glyph><note>上同</note></chr>
+			<chr><glyph>馰</glyph></chr>
+			<chr><glyph>㢩</glyph></chr>
+			<chr><glyph>靮</glyph></chr>
+			<chr><glyph>菂</glyph></chr>
+			<chr><glyph>芍</glyph><note>上同又覺韻二</note></chr>
+			<chr><glyph>滴</glyph></chr>
+			<chr><glyph>鏑</glyph></chr>
+			<chr><glyph>樀</glyph></chr>
+			<chr><glyph>[米+適]</glyph><note>上同</note></chr>
+			<chr><glyph>嫡</glyph></chr>
+			<chr><glyph>蹢</glyph></chr>
+			<chr><glyph>豴</glyph><note>上同</note></chr>
+			<chr><glyph>甋</glyph></chr>
+			<chr><glyph>適</glyph><note>又本韻二亟韻</note></chr>
+			<chr><glyph>啇</glyph></chr>
+			<chr><glyph>弔</glyph><note>又誥韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="吞"><!--吞母-->
+		<syllable tone="level"><!--평성-->
+			<head>텨ᇰ</head>
+			<chr><glyph>檉</glyph></chr>
+			<chr><glyph>蟶</glyph></chr>
+			<chr><glyph>偵</glyph><note>又本韻敬韻</note></chr>
+			<chr><glyph>遉</glyph><note>上同又敬韻</note></chr>
+			<chr><glyph>赬</glyph></chr>
+			<chr><glyph>𧹙</glyph><note>上同</note></chr>
+			<chr><glyph>竀</glyph></chr>
+			<chr><glyph>靗</glyph><note>上同</note></chr>
+			<chr><glyph>聽</glyph><note>又敬韻</note></chr>
+			<chr><glyph>廳</glyph></chr>
+			<chr><glyph>汀</glyph><note>又敬韻</note></chr>
+			<chr><glyph>𢆊</glyph><note>上同</note></chr>
+			<chr><glyph>渟</glyph><note>上同</note></chr>
+			<chr><glyph>朾</glyph></chr>
+			<chr><glyph>綎</glyph></chr>
+			<chr><glyph>䋼</glyph><note>上同</note></chr>
+			<chr><glyph>𦀚</glyph><note>上同</note></chr>
+<page n="6b"/>
+			<chr><glyph>鞓</glyph></chr>
+			<chr><glyph>䩠</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:텨ᇰ</head>
+			<chr><glyph>逞</glyph></chr>
+			<chr><glyph>裎</glyph><note>又京韻</note></chr>
+			<chr><glyph>騁</glyph></chr>
+			<chr><glyph>珽</glyph></chr>
+			<chr><glyph>珵</glyph><note>上同又京韻</note></chr>
+			<chr><glyph>挺</glyph><note>又本韻</note></chr>
+			<chr><glyph>𪊶</glyph></chr>
+			<chr><glyph>脡</glyph></chr>
+			<chr><glyph>侹</glyph><note>又敬韻</note></chr>
+			<chr><glyph>頲</glyph></chr>
+			<chr><glyph>𩑙</glyph><note>上同又穀韻二</note></chr>
+			<chr><glyph>町</glyph></chr>
+			<chr><glyph>圢</glyph><note>上同</note></chr>
+			<chr><glyph>䵺</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·텨ᇰ</head>
+			<chr><glyph>遉</glyph><note>又京韻</note></chr>
+			<chr><glyph>偵</glyph><note>又京韻二</note></chr>
+			<chr><glyph>聽</glyph><note>又京韻</note></chr>
+			<chr><glyph>庭</glyph><note>又京韻</note></chr>
+			<chr><glyph>侹</glyph><note>又景韻</note></chr>
+			<chr><glyph>汀</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·텩</head>
+			<chr><glyph>逖</glyph></chr>
+			<chr><glyph>逷</glyph><note>上同</note></chr>
+			<chr><glyph>狄</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>惕</glyph></chr>
+			<chr><glyph>悐</glyph><note>上同</note></chr>
+			<chr><glyph>𢡕</glyph><note>上同</note></chr>
+			<chr><glyph>𢞫</glyph><note>上同</note></chr>
+			<chr><glyph>剔</glyph></chr>
+			<chr><glyph>肆</glyph><note>上同又恣韻二</note></chr>
+			<chr><glyph>趯</glyph><note>又覺韻</note></chr>
+			<chr><glyph>躍</glyph><note>上同又覺韻</note></chr>
+			<chr><glyph>䢰</glyph><note>上同</note></chr>
+			<chr><glyph>摘</glyph><note>又亟韻</note></chr>
+			<chr><glyph>𢱦</glyph><note>上同</note></chr>
+			<chr><glyph>硩</glyph><note>又訐韻</note></chr>
+			<chr><glyph>俶</glyph><note>又匊韻</note></chr>
+<page n="7a"/>
+			<chr><glyph>倜</glyph><note>上同</note></chr>
+			<chr><glyph>𥉉</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>뗘ᇰ</head>
+			<chr><glyph>呈</glyph></chr>
+			<chr><glyph>程</glyph></chr>
+			<chr><glyph>酲</glyph></chr>
+			<chr><glyph>珵</glyph><note>又景韻</note></chr>
+			<chr><glyph>裎</glyph><note>又景韻</note></chr>
+			<chr><glyph>庭</glyph><note>又敬韻</note></chr>
+			<chr><glyph>廷</glyph><note>又敬韻</note></chr>
+			<chr><glyph>霆</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>䨶</glyph><note>上同</note></chr>
+			<chr><glyph>莛</glyph><note>又景韻</note></chr>
+			<chr><glyph>壬</glyph><note>上同又簪韻</note></chr>
+			<chr><glyph>筳</glyph></chr>
+			<chr><glyph>梃</glyph><note>又景韻</note></chr>
+			<chr><glyph>娗</glyph><note>又景寋韻</note></chr>
+			<chr><glyph>婷</glyph><note>上同</note></chr>
+			<chr><glyph>蜓</glyph><note>又寋韻</note></chr>
+			<chr><glyph>鼮</glyph></chr>
+			<chr><glyph>㹶</glyph></chr>
+			<chr><glyph>𤠜</glyph><note>上同</note></chr>
+			<chr><glyph>亭</glyph></chr>
+			<chr><glyph>停</glyph></chr>
+			<chr><glyph>渟</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:뗘ᇰ</head>
+			<chr><glyph>瑒</glyph><note>又江講絳韻</note></chr>
+			<chr><glyph>挺</glyph><note>又本韻</note></chr>
+			<chr><glyph>艇</glyph></chr>
+			<chr><glyph>鋌</glyph></chr>
+			<chr><glyph>梃</glyph><note>又京韻</note></chr>
+			<chr><glyph>娗</glyph><note>又京寋韻</note></chr>
+			<chr><glyph>莛</glyph><note>又京韻</note></chr>
+			<chr><glyph>霆</glyph><note>又京敬韻</note></chr>
+			<chr><glyph>訂</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·뗘ᇰ</head>
+			<chr><glyph>鄭</glyph></chr>
+			<chr><glyph>定</glyph><note>又本韻</note></chr>
+			<chr><glyph>廷</glyph><note>又京韻</note></chr>
+			<chr><glyph>霆</glyph><note>又京景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·뗙</head>
+			<chr><glyph>擲</glyph></chr>
+			<chr><glyph>躑</glyph></chr>
+			<chr><glyph>狄</glyph><note>又本韻</note></chr>
+			<chr><glyph>翟</glyph><note>上同又本韻亟韻</note></chr>
+<page n="7b"/>
+			<chr><glyph>荻</glyph></chr>
+			<chr><glyph>敵</glyph></chr>
+			<chr><glyph>適</glyph><note>上同又本韻二亟韻</note></chr>
+			<chr><glyph>笛</glyph></chr>
+			<chr><glyph>篴</glyph><note>上同</note></chr>
+			<chr><glyph>迪</glyph></chr>
+			<chr><glyph>頔</glyph></chr>
+			<chr><glyph>翟</glyph><note>又本韻亟韻</note></chr>
+			<chr><glyph>鸐</glyph><note>上同</note></chr>
+			<chr><glyph>籊</glyph></chr>
+			<chr><glyph>嚁</glyph></chr>
+			<chr><glyph>糴</glyph></chr>
+			<chr><glyph>籴</glyph><note>上同</note></chr>
+			<chr><glyph>滌</glyph></chr>
+			<chr><glyph>條</glyph><note>上同又高韻二</note></chr>
+			<chr><glyph>脩</glyph><note>上同又高韻鳩韻二九韻</note></chr>
+			<chr><glyph>覿</glyph></chr>
+			<chr><glyph>䚍</glyph><note>上同</note></chr>
+			<chr><glyph>𧠫</glyph><note>上同</note></chr>
+			<chr><glyph>踧</glyph><note>又匊韻</note></chr>
+			<chr><glyph>逐</glyph><note>又匊韻</note></chr>
+			<chr><glyph>浟</glyph><note>上同又鳩韻</note></chr>
+			<chr><glyph>咷</glyph><note>又高韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<syllable tone="level"><!--평성-->
+			<head>녀ᇰ</head>
+			<chr><glyph>寧</glyph><note>又敬韻</note></chr>
+			<chr><glyph>甯</glyph><note>上同又敬韻</note></chr>
+			<chr><glyph>寍</glyph></chr>
+			<chr><glyph>嚀</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:녀ᇰ</head>
+			<chr><glyph>𩕳</glyph></chr>
+			<chr><glyph>[寗+頁]</glyph><note>上同</note></chr>
+			<chr><glyph>濘</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·녀ᇰ</head>
+			<chr><glyph>甯</glyph><note>又京韻</note></chr>
+			<chr><glyph>寧</glyph><note>又京韻</note></chr>
+			<chr><glyph>濘</glyph><note>又景韻</note></chr>
+			<chr><glyph>佞</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·녁</head>
+			<chr><glyph>惄</glyph></chr>
+			<chr><glyph>𩚮</glyph><note>上同又貲韻</note></chr>
+			<chr><glyph>溺</glyph><note>又覺誥韻</note></chr>
+<page n="8a"/>
+		</syllable>
+	</onset>
+	<onset type="彆"><!--彆母-->
+		<syllable tone="level"><!--평성-->
+			<head>벼ᇰ</head>
+			<chr><glyph>兵</glyph></chr>
+			<chr><glyph>幷</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>倂</glyph><note>上同又景韻二敬肯韻</note></chr>
+			<chr><glyph>栟</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:벼ᇰ</head>
+			<chr><glyph>丙</glyph></chr>
+			<chr><glyph>炳</glyph></chr>
+			<chr><glyph>昞</glyph><note>上同</note></chr>
+			<chr><glyph>昺</glyph><note>上同</note></chr>
+			<chr><glyph>怲</glyph><note>又敬韻</note></chr>
+			<chr><glyph>抦</glyph></chr>
+			<chr><glyph>㨀</glyph><note>上同又敬韻</note></chr>
+			<chr><glyph>蛃</glyph></chr>
+			<chr><glyph>邴</glyph></chr>
+			<chr><glyph>寎</glyph></chr>
+			<chr><glyph>秉</glyph><note>又敬韻</note></chr>
+			<chr><glyph>餠</glyph></chr>
+			<chr><glyph>鉼</glyph></chr>
+			<chr><glyph>倂</glyph><note>又本韻京敬肯韻</note></chr>
+			<chr><glyph>幷</glyph><note>上同又京敬韻</note></chr>
+			<chr><glyph>屛</glyph><note>又京敬韻</note></chr>
+			<chr><glyph>偋</glyph><note>又敬韻</note></chr>
+			<chr><glyph>幷</glyph><note>上同</note></chr>
+			<chr><glyph>辟</glyph><note>上同又隔韻三亟貲韻恣韻三罽韻</note></chr>
+			<chr><glyph>簈</glyph></chr>
+			<chr><glyph>鞞</glyph><note>又貲紫雞韻</note></chr>
+			<chr><glyph>鞸</glyph><note>上同又訖韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·벼ᇰ</head>
+			<chr><glyph>柄</glyph><note>又劒韻</note></chr>
+			<chr><glyph>㨀</glyph><note>上同又景韻</note></chr>
+			<chr><glyph>秉</glyph><note>上同又景韻</note></chr>
+			<chr><glyph>枋</glyph><note>上同又江絳韻</note></chr>
+			<chr><glyph>怲</glyph><note>又景韻</note></chr>
+			<chr><glyph>倂</glyph><note>又京韻景韻二肯韻</note></chr>
+			<chr><glyph>幷</glyph><note>上同又京景韻</note></chr>
+<page n="8b"/>
+			<chr><glyph>屛</glyph><note>又京景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·벽</head>
+			<chr><glyph>辟</glyph><note>又本韻二景亟貲韻恣韻三罽韻</note></chr>
+			<chr><glyph>𨐝</glyph><note>上同</note></chr>
+			<chr><glyph>璧</glyph></chr>
+			<chr><glyph>襞</glyph></chr>
+			<chr><glyph>躃</glyph></chr>
+			<chr><glyph>躄</glyph><note>上同</note></chr>
+			<chr><glyph>碧</glyph></chr>
+			<chr><glyph>壁</glyph></chr>
+			<chr><glyph>鼊</glyph></chr>
+			<chr><glyph>繴</glyph></chr>
+			<chr><glyph>逼</glyph></chr>
+			<chr><glyph>偪</glyph><note>上同</note></chr>
+			<chr><glyph>楅</glyph><note>又穀韻</note></chr>
+			<chr><glyph>幅</glyph><note>又穀韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="漂"><!--漂母-->
+		<syllable tone="level"><!--평성-->
+			<head>펴ᇰ</head>
+			<chr><glyph>竮</glyph></chr>
+			<chr><glyph>𢓳</glyph><note>上同</note></chr>
+			<chr><glyph>俜</glyph></chr>
+			<chr><glyph>甹</glyph><note>上同</note></chr>
+			<chr><glyph>娉</glyph><note>又敬韻</note></chr>
+			<chr><glyph>頩</glyph><note>又景韻</note></chr>
+			<chr><glyph>荓</glyph><note>又揯韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:펴ᇰ</head>
+			<chr><glyph>頩</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·펴ᇰ</head>
+			<chr><glyph>聘</glyph></chr>
+			<chr><glyph>娉</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·펵</head>
+			<chr><glyph>僻</glyph><note>又本韻罽韻</note></chr>
+			<chr><glyph>辟</glyph><note>上同又本韻二景亟貲韻恣韻三罽韻</note></chr>
+			<chr><glyph>薜</glyph><note>上同又亟罽韻</note></chr>
+			<chr><glyph>癖</glyph></chr>
+			<chr><glyph>擗</glyph><note>又本韻二亟韻</note></chr>
+			<chr><glyph>霹</glyph></chr>
+			<chr><glyph>礔</glyph><note>上同</note></chr>
+			<chr><glyph>澼</glyph></chr>
+			<chr><glyph>劈</glyph></chr>
+			<chr><glyph>擗</glyph><note>又本韻二亟韻</note></chr>
+<page n="9a"/>
+			<chr><glyph>䤨</glyph></chr>
+			<chr><glyph>堛</glyph></chr>
+			<chr><glyph>愊</glyph></chr>
+			<chr><glyph>稫</glyph></chr>
+			<chr><glyph>副</glyph><note>又穀救屨韻</note></chr>
+			<chr><glyph>疈</glyph><note>上同</note></chr>
+			<chr><glyph>罷</glyph><note>上同又貲韻二紫解箇韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="步"><!--步母-->
+		<syllable tone="level"><!--평성-->
+			<head>뼈ᇰ</head>
+			<chr><glyph>平</glyph><note>又敬鞬韻</note></chr>
+			<chr><glyph>苹</glyph><note>又本韻揯韻</note></chr>
+			<chr><glyph>萍</glyph></chr>
+			<chr><glyph>苹</glyph><note>上同又本韻揯韻</note></chr>
+			<chr><glyph>蓱</glyph><note>上同</note></chr>
+			<chr><glyph>枰</glyph><note>又敬韻</note></chr>
+			<chr><glyph>檘</glyph><note>上同</note></chr>
+			<chr><glyph>評</glyph></chr>
+			<chr><glyph>缾</glyph></chr>
+			<chr><glyph>甁</glyph><note>上同</note></chr>
+			<chr><glyph>䍈</glyph><note>上同</note></chr>
+			<chr><glyph>輧</glyph><note>又揯鞬韻</note></chr>
+			<chr><glyph>𨍍</glyph><note>上同</note></chr>
+			<chr><glyph>[甾+屛]</glyph></chr>
+			<chr><glyph>[甾+幷]</glyph><note>上同</note></chr>
+			<chr><glyph>洴</glyph></chr>
+			<chr><glyph>騈</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>郱</glyph></chr>
+			<chr><glyph>屛</glyph><note>又景敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:뼈ᇰ</head>
+			<chr><glyph>並</glyph><note>又敬笴韻</note></chr>
+			<chr><glyph>倂</glyph><note>又本韻京敬肯韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·뼈ᇰ</head>
+			<chr><glyph>病</glyph></chr>
+			<chr><glyph>平</glyph><note>又京鞬韻</note></chr>
+			<chr><glyph>枰</glyph><note>又京韻</note></chr>
+			<chr><glyph>偋</glyph><note>又景韻</note></chr>
+			<chr><glyph>並</glyph><note>又景笴韻</note></chr>
+			<chr><glyph>𠊧</glyph><note>上同又肯韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·뼉</head>
+			<chr><glyph>擗</glyph><note>又本韻二亟韻</note></chr>
+			<chr><glyph>僻</glyph><note>又本韻罽韻</note></chr>
+<page n="9b"/>
+			<chr><glyph>闢</glyph></chr>
+			<chr><glyph>𨳡</glyph><note>上同</note></chr>
+			<chr><glyph>辟</glyph><note>又本韻二景亟貲韻恣韻三罽韻</note></chr>
+			<chr><glyph>椑</glyph><note>又貲雞韻</note></chr>
+			<chr><glyph>甓</glyph></chr>
+			<chr><glyph>愎</glyph></chr>
+			<chr><glyph>𥻅</glyph></chr>
+			<chr><glyph>煏</glyph><note>上同</note></chr>
+			<chr><glyph>㷶</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彌"><!--彌母-->
+		<syllable tone="level"><!--평성-->
+			<head>며ᇰ</head>
+			<chr><glyph>明</glyph><note>又亙江韻</note></chr>
+			<chr><glyph>盟</glyph><note>又亙韻</note></chr>
+			<chr><glyph>𥂗</glyph><note>上同</note></chr>
+			<chr><glyph>䳟</glyph></chr>
+			<chr><glyph>𪆌</glyph><note>上同</note></chr>
+			<chr><glyph>𪂡</glyph><note>上同</note></chr>
+			<chr><glyph>鳴</glyph><note>又敬韻</note></chr>
+			<chr><glyph>名</glyph><note>又本韻敬韻</note></chr>
+			<chr><glyph>洺</glyph></chr>
+			<chr><glyph>冥</glyph><note>又景敬隔韻</note></chr>
+			<chr><glyph>瞑</glyph><note>上同又本韻景敬建韻</note></chr>
+			<chr><glyph>蓂</glyph></chr>
+			<chr><glyph>溟</glyph><note>又景韻</note></chr>
+			<chr><glyph>螟</glyph></chr>
+			<chr><glyph>瞑</glyph><note>又本韻景敬建韻</note></chr>
+			<chr><glyph>覭</glyph></chr>
+			<chr><glyph>䫤</glyph></chr>
+			<chr><glyph>鄍</glyph></chr>
+			<chr><glyph>銘</glyph></chr>
+			<chr><glyph>名</glyph><note>上同又本韻敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:며ᇰ</head>
+			<chr><glyph>皿</glyph></chr>
+			<chr><glyph>黽</glyph><note>又揯懇寋韻</note></chr>
+			<chr><glyph>鼆</glyph></chr>
+			<chr><glyph>𢌆</glyph><note>又肯佳韻</note></chr>
+			<chr><glyph>茗</glyph></chr>
+			<chr><glyph>榠</glyph><note>上同</note></chr>
+			<chr><glyph>酩</glyph></chr>
+			<chr><glyph>佲</glyph><note>上同</note></chr>
+			<chr><glyph>𠋶</glyph><note>上同</note></chr>
+<page n="10a"/>
+			<chr><glyph>冥</glyph><note>又京敬隔韻</note></chr>
+			<chr><glyph>瞑</glyph><note>又京韻二敬建韻</note></chr>
+			<chr><glyph>溟</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·며ᇰ</head>
+			<chr><glyph>命</glyph></chr>
+			<chr><glyph>鳴</glyph><note>又京韻</note></chr>
+			<chr><glyph>詺</glyph></chr>
+			<chr><glyph>名</glyph><note>上同又京韻二</note></chr>
+			<chr><glyph>暝</glyph></chr>
+			<chr><glyph>冥</glyph><note>上同又京景隔韻</note></chr>
+			<chr><glyph>瞑</glyph><note>又京韻二景建韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·멱</head>
+			<chr><glyph>覓</glyph></chr>
+			<chr><glyph>眽</glyph><note>上同</note></chr>
+			<chr><glyph>冪</glyph><note>又本韻</note></chr>
+			<chr><glyph>幕</glyph><note>上同又覺旰韻</note></chr>
+			<chr><glyph>羃</glyph><note>上同</note></chr>
+			<chr><glyph>鼏</glyph></chr>
+			<chr><glyph>幎</glyph></chr>
+			<chr><glyph>冪</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>塓</glyph></chr>
+			<chr><glyph>冥</glyph><note>又京景敬韻</note></chr>
+			<chr><glyph>汨</glyph><note>又骨韻二屈韻</note></chr>
+			<chr><glyph>幦</glyph></chr>
+			<chr><glyph>𢅵</glyph></chr>
+			<chr><glyph>篾</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>져ᇰ</head>
+			<chr><glyph>精</glyph><note>又敬韻</note></chr>
+			<chr><glyph>睛</glyph><note>又景韻</note></chr>
+			<chr><glyph>蜻</glyph></chr>
+			<chr><glyph>𧓔</glyph><note>上同</note></chr>
+			<chr><glyph>𪂴</glyph></chr>
+			<chr><glyph>𨿬</glyph><note>上同</note></chr>
+			<chr><glyph>鶄</glyph><note>上同</note></chr>
+			<chr><glyph>菁</glyph></chr>
+			<chr><glyph>晶</glyph></chr>
+			<chr><glyph>晟</glyph><note>上同又敬韻</note></chr>
+			<chr><glyph>旌</glyph></chr>
+			<chr><glyph>[方+(ㄥ$合)]</glyph><note>上同</note></chr>
+			<chr><glyph>𧚫</glyph><note>上同</note></chr>
+<page n="10b"/>
+			<chr><glyph>𦑊</glyph><note>上同</note></chr>
+			<chr><glyph>征</glyph></chr>
+			<chr><glyph>䋊</glyph></chr>
+			<chr><glyph>鉦</glyph></chr>
+			<chr><glyph>𦙫</glyph></chr>
+			<chr><glyph>鯖</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𩜎</glyph><note>上同</note></chr>
+			<chr><glyph>𤏾</glyph><note>上同</note></chr>
+			<chr><glyph>𦡅</glyph><note>上同</note></chr>
+			<chr><glyph>𢁿</glyph></chr>
+			<chr><glyph>鴊</glyph></chr>
+			<chr><glyph>政</glyph><note>又敬韻</note></chr>
+			<chr><glyph>正</glyph><note>又敬韻</note></chr>
+			<chr><glyph>靑</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:져ᇰ</head>
+			<chr><glyph>井</glyph></chr>
+			<chr><glyph>整</glyph></chr>
+			<chr><glyph>[(牙+攵)$正]</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·져ᇰ</head>
+			<chr><glyph>精</glyph><note>又京韻</note></chr>
+			<chr><glyph>正</glyph><note>又京韻</note></chr>
+			<chr><glyph>政</glyph><note>又京韻</note></chr>
+			<chr><glyph>証</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·젹</head>
+			<chr><glyph>積</glyph><note>又恣韻</note></chr>
+			<chr><glyph>襀</glyph></chr>
+			<chr><glyph>鰿</glyph></chr>
+			<chr><glyph>迹</glyph></chr>
+			<chr><glyph>𨖊</glyph><note>上同</note></chr>
+			<chr><glyph>跡</glyph><note>上同</note></chr>
+			<chr><glyph>蹟</glyph><note>上同</note></chr>
+			<chr><glyph>脊</glyph></chr>
+			<chr><glyph>蹐</glyph></chr>
+			<chr><glyph>䳭</glyph></chr>
+			<chr><glyph>𪃹</glyph><note>上同</note></chr>
+			<chr><glyph>鯽</glyph></chr>
+			<chr><glyph>踖</glyph><note>又本韻覺韻</note></chr>
+			<chr><glyph>借</glyph><note>又箇韻</note></chr>
+			<chr><glyph>藉</glyph><note>上同又本韻箇韻二</note></chr>
+			<chr><glyph>績</glyph></chr>
+			<chr><glyph>勣</glyph></chr>
+			<chr><glyph>隻</glyph></chr>
+			<chr><glyph>摭</glyph></chr>
+			<chr><glyph>跖</glyph></chr>
+			<chr><glyph>墌</glyph></chr>
+			<chr><glyph>坧</glyph><note>上同</note></chr>
+			<chr><glyph>炙</glyph><note>又箇韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<syllable tone="level"><!--평성-->
+			<head>쳐ᇰ</head>
+<page n="11a"/>
+			<chr><glyph>淸</glyph><note>又景韻敬韻二</note></chr>
+			<chr><glyph>圊</glyph></chr>
+			<chr><glyph>靑</glyph><note>又本韻</note></chr>
+			<chr><glyph>鯖</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:쳐ᇰ</head>
+			<chr><glyph>請</glyph><note>又京敬韻</note></chr>
+			<chr><glyph>睛</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·쳐ᇰ</head>
+			<chr><glyph>婧</glyph></chr>
+			<chr><glyph>凊</glyph></chr>
+			<chr><glyph>淸</glyph><note>上同又本韻京景韻</note></chr>
+			<chr><glyph>倩</glyph><note>又建韻</note></chr>
+			<chr><glyph>靘</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쳑</head>
+			<chr><glyph>刺</glyph><note>又恣韻</note></chr>
+			<chr><glyph>措</glyph><note>上同又亟韻顧韻</note></chr>
+			<chr><glyph>磧</glyph></chr>
+			<chr><glyph>赤</glyph><note>又本韻</note></chr>
+			<chr><glyph>捇</glyph><note>上同</note></chr>
+			<chr><glyph>皵</glyph><note>又覺誥韻</note></chr>
+			<chr><glyph>戚</glyph><note>又穀匊韻</note></chr>
+			<chr><glyph>鏚</glyph></chr>
+			<chr><glyph>慽</glyph></chr>
+			<chr><glyph>慼</glyph><note>上同</note></chr>
+			<chr><glyph>墄</glyph><note>又罽韻</note></chr>
+			<chr><glyph>鼜</glyph></chr>
+			<chr><glyph>尺</glyph></chr>
+			<chr><glyph>赤</glyph><note>又本韻</note></chr>
+			<chr><glyph>斥</glyph><note>又亟韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>쪄ᇰ</head>
+			<chr><glyph>情</glyph></chr>
+			<chr><glyph>啨</glyph><note>上同</note></chr>
+			<chr><glyph>晴</glyph></chr>
+			<chr><glyph>暒</glyph><note>上同</note></chr>
+			<chr><glyph>䝼</glyph></chr>
+			<chr><glyph>請</glyph><note>又景敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:쪄ᇰ</head>
+			<chr><glyph>靜</glyph><note>又敬韻</note></chr>
+			<chr><glyph>竫</glyph></chr>
+			<chr><glyph>靖</glyph><note>又敬韻</note></chr>
+			<chr><glyph>靚</glyph><note>又敬韻</note></chr>
+			<chr><glyph>淸</glyph><note>又京韻敬韻二</note></chr>
+<page n="11b"/>
+			<chr><glyph>穽</glyph><note>又敬韻</note></chr>
+			<chr><glyph>汬</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·쪄ᇰ</head>
+			<chr><glyph>淨</glyph></chr>
+			<chr><glyph>淸</glyph><note>上同又本韻京景韻</note></chr>
+			<chr><glyph>靜</glyph><note>又景韻</note></chr>
+			<chr><glyph>靚</glyph><note>又景韻</note></chr>
+			<chr><glyph>靘</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>請</glyph><note>又京景韻</note></chr>
+			<chr><glyph>靖</glyph><note>又景韻</note></chr>
+			<chr><glyph>阱</glyph></chr>
+			<chr><glyph>穽</glyph><note>上同又景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쪅</head>
+			<chr><glyph>籍</glyph></chr>
+			<chr><glyph>藉</glyph><note>又本韻箇韻二</note></chr>
+			<chr><glyph>耤</glyph><note>又箇韻</note></chr>
+			<chr><glyph>踖</glyph><note>又本韻覺韻</note></chr>
+			<chr><glyph>𨈁</glyph><note>上同</note></chr>
+			<chr><glyph>𨆮</glyph><note>上同</note></chr>
+			<chr><glyph>趞</glyph><note>上同</note></chr>
+			<chr><glyph>庴</glyph></chr>
+			<chr><glyph>瘠</glyph></chr>
+			<chr><glyph>胔</glyph><note>上同</note></chr>
+			<chr><glyph>塉</glyph></chr>
+			<chr><glyph>寂</glyph></chr>
+			<chr><glyph>𡧘</glyph><note>上同</note></chr>
+			<chr><glyph>𧧌</glyph><note>上同</note></chr>
+			<chr><glyph>諔</glyph><note>上同</note></chr>
+			<chr><glyph>漃</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head>셔ᇰ</head>
+			<chr><glyph>聲</glyph></chr>
+			<chr><glyph>殸</glyph><note>上同</note></chr>
+			<chr><glyph>星</glyph></chr>
+			<chr><glyph>腥</glyph><note>又敬韻</note></chr>
+			<chr><glyph>惺</glyph><note>又景韻</note></chr>
+			<chr><glyph>醒</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>鯹</glyph></chr>
+			<chr><glyph>篂</glyph></chr>
+			<chr><glyph>胜</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:셔ᇰ</head>
+			<chr><glyph>省</glyph><note>又肯韻</note></chr>
+<page n="12a"/>
+			<chr><glyph>箵</glyph></chr>
+			<chr><glyph>渻</glyph></chr>
+			<chr><glyph>醒</glyph><note>又京敬韻</note></chr>
+			<chr><glyph>惺</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·셔ᇰ</head>
+			<chr><glyph>性</glyph></chr>
+			<chr><glyph>生</glyph><note>上同又揯亙韻</note></chr>
+			<chr><glyph>姓</glyph></chr>
+			<chr><glyph>醒</glyph><note>又京景韻</note></chr>
+			<chr><glyph>腥</glyph><note>又京韻</note></chr>
+			<chr><glyph>胜</glyph><note>上同又京韻</note></chr>
+			<chr><glyph>聖</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·셕</head>
+			<chr><glyph>昔</glyph><note>又覺韻</note></chr>
+			<chr><glyph>腊</glyph></chr>
+			<chr><glyph>惜</glyph></chr>
+			<chr><glyph>舄</glyph></chr>
+			<chr><glyph>𩍆</glyph><note>上同</note></chr>
+			<chr><glyph>𩊿</glyph><note>上同</note></chr>
+			<chr><glyph>磶</glyph></chr>
+			<chr><glyph>潟</glyph></chr>
+			<chr><glyph>錫</glyph><note>又恣罽韻</note></chr>
+			<chr><glyph>裼</glyph><note>又罽韻</note></chr>
+			<chr><glyph>緆</glyph><note>又恣韻</note></chr>
+			<chr><glyph>𪎥</glyph><note>上同</note></chr>
+			<chr><glyph>皙</glyph></chr>
+			<chr><glyph>晳</glyph><note>上同</note></chr>
+			<chr><glyph>淅</glyph></chr>
+			<chr><glyph>𥺈</glyph><note>上同</note></chr>
+			<chr><glyph>析</glyph><note>又貲韻</note></chr>
+			<chr><glyph>㭊</glyph><note>上同</note></chr>
+			<chr><glyph>蜥</glyph></chr>
+			<chr><glyph>釋</glyph></chr>
+			<chr><glyph>澤</glyph><note>上同又本韻亟覺韻</note></chr>
+			<chr><glyph>繹</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𥼶</glyph></chr>
+			<chr><glyph>適</glyph><note>又本韻二亟韻</note></chr>
+			<chr><glyph>𡣪</glyph></chr>
+			<chr><glyph>奭</glyph><note>又亟韻</note></chr>
+			<chr><glyph>𠁗</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>襫</glyph></chr>
+			<chr><glyph>螫</glyph><note>又覺韻</note></chr>
+			<chr><glyph>蠚</glyph><note>上同又覺韻</note></chr>
+<page n="12b"/>
+			<chr><glyph>郝</glyph><note>又覺韻</note></chr>
+			<chr><glyph>赫</glyph><note>又本韻箇韻</note></chr>
+			<chr><glyph>睗</glyph></chr>
+			<chr><glyph>晹</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="邪"><!--邪母-->
+		<syllable tone="level"><!--평성-->
+			<head>쎠ᇰ</head>
+			<chr><glyph>餳</glyph><note>又江韻</note></chr>
+			<chr><glyph>成</glyph></chr>
+			<chr><glyph>城</glyph></chr>
+			<chr><glyph>誠</glyph></chr>
+			<chr><glyph>郕</glyph></chr>
+			<chr><glyph>盛</glyph><note>又敬韻</note></chr>
+			<chr><glyph>筬</glyph></chr>
+		</syllable>
+		<!--'쎠ᇰ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·쎠ᇰ</head>
+			<chr><glyph>盛</glyph><note>又京韻</note></chr>
+			<chr><glyph>晟</glyph><note>又京韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쎡</head>
+			<chr><glyph>席</glyph></chr>
+			<chr><glyph>蓆</glyph></chr>
+			<chr><glyph>夕</glyph></chr>
+			<chr><glyph>汐</glyph></chr>
+			<chr><glyph>穸</glyph></chr>
+			<chr><glyph>射</glyph><note>又本韻箇韻二</note></chr>
+			<chr><glyph>石</glyph></chr>
+			<chr><glyph>祏</glyph></chr>
+			<chr><glyph>鼫</glyph></chr>
+			<chr><glyph>碩</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅧᇰ</head>
+			<chr><glyph>英</glyph></chr>
+			<chr><glyph>瑛</glyph></chr>
+			<chr><glyph>柍</glyph><note>又江講韻</note></chr>
+			<chr><glyph>韺</glyph></chr>
+			<chr><glyph>霙</glyph></chr>
+			<chr><glyph>央</glyph><note>又江韻</note></chr>
+			<chr><glyph>㡕</glyph><note>上同</note></chr>
+			<chr><glyph>嬰</glyph></chr>
+			<chr><glyph>賏</glyph><note>上同</note></chr>
+			<chr><glyph>瓔</glyph></chr>
+			<chr><glyph>纓</glyph></chr>
+			<chr><glyph>攖</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅙᅧᇰ</head>
+			<chr><glyph>影</glyph></chr>
+			<chr><glyph>澋</glyph><note>上同</note></chr>
+			<chr><glyph>癭</glyph></chr>
+			<chr><glyph>[賏$曰]</glyph><note>上同</note></chr>
+			<chr><glyph>𩖍</glyph><note>上同</note></chr>
+			<chr><glyph>廮</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᅧᇰ</head>
+			<chr><glyph>映</glyph></chr>
+			<chr><glyph>暎</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᅧᆨ</head>
+			<chr><glyph>益</glyph></chr>
+<page n="13a"/>
+			<chr><glyph>嗌</glyph></chr>
+			<chr><glyph>齸</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>혀ᇰ</head>
+			<chr><glyph>亨</glyph></chr>
+			<chr><glyph>脝</glyph></chr>
+			<chr><glyph>馨</glyph></chr>
+		</syllable>
+		<!--'혀ᇰ'의 상성자는 없음-->
+		<!--'혀ᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·혁</head>
+			<chr><glyph>赫</glyph><note>又本韻箇韻</note></chr>
+			<chr><glyph>䓇</glyph><note>上同</note></chr>
+			<chr><glyph>焃</glyph><note>上同</note></chr>
+			<chr><glyph>爀</glyph><note>上同</note></chr>
+			<chr><glyph>嚇</glyph><note>又箇韻</note></chr>
+			<chr><glyph>𠁗</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𢅰</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅧᇰ</head>
+			<chr><glyph>形</glyph></chr>
+			<chr><glyph>邢</glyph></chr>
+			<chr><glyph>刑</glyph></chr>
+			<chr><glyph>侀</glyph></chr>
+			<chr><glyph>鉶</glyph></chr>
+			<chr><glyph>䤯</glyph><note>上同</note></chr>
+			<chr><glyph>型</glyph></chr>
+			<chr><glyph>硎</glyph></chr>
+			<chr><glyph>銒</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>㼛</glyph><note>上同</note></chr>
+			<chr><glyph>𤭓</glyph><note>上同</note></chr>
+			<chr><glyph>𦈨</glyph><note>上同</note></chr>
+			<chr><glyph>陘</glyph></chr>
+			<chr><glyph>娙</glyph></chr>
+			<chr><glyph>𡜇</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᅧᇰ</head>
+			<chr><glyph>悻</glyph></chr>
+			<chr><glyph>涬</glyph></chr>
+			<chr><glyph>㓑</glyph></chr>
+			<chr><glyph>脛</glyph><note>又敬韻</note></chr>
+			<chr><glyph>踁</glyph><note>上同又敬揯韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅘᅧᇰ</head>
+			<chr><glyph>脛</glyph><note>又景韻</note></chr>
+			<chr><glyph>踁</glyph><note>上同又景揯韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅘᅧᆨ</head>
+			<chr><glyph>檄</glyph></chr>
+			<chr><glyph>獥</glyph></chr>
+			<chr><glyph>薂</glyph><note>又杲韻</note></chr>
+			<chr><glyph>覡</glyph></chr>
+			<chr><glyph>擊</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𣒃</glyph></chr>
+		</syllable>
+	</onset>
+<page n="13b"/>
+	<onset type="欲"><!--欲母-->
+		<syllable tone="level"><!--평성-->
+			<head>여ᇰ</head>
+			<chr><glyph>盈</glyph></chr>
+			<chr><glyph>楹</glyph></chr>
+			<chr><glyph>𣟅</glyph><note>上同</note></chr>
+			<chr><glyph>桯</glyph><note>上同</note></chr>
+			<chr><glyph>嬴</glyph></chr>
+			<chr><glyph>㜲</glyph></chr>
+			<chr><glyph>瀛</glyph></chr>
+			<chr><glyph>攍</glyph></chr>
+			<chr><glyph>㨕</glyph><note>上同</note></chr>
+			<chr><glyph>贏</glyph></chr>
+			<chr><glyph>𡕔</glyph><note>上同</note></chr>
+			<chr><glyph>籯</glyph></chr>
+			<chr><glyph>𥯰</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:여ᇰ</head>
+			<chr><glyph>郢</glyph></chr>
+			<chr><glyph>𨙼</glyph><note>上同</note></chr>
+			<chr><glyph>梬</glyph></chr>
+			<chr><glyph>浧</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·여ᇰ</head>
+			<chr><glyph>硬</glyph></chr>
+			<chr><glyph>鞭</glyph><note>上同又鞬韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·역</head>
+			<chr><glyph>睪</glyph><note>又亟顧韻</note></chr>
+			<chr><glyph>繹</glyph><note>又本韻</note></chr>
+			<chr><glyph>𥜃</glyph></chr>
+			<chr><glyph>譯</glyph></chr>
+			<chr><glyph>驛</glyph></chr>
+			<chr><glyph>懌</glyph></chr>
+			<chr><glyph>嶧</glyph></chr>
+			<chr><glyph>醳</glyph></chr>
+			<chr><glyph>澤</glyph><note>上同又本韻亟覺韻</note></chr>
+			<chr><glyph>斁</glyph><note>又顧韻</note></chr>
+			<chr><glyph>歝</glyph><note>上同</note></chr>
+			<chr><glyph>圛</glyph></chr>
+			<chr><glyph>掖</glyph></chr>
+			<chr><glyph>液</glyph></chr>
+			<chr><glyph>腋</glyph></chr>
+			<chr><glyph>亦</glyph></chr>
+			<chr><glyph>帟</glyph></chr>
+			<chr><glyph>奕</glyph></chr>
+			<chr><glyph>弈</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>弈</glyph><note>又本韻</note></chr>
+			<chr><glyph>㴒</glyph></chr>
+			<chr><glyph>易</glyph><note>又恣韻</note></chr>
+			<chr><glyph>蜴</glyph></chr>
+			<chr><glyph>埸</glyph></chr>
+			<chr><glyph>射</glyph><note>又本韻箇韻二</note></chr>
+		</syllable>
+	</onset>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>려ᇰ</head>
+			<chr><glyph>令</glyph><note>又敬韻</note></chr>
+<page n="14a"/>
+			<chr><glyph>伶</glyph></chr>
+			<chr><glyph>靈</glyph></chr>
+			<chr><glyph>𦫃</glyph></chr>
+			<chr><glyph>𦫊</glyph><note>上同</note></chr>
+			<chr><glyph>𦪩</glyph><note>上同</note></chr>
+			<chr><glyph>舲</glyph><note>上同</note></chr>
+			<chr><glyph>櫺</glyph></chr>
+			<chr><glyph>軨</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>㯪</glyph><note>上同</note></chr>
+			<chr><glyph>𧕅</glyph></chr>
+			<chr><glyph>醽</glyph></chr>
+			<chr><glyph>𨤍</glyph><note>上同</note></chr>
+			<chr><glyph>𨣖</glyph><note>上同</note></chr>
+			<chr><glyph>𨠎</glyph><note>上同</note></chr>
+			<chr><glyph>𦉢</glyph></chr>
+			<chr><glyph>䍅</glyph><note>上同</note></chr>
+			<chr><glyph>𦉣</glyph><note>上同</note></chr>
+			<chr><glyph>酃</glyph></chr>
+			<chr><glyph>蘦</glyph></chr>
+			<chr><glyph>麢</glyph></chr>
+			<chr><glyph>𦏰</glyph><note>上同</note></chr>
+			<chr><glyph>𦏪</glyph><note>上同</note></chr>
+			<chr><glyph>羚</glyph><note>上同</note></chr>
+			<chr><glyph>零</glyph><note>又敬鞬韻</note></chr>
+			<chr><glyph>𩆖</glyph><note>上同</note></chr>
+			<chr><glyph>𩆼</glyph><note>上同</note></chr>
+			<chr><glyph>𡈍</glyph><note>上同</note></chr>
+			<chr><glyph>蕶</glyph></chr>
+			<chr><glyph>澪</glyph></chr>
+			<chr><glyph>聆</glyph></chr>
+			<chr><glyph>齡</glyph></chr>
+			<chr><glyph>昤</glyph></chr>
+			<chr><glyph>朎</glyph></chr>
+			<chr><glyph>冷</glyph><note>又肯韻</note></chr>
+			<chr><glyph>泠</glyph></chr>
+			<chr><glyph>蛉</glyph></chr>
+			<chr><glyph>玲</glyph></chr>
+			<chr><glyph>鈴</glyph></chr>
+			<chr><glyph>軨</glyph><note>又本韻</note></chr>
+			<chr><glyph>䡼</glyph><note>上同</note></chr>
+			<chr><glyph>怜</glyph></chr>
+			<chr><glyph>[忄+霝]</glyph><note>上同</note></chr>
+			<chr><glyph>鴒</glyph></chr>
+			<chr><glyph>䴒</glyph><note>上同</note></chr>
+			<chr><glyph>𣬹</glyph></chr>
+			<chr><glyph>翎</glyph></chr>
+			<chr><glyph>瓴</glyph></chr>
+			<chr><glyph>𤮹</glyph><note>上同</note></chr>
+			<chr><glyph>𤮮</glyph><note>上同</note></chr>
+			<chr><glyph>苓</glyph></chr>
+			<chr><glyph>䕘</glyph><note>上同</note></chr>
+<page n="14b"/>
+			<chr><glyph>笭</glyph></chr>
+			<chr><glyph>䉖</glyph><note>上同</note></chr>
+			<chr><glyph>囹</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:려ᇰ</head>
+			<chr><glyph>領</glyph></chr>
+			<chr><glyph>嶺</glyph></chr>
+			<chr><glyph>袊</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·려ᇰ</head>
+			<chr><glyph>令</glyph><note>又京韻</note></chr>
+			<chr><glyph>零</glyph><note>又京鞬韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·력</head>
+			<chr><glyph>歷</glyph></chr>
+			<chr><glyph>[非$厤]</glyph><note>上同</note></chr>
+			<chr><glyph>曆</glyph></chr>
+			<chr><glyph>瀝</glyph></chr>
+			<chr><glyph>𤻤</glyph></chr>
+			<chr><glyph>櫪</glyph></chr>
+			<chr><glyph>䍥</glyph></chr>
+			<chr><glyph>靂</glyph></chr>
+			<chr><glyph>磿</glyph></chr>
+			<chr><glyph>鬲</glyph><note>又本韻</note></chr>
+			<chr><glyph>䰛</glyph><note>上同</note></chr>
+			<chr><glyph>㽁</glyph><note>上同</note></chr>
+			<chr><glyph>鎘</glyph><note>上同</note></chr>
+			<chr><glyph>鬴</glyph><note>上同</note></chr>
+			<chr><glyph>𩱔</glyph><note>上同</note></chr>
+			<chr><glyph>䥶</glyph><note>上同</note></chr>
+			<chr><glyph>𨬑</glyph><note>上同</note></chr>
+			<chr><glyph>鑠</glyph><note>上同又覺韻</note></chr>
+			<chr><glyph>礫</glyph></chr>
+			<chr><glyph>硌</glyph><note>上同又覺韻</note></chr>
+			<chr><glyph>珞</glyph><note>上同又覺韻</note></chr>
+			<chr><glyph>𥕴</glyph><note>上同</note></chr>
+			<chr><glyph>櫟</glyph><note>又覺韻二</note></chr>
+			<chr><glyph>轢</glyph><note>又覺韻</note></chr>
+			<chr><glyph>轣</glyph><note>上同</note></chr>
+			<chr><glyph>𨏟</glyph><note>上同又穀韻</note></chr>
+			<chr><glyph>瓅</glyph></chr>
+			<chr><glyph>躒</glyph><note>又覺韻</note></chr>
+			<chr><glyph>皪</glyph></chr>
+			<chr><glyph>寥</glyph><note>又高韻</note></chr>
+			<chr><glyph>酈</glyph></chr>
+		</syllable>
+	</onset>
+</nucleus>
+<nucleus type="ㆊ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄀᆑᇰ</head>
+			<chr><glyph>扃</glyph></chr>
+			<chr><glyph>𨴀</glyph><note>上同</note></chr>
+<page n="15a"/>
+			<chr><glyph>坰</glyph></chr>
+			<chr><glyph>駉</glyph></chr>
+			<chr><glyph>絅</glyph><note>又景韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᄀᆑᇰ</head>
+			<chr><glyph>憬</glyph></chr>
+			<chr><glyph>璟</glyph></chr>
+			<chr><glyph>冏</glyph></chr>
+			<chr><glyph>熲</glyph></chr>
+			<chr><glyph>耿</glyph></chr>
+		</syllable>
+		<!--'ᄀᆑᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᄀᆑᆨ</head>
+			<chr><glyph>狊</glyph></chr>
+			<chr><glyph>鵙</glyph></chr>
+			<chr><glyph>鴃</glyph><note>上同</note></chr>
+			<chr><glyph>鴂</glyph><note>上同</note></chr>
+			<chr><glyph>鵻</glyph><note>上同又嬀韻</note></chr>
+			<chr><glyph>鼳</glyph></chr>
+			<chr><glyph>湨</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄏᆑᇰ</head>
+			<chr><glyph>傾</glyph><note>又景韻</note></chr>
+			<chr><glyph>𨻺</glyph><note>上同</note></chr>
+			<chr><glyph>頃</glyph><note>又景軌韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᄏᆑᇰ</head>
+			<chr><glyph>頃</glyph><note>又京軌韻</note></chr>
+			<chr><glyph>𩒵</glyph><note>上同</note></chr>
+			<chr><glyph>傾</glyph><note>又京韻</note></chr>
+			<chr><glyph>檾</glyph></chr>
+			<chr><glyph>䔛</glyph><note>上同</note></chr>
+			<chr><glyph>苘</glyph><note>上同</note></chr>
+			<chr><glyph>褧</glyph></chr>
+			<chr><glyph>絅</glyph><note>又京韻</note></chr>
+			<chr><glyph>[帛+冋]</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᄏᆑᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᄏᆑᆨ</head>
+			<chr><glyph>闃</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虯"><!--虯母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄁᆑᇰ</head>
+			<chr><glyph>瓊</glyph></chr>
+			<chr><glyph>琁</glyph><note>上同</note></chr>
+			<chr><glyph>璚</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>瓗</glyph><note>上同</note></chr>
+			<chr><glyph>藑</glyph></chr>
+			<chr><glyph>煢</glyph></chr>
+			<chr><glyph>惸</glyph></chr>
+			<chr><glyph>焭</glyph><note>上同</note></chr>
+			<chr><glyph>𢗋</glyph><note>上同</note></chr>
+			<chr><glyph>憌</glyph><note>上同</note></chr>
+			<chr><glyph>𡞦</glyph></chr>
+			<chr><glyph>嬛</glyph><note>上同又鞬韻二</note></chr>
+<page n="15b"/>
+			<chr><glyph>𠎽</glyph><note>上同</note></chr>
+			<chr><glyph>㒌</glyph><note>上同</note></chr>
+			<chr><glyph>𡦃</glyph><note>上同</note></chr>
+			<chr><glyph>睘</glyph></chr>
+		</syllable>
+		<!--'ᄁᆑᇰ'의 상성자는 없음-->
+		<!--'ᄁᆑᇰ'의 거성자는 없음-->
+		<!--'ᄁᆑᇰ'의 입성자는 없음-->
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᆑᇰ</head>
+			<chr><glyph>榮</glyph></chr>
+			<chr><glyph>瑩</glyph><note>又本韻景敬韻</note></chr>
+			<chr><glyph>蠑</glyph></chr>
+			<chr><glyph>醟</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅌᆑᇰ</head>
+			<chr><glyph>永</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᆑᇰ</head>
+			<chr><glyph>詠</glyph></chr>
+			<chr><glyph>咏</glyph><note>上同</note></chr>
+			<chr><glyph>永</glyph><note>上同又景韻</note></chr>
+			<chr><glyph>泳</glyph></chr>
+			<chr><glyph>禜</glyph></chr>
+			<chr><glyph>醟</glyph><note>又京韻</note></chr>
+			<chr><glyph>𨠕</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᅌᆑᇰ'의 입성자는 없음-->
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head></head>
+			<chr><glyph>觪</glyph></chr>
+			<chr><glyph>騂</glyph></chr>
+			<chr><glyph>𤙡</glyph><note>上同</note></chr>
+			<chr><glyph>㙚</glyph></chr>
+			<chr><glyph>垶</glyph><note>上同</note></chr>
+		</syllable>
+		<!--''의 상성자는 없음-->
+		<!--''의 거성자는 없음-->
+		<!--''의 입성자는 없음-->
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᆑᇰ</head>
+			<chr><glyph>縈</glyph></chr>
+			<chr><glyph>𦾵</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅙᆑᇰ</head>
+			<chr><glyph>濙</glyph><note>又京韻</note></chr>
+			<chr><glyph>[氵+螢]</glyph><note>上同</note></chr>
+			<chr><glyph>滎</glyph><note>上同又京敬韻</note></chr>
+			<chr><glyph>熒</glyph><note>又京韻二</note></chr>
+			<chr><glyph>瑩</glyph><note>上同又京韻二敬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᆑᇰ</head>
+			<chr><glyph>瑩</glyph><note>又京韻二景韻</note></chr>
+			<chr><glyph>鎣</glyph></chr>
+			<chr><glyph>瀅</glyph></chr>
+			<chr><glyph>滎</glyph><note>上同又京景韻</note></chr>
+			<chr><glyph>瀯</glyph><note>上同又京韻</note></chr>
+<page n="16a"/>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᆑᆨ</head>
+			<chr><glyph>域</glyph></chr>
+			<chr><glyph>䧕</glyph><note>上同</note></chr>
+			<chr><glyph>淢</glyph><note>又本韻攈韻</note></chr>
+			<chr><glyph>棫</glyph></chr>
+			<chr><glyph>緎</glyph></chr>
+			<chr><glyph>𩋉</glyph><note>上同</note></chr>
+			<chr><glyph>𦎘</glyph><note>上同</note></chr>
+			<chr><glyph>蜮</glyph><note>又虢韻二</note></chr>
+			<chr><glyph>𧌒</glyph><note>上同</note></chr>
+			<chr><glyph>蟈</glyph><note>上同又虢韻</note></chr>
+			<chr><glyph>閾</glyph></chr>
+			<chr><glyph>罭</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄒᆑᇰ</head>
+			<chr><glyph>兄</glyph><note>又絳韻二</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᄒᆑᇰ</head>
+			<chr><glyph>詗</glyph><note>又敬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᄒᆑᇰ</head>
+			<chr><glyph>夐</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>詗</glyph><note>又景韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᄒᆑᆨ</head>
+			<chr><glyph>殈</glyph></chr>
+			<chr><glyph>瞁</glyph></chr>
+			<chr><glyph>𥆛</glyph><note>上同</note></chr>
+			<chr><glyph>焱</glyph></chr>
+			<chr><glyph>砉</glyph><note>又虢韻</note></chr>
+			<chr><glyph>騞</glyph><note>上同又虢韻</note></chr>
+			<chr><glyph>鬩</glyph></chr>
+			<chr><glyph>𧨃</glyph><note>上同</note></chr>
+			<chr><glyph>𥍠</glyph></chr>
+			<chr><glyph>𥍧</glyph><note>上同</note></chr>
+			<chr><glyph>𥍟</glyph><note>上同</note></chr>
+			<chr><glyph>赥</glyph></chr>
+			<chr><glyph>謚</glyph><note>上同又恣韻</note></chr>
+			<chr><glyph>洫</glyph></chr>
+			<chr><glyph>淢</glyph><note>上同又本韻屈韻</note></chr>
+			<chr><glyph>侐</glyph><note>又媿韻</note></chr>
+			<chr><glyph>䦗</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᆑᇰ</head>
+			<chr><glyph>熒</glyph><note>又本韻景韻</note></chr>
+<page n="16b"/>
+			<chr><glyph>螢</glyph></chr>
+			<chr><glyph>熒</glyph><note>上同又本韻景韻</note></chr>
+			<chr><glyph>滎</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>嵤</glyph><note>又觥韻</note></chr>
+			<chr><glyph>巆</glyph><note>上同又本韻觥韻</note></chr>
+			<chr><glyph>濙</glyph><note>又景韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᆑᇰ</head>
+			<chr><glyph>迥</glyph></chr>
+			<chr><glyph>泂</glyph></chr>
+			<chr><glyph>炯</glyph></chr>
+		</syllable>
+		<!--'ᅘᆑᇰ'의 거성자는 없음-->
+		<!--'ᅘᆑᇰ'의 입성자는 없음-->
+	</onset>
+	<onset type="欲"><!--欲母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄋᆑᇰ</head>
+			<chr><glyph>營</glyph></chr>
+			<chr><glyph>瀯</glyph><note>又敬韻</note></chr>
+			<chr><glyph>瀠</glyph><note>上同</note></chr>
+			<chr><glyph>濴</glyph><note>上同</note></chr>
+			<chr><glyph>濚</glyph><note>上同</note></chr>
+			<chr><glyph>巆</glyph><note>又本韻觥韻</note></chr>
+			<chr><glyph>塋</glyph></chr>
+			<chr><glyph>𤬐</glyph></chr>
+			<chr><glyph>瑩</glyph><note>又本韻景敬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᄋᆑᇰ</head>
+			<chr><glyph>潁</glyph></chr>
+			<chr><glyph>穎</glyph></chr>
+			<chr><glyph>㯋</glyph></chr>
+		</syllable>
+		<!--'ᄋᆑᇰ'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·ᄋᆑᆨ</head>
+			<chr><glyph>役</glyph></chr>
+			<chr><glyph>伇</glyph><note>上同</note></chr>
+			<chr><glyph>坄</glyph></chr>
+			<chr><glyph>[伇$土]</glyph><note>上同</note></chr>
+			<chr><glyph>炈</glyph><note>上同</note></chr>
+			<chr><glyph>疫</glyph></chr>
+			<chr><glyph>𤶣</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+</nucleus>
+</rhyme>
+<rhyme n="8">
+<head>根<note>平</note> 懇<note>上</note> 艮<note>去</note> 訖<note>入</note></head>
+<page n="17a"/>
+<nucleus type="ㆍ">
+<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄀᆞᆫ</head>
+			<chr><glyph>根</glyph></chr>
+			<chr><glyph>跟</glyph></chr>
+			<chr><glyph>𣥦</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᄀᆞᆫ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·ᄀᆞᆫ</head>
+			<chr><glyph>艮</glyph></chr>
+		</syllable>
+		<!--'ᄀᆞᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="快"><!--快母-->
+		<!--'ᄏᆞᆫ'의 평성자는 없음-->
+		<syllable tone="rising"><!--상성-->
+			<head>:ᄏᆞᆫ</head>
+			<chr><glyph>懇</glyph></chr>
+			<chr><glyph>貇</glyph><note>上同</note></chr>
+			<chr><glyph>頎</glyph><note>上同又貲韻</note></chr>
+			<chr><glyph>墾</glyph></chr>
+			<chr><glyph>齦</glyph><note>又根衮韻</note></chr>
+		</syllable>
+		<!--'ᄏᆞᆫ'의 거성자는 없음-->
+		<!--'ᄏᆞᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᆞᆫ</head>
+			<chr><glyph>垠</glyph><note>又本韻</note></chr>
+			<chr><glyph>圻</glyph><note>上同又本韻貲韻</note></chr>
+			<chr><glyph>垦</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅌᆞᆫ</head>
+			<chr><glyph>限</glyph><note>又笴韻</note></chr>
+			<chr><glyph>眼</glyph><note>又笴韻</note></chr>
+		</syllable>
+		<!--'ᅌᆞᆫ'의 거성자는 없음-->
+		<!--'ᅌᆞᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="吞"><!--吞母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᄐᆞᆫ</head>
+			<chr><glyph>吞</glyph></chr>
+		</syllable>
+		<!--'ᄐᆞᆫ'의 상성자는 없음-->
+		<!--'ᄐᆞᆫ'의 거성자는 없음-->
+		<!--'ᄐᆞᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᆞᆫ</head>
+			<chr><glyph>恩</glyph></chr>
+		</syllable>
+		<!--'ᅙᆞᆫ'의 상성자는 없음-->
+		<!--'ᅙᆞᆫ'의 거성자는 없음-->
+		<!--'ᅙᆞᆫ'의 입성자는 없음-->
+	</onset>
+</nucleus>
+<nucleus type="ㅡ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>근</head>
+			<chr><glyph>巾</glyph></chr>
+			<chr><glyph>䘜</glyph><note>上同</note></chr>
+			<chr><glyph>斤</glyph><note>又艮韻</note></chr>
+			<chr><glyph>釿</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>筋</glyph></chr>
+			<chr><glyph>腱</glyph><note>上同又鞬寋建韻</note></chr>
+			<chr><glyph>𦞬</glyph><note>上同</note></chr>
+			<chr><glyph>肋</glyph><note>上同又亟韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:근</head>
+			<chr><glyph>謹</glyph></chr>
+			<chr><glyph>瑾</glyph><note>又艮韻</note></chr>
+			<chr><glyph>槿</glyph></chr>
+			<chr><glyph>菫</glyph><note>又根艮韻</note></chr>
+			<chr><glyph>[氶$巴]</glyph></chr>
+			<chr><glyph>𢀿</glyph><note>上同</note></chr>
+<page n="17b"/>
+			<chr><glyph>卺</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·근</head>
+			<chr><glyph>斳</glyph></chr>
+			<chr><glyph>㨷</glyph></chr>
+			<chr><glyph>挋</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>斤</glyph><note>又根韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·그ᇙ</head>
+			<chr><glyph>訖</glyph><note>又本韻</note></chr>
+			<chr><glyph>吃</glyph></chr>
+			<chr><glyph>刏</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<!--'큰'의 평성자는 없음-->
+		<!--'큰'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·큰</head>
+			<chr><glyph>菣</glyph><note>又建韻</note></chr>
+			<chr><glyph>𦸃</glyph><note>上同又建韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·크ᇙ</head>
+			<chr><glyph>乞</glyph><note>又恣韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="虯"><!--虯母-->
+		<syllable tone="level"><!--평성-->
+			<head>끈</head>
+			<chr><glyph>墐</glyph><note>又本韻艮韻</note></chr>
+			<chr><glyph>𥎊</glyph></chr>
+			<chr><glyph>㮗</glyph><note>上同</note></chr>
+			<chr><glyph>勤</glyph></chr>
+			<chr><glyph>懃</glyph></chr>
+			<chr><glyph>廑</glyph><note>又艮韻</note></chr>
+			<chr><glyph>㢙</glyph><note>上同</note></chr>
+			<chr><glyph>瘽</glyph><note>又艮韻</note></chr>
+			<chr><glyph>慬</glyph></chr>
+			<chr><glyph>懄</glyph><note>上同</note></chr>
+			<chr><glyph>堇</glyph><note>又懇艮韻</note></chr>
+			<chr><glyph>墐</glyph><note>上同又本韻艮韻</note></chr>
+			<chr><glyph>芹</glyph></chr>
+			<chr><glyph>斳</glyph><note>上同</note></chr>
+			<chr><glyph>蘄</glyph><note>又貲韻二</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:끈</head>
+			<chr><glyph>近</glyph><note>又艮恣韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·끈</head>
+			<chr><glyph>僅</glyph></chr>
+			<chr><glyph>㢙</glyph><note>上同</note></chr>
+			<chr><glyph>廑</glyph><note>上同又根韻</note></chr>
+			<chr><glyph>墐</glyph><note>又根韻二</note></chr>
+			<chr><glyph>瑾</glyph><note>又懇韻</note></chr>
+			<chr><glyph>饉</glyph></chr>
+			<chr><glyph>殣</glyph></chr>
+<page n="18a"/>
+			<chr><glyph>覲</glyph></chr>
+			<chr><glyph>菫</glyph><note>又根懇韻</note></chr>
+			<chr><glyph>瘽</glyph><note>又根韻</note></chr>
+			<chr><glyph>近</glyph><note>又懇恣韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·끄ᇙ</head>
+			<chr><glyph>姞</glyph></chr>
+			<chr><glyph>吉</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>郅</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>佶</glyph></chr>
+			<chr><glyph>趌</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᅳᆫ</head>
+			<chr><glyph>銀</glyph></chr>
+			<chr><glyph>垠</glyph><note>又本韻</note></chr>
+			<chr><glyph>圻</glyph><note>上同又本韻貲韻</note></chr>
+			<chr><glyph>𡑃</glyph><note>上同</note></chr>
+			<chr><glyph>沂</glyph><note>上同又本韻二貲韻</note></chr>
+			<chr><glyph>珢</glyph></chr>
+			<chr><glyph>誾</glyph></chr>
+			<chr><glyph>訔</glyph><note>上同</note></chr>
+			<chr><glyph>言</glyph><note>上同又本韻鞬韻</note></chr>
+			<chr><glyph>訢</glyph><note>又本韻</note></chr>
+			<chr><glyph>言</glyph><note>上同又本韻鞬韻</note></chr>
+			<chr><glyph>齗</glyph></chr>
+			<chr><glyph>釿</glyph><note>又本韻</note></chr>
+			<chr><glyph>沂</glyph><note>上同又本韻二貲韻</note></chr>
+			<chr><glyph>𪛊</glyph></chr>
+			<chr><glyph>听</glyph><note>又懇韻</note></chr>
+			<chr><glyph>齦</glyph><note>又懇衮韻</note></chr>
+			<chr><glyph>狺</glyph></chr>
+			<chr><glyph>㹞</glyph><note>上同</note></chr>
+			<chr><glyph>嚚</glyph></chr>
+			<chr><glyph>鄞</glyph></chr>
+			<chr><glyph>沂</glyph><note>又本韻二貲韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅌᅳᆫ</head>
+			<chr><glyph>听</glyph><note>又根韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᅳᆫ</head>
+			<chr><glyph>憖</glyph></chr>
+			<chr><glyph>垽</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅳᇙ</head>
+			<chr><glyph>疙</glyph></chr>
+			<chr><glyph>𢖴</glyph><note>上同</note></chr>
+			<chr><glyph>仡</glyph><note>又骨韻</note></chr>
+<page n="18b"/>
+			<chr><glyph>屹</glyph></chr>
+			<chr><glyph>阣</glyph><note>上同</note></chr>
+			<chr><glyph>𧆦</glyph></chr>
+			<chr><glyph>𧆫</glyph><note>上同</note></chr>
+			<chr><glyph>疑</glyph><note>又揯亟貲紫韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>즌</head>
+			<chr><glyph>臻</glyph></chr>
+			<chr><glyph>溱</glyph></chr>
+			<chr><glyph>榛</glyph><note>又本韻</note></chr>
+			<chr><glyph>樼</glyph><note>上同</note></chr>
+			<chr><glyph>𣘘</glyph><note>上同</note></chr>
+			<chr><glyph>蓁</glyph></chr>
+		</syllable>
+		<!--'즌'의 상성자는 없음-->
+		<!--'즌'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·즈ᇙ</head>
+			<chr><glyph>櫛</glyph></chr>
+			<chr><glyph>楖</glyph><note>上同</note></chr>
+			<chr><glyph>瀄</glyph></chr>
+			<chr><glyph>𥣮</glyph></chr>
+			<chr><glyph>𥠈</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<!--'츤'의 평성자는 없음-->
+		<syllable tone="rising"><!--상성-->
+			<head>:츤</head>
+			<chr><glyph>齔</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·츤</head>
+			<chr><glyph>櫬</glyph></chr>
+			<chr><glyph>襯</glyph></chr>
+			<chr><glyph>藽</glyph></chr>
+			<chr><glyph>齔</glyph><note>又懇韻</note></chr>
+			<chr><glyph>齓</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'츤'의 입성자는 없음-->
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>쯘</head>
+			<chr><glyph>榛</glyph><note>又本韻</note></chr>
+			<chr><glyph>𦿒</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'쯘'의 상성자는 없음-->
+		<!--'쯘'의 거성자는 없음-->
+		<!--'쯘'의 입성자는 없음-->
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head>슨</head>
+			<chr><glyph>莘</glyph></chr>
+			<chr><glyph>[莘$木]</glyph><note>上同</note></chr>
+			<chr><glyph>𨐕</glyph><note>上同</note></chr>
+			<chr><glyph>𩺵</glyph></chr>
+			<chr><glyph>峷</glyph></chr>
+			<chr><glyph>詵</glyph></chr>
+			<chr><glyph>姺</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>侁</glyph></chr>
+			<chr><glyph>𢓠</glyph><note>上同</note></chr>
+			<chr><glyph>𢓫</glyph><note>上同</note></chr>
+			<chr><glyph>駪</glyph></chr>
+			<chr><glyph>甡</glyph></chr>
+			<chr><glyph>㜪</glyph></chr>
+			<chr><glyph>嫀</glyph><note>上同</note></chr>
+			<chr><glyph>籸</glyph></chr>
+			<chr><glyph>[枲+卂]</glyph><note>上同</note></chr>
+<page n="19a"/>
+			<chr><glyph>兟</glyph></chr>
+		</syllable>
+		<!--'슨'의 상성자는 없음-->
+		<!--'슨'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·스ᇙ</head>
+			<chr><glyph>瑟</glyph></chr>
+			<chr><glyph>璱</glyph></chr>
+			<chr><glyph>飋</glyph></chr>
+			<chr><glyph>蝨</glyph></chr>
+			<chr><glyph>虱</glyph><note>上同</note></chr>
+			<chr><glyph>[䖝+(⺄+虫)]</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅳᆫ</head>
+			<chr><glyph>殷</glyph><note>又懇艮干鞬韻</note></chr>
+			<chr><glyph>慇</glyph><note>又懇韻</note></chr>
+			<chr><glyph>蒑</glyph></chr>
+			<chr><glyph>磤</glyph><note>又懇韻</note></chr>
+			<chr><glyph>濦</glyph><note>又懇韻</note></chr>
+			<chr><glyph>㶏</glyph><note>上同又懇艮韻</note></chr>
+			<chr><glyph>溵</glyph><note>上同</note></chr>
+			<chr><glyph>㥯</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅙᅳᆫ</head>
+			<chr><glyph>隱</glyph><note>又艮韻</note></chr>
+			<chr><glyph>檼</glyph></chr>
+			<chr><glyph>檃</glyph><note>上同又艮韻</note></chr>
+			<chr><glyph>濦</glyph><note>又根韻</note></chr>
+			<chr><glyph>㶏</glyph><note>上同又根艮韻</note></chr>
+			<chr><glyph>𨏈</glyph></chr>
+			<chr><glyph>[車+殷]</glyph><note>上同</note></chr>
+			<chr><glyph>䌥</glyph></chr>
+			<chr><glyph>嶾</glyph></chr>
+			<chr><glyph>㒚</glyph><note>又艮韻</note></chr>
+			<chr><glyph>慇</glyph><note>又根韻</note></chr>
+			<chr><glyph>殷</glyph><note>又根艮干鞬韻</note></chr>
+			<chr><glyph>磤</glyph><note>上同又根韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᅳᆫ</head>
+			<chr><glyph>㒚</glyph><note>又懇韻</note></chr>
+			<chr><glyph>傿</glyph><note>上同又寋韻</note></chr>
+			<chr><glyph>㥼</glyph><note>上同</note></chr>
+			<chr><glyph>隱</glyph><note>又懇韻</note></chr>
+			<chr><glyph>㶏</glyph><note>又根懇韻</note></chr>
+			<chr><glyph>檃</glyph><note>又懇韻</note></chr>
+			<chr><glyph>殷</glyph><note>又根懇干鞬韻</note></chr>
+		</syllable>
+		<!--'ᅙᅳᆫ'의 입성자는 없음-->
+	</onset>
+<page n="19b"/>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>흔</head>
+			<chr><glyph>欣</glyph></chr>
+			<chr><glyph>俽</glyph><note>上同</note></chr>
+			<chr><glyph>惞</glyph><note>上同</note></chr>
+			<chr><glyph>訢</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>忻</glyph></chr>
+			<chr><glyph>昕</glyph></chr>
+			<chr><glyph>炘</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<!--'흔'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·흔</head>
+			<chr><glyph>焮</glyph></chr>
+			<chr><glyph>炘</glyph><note>上同又根韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·흐ᇙ</head>
+			<chr><glyph>肸</glyph></chr>
+			<chr><glyph>肹</glyph><note>上同</note></chr>
+			<chr><glyph>迄</glyph></chr>
+			<chr><glyph>訖</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>愾</glyph><note>上同又恣蓋韻</note></chr>
+			<chr><glyph>釳</glyph></chr>
+			<chr><glyph>汔</glyph></chr>
+			<chr><glyph>忔</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅳᆫ</head>
+			<chr><glyph>痕</glyph></chr>
+			<chr><glyph>鞎</glyph></chr>
+			<chr><glyph>拫</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᅳᆫ</head>
+			<chr><glyph>很</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅘᅳᆫ</head>
+			<chr><glyph>恨</glyph></chr>
+		</syllable>
+		<!--'ᅘᅳᆫ'의 입성자는 없음-->
+	</onset>
+</nucleus>
+<nucleus type="ㅣ">
+	<onset type="君"><!--君母-->
+		<!--'긴'의 평성자는 없음-->
+		<syllable tone="rising"><!--상성-->
+			<head>:긴</head>
+			<chr><glyph>緊</glyph></chr>
+		</syllable>
+		<!--'긴'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·기ᇙ</head>
+			<chr><glyph>吉</glyph><note>又本韻</note></chr>
+			<chr><glyph>拮</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<!--'킨'의 평성자는 없음-->
+		<!--'킨'의 상성자는 없음-->
+		<!--'킨'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·키ᇙ</head>
+			<chr><glyph>詰</glyph></chr>
+			<chr><glyph>蛣</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>딘</head>
+			<chr><glyph>珍</glyph></chr>
+			<chr><glyph>鉁</glyph><note>上同</note></chr>
+			<chr><glyph>鎭</glyph><note>又艮鞬韻</note></chr>
+			<chr><glyph>瑱</glyph><note>上同又艮寋建韻</note></chr>
+			<chr><glyph>塡</glyph><note>又本韻艮鞬韻寋韻二建韻</note></chr>
+<page n="20a"/>
+			<chr><glyph>滇</glyph><note>又鞬韻二</note></chr>
+			<chr><glyph>縝</glyph><note>又懇韻</note></chr>
+		</syllable>
+		<!--'딘'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·딘</head>
+			<chr><glyph>鎭</glyph><note>又根鞬韻</note></chr>
+			<chr><glyph>塡</glyph><note>又根韻二鞬韻寋韻二建韻</note></chr>
+			<chr><glyph>瑱</glyph><note>又根寋建韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·디ᇙ</head>
+			<chr><glyph>窒</glyph><note>又訐韻</note></chr>
+			<chr><glyph>銍</glyph></chr>
+			<chr><glyph>𨫐</glyph><note>上同</note></chr>
+			<chr><glyph>挃</glyph></chr>
+			<chr><glyph>秷</glyph><note>上同</note></chr>
+			<chr><glyph>𥡫</glyph><note>上同</note></chr>
+			<chr><glyph>庢</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="吞"><!--吞母-->
+		<syllable tone="level"><!--평성-->
+			<head>틴</head>
+			<chr><glyph>𤣆</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:틴</head>
+			<chr><glyph>辴</glyph></chr>
+			<chr><glyph>疢</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·틴</head>
+			<chr><glyph>疢</glyph><note>又懇韻</note></chr>
+			<chr><glyph>𤵜</glyph><note>上同</note></chr>
+			<chr><glyph>趁</glyph><note>又寋韻</note></chr>
+			<chr><glyph>[走+𠇍]</glyph><note>上同</note></chr>
+			<chr><glyph>趂</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·티ᇙ</head>
+			<chr><glyph>抶</glyph></chr>
+			<chr><glyph>眣</glyph></chr>
+			<chr><glyph>咥</glyph><note>又訐恣韻</note></chr>
+			<chr><glyph>欪</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>띤</head>
+			<chr><glyph>𨻰</glyph></chr>
+			<chr><glyph>塵</glyph></chr>
+			<chr><glyph>塡</glyph><note>又本韻艮鞬韻寋韻二建韻</note></chr>
+			<chr><glyph>窴</glyph><note>上同又鞬建韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:띤</head>
+			<chr><glyph>紖</glyph><note>又艮韻</note></chr>
+			<chr><glyph>𦄘</glyph><note>上同</note></chr>
+<page n="20b"/>
+			<chr><glyph>朕</glyph><note>又㾕韻</note></chr>
+			<chr><glyph>眹</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·띤</head>
+			<chr><glyph>陣</glyph></chr>
+			<chr><glyph>𣒅</glyph></chr>
+			<chr><glyph>搌</glyph><note>上同</note></chr>
+			<chr><glyph>診</glyph><note>又懇韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·띠ᇙ</head>
+			<chr><glyph>秩</glyph></chr>
+			<chr><glyph>袟</glyph><note>上同</note></chr>
+			<chr><glyph>紩</glyph></chr>
+			<chr><glyph>柣</glyph><note>又訐韻</note></chr>
+			<chr><glyph>帙</glyph></chr>
+			<chr><glyph>袠</glyph><note>上同</note></chr>
+			<chr><glyph>𧙍</glyph><note>上同</note></chr>
+			<chr><glyph>翐</glyph></chr>
+			<chr><glyph>姪</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<syllable tone="level"><!--평성-->
+			<head>닌</head>
+			<chr><glyph>紉</glyph></chr>
+		</syllable>
+		<!--'닌'의 상성자는 없음-->
+		<!--'닌'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·니ᇙ</head>
+			<chr><glyph>暱</glyph></chr>
+			<chr><glyph>昵</glyph><note>上同又亟韻</note></chr>
+			<chr><glyph>㥾</glyph></chr>
+			<chr><glyph>怩</glyph><note>上同又貲韻</note></chr>
+			<chr><glyph>尼</glyph><note>又貲韻二</note></chr>
+			<chr><glyph>[黍+日]</glyph></chr>
+			<chr><glyph>[黍+刃]</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彆"><!--彆母-->
+		<syllable tone="level"><!--평성-->
+			<head>빈</head>
+			<chr><glyph>賔</glyph></chr>
+			<chr><glyph>賓</glyph><note>上同</note></chr>
+			<chr><glyph>濵</glyph><note>又本韻</note></chr>
+			<chr><glyph>𣴩</glyph><note>上同</note></chr>
+			<chr><glyph>𨽗</glyph><note>上同</note></chr>
+			<chr><glyph>頻</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>[亻+賔]</glyph><note>又艮韻</note></chr>
+			<chr><glyph>彬</glyph></chr>
+			<chr><glyph>霦</glyph></chr>
+			<chr><glyph>虨</glyph><note>又干韻</note></chr>
+			<chr><glyph>𧇃</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>[虎+林]</glyph><note>上同</note></chr>
+			<chr><glyph>豳</glyph><note>又干韻</note></chr>
+		</syllable>
+		<!--'빈'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·빈</head>
+			<chr><glyph>[亻+賔]</glyph><note>又根韻</note></chr>
+<page n="21a"/>
+			<chr><glyph>𢷤</glyph></chr>
+			<chr><glyph>𣩵</glyph></chr>
+			<chr><glyph>𩯭</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·비ᇙ</head>
+			<chr><glyph>必</glyph></chr>
+			<chr><glyph>珌</glyph></chr>
+			<chr><glyph>㻫</glyph><note>上同</note></chr>
+			<chr><glyph>鉍</glyph><note>又本韻恣韻</note></chr>
+			<chr><glyph>畢</glyph><note>又本韻</note></chr>
+			<chr><glyph>罼</glyph></chr>
+			<chr><glyph>畢</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>㓖</glyph></chr>
+			<chr><glyph>䬛</glyph><note>上同</note></chr>
+			<chr><glyph>䫾</glyph><note>上同</note></chr>
+			<chr><glyph>韠</glyph></chr>
+			<chr><glyph>𥀕</glyph><note>上同</note></chr>
+			<chr><glyph>鞸</glyph><note>上同又景韻</note></chr>
+			<chr><glyph>縪</glyph></chr>
+			<chr><glyph>彃</glyph></chr>
+			<chr><glyph>饆</glyph></chr>
+			<chr><glyph>𪍪</glyph><note>上同</note></chr>
+			<chr><glyph>蹕</glyph></chr>
+			<chr><glyph>𠌫</glyph><note>上同</note></chr>
+			<chr><glyph>篳</glyph></chr>
+			<chr><glyph>滭</glyph></chr>
+			<chr><glyph>㳼</glyph><note>上同</note></chr>
+			<chr><glyph>觱</glyph></chr>
+			<chr><glyph>筆</glyph></chr>
+			<chr><glyph>笔</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="漂"><!--漂母-->
+		<syllable tone="level"><!--평성-->
+			<head>핀</head>
+			<chr><glyph>𦆯</glyph></chr>
+			<chr><glyph>𩰝</glyph></chr>
+		</syllable>
+		<!--'핀'의 상성자는 없음-->
+		<!--'핀'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·피ᇙ</head>
+			<chr><glyph>匹</glyph></chr>
+			<chr><glyph>疋</glyph><note>上同又孤哿韻</note></chr>
+			<chr><glyph>鵯</glyph></chr>
+			<chr><glyph>卑</glyph><note>上同又根貲韻紫韻二恣韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="步"><!--步母-->
+		<syllable tone="level"><!--평성-->
+			<head>삔</head>
+			<chr><glyph>頻</glyph><note>又本韻</note></chr>
+			<chr><glyph>蘋</glyph></chr>
+			<chr><glyph>顰</glyph></chr>
+			<chr><glyph>卑</glyph><note>上同又訖貲韻紫韻二恣韻</note></chr>
+			<chr><glyph>[目+賔]</glyph><note>上同</note></chr>
+			<chr><glyph>嚬</glyph></chr>
+			<chr><glyph>[女+賔]</glyph></chr>
+<page n="21b"/>
+			<chr><glyph>𧓍</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>[氵+賔]</glyph><note>又本韻</note></chr>
+			<chr><glyph>貧</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:삔</head>
+			<chr><glyph>牝</glyph></chr>
+			<chr><glyph>[月+賔]</glyph></chr>
+		</syllable>
+		<!--'삔'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·삐ᇙ</head>
+			<chr><glyph>邲</glyph></chr>
+			<chr><glyph>飶</glyph><note>又訐韻</note></chr>
+			<chr><glyph>鉍</glyph><note>又本韻恣韻</note></chr>
+			<chr><glyph>柲</glyph><note>上同又恣韻</note></chr>
+			<chr><glyph>佖</glyph></chr>
+			<chr><glyph>駜</glyph></chr>
+			<chr><glyph>怭</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>泌</glyph><note>又恣韻</note></chr>
+			<chr><glyph>怭</glyph><note>又本韻</note></chr>
+			<chr><glyph>苾</glyph><note>又訐韻</note></chr>
+			<chr><glyph>馝</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>𪏺</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>𥞻</glyph><note>上同</note></chr>
+			<chr><glyph>比</glyph><note>又貲韻紫韻二恣韻二</note></chr>
+			<chr><glyph>𢁽</glyph></chr>
+			<chr><glyph>弼</glyph></chr>
+			<chr><glyph>拂</glyph><note>上同又屈韻二</note></chr>
+			<chr><glyph>𢐡</glyph><note>上同</note></chr>
+			<chr><glyph>𨚍</glyph><note>上同</note></chr>
+			<chr><glyph>𠡂</glyph><note>上同</note></chr>
+			<chr><glyph>𢘍</glyph><note>上同</note></chr>
+			<chr><glyph>佛</glyph><note>又骨韻屈韻三</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彌"><!--彌母-->
+		<syllable tone="level"><!--평성-->
+			<head>민</head>
+			<chr><glyph>民</glyph></chr>
+			<chr><glyph>泯</glyph><note>又懇韻二建韻</note></chr>
+			<chr><glyph>珉</glyph></chr>
+			<chr><glyph>瑉</glyph><note>上同</note></chr>
+			<chr><glyph>玟</glyph><note>上同</note></chr>
+			<chr><glyph>碈</glyph><note>上同</note></chr>
+			<chr><glyph>砇</glyph><note>上同</note></chr>
+			<chr><glyph>岷</glyph></chr>
+			<chr><glyph>㟭</glyph><note>上同</note></chr>
+<page n="22a"/>
+			<chr><glyph>汶</glyph><note>上同又昆攈韻</note></chr>
+			<chr><glyph>㞶</glyph><note>上同</note></chr>
+			<chr><glyph>文</glyph><note>上同又君韻</note></chr>
+			<chr><glyph>罠</glyph></chr>
+			<chr><glyph>緡</glyph><note>又懇韻</note></chr>
+			<chr><glyph>𤸅</glyph><note>又昆韻</note></chr>
+			<chr><glyph>暋</glyph><note>又本韻懇衮韻</note></chr>
+			<chr><glyph>旻</glyph></chr>
+			<chr><glyph>憫</glyph><note>上同又懇韻</note></chr>
+			<chr><glyph>旼</glyph></chr>
+			<chr><glyph>忞</glyph><note>又懇韻</note></chr>
+			<chr><glyph>暋</glyph><note>上同又本韻懇衮韻</note></chr>
+			<chr><glyph>閩</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:민</head>
+			<chr><glyph>愍</glyph></chr>
+			<chr><glyph>緡</glyph><note>上同又根韻</note></chr>
+			<chr><glyph>暋</glyph><note>又根韻二衮韻</note></chr>
+			<chr><glyph>敃</glyph></chr>
+			<chr><glyph>𢽹</glyph><note>上同</note></chr>
+			<chr><glyph>忞</glyph><note>上同又根韻</note></chr>
+			<chr><glyph>昬</glyph><note>上同又昆韻二</note></chr>
+			<chr><glyph>惛</glyph><note>又昆韻睔韻二</note></chr>
+			<chr><glyph>閔</glyph></chr>
+			<chr><glyph>[民+思]</glyph><note>上同</note></chr>
+			<chr><glyph>憫</glyph><note>又根韻</note></chr>
+			<chr><glyph>𢡻</glyph><note>上同</note></chr>
+			<chr><glyph>潣</glyph></chr>
+			<chr><glyph>泯</glyph><note>上同又本韻根建韻</note></chr>
+			<chr><glyph>簢</glyph></chr>
+			<chr><glyph>敏</glyph></chr>
+			<chr><glyph>泯</glyph><note>又本韻根建韻</note></chr>
+			<chr><glyph>澠</glyph><note>又揯寋韻</note></chr>
+			<chr><glyph>黽</glyph><note>又揯景寋韻</note></chr>
+			<chr><glyph>勔</glyph><note>上同又寋韻</note></chr>
+			<chr><glyph>僶</glyph><note>上同又寋韻</note></chr>
+			<chr><glyph>脗</glyph><note>又攟韻</note></chr>
+<page n="22b"/>
+		</syllable>
+		<!--'민'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·미ᇙ</head>
+			<chr><glyph>蜜</glyph></chr>
+			<chr><glyph>宓</glyph><note>又穀韻</note></chr>
+			<chr><glyph>密</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𧶡</glyph><note>上同</note></chr>
+			<chr><glyph>謐</glyph></chr>
+			<chr><glyph>䤉</glyph></chr>
+			<chr><glyph>沕</glyph><note>又屈恣韻</note></chr>
+			<chr><glyph>密</glyph><note>又本韻</note></chr>
+			<chr><glyph>𡶇</glyph><note>上同</note></chr>
+			<chr><glyph>蔤</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>진</head>
+			<chr><glyph>津</glyph></chr>
+			<chr><glyph>璡</glyph></chr>
+			<chr><glyph>眞</glyph></chr>
+			<chr><glyph>磌</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>振</glyph><note>又懇艮韻</note></chr>
+			<chr><glyph>侲</glyph><note>又艮韻</note></chr>
+			<chr><glyph>帪</glyph></chr>
+			<chr><glyph>[足+辰]</glyph><note>又艮韻</note></chr>
+			<chr><glyph>桭</glyph></chr>
+			<chr><glyph>栕</glyph><note>上同</note></chr>
+			<chr><glyph>甄</glyph><note>又艮鞬建韻</note></chr>
+			<chr><glyph>籈</glyph></chr>
+			<chr><glyph>畛</glyph><note>又懇韻</note></chr>
+			<chr><glyph>震</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:진</head>
+			<chr><glyph>盡</glyph><note>又本韻艮韻</note></chr>
+			<chr><glyph>儘</glyph><note>上同</note></chr>
+			<chr><glyph>賮</glyph><note>又艮韻</note></chr>
+			<chr><glyph>贐</glyph><note>上同</note></chr>
+			<chr><glyph>軫</glyph></chr>
+			<chr><glyph>䡩</glyph><note>上同</note></chr>
+			<chr><glyph>診</glyph><note>又艮韻</note></chr>
+			<chr><glyph>𧠝</glyph><note>上同</note></chr>
+			<chr><glyph>𧧂</glyph><note>上同</note></chr>
+			<chr><glyph>聄</glyph></chr>
+			<chr><glyph>[田+氐]</glyph><note>上同</note></chr>
+			<chr><glyph>眕</glyph></chr>
+			<chr><glyph>畛</glyph><note>又根韻</note></chr>
+			<chr><glyph>䂦</glyph></chr>
+			<chr><glyph>紾</glyph><note>又寋韻</note></chr>
+			<chr><glyph>袗</glyph><note>又艮韻</note></chr>
+<page n="23a"/>
+			<chr><glyph>裖</glyph><note>上同又艮韻</note></chr>
+			<chr><glyph>疹</glyph></chr>
+			<chr><glyph>鬒</glyph></chr>
+			<chr><glyph>黰</glyph><note>上同</note></chr>
+			<chr><glyph>縝</glyph><note>又根韻</note></chr>
+			<chr><glyph>[(亠$呆)+眞]</glyph><note>上同</note></chr>
+			<chr><glyph>𦁄</glyph><note>上同</note></chr>
+			<chr><glyph>稹</glyph></chr>
+			<chr><glyph>振</glyph><note>又根艮韻</note></chr>
+			<chr><glyph>賑</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·진</head>
+			<chr><glyph>晉</glyph></chr>
+			<chr><glyph>縉</glyph><note>又建韻</note></chr>
+			<chr><glyph>搢</glyph><note>又建韻</note></chr>
+			<chr><glyph>瑨</glyph></chr>
+			<chr><glyph>進</glyph><note>又本韻</note></chr>
+			<chr><glyph>震</glyph><note>又根韻</note></chr>
+			<chr><glyph>振</glyph><note>又根懇韻</note></chr>
+			<chr><glyph>賑</glyph><note>又懇韻</note></chr>
+			<chr><glyph>侲</glyph><note>又根韻</note></chr>
+			<chr><glyph>娠</glyph><note>又根韻</note></chr>
+			<chr><glyph>䟴</glyph><note>又根韻</note></chr>
+			<chr><glyph>蜄</glyph><note>上同又懇韻</note></chr>
+			<chr><glyph>袗</glyph><note>又懇韻</note></chr>
+			<chr><glyph>裖</glyph><note>上同又懇韻</note></chr>
+			<chr><glyph>挋</glyph><note>又本韻</note></chr>
+			<chr><glyph>甄</glyph><note>又根鞬建韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·지ᇙ</head>
+			<chr><glyph>堲</glyph><note>又亟韻二</note></chr>
+			<chr><glyph>卽</glyph><note>上同又亟韻二</note></chr>
+			<chr><glyph>即</glyph><note>上同</note></chr>
+			<chr><glyph>喞</glyph><note>又亟韻</note></chr>
+			<chr><glyph>質</glyph><note>又恣韻二</note></chr>
+			<chr><glyph>劕</glyph><note>又恣韻</note></chr>
+			<chr><glyph>鑕</glyph></chr>
+			<chr><glyph>櫍</glyph></chr>
+			<chr><glyph>礩</glyph><note>又恣韻</note></chr>
+			<chr><glyph>瓆</glyph></chr>
+			<chr><glyph>蛭</glyph></chr>
+			<chr><glyph>桎</glyph></chr>
+			<chr><glyph>郅</glyph><note>又本韻</note></chr>
+<page n="23b"/>
+			<chr><glyph>晊</glyph></chr>
+			<chr><glyph>𨽥</glyph><note>又亟韻</note></chr>
+			<chr><glyph>只</glyph><note>又紫韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<syllable tone="level"><!--평성-->
+			<head>친</head>
+			<chr><glyph>親</glyph><note>又艮韻</note></chr>
+			<chr><glyph>媇</glyph><note>上同</note></chr>
+			<chr><glyph>瞋</glyph></chr>
+			<chr><glyph>𥅜</glyph><note>上同</note></chr>
+			<chr><glyph>䀼</glyph><note>上同</note></chr>
+			<chr><glyph>嗔</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>㥲</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'친'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·친</head>
+			<chr><glyph>親</glyph><note>又根韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·치ᇙ</head>
+			<chr><glyph>七</glyph></chr>
+			<chr><glyph>桼</glyph></chr>
+			<chr><glyph>漆</glyph><note>又訐韻</note></chr>
+			<chr><glyph>柒</glyph><note>上同</note></chr>
+			<chr><glyph>㯃</glyph></chr>
+			<chr><glyph>叱</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>찐</head>
+			<chr><glyph>秦</glyph></chr>
+			<chr><glyph>螓</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:찐</head>
+			<chr><glyph>盡</glyph><note>又本韻艮韻</note></chr>
+			<chr><glyph>濜</glyph></chr>
+		</syllable>
+		<!--'찐'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·찌ᇙ</head>
+			<chr><glyph>疾</glyph></chr>
+			<chr><glyph>嫉</glyph></chr>
+			<chr><glyph>𢞱</glyph><note>上同</note></chr>
+			<chr><glyph>愱</glyph><note>上同</note></chr>
+			<chr><glyph>蒺</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head>신</head>
+			<chr><glyph>辛</glyph></chr>
+			<chr><glyph>新</glyph></chr>
+			<chr><glyph>薪</glyph></chr>
+			<chr><glyph>申</glyph><note>又艮韻</note></chr>
+			<chr><glyph>柛</glyph></chr>
+			<chr><glyph>伸</glyph></chr>
+			<chr><glyph>信</glyph><note>上同又艮韻</note></chr>
+			<chr><glyph>紳</glyph></chr>
+			<chr><glyph>呻</glyph></chr>
+			<chr><glyph>𣢘</glyph><note>上同</note></chr>
+			<chr><glyph>[口+身]</glyph><note>上同</note></chr>
+			<chr><glyph>身</glyph></chr>
+			<chr><glyph>娠</glyph><note>又艮韻</note></chr>
+<page n="24a"/>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:신</head>
+			<chr><glyph>矧</glyph></chr>
+			<chr><glyph>𥎪</glyph><note>上同</note></chr>
+			<chr><glyph>訠</glyph><note>上同</note></chr>
+			<chr><glyph>哂</glyph></chr>
+			<chr><glyph>吲</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·신</head>
+			<chr><glyph>信</glyph><note>又根韻</note></chr>
+			<chr><glyph>訊</glyph></chr>
+			<chr><glyph>訉</glyph><note>上同</note></chr>
+			<chr><glyph>𠳱</glyph><note>上同</note></chr>
+			<chr><glyph>誶</glyph><note>上同又屈媿儈韻</note></chr>
+			<chr><glyph>阠</glyph></chr>
+			<chr><glyph>汛</glyph></chr>
+			<chr><glyph>洒</glyph><note>上同又寋紫恣隗解蓋哿韻</note></chr>
+			<chr><glyph>迅</glyph></chr>
+			<chr><glyph>奞</glyph></chr>
+			<chr><glyph>囟</glyph></chr>
+			<chr><glyph>𠔋</glyph><note>上同</note></chr>
+			<chr><glyph>𠙷</glyph><note>上同</note></chr>
+			<chr><glyph>[月+(宀$幸)]</glyph><note>上同又紫韻</note></chr>
+			<chr><glyph>顖</glyph><note>上同</note></chr>
+			<chr><glyph>䪿</glyph><note>上同</note></chr>
+			<chr><glyph>申</glyph><note>又根韻</note></chr>
+			<chr><glyph>眒</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·싫</head>
+			<chr><glyph>悉</glyph></chr>
+			<chr><glyph>蟋</glyph></chr>
+			<chr><glyph>膝</glyph></chr>
+			<chr><glyph>[膝+卩]</glyph><note>上同</note></chr>
+			<chr><glyph>[艹$膝]</glyph></chr>
+			<chr><glyph>[艹$悉]</glyph><note>上同</note></chr>
+			<chr><glyph>駟</glyph><note>又恣韻</note></chr>
+			<chr><glyph>失</glyph><note>又本韻恣韻</note></chr>
+			<chr><glyph>室</glyph></chr>
+			<chr><glyph>𩊞</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="邪"><!--邪母-->
+		<syllable tone="level"><!--평성-->
+			<head>씬</head>
+			<chr><glyph>神</glyph></chr>
+			<chr><glyph>[木+(旬$且)]</glyph><note>上同</note></chr>
+			<chr><glyph>旦</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>辰</glyph></chr>
+			<chr><glyph>晨</glyph></chr>
+			<chr><glyph>宸</glyph></chr>
+			<chr><glyph>麎</glyph></chr>
+			<chr><glyph>臣</glyph></chr>
+		</syllable>
+<page n="24b"/>
+		<syllable tone="rising"><!--상성-->
+			<head>:씬</head>
+			<chr><glyph>腎</glyph></chr>
+			<chr><glyph>蜃</glyph></chr>
+			<chr><glyph>蜄</glyph><note>上同又艮韻</note></chr>
+			<chr><glyph>𧒏</glyph><note>上同</note></chr>
+			<chr><glyph>脤</glyph><note>又君韻</note></chr>
+			<chr><glyph>𦚠</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·씬</head>
+			<chr><glyph>燼</glyph></chr>
+			<chr><glyph>賮</glyph><note>又懇韻</note></chr>
+			<chr><glyph>[月+盡]</glyph><note>上同</note></chr>
+			<chr><glyph>進</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>藎</glyph></chr>
+			<chr><glyph>𧃤</glyph><note>上同</note></chr>
+			<chr><glyph>𦳒</glyph><note>上同</note></chr>
+			<chr><glyph>盡</glyph><note>又懇韻二</note></chr>
+			<chr><glyph>酳</glyph></chr>
+			<chr><glyph>愼</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·씨ᇙ</head>
+			<chr><glyph>實</glyph></chr>
+			<chr><glyph>寔</glyph><note>上同又亟韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅵᆫ</head>
+			<chr><glyph>因</glyph></chr>
+			<chr><glyph>㧢</glyph><note>上同</note></chr>
+			<chr><glyph>茵</glyph></chr>
+			<chr><glyph>鞇</glyph><note>上同</note></chr>
+			<chr><glyph>筃</glyph><note>上同</note></chr>
+			<chr><glyph>姻</glyph></chr>
+			<chr><glyph>婣</glyph><note>上同</note></chr>
+			<chr><glyph>絪</glyph></chr>
+			<chr><glyph>駰</glyph></chr>
+			<chr><glyph>氤</glyph></chr>
+			<chr><glyph>烟</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>陻</glyph></chr>
+			<chr><glyph>㘻</glyph><note>上同</note></chr>
+			<chr><glyph>湮</glyph></chr>
+			<chr><glyph>堙</glyph></chr>
+			<chr><glyph>禋</glyph></chr>
+			<chr><glyph>䄄</glyph><note>上同</note></chr>
+			<chr><glyph>諲</glyph></chr>
+			<chr><glyph>㖶</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>歅</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>闉</glyph></chr>
+		</syllable>
+		<!--'ᅙᅵᆫ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᅵᆫ</head>
+			<chr><glyph>印</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᅵᇙ</head>
+<page n="25a"/>
+			<chr><glyph>乙</glyph><note>又葛韻</note></chr>
+			<chr><glyph>鳦</glyph><note>又葛韻</note></chr>
+			<chr><glyph>一</glyph></chr>
+			<chr><glyph>壹</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<!--'힌'의 평성자는 없음-->
+		<!--'힌'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·힌</head>
+			<chr><glyph>釁</glyph><note>又箇韻</note></chr>
+			<chr><glyph>衅</glyph><note>上同</note></chr>
+			<chr><glyph>興</glyph><note>上同又揯亙韻</note></chr>
+			<chr><glyph>亹</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·히ᇙ</head>
+			<chr><glyph>欯</glyph></chr>
+			<chr><glyph>咭</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅵᆫ</head>
+			<chr><glyph>礥</glyph><note>又鞬韻</note></chr>
+		</syllable>
+		<!--'ᅘᅵᆫ'의 상성자는 없음-->
+		<!--'ᅘᅵᆫ'의 거성자는 없음-->
+		<!--'ᅘᅵᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="欲"><!--欲母-->
+		<syllable tone="level"><!--평성-->
+			<head>인</head>
+			<chr><glyph>寅</glyph><note>又貲韻</note></chr>
+			<chr><glyph>夤</glyph><note>又貲韻</note></chr>
+			<chr><glyph>𦟘</glyph></chr>
+			<chr><glyph>螾</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:인</head>
+			<chr><glyph>引</glyph><note>又艮韻</note></chr>
+			<chr><glyph>鈏</glyph></chr>
+			<chr><glyph>靷</glyph><note>又艮韻</note></chr>
+			<chr><glyph>縯</glyph><note>又寋韻</note></chr>
+			<chr><glyph>戭</glyph><note>又寋韻</note></chr>
+			<chr><glyph>濥</glyph></chr>
+			<chr><glyph>𧓒</glyph></chr>
+			<chr><glyph>蚓</glyph><note>上同</note></chr>
+			<chr><glyph>𧍢</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·인</head>
+			<chr><glyph>𠉥</glyph></chr>
+			<chr><glyph>靷</glyph><note>又懇韻</note></chr>
+			<chr><glyph>紖</glyph><note>又懇韻</note></chr>
+			<chr><glyph>引</glyph><note>上同又懇韻</note></chr>
+			<chr><glyph>朄</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·이ᇙ</head>
+			<chr><glyph>逸</glyph></chr>
+			<chr><glyph>佚</glyph><note>又訐韻</note></chr>
+			<chr><glyph>泆</glyph></chr>
+			<chr><glyph>軼</glyph><note>又訐韻二</note></chr>
+			<chr><glyph>失</glyph><note>又本韻恣韻</note></chr>
+			<chr><glyph>佾</glyph></chr>
+<page n="25b"/>
+			<chr><glyph>溢</glyph></chr>
+			<chr><glyph>㳑</glyph><note>上同</note></chr>
+			<chr><glyph>鎰</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>린</head>
+			<chr><glyph>鄰</glyph><note>又艮韻</note></chr>
+			<chr><glyph>隣</glyph><note>上同</note></chr>
+			<chr><glyph>粼</glyph><note>又艮韻</note></chr>
+			<chr><glyph>磷</glyph><note>上同又艮揯韻</note></chr>
+			<chr><glyph>甐</glyph><note>又艮韻</note></chr>
+			<chr><glyph>麟</glyph></chr>
+			<chr><glyph>麐</glyph><note>上同</note></chr>
+			<chr><glyph>𪊭</glyph><note>上同</note></chr>
+			<chr><glyph>驎</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>驎</glyph><note>又本韻</note></chr>
+			<chr><glyph>鱗</glyph></chr>
+			<chr><glyph>䰼</glyph><note>上同</note></chr>
+			<chr><glyph>嶙</glyph><note>又懇韻</note></chr>
+			<chr><glyph>潾</glyph><note>又艮干韻</note></chr>
+			<chr><glyph>瞵</glyph><note>又艮干韻</note></chr>
+			<chr><glyph>璘</glyph><note>又懇韻</note></chr>
+			<chr><glyph>燐</glyph><note>又懇艮韻</note></chr>
+			<chr><glyph>轔</glyph><note>又懇艮韻</note></chr>
+			<chr><glyph>疄</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:린</head>
+			<chr><glyph>嶙</glyph><note>又根韻</note></chr>
+			<chr><glyph>轔</glyph><note>又根艮韻</note></chr>
+			<chr><glyph>燐</glyph><note>又根艮韻</note></chr>
+			<chr><glyph>璘</glyph><note>又根韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·린</head>
+			<chr><glyph>吝</glyph></chr>
+			<chr><glyph>𠯌</glyph><note>上同</note></chr>
+			<chr><glyph>𠳺</glyph><note>上同</note></chr>
+			<chr><glyph>𠳈</glyph><note>上同</note></chr>
+			<chr><glyph>悋</glyph></chr>
+			<chr><glyph>𢙵</glyph><note>上同</note></chr>
+			<chr><glyph>憐</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>恡</glyph><note>上同</note></chr>
+			<chr><glyph>磷</glyph><note>又根揯韻</note></chr>
+			<chr><glyph>遴</glyph></chr>
+			<chr><glyph>僯</glyph><note>上同</note></chr>
+			<chr><glyph>瞵</glyph><note>又根干韻</note></chr>
+<page n="26a"/>
+			<chr><glyph>蹸</glyph></chr>
+			<chr><glyph>轔</glyph><note>上同又根懇韻</note></chr>
+			<chr><glyph>躪</glyph><note>上同</note></chr>
+			<chr><glyph>躙</glyph><note>上同</note></chr>
+			<chr><glyph>粼</glyph><note>又根韻</note></chr>
+			<chr><glyph>潾</glyph><note>上同又根干韻</note></chr>
+			<chr><glyph>甐</glyph><note>又根韻</note></chr>
+			<chr><glyph>鄰</glyph><note>又根韻</note></chr>
+			<chr><glyph>𥳞</glyph></chr>
+			<chr><glyph>𥷖</glyph><note>上同</note></chr>
+			<chr><glyph>粦</glyph></chr>
+			<chr><glyph>燐</glyph><note>上同又根懇韻</note></chr>
+			<chr><glyph>䗲</glyph><note>上同</note></chr>
+			<chr><glyph>藺</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·리ᇙ</head>
+			<chr><glyph>栗</glyph><note>又訐韻</note></chr>
+			<chr><glyph>凓</glyph></chr>
+			<chr><glyph>慄</glyph></chr>
+			<chr><glyph>鷅</glyph></chr>
+			<chr><glyph>𩘟</glyph></chr>
+			<chr><glyph>搮</glyph></chr>
+			<chr><glyph>篥</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="穰"><!--穰母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅀᅵᆫ</head>
+			<chr><glyph>人</glyph></chr>
+			<chr><glyph>仁</glyph></chr>
+			<chr><glyph>忎</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅀᅵᆫ</head>
+			<chr><glyph>忍</glyph><note>又艮韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅀᅵᆫ</head>
+			<chr><glyph>刃</glyph></chr>
+			<chr><glyph>訒</glyph></chr>
+			<chr><glyph>仞</glyph></chr>
+			<chr><glyph>牣</glyph></chr>
+			<chr><glyph>[牛+忍]</glyph><note>上同</note></chr>
+			<chr><glyph>軔</glyph><note>又本韻</note></chr>
+			<chr><glyph>韌</glyph></chr>
+			<chr><glyph>軔</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>忍</glyph><note>上同又懇韻</note></chr>
+			<chr><glyph>認</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅀᅵᇙ</head>
+			<chr><glyph>日</glyph></chr>
+			<chr><glyph>衵</glyph></chr>
+			<chr><glyph>馹</glyph></chr>
+			<chr><glyph>𩡲</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+</nucleus>
+</rhyme>
+<page n="26b"/>
+<rhyme n="9">
+<head>昆<note>平</note> 袞<note>上</note> 睔<note>去</note> 骨<note>入</note></head>
+<nucleus type="ㅗ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>곤</head>
+			<chr><glyph>昆</glyph><note>又本韻衮韻</note></chr>
+			<chr><glyph>琨</glyph></chr>
+			<chr><glyph>[王+(丗$貝)]</glyph><note>上同</note></chr>
+			<chr><glyph>錕</glyph><note>又衮韻</note></chr>
+			<chr><glyph>崐</glyph></chr>
+			<chr><glyph>崑</glyph><note>上同</note></chr>
+			<chr><glyph>混</glyph><note>又衮韻二</note></chr>
+			<chr><glyph>緄</glyph><note>上同又本韻衮韻</note></chr>
+			<chr><glyph>鯤</glyph><note>又本韻</note></chr>
+			<chr><glyph>𩻋</glyph><note>上同</note></chr>
+			<chr><glyph>鰥</glyph><note>上同又衮干韻</note></chr>
+			<chr><glyph>卵</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>鵾</glyph></chr>
+			<chr><glyph>鯤</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>緷</glyph><note>又本韻衮韻二</note></chr>
+			<chr><glyph>褌</glyph></chr>
+			<chr><glyph>𢃚</glyph><note>上同</note></chr>
+			<chr><glyph>裩</glyph><note>上同</note></chr>
+			<chr><glyph>晜</glyph></chr>
+			<chr><glyph>䖵</glyph><note>又䛪韻</note></chr>
+			<chr><glyph>[虫+昆]</glyph><note>上同</note></chr>
+			<chr><glyph>䐊</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:곤</head>
+			<chr><glyph>袞</glyph></chr>
+			<chr><glyph>卷</glyph><note>上同又鞬韻二寋建韻</note></chr>
+			<chr><glyph>裷</glyph><note>上同</note></chr>
+			<chr><glyph>蔉</glyph></chr>
+			<chr><glyph>混</glyph><note>又本韻昆韻</note></chr>
+			<chr><glyph>滾</glyph><note>上同</note></chr>
+			<chr><glyph>緄</glyph><note>又昆韻二</note></chr>
+			<chr><glyph>䃂</glyph></chr>
+<page n="27a"/>
+			<chr><glyph>錕</glyph><note>又昆韻</note></chr>
+			<chr><glyph>輥</glyph><note>又本韻</note></chr>
+			<chr><glyph>昆</glyph><note>又昆韻二</note></chr>
+			<chr><glyph>𩩌</glyph></chr>
+			<chr><glyph>鮌</glyph><note>上同</note></chr>
+			<chr><glyph>𧣙</glyph><note>上同</note></chr>
+			<chr><glyph>鰥</glyph><note>上同又昆干韻</note></chr>
+			<chr><glyph>緷</glyph><note>又本韻昆韻二</note></chr>
+			<chr><glyph>縳</glyph><note>上同又寋建韻</note></chr>
+			<chr><glyph>㯻</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·곤</head>
+			<chr><glyph>睔</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·고ᇙ</head>
+			<chr><glyph>骨</glyph></chr>
+			<chr><glyph>愲</glyph></chr>
+			<chr><glyph>滑</glyph><note>又本韻葛韻</note></chr>
+			<chr><glyph>抇</glyph><note>上同</note></chr>
+			<chr><glyph>汨</glyph><note>又本韻隔屈韻</note></chr>
+			<chr><glyph>淈</glyph><note>又本韻屈韻</note></chr>
+			<chr><glyph>扢</glyph><note>又蓋韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>콘</head>
+			<chr><glyph>坤</glyph></chr>
+			<chr><glyph>髠</glyph></chr>
+			<chr><glyph>髨</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:콘</head>
+			<chr><glyph>梱</glyph></chr>
+			<chr><glyph>閫</glyph><note>上同又睔韻</note></chr>
+			<chr><glyph>稇</glyph></chr>
+			<chr><glyph>裍</glyph><note>上同</note></chr>
+			<chr><glyph>麇</glyph><note>上同又君韻三攟韻</note></chr>
+			<chr><glyph>絭</glyph><note>上同又穀旰韻建韻二</note></chr>
+			<chr><glyph>悃</glyph></chr>
+			<chr><glyph>捆</glyph></chr>
+			<chr><glyph>齫</glyph></chr>
+			<chr><glyph>齦</glyph><note>上同又根懇韻</note></chr>
+			<chr><glyph>壼</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·콘</head>
+			<chr><glyph>困</glyph></chr>
+			<chr><glyph>閫</glyph><note>又衮韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·코ᇙ</head>
+<page n="27b"/>
+			<chr><glyph>窟</glyph></chr>
+			<chr><glyph>𡑣</glyph><note>上同</note></chr>
+			<chr><glyph>[出+骨]</glyph><note>上同</note></chr>
+			<chr><glyph>崫</glyph><note>又屈韻二</note></chr>
+			<chr><glyph>𡼿</glyph><note>上同</note></chr>
+			<chr><glyph>𡶏</glyph><note>上同</note></chr>
+			<chr><glyph>𥖚</glyph><note>上同</note></chr>
+			<chr><glyph>搰</glyph><note>又本韻</note></chr>
+			<chr><glyph>顝</glyph></chr>
+			<chr><glyph>𩑡</glyph></chr>
+			<chr><glyph>矻</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="業"><!--業母-->
+		<!--'ᅌᅩᆫ'의 평성자는 없음-->
+		<!--'ᅌᅩᆫ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᅩᆫ</head>
+			<chr><glyph>諢</glyph></chr>
+			<chr><glyph>顐</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅩᇙ</head>
+			<chr><glyph>兀</glyph></chr>
+			<chr><glyph>掘</glyph><note>上同又屈韻訐韻二</note></chr>
+			<chr><glyph>扤</glyph></chr>
+			<chr><glyph>杌</glyph></chr>
+			<chr><glyph>柮</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>矹</glyph></chr>
+			<chr><glyph>卼</glyph></chr>
+			<chr><glyph>㐳</glyph><note>上同</note></chr>
+			<chr><glyph>[出+兀]</glyph><note>上同</note></chr>
+			<chr><glyph>[臬+出]</glyph><note>上同</note></chr>
+			<chr><glyph>刖</glyph><note>又葛訐韻</note></chr>
+			<chr><glyph>𦨉</glyph><note>上同</note></chr>
+			<chr><glyph>䑢</glyph></chr>
+			<chr><glyph>仡</glyph><note>上同又訖韻</note></chr>
+			<chr><glyph>屼</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>돈</head>
+			<chr><glyph>敦</glyph><note>又本韻衮睔干君攟韻高韻二誥傀儈韻</note></chr>
+			<chr><glyph>墩</glyph></chr>
+			<chr><glyph>墪</glyph><note>上同</note></chr>
+			<chr><glyph>惇</glyph></chr>
+			<chr><glyph>弴</glyph><note>又高韻</note></chr>
+			<chr><glyph>蜳</glyph><note>又攟韻</note></chr>
+		</syllable>
+		<!--'돈'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·돈</head>
+			<chr><glyph>頓</glyph><note>又骨韻</note></chr>
+			<chr><glyph>敦</glyph><note>又昆韻二衮干君攟韻高韻二誥傀儈韻</note></chr>
+		</syllable>
+<page n="28a"/>
+		<syllable tone="entering"><!--입성-->
+			<head>·도ᇙ</head>
+			<chr><glyph>咄</glyph></chr>
+			<chr><glyph>嚉</glyph><note>上同</note></chr>
+			<chr><glyph>柮</glyph><note>又本韻</note></chr>
+			<chr><glyph>頓</glyph><note>又睔韻</note></chr>
+			<chr><glyph>對</glyph><note>又儈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="吞"><!--吞母-->
+		<syllable tone="level"><!--평성-->
+			<head>톤</head>
+			<chr><glyph>暾</glyph></chr>
+			<chr><glyph>旽</glyph><note>上同</note></chr>
+			<chr><glyph>啍</glyph></chr>
+			<chr><glyph>噋</glyph><note>上同</note></chr>
+			<chr><glyph>焞</glyph><note>又君傀韻</note></chr>
+			<chr><glyph>𪏆</glyph></chr>
+			<chr><glyph>𪎶</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:톤</head>
+			<chr><glyph>畽</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𤊯</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·톤</head>
+			<chr><glyph>褪</glyph></chr>
+		</syllable>
+		<!--'톤'의 입성자는 없음-->
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>똔</head>
+			<chr><glyph>屯</glyph><note>又君韻</note></chr>
+			<chr><glyph>純</glyph><note>又衮韻君韻二攟鞬韻</note></chr>
+			<chr><glyph>忳</glyph><note>又君韻</note></chr>
+			<chr><glyph>軘</glyph></chr>
+			<chr><glyph>芚</glyph></chr>
+			<chr><glyph>庉</glyph></chr>
+			<chr><glyph>豚</glyph><note>又衮韻</note></chr>
+			<chr><glyph>㹠</glyph><note>上同</note></chr>
+			<chr><glyph>豘</glyph><note>上同</note></chr>
+			<chr><glyph>𨔵</glyph><note>上同又衮睔韻</note></chr>
+			<chr><glyph>臀</glyph></chr>
+			<chr><glyph>[𣪫$骨]</glyph><note>上同</note></chr>
+			<chr><glyph>[殿$肉]</glyph><note>上同</note></chr>
+			<chr><glyph>燉</glyph></chr>
+			<chr><glyph>敦</glyph><note>又本韻衮睔干君攟韻高韻二誥傀儈韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:똔</head>
+			<chr><glyph>囤</glyph></chr>
+			<chr><glyph>純</glyph><note>又昆韻君韻二攟鞬韻</note></chr>
+			<chr><glyph>沌</glyph></chr>
+			<chr><glyph>遯</glyph><note>又睔韻</note></chr>
+<page n="28b"/>
+			<chr><glyph>遁</glyph><note>上同又睔君韻</note></chr>
+			<chr><glyph>踲</glyph><note>上同</note></chr>
+			<chr><glyph>𨔡</glyph><note>上同又昆睔韻</note></chr>
+			<chr><glyph>豚</glyph><note>又昆韻</note></chr>
+			<chr><glyph>腯</glyph><note>上同又睔骨韻</note></chr>
+			<chr><glyph>盾</glyph><note>又攟韻</note></chr>
+			<chr><glyph>敦</glyph><note>又昆韻二睔干君攟韻高韻二誥傀儈韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·똔</head>
+			<chr><glyph>鈍</glyph></chr>
+			<chr><glyph>遯</glyph><note>又衮韻</note></chr>
+			<chr><glyph>遁</glyph><note>上同又衮君韻</note></chr>
+			<chr><glyph>𨔵</glyph><note>上同又昆衮韻</note></chr>
+			<chr><glyph>腯</glyph><note>又衮骨韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·또ᇙ</head>
+			<chr><glyph>突</glyph></chr>
+			<chr><glyph>堗</glyph><note>上同</note></chr>
+			<chr><glyph>揬</glyph></chr>
+			<chr><glyph>腯</glyph><note>又衮睔韻</note></chr>
+			<chr><glyph>腞</glyph><note>上同又寋韻</note></chr>
+			<chr><glyph>怢</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<!--'논'의 평성자는 없음-->
+		<!--'논'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·논</head>
+			<chr><glyph>嫩</glyph></chr>
+			<chr><glyph>媆</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·노ᇙ</head>
+			<chr><glyph>訥</glyph></chr>
+			<chr><glyph>吶</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>詘</glyph><note>上同又屈韻四</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彆"><!--彆母-->
+		<syllable tone="level"><!--평성-->
+			<head>본</head>
+			<chr><glyph>奔</glyph><note>又睔攈韻</note></chr>
+			<chr><glyph>[足+(一$奔)]</glyph><note>上同</note></chr>
+			<chr><glyph>賁</glyph><note>又君攟攈貲恣韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:본</head>
+			<chr><glyph>本</glyph></chr>
+			<chr><glyph>笨</glyph></chr>
+			<chr><glyph>[厶$𡙂]</glyph></chr>
+			<chr><glyph>[木$甾]</glyph><note>上同</note></chr>
+<page n="29a"/>
+			<chr><glyph>畚</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·본</head>
+			<chr><glyph>奔</glyph><note>又昆攈韻</note></chr>
+		</syllable>
+		<!--'본'의 입성자는 없음-->
+	</onset>
+	<onset type="漂"><!--漂母-->
+		<syllable tone="level"><!--평성-->
+			<head>폰</head>
+			<chr><glyph>歕</glyph></chr>
+			<chr><glyph>濆</glyph><note>上同又君攟韻</note></chr>
+			<chr><glyph>噴</glyph><note>又睔韻</note></chr>
+		</syllable>
+		<!--'폰'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·폰</head>
+			<chr><glyph>噴</glyph><note>又昆韻</note></chr>
+			<chr><glyph>𠴮</glyph><note>上同</note></chr>
+			<chr><glyph>吩</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·포ᇙ</head>
+			<chr><glyph>朏</glyph><note>又紫韻二恣韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="步"><!--步母-->
+		<syllable tone="level"><!--평성-->
+			<head>뽄</head>
+			<chr><glyph>盆</glyph></chr>
+			<chr><glyph>瓫</glyph><note>上同</note></chr>
+			<chr><glyph>湓</glyph><note>又睔攈韻</note></chr>
+			<chr><glyph>汾</glyph><note>上同又君韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:뽄</head>
+			<chr><glyph>𣄏</glyph></chr>
+			<chr><glyph>輽</glyph><note>又寋韻</note></chr>
+			<chr><glyph>軬</glyph><note>上同</note></chr>
+			<chr><glyph>㮥</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·뽄</head>
+			<chr><glyph>坌</glyph><note>又攟韻</note></chr>
+			<chr><glyph>坋</glyph><note>上同又攟攈韻</note></chr>
+			<chr><glyph>湓</glyph><note>又昆攈韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·뽀ᇙ</head>
+			<chr><glyph>孛</glyph><note>又恣韻</note></chr>
+			<chr><glyph>悖</glyph><note>又恣韻</note></chr>
+			<chr><glyph>愂</glyph><note>上同</note></chr>
+			<chr><glyph>哱</glyph><note>上同又恣韻</note></chr>
+			<chr><glyph>浡</glyph></chr>
+			<chr><glyph>馞</glyph></chr>
+			<chr><glyph>𪌰</glyph></chr>
+			<chr><glyph>㶿</glyph></chr>
+			<chr><glyph>𤊹</glyph><note>上同</note></chr>
+			<chr><glyph>勃</glyph><note>又恣韻</note></chr>
+<page n="29b"/>
+			<chr><glyph>㪍</glyph><note>上同</note></chr>
+			<chr><glyph>渤</glyph></chr>
+			<chr><glyph>㴾</glyph><note>上同</note></chr>
+			<chr><glyph>桲</glyph></chr>
+			<chr><glyph>𡋯</glyph></chr>
+			<chr><glyph>𡍧</glyph><note>上同</note></chr>
+			<chr><glyph>艴</glyph></chr>
+			<chr><glyph>𦫛</glyph><note>上同</note></chr>
+			<chr><glyph>佛</glyph><note>上同又訖韻屈韻三</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彌"><!--彌母-->
+		<syllable tone="level"><!--평성-->
+			<head>몬</head>
+			<chr><glyph>門</glyph></chr>
+			<chr><glyph>捫</glyph></chr>
+			<chr><glyph>璊</glyph></chr>
+			<chr><glyph>玧</glyph><note>上同</note></chr>
+			<chr><glyph>㻊</glyph><note>上同</note></chr>
+			<chr><glyph>樠</glyph><note>又講干韻</note></chr>
+			<chr><glyph>汶</glyph><note>又根攈韻</note></chr>
+			<chr><glyph>虋</glyph></chr>
+			<chr><glyph>穈</glyph><note>上同</note></chr>
+			<chr><glyph>𧄸</glyph><note>上同</note></chr>
+			<chr><glyph>𥡹</glyph><note>上同</note></chr>
+			<chr><glyph>亹</glyph><note>又紫韻</note></chr>
+			<chr><glyph>𤅣</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:몬</head>
+			<chr><glyph>懣</glyph><note>又睔笴韻</note></chr>
+			<chr><glyph>𢟮</glyph><note>上同</note></chr>
+			<chr><glyph>㦖</glyph><note>上同</note></chr>
+			<chr><glyph>鞔</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>悗</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·몬</head>
+			<chr><glyph>悶</glyph></chr>
+			<chr><glyph>懣</glyph><note>上同又衮笴韻</note></chr>
+			<chr><glyph>滿</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>惛</glyph><note>上同又本韻懇昆韻</note></chr>
+			<chr><glyph>㥃</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·모ᇙ</head>
+			<chr><glyph>沒</glyph></chr>
+			<chr><glyph>[歺+殳]</glyph></chr>
+			<chr><glyph>圽</glyph></chr>
+			<chr><glyph>勿</glyph><note>又屈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>존</head>
+			<chr><glyph>尊</glyph></chr>
+<page n="30a"/>
+			<chr><glyph>罇</glyph></chr>
+			<chr><glyph>[尊$皿]</glyph><note>上同</note></chr>
+			<chr><glyph>𤮐</glyph><note>上同</note></chr>
+			<chr><glyph>墫</glyph><note>上同又衮韻</note></chr>
+			<chr><glyph>鷷</glyph><note>又君韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:존</head>
+			<chr><glyph>撙</glyph></chr>
+			<chr><glyph>繜</glyph><note>上同</note></chr>
+			<chr><glyph>噂</glyph></chr>
+			<chr><glyph>僔</glyph><note>上同</note></chr>
+			<chr><glyph>譐</glyph><note>上同</note></chr>
+			<chr><glyph>䔿</glyph></chr>
+			<chr><glyph>𠟃</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·존</head>
+			<chr><glyph>焌</glyph><note>又屈韻</note></chr>
+			<chr><glyph>捘</glyph><note>又君韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·조ᇙ</head>
+			<chr><glyph>卒</glyph><note>又本韻屈韻二</note></chr>
+			<chr><glyph>倅</glyph><note>上同又儈韻</note></chr>
+			<chr><glyph>稡</glyph><note>又儈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<syllable tone="level"><!--평성-->
+			<head>촌</head>
+			<chr><glyph>村</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:촌</head>
+			<chr><glyph>忖</glyph></chr>
+			<chr><glyph>刌</glyph><note>又睔韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·촌</head>
+			<chr><glyph>寸</glyph></chr>
+			<chr><glyph>刌</glyph><note>又衮韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·초ᇙ</head>
+			<chr><glyph>猝</glyph></chr>
+			<chr><glyph>卒</glyph><note>又本韻屈韻二</note></chr>
+		</syllable>
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>쫀</head>
+			<chr><glyph>存</glyph></chr>
+			<chr><glyph>蹲</glyph><note>又君韻二</note></chr>
+			<chr><glyph>𨀛</glyph><note>上同</note></chr>
+			<chr><glyph>踆</glyph><note>上同又君韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:쫀</head>
+			<chr><glyph>鱒</glyph><note>又睔韻</note></chr>
+			<chr><glyph>墫</glyph><note>又昆韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·쫀</head>
+<page n="30b"/>
+			<chr><glyph>鐏</glyph><note>又笴韻</note></chr>
+			<chr><glyph>鱒</glyph><note>又衮韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·쪼ᇙ</head>
+			<chr><glyph>捽</glyph></chr>
+			<chr><glyph>崒</glyph><note>又屈嬀韻</note></chr>
+			<chr><glyph>崪</glyph><note>上同又屈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head>손</head>
+			<chr><glyph>孫</glyph><note>又睔韻</note></chr>
+			<chr><glyph>蓀</glyph></chr>
+			<chr><glyph>[辶+蓀]</glyph><note>上同</note></chr>
+			<chr><glyph>荃</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>𦺈</glyph><note>上同</note></chr>
+			<chr><glyph>𧂍</glyph><note>上同</note></chr>
+			<chr><glyph>𧎤</glyph></chr>
+			<chr><glyph>猻</glyph></chr>
+			<chr><glyph>飱</glyph></chr>
+			<chr><glyph>餐</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>湌</glyph><note>上同</note></chr>
+			<chr><glyph>薞</glyph></chr>
+			<chr><glyph>薞</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:손</head>
+			<chr><glyph>損</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·손</head>
+			<chr><glyph>巽</glyph></chr>
+			<chr><glyph>潠</glyph></chr>
+			<chr><glyph>𠹀</glyph><note>上同</note></chr>
+			<chr><glyph>噀</glyph><note>上同</note></chr>
+			<chr><glyph>遜</glyph></chr>
+			<chr><glyph>愻</glyph><note>上同</note></chr>
+			<chr><glyph>孫</glyph><note>上同又昆韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·소ᇙ</head>
+			<chr><glyph>率</glyph><note>又葛屈韻媿韻二</note></chr>
+			<chr><glyph>蟀</glyph></chr>
+			<chr><glyph>帥</glyph><note>又媿罽韻</note></chr>
+			<chr><glyph>帨</glyph><note>上同又媿罽韻</note></chr>
+			<chr><glyph>窣</glyph></chr>
+			<chr><glyph>㞕</glyph><note>上同</note></chr>
+			<chr><glyph>卹</glyph><note>又屈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅩᆫ</head>
+			<chr><glyph>溫</glyph><note>又攈誥韻</note></chr>
+			<chr><glyph>縕</glyph><note>又君攟攈韻</note></chr>
+<page n="31a"/>
+			<chr><glyph>㬈</glyph></chr>
+			<chr><glyph>瑥</glyph></chr>
+			<chr><glyph>褞</glyph></chr>
+			<chr><glyph>轀</glyph><note>又君攟韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅙᅩᆫ</head>
+			<chr><glyph>穩</glyph></chr>
+			<chr><glyph>𨆲</glyph><note>上同</note></chr>
+		</syllable>
+		<!--'ᅙᅩᆫ'의 거성자는 없음-->
+		<!--'ᅙᅩᆫ'의 입성자는 없음-->
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>혼</head>
+			<chr><glyph>昏</glyph></chr>
+			<chr><glyph>昬</glyph><note>上同又本韻懇韻</note></chr>
+			<chr><glyph>㖧</glyph></chr>
+			<chr><glyph>閽</glyph></chr>
+			<chr><glyph>婚</glyph></chr>
+			<chr><glyph>昬</glyph><note>上同又本韻懇韻</note></chr>
+			<chr><glyph>棔</glyph></chr>
+			<chr><glyph>惛</glyph><note>又睔韻二懇韻</note></chr>
+			<chr><glyph>𤸅</glyph><note>又根韻</note></chr>
+			<chr><glyph>睯</glyph><note>又根韻二懇韻</note></chr>
+		</syllable>
+		<!--'혼'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·혼</head>
+			<chr><glyph>惛</glyph><note>又本韻昆懇韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·호ᇙ</head>
+			<chr><glyph>忽</glyph></chr>
+			<chr><glyph>惚</glyph></chr>
+			<chr><glyph>曶</glyph><note>又恣韻</note></chr>
+			<chr><glyph>昒</glyph><note>上同</note></chr>
+			<chr><glyph>𣇤</glyph><note>上同</note></chr>
+			<chr><glyph>笏</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅩᆫ</head>
+			<chr><glyph>[云$鬼]</glyph></chr>
+			<chr><glyph>魂</glyph><note>上同</note></chr>
+			<chr><glyph>沄</glyph><note>又君韻</note></chr>
+			<chr><glyph>渾</glyph><note>又衮韻</note></chr>
+			<chr><glyph>煇</glyph><note>又衮嬀韻</note></chr>
+			<chr><glyph>緷</glyph><note>又本韻衮韻二</note></chr>
+			<chr><glyph>昆</glyph><note>又本韻衮韻</note></chr>
+			<chr><glyph>緄</glyph><note>又本韻衮韻</note></chr>
+			<chr><glyph>溷</glyph><note>又睔韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᅩᆫ</head>
+			<chr><glyph>混</glyph><note>又本韻昆韻</note></chr>
+<page n="31b"/>
+			<chr><glyph>渾</glyph><note>上同又昆韻</note></chr>
+			<chr><glyph>倱</glyph></chr>
+			<chr><glyph>棍</glyph></chr>
+			<chr><glyph>掍</glyph></chr>
+			<chr><glyph>焜</glyph></chr>
+			<chr><glyph>煇</glyph><note>上同又昆嬀韻</note></chr>
+			<chr><glyph>輥</glyph><note>又本韻</note></chr>
+			<chr><glyph>緷</glyph><note>又本韻昆韻二</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅘᅩᆫ</head>
+			<chr><glyph>慁</glyph></chr>
+			<chr><glyph>㥵</glyph><note>上同</note></chr>
+			<chr><glyph>溷</glyph><note>又昆韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅘᅩᇙ</head>
+			<chr><glyph>麧</glyph></chr>
+			<chr><glyph>籺</glyph><note>上同</note></chr>
+			<chr><glyph>𥝖</glyph><note>上同</note></chr>
+			<chr><glyph>覈</glyph><note>上同又亟韻</note></chr>
+			<chr><glyph>齕</glyph></chr>
+			<chr><glyph>紇</glyph></chr>
+			<chr><glyph>搰</glyph><note>又本韻</note></chr>
+			<chr><glyph>鶻</glyph></chr>
+			<chr><glyph>鴙</glyph><note>上同又紫韻</note></chr>
+			<chr><glyph>滑</glyph><note>又本韻葛韻</note></chr>
+			<chr><glyph>淈</glyph><note>又本韻屈韻</note></chr>
+			<chr><glyph>核</glyph><note>又亟韻</note></chr>
+			<chr><glyph>汨</glyph><note>又本韻隔屈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>론</head>
+			<chr><glyph>論</glyph><note>又睔君韻</note></chr>
+			<chr><glyph>崘</glyph></chr>
+			<chr><glyph>掄</glyph><note>又君韻</note></chr>
+			<chr><glyph>䑳</glyph></chr>
+			<chr><glyph>侖</glyph></chr>
+		</syllable>
+		<!--'론'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·론</head>
+			<chr><glyph>論</glyph><note>又昆君韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·로ᇙ</head>
+			<chr><glyph>硉</glyph></chr>
+		</syllable>
+	</onset>
+</nucleus>
+</rhyme>
+<page n="32a"/>
+<rhyme n="10">
+<head>干<note>平</note> 笴<note>上</note> 旰<note>去</note> 葛<note>入</note></head>
+<nucleus type="ㅏ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>간</head>
+			<chr><glyph>干</glyph><note>又旰韻二</note></chr>
+			<chr><glyph>竿</glyph><note>又笴韻</note></chr>
+			<chr><glyph>玕</glyph></chr>
+			<chr><glyph>肝</glyph></chr>
+			<chr><glyph>奸</glyph><note>又本韻</note></chr>
+			<chr><glyph>姧</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>忓</glyph></chr>
+			<chr><glyph>杆</glyph></chr>
+			<chr><glyph>虷</glyph></chr>
+			<chr><glyph>𢧀</glyph></chr>
+			<chr><glyph>乾</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>漧</glyph><note>上同</note></chr>
+			<chr><glyph>閒</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>間</glyph><note>上同</note></chr>
+			<chr><glyph>蕑</glyph></chr>
+			<chr><glyph>艱</glyph></chr>
+			<chr><glyph>姦</glyph></chr>
+			<chr><glyph>姧</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>奸</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>菅</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:간</head>
+			<chr><glyph>笴</glyph><note>又杲哿韻</note></chr>
+			<chr><glyph>幹</glyph><note>上同又干旰韻</note></chr>
+			<chr><glyph>竿</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>簳</glyph><note>上同</note></chr>
+			<chr><glyph>稈</glyph></chr>
+			<chr><glyph>𦾮</glyph><note>上同</note></chr>
+			<chr><glyph>𦼮</glyph><note>上同</note></chr>
+			<chr><glyph>𥳑</glyph></chr>
+			<chr><glyph>[衤+𥳑]</glyph></chr>
+			<chr><glyph>襉</glyph><note>又旰韻</note></chr>
+			<chr><glyph>柬</glyph></chr>
+			<chr><glyph>揀</glyph><note>上同又建韻</note></chr>
+			<chr><glyph>暕</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·간</head>
+<page n="32b"/>
+			<chr><glyph>旰</glyph></chr>
+			<chr><glyph>𣈨</glyph><note>上同</note></chr>
+			<chr><glyph>[氵+旰]</glyph></chr>
+			<chr><glyph>盰</glyph></chr>
+			<chr><glyph>骭</glyph><note>又本韻</note></chr>
+			<chr><glyph>秆</glyph></chr>
+			<chr><glyph>皯</glyph></chr>
+			<chr><glyph>𩈅</glyph><note>上同</note></chr>
+			<chr><glyph>幹</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>榦</glyph><note>又干韻</note></chr>
+			<chr><glyph>个</glyph><note>又箇韻</note></chr>
+			<chr><glyph>諫</glyph><note>又本韻</note></chr>
+			<chr><glyph>襉</glyph><note>又笴韻</note></chr>
+			<chr><glyph>㵎</glyph></chr>
+			<chr><glyph>𡼥</glyph><note>上同</note></chr>
+			<chr><glyph>鐗</glyph></chr>
+			<chr><glyph>覵</glyph></chr>
+			<chr><glyph>瞯</glyph><note>上同</note></chr>
+			<chr><glyph>閒</glyph><note>又干韻二</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·가ᇙ</head>
+			<chr><glyph>葛</glyph></chr>
+			<chr><glyph>轕</glyph></chr>
+			<chr><glyph>輵</glyph><note>上同</note></chr>
+			<chr><glyph>㵧</glyph></chr>
+			<chr><glyph>割</glyph></chr>
+			<chr><glyph>戞</glyph></chr>
+			<chr><glyph>拮</glyph><note>上同</note></chr>
+			<chr><glyph>揳</glyph><note>上同又訐韻二</note></chr>
+			<chr><glyph>秸</glyph></chr>
+			<chr><glyph>鞂</glyph><note>上同</note></chr>
+			<chr><glyph>䕸</glyph><note>上同又佳韻</note></chr>
+			<chr><glyph>頡</glyph><note>又訐韻</note></chr>
+			<chr><glyph>恝</glyph></chr>
+			<chr><glyph>扴</glyph></chr>
+			<chr><glyph>圿</glyph></chr>
+			<chr><glyph>介</glyph><note>又蓋箇韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>칸</head>
+			<chr><glyph>看</glyph><note>又旰韻</note></chr>
+			<chr><glyph>𥉏</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>栞</glyph></chr>
+			<chr><glyph>刊</glyph></chr>
+			<chr><glyph>靬</glyph></chr>
+			<chr><glyph>慳</glyph></chr>
+			<chr><glyph>鬜</glyph><note>又葛韻</note></chr>
+			<chr><glyph>𩭠</glyph><note>上同</note></chr>
+			<chr><glyph>顅</glyph></chr>
+			<chr><glyph>藖</glyph></chr>
+			<chr><glyph>馯</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:칸</head>
+<page n="33a"/>
+			<chr><glyph>𠈉</glyph><note>又旰韻</note></chr>
+			<chr><glyph>偘</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>衎</glyph><note>又旰韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·칸</head>
+			<chr><glyph>看</glyph><note>又干韻</note></chr>
+			<chr><glyph>𥉏</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>𠈉</glyph><note>又笴韻</note></chr>
+			<chr><glyph>偘</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>衎</glyph><note>又笴韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·카ᇙ</head>
+			<chr><glyph>渴</glyph><note>又訐蓋韻</note></chr>
+			<chr><glyph>劼</glyph></chr>
+			<chr><glyph>㓤</glyph></chr>
+			<chr><glyph>𦸉</glyph></chr>
+			<chr><glyph>契</glyph><note>上同又訐韻二罽韻</note></chr>
+			<chr><glyph>挈</glyph><note>上同又訐韻罽韻二</note></chr>
+			<chr><glyph>鬜</glyph><note>又干韻</note></chr>
+			<chr><glyph>𩮝</glyph><note>上同</note></chr>
+			<chr><glyph>𩮁</glyph><note>上同</note></chr>
+			<chr><glyph>𥴭</glyph></chr>
+			<chr><glyph>䈓</glyph><note>上同</note></chr>
+			<chr><glyph>㮫</glyph><note>上同</note></chr>
+			<chr><glyph>擖</glyph></chr>
+			<chr><glyph>楬</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᅡᆫ</head>
+			<chr><glyph>顔</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅌᅡᆫ</head>
+			<chr><glyph>眼</glyph><note>又懇韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᅡᆫ</head>
+			<chr><glyph>岸</glyph></chr>
+			<chr><glyph>䮗</glyph></chr>
+			<chr><glyph>豻</glyph><note>又干韻</note></chr>
+			<chr><glyph>犴</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>干</glyph><note>上同又本韻干韻</note></chr>
+			<chr><glyph>矸</glyph></chr>
+			<chr><glyph>諺</glyph><note>又建韻</note></chr>
+			<chr><glyph>喭</glyph><note>上同</note></chr>
+			<chr><glyph>鴈</glyph></chr>
+			<chr><glyph>雁</glyph><note>上同</note></chr>
+<page n="33b"/>
+			<chr><glyph>贗</glyph></chr>
+			<chr><glyph>偐</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅡᇙ</head>
+			<chr><glyph>嶭</glyph><note>又訐韻</note></chr>
+			<chr><glyph>𡾲</glyph><note>上同</note></chr>
+			<chr><glyph>䡾</glyph><note>又訐韻</note></chr>
+			<chr><glyph>枿</glyph><note>又訐韻</note></chr>
+			<chr><glyph>蘖</glyph><note>上同又亟訐罽韻</note></chr>
+			<chr><glyph>㮆</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>단</head>
+			<chr><glyph>單</glyph><note>又笴鞬寋韻建韻二歌韻</note></chr>
+			<chr><glyph>簞</glyph></chr>
+			<chr><glyph>匰</glyph></chr>
+			<chr><glyph>癉</glyph><note>又笴旰哿箇韻</note></chr>
+			<chr><glyph>襌</glyph></chr>
+			<chr><glyph>殫</glyph></chr>
+			<chr><glyph>鄲</glyph></chr>
+			<chr><glyph>丹</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:단</head>
+			<chr><glyph>亶</glyph><note>又本韻二旰鞬韻</note></chr>
+			<chr><glyph>單</glyph><note>上同又干鞬寋韻建韻二歌韻</note></chr>
+			<chr><glyph>癉</glyph><note>又干旰哿箇韻</note></chr>
+			<chr><glyph>𤺺</glyph><note>上同</note></chr>
+			<chr><glyph>狚</glyph><note>又旰葛韻</note></chr>
+			<chr><glyph>僤</glyph><note>又旰鞬寋韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·단</head>
+			<chr><glyph>旦</glyph><note>又根韻</note></chr>
+			<chr><glyph>[旦$心]</glyph></chr>
+			<chr><glyph>狚</glyph><note>又笴葛韻</note></chr>
+			<chr><glyph>鴠</glyph></chr>
+			<chr><glyph>癉</glyph><note>又干笴哿箇韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·다ᇙ</head>
+			<chr><glyph>怛</glyph></chr>
+			<chr><glyph>𢛁</glyph><note>上同</note></chr>
+			<chr><glyph>撣</glyph><note>上同又干旰韻</note></chr>
+			<chr><glyph>䵣</glyph></chr>
+			<chr><glyph>妲</glyph></chr>
+			<chr><glyph>狚</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>笪</glyph></chr>
+<page n="34a"/>
+			<chr><glyph>哳</glyph></chr>
+			<chr><glyph>𠽻</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="呑"><!--呑母-->
+		<syllable tone="level"><!--평성-->
+			<head>탄</head>
+			<chr><glyph>灘</glyph><note>又旰韻</note></chr>
+			<chr><glyph>攤</glyph><note>又旰韻</note></chr>
+			<chr><glyph>[難$手]</glyph><note>上同</note></chr>
+			<chr><glyph>歎</glyph><note>又旰韻</note></chr>
+			<chr><glyph>嘆</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>嘽</glyph><note>又寋韻</note></chr>
+			<chr><glyph>㨏</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:탄</head>
+			<chr><glyph>坦</glyph></chr>
+			<chr><glyph>壇</glyph><note>上同又干旰韻</note></chr>
+			<chr><glyph>憚</glyph><note>上同又本韻干旰箇韻</note></chr>
+			<chr><glyph>儃</glyph><note>又干旰鞬建韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·탄</head>
+			<chr><glyph>炭</glyph></chr>
+			<chr><glyph>歎</glyph><note>又干韻</note></chr>
+			<chr><glyph>嘆</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>灘</glyph><note>又干韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·타ᇙ</head>
+			<chr><glyph>闥</glyph></chr>
+			<chr><glyph>撻</glyph></chr>
+			<chr><glyph>[𦍒+攵]</glyph><note>上同</note></chr>
+			<chr><glyph>達</glyph><note>又本韻</note></chr>
+			<chr><glyph>㺚</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>达</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>澾</glyph></chr>
+			<chr><glyph>羍</glyph></chr>
+			<chr><glyph>𦍐</glyph><note>上同</note></chr>
+			<chr><glyph>汏</glyph><note>又蓋韻二</note></chr>
+			<chr><glyph>汰</glyph><note>上同又蓋韻</note></chr>
+			<chr><glyph>獺</glyph></chr>
+			<chr><glyph>㺚</glyph><note>上同又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>딴</head>
+			<chr><glyph>壇</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>墠</glyph><note>上同又寋建韻</note></chr>
+<page n="34b"/>
+			<chr><glyph>檀</glyph></chr>
+			<chr><glyph>驙</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>彈</glyph><note>又旰韻</note></chr>
+			<chr><glyph>𢎫</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>憚</glyph><note>又笴韻二旰箇韻</note></chr>
+			<chr><glyph>撣</glyph><note>又旰葛韻</note></chr>
+			<chr><glyph>鷤</glyph><note>又罽韻</note></chr>
+			<chr><glyph>但</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>儃</glyph><note>又笴旰鞬建韻</note></chr>
+			<chr><glyph>聅</glyph><note>又訐韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:딴</head>
+			<chr><glyph>但</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>亶</glyph><note>上同又本韻二旰鞬韻</note></chr>
+			<chr><glyph>袒</glyph><note>又旰韻</note></chr>
+			<chr><glyph>襢</glyph><note>上同又旰鞬寋建韻</note></chr>
+			<chr><glyph>亶</glyph><note>上同又本韻二旰鞬韻</note></chr>
+			<chr><glyph>觛</glyph></chr>
+			<chr><glyph>誕</glyph><note>又旰韻</note></chr>
+			<chr><glyph>訑</glyph><note>上同又旰貲歌韻</note></chr>
+			<chr><glyph>蜑</glyph></chr>
+			<chr><glyph>[延$䖵]</glyph><note>上同</note></chr>
+			<chr><glyph>蜒</glyph><note>上同又鞬寋建韻</note></chr>
+			<chr><glyph>憚</glyph><note>又本韻干旰箇韻</note></chr>
+			<chr><glyph>潬</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·딴</head>
+			<chr><glyph>憚</glyph><note>又干韻笴韻二箇韻</note></chr>
+			<chr><glyph>彈</glyph><note>又干韻</note></chr>
+			<chr><glyph>𢎫</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>𢎟</glyph><note>上同</note></chr>
+			<chr><glyph>僤</glyph><note>又笴鞬寋韻</note></chr>
+			<chr><glyph>撣</glyph><note>又干葛韻</note></chr>
+			<chr><glyph>但</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>儃</glyph><note>上同又干笴鞬建韻</note></chr>
+<page n="35a"/>
+			<chr><glyph>亶</glyph><note>上同又笴韻三鞬韻</note></chr>
+			<chr><glyph>袒</glyph><note>又笴韻</note></chr>
+			<chr><glyph>襢</glyph><note>上同又笴鞬寋建韻</note></chr>
+			<chr><glyph>澶</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>壇</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>訑</glyph><note>又笴歌韻</note></chr>
+			<chr><glyph>誕</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>綻</glyph></chr>
+			<chr><glyph>䘺</glyph><note>上同</note></chr>
+			<chr><glyph>䋎</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·따ᇙ</head>
+			<chr><glyph>達</glyph><note>又本韻</note></chr>
+			<chr><glyph>达</glyph><note>上同又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<syllable tone="level"><!--평성-->
+			<head>난</head>
+			<chr><glyph>難</glyph><note>又旰歌哿韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:난</head>
+			<chr><glyph>赧</glyph></chr>
+			<chr><glyph>𧹞</glyph><note>上同</note></chr>
+			<chr><glyph>𢟻</glyph><note>上同</note></chr>
+			<chr><glyph>戁</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·난</head>
+			<chr><glyph>難</glyph><note>又干歌哿韻</note></chr>
+			<chr><glyph>攤</glyph><note>又干韻</note></chr>
+			<chr><glyph>㬮</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·나ᇙ</head>
+			<chr><glyph>捺</glyph></chr>
+			<chr><glyph>痆</glyph></chr>
+			<chr><glyph>𤷈</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彆"><!--彆母-->
+		<syllable tone="level"><!--평성-->
+			<head>반</head>
+			<chr><glyph>[番+去]</glyph></chr>
+			<chr><glyph>般</glyph><note>又本韻二笴韻</note></chr>
+			<chr><glyph>䈲</glyph></chr>
+			<chr><glyph>班</glyph></chr>
+			<chr><glyph>辨</glyph><note>上同又旰寋檢韻</note></chr>
+			<chr><glyph>斑</glyph></chr>
+			<chr><glyph>頒</glyph><note>又君韻</note></chr>
+			<chr><glyph>攽</glyph><note>上同</note></chr>
+			<chr><glyph>肦</glyph><note>又君韻</note></chr>
+<page n="35b"/>
+			<chr><glyph>般</glyph><note>又本韻二笴韻</note></chr>
+			<chr><glyph>須</glyph><note>又拘韻</note></chr>
+			<chr><glyph>扳</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>斒</glyph></chr>
+			<chr><glyph>[幷+攵]</glyph><note>上同</note></chr>
+			<chr><glyph>豳</glyph><note>上同又根韻</note></chr>
+			<chr><glyph>虨</glyph><note>又根韻</note></chr>
+			<chr><glyph>𧇃</glyph><note>上同又根韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:반</head>
+			<chr><glyph>般</glyph><note>又干韻三</note></chr>
+			<chr><glyph>版</glyph></chr>
+			<chr><glyph>板</glyph><note>上同</note></chr>
+			<chr><glyph>蝂</glyph></chr>
+			<chr><glyph>鈑</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·반</head>
+			<chr><glyph>半</glyph><note>又本韻</note></chr>
+			<chr><glyph>絆</glyph></chr>
+			<chr><glyph>靽</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·바ᇙ</head>
+			<chr><glyph>撥</glyph><note>又本韻訐韻</note></chr>
+			<chr><glyph>墢</glyph></chr>
+			<chr><glyph>坺</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>襏</glyph></chr>
+			<chr><glyph>蹳</glyph></chr>
+			<chr><glyph>鱍</glyph></chr>
+			<chr><glyph>發</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>鉢</glyph></chr>
+			<chr><glyph>八</glyph></chr>
+			<chr><glyph>朳</glyph></chr>
+			<chr><glyph>[木+別]</glyph><note>上同</note></chr>
+			<chr><glyph>捌</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="漂"><!--漂母-->
+		<syllable tone="level"><!--평성-->
+			<head>판</head>
+			<chr><glyph>潘</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>番</glyph><note>又旰鞬韻歌韻三</note></chr>
+			<chr><glyph>拌</glyph><note>又旰韻</note></chr>
+			<chr><glyph>攀</glyph></chr>
+			<chr><glyph>𢸅</glyph><note>上同</note></chr>
+			<chr><glyph>扳</glyph><note>上同又本韻旰韻</note></chr>
+			<chr><glyph>眅</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𥈼</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:판</head>
+<page n="36a"/>
+			<chr><glyph>眅</glyph><note>又干韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·판</head>
+			<chr><glyph>判</glyph></chr>
+			<chr><glyph>泮</glyph><note>又本韻</note></chr>
+			<chr><glyph>頖</glyph><note>上同</note></chr>
+			<chr><glyph>冸</glyph></chr>
+			<chr><glyph>胖</glyph><note>又干韻</note></chr>
+			<chr><glyph>拌</glyph><note>又干韻</note></chr>
+			<chr><glyph>伴</glyph><note>又本韻笴韻</note></chr>
+			<chr><glyph>沜</glyph></chr>
+			<chr><glyph>叛</glyph><note>又本韻</note></chr>
+			<chr><glyph>炍</glyph><note>上同</note></chr>
+			<chr><glyph>半</glyph><note>又本韻</note></chr>
+			<chr><glyph>番</glyph><note>又干鞬韻歌韻三</note></chr>
+			<chr><glyph>襻</glyph></chr>
+			<chr><glyph>[棥$衣]</glyph><note>上同</note></chr>
+			<chr><glyph>𧘋</glyph><note>上同</note></chr>
+			<chr><glyph>扳</glyph><note>又干韻二</note></chr>
+			<chr><glyph>盼</glyph></chr>
+			<chr><glyph>盻</glyph><note>上同又罽韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·파ᇙ</head>
+			<chr><glyph>鏺</glyph></chr>
+			<chr><glyph>癹</glyph><note>上同</note></chr>
+			<chr><glyph>㔇</glyph><note>上同</note></chr>
+			<chr><glyph>潑</glyph></chr>
+			<chr><glyph>醱</glyph></chr>
+			<chr><glyph>[足+友]</glyph><note>又本韻</note></chr>
+			<chr><glyph>汃</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="步"><!--步母-->
+		<syllable tone="level"><!--평성-->
+			<head>빤</head>
+			<chr><glyph>盤</glyph></chr>
+			<chr><glyph>柈</glyph><note>上同</note></chr>
+			<chr><glyph>磐</glyph></chr>
+			<chr><glyph>𥑍</glyph><note>上同</note></chr>
+			<chr><glyph>鞶</glyph></chr>
+			<chr><glyph>䩔</glyph><note>上同</note></chr>
+			<chr><glyph>幋</glyph></chr>
+			<chr><glyph>搫</glyph></chr>
+			<chr><glyph>𨃞</glyph></chr>
+			<chr><glyph>縏</glyph></chr>
+			<chr><glyph>媻</glyph></chr>
+			<chr><glyph>䰉</glyph></chr>
+			<chr><glyph>瘢</glyph></chr>
+			<chr><glyph>瀊</glyph></chr>
+			<chr><glyph>般</glyph><note>又本韻二笴韻</note></chr>
+			<chr><glyph>弁</glyph><note>上同又建韻</note></chr>
+<page n="36b"/>
+			<chr><glyph>卞</glyph><note>上同又建韻</note></chr>
+			<chr><glyph>磻</glyph><note>又箇韻</note></chr>
+			<chr><glyph>蹣</glyph><note>又本韻</note></chr>
+			<chr><glyph>𨃟</glyph><note>上同</note></chr>
+			<chr><glyph>跘</glyph><note>上同</note></chr>
+			<chr><glyph>蟠</glyph></chr>
+			<chr><glyph>胖</glyph><note>又旰韻</note></chr>
+			<chr><glyph>繁</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>緐</glyph><note>上同</note></chr>
+			<chr><glyph>𥿋</glyph><note>上同又建韻</note></chr>
+			<chr><glyph>瓣</glyph><note>又旰韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:빤</head>
+			<chr><glyph>伴</glyph><note>又旰韻二</note></chr>
+			<chr><glyph>並</glyph><note>又景敬韻</note></chr>
+			<chr><glyph>竝</glyph><note>上同又絳韻</note></chr>
+			<chr><glyph>昄</glyph></chr>
+			<chr><glyph>反</glyph><note>又鞬寋韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·빤</head>
+			<chr><glyph>畔</glyph></chr>
+			<chr><glyph>泮</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>伴</glyph><note>又本韻笴韻</note></chr>
+			<chr><glyph>叛</glyph><note>又本韻</note></chr>
+			<chr><glyph>瓣</glyph><note>又干韻</note></chr>
+			<chr><glyph>分</glyph><note>上同又君攈韻</note></chr>
+			<chr><glyph>辦</glyph></chr>
+			<chr><glyph>辨</glyph><note>又干寋檢韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·빠ᇙ</head>
+			<chr><glyph>跋</glyph><note>又本韻</note></chr>
+			<chr><glyph>軷</glyph><note>又蓋韻</note></chr>
+			<chr><glyph>坺</glyph><note>又本韻</note></chr>
+			<chr><glyph>胈</glyph></chr>
+			<chr><glyph>魃</glyph></chr>
+			<chr><glyph>妭</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>鈸</glyph></chr>
+			<chr><glyph>妭</glyph><note>又本韻</note></chr>
+			<chr><glyph>茇</glyph><note>又罽屈韻</note></chr>
+			<chr><glyph>犮</glyph></chr>
+			<chr><glyph>撥</glyph><note>又本韻訐韻</note></chr>
+<page n="37a"/>
+			<chr><glyph>拔</glyph><note>又恣韻</note></chr>
+			<chr><glyph>𢪺</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="彌"><!--彌母-->
+		<syllable tone="level"><!--평성-->
+			<head>만</head>
+			<chr><glyph>瞞</glyph></chr>
+			<chr><glyph>蹣</glyph><note>又本韻</note></chr>
+			<chr><glyph>樠</glyph><note>又講昆韻</note></chr>
+			<chr><glyph>鬗</glyph></chr>
+			<chr><glyph>曼</glyph><note>又旰建韻</note></chr>
+			<chr><glyph>漫</glyph><note>又旰韻二</note></chr>
+			<chr><glyph>謾</glyph><note>又旰鞬韻</note></chr>
+			<chr><glyph>鏝</glyph></chr>
+			<chr><glyph>慢</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>墁</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>饅</glyph></chr>
+			<chr><glyph>𪍩</glyph><note>上同</note></chr>
+			<chr><glyph>縵</glyph><note>又旰韻二</note></chr>
+			<chr><glyph>𢿜</glyph><note>上同</note></chr>
+			<chr><glyph>鰻</glyph></chr>
+			<chr><glyph>鄤</glyph></chr>
+			<chr><glyph>𩆀</glyph></chr>
+			<chr><glyph>鞔</glyph><note>又衮韻</note></chr>
+			<chr><glyph>蠻</glyph></chr>
+			<chr><glyph>𪈿</glyph></chr>
+			<chr><glyph>𪑪</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:만</head>
+			<chr><glyph>滿</glyph><note>又睔韻</note></chr>
+			<chr><glyph>懣</glyph><note>又衮睔韻</note></chr>
+			<chr><glyph>䓣</glyph><note>上同</note></chr>
+			<chr><glyph>矕</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·만</head>
+			<chr><glyph>縵</glyph><note>又本韻干韻</note></chr>
+			<chr><glyph>幔</glyph></chr>
+			<chr><glyph>幕</glyph><note>上同又覺隔韻</note></chr>
+			<chr><glyph>䡬</glyph></chr>
+			<chr><glyph>謾</glyph><note>又干鞬韻</note></chr>
+			<chr><glyph>漫</glyph><note>又本韻干韻</note></chr>
+			<chr><glyph>墁</glyph><note>又干韻</note></chr>
+			<chr><glyph>曼</glyph><note>又干建韻</note></chr>
+			<chr><glyph>慢</glyph><note>又干韻</note></chr>
+			<chr><glyph>僈</glyph><note>上同</note></chr>
+			<chr><glyph>漫</glyph><note>上同又本韻干韻</note></chr>
+			<chr><glyph>嫚</glyph></chr>
+<page n="37b"/>
+			<chr><glyph>縵</glyph><note>又本韻干韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·마ᇙ</head>
+			<chr><glyph>末</glyph></chr>
+			<chr><glyph>秣</glyph></chr>
+			<chr><glyph>[艹$罒$冖$我]</glyph><note>上同</note></chr>
+			<chr><glyph>沫</glyph></chr>
+			<chr><glyph>抹</glyph></chr>
+			<chr><glyph>昩</glyph></chr>
+			<chr><glyph>眜</glyph><note>又訐韻</note></chr>
+			<chr><glyph>妹</glyph></chr>
+			<chr><glyph>䴲</glyph></chr>
+			<chr><glyph>㑻</glyph></chr>
+			<chr><glyph>䀣</glyph></chr>
+			<chr><glyph>䀛</glyph><note>上同</note></chr>
+			<chr><glyph>帓</glyph></chr>
+			<chr><glyph>袹</glyph></chr>
+			<chr><glyph>帕</glyph><note>上同又箇韻</note></chr>
+			<chr><glyph>貊</glyph><note>上同又亟韻</note></chr>
+			<chr><glyph>鞨</glyph><note>上同又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<!--'잔'의 평성자는 없음-->
+		<syllable tone="rising"><!--상성-->
+			<head>:잔</head>
+			<chr><glyph>䎒</glyph></chr>
+			<chr><glyph>醆</glyph></chr>
+			<chr><glyph>琖</glyph></chr>
+			<chr><glyph>𧣴</glyph><note>上同</note></chr>
+			<chr><glyph>盞</glyph><note>上同</note></chr>
+			<chr><glyph>湔</glyph><note>上同又旰鞬韻</note></chr>
+			<chr><glyph>錢</glyph><note>上同又鞬寋韻</note></chr>
+			<chr><glyph>棧</glyph><note>又本韻旰韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·잔</head>
+			<chr><glyph>贊</glyph></chr>
+			<chr><glyph>讚</glyph></chr>
+			<chr><glyph>囋</glyph><note>上同又干葛韻</note></chr>
+			<chr><glyph>酇</glyph><note>又干笴歌韻</note></chr>
+			<chr><glyph>灒</glyph></chr>
+			<chr><glyph>濺</glyph><note>上同又鞬建韻</note></chr>
+			<chr><glyph>淺</glyph><note>上同又鞬寋建韻</note></chr>
+			<chr><glyph>湔</glyph><note>上同又笴鞬韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·자ᇙ</head>
+			<chr><glyph>拶</glyph></chr>
+			<chr><glyph>札</glyph><note>又本韻</note></chr>
+			<chr><glyph>紥</glyph></chr>
+			<chr><glyph>扎</glyph><note>又本韻</note></chr>
+<page n="38a"/>
+			<chr><glyph>蚻</glyph></chr>
+			<chr><glyph>𧕾</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<syllable tone="level"><!--평성-->
+			<head>찬</head>
+			<chr><glyph>餐</glyph><note>又昆韻</note></chr>
+			<chr><glyph>䬸</glyph><note>上同</note></chr>
+			<chr><glyph>飡</glyph><note>上同</note></chr>
+			<chr><glyph>囋</glyph><note>上同又旰葛韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:찬</head>
+			<chr><glyph>剗</glyph><note>又旰韻</note></chr>
+			<chr><glyph>鏟</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>丳</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·찬</head>
+			<chr><glyph>粲</glyph></chr>
+			<chr><glyph>燦</glyph></chr>
+			<chr><glyph>璨</glyph></chr>
+			<chr><glyph>㛑</glyph></chr>
+			<chr><glyph>鏟</glyph><note>又笴韻二</note></chr>
+			<chr><glyph>剗</glyph><note>又笴韻</note></chr>
+			<chr><glyph>剷</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·차ᇙ</head>
+			<chr><glyph>攃</glyph><note>又本韻</note></chr>
+			<chr><glyph>察</glyph></chr>
+			<chr><glyph>䕓</glyph></chr>
+			<chr><glyph>䶪</glyph></chr>
+			<chr><glyph>刹</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>짠</head>
+			<chr><glyph>戔</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>殘</glyph></chr>
+			<chr><glyph>[歺+戔]</glyph><note>上同</note></chr>
+			<chr><glyph>𥂫</glyph></chr>
+			<chr><glyph>潺</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>孱</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>虦</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:짠</head>
+			<chr><glyph>瓚</glyph><note>又旰韻</note></chr>
+			<chr><glyph>棧</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>轏</glyph></chr>
+			<chr><glyph>僝</glyph><note>又旰韻</note></chr>
+			<chr><glyph>虥</glyph><note>又旰韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·짠</head>
+			<chr><glyph>瓚</glyph><note>又笴韻</note></chr>
+			<chr><glyph>棧</glyph><note>又笴韻二</note></chr>
+			<chr><glyph>[前$木]</glyph><note>上同又鞬韻</note></chr>
+<page n="38b"/>
+			<chr><glyph>輚</glyph></chr>
+			<chr><glyph>虥</glyph><note>又笴韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·짜ᇙ</head>
+			<chr><glyph>巀</glyph><note>又訐韻</note></chr>
+			<chr><glyph>𡂐</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>囐</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>[口+卉]</glyph><note>上同</note></chr>
+			<chr><glyph>𠶿</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>啐</glyph><note>上同又屈儈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="戌"><!--戌母-->
+		<syllable tone="level"><!--평성-->
+			<head>산</head>
+			<chr><glyph>珊</glyph></chr>
+			<chr><glyph>跚</glyph></chr>
+			<chr><glyph>姍</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>𦙱</glyph></chr>
+			<chr><glyph>[笧+刂]</glyph></chr>
+			<chr><glyph>散</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>刪</glyph></chr>
+			<chr><glyph>潸</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>訕</glyph><note>又旰韻</note></chr>
+			<chr><glyph>山</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:산</head>
+			<chr><glyph>散</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>饊</glyph><note>又旰韻</note></chr>
+			<chr><glyph>繖</glyph><note>又旰韻</note></chr>
+			<chr><glyph>𢄻</glyph><note>上同</note></chr>
+			<chr><glyph>𡙫</glyph><note>上同</note></chr>
+			<chr><glyph>傘</glyph><note>上同</note></chr>
+			<chr><glyph>潸</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>産</glyph></chr>
+			<chr><glyph>簅</glyph></chr>
+			<chr><glyph>嵼</glyph></chr>
+			<chr><glyph>滻</glyph></chr>
+			<chr><glyph>㹌</glyph></chr>
+			<chr><glyph>汕</glyph><note>又旰韻</note></chr>
+			<chr><glyph>鏟</glyph><note>又本韻旰韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·산</head>
+			<chr><glyph>散</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>繖</glyph><note>又笴韻</note></chr>
+			<chr><glyph>饊</glyph><note>又笴韻</note></chr>
+			<chr><glyph>訕</glyph><note>又干韻</note></chr>
+			<chr><glyph>汕</glyph><note>又笴韻</note></chr>
+<page n="39a"/>
+			<chr><glyph>潸</glyph><note>又干笴韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·사ᇙ</head>
+			<chr><glyph>躠</glyph></chr>
+			<chr><glyph>蹩</glyph><note>上同</note></chr>
+			<chr><glyph>蔡</glyph><note>又蓋韻</note></chr>
+			<chr><glyph>攃</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>撒</glyph><note>上同</note></chr>
+			<chr><glyph>摋</glyph></chr>
+			<chr><glyph>殺</glyph><note>又本韻訐恣蓋罽韻</note></chr>
+			<chr><glyph>薩</glyph></chr>
+			<chr><glyph>殺</glyph><note>又本韻訐恣蓋罽韻</note></chr>
+			<chr><glyph>煞</glyph><note>上同又恣蓋韻</note></chr>
+			<chr><glyph>閷</glyph><note>上同又蓋罽韻</note></chr>
+			<chr><glyph>[釒+殺]</glyph><note>又訐蓋韻</note></chr>
+			<chr><glyph>𨭝</glyph><note>上同</note></chr>
+			<chr><glyph>樧</glyph></chr>
+			<chr><glyph>蔱</glyph><note>上同</note></chr>
+			<chr><glyph>𧜁</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅡᆫ</head>
+			<chr><glyph>安</glyph></chr>
+			<chr><glyph>鞍</glyph></chr>
+			<chr><glyph>黫</glyph></chr>
+			<chr><glyph>黰</glyph><note>上同</note></chr>
+			<chr><glyph>𪐜</glyph><note>上同</note></chr>
+			<chr><glyph>殷</glyph><note>又根懇艮鞬韻</note></chr>
+		</syllable>
+		<!--'ᅙᅡᆫ'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᅡᆫ</head>
+			<chr><glyph>按</glyph><note>又葛韻</note></chr>
+			<chr><glyph>案</glyph></chr>
+			<chr><glyph>桉</glyph><note>上同</note></chr>
+			<chr><glyph>晏</glyph><note>又建韻</note></chr>
+			<chr><glyph>鷃</glyph></chr>
+			<chr><glyph>鴳</glyph><note>上同又覺韻</note></chr>
+			<chr><glyph>䳛</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᅡᇙ</head>
+			<chr><glyph>遏</glyph></chr>
+			<chr><glyph>餲</glyph><note>又蓋罽韻</note></chr>
+			<chr><glyph>靄</glyph><note>又紫恣蓋韻</note></chr>
+			<chr><glyph>䨠</glyph><note>上同又蓋韻</note></chr>
+			<chr><glyph>頞</glyph></chr>
+			<chr><glyph>齃</glyph><note>上同</note></chr>
+<page n="39b"/>
+			<chr><glyph>按</glyph><note>又旰韻</note></chr>
+			<chr><glyph>閼</glyph><note>又訐韻</note></chr>
+			<chr><glyph>堨</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>軋</glyph></chr>
+			<chr><glyph>札</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>圠</glyph></chr>
+			<chr><glyph>揠</glyph></chr>
+			<chr><glyph>扎</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>乙</glyph><note>又訖韻</note></chr>
+			<chr><glyph>鳦</glyph><note>上同又訖韻</note></chr>
+			<chr><glyph>䝟</glyph></chr>
+			<chr><glyph>䦪</glyph><note>又本韻</note></chr>
+			<chr><glyph>𡇼</glyph><note>又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>한</head>
+			<chr><glyph>暵</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>熯</glyph><note>上同又笴旰韻寋韻二</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:한</head>
+			<chr><glyph>䍐</glyph></chr>
+			<chr><glyph>暵</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>熯</glyph><note>上同又干旰韻寋韻二</note></chr>
+			<chr><glyph>焊</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·한</head>
+			<chr><glyph>漢</glyph></chr>
+			<chr><glyph>暵</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>熯</glyph><note>上同又干笴韻寋韻二</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·하ᇙ</head>
+			<chr><glyph>喝</glyph><note>又蓋韻</note></chr>
+			<chr><glyph>𡀽</glyph><note>上同</note></chr>
+			<chr><glyph>猲</glyph><note>又訐閤韻</note></chr>
+			<chr><glyph>𤢔</glyph><note>上同又訐韻</note></chr>
+			<chr><glyph>獦</glyph><note>上同</note></chr>
+			<chr><glyph>愒</glyph><note>又訐蓋罽韻</note></chr>
+			<chr><glyph>曷</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>傄</glyph></chr>
+			<chr><glyph>瞎</glyph></chr>
+<page n="40a"/>
+			<chr><glyph>𥈎</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅡᆫ</head>
+			<chr><glyph>寒</glyph></chr>
+			<chr><glyph>韓</glyph></chr>
+			<chr><glyph>榦</glyph><note>又旰韻</note></chr>
+			<chr><glyph>幹</glyph><note>上同又笴旰韻</note></chr>
+			<chr><glyph>翰</glyph><note>又旰韻</note></chr>
+			<chr><glyph>䮧</glyph></chr>
+			<chr><glyph>豻</glyph><note>又旰韻</note></chr>
+			<chr><glyph>犴</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>汗</glyph><note>又旰韻</note></chr>
+			<chr><glyph>邗</glyph></chr>
+			<chr><glyph>邯</glyph><note>又甘韻</note></chr>
+			<chr><glyph>閑</glyph></chr>
+			<chr><glyph>閒</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>嫺</glyph><note>又本韻</note></chr>
+			<chr><glyph>嫻</glyph><note>上同</note></chr>
+			<chr><glyph>憪</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𢡿</glyph><note>上同</note></chr>
+			<chr><glyph>𥊺</glyph></chr>
+			<chr><glyph>癇</glyph></chr>
+			<chr><glyph>嫺</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𤺛</glyph><note>上同</note></chr>
+			<chr><glyph>鷴</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᅡᆫ</head>
+			<chr><glyph>旱</glyph><note>又旰韻</note></chr>
+			<chr><glyph>悍</glyph><note>又旰韻</note></chr>
+			<chr><glyph>限</glyph><note>又懇韻</note></chr>
+			<chr><glyph>䦘</glyph></chr>
+			<chr><glyph>僩</glyph></chr>
+			<chr><glyph>憪</glyph><note>又干韻</note></chr>
+			<chr><glyph>撊</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅘᅡᆫ</head>
+			<chr><glyph>翰</glyph><note>又干韻</note></chr>
+			<chr><glyph>瀚</glyph></chr>
+			<chr><glyph>澣</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>扞</glyph></chr>
+			<chr><glyph>捍</glyph><note>上同</note></chr>
+			<chr><glyph>干</glyph><note>上同又本韻干韻</note></chr>
+			<chr><glyph>釬</glyph></chr>
+			<chr><glyph>銲</glyph><note>上同</note></chr>
+			<chr><glyph>汗</glyph><note>又干韻</note></chr>
+<page n="40b"/>
+			<chr><glyph>閈</glyph></chr>
+			<chr><glyph>旱</glyph><note>又笴韻</note></chr>
+			<chr><glyph>駻</glyph></chr>
+			<chr><glyph>𤿧</glyph></chr>
+			<chr><glyph>悍</glyph><note>又笴韻</note></chr>
+			<chr><glyph>垾</glyph></chr>
+			<chr><glyph>莧</glyph><note>又建韻</note></chr>
+			<chr><glyph>骭</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅘᅡᇙ</head>
+			<chr><glyph>曷</glyph><note>又本韻</note></chr>
+			<chr><glyph>害</glyph><note>上同又蓋韻</note></chr>
+			<chr><glyph>褐</glyph></chr>
+			<chr><glyph>鞨</glyph><note>又本韻</note></chr>
+			<chr><glyph>毼</glyph></chr>
+			<chr><glyph>鶡</glyph><note>又覺君韻</note></chr>
+			<chr><glyph>䳚</glyph><note>上同</note></chr>
+			<chr><glyph>轄</glyph><note>又本韻</note></chr>
+			<chr><glyph>螛</glyph></chr>
+			<chr><glyph>黠</glyph></chr>
+			<chr><glyph>舝</glyph></chr>
+			<chr><glyph>𢮟</glyph><note>上同</note></chr>
+			<chr><glyph>轄</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>鎋</glyph><note>上同</note></chr>
+			<chr><glyph>磍</glyph></chr>
+			<chr><glyph>䦖</glyph></chr>
+			<chr><glyph>䦪</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>𡇼</glyph><note>又本韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>란</head>
+			<chr><glyph>闌</glyph></chr>
+			<chr><glyph>蘭</glyph></chr>
+			<chr><glyph>籣</glyph></chr>
+			<chr><glyph>䪍</glyph><note>上同</note></chr>
+			<chr><glyph>瀾</glyph><note>又旰韻</note></chr>
+			<chr><glyph>欄</glyph><note>又建韻</note></chr>
+			<chr><glyph>爛</glyph><note>又旰韻</note></chr>
+			<chr><glyph>𠓚</glyph><note>上同</note></chr>
+			<chr><glyph>讕</glyph><note>又笴旰韻</note></chr>
+			<chr><glyph>譋</glyph><note>上同又笴旰韻</note></chr>
+			<chr><glyph>躝</glyph></chr>
+			<chr><glyph>幱</glyph></chr>
+			<chr><glyph>襴</glyph><note>上同</note></chr>
+			<chr><glyph>欗</glyph></chr>
+			<chr><glyph>灡</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𨷻</glyph></chr>
+			<chr><glyph>斕</glyph></chr>
+			<chr><glyph>𣁣</glyph><note>上同</note></chr>
+<page n="41a"/>
+			<chr><glyph>瞵</glyph><note>上同又根艮韻</note></chr>
+			<chr><glyph>潾</glyph><note>又根艮韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:란</head>
+			<chr><glyph>嬾</glyph></chr>
+			<chr><glyph>懶</glyph><note>上同</note></chr>
+			<chr><glyph>孏</glyph><note>上同</note></chr>
+			<chr><glyph>[忄+柬]</glyph><note>上同</note></chr>
+			<chr><glyph>㦨</glyph><note>上同</note></chr>
+			<chr><glyph>孄</glyph><note>上同</note></chr>
+			<chr><glyph>讕</glyph><note>又干旰韻</note></chr>
+			<chr><glyph>譋</glyph><note>上同又干旰韻</note></chr>
+			<chr><glyph>㘓</glyph><note>上同</note></chr>
+			<chr><glyph>灡</glyph><note>又干韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·란</head>
+			<chr><glyph>爛</glyph><note>又干韻</note></chr>
+			<chr><glyph>𤏐</glyph><note>上同</note></chr>
+			<chr><glyph>煉</glyph><note>上同又建韻</note></chr>
+			<chr><glyph>瀾</glyph><note>又干韻</note></chr>
+			<chr><glyph>讕</glyph><note>又干笴韻</note></chr>
+			<chr><glyph>譋</glyph><note>上同又干笴韻</note></chr>
+			<chr><glyph>諫</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>瓓</glyph></chr>
+			<chr><glyph>糷</glyph></chr>
+			<chr><glyph>𥽭</glyph><note>上同</note></chr>
+			<chr><glyph>𥻂</glyph><note>上同</note></chr>
+			<chr><glyph>連</glyph><note>又鞬寋韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·라ᇙ</head>
+			<chr><glyph>剌</glyph></chr>
+			<chr><glyph>辢</glyph></chr>
+			<chr><glyph>辣</glyph><note>上同</note></chr>
+			<chr><glyph>糲</glyph><note>又蓋罽韻</note></chr>
+			<chr><glyph>𥻃</glyph><note>上同</note></chr>
+		</syllable>
+	</onset>
+</nucleus>
+<nucleus type="ㅘ">
+	<onset type="君"><!--君母-->
+		<syllable tone="level"><!--평성-->
+			<head>관</head>
+			<chr><glyph>官</glyph></chr>
+			<chr><glyph>倌</glyph><note>又旰韻</note></chr>
+			<chr><glyph>涫</glyph><note>又旰韻</note></chr>
+			<chr><glyph>棺</glyph><note>又旰韻</note></chr>
+			<chr><glyph>觀</glyph><note>又旰韻</note></chr>
+<page n="41b"/>
+			<chr><glyph>冠</glyph><note>又旰韻</note></chr>
+			<chr><glyph>𢃙</glyph><note>上同</note></chr>
+			<chr><glyph>莞</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𦼍</glyph><note>上同</note></chr>
+			<chr><glyph>菅</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>貫</glyph><note>又本韻旰韻二</note></chr>
+			<chr><glyph>關</glyph><note>又本韻</note></chr>
+			<chr><glyph>𨳡</glyph><note>上同</note></chr>
+			<chr><glyph>擐</glyph><note>又旰韻</note></chr>
+			<chr><glyph>癏</glyph></chr>
+			<chr><glyph>瘝</glyph><note>上同</note></chr>
+			<chr><glyph>鰥</glyph><note>又昆衮韻</note></chr>
+			<chr><glyph>矜</glyph><note>又揯韻</note></chr>
+			<chr><glyph>綸</glyph><note>又君韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:관</head>
+			<chr><glyph>管</glyph></chr>
+			<chr><glyph>琯</glyph><note>上同</note></chr>
+			<chr><glyph>錧</glyph></chr>
+			<chr><glyph>館</glyph><note>又旰韻</note></chr>
+			<chr><glyph>輨</glyph></chr>
+			<chr><glyph>痯</glyph><note>又旰韻</note></chr>
+			<chr><glyph>悹</glyph><note>又旰韻</note></chr>
+			<chr><glyph>悺</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>斡</glyph><note>又葛韻</note></chr>
+			<chr><glyph>盥</glyph><note>又旰韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·관</head>
+			<chr><glyph>貫</glyph><note>又本韻干韻二</note></chr>
+			<chr><glyph>鸛</glyph></chr>
+			<chr><glyph>觀</glyph><note>又干韻</note></chr>
+			<chr><glyph>灌</glyph></chr>
+			<chr><glyph>懽</glyph><note>又干韻</note></chr>
+			<chr><glyph>爟</glyph></chr>
+			<chr><glyph>烜</glyph><note>上同又鞬寋軌韻</note></chr>
+			<chr><glyph>[烜$木]</glyph><note>上同</note></chr>
+			<chr><glyph>瓘</glyph></chr>
+			<chr><glyph>矔</glyph></chr>
+			<chr><glyph>館</glyph><note>又笴韻</note></chr>
+			<chr><glyph>舘</glyph><note>上同</note></chr>
+			<chr><glyph>涫</glyph><note>又干韻</note></chr>
+			<chr><glyph>棺</glyph><note>又干韻</note></chr>
+			<chr><glyph>悹</glyph><note>又笴韻</note></chr>
+<page n="42a"/>
+			<chr><glyph>悺</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>痯</glyph><note>又笴韻</note></chr>
+			<chr><glyph>𤼐</glyph><note>上同</note></chr>
+			<chr><glyph>祼</glyph></chr>
+			<chr><glyph>淉</glyph><note>上同</note></chr>
+			<chr><glyph>果</glyph><note>上同又杲韻哿韻四</note></chr>
+			<chr><glyph>盥</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>冠</glyph><note>又干韻</note></chr>
+			<chr><glyph>慣</glyph></chr>
+			<chr><glyph>貫</glyph><note>上同又本韻干韻二</note></chr>
+			<chr><glyph>串</glyph><note>上同</note></chr>
+			<chr><glyph>遦</glyph><note>上同</note></chr>
+			<chr><glyph>摜</glyph></chr>
+			<chr><glyph>卝</glyph><note>又礦韻二</note></chr>
+			<chr><glyph>丱</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·과ᇙ</head>
+			<chr><glyph>括</glyph><note>又本韻</note></chr>
+			<chr><glyph>葀</glyph></chr>
+			<chr><glyph>栝</glyph></chr>
+			<chr><glyph>聒</glyph></chr>
+			<chr><glyph>佸</glyph><note>又本韻二</note></chr>
+			<chr><glyph>活</glyph><note>又本韻</note></chr>
+			<chr><glyph>[氵+䀨]</glyph><note>上同</note></chr>
+			<chr><glyph>𣸅</glyph><note>上同</note></chr>
+			<chr><glyph>适</glyph></chr>
+			<chr><glyph>筈</glyph></chr>
+			<chr><glyph>髺</glyph></chr>
+			<chr><glyph>鬠</glyph><note>上同又儈韻</note></chr>
+			<chr><glyph>鴰</glyph></chr>
+			<chr><glyph>檜</glyph><note>又儈韻</note></chr>
+			<chr><glyph>刮</glyph></chr>
+			<chr><glyph>捖</glyph><note>上同又干笴韻</note></chr>
+			<chr><glyph>劀</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="快"><!--快母-->
+		<syllable tone="level"><!--평성-->
+			<head>콴</head>
+			<chr><glyph>[宀$莧]</glyph></chr>
+			<chr><glyph>寬</glyph><note>上同</note></chr>
+			<chr><glyph>髖</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:콴</head>
+			<chr><glyph>款</glyph></chr>
+			<chr><glyph>歀</glyph><note>上同</note></chr>
+			<chr><glyph>窾</glyph></chr>
+			<chr><glyph>梡</glyph><note>又本韻</note></chr>
+		</syllable>
+		<!--'콴'의 거성자는 없음-->
+		<syllable tone="entering"><!--입성-->
+			<head>·콰ᇙ</head>
+<page n="42b"/>
+			<chr><glyph>闊</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="業"><!--業母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅌᅪᆫ</head>
+			<chr><glyph>岏</glyph></chr>
+			<chr><glyph>忨</glyph></chr>
+			<chr><glyph>蚖</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>刓</glyph></chr>
+			<chr><glyph>㝴</glyph><note>上同</note></chr>
+			<chr><glyph>园</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>抏</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>羱</glyph></chr>
+			<chr><glyph>𦍼</glyph><note>上同</note></chr>
+			<chr><glyph>𦍘</glyph><note>上同</note></chr>
+			<chr><glyph>頑</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅌᅪᆫ</head>
+			<chr><glyph>輐</glyph><note>又旰韻</note></chr>
+			<chr><glyph>魧</glyph><note>上同又鞬韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅌᅪᆫ</head>
+			<chr><glyph>玩</glyph></chr>
+			<chr><glyph>貦</glyph><note>上同</note></chr>
+			<chr><glyph>翫</glyph></chr>
+			<chr><glyph>抏</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>妧</glyph></chr>
+			<chr><glyph>輐</glyph><note>又笴韻</note></chr>
+			<chr><glyph>薍</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅌᅪᇙ</head>
+			<chr><glyph>刖</glyph><note>又骨訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="斗"><!--斗母-->
+		<syllable tone="level"><!--평성-->
+			<head>돤</head>
+			<chr><glyph>耑</glyph><note>又寋韻</note></chr>
+			<chr><glyph>端</glyph></chr>
+			<chr><glyph>𧤗</glyph></chr>
+			<chr><glyph>褍</glyph></chr>
+			<chr><glyph>剬</glyph><note>又寋韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:돤</head>
+			<chr><glyph>短</glyph></chr>
+			<chr><glyph>斷</glyph><note>又本韻旰韻二</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·돤</head>
+			<chr><glyph>鍛</glyph></chr>
+			<chr><glyph>煅</glyph><note>上同</note></chr>
+			<chr><glyph>碫</glyph></chr>
+			<chr><glyph>腶</glyph></chr>
+			<chr><glyph>斷</glyph><note>又本韻笴韻二</note></chr>
+			<chr><glyph>段</glyph><note>又本韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·돠ᇙ</head>
+<page n="43a"/>
+			<chr><glyph>掇</glyph></chr>
+			<chr><glyph>剟</glyph><note>又訐韻</note></chr>
+			<chr><glyph>敪</glyph></chr>
+			<chr><glyph>毲</glyph></chr>
+			<chr><glyph>咄</glyph></chr>
+			<chr><glyph>窡</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="呑"><!--呑母-->
+		<syllable tone="level"><!--평성-->
+			<head>퇀</head>
+			<chr><glyph>湍</glyph></chr>
+			<chr><glyph>煓</glyph></chr>
+			<chr><glyph>貒</glyph></chr>
+			<chr><glyph>猯</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:퇀</head>
+			<chr><glyph>疃</glyph></chr>
+			<chr><glyph>畽</glyph><note>上同又衮韻</note></chr>
+			<chr><glyph>墥</glyph><note>上同</note></chr>
+			<chr><glyph>𤲫</glyph><note>上同</note></chr>
+			<chr><glyph>䠪</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·퇀</head>
+			<chr><glyph>彖</glyph></chr>
+			<chr><glyph>褖</glyph></chr>
+			<chr><glyph>緣</glyph><note>上同又鞬建韻</note></chr>
+			<chr><glyph>稅</glyph><note>上同又葛儈罽韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·톼ᇙ</head>
+			<chr><glyph>侻</glyph></chr>
+			<chr><glyph>挩</glyph></chr>
+			<chr><glyph>[禾+兊]</glyph><note>上同又旰儈罽韻</note></chr>
+			<chr><glyph>說</glyph><note>上同又訐韻二罽韻</note></chr>
+			<chr><glyph>脫</glyph><note>又本韻儈韻</note></chr>
+			<chr><glyph>梲</glyph><note>又訐罽韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="覃"><!--覃母-->
+		<syllable tone="level"><!--평성-->
+			<head>똰</head>
+			<chr><glyph>團</glyph></chr>
+			<chr><glyph>專</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>园</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>塼</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>漙</glyph></chr>
+			<chr><glyph>𩅂</glyph><note>上同</note></chr>
+			<chr><glyph>𩃘</glyph><note>上同</note></chr>
+			<chr><glyph>𣶣</glyph><note>上同</note></chr>
+			<chr><glyph>慱</glyph></chr>
+			<chr><glyph>摶</glyph><note>又寋建韻</note></chr>
+			<chr><glyph>𢮨</glyph><note>上同</note></chr>
+<page n="43b"/>
+			<chr><glyph>㩛</glyph><note>上同</note></chr>
+			<chr><glyph>鷒</glyph></chr>
+			<chr><glyph>篿</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>敦</glyph><note>又昆韻二衮睔君攟韻高韻二誥傀儈韻</note></chr>
+			<chr><glyph>揣</glyph><note>上同又軌哿韻</note></chr>
+			<chr><glyph>鷻</glyph></chr>
+			<chr><glyph>[享+鳥]</glyph><note>上同又君韻</note></chr>
+			<chr><glyph>𪆃</glyph><note>上同</note></chr>
+			<chr><glyph>剸</glyph><note>又鞬寋建韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:똰</head>
+			<chr><glyph>斷</glyph><note>又本韻旰韻二</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·똰</head>
+			<chr><glyph>段</glyph><note>又本韻</note></chr>
+			<chr><glyph>椵</glyph></chr>
+			<chr><glyph>毈</glyph></chr>
+			<chr><glyph>斷</glyph><note>又本韻笴韻二</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·똬ᇙ</head>
+			<chr><glyph>奪</glyph><note>又儈韻</note></chr>
+			<chr><glyph>敓</glyph><note>上同</note></chr>
+			<chr><glyph>脫</glyph><note>又本韻儈韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="那"><!--那母-->
+		<syllable tone="level"><!--평성-->
+			<head>놘</head>
+			<chr><glyph>渜</glyph></chr>
+			<chr><glyph>濡</glyph><note>上同又寋貲拘韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:놘</head>
+			<chr><glyph>煖</glyph><note>又寋韻</note></chr>
+			<chr><glyph>暖</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>㬉</glyph><note>上同</note></chr>
+			<chr><glyph>愞</glyph><note>又旰寋建箇拘韻</note></chr>
+			<chr><glyph>餪</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·놘</head>
+			<chr><glyph>愞</glyph><note>又笴寋建箇拘韻</note></chr>
+			<chr><glyph>耎</glyph><note>上同又寋韻</note></chr>
+			<chr><glyph>懦</glyph><note>上同又寋建箇拘韻</note></chr>
+<page n="44a"/>
+			<chr><glyph>需</glyph><note>上同又寋拘韻</note></chr>
+			<chr><glyph>燸</glyph><note>上同</note></chr>
+			<chr><glyph>糯</glyph><note>又箇韻</note></chr>
+			<chr><glyph>壖</glyph><note>又鞬建箇韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·놔ᇙ</head>
+			<chr><glyph>豽</glyph></chr>
+			<chr><glyph>𤜽</glyph><note>上同</note></chr>
+			<chr><glyph>妠</glyph><note>又閤韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="即"><!--即母-->
+		<syllable tone="level"><!--평성-->
+			<head>좐</head>
+			<chr><glyph>鑚</glyph><note>又旰韻</note></chr>
+			<chr><glyph>櫕</glyph><note>又本韻笴旰韻</note></chr>
+			<chr><glyph>跧</glyph><note>又君鞬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:좐</head>
+			<chr><glyph>纂</glyph></chr>
+			<chr><glyph>[莫$系]</glyph><note>上同</note></chr>
+			<chr><glyph>𦆈</glyph><note>上同</note></chr>
+			<chr><glyph>纉</glyph></chr>
+			<chr><glyph>𥎞</glyph></chr>
+			<chr><glyph>鐏</glyph><note>上同又睔韻</note></chr>
+			<chr><glyph>櫕</glyph><note>又干韻二旰韻</note></chr>
+			<chr><glyph>鄼</glyph><note>又干旰歌韻</note></chr>
+			<chr><glyph>儧</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·좐</head>
+			<chr><glyph>鑚</glyph><note>又干韻</note></chr>
+			<chr><glyph>櫕</glyph><note>上同又干韻二笴韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·좌ᇙ</head>
+			<chr><glyph>繓</glyph></chr>
+			<chr><glyph>撮</glyph><note>又本韻</note></chr>
+			<chr><glyph>攥</glyph></chr>
+			<chr><glyph>茁</glyph><note>又屈訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="侵"><!--侵母-->
+		<!--'촨'의 평성자는 없음-->
+		<!--'촨'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·촨</head>
+			<chr><glyph>竄</glyph><note>又儈韻</note></chr>
+			<chr><glyph>𥨒</glyph><note>上同又儈韻</note></chr>
+			<chr><glyph>攛</glyph></chr>
+			<chr><glyph>㸑</glyph></chr>
+			<chr><glyph>熶</glyph><note>上同</note></chr>
+			<chr><glyph>簒</glyph></chr>
+			<chr><glyph>𢸥</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·촤ᇙ</head>
+<page n="44b"/>
+			<chr><glyph>撮</glyph><note>又本韻</note></chr>
+			<chr><glyph>襊</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="慈"><!--慈母-->
+		<syllable tone="level"><!--평성-->
+			<head>쫜</head>
+			<chr><glyph>櫕</glyph><note>又本韻笴旰韻</note></chr>
+			<chr><glyph>𥣪</glyph></chr>
+			<chr><glyph>𥣚</glyph><note>上同</note></chr>
+			<chr><glyph>櫕</glyph><note>又旰韻</note></chr>
+			<chr><glyph>㠝</glyph></chr>
+			<chr><glyph>鄼</glyph><note>又笴旰歌韻</note></chr>
+			<chr><glyph>菆</glyph><note>又鳩韻</note></chr>
+			<chr><glyph>挫</glyph><note>上同又箇韻二</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:쫜</head>
+			<chr><glyph>撰</glyph><note>又本韻旰寋建韻</note></chr>
+			<chr><glyph>篹</glyph><note>上同又本韻旰韻</note></chr>
+			<chr><glyph>譔</glyph><note>上同又本韻旰鞬韻</note></chr>
+			<chr><glyph>巽</glyph><note>上同</note></chr>
+			<chr><glyph>饌</glyph><note>又旰寋韻</note></chr>
+			<chr><glyph>𦠆</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>籑</glyph><note>上同又攈韻</note></chr>
+			<chr><glyph>譔</glyph><note>又本韻旰鞬韻</note></chr>
+			<chr><glyph>篹</glyph><note>上同</note></chr>
+			<chr><glyph>僎</glyph><note>又旰君韻</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·쫜</head>
+			<chr><glyph>攅</glyph><note>又干韻</note></chr>
+			<chr><glyph>饌</glyph><note>又笴寋韻</note></chr>
+			<chr><glyph>𦠆</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>襈</glyph></chr>
+			<chr><glyph>撰</glyph><note>又笴韻二寋建韻</note></chr>
+			<chr><glyph>篹</glyph><note>上同又笴韻二</note></chr>
+			<chr><glyph>僎</glyph><note>又笴君韻</note></chr>
+			<chr><glyph>僝</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>譔</glyph><note>又笴韻二鞬韻</note></chr>
+		</syllable>
+		<!--'쫜'의 입성자는 없음-->
+	</onset>
+	<onset type="戌"><!--戌母-->
+<page n="45a"/>
+		<syllable tone="level"><!--평성-->
+			<head>솬</head>
+			<chr><glyph>酸</glyph></chr>
+			<chr><glyph>狻</glyph></chr>
+			<chr><glyph>䝜</glyph><note>上同</note></chr>
+			<chr><glyph>𪊴</glyph><note>上同</note></chr>
+			<chr><glyph>𩆑</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:솬</head>
+			<chr><glyph>算</glyph><note>又旰韻</note></chr>
+			<chr><glyph>選</glyph><note>上同又葛寋建韻</note></chr>
+			<chr><glyph>撰</glyph><note>上同又本韻旰寋建韻</note></chr>
+			<chr><glyph>篹</glyph><note>又本韻旰韻</note></chr>
+			<chr><glyph>[算$昷]</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·솬</head>
+			<chr><glyph>筭</glyph></chr>
+			<chr><glyph>算</glyph><note>上同又笴韻</note></chr>
+			<chr><glyph>笇</glyph></chr>
+			<chr><glyph>𥳪</glyph><note>上同</note></chr>
+			<chr><glyph>蒜</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·솨ᇙ</head>
+			<chr><glyph>刷</glyph><note>又訐韻</note></chr>
+			<chr><glyph>選</glyph><note>又笴寋建韻</note></chr>
+			<chr><glyph>率</glyph><note>上同又骨屈韻媿韻二</note></chr>
+		</syllable>
+	</onset>
+	<onset type="挹"><!--挹母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅙᅪᆫ</head>
+			<chr><glyph>剜</glyph></chr>
+			<chr><glyph>𠛠</glyph><note>上同</note></chr>
+			<chr><glyph>蜿</glyph><note>又鞬寋韻</note></chr>
+			<chr><glyph>䖤</glyph><note>上同又鞬寋韻</note></chr>
+			<chr><glyph>眢</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>豌</glyph></chr>
+			<chr><glyph>彎</glyph></chr>
+			<chr><glyph>關</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>貫</glyph><note>上同又本韻旰韻二</note></chr>
+			<chr><glyph>灣</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅙᅪᆫ</head>
+			<chr><glyph>盌</glyph></chr>
+			<chr><glyph>埦</glyph><note>上同</note></chr>
+			<chr><glyph>椀</glyph><note>上同</note></chr>
+			<chr><glyph>綰</glyph><note>又旰韻</note></chr>
+		</syllable>
+<page n="45b"/>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅙᅪᆫ</head>
+			<chr><glyph>惋</glyph></chr>
+			<chr><glyph>腕</glyph></chr>
+			<chr><glyph>捥</glyph><note>上同</note></chr>
+			<chr><glyph>掔</glyph><note>上同又鞬韻二建韻</note></chr>
+			<chr><glyph>𢫪</glyph><note>上同</note></chr>
+			<chr><glyph>𢪸</glyph><note>上同</note></chr>
+			<chr><glyph>𦙵</glyph><note>上同</note></chr>
+			<chr><glyph>𢮘</glyph><note>上同</note></chr>
+			<chr><glyph>綰</glyph><note>又笴韻</note></chr>
+			<chr><glyph>綄</glyph><note>上同又干韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅙᅪᇙ</head>
+			<chr><glyph>斡</glyph><note>又笴韻</note></chr>
+			<chr><glyph>捾</glyph></chr>
+			<chr><glyph>婠</glyph></chr>
+			<chr><glyph>嗗</glyph></chr>
+		</syllable>
+	</onset>
+	<onset type="虗"><!--虗母-->
+		<syllable tone="level"><!--평성-->
+			<head>환</head>
+			<chr><glyph>歡</glyph></chr>
+			<chr><glyph>懽</glyph><note>上同又旰韻</note></chr>
+			<chr><glyph>驩</glyph><note>上同又本韻</note></chr>
+			<chr><glyph>驩</glyph><note>又本韻</note></chr>
+			<chr><glyph>讙</glyph><note>又旰鞬韻</note></chr>
+			<chr><glyph>𡅻</glyph><note>上同</note></chr>
+			<chr><glyph>貛</glyph></chr>
+			<chr><glyph>䝔</glyph><note>上同</note></chr>
+			<chr><glyph>獾</glyph><note>上同</note></chr>
+			<chr><glyph>貆</glyph><note>上同又本韻</note></chr>
+		</syllable>
+		<!--'환'의 상성자는 없음-->
+		<syllable tone="departing"><!--거성-->
+			<head>·환</head>
+			<chr><glyph>喚</glyph></chr>
+			<chr><glyph>嚾</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>讙</glyph><note>上同又干鞬韻</note></chr>
+			<chr><glyph>渙</glyph></chr>
+			<chr><glyph>煥</glyph></chr>
+			<chr><glyph>奐</glyph></chr>
+			<chr><glyph>漶</glyph><note>又笴韻</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·화ᇙ</head>
+			<chr><glyph>豁</glyph></chr>
+			<chr><glyph>濊</glyph><note>又儈罽韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="洪"><!--洪母-->
+		<syllable tone="level"><!--평성-->
+			<head>ᅘᅪᆫ</head>
+			<chr><glyph>桓</glyph></chr>
+			<chr><glyph>峘</glyph></chr>
+<page n="46a"/>
+			<chr><glyph>𡴿</glyph><note>上同</note></chr>
+			<chr><glyph>𡷗</glyph><note>上同</note></chr>
+			<chr><glyph>𡷆</glyph><note>上同</note></chr>
+			<chr><glyph>[九+山]</glyph><note>上同</note></chr>
+			<chr><glyph>洹</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>絙</glyph><note>又揯亙韻</note></chr>
+			<chr><glyph>貆</glyph><note>又本韻</note></chr>
+			<chr><glyph>荁</glyph></chr>
+			<chr><glyph>完</glyph></chr>
+			<chr><glyph>綄</glyph><note>又旰韻</note></chr>
+			<chr><glyph>捖</glyph><note>又笴葛韻</note></chr>
+			<chr><glyph>丸</glyph></chr>
+			<chr><glyph>芄</glyph></chr>
+			<chr><glyph>汍</glyph></chr>
+			<chr><glyph>紈</glyph></chr>
+			<chr><glyph>䴟</glyph></chr>
+			<chr><glyph>萑</glyph><note>又嬀韻</note></chr>
+			<chr><glyph>[艹$佳]</glyph></chr>
+			<chr><glyph>瓛</glyph></chr>
+			<chr><glyph>豲</glyph></chr>
+			<chr><glyph>獂</glyph><note>上同</note></chr>
+			<chr><glyph>𧱂</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>還</glyph><note>又旰鞬建韻</note></chr>
+			<chr><glyph>寰</glyph></chr>
+			<chr><glyph>環</glyph><note>又旰韻</note></chr>
+			<chr><glyph>鐶</glyph></chr>
+			<chr><glyph>澴</glyph></chr>
+			<chr><glyph>轘</glyph><note>又旰韻</note></chr>
+			<chr><glyph>闤</glyph></chr>
+			<chr><glyph>鬟</glyph></chr>
+			<chr><glyph>圜</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>𩙽</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>䴉</glyph><note>上同又鞬韻</note></chr>
+			<chr><glyph>鍰</glyph></chr>
+			<chr><glyph>患</glyph><note>又旰韻</note></chr>
+			<chr><glyph>湲</glyph><note>又鞬韻</note></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:ᅘᅪᆫ</head>
+			<chr><glyph>緩</glyph></chr>
+			<chr><glyph>[素+爰]</glyph><note>上同</note></chr>
+			<chr><glyph>䁔</glyph><note>又鞬寋韻</note></chr>
+			<chr><glyph>澣</glyph><note>又旰韻</note></chr>
+			<chr><glyph>浣</glyph><note>上同</note></chr>
+			<chr><glyph>捖</glyph><note>又干葛韻</note></chr>
+			<chr><glyph>晥</glyph><note>又本韻</note></chr>
+			<chr><glyph>梡</glyph><note>又本韻</note></chr>
+			<chr><glyph>漶</glyph><note>又旰韻</note></chr>
+<page n="46b"/>
+			<chr><glyph>睅</glyph></chr>
+			<chr><glyph>晥</glyph><note>又本韻</note></chr>
+			<chr><glyph>皖</glyph></chr>
+			<chr><glyph>鋎</glyph></chr>
+			<chr><glyph>莞</glyph><note>又干韻</note></chr>
+			<chr><glyph>攌</glyph></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·ᅘᅪᆫ</head>
+			<chr><glyph>換</glyph></chr>
+			<chr><glyph>逭</glyph></chr>
+			<chr><glyph>[兆+雚]</glyph><note>上同</note></chr>
+			<chr><glyph>𨙕</glyph><note>上同</note></chr>
+			<chr><glyph>䠉</glyph><note>上同</note></chr>
+			<chr><glyph>患</glyph><note>又干韻</note></chr>
+			<chr><glyph>擐</glyph><note>又干韻</note></chr>
+			<chr><glyph>轘</glyph><note>又干韻</note></chr>
+			<chr><glyph>環</glyph><note>又干韻</note></chr>
+			<chr><glyph>還</glyph><note>上同又干鞬建韻</note></chr>
+			<chr><glyph>豢</glyph></chr>
+			<chr><glyph>圂</glyph><note>上同</note></chr>
+			<chr><glyph>㹖</glyph><note>上同</note></chr>
+			<chr><glyph>弮</glyph><note>又鞬韻</note></chr>
+			<chr><glyph>絭</glyph><note>上同又穀衮韻建韻二</note></chr>
+			<chr><glyph>宦</glyph></chr>
+			<chr><glyph>倌</glyph><note>上同又干韻</note></chr>
+			<chr><glyph>𠈄</glyph><note>上同</note></chr>
+			<chr><glyph>幻</glyph></chr>
+			<chr><glyph>眩</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·ᅘᅪᇙ</head>
+			<chr><glyph>活</glyph><note>又本韻</note></chr>
+			<chr><glyph>佸</glyph><note>又本韻二</note></chr>
+			<chr><glyph>括</glyph><note>又本韻</note></chr>
+			<chr><glyph>佸</glyph><note>上同又本韻二</note></chr>
+			<chr><glyph>越</glyph><note>又訐韻</note></chr>
+			<chr><glyph>滑</glyph><note>又骨韻二</note></chr>
+			<chr><glyph>猾</glyph></chr>
+			<chr><glyph>獪</glyph><note>上同又儈蓋韻</note></chr>
+			<chr><glyph>螖</glyph><note>又訐韻</note></chr>
+		</syllable>
+	</onset>
+	<onset type="閭"><!--閭母-->
+		<syllable tone="level"><!--평성-->
+			<head>롼</head>
+			<chr><glyph>鸞</glyph></chr>
+			<chr><glyph>鑾</glyph></chr>
+			<chr><glyph>巒</glyph></chr>
+<page n="47a"/>
+			<chr><glyph>欒</glyph></chr>
+			<chr><glyph>羉</glyph></chr>
+			<chr><glyph>圝</glyph></chr>
+			<chr><glyph>灤</glyph></chr>
+		</syllable>
+		<syllable tone="rising"><!--상성-->
+			<head>:롼</head>
+			<chr><glyph>卵</glyph><note>又昆韻</note></chr>
+			<chr><glyph>𡖉</glyph><note>上同</note></chr>
+		</syllable>
+		<syllable tone="departing"><!--거성-->
+			<head>·롼</head>
+			<chr><glyph>亂</glyph></chr>
+		</syllable>
+		<syllable tone="entering"><!--입성-->
+			<head>·롸ᇙ</head>
+			<chr><glyph>捋</glyph></chr>
+		</syllable>
+	</onset>
+</nucleus>
+</rhyme>
+<title>東國正韻卷之二</title>
+<page n="47b"/>
+</doc>

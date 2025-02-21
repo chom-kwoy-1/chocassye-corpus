@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<teiHeader>
+<titleStmt>
+<title>易言言解 卷一</title>
+<author>鄭觀應 원저, 역자미상</author>
+<date>1884년경</date>
+</titleStmt>
+<annosStmt>
+<bibl><title>이언언해(1)</title>
+<pubPlace>서울</pubPlace>
+<publisher>디지털한글박물관(국립중앙도서관 소장)</publisher>
+<date>미상</date>
+</bibl>
+</annosStmt>
+<revisionDesc>
+<date>2016/01/20</date>
+<respStmt>
+<resp>입력자</resp><name>장고은</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>이병기</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="서1a" n="1">序</sent>
+<sent type="title" lang="kor" page="서1a" n="1">셔</sent>
+<sent type="main" lang="chi" page="서1a" n="2">易言一書, 乃杞憂生盱衡時事, 思挽時局,</sent>
+<sent type="main" lang="kor" page="서1a" n="2">이언 일셔ᄂᆞᆫ 긔우ᄉᆡᆼ이 시셰 일을 ᄉᆞᆲ히고 져울질ᄒᆞ며 시셰 판국을 당긔기를 ᄉᆡᆼ각ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="서1a" n="3">幽愁積憤之所爲作也.</sent>
+<sent type="main" lang="kor" page="서1a" n="3">그윽이 근심ᄒᆞ고 격분ᄒᆞ야 지은 ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="서1a" n="4">凡目有所觸, 耳有所聞,</sent>
+<sent type="main" lang="kor" page="서1a" n="4">므릇 눈의 다다치ᄂᆞᆫ ᄇᆡ 잇고 귀의 들니ᄂᆞᆫ ᄇᆡ 이시면</sent>
+<sent type="main" lang="chi" page="서1a" n="5">黙識於心, 而深思其故,</sent>
+<sent type="main" lang="kor" page="서1a" n="5">ᄆᆞᄋᆞᆷ에 가마니 긔록ᄒᆞ야 그 곡졀을 깁히 ᄉᆡᆼ각ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="서1a" n="6">一朝怳然有得, 因揭其要, 以質於世.</sent>
+<sent type="main" lang="kor" page="서1a" n="6">일죠에 황연이 ᄭᆡ다라 인ᄒᆞ야 그 요긴ᄒᆞ믈 드러 셰샹의 질뎡ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서1a" n="7">其詞暢而不繁,</sent>
+<sent type="main" lang="kor" page="서1a" n="7">그 말ᄉᆞᆷ은 훤츨ᄒᆞ고 번다ᄒᆞ지 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="서1a" n="8">其意顯而不晦,</sent>
+<sent type="main" lang="kor" page="서1a" n="8">그 ᄯᅳᆺ은 현져ᄒᆞ고 모호ᄒᆞ지 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="서1a" n="9">據事臚陳, 直而無隱,</sent>
+<sent type="main" lang="kor" page="서1a" n="9">일마다 됴목으로 베플ᄆᆡ 졀직ᄒᆞ야 은휘ᄒᆞ미 업고</sent>
+<sent type="main" lang="chi" page="서1a-서1b" n="10">同條共貫, 切而不浮,</sent>
+<sent type="main" lang="kor" page="서1a-서1b" n="10">ᄀᆞᆺᄐᆞᆫ 됴건이 ᄒᆞᆷ긔 관통ᄒᆞᄆᆡ 졀실ᄒᆞ고 ^ 부허ᄒᆞ지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서1b" n="1">眞措諸世而有濟, 施諸今而可行者歟.</sent>
+<sent type="main" lang="kor" page="서1b" n="1">진ᄀᆡ 셰샹의 ᄡᅳ면 구졔ᄒᆞᆯ ᄇᆡ 잇고 이 ᄯᆡ에 베플면 가히 ᄒᆡᆼᄒᆞᆯ 만ᄒᆞᆫ 일인져</sent>
+<sent type="main" lang="chi" page="서1b" n="2">其曰易言者, 謙詞也.</sent>
+<sent type="main" lang="kor" page="서1b" n="2">ᄀᆞᆯ오ᄃᆡ 이언이라 ᄒᆞᄂᆞᆫ 거ᄉᆞᆫ 겸ᄉᆞᄒᆞᄂᆞᆫ 말이라</sent>
+<sent type="main" lang="chi" page="서1b" n="3">嘗從七千里外, 郵筒寄示,</sent>
+<sent type="main" lang="kor" page="서1b" n="3">일ᄌᆞᆨ 칠쳔 리 밧그로좃ᄎᆞ 글월을 븟쳐 보ᄂᆡ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="서1b" n="4">余讀未終, 卷而竊歎, ‘杞憂子, 爲今之有心人也.’</sent>
+<sent type="main" lang="kor" page="서1b" n="4">ᄂᆡ 바다 보기를 맛치지 못ᄒᆞ야 긔우ᄉᆡᆼ이 당금의 유심ᄒᆞᆫ 사ᄅᆞᆷ이믈 그윽이 탄복ᄒᆞ엿노라</sent>
+<sent type="main" lang="chi" page="서1b" n="5">夫識時務者, 爲俊傑,</sent>
+<sent type="main" lang="kor" page="서1b" n="5">대뎌 시무를 아ᄂᆞᆫ 쟈를 쥰걸이라 니르ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="서1b" n="6">懷寵利則鮮遠謀,</sent>
+<sent type="main" lang="kor" page="서1b" n="6">은춍과 리욕을 ᄉᆡᆼ각ᄒᆞᆫᄌᆞᆨ 원대ᄒᆞᆫ 모략이 드믈고</sent>
+<sent type="main" lang="chi" page="서1b" n="7">倖功名則多僨事,</sent>
+<sent type="main" lang="kor" page="서1b" n="7">공명을 요ᄒᆡᆼ으로 안ᄌᆞᆨ 일을 그릇ᄒᆞ미 만흘 거시오</sent>
+<sent type="main" lang="chi" page="서1b" n="8">性情偏執, 難以語變通,</sent>
+<sent type="main" lang="kor" page="서1b" n="8">셩졍이 일편도이 고집ᄒᆞ면 변통ᄒᆞ기를 말ᄒᆞ기 어렵고</sent>
+<sent type="main" lang="chi" page="서1b-서2a" n="9">才識迂疏, 難與言振作.</sent>
+<sent type="main" lang="kor" page="서1b-서2a" n="9">ᄌᆡ죠와 지식이 오소ᄒᆞ면 진^긔ᄒᆞᆯ 도리를 말ᄒᆞ기 어려오니</sent>
+<sent type="main" lang="chi" page="서2a" n="1">此賈長沙, 所以長爲太息, 以至痛哭流涕而不能已也.</sent>
+<sent type="main" lang="kor" page="서2a" n="1">이ᄂᆞᆫ 가쟝사[가의 쟝사의 구양 가므로 일ᄏᆞᄅᆞ미라]의 기리 탄식ᄒᆞ고 통곡ᄒᆞ며 눈물 흘니기에 니ᄅᆞᄃᆡ 능히 마지 못ᄒᆞᆫ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="서2a" n="2">方今天下多故, 事變靡常,</sent>
+<sent type="main" lang="kor" page="서2a" n="2">방금 텬하의 ᄉᆞ단이 만하 변괴 비샹ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서2a" n="3">外有類於癰疽之將成,</sent>
+<sent type="main" lang="kor" page="서2a" n="3">밧긔ᄂᆞᆫ 옹졔[죵긔 일홈] 쟝ᄎᆞᆺ 되ᄂᆞᆫ 모양 ᄀᆞᆺ고</sent>
+<sent type="main" lang="chi" page="서2a" n="4">內有同於癥瘕之潛積,</sent>
+<sent type="main" lang="kor" page="서2a" n="4">안에ᄂᆞᆫ 징개[젹긔병] 졈졈 ᄌᆞ라ᄂᆞᆫ 것 ᄀᆞᆺᄐᆞ여</sent>
+<sent type="main" lang="chi" page="서2a" n="5">元氣日耗, 痼疾日深,</sent>
+<sent type="main" lang="kor" page="서2a" n="5">원긔ᄂᆞᆫ ᄂᆞᆯ노 모손ᄒᆞ고 고질은 ᄂᆞᆯ노 짓터가니</sent>
+<sent type="main" lang="chi" page="서2a" n="6">失此不救, 必致不起.</sent>
+<sent type="main" lang="kor" page="서2a" n="6">이 ᄯᆡ를 일코 다ᄉᆞ리지 아니ᄒᆞ면 반ᄃᆞ시 소셩ᄒᆞ지 못ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="서2a" n="7">然良醫之治病也,</sent>
+<sent type="main" lang="kor" page="서2a" n="7">그러나 어진 의원이 병을 다ᄉᆞ리ᄆᆡ</sent>
+<sent type="main" lang="chi" page="서2a" n="8">非藥石雜投, 鍼炙錯施,</sent>
+<sent type="main" lang="kor" page="서2a" n="8">약을 분잡히 ᄡᅳ고 침 놋코 ᄯᅳᆷ질ᄒᆞ믈 셕위여 ᄡᅳ지 아니ᄒᆞ야도</sent>
+<sent type="main" lang="chi" page="서2a-서2b" n="9">便能著手成春, 沉疴頓失也.</sent>
+<sent type="main" lang="kor" page="서2a-서2b" n="9">능히 숀을 ᄃᆡ면 회츈ᄒᆞ게 ᄒᆞ야 오ᄅᆡᆫ 병을 돈연이 업^게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서2b" n="1">必審其致病之源, 計其受病之日,</sent>
+<sent type="main" lang="kor" page="서2b" n="1">반ᄃᆞ시 병든 근원을 ᄉᆞᆲ히고 병든 ᄂᆞᆯ을 혜여보와</sent>
+<sent type="main" lang="chi" page="서2b" n="2">因以知其病之淺深, 而分其病之表裏,</sent>
+<sent type="main" lang="kor" page="서2b" n="2">인ᄒᆞ야 병의 쳔심을 알며 병의 표리를 분간ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서2b" n="3">又復潛究天時之寒暑, 人體之壯弱, 藥性之溫辛,</sent>
+<sent type="main" lang="kor" page="서2b" n="3">ᄯᅩ 시령의 덥고 찬 것과 사ᄅᆞᆷ의 형톄의 웅장ᄒᆞ고 잔약ᄒᆞᆫ 것과 약 셩미의 온ᄒᆞ고 ᄅᆡᆼᄒᆞᆫ 거ᄉᆞᆯ 가마니 궁구ᄒᆞᆫ 연후의</sent>
+<sent type="main" lang="chi" page="서2b" n="4">然後宜攻者則攻之, 宜補者則補之,</sent>
+<sent type="main" lang="kor" page="서2b" n="4">ᄆᆞᆺ당히 ᄭᅡᆨ글 거ᄉᆞᆫ ᄭᅡᆨ고 ᄆᆞᆺ당히 보ᄒᆞᆯ 거ᄉᆞᆫ 보ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="서2b" n="5">豈徒掇拾古方, 妄投藥餌, 以徼倖於一朝哉.</sent>
+<sent type="main" lang="kor" page="서2b" n="5">엇지 녯 방셔만 거두어 모화 약 ᄡᅳ기를 망녕도이 ᄒᆞ야 요ᄒᆡᆼ 낫기를 바라랴</sent>
+<sent type="main" lang="chi" page="서2b" n="6">治國亦然,</sent>
+<sent type="main" lang="kor" page="서2b" n="6">나라 다ᄉᆞ리미 ᄯᅩᄒᆞᆫ 이 ᄀᆞᆺᄐᆞ니</sent>
+<sent type="main" lang="chi" page="서2b" n="7">世有古今, 勢有强弱,</sent>
+<sent type="main" lang="kor" page="서2b" n="7">셰샹은 고금이 다르고 시셰ᄂᆞᆫ 강약이 이시며</sent>
+<sent type="main" lang="chi" page="서2b" n="8">政有得失, 治有盛衰.</sent>
+<sent type="main" lang="kor" page="서2b" n="8">졍ᄉᆞᄂᆞᆫ 득실이 잇고 다ᄉᆞ리믄 셩쇠 이시니</sent>
+<sent type="main" lang="chi" page="서2b-서3a" n="9">若不因其時, 以圖補救,</sent>
+<sent type="main" lang="kor" page="서2b-서3a" n="9">만일 시셰를 인ᄒᆞ야 구폐ᄒᆞ기를 도모ᄒᆞ지 아니^ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="서3a" n="1">則是和緩倖獲良醫之名,</sent>
+<sent type="main" lang="kor" page="서3a" n="1">이ᄂᆞᆫ 화완[녯젹 용렬ᄒᆞᆫ 의원 일홈]이 요ᄒᆡᆼ 명의로 득명ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서3a" n="2">而唐虞之臣, 三代之佐, 與夫蕭曹諸葛房杜韓范之儔,</sent>
+<sent type="main" lang="kor" page="서3a" n="2">당우 삼ᄃᆡ에 신하와 쇼하 조참 졔갈량과 방현령 두여회와 한긔 범즁엄의 무리ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="서3a" n="3">無人不可與之競功比烈也.</sent>
+<sent type="main" lang="kor" page="서3a" n="3">죡히 더브러 공렬을 닷톨 사ᄅᆞᆷ이 업ᄉᆞ리라</sent>
+<sent type="main" lang="chi" page="서3a" n="4">昔扁鵲見秦武王,</sent>
+<sent type="main" lang="kor" page="서3a" n="4">녯젹의 편쟉이 진무왕ᄭᅴ 뵌ᄃᆡ</sent>
+<sent type="main" lang="chi" page="서3a" n="5">王示之病, 扁鵲請除.</sent>
+<sent type="main" lang="kor" page="서3a" n="5">왕이 병을 뵈거ᄂᆞᆯ 편쟉이 다ᄉᆞ리기ᄅᆞᆯ 쳥ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="chi" page="서3a" n="6">左右曰, “君之病, 除之, 未必已也.”</sent>
+<sent type="main" lang="kor" page="서3a" n="6">좌우 근시 ᄀᆞᆯ오ᄃᆡ 왕의 병은 다ᄉᆞ려도 하릴 증셰 아니로쇼이다</sent>
+<sent type="main" lang="chi" page="서3a" n="7">武王以告扁鵲,</sent>
+<sent type="main" lang="kor" page="서3a" n="7">무왕이 편쟉의게 이 말을 고ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="chi" page="서3a" n="8">扁鵲怒而投其石曰,</sent>
+<sent type="main" lang="kor" page="서3a" n="8">편쟉이 노ᄒᆞ야 폄셕[병쳐의 ᄧᅵᆷ질ᄒᆞᄂᆞᆫ 돌이라]을 더져 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="서3a" n="9">“君與知之者謀之,</sent>
+<sent type="main" lang="kor" page="서3a" n="9">왕이 아ᄂᆞᆫ 사ᄅᆞᆷ으로 더브러 의론ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서3a" n="10">而與不知者敗之,</sent>
+<sent type="main" lang="kor" page="서3a" n="10">아지 못ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ으로 더브러 의론을 져희ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서3a-서3b" n="11">此知秦國之政也,</sent>
+<sent type="main" lang="kor" page="서3a-서3b" n="11">일노ᄡᅥ 진국의 졍ᄉᆞᄅᆞᆯ ^ 가히 알지니</sent>
+<sent type="main" lang="chi" page="서3b" n="1">則君一擧而國亡矣.”</sent>
+<sent type="main" lang="kor" page="서3b" n="1">왕이 이 ᄒᆞᆫ 거조의 나라히 망ᄒᆞ리라 ᄒᆞ야시니</sent>
+<sent type="main" lang="chi" page="서3b" n="2">今世非無知醫之人,</sent>
+<sent type="main" lang="kor" page="서3b" n="2">금셰에 의슐 아ᄂᆞᆫ 사ᄅᆞᆷ이 업ᄂᆞᆫ ᄇᆡ 아니로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="서3b" n="3">而大抵多諱疾忌醫,</sent>
+<sent type="main" lang="kor" page="서3b" n="3">대뎌 병을 은휘ᄒᆞ고 의원을 ᄭᅳ리며</sent>
+<sent type="main" lang="chi" page="서3b" n="4">其所與謀者, 恒不得其要之所在,</sent>
+<sent type="main" lang="kor" page="서3b" n="4">더브러 의론ᄒᆞᄂᆞᆫ 쟈ᄂᆞᆫ 그 요긴ᄒᆞᆫ 묘리를 모로ᄂᆞᆫ 사ᄅᆞᆷ인ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="서3b" n="5">則知亦與不知等,</sent>
+<sent type="main" lang="kor" page="서3b" n="5">안다 ᄒᆞᄂᆞᆫ 거시 모로ᄂᆞᆫ 거ᄉᆞ로 ᄀᆞᆺ고</sent>
+<sent type="main" lang="chi" page="서3b" n="6">救亦與不救同.</sent>
+<sent type="main" lang="kor" page="서3b" n="6">병을 치료ᄒᆞᆫ다 ᄒᆞᄂᆞᆫ 거시 치료ᄒᆞ지 아니ᄒᆞᄂᆞᆫ 거ᄉᆞ로 ᄀᆞᆺ튼지라</sent>
+<sent type="main" lang="chi" page="서3b" n="7">杞憂生不爲扁鵲之投石,</sent>
+<sent type="main" lang="kor" page="서3b" n="7">긔우ᄉᆡᆼ이 편쟉의 폄셕 더지ᄂᆞᆫ 거ᄉᆞᆯ 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서3b" n="8">而爲賈誼之陳疏,</sent>
+<sent type="main" lang="kor" page="서3b" n="8">가의의 소쟝 베프ᄂᆞᆫ 일을 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="서3b" n="9">其直衷熱腸, 忠肝義膽, 慷慨激昻, 爲何如哉.</sent>
+<sent type="main" lang="kor" page="서3b" n="9">그 츙직ᄒᆞ고 격졀ᄒᆞᆫ 심장과 간담이 강ᄀᆡᄒᆞ고 격렬ᄒᆞ미 엇더ᄒᆞ냐</sent>
+<sent type="main" lang="chi" page="서3b" n="10">嗚呼, 其言之易者, 正其心之苦也.</sent>
+<sent type="main" lang="kor" page="서3b" n="10">오회라 그 말ᄉᆞᆷ이 ᄉᆔ온 거시 졍히 그 ᄆᆞᄋᆞᆷ을 괴롭게 ᄒᆞᆫ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="서3b-서4a" n="11">倘若採而用之, 先調氣脉, 以壯其精神,</sent>
+<sent type="main" lang="kor" page="서3b-서4a" n="11">만일 ᄏᆡ여 ᄡᅥ^셔 몬져 혈ᄆᆡᆨ을 고로게 ᄒᆞ야 그 졍신을 싁싁ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서4a" n="1">繼去癥結, 以舒其心志.</sent>
+<sent type="main" lang="kor" page="서4a" n="1">버거 젹긔의 ᄆᆡ친 거ᄉᆞᆯ 프러 그 심지ᄅᆞᆯ 펴이게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="서4a" n="2">終且癃躄必起, 癬疥必除,</sent>
+<sent type="main" lang="kor" page="서4a" n="2">ᄆᆞᆺᄎᆞᆷᄂᆡ 큰 병이 반ᄃᆞ시 하리고 젹은 병도 반ᄃᆞ시 업셔져</sent>
+<sent type="main" lang="chi" page="서4a" n="3">由是而耳目聰明, 手足便利,</sent>
+<sent type="main" lang="kor" page="서4a" n="3">일노 말ᄆᆡ암아 이목이 총명ᄒᆞ고 슈죡이 편리ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="서4a" n="4">安有不彭籛比壽,</sent>
+<sent type="main" lang="kor" page="서4a" n="4">엇지 ᄑᆡᆼ조와 슈ᄅᆞᆯ ᄀᆞᆺ치 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="서4a" n="5">喬松追蹤者哉.</sent>
+<sent type="main" lang="kor" page="서4a" n="5">교숑[쟝ᄉᆡᆼ블ᄉᆞᄒᆞᆫ 신션의 일홈]의 ᄌᆞ최ᄅᆞᆯ ᄯᆞ로지 못ᄒᆞ미 이시랴</sent>
+<sent type="main" lang="chi" page="서4a" n="6">方今朝廷, 勵精圖治,</sent>
+<sent type="main" lang="kor" page="서4a" n="6">방금의 죠뎡의셔 졍신을 가다듬어 다ᄉᆞ리기ᄅᆞᆯ 도모ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="서4a" n="7">當道諸公, 又皆槃槃大才,</sent>
+<sent type="main" lang="kor" page="서4a" n="7">당도졔공이 다 그록히 큰 ᄌᆡ죠ᄅᆞᆯ 가져</sent>
+<sent type="main" lang="chi" page="서4a" n="8">以天下事爲己任,</sent>
+<sent type="main" lang="kor" page="서4a" n="8">텬하 일노 몸의 담당ᄒᆞᆫ 소임을 ᄉᆞᆷ으니</sent>
+<sent type="main" lang="chi" page="서4a" n="9">是書所言, 類皆可措諸施行, 而收其功效.</sent>
+<sent type="main" lang="kor" page="서4a" n="9">이 글의 말ᄒᆞᆫ 바ᄅᆞᆯ 일마다 가히 드러 시ᄒᆡᆼᄒᆞ야 그 공효ᄅᆞᆯ 거둘 만ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="서4a-서4b" n="10">若使杞憂生, 一朝獲逢知己, 薦擢交加,</sent>
+<sent type="main" lang="kor" page="서4a-서4b" n="10">만일 긔^우ᄉᆡᆼ으로 ᄒᆞ야곰 일죠의 ᄡᅳ이믈 만나 쳔거ᄒᆞ고 승탁ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="서4b" n="1">以是濡跡, 匡時</sent>
+<sent type="main" lang="kor" page="서4b" n="1">이 일노ᄡᅥ 발신ᄒᆞ야 시페ᄅᆞᆯ 바로 잡으며</sent>
+<sent type="main" lang="chi" page="서4b" n="2">補偏救弊,</sent>
+<sent type="main" lang="kor" page="서4b" n="2">일편된 일을 고치며 폐단을 구원ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="서4b" n="3">吾將拭目, 而觀其後</sent>
+<sent type="main" lang="kor" page="서4b" n="3">나ᄂᆞᆫ 쟝ᄎᆞᆺ 눈을 ᄡᅵᆺ고 그 뒤흘 보와</sent>
+<sent type="main" lang="chi" page="서4b" n="4">將見皇猷克贊, 駿烈獲成, 喁喁然熙熙然,</sent>
+<sent type="main" lang="kor" page="서4b" n="4">나라 졍ᄉᆡ 태평ᄒᆞ믈 일위여 희희호호ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="서4b" n="5">國家乂安, 中外禔福.</sent>
+<sent type="main" lang="kor" page="서4b" n="5">국개 평안ᄒᆞ고 ᄂᆡ외 복을 누리ᄂᆞᆫ 양을 장ᄎᆞᆺ 볼 거시니</sent>
+<sent type="main" lang="chi" page="서4b" n="6">是先天下而憂者終, 將後天下而樂也.</sent>
+<sent type="main" lang="kor" page="서4b" n="6">이ᄂᆞᆫ 텬하에 근심을 몬져 ᄒᆞᄂᆞᆫ 쟤 ᄆᆞᆺᄎᆞᆷᄂᆡ 텬하의 질거오믈 나죵 ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="서4b" n="7">杞憂生其勉爲一出,</sent>
+<sent type="main" lang="kor" page="서4b" n="7">긔우ᄉᆡᆼ은 그 힘ᄡᅥ 셰샹의 ᄒᆞᆫ 번 나와</sent>
+<sent type="main" lang="chi" page="서4b" n="8">以副天下所期望哉.</sent>
+<sent type="main" lang="kor" page="서4b" n="8">텬하의 긔약ᄒᆞ고 바라ᄂᆞᆫ 바ᄅᆞᆯ 맛쵸게 ᄒᆞᆯ진져</sent>
+<sent type="main" lang="chi" page="서4b-5a" n="9">光緖元年花朝日, 天南遯窟老民, 王韜拜序.</sent>
+<sent type="main" lang="kor" page="서4b-5a" n="9">광셔 원년 화죠일에 텬남 돈굴 늙은 ᄇᆡᆨ셩 왕도ᄂᆞᆫ 졀^ᄒᆞ고 셔ᄒᆞ노라</sent>
+<sent type="title" lang="chi" page="자서1a" n="1">自序</sent>
+<sent type="title" lang="kor" page="자서1a" n="1">ᄌᆞ셔</sent>
+<sent type="main" lang="chi" page="자서1a" n="2">余質性魯鈍, 鮮能記誦,</sent>
+<sent type="main" lang="kor" page="자서1a" n="2">ᄂᆡ 픔셩이 로둔ᄒᆞ야 능히 긔록ᄒᆞ고 외오ᄂᆞᆫ 글이 드므더니</sent>
+<sent type="main" lang="chi" page="자서1a" n="3">長而客遊四方,</sent>
+<sent type="main" lang="kor" page="자서1a" n="3">쟝셩ᄒᆞᄆᆡ ᄉᆞ방의 유람ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서1a" n="4">日與異國人相接,</sent>
+<sent type="main" lang="kor" page="자서1a" n="4">ᄂᆞᆯ마다 이국 사ᄅᆞᆷ으로 더브러 샹죵ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="자서1a" n="5">而滬上爲江海通津,</sent>
+<sent type="main" lang="kor" page="자서1a" n="5">호샹[디명]은 강남에 대도회 되여</sent>
+<sent type="main" lang="chi" page="자서1a" n="6">南北冠盖往來群萃,</sent>
+<sent type="main" lang="kor" page="자서1a" n="6">남븍의 관지인이 왕ᄅᆡᄒᆞ야 모혀 들기로</sent>
+<sent type="main" lang="chi" page="자서1a" n="7">旅處達人傑士往往獲從之遊</sent>
+<sent type="main" lang="kor" page="자서1a" n="7">지식이 통달ᄒᆞᆫ 호걸의 션ᄇᆡᄅᆞᆯ 죵죵 츄츅ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서1a" n="8">與之周旋,</sent>
+<sent type="main" lang="kor" page="자서1a" n="8">더브러 샹죵ᄒᆞ며 쥬션ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="chi" page="자서1a" n="9">晉接竊聞時論多關大計.</sent>
+<sent type="main" lang="kor" page="자서1a" n="9">그윽이 시무 론난ᄒᆞ믈 듯고 텬하 대지ᄅᆞᆯ 만히 드르니</sent>
+<sent type="main" lang="chi" page="자서1a" n="10">以爲由今之道變今之俗,</sent>
+<sent type="main" lang="kor" page="자서1a" n="10">ᄡᅥ ᄒᆞᄃᆡ 금셰에 도ᄅᆞᆯ 말ᄆᆡ암아 금셰의 풍쇽을 변통ᄒᆞ려 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="자서1a" n="11">宜覽往古法,</sent>
+<sent type="main" lang="kor" page="자서1a" n="11">ᄆᆞᆺ당히 녯 법을 볼 거시니</sent>
+<sent type="main" lang="chi" page="자서1a" n="12">自然諏遠情師長技,</sent>
+<sent type="main" lang="kor" page="자서1a" n="12">ᄌᆞ연이 먼 데 물졍을 무러 그 쟝기ᄅᆞᆯ 스승ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서1b" n="1">攻其所短而奪其所恃.</sent>
+<sent type="main" lang="kor" page="자서1b" n="1">그 단쳐ᄅᆞᆯ 치며 그 밋ᄂᆞᆫ 바ᄅᆞᆯ 아ᄉᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="자서1b" n="2">而泰西人, 久居中國,</sent>
+<sent type="main" lang="kor" page="자서1b" n="2">태셔 사ᄅᆞᆷ이 즁국의 오ᄅᆡ 거쳐ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서1b" n="3">亦時時申其論設作,</sent>
+<sent type="main" lang="kor" page="자서1b" n="3">ᄯᅩᄒᆞᆫ 죵죵 그 의론을 펴거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="자서1b" n="4">國外之旁觀, 因下籌而借箸,</sent>
+<sent type="main" lang="kor" page="자서1b" n="4">판 밧긔셔 슈슈방관ᄒᆞ다가 인ᄒᆞ야 일을 ᄯᆞ라 획ᄎᆡᆨᄒᆞ니</sent>
+<sent type="main" lang="chi" page="자서1b" n="5">盖所謂事雜言龐, 莫甚於玆矣.</sent>
+<sent type="main" lang="kor" page="자서1b" n="5">대개 니ᄅᆞᆫ 바 일은 분잡ᄒᆞ고 말ᄉᆞᆷ은 크미 이에셔 심ᄒᆞ미 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="자서1b" n="6">夫寰海旣同, 重譯四至,</sent>
+<sent type="main" lang="kor" page="자서1b" n="6">대뎌 ᄉᆞᄒᆡ 회동ᄒᆞᄆᆡ 각국 사ᄅᆞᆷ이 ᄉᆞ면으로 답지ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서1b" n="7">締搆交錯, 日引月長,</sent>
+<sent type="main" lang="kor" page="자서1b" n="7">셔로 쳬결ᄒᆞ고 ᄉᆞ괴ᄂᆞᆫ 일이 ᄂᆞᆯ노 크고 달노 기니</sent>
+<sent type="main" lang="chi" page="자서1b" n="8">欲事無雜, 不可得也.</sent>
+<sent type="main" lang="kor" page="자서1b" n="8">일이 분잡ᄒᆞ고ᄌᆞ 아니ᄒᆞ나 가히 엇지 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="자서1b" n="9">異族狎居, 尊聞扭習,</sent>
+<sent type="main" lang="kor" page="자서1b" n="9">이국 사ᄅᆞᆷ이 친압히 거쳐ᄒᆞ야 듯ᄂᆞᆫ 바ᄅᆞᆯ 놉히고 ᄒᆞᆼ습ᄒᆞᆫ 바의 익으ᄆᆡ</sent>
+<sent type="main" lang="chi" page="자서1b" n="10">彼責此固,</sent>
+<sent type="main" lang="kor" page="자서1b" n="10">져 사ᄅᆞᆷ은 나의 고루ᄒᆞ믈 ᄎᆡᆨ망ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="자서1b-자서2a" n="11">我笑子膠,</sent>
+<sent type="main" lang="kor" page="자서1b-자서2a" n="11">나ᄂᆞᆫ 져 사ᄅᆞᆷ의 고집ᄒᆞ믈 비^우ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="자서2a" n="1">欲言無厖, 不可得也.</sent>
+<sent type="main" lang="kor" page="자서2a" n="1">말ᄉᆞᆷ이 크지 말고ᄌᆞ ᄒᆞ나 가히 엇지 못ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="자서2a" n="2">雖然, 必有一是焉,</sent>
+<sent type="main" lang="kor" page="자서2a" n="2">비록 그러ᄒᆞ나 반ᄃᆞ시 ᄒᆞᆫ 가지 올흐믄 이시니</sent>
+<sent type="main" lang="chi" page="자서2a" n="3">江海不以大受而拒細流,</sent>
+<sent type="main" lang="kor" page="자서2a" n="3">강과 바다ᄂᆞᆫ 형테 크므로 젹은 물을 막지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="자서2a" n="4">泰華不以窮高而辭塊壤.</sent>
+<sent type="main" lang="kor" page="자서2a" n="4">태산과 화산은 ᄆᆡ이 놉흐므로 흙덩이ᄅᆞᆯ ᄉᆞ양치 아니ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="자서2a" n="5">今使天下之大, 凡有心口, 各竭其知,</sent>
+<sent type="main" lang="kor" page="자서2a" n="5">이졔 텬하에 크므로 므릇 ᄆᆞᄋᆞᆷ과 입 잇ᄂᆞᆫ 쟈ᄂᆞᆫ 져마다 아ᄂᆞᆫ 바ᄅᆞᆯ 다ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="자서2a" n="6">各騰其設, 以待輶軒之, 芻蕘之詢,</sent>
+<sent type="main" lang="kor" page="자서2a" n="6">그 말ᄉᆞᆷ을 ᄂᆡ여 셰샹의셔 ᄏᆡ여 ᄡᅳ기ᄅᆞᆯ 기다리니</sent>
+<sent type="main" lang="chi" page="자서2a" n="7">不必謂言出於誰某,</sent>
+<sent type="main" lang="kor" page="자서2a" n="7">말ᄉᆞᆷ이 뉘게셔 낫시믈 굿ᄐᆞ여 니ᄅᆞ지 말고</sent>
+<sent type="main" lang="chi" page="자서2a" n="8">而但問合於時宜與否,</sent>
+<sent type="main" lang="kor" page="자서2a" n="8">다만 시무에 합당ᄒᆞᆫ 여부만 무ᄅᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="자서2a" n="9">應亦盛世所弗禁,</sent>
+<sent type="main" lang="kor" page="자서2a" n="9">ᄯᅩᄒᆞᆫ 셩셰에 금ᄒᆞ지 아니ᄒᆞᆯ ᄇᆡ오</sent>
+<sent type="main" lang="chi" page="자서2a" n="10">大雅所不斥也.</sent>
+<sent type="main" lang="kor" page="자서2a" n="10">큰 션ᄇᆡ의 믈니치지 아니ᄒᆞᆯ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="자서2a-자서2b" n="11">往余於同治庚午辛未間, 端居多暇涉獵簡編,</sent>
+<sent type="main" lang="kor" page="자서2a-자서2b" n="11">져즘ᄭᅴ ᄂᆡ 동치 경오 신미 년^간에 한가히 거ᄒᆞ야 결을이 만키로 셔ᄎᆡᆨ을 섭렵ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="자서2b" n="1">偶有所見隨筆劄記,</sent>
+<sent type="main" lang="kor" page="자서2b" n="1">우연이 본 ᄇᆡ 이시면 부ᄉᆞᆯ ᄲᆡ혀 긔록ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="자서2b" n="2">內之積感於寸心外之睠懷於大局,</sent>
+<sent type="main" lang="kor" page="자서2b" n="2">안흐로 심즁에 감동ᄒᆞ고 밧그로 큰 판국을 료량ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="자서2b" n="3">目擊時艱, 無可下手.</sent>
+<sent type="main" lang="kor" page="자서2b" n="3">시무에 어려온 일을 목도ᄒᆞᄃᆡ 햐슈ᄒᆞᆯ 곳이 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="자서2b" n="4">而一言以蔽之, 曰莫如自强爲先,</sent>
+<sent type="main" lang="kor" page="자서2b" n="4">일언이폐지ᄒᆞ고 뎨일은 스ᄉᆞ로 강ᄒᆞ게 ᄒᆞᄂᆞᆫ 것만 ᄀᆞᆺ지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="자서2b" n="5">自强之道, 不外乎此數大端而已.</sent>
+<sent type="main" lang="kor" page="자서2b" n="5">스ᄉᆞ로 강ᄒᆞ게 ᄒᆞᄂᆞᆫ 도ᄂᆞᆫ 이 두어 가지에 버셔나지 아니ᄒᆞᆯ ᄯᆞ름이라</sent>
+<sent type="main" lang="chi" page="자서2b" n="6">因是宏綱鉅目次第敷陳,</sent>
+<sent type="main" lang="kor" page="자서2b" n="6">이러므로 여러 가지 됴목을 ᄎᆞ례로 베픈 ᄇᆡ니</sent>
+<sent type="main" lang="chi" page="자서2b" n="7">自知但擧其畧語焉不詳,</sent>
+<sent type="main" lang="kor" page="자서2b" n="7">다만 그 대강을 드러 말ᄉᆞᆷ이 쇼샹치 못ᄒᆞ믈 스ᄉᆞ로 알ᄃᆡ</sent>
+<sent type="main" lang="chi" page="자서2b" n="8">積若干篇存之篋衍徒,</sent>
+<sent type="main" lang="kor" page="자서2b" n="8">약간 편ᄎᆞᄒᆞ야 샹ᄌᆞ에 두고 스ᄉᆞ로 샹고ᄒᆞᆯ ᄲᅮᆫ이오</sent>
+<sent type="main" lang="chi" page="자서2b-자서3a" n="9">自考鏡未嘗敢以論譔自居,</sent>
+<sent type="main" lang="kor" page="자서2b-자서3a" n="9">감히 시무ᄅᆞᆯ 의론ᄒᆞ므^로 ᄌᆞ쳐ᄒᆞ지 못ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="자서3a" n="1">而朋好見輒持去雜付報舘,</sent>
+<sent type="main" lang="kor" page="자서3a" n="1">친ᄒᆞᆫ 벗이 보면 믄득 가져다가 신문관에 보ᄂᆡ고</sent>
+<sent type="main" lang="chi" page="자서3a" n="2">又䦨入近人所刻聞見錄中,</sent>
+<sent type="main" lang="kor" page="자서3a" n="2">ᄯᅩ 근ᄅᆡ 사ᄅᆞᆷ의 판ᄀᆡᆨᄒᆞᆫ 바 문견록 가온ᄃᆡ 너흐니</sent>
+<sent type="main" lang="chi" page="자서3a" n="3">醜不自匿嘗用蹵然.</sent>
+<sent type="main" lang="kor" page="자서3a" n="3">비루ᄒᆞᆫ 소견을 스ᄉᆞ로 슘기지 못ᄒᆞ야 ᄒᆞᆼ샹 란연ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="자서3a" n="4">書曰言之非艱, 行之惟艱,</sent>
+<sent type="main" lang="kor" page="자서3a" n="4">셔에 ᄀᆞᆯ오ᄃᆡ 말ᄒᆞ기 어려온 쥴이 아니라 ᄒᆡᆼᄒᆞ기 오직 어렵다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="자서3a" n="5">言已不足重,</sent>
+<sent type="main" lang="kor" page="자서3a" n="5">말ᄉᆞᆷ이 임의 죡히 관즁ᄒᆞᆯ 거시 업거든</sent>
+<sent type="main" lang="chi" page="자서3a" n="6">况言之亦正不易.</sent>
+<sent type="main" lang="kor" page="자서3a" n="6">ᄒᆞ믈며 말ᄉᆞᆷ이 ᄯᅩᄒᆞᆫ 쉽지 아니ᄒᆞ미랴</sent>
+<sent type="main" lang="chi" page="자서3a" n="7">詩曰, 君子無易由言,</sent>
+<sent type="main" lang="kor" page="자서3a" n="7">시의 ᄀᆞᆯ오ᄃᆡ 군ᄌᆞᄂᆞᆫ 말ᄉᆞᆷ을 쉽게 ᄒᆞ지 말나 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="자서3a" n="8">東方朔曰, 談何容易.</sent>
+<sent type="main" lang="kor" page="자서3a" n="8">동방삭이 ᄀᆞᆯ오ᄃᆡ 말ᄉᆞᆷ을 엇지 용이ᄒᆞ게 ᄒᆞ리오 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="자서3a" n="9">是編所存盖未免易言之戒,</sent>
+<sent type="main" lang="kor" page="자서3a" n="9">이 글의 잇ᄂᆞᆫ 바ᄂᆞᆫ 대개 말ᄉᆞᆷ을 쉽게 ᄒᆞᆫ 경계ᄅᆞᆯ 면치 못ᄒᆞ엿시ᄃᆡ</sent>
+<sent type="main" lang="chi" page="자서3a-자서3b" n="10">顧傳而播者非蒙初心,</sent>
+<sent type="main" lang="kor" page="자서3a-자서3b" n="10">셰샹의 젼파ᄒᆞᄂᆞᆫ 거^ᄉᆞᆫ 나의 본심이 아니라</sent>
+<sent type="main" lang="chi" page="자서3b" n="1">美芹獻曝聊竭,</sent>
+<sent type="main" lang="kor" page="자서3b" n="1">말ᄉᆞᆷ이 아름다와 셰샹에 ᄡᅳ이기ᄅᆞᆯ 원ᄒᆞᄂᆞᆫ ᄇᆡ 아니오</sent>
+<sent type="main" lang="chi" page="자서3b" n="2">愚誠而耳,</sent>
+<sent type="main" lang="kor" page="자서3b" n="2">우미ᄒᆞᆫ 졍셩을 다ᄒᆞᆯ ᄯᆞ름이니</sent>
+<sent type="main" lang="chi" page="자서3b" n="3">達人傑士倘不以其鄙野,</sent>
+<sent type="main" lang="kor" page="자서3b" n="3">달인걸ᄉᆞᄂᆞᆫ 이 말ᄉᆞᆷ을 더러이 너기지 말고</sent>
+<sent type="main" lang="chi" page="자서3b" n="4">而敎誨之. 是則余之厚幸也.</sent>
+<sent type="main" lang="kor" page="자서3b" n="4">가ᄅᆞ치기ᄅᆞᆯ 앗기지 말면 이ᄂᆞᆫ 나의 만ᄒᆡᆼ일가 ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="자서3b" n="5">夫光緖元年暮春之初, 鐵城杞憂生自序, 於海上待鶴齋.</sent>
+<sent type="main" lang="kor" page="자서3b" n="5">광셔 원년 모츈지초의 털셩 긔우ᄉᆡᆼ은 ᄒᆡ샹 ᄃᆡ학ᄌᆡ의셔 스ᄉᆞ로 셔ᄒᆞ노라</sent>
+<sent type="title" lang="chi" page="1a" n="1">없음</sent>
+<sent type="title" lang="kor" page="1a" n="1">이언권지일</sent>
+<sent type="title2" lang="chi" page="1a" n="2">論公法</sent>
+<sent type="title2" lang="kor" page="1a" n="2">론공법</sent>
+<sent type="anno" lang="chi" page="1a" n="3">없음</sent>
+<sent type="anno" lang="kor" page="1a" n="3">만국 공법을 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="1a" n="4">泰西, 有君主之國,</sent>
+<sent type="main" lang="kor" page="1a" n="4">태셔에 인군이 쥬쟝ᄒᆞᄂᆞᆫ 나라도 잇고</sent>
+<sent type="main" lang="chi" page="1a" n="5">有民主之國,</sent>
+<sent type="main" lang="kor" page="1a" n="5">ᄇᆡᆨ셩이 쥬쟝ᄒᆞᄂᆞᆫ 나라도 잇ᄉᆞ며</sent>
+<sent type="main" lang="chi" page="1a" n="6">有君民共主之國,</sent>
+<sent type="main" lang="kor" page="1a" n="6">인군과 ᄇᆡᆨ셩이 ᄒᆞᆷ긔 쥬쟝ᄒᆞᄂᆞᆫ 나라도 이시니</sent>
+<sent type="main" lang="chi" page="1a" n="7">雖風俗各有不同, 而義理未能或異.</sent>
+<sent type="main" lang="kor" page="1a" n="7">비록 풍쇽은 각각 ᄀᆞᆺ지 아니ᄒᆞ나 의리ᄂᆞᆫ 혹 다르미 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="1a" n="8">其初開國立䂓模制禮律,</sent>
+<sent type="main" lang="kor" page="1a" n="8">쳐음 ᄀᆡ국ᄒᆞᆯ 졔 규모ᄅᆞᆯ 셰우고 례법을 지으ᄆᆡ</sent>
+<sent type="main" lang="chi" page="1a" n="9">何嘗無非常之士, 集思廣益</sent>
+<sent type="main" lang="kor" page="1a" n="9">비샹ᄒᆞᆫ 션ᄇᆡ 온ᄀᆞᆺ 의ᄉᆞ로 유익ᄒᆞᆯ 도리ᄅᆞᆯ 널니 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="1a" n="10">以期長治而久安.</sent>
+<sent type="main" lang="kor" page="1a" n="10">길게 다ᄉᆞ리고 오ᄅᆡ 편안ᄒᆞ게 ᄒᆞᆯ ᄆᆞᄋᆞᆷ이 엇지 업셔시리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="1a" n="11">然攷其時數, 審其盛衰,</sent>
+<sent type="main" lang="kor" page="1a" n="11">그러나 시셰와 운수ᄅᆞᆯ 샹고ᄒᆞ고 셩쇠지리ᄅᆞᆷ ᄉᆞᆲ히건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="1a-1b" n="12">知强富有由,</sent>
+<sent type="main" lang="kor" page="1a-1b" n="12">부국강병ᄒᆞᄂᆞᆫ ^ 거시 소이연이 잇ᄉᆞ믈 알 거시니</sent>
+<sent type="main" lang="chi" page="1b" n="1">洵非一朝一夕之故也.</sent>
+<sent type="main" lang="kor" page="1b" n="1">진실노 일죠일셕의 된 거시 아니라</sent>
+<sent type="main" lang="chi" page="1b" n="2">昔英境, 分爲七國,</sent>
+<sent type="main" lang="kor" page="1b" n="2">녯젹에 영길리 디경이 칠국의 난호여</sent>
+<sent type="main" lang="chi" page="1b" n="3">各有酋長, 皆蠢爾野蠻,</sent>
+<sent type="main" lang="kor" page="1b" n="3">각각 츄쟝[괴슈라]이 잇ᄉᆞᄃᆡ 다 쥰쥰ᄒᆞᆫ 오랑ᄏᆡ라</sent>
+<sent type="main" lang="chi" page="1b" n="4">甚至殺人以祭, 剖心以卜,</sent>
+<sent type="main" lang="kor" page="1b" n="4">심지어 사ᄅᆞᆷ을 잡아 졔 지ᄂᆡ고 염통을 ᄂᆡ여 졈을 치며 포</sent>
+<sent type="main" lang="chi" page="1b" n="5">暴戾恣雎, 無復人理.</sent>
+<sent type="main" lang="kor" page="1b" n="5">학ᄒᆞ고 흉패ᄒᆞ미 사ᄅᆞᆷ의 의리 바이 업더니</sent>
+<sent type="main" lang="chi" page="1b" n="6">迨羅馬, 統轄英地,</sent>
+<sent type="main" lang="kor" page="1b" n="6">라마국[나라 일홈]이 영국 ᄯᆞ흘 통합ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="1b" n="7">政敎漸開, 未幾北狄作亂,</sent>
+<sent type="main" lang="kor" page="1b" n="7">졍ᄉᆞ와 교홰 졈졈 열니연 지 오ᄅᆡ지 아냐 븍뎍이 작란ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="1b" n="8">禍被全歐, 勢成割據,</sent>
+<sent type="main" lang="kor" page="1b" n="8">구라파 졔국이 모다 화ᄅᆞᆯ 닙고 그 형셰 난호여 웅거ᄒᆞ엿더니</sent>
+<sent type="main" lang="chi" page="1b" n="9">其後英法鬭戰, 延及百年.</sent>
+<sent type="main" lang="kor" page="1b" n="9">그 후의 영국과 법국이 셔로 ᄡᅡ혼 지 ᄇᆡᆨ 년에 밋ᄎᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="1b-2a" n="10">用是苦心焦思, 始製巨艦大礮,</sent>
+<sent type="main" lang="kor" page="1b-2a" n="10">이러므로 로심쵸ᄉᆞᄒᆞ야 비로쇼 큰 ᄇᆡ와 대포ᄅᆞᆯ ^ 지어</sent>
+<sent type="main" lang="chi" page="2a" n="1">狎風濤之險,</sent>
+<sent type="main" lang="kor" page="2a" n="1">풍랑의 험ᄒᆞ믈 가바야이 너겨 직히고</sent>
+<sent type="main" lang="chi" page="2a" n="2">備戰守之方.</sent>
+<sent type="main" lang="kor" page="2a" n="2">ᄡᅡ홈ᄒᆞᄂᆞᆫ 방략을 쥰비ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="2a" n="3">西班牙, 檢出西半球,</sent>
+<sent type="main" lang="kor" page="2a" n="3">셔반아국이 셔반구[디구 졀반]ᄅᆞᆯ ᄉᆞᆲ혀</sent>
+<sent type="main" lang="chi" page="2a" n="4">悟地體圜轉之理,</sent>
+<sent type="main" lang="kor" page="2a" n="4">디형이 둥굴게 도라가ᄂᆞᆫ 리치ᄅᆞᆯ ᄀᆡᆺᄃᆞᆺ고</sent>
+<sent type="main" lang="chi" page="2a" n="5">遂開海道, 以連於亞洲之東南洋,</sent>
+<sent type="main" lang="kor" page="2a" n="5">드ᄃᆡ여 바다 길을 여러 아셰아 동남양을 련ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2a" n="6">及華盛頓崛起自立,</sent>
+<sent type="main" lang="kor" page="2a" n="6">화셩돈[사ᄅᆞᆷ의 일홈]이 굴긔ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2a" n="7">合衆部以挫强英.</sent>
+<sent type="main" lang="kor" page="2a" n="7">모단 부락을 합ᄒᆞ야 강ᄒᆞᆫ 영국을 ᄭᅥᆨ그니</sent>
+<sent type="main" lang="chi" page="2a" n="8">於是英人, 乃東倂五印度,</sent>
+<sent type="main" lang="kor" page="2a" n="8">이에 영국 사ᄅᆞᆷ이 동으로 오인도ᄅᆞᆯ 아올나</sent>
+<sent type="main" lang="chi" page="2a" n="9">直逼東洋諸國,</sent>
+<sent type="main" lang="kor" page="2a" n="9">바로 동양 졔국의 압핍ᄒᆞ니</sent><!--'오인도'는 고대 인도에 있던 다섯 개의 정치적 구획. 동천축, 서천축, 남천축, 북천축, 중천축을 이른다. 五天竺과 같음.-->
+<sent type="main" lang="chi" page="2a" n="10">每經一戰, 局勢詭變, 人材挺生,</sent>
+<sent type="main" lang="kor" page="2a" n="10">ᄆᆡ양 ᄒᆞᆫ 번 ᄡᅡ홈을 지ᄂᆡᄆᆡ 판국 형셰도 변ᄒᆞ며 인ᄌᆡ도 ᄲᆡ혀 나ᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="2a" n="11">各國皆發奮有爲,</sent>
+<sent type="main" lang="kor" page="2a" n="11">각국이 다 발분ᄒᆞ야 무예ᄅᆞᆯ 강습ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2a" n="12">講武通商, 力籌强富.</sent>
+<sent type="main" lang="kor" page="2a" n="12">쟝ᄉᆞ길을 통ᄒᆞ야 부국강병지슐을 힘ᄡᅥ ᄭᅬᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="2a-2b" n="13">旣而拿破崙第一, 興於法國, 用兵精銳,</sent>
+<sent type="main" lang="kor" page="2a-2b" n="13">나파륜 뎨일[사ᄅᆞᆷ^의 일홈]이 법국의셔 니려나 군ᄉᆞ ᄡᅳ기ᄅᆞᆯ 졍통히 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2b" n="1">窮全歐之智力以相競,</sent>
+<sent type="main" lang="kor" page="2b" n="1">구라파 졔국의 지혜와 힘을 다ᄒᆞ야 셔로 닷토와도</sent>
+<sent type="main" lang="chi" page="2b" n="2">卒莫敢攖其鋒焉.</sent>
+<sent type="main" lang="kor" page="2b" n="2">ᄆᆞᆺᄎᆞᆷᄂᆡ 감히 그 예긔ᄅᆞᆯ 거우지 못ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="2b" n="3">近百年來, 輪船駛於重洋, 火車馳於陸路,</sent>
+<sent type="main" lang="kor" page="2b" n="3">ᄇᆡᆨ 년 이ᄅᆡ로 화륜션은 대양으로 횡ᄒᆡᆼᄒᆞ고 화륜거ᄂᆞᆫ 륙로의 횡치ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2b" n="4">而電綫遙接於數萬里外, 頃刻通音,</sent>
+<sent type="main" lang="kor" page="2b" n="4">뎐긔션[텰ᄉᆞᄅᆞᆯ 느려 쇼식을 통ᄒᆞᄂᆞᆫ 거시라]은 수만 리 밧긔 련졉ᄒᆞ야 경ᄀᆡᆨ간의 쇼식을 통ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2b" n="5">以至耕織開鑛, 及製造槍礮等事, 悉假機器爲用,</sent>
+<sent type="main" lang="kor" page="2b" n="5">밧 갈고 깁 ᄶᅡ며 금은뎜을 열고 양창과 대포ᄅᆞᆯ 짓ᄂᆞᆫ 일을 다 고동을 트러 ᄡᅳ게 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="2b" n="6">疑有鬼神之助 以洩造化之奇.</sent>
+<sent type="main" lang="kor" page="2b" n="6">귀신의 도으미 잇ᄂᆞᆫ ᄃᆞᆺᄒᆞ야 죠화에 신긔ᄒᆞ믈 루셜ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2b" n="7">此彼所恃, 以雄峙海外, 虎視宇內者也.</sent>
+<sent type="main" lang="kor" page="2b" n="7">이ᄂᆞᆫ 져의 빙쟈ᄒᆞ야 ᄒᆡ외 졔국의 읏듬 되여 텬하ᄅᆞᆯ 멸시ᄒᆞᄂᆞᆫ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="2b-3a" n="8">然皆積百年硏究之功, 始得一朝貫通其學,</sent>
+<sent type="main" lang="kor" page="2b-3a" n="8">그러나 ᄇᆡᆨ 년을 ^ 두고 궁구ᄒᆞᄂᆞᆫ 공력을 드렷다가 일죠의 그 ᄌᆡ죠ᄅᆞᆯ 관통ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="3a" n="1">神而明之, 存乎其人, 非偶然矣.</sent>
+<sent type="main" lang="kor" page="3a" n="1">신통이 ᄒᆞᄂᆞᆫ 법은 그 사ᄅᆞᆷ의게 잇고 우연ᄒᆞᆫ 일이 아니러라</sent>
+<sent type="main" lang="chi" page="3a" n="2">惟歐洲各國, 當中國漢時, 始闢洪荒,</sent>
+<sent type="main" lang="kor" page="3a" n="2">오직 구라파 각국이 즁국 한나라 시졀에 비로쇼 ᄀᆡ벽ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="3a" n="3">至今未及二千年.</sent>
+<sent type="main" lang="kor" page="3a" n="3">지금 이쳔 년이 오히려 되지 못ᄒᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="3a" n="4">故其風氣敦龐, 人心堅定,</sent>
+<sent type="main" lang="kor" page="3a" n="4">그 풍쇽이 돈후ᄒᆞ고 츙실ᄒᆞ며 인심이 견고ᄒᆞ고 일뎡ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="3a" n="5">較之中國, 尙在春秋之世.</sent>
+<sent type="main" lang="kor" page="3a" n="5">즁국의 비교ᄒᆞ면 오히려 츈츄 젹 셰샹이라</sent>
+<sent type="main" lang="chi" page="3a" n="6">夫天道數百年小變, 數千年大變.</sent>
+<sent type="main" lang="kor" page="3a" n="6">대뎌 텬도ᄂᆞᆫ 수ᄇᆡᆨ 년의 죠곰 변ᄒᆞ고 수쳔 년의 크게 변ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="3a" n="7">攷諸上古, 歷數千年以降, 積羣聖人之經營締造,</sent>
+<sent type="main" lang="kor" page="3a" n="7">샹고 젹으로 ᄉᆞᆲ혀보건ᄃᆡ 수쳔 년 이ᄅᆡ로 여러 셩인이 경영ᄒᆞ시고 일을 지으샤</sent>
+<sent type="main" lang="chi" page="3a-3b" n="8">而文明以啓, 封建以成</sent>
+<sent type="main" lang="kor" page="3a-3b" n="8">문명지치ᄅᆞᆯ 여르시고 졔후를 봉ᄒᆞ야 법을 일우게 ^ ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="3b" n="1">自唐虞迄夏商周, 閱二千年, 莫之或易.</sent>
+<sent type="main" lang="kor" page="3b" n="1">당우로븟허 하 은 쥬의 니ᄅᆞ러 이쳔 년에 죠곰도 밧고지 못ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="3b" n="2">泊秦始倂六國, 廢諸侯改井田,</sent>
+<sent type="main" lang="kor" page="3b" n="2">진나라의 니ᄅᆞ러 비로쇼 륙국을 아올나 졔후ᄅᆞᆯ 폐ᄒᆞ고 졍뎐법을 곳쳐</sent>
+<sent type="main" lang="chi" page="3b" n="3">不因先王之法,</sent>
+<sent type="main" lang="kor" page="3b" n="3">션왕의 법도ᄅᆞᆯ ᄡᅳ지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="3b" n="4">遂一變而爲郡縣之天下矣.</sent>
+<sent type="main" lang="kor" page="3b" n="4">드ᄃᆡ여 ᄒᆞᆫ 번 변ᄒᆞ야 고ᄋᆞᆯ을 난호ᄂᆞᆫ 텬해 된지라</sent>
+<sent type="main" lang="chi" page="3b" n="5">秦以後, 雖盛衰屢變, 分合不常,</sent>
+<sent type="main" lang="kor" page="3b" n="5">진나라 이후에 비록 셩ᄒᆞ고 쇠ᄒᆞ며 난호이고 합ᄒᆞ미 여러 번 변ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="3b" n="6">然所謂外患者, 不過匈奴契丹, 西北之塞外耳.</sent>
+<sent type="main" lang="kor" page="3b" n="6">그러나 밧그로 근심ᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ 흉노와 걸안과 셔븍 변방 ᄲᅮᆫ이러니</sent>
+<sent type="main" lang="chi" page="3b" n="7">至於今則歐洲各國, 兵日强技日巧,</sent>
+<sent type="main" lang="kor" page="3b" n="7">지금 인ᄌᆞᆨ 구라파 각국이 군ᄉᆞᄂᆞᆫ ᄂᆞᆯ노 강셩ᄒᆞ고 기예ᄂᆞᆫ ᄂᆞᆯ노 공교ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="3b" n="8">鯨呑蠶食, 虎踞狼貪,</sent>
+<sent type="main" lang="kor" page="3b" n="8">타국 디경을 침범ᄒᆞ고 힘을 미더 욕심을 방ᄌᆞ히 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="3b-4a" n="9">環地球九萬里之中, 無不周游販運.</sent>
+<sent type="main" lang="kor" page="3b-4a" n="9">디구[ᄯᆞ 젼톄라] 구만 리의 두^로 단니며 흥판 아니ᄒᆞᄂᆞᆫ 곳이 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="4a" n="1">中國亦廣開海禁, 與之立約通商,</sent>
+<sent type="main" lang="kor" page="4a" n="1">즁국의셔 ᄯᅩᄒᆞᆫ 바다 길을 금치 아니ᄒᆞ야 더브러 약됴ᄅᆞᆯ 셰우고 샹로ᄅᆞᆯ 통ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="4a" n="2">又一變而爲華夷聯屬之天下矣.</sent>
+<sent type="main" lang="kor" page="4a" n="2">다시 ᄒᆞᆫ 번 변ᄒᆞ야 즁화와 이뎍이 련쇽ᄒᆞᄂᆞᆫ 텬해 된지라</sent>
+<sent type="main" lang="chi" page="4a" n="3">知物極則變, 變久則通.</sent>
+<sent type="main" lang="kor" page="4a" n="3">이러므로 물이 극ᄒᆞᆫᄌᆞᆨ 변ᄒᆞ고 변ᄒᆞᆫ 지 오ᄅᆡᆫᄌᆞᆨ 통ᄒᆞᄂᆞᆫ 쥴 알 거시니</sent>
+<sent type="main" lang="chi" page="4a" n="4">雖以聖繼聖而興,</sent>
+<sent type="main" lang="kor" page="4a" n="4">비록 셩인으로ᄡᅥ 셩인을 이어 흥왕ᄒᆞᆯ지라도</sent>
+<sent type="main" lang="chi" page="4a" n="5">亦有不能不變, 不得不變者,</sent>
+<sent type="main" lang="kor" page="4a" n="5">ᄯᅩᄒᆞᆫ 능히 변치 아니치 못ᄒᆞᆯ 일도 잇고 부득불 변ᄒᆞᆯ 일도 잇ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="4a" n="6">實天道世運人事, 有以限之也.</sent>
+<sent type="main" lang="kor" page="4a" n="6">실노 텬도와 시운과 인ᄉᆞ에 한뎡ᄒᆞᆫ ᄇᆡ 잇ᄉᆞ미라</sent>
+<sent type="main" lang="chi" page="4a" n="7">况歐洲各國, 動以智勇相傾,</sent>
+<sent type="main" lang="kor" page="4a" n="7">ᄒᆞ믈며 구라파 각국이 걸픗ᄒᆞ면 지혜와 용력으로 셔로 누르며</sent>
+<sent type="main" lang="chi" page="4a" n="8">富强相尙,</sent>
+<sent type="main" lang="kor" page="4a" n="8">부국강병ᄒᆞ기로 셔로 슝샹ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="4a-4b" n="9">我中國與之幷立,</sent>
+<sent type="main" lang="kor" page="4a-4b" n="9">우리 즁국이 ^ 더브러 갋셔ᄆᆡ</sent>
+<sent type="main" lang="chi" page="4b" n="1">不得不亟思控制,</sent>
+<sent type="main" lang="kor" page="4b" n="1">부득불 조속ᄒᆞ야 졔어ᄒᆞ기ᄅᆞᆯ 급히 ᄉᆡᆼ각ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="4b" n="2">因變達權.</sent>
+<sent type="main" lang="kor" page="4b" n="2">변ᄒᆞ믈 인ᄒᆞ야 권도ᄅᆞᆯ ᄡᅳᆯ지라</sent>
+<sent type="main" lang="chi" page="4b" n="3">故公法約章, 宜脩也,</sent>
+<sent type="main" lang="kor" page="4b" n="3">그런고로 공법약쟝[만국 공법의 약됴 뎡ᄒᆞᆫ 글이라]을 ᄆᆞᆺ당히 닥글 거시니</sent>
+<sent type="main" lang="chi" page="4b" n="4">不脩則彼合而我孤,</sent>
+<sent type="main" lang="kor" page="4b" n="4">아니 닥근ᄌᆞᆨ 져의ᄂᆞᆫ 합ᄒᆞ고 우리ᄂᆞᆫ 고단ᄒᆞᆫ ᄌᆞᆨ시오</sent>
+<sent type="main" lang="chi" page="4b" n="5">兵制陣法, 宜練也,</sent>
+<sent type="main" lang="kor" page="4b" n="5">병법과 진법을 ᄆᆞᆺ당히 련습ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="4b" n="6">不練則彼强而我弱,</sent>
+<sent type="main" lang="kor" page="4b" n="6">련습ᄒᆞ지 아니ᄒᆞᆫᄌᆞᆨ 져의ᄂᆞᆫ 강ᄒᆞ고 우리ᄂᆞᆫ 약ᄒᆞᆯ 형셰오</sent>
+<sent type="main" lang="chi" page="4b" n="7">槍礮器械, 宜精也,</sent>
+<sent type="main" lang="kor" page="4b" n="7">양창과 대포의 긔계ᄅᆞᆯ ᄆᆞᆺ당히 졍예ᄒᆞ게 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="4b" n="8">不精則彼利而我鈍,</sent>
+<sent type="main" lang="kor" page="4b" n="8">졍예ᄒᆞ지 아니ᄒᆞᆫᄌᆞᆨ 져의ᄂᆞᆫ 리ᄒᆞ고 우리ᄂᆞᆫ 둔ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="4b" n="9">輪船火車電報, 宜興也,</sent>
+<sent type="main" lang="kor" page="4b" n="9">화륜션과 화륜거와 뎐긔션을 ᄆᆞᆺ당히 ᄡᅳᆯ 거시니</sent>
+<sent type="main" lang="chi" page="4b" n="10">不興則彼速而我遲,</sent>
+<sent type="main" lang="kor" page="4b" n="10">ᄡᅳ지 아니ᄒᆞᆫᄌᆞᆨ 져의ᄂᆞᆫ 속ᄒᆞ고 우리ᄂᆞᆫ 더ᄃᆡᆯ 거시오</sent>
+<sent type="main" lang="chi" page="4b-5a" n="11">天球地輿格致測算等學, 宜通也,</sent>
+<sent type="main" lang="kor" page="4b-5a" n="11">텬문 디^리와 격치지학[격물치지ᄒᆞ야 궁리ᄒᆞᄂᆞᆫ 학이라]과 산학을 ᄆᆞᆺ당히 통ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="5a" n="1">不通則彼攷而我拙,</sent>
+<sent type="main" lang="kor" page="5a" n="1">통ᄒᆞ지 아니ᄒᆞᆫᄌᆞᆨ 져의ᄂᆞᆫ 공교ᄒᆞ고 우리ᄂᆞᆫ 졸ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="5a" n="2">磺務通商耕織諸事, 宜擧也,</sent>
+<sent type="main" lang="kor" page="5a" n="2">금은뎜을 열고 샹로ᄅᆞᆯ 통ᄒᆞ고 밧 갈고 깁 ᄧᆞᄂᆞᆫ 일을 ᄆᆞᆺ당히 힘ᄡᅳᆯ 거시니</sent>
+<sent type="main" lang="chi" page="5a" n="3">不擧則彼富而我貧.</sent>
+<sent type="main" lang="kor" page="5a" n="3">힘ᄡᅳ지 아니ᄒᆞᆫᄌᆞᆨ 져의ᄂᆞᆫ 가음열고 우리ᄂᆞᆫ 빈핍ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="5a" n="4">噫. 世變無常, 富强有道,</sent>
+<sent type="main" lang="kor" page="5a" n="4">슬프다 셰변은 뎡ᄒᆞ미 업고 부강은 방되 잇ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="5a" n="5">惟準今酌古, 勿狃於陳言,</sent>
+<sent type="main" lang="kor" page="5a" n="5">오직 고금을 침쟉ᄒᆞ야 녯말을 고집ᄒᆞ지 말며</sent>
+<sent type="main" lang="chi" page="5a" n="6">因時制宜, 勿拘於成例,</sent>
+<sent type="main" lang="kor" page="5a" n="6">시셰ᄅᆞᆯ 인ᄒᆞ야 ᄆᆞᆺ당ᄒᆞᆫ 법을 지어 젼례의 구ᄋᆡᄒᆞ지 말고</sent>
+<sent type="main" lang="chi" page="5a" n="7">力行旣久, 成效自徵.</sent>
+<sent type="main" lang="kor" page="5a" n="7">힘ᄡᅥ ᄒᆡᆼᄒᆞ기ᄅᆞᆯ 오ᄅᆡ ᄒᆞ면 ᄌᆞ연이 효험을 징험ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="5a-5b" n="8">方今俄與英美普法澳日諸國, 爭逐海上,</sent>
+<sent type="main" lang="kor" page="5a-5b" n="8">이졔 아라ᄉᆞ와 다못 영국 미국과 보국 법국과 오국 일국 ^ 모ᄃᆞᆫ 나라히 ᄒᆡ샹으로 닷토와 단니니</sent>
+<sent type="main" lang="chi" page="5b" n="1">何殊戰國七雄.</sent>
+<sent type="main" lang="kor" page="5b" n="1">젼국 ᄯᆡ 칠국으로 무어시 다르리오</sent>
+<sent type="main" lang="chi" page="5b" n="2">論者謂“俄據形勝之地, 逞强富之雄,</sent>
+<sent type="main" lang="kor" page="5b" n="2">의론ᄒᆞᄂᆞᆫ 쟤 니ᄅᆞᄃᆡ 아라ᄉᆞᄂᆞᆫ 형승ᄒᆞᆫ ᄯᆞᄒᆡ 웅거ᄒᆞ야 부강ᄒᆞᆫ 형셰ᄅᆞᆯ ᄌᆞ랑ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="5b" n="3">闢土開疆, 勵精圖治,</sent>
+<sent type="main" lang="kor" page="5b" n="3">토디ᄅᆞᆯ ᄀᆡ쳑ᄒᆞ며 졍신을 가다듬어 다ᄉᆞ리기ᄅᆞᆯ 도모ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="5b" n="4">則秦之連橫也.</sent>
+<sent type="main" lang="kor" page="5b" n="4">진나라의 련횡[홀노 잇셔 타국을 졔어ᄒᆞ미라]ᄒᆞᄂᆞᆫ 형셰와 ᄀᆞᆺ고</sent>
+<sent type="main" lang="chi" page="5b" n="5">英美普法澳日諸國, 立約要盟,</sent>
+<sent type="main" lang="kor" page="5b" n="5">영국 미국과 보국 법국과 오국 일국 모ᄃᆞᆫ 나라ᄂᆞᆫ 약됴ᄅᆞᆯ 셰우고 ᄆᆡᆼ셰ᄅᆞᆯ 뎡ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="5b" n="6">練兵修政, 悉意備俄,</sent>
+<sent type="main" lang="kor" page="5b" n="6">군ᄉᆞᄅᆞᆯ 련습ᄒᆞ고 졍ᄉᆞᄅᆞᆯ 닥가 일심으로 아라ᄉᆞᄅᆞᆯ 방비ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="5b" n="7">則六國之合縱也,</sent>
+<sent type="main" lang="kor" page="5b" n="7">륙국의 합죵[여러 나라히 합ᄒᆞ야 셔로 구원ᄒᆞ미라]ᄒᆞᄂᆞᆫ 형셰와 ᄀᆞᆺᄐᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="5b-6a" n="8">而各國之藉, 以互相維繫, 安於輯睦者, 惟奉萬國公法一書耳.”</sent>
+<sent type="main" lang="kor" page="5b-6a" n="8">졔국이 빙쟈ᄒᆞ야 셔로 얽ᄆᆡ여 화친ᄒᆞ기ᄅᆞᆯ 편안히 너기^ᄂᆞᆫ 쟈ᄂᆞᆫ 오직 만국공법을 봉ᄒᆡᆼᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="6a" n="1">其所謂公者, 非一國所得而私,</sent>
+<sent type="main" lang="kor" page="6a" n="1">니ᄅᆞᆫ바 공이ᄅᆞᆫ 거ᄉᆞᆫ 일국만 ᄉᆞᄉᆞ로이 ᄒᆞᆯ ᄇᆡ 아니오</sent>
+<sent type="main" lang="chi" page="6a" n="2">法者, 各國胥受其範.</sent>
+<sent type="main" lang="kor" page="6a" n="2">법이ᄅᆞᆫ 거ᄉᆞᆫ 여러 나라히 ᄀᆞᆺ치 그 법을 ᄒᆡᆼᄒᆞᄂᆞᆫ 거시나</sent>
+<sent type="main" lang="chi" page="6a" n="3">然明許默許, 性法例法,</sent>
+<sent type="main" lang="kor" page="6a" n="3">그러나 명명이 허락ᄒᆞᄂᆞᆫ 것과 가마니 허락ᄒᆞᄂᆞᆫ 것과 심셩으로 쇼ᄉᆞ나ᄂᆞᆫ 법과 예ᄉᆞ로이 ᄒᆞᄂᆞᆫ 법이</sent>
+<sent type="main" lang="chi" page="6a" n="4">以理義爲準繩, 以戰利爲綱領,</sent>
+<sent type="main" lang="kor" page="6a" n="4">의리로 법을 ᄉᆞᆷ고 ᄡᅡ호ᄂᆞᆫ 리해로 강령을 ᄉᆞᆷ으니</sent>
+<sent type="main" lang="chi" page="6a" n="5">皆不越天理人情之外.</sent>
+<sent type="main" lang="kor" page="6a" n="5">다 텬리 인졍 밧긔 버셔나지 안ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="6a" n="6">故公法一出, 各國皆不敢肆行,</sent>
+<sent type="main" lang="kor" page="6a" n="6">공법이 ᄒᆞᆫ 번 나ᄆᆡ 여러 나라히 감이 방ᄌᆞ히 ᄒᆡᆼ치 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="6a" n="7">實於世道民生, 大有裨益.</sent>
+<sent type="main" lang="kor" page="6a" n="7">실노 셰도와 민ᄉᆡᆼ의 크게 유익ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="6a" n="8">然必自視其國,</sent>
+<sent type="main" lang="kor" page="6a" n="8">그러나 반ᄃᆞ시 스ᄉᆞ로 졔 나라ᄅᆞᆯ 보건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="6a-6b" n="9">爲萬國之一而後, 公法可行焉.</sent>
+<sent type="main" lang="kor" page="6a-6b" n="9">능히 만국 가온ᄃᆡ ᄒᆞᆫ 기시 되염ᄌᆞᆨᄒᆞᆫ 연후의 공법^이 가히 ᄒᆡᆼᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="6b" n="1">若我中國, 自謂居地球之中,</sent>
+<sent type="main" lang="kor" page="6b" n="1">만일 우리 즁국이 스ᄉᆞ로 니ᄅᆞᄃᆡ 디구 ᄒᆞᆫ 가온ᄃᆡ 잇다 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="6b" n="2">餘槪目爲夷狄,</sent>
+<sent type="main" lang="kor" page="6b" n="2">다른 나라ᄅᆞᆯ 다 이뎍이라 지목ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="6b" n="3">向來劃疆自守,</sent>
+<sent type="main" lang="kor" page="6b" n="3">향ᄅᆡ의 디경을 그어 스ᄉᆞ로 직히고</sent>
+<sent type="main" lang="chi" page="6b" n="4">不事遠圖.</sent>
+<sent type="main" lang="kor" page="6b" n="4">먼 데 도모ᄒᆞ기ᄅᆞᆯ 일ᄉᆞᆷ지 아니ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="6b" n="5">通商以來, 各國恃其强富, 聲勢相聯,</sent>
+<sent type="main" lang="kor" page="6b" n="5">통샹ᄒᆞᆫ 후로 여러 나라히 그 부강ᄒᆞ믈 미더 셩셰로 셔로 니어</sent>
+<sent type="main" lang="chi" page="6b" n="6">外託修和, 內存覬覦.</sent>
+<sent type="main" lang="kor" page="6b" n="6">밧그로ᄂᆞᆫ 화친ᄒᆞ믈 가탁ᄒᆞ고 안흐로ᄂᆞᆫ 엿볼 ᄆᆞᄋᆞᆷ을 두ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="6b" n="7">故未列中國於公法, 以示外之之意,</sent>
+<sent type="main" lang="kor" page="6b" n="7">즁국을 공법 가온ᄃᆡ 버리지 아니ᄒᆞ야 외ᄃᆡᄒᆞᄂᆞᆫ ᄯᅳᆺ을 보이거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="6b" n="8">而中國亦不屑自處爲萬國之一, 列入公法,</sent>
+<sent type="main" lang="kor" page="6b" n="8">즁국이 ᄯᅩᄒᆞᆫ 만국 즁에 하나히 되믈 ᄌᆞ쳐ᄒᆞ야 공법의 참예ᄒᆞ믈 불긴히 너기고</sent>
+<sent type="main" lang="chi" page="6b" n="9">以示定於一尊,</sent>
+<sent type="main" lang="kor" page="6b" n="9">뎨일노 존즁ᄒᆞᆷ만 보이니</sent>
+<sent type="main" lang="chi" page="6b-7a" n="10">正所謂孤立無援,</sent>
+<sent type="main" lang="kor" page="6b-7a" n="10">졍히 니ᄅᆞᆫ 바 외로이 잇셔 구원^ᄒᆞ리 업고</sent>
+<sent type="main" lang="chi" page="7a" n="1">獨受其害,</sent>
+<sent type="main" lang="kor" page="7a" n="1">그 해ᄅᆞᆯ 홀노 밧ᄂᆞᆫ ᄌᆞᆨ시니</sent>
+<sent type="main" lang="chi" page="7a" n="2">不可不幡然變計者也.</sent>
+<sent type="main" lang="kor" page="7a" n="2">불가불 번연이 계교ᄅᆞᆯ 변ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="7a" n="3">且中國, 輿圖未富,</sent>
+<sent type="main" lang="kor" page="7a" n="3">ᄯᅩ 즁국 디되 크지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="7a" n="4">古之時, 如兩廣兩湖吳越, 皆屬蠻夷,</sent>
+<sent type="main" lang="kor" page="7a" n="4">녯젹에 량광과 량호와 오월은 다 이뎍의게 붓치고</sent>
+<sent type="main" lang="chi" page="7a" n="5">匈奴烏桓西羌, 半爲戎狄,</sent>
+<sent type="main" lang="kor" page="7a" n="5">흉노와 오환과 셔강은 반이나 융뎍이 되엿더니</sent>
+<sent type="main" lang="chi" page="7a" n="6">至漢始南達交趾,</sent>
+<sent type="main" lang="kor" page="7a" n="6">한나라의 니ᄅᆞ러 남으로 교지[국명]ᄅᆞᆯ 통ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="7a" n="7">東徑樂浪, 編爲郡縣.</sent>
+<sent type="main" lang="kor" page="7a" n="7">동으로 락랑[디명]을 지나 난화 고ᄋᆞᆯ을 ᄆᆡᆫᄃᆞᆯ고</sent>
+<sent type="main" lang="chi" page="7a" n="8">歷元明以至本朝,</sent>
+<sent type="main" lang="kor" page="7a" n="8">원나라와 명나라ᄅᆞᆯ 지나 본죠에 니ᄅᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="7a" n="9">匈奴西羌等地悉隸版圖,</sent>
+<sent type="main" lang="kor" page="7a" n="9">흉노와 셔강의 ᄯᆞ히 다 디도 가온ᄃᆡ 드러오며</sent>
+<sent type="main" lang="chi" page="7a" n="10">而朝鮮安南又爲藩服,</sent>
+<sent type="main" lang="kor" page="7a" n="10">죠션과 안남이 ᄯᅩ 번방이 되니</sent><!--번방(藩邦). 제후의 나라-->
+<sent type="main" lang="chi" page="7a" n="11">幅員之廣, 亘古爲昭,</sent>
+<sent type="main" lang="kor" page="7a" n="11">폭원의 너ᄅᆞ미 녜보다 만흔 ᄇᆡ 분명ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="7a" n="12">而地球九萬里, 半屬外夷,</sent>
+<sent type="main" lang="kor" page="7a" n="12">디구 구만 리가 졀반은 외국 이뎍의게 븟쳐시니</sent>
+<sent type="main" lang="chi" page="7a-7b" n="13">非謂中國正統一方, 遂不必考其政事之得失强弱之何如,</sent>
+<sent type="main" lang="kor" page="7a-7b" n="13">일방에 졍통ᄒᆞᆫ 즁국^이 드ᄃᆡ여 그 졍ᄉᆞ에 득실과 강약의 형셰 엇더ᄒᆞ믈 샹고ᄒᆞ지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="7b" n="1">自足以駕馭邊陲,</sent>
+<sent type="main" lang="kor" page="7b" n="1">스ᄉᆞ로 죡히 변방을 어거ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="7b" n="2">使四夷賓服也.</sent>
+<sent type="main" lang="kor" page="7b" n="2">ᄉᆞ이로 빈복ᄒᆞ게 ᄒᆞᆫ다 ᄒᆞᆯ 거시 아니라</sent>
+<sent type="main" lang="chi" page="7b" n="3">卽使懷柔有術,</sent>
+<sent type="main" lang="kor" page="7b" n="3">셜ᄉᆞ 원방 나라ᄅᆞᆯ 항복 밧을 계ᄎᆡᆨ이 잇다 ᄒᆞᆯ지라도</sent>
+<sent type="main" lang="chi" page="7b" n="4">亦當如春秋書法,</sent>
+<sent type="main" lang="kor" page="7b" n="4">ᄆᆞᆺ당히 츈츄필법ᄀᆞᆺ치 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="7b" n="5">不以國小, 異其辭,</sent>
+<sent type="main" lang="kor" page="7b" n="5">나라히 젹다 ᄒᆞ고 그 말ᄉᆞᆷ을 다르게 아니ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="7b" n="6">夫地球圓體, 旣無東西,</sent>
+<sent type="main" lang="kor" page="7b" n="6">대뎌 디구의 둥군 형톄 임의 동셰 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="7b" n="7">何有中邊,</sent>
+<sent type="main" lang="kor" page="7b" n="7">엇지 가온ᄃᆡ와 가히 잇ᄉᆞ며</sent>
+<sent type="main" lang="chi" page="7b" n="8">同居覆載之中,</sent>
+<sent type="main" lang="kor" page="7b" n="8">텬디간에 ᄒᆞᆫ가지로 잇ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="7b" n="9">奚必强分夷夏.</sent>
+<sent type="main" lang="kor" page="7b" n="9">엇지 굿ᄐᆞ여 이뎍과 즁화ᄅᆞᆯ 분간ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="7b" n="10">如中國能自視爲萬國之一,</sent>
+<sent type="main" lang="kor" page="7b" n="10">만일 즁국이 만국 즁에 하나흐로 ᄌᆞ쳐ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="7b" n="11">則彼公法中, 必不能獨缺中國,</sent>
+<sent type="main" lang="kor" page="7b" n="11">져의 공법 즁에 홀노 즁국을 ᄲᆡ혀 ᄡᅳᆯ 길이 업고</sent>
+<sent type="main" lang="chi" page="7b-8a" n="12">而我中國之法, 亦可行於萬國,</sent>
+<sent type="main" lang="kor" page="7b-8a" n="12">우리 즁국에 ^ 법이 ᄯᅩᄒᆞᆫ 가히 만국에 ᄒᆡᆼᄒᆞᆯ 만ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="8a" n="1">所謂彼敎之來, 卽引我敎之往.</sent>
+<sent type="main" lang="kor" page="8a" n="1">니ᄅᆞᆫ바 져의 가ᄅᆞ치ᄂᆞᆫ 법이 오ᄂᆞᆫ 거시 곳 나의 가ᄅᆞ치ᄂᆞᆫ 법을 잇그러 가미라</sent>
+<sent type="main" lang="chi" page="8a" n="2">風氣一開, 沛然莫禦,</sent>
+<sent type="main" lang="kor" page="8a" n="2">풍긔 ᄒᆞᆫ 번 녈니면 패연ᄒᆞ믈 막을 길이 업셔</sent>
+<sent type="main" lang="chi" page="8a" n="3">庶幾聖人之道, 施及蠻貊,</sent>
+<sent type="main" lang="kor" page="8a" n="3">셩인의 되 거의 만ᄆᆡᆨ 지방의 밋쳐</sent>
+<sent type="main" lang="chi" page="8a" n="4">凡有血氣者, 莫不尊親,</sent>
+<sent type="main" lang="kor" page="8a" n="4">혈긔 잇ᄂᆞᆫ 쟤 놉히고 친치 아니리 업ᄉᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="8a" n="5">文敎之敷, 於是乎遠矣.</sent>
+<sent type="main" lang="kor" page="8a" n="5">문명ᄒᆞᆫ 교화의 퍼지미 이에 먼니 가리라</sent>
+<sent type="main" lang="chi" page="8a" n="6">爲今計中國宜遣使, 會同各國使臣,</sent>
+<sent type="main" lang="kor" page="8a" n="6">이졔ᄅᆞᆯ 위ᄒᆞ야 계교컨ᄃᆡ 즁국이 ᄆᆞᆺ당히 ᄉᆞ신을 보ᄂᆡ여 각국 ᄉᆞ신을 회동ᄒᆞᆫ 후</sent>
+<sent type="main" lang="chi" page="8a" n="7">將中國律例, 合萬國公法, 別類分門.</sent>
+<sent type="main" lang="kor" page="8a" n="7">즁국 법을 만국공법의 합ᄒᆞ야 류ᄃᆡ로 구별ᄒᆞ고 문호ᄅᆞᆯ 난호와</sent>
+<sent type="main" lang="chi" page="8a" n="8">同者固彼此通行,</sent>
+<sent type="main" lang="kor" page="8a" n="8">ᄀᆞᆺᄐᆞᆫ 거ᄉᆞᆫ 진실노 피ᄎᆞ간에 통ᄒᆡᆼᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="8a" n="9">不必過爲之慮,</sent>
+<sent type="main" lang="kor" page="8a" n="9">굿ᄐᆞ여 과히 념려ᄒᆞᆯ ᄇᆡ 아니오</sent>
+<sent type="main" lang="chi" page="8a-8b" n="10">異者亦各行其是, 無庸刻以相繩.</sent>
+<sent type="main" lang="kor" page="8a-8b" n="10">다ᄅᆞᆫ 거ᄉᆞᆫ 각각 그 ^ 올흔 일만 ᄒᆡᆼᄒᆞ야 각박히 셔로 얽ᄆᆡ지 말며</sent>
+<sent type="main" lang="chi" page="8b" n="1">其介在同異之間者, 則互相酌量,</sent>
+<sent type="main" lang="kor" page="8b" n="1">혹 ᄀᆞᆺ고 다른 틈의 ᄭᅵ인 거ᄉᆞᆫ 셔로 침쟉ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="8b" n="2">折衷一是, 參訂旣妥,</sent>
+<sent type="main" lang="kor" page="8b" n="2">ᄒᆞᆫ갈ᄀᆞᆺ치 올흔 도리로 귀뎡ᄒᆞᆫ 후</sent>
+<sent type="main" lang="chi" page="8b" n="3">勒爲成書, 遣使往來, 迭通聘問,</sent>
+<sent type="main" lang="kor" page="8b" n="3">삭여 글을 ᄆᆡᆫᄃᆞ러 ᄉᆞ신을 보ᄂᆡ여 왕ᄅᆡᄒᆞ야 셔로 빙문을 통ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="8b" n="4">大會諸國, 立約要盟.</sent>
+<sent type="main" lang="kor" page="8b" n="4">졔국을 크게 모화 약됴ᄅᆞᆯ 셰우고 ᄆᆡᆼ셰ᄅᆞᆯ 뎡ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="8b" n="5">無詐無虞, 永相恪守,</sent>
+<sent type="main" lang="kor" page="8b" n="5">간사ᄒᆞᆷ도 업고 소우ᄒᆞᆷ도 업시 영영 셔로 각근이 직희ᄃᆡ</sent>
+<sent type="main" lang="chi" page="8b" n="6">敢有背公法,</sent>
+<sent type="main" lang="kor" page="8b" n="6">감히 공법을 ᄇᆡ반ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="8b" n="7">而以强凌弱, 藉端開釁者,</sent>
+<sent type="main" lang="kor" page="8b" n="7">강ᄒᆞ므로ᄡᅥ 약ᄒᆞᆫ 이ᄅᆞᆯ 업슈히 너기거나 일을 빙쟈ᄒᆞ고 흔단을 여ᄂᆞᆫ 쟤 잇거든</sent>
+<sent type="main" lang="chi" page="8b" n="8">各國會同, 得聲其罪而共討之,</sent>
+<sent type="main" lang="kor" page="8b" n="8">각국이 회동ᄒᆞ야 그 죄목을 쇼ᄅᆡᄒᆞ고 ᄒᆞᆷ긔 칠 거시니</sent>
+<sent type="main" lang="chi" page="8b" n="9">集數國之師, 以伐一邦之衆, 彼必不敵.</sent>
+<sent type="main" lang="kor" page="8b" n="9">두어 나라 군ᄉᆞᄅᆞᆯ 모화 ᄒᆞᆫ 나라를 치면 졔 반ᄃᆞ시 ᄃᆡ뎍지 못ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="9a" n="1">如能悔過, 遣使請和,</sent>
+<sent type="main" lang="kor" page="9a" n="1">만일 능히 회과ᄒᆞ야 ᄉᆞ신을 보ᄂᆡ여 화친ᄒᆞ기ᄅᆞᆯ 쳥ᄒᆞ거든</sent>
+<sent type="main" lang="chi" page="9a" n="2">卽援賠償兵費之例, 審其輕重,</sent>
+<sent type="main" lang="kor" page="9a" n="2">ᄒᆡᆼ군ᄒᆞᆯ ᄯᆡ ᄡᅳᆫ 부비ᄅᆞᆯ ᄇᆡ샹[물녀 밧ᄂᆞᆫ 거시라]ᄒᆞᄂᆞᆫ 젼례ᄅᆞᆯ 의거ᄒᆞ야 그 경즁을 ᄉᆞᆲ혀보아</sent>
+<sent type="main" lang="chi" page="9a" n="3">議以罰鍰, 各國均分, 存爲公項.</sent>
+<sent type="main" lang="kor" page="9a" n="3">벌젼을 의론ᄒᆞ야 밧은 후의 각국이 고로 난화 공용ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="9a" n="4">倘有怙惡不悛,</sent>
+<sent type="main" lang="kor" page="9a" n="4">만일 흉악ᄒᆞ믈 밋고 허믈을 곳치지 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="9a" n="5">屢征不服者,</sent>
+<sent type="main" lang="kor" page="9a" n="5">여러 번 쳐도 항복지 아니ᄒᆞᄂᆞᆫ 쟈여든</sent>
+<sent type="main" lang="chi" page="9a" n="6">始合兵共滅其國,</sent>
+<sent type="main" lang="kor" page="9a" n="6">비로쇼 군ᄉᆞᄅᆞᆯ 합ᄒᆞ야 그 나라를 ᄒᆞᆷ긔 멸ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="9a" n="7">書其罪, 以表春秋之義,</sent>
+<sent type="main" lang="kor" page="9a" n="7">그 죄ᄅᆞᆯ ᄡᅥ 츈츄에 대의ᄅᆞᆯ 표ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="9a" n="8">存其地, 另擇嗣統之君,</sent>
+<sent type="main" lang="kor" page="9a" n="8">그 ᄯᆞ흘 두어 가히 이어 인군 될 만ᄒᆞᆫ 이ᄅᆞᆯ 별노 갈ᄒᆡ여</sent>
+<sent type="main" lang="chi" page="9a" n="9">開誠布公, 審時定法.</sent>
+<sent type="main" lang="kor" page="9a" n="9">셩의ᄅᆞᆯ 열고 공심을 펴며 시셰ᄅᆞᆯ ᄉᆞᆲ히고 법을 뎡ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="9a-9b" n="10">夫如是則和局, 可期經久</sent>
+<sent type="main" lang="kor" page="9a-9b" n="10">대뎌 이러ᄒᆞᆫᄌᆞᆨ 화친ᄒᆞᄂᆞᆫ 판국이 가^히 오ᄅᆡ 가기ᄅᆞᆯ 긔약ᄒᆞᆯ 거시오</sent><!--'긔ᄋᆡᄒᆞᆯ’로 보이나 문맥상 '긔약ᄒᆞᆯ'(期)로 보임.-->
+<sent type="main" lang="chi" page="9b" n="1">而兵禍, 或亦少紓乎.</sent>
+<sent type="main" lang="kor" page="9b" n="1">병화도 혹 젹이 펴일진뎌</sent>
+<sent type="main" lang="chi" page="9b" n="2">故有道之邦, 雖彈丸, 亦足自立,</sent>
+<sent type="main" lang="kor" page="9b" n="2">그런 연고로 오직 도 잇ᄂᆞᆫ 나라ᄂᆞᆫ 젹기 비록 탄ᄌᆞ만 ᄒᆞᆯ지라도 죡히 스ᄉᆞ로 보젼ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="9b" n="3">無道之國, 雖富强, 不敢自雄.</sent>
+<sent type="main" lang="kor" page="9b" n="3">무도ᄒᆞᆫ 나라ᄂᆞᆫ 비록 부강ᄒᆞ나 감히 스ᄉᆞ로 굿셰믈 발뵈지 못ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="9b" n="4">通九萬里, 如戶庭,</sent>
+<sent type="main" lang="kor" page="9b" n="4">구만 리ᄅᆞᆯ 통ᄒᆞᄃᆡ 갓갑기 호뎡 츌입ᄒᆞᄃᆞᆺ ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="9b" n="5">聯數十邦, 爲指臂,</sent>
+<sent type="main" lang="kor" page="9b" n="5">수십국을 련ᄒᆞᄃᆡ 숀가락이 팔의 부리ᄃᆞᆺ ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="9b" n="6">將見干戈戾氣, 銷爲日月之光,</sent>
+<sent type="main" lang="kor" page="9b" n="6">병혁의 ᄉᆞ오나온 긔운은 변ᄒᆞ야 일월지광이 되고</sent>
+<sent type="main" lang="chi" page="9b" n="7">蠻貊遠人, 胥沾雨露之化也,</sent>
+<sent type="main" lang="kor" page="9b" n="7">만ᄆᆡᆨ 지방이 우로지ᄐᆡᆨ을 고로 닙으믈 보암ᄌᆞᆨᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="9b" n="8">不亦懿歟.</sent>
+<sent type="main" lang="kor" page="9b" n="8">ᄯᅩᄒᆞᆫ 아름답지 아니ᄒᆞ랴</sent>
+<sent type="title2" lang="chi" page="10a" n="1">論稅務</sent>
+<sent type="title2" lang="kor" page="10a" n="1">론셰무</sent>
+<sent type="anno" lang="chi" page="10a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="10a" n="2">부셰 밧ᄂᆞᆫ ᄉᆞ무ᄅᆞᆯ 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="10a" n="3">昔夏禹有會計之紀, 周官著理財之條,</sent>
+<sent type="main" lang="kor" page="10a" n="3">녯젹에 하우 시 회계ᄅᆞᆯ 긔록ᄒᆞᆫ 글이 잇고 쥬관에 ᄌᆡ용 다ᄉᆞ리ᄂᆞᆫ 됴목을 지엇시니</sent>
+<sent type="main" lang="chi" page="10a" n="4">誠以有天下者, 準乎什一之法, 取諸民,</sent>
+<sent type="main" lang="kor" page="10a" n="4">텬하ᄅᆞᆯ 둔 쟤 열의 하나 부셰 밧ᄂᆞᆫ 법을 쥰젹ᄒᆞ야 ᄇᆡᆨ셩의게 ᄎᆔᄒᆞ야</sent>
+<sent type="main" lang="chi" page="10a" n="5">以供國用而藉治百事也.</sent>
+<sent type="main" lang="kor" page="10a" n="5">국용을 이밧고 ᄇᆡᆨᄉᆞᄅᆞᆯ 다ᄉᆞ리게 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="10a" n="6">中國自開海禁, 與各國通商,</sent>
+<sent type="main" lang="kor" page="10a" n="6">즁국이 ᄒᆡ금[바다의 외국 사ᄅᆞᆷ을 금ᄒᆞᄂᆞᆫ 법이라]을 졔ᄒᆞ므로븟허 각국으로 더브러 통샹ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="10a" n="7">由道光二十二年, 中西立約,</sent>
+<sent type="main" lang="kor" page="10a" n="7">도광 이십이 년에 즁국과 양국이 약됴ᄅᆞᆯ 셰워</sent>
+<sent type="main" lang="chi" page="10a" n="8">以洋人各貨, 進口納稅之後,</sent>
+<sent type="main" lang="kor" page="10a" n="8">양인의 온ᄀᆞᆺ 물화로ᄡᅥ 포구의 드러오면 셰ᄅᆞᆯ 밧치게 ᄒᆞᆫ 후로븟허</sent>
+<sent type="main" lang="chi" page="10a" n="9">卽准由華商販運各地,</sent>
+<sent type="main" lang="kor" page="10a" n="9">즁국 샹고가 각쳐의 가 흥판ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="chi" page="10a" n="10">過關祗按估價,</sent>
+<sent type="main" lang="kor" page="10a" n="10">관문을 지나면 다만 물화 갑ᄉᆞᆯ 샹고ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="10a-10b" n="11">値每兩加稅, 不得過若干分.</sent>
+<sent type="main" lang="kor" page="10a-10b" n="11">ᄆᆡ 량^에 셰ᄅᆞᆯ 더ᄒᆞᄃᆡ 죠곰이라도 과람ᄒᆞ게 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="10b" n="1">維時當事, 不知中國稅額, 較之各國,</sent>
+<sent type="main" lang="kor" page="10b" n="1">이ᄯᆡ 당도지인이 즁국에 부셰 밧ᄂᆞᆫ ᄋᆡᆨ수가 각국에 비교ᄒᆞ건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="10b" n="2">有輕至四五倍七八倍者,</sent>
+<sent type="main" lang="kor" page="10b" n="2">헐ᄒᆞ미 ᄉᆞ오 ᄇᆡ 칠팔 ᄇᆡ에 니ᄅᆞᄂᆞᆫ 거시 잇ᄉᆞ믈 아지 못ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="10b" n="3">故立約如此也.</sent>
+<sent type="main" lang="kor" page="10b" n="3">약됴 셰우기ᄅᆞᆯ 이ᄀᆞᆺ치 ᄒᆞ미러니</sent>
+<sent type="main" lang="chi" page="10b" n="4">迨後天下多事, 徵兵募勇,</sent>
+<sent type="main" lang="kor" page="10b" n="4">후에 텬해 다ᄉᆞᄒᆞ야 군ᄉᆞᄅᆞᆯ 부르며 용ᄆᆡᆼ 잇ᄂᆞᆫ 이ᄅᆞᆯ 쇼모ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="chi" page="10b" n="5">始創搉貨抽釐之制, 藉給軍資.</sent>
+<sent type="main" lang="kor" page="10b" n="5">비로쇼 물화ᄅᆞᆯ 외목ᄒᆞ야 츄리법[원셰젼 외에 이리 오호ᄅᆞᆯ 더 밧ᄂᆞᆫ 법이라]을 창ᄀᆡᄒᆞ야 군량에 ᄌᆞ뢰ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="10b" n="6">夫商賈以販運爲生,</sent>
+<sent type="main" lang="kor" page="10b" n="6">대뎌 샹고ᄂᆞᆫ 흥판ᄒᆞ기로 ᄉᆡᆼ애ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="10b" n="7">若賊匪未靖, 道路不通,</sent>
+<sent type="main" lang="kor" page="10b" n="7">만일 도적을 평뎡치 못ᄒᆞ야 길이 통치 못ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="10b" n="8">鎖貨必遲,</sent>
+<sent type="main" lang="kor" page="10b" n="8">물화ᄅᆞᆯ ᄆᆡ매ᄒᆞ기 반ᄃᆞ시 더ᄃᆡᆯ지라</sent>
+<sent type="main" lang="chi" page="10b-11a" n="9">故莫不情殷報效.</sent>
+<sent type="main" lang="kor" page="10b-11a" n="9">그런고로 져마다 셰젼 밧치기^ᄅᆞᆯ ᄌᆞ원ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="11a" n="1">且所抽之釐, 仍增價於所售之貨,</sent>
+<sent type="main" lang="kor" page="11a" n="1">ᄯᅩ 츄리법은 물화에 갑ᄉᆞᆯ 더 언져 밧ᄂᆞᆫ 거시니</sent>
+<sent type="main" lang="chi" page="11a" n="2">實則取之衆人, 積少成多,</sent>
+<sent type="main" lang="kor" page="11a" n="2">여러 사ᄅᆞᆷ의게 바드ᄆᆡ 젹은 거시 ᄎᆞᄎᆞ 만하지니</sent>
+<sent type="main" lang="chi" page="11a" n="3">是以民泯怨咨, 商無虧損.</sent>
+<sent type="main" lang="kor" page="11a" n="3">이러므로 ᄇᆡᆨ셩도 칭원이 업고 샹고의게도 해로온 ᄇᆡ 업셔</sent>
+<sent type="main" lang="chi" page="11a" n="4">最旺之時, 通計海內, 歲收不下二千萬,</sent>
+<sent type="main" lang="kor" page="11a" n="4">가쟝 만히 바들 ᄯᆡ의ᄂᆞᆫ 일 년 ᄂᆡ에 ᄒᆡᄂᆡ의 밧ᄂᆞᆫ 도슈효가 이쳔만에 나리지 아니ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="11a" n="5">今雖稍減, 亦有一千五百萬,</sent>
+<sent type="main" lang="kor" page="11a" n="5">이졔 비록 젹이 감ᄒᆞ엿시나 ᄯᅩᄒᆞᆫ 일쳔오ᄇᆡᆨ만은 되ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="11a" n="6">故得以削平羣寇, 共慶昇平, 胥賴此耳.</sent>
+<sent type="main" lang="kor" page="11a" n="6">시러곰 도적을 평뎡ᄒᆞ고 태평을 누리ᄂᆞᆫ 거시 이 일을 힘 닙으미라</sent>
+<sent type="main" lang="chi" page="11a" n="7">無如釐卡委員, 或辦理不善,</sent>
+<sent type="main" lang="kor" page="11a" n="7">츄리 밧ᄂᆞᆫ 잡[길목셰 ᄒᆡᄌᆞᄅᆞᆯ 파고 군ᄉᆞᄅᆞᆯ 두어 도적을 방비ᄒᆞ며 샹고의게 수셰ᄒᆞᄂᆞᆫ 곳이라]에 일을 쥬쟝ᄒᆞᄂᆞᆫ 관원이 혹 구별ᄒᆞ기ᄅᆞᆯ 잘못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="11a" n="8">或因兵燹時, 設卡過多,</sent>
+<sent type="main" lang="kor" page="11a" n="8">혹 병화에 잡을 만히 베플ᄆᆡ</sent>
+<sent type="main" lang="chi" page="11b" n="1">洋人遂執洋貨免釐之說, 以爲要挾,</sent>
+<sent type="main" lang="kor" page="11b" n="1">양인이 져의 물화ᄂᆞᆫ 츄리 모면ᄒᆞ려 ᄒᆞᄂᆞᆫ 말을 고집ᄒᆞ야 요긴ᄒᆞᆫ 뎨목을 ᄉᆞᆷ고</sent>
+<sent type="main" lang="chi" page="11b" n="2">顯違條約, 欲撓我中國自主之權.</sent>
+<sent type="main" lang="kor" page="11b" n="2">현연이 약됴를 어긔여 즁국의셔 쥬쟝ᄒᆞᄂᆞᆫ 권을 아ᄉᆞ려 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="11b" n="3">卽使釐捐, 果累商民,</sent>
+<sent type="main" lang="kor" page="11b" n="3">셜ᄉᆞ 츄리 ᄂᆡᄂᆞᆫ 거시 과연 샹고의게 해로올지라도</sent>
+<sent type="main" lang="chi" page="11b" n="4">亦須俟國用稍裕時, 自行酌裁, 漸次停免,</sent>
+<sent type="main" lang="kor" page="11b" n="4">국용이 젹이 펴일 ᄯᆡ를 기다려 스ᄉᆞ로 침쟉ᄒᆞ야 ᄎᆞᄎᆞ 면셰ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="11b" n="5">斷非局外人所得而干預也.</sent>
+<sent type="main" lang="kor" page="11b" n="5">결단코 외국 사ᄅᆞᆷ이 아른 톄ᄒᆞᆯ ᄇᆡ 아니여ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="11b" n="6">今軍務雖平,</sent>
+<sent type="main" lang="kor" page="11b" n="6">이졔 도적은 비록 평뎡ᄒᆞ엿시나</sent>
+<sent type="main" lang="chi" page="11b" n="7">而防營尙不可撤,</sent>
+<sent type="main" lang="kor" page="11b" n="7">방어ᄒᆞᄂᆞᆫ 영문을 아직 쳘파ᄒᆞ지 아니ᄒᆞ엿고</sent>
+<sent type="main" lang="chi" page="11b" n="8">田賦猶未復原,</sent>
+<sent type="main" lang="kor" page="11b" n="8">뎐셰도 오히려 복고가 못 되엿시며</sent>
+<sent type="main" lang="chi" page="11b" n="9">一切善後事宜, 尙須布置.</sent>
+<sent type="main" lang="kor" page="11b" n="9">여려가지로 후ᄉᆞ를 획ᄎᆡᆨᄒᆞᄂᆞᆫ 거ᄉᆞᆯ 다 ᄇᆡ치ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="11b-12a" n="10">卽製造輪船槍礮, 悉藉釐金彌補,</sent>
+<sent type="main" lang="kor" page="11b-12a" n="10">화륜션을 지으나 양창 대포를 ᄆᆡᆫ드ᄂᆞᆫ 거^ᄉᆞᆯ 다 츄리 밧ᄂᆞᆫ 돈으로 미봉ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="12a" n="1">去之則半籌莫展, 百事俱弛.</sent>
+<sent type="main" lang="kor" page="12a" n="1">이졔 이를 바린즉 아모 계ᄀᆈ 업고 ᄇᆡᆨᄉᆡ 다 ᄒᆡ이ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="12a" n="2">且華商因避釐捐, 競買稅單,</sent>
+<sent type="main" lang="kor" page="12a" n="2">ᄯᅩ 즁국 샹고드리 츄리를 모피ᄒᆞ기로 셰젼 밧친 톄문을 닷토와 ᄉᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="12a" n="3">故洋稅因之而旺,</sent>
+<sent type="main" lang="kor" page="12a" n="3">양국 셰젼은 일노 인ᄒᆞ야 더옥 셩ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="12a" n="4">倘釐捐停止, 則洋稅必多偸漏,</sent>
+<sent type="main" lang="kor" page="12a" n="4">만일 츄리법을 뎡지ᄒᆞᆫᄌᆞᆨ 양국 셰젼은 반ᄃᆞ시 만흘 거시오</sent>
+<sent type="main" lang="chi" page="12a" n="5">有減無增, 此自然之勢也.</sent>
+<sent type="main" lang="kor" page="12a" n="5">셰젼의 루락되ᄂᆞᆫ 거시 감ᄒᆞ믄 잇ᄉᆞ나 더ᄒᆞ믄 업ᄉᆞᆯ 거시니 이ᄂᆞᆫ ᄌᆞ연ᄒᆞᆫ ᄉᆞ셰라</sent>
+<sent type="main" lang="chi" page="12a" n="6">査初辦釐捐時, 洋人之貨, 亦在各子口征課, 尙無異說.</sent>
+<sent type="main" lang="kor" page="12a" n="6">당초에 츄리법 셜시ᄒᆞᆯ ᄯᆡ에 양인의 물화도 각 포구의셔 셰젼을 바드ᄃᆡ 오히려 이론이 업더니</sent>
+<sent type="main" lang="chi" page="12a" n="7">迨咸豐八年十一月, 中西重訂條約,</sent>
+<sent type="main" lang="kor" page="12a" n="7">함풍 팔 년 십일월에 즁국과 셔양이 약됴를 다시 뎡ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="chi" page="12a-12b" n="8">始定洋貨土貨, 願一次納稅, 可免各口征收者,</sent>
+<sent type="main" lang="kor" page="12a-12b" n="8">양국 물화와 즁국 ^ 토산 물화를 ᄒᆞᆫ 번만 셰젼을 밧치고 다른 포구의ᄂᆞᆫ 면셰ᄒᆞ기를 원ᄒᆞᄂᆞᆫ 쟈ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="12b" n="1">每百兩徵銀二兩五錢,</sent>
+<sent type="main" lang="kor" page="12b" n="1">ᄆᆡ ᄇᆡᆨ에 은ᄌᆞ 이 량 오 젼식 밧치고</sent>
+<sent type="main" lang="chi" page="12b" n="2">給半稅單爲憑,</sent>
+<sent type="main" lang="kor" page="12b" n="2">반셰젼 밧친 톄문을 ᄂᆡ여쥬어 빙고ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="12b" n="3">無論運往何地, 他子口不得再徵,</sent>
+<sent type="main" lang="kor" page="12b" n="3">아모 ᄃᆡ로 슈운ᄒᆞ야 가든지 다른 포구의ᄂᆞᆫ 셰젼을 다시 밧지 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="12b" n="4">其無半稅單者, 逢關過卡,</sent>
+<sent type="main" lang="kor" page="12b" n="4">반셰젼 밧친 톄문이 업ᄂᆞᆫ 쟈ᄂᆞᆫ 관문을 지나거나 잡을 지나든지</sent>
+<sent type="main" lang="chi" page="12b" n="5">仍照例納稅抽釐,</sent>
+<sent type="main" lang="kor" page="12b" n="5">의례이 셰젼과 츄리를 밧치게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="12b" n="6">斯乃體恤洋商, 恩施格外,</sent>
+<sent type="main" lang="kor" page="12b" n="6">이ᄂᆞᆫ 양국 샹고를 두돈ᄒᆞ야 별노이 은전을 베플미니</sent>
+<sent type="main" lang="chi" page="12b" n="7">較之華商, 其獲利厚矣.</sent>
+<sent type="main" lang="kor" page="12b" n="7">즁원 상고의게 비교ᄒᆞ면 대리 소관인 고로</sent>
+<sent type="main" lang="chi" page="12b" n="8">故華人之黠者, 每每串通洋人, 互相蒙蔽,</sent>
+<sent type="main" lang="kor" page="12b" n="8">즁원 사ᄅᆞᆷ의 간사ᄒᆞᆫ 쟤 ᄆᆡ양 양인으로 부동ᄒᆞ야 셔로 은닉ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="12b-13a" n="9">有代華商, 領半稅單而取費者,</sent>
+<sent type="main" lang="kor" page="12b-13a" n="9">즁원 샹고를 ᄃᆡ신ᄒᆞ야 ^ 반셰젼 밧친 톄문을 맛타쥬고 은을 밧ᄂᆞᆫ 쟈도 이시며</sent>
+<sent type="main" lang="chi" page="13a" n="1">有代洋商, 用洋船裝運洋藥各貨者,</sent>
+<sent type="main" lang="kor" page="13a" n="1">양국 샹고ᄅᆞᆯ ᄃᆡ신ᄒᆞ야 양국 ᄇᆡ의 양국 약ᄌᆡ와 온ᄀᆞᆺ 물화ᄅᆞᆯ 슈운ᄒᆞᄂᆞᆫ 쟈도 이시며</sent>
+<sent type="main" lang="chi" page="13a" n="2">有代用護照, 包送無運照之土貨者,</sent>
+<sent type="main" lang="kor" page="13a" n="2">혹 물금톄 업ᄂᆞᆫ 즁국 물화ᄅᆞᆯ 호숑ᄒᆞᄂᆞᆫ 쟈도 잇셔</sent>
+<sent type="main" lang="chi" page="13a" n="3">譸張爲幻, 流弊滋多. 洋稅釐金, 交受其困,</sent>
+<sent type="main" lang="kor" page="13a" n="3">여러가지로 환롱ᄒᆞᄆᆡ 폐단이 ᄌᆞ심ᄒᆞ야 양국 셰젼과 츄리 밧ᄂᆞᆫ 법이 다 폐단이 되니</sent>
+<sent type="main" lang="chi" page="13a" n="4">而華商之守分者, 不能獲利,</sent>
+<sent type="main" lang="kor" page="13a" n="4">즁원 샹고의 고지식ᄒᆞᆫ 쟈ᄂᆞᆫ 능히 ᄎᆔ리ᄒᆞᆯ 길이 업ᄉᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="13a" n="5">多依附洋人, 而變爲奸商,</sent>
+<sent type="main" lang="kor" page="13a" n="5">만히 양인의게 븟치여 롱간ᄒᆞ야 쟝ᄉᆞᄒᆞ니</sent>
+<sent type="main" lang="chi" page="13a" n="6">反不如裁撤釐金, 倍增關稅,</sent>
+<sent type="main" lang="kor" page="13a" n="6">도로혀 츄리법을 쳘파ᄒᆞ고 관문의 슈셰ᄅᆞᆯ ᄇᆡᄅᆞᆯ 더ᄒᆞᆷ만 ᄀᆞᆺ지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="13a" n="7">其販運別口者, 仍納半稅,</sent>
+<sent type="main" lang="kor" page="13a" n="7">다른 포구에 슈운ᄒᆞᄂᆞᆫ 쟈ᄂᆞᆫ 인ᄒᆞ야 반셰젼을 밧은ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="13a-13b" n="8">則洋人無所藉口, 而華商不至向隅.</sent>
+<sent type="main" lang="kor" page="13a-13b" n="8">양인도 빙ᄌᆞᄒᆞᆯ 말이 업^고 즁국 샹고들도 억울ᄒᆞᆯ ᄇᆡ 업ᄉᆞᆯ 거시며</sent>
+<sent type="main" lang="chi" page="13b" n="1">況査洋人所轄之香港澳門,</sent>
+<sent type="main" lang="kor" page="13b" n="1">ᄒᆞ믈며 양인의 쥬관ᄒᆞᄂᆞᆫ 향항과 오문[다 포구 일홈] 일을 샹고ᄒᆞ야 보니</sent>
+<sent type="main" lang="chi" page="13b" n="2">無徵收釐稅之例, 商賈多抵其地,</sent>
+<sent type="main" lang="kor" page="13b" n="2">츄리 밧ᄂᆞᆫ 젼례 업ᄂᆞᆫ지라 샹고들이 그곳으로 가ᄂᆞᆫ 쟤 만흐니</sent>
+<sent type="main" lang="chi" page="13b" n="3">以期貨平易售, 免出稅釐.</sent>
+<sent type="main" lang="kor" page="13b" n="3">물홰 평평ᄒᆞ야 팔기 쉽고 츄리ᄅᆞᆯ 면ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="13b" n="4">故香港澳門之貨物日多, 中國各埠之生涯日澹,</sent>
+<sent type="main" lang="kor" page="13b" n="4">향항과 오문의 물화ᄂᆞᆫ ᄂᆞᆯ노 만코 즁국 각쳐의 ᄉᆡᆼ애ᄂᆞᆫ ᄂᆞᆯ노 박ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="13b" n="5">貽隣邦之藐視, 擴洋島之財源.</sent>
+<sent type="main" lang="kor" page="13b" n="5">니웃 나라의 업슈히 너기믈 밧고 양국의 ᄌᆡ믈 근원만 붓게 ᄒᆞᄂᆞᆫ ᄌᆞᆨ시며</sent>
+<sent type="main" lang="chi" page="13b" n="6">又如粤東闈姓捐輸, 其款甚鉅,</sent>
+<sent type="main" lang="kor" page="13b" n="6">ᄯᅩ 월동 위셩[사ᄅᆞᆷ의 셩이라]이 슈셰ᄒᆞᄂᆞᆫ 법을 ᄂᆡᄆᆡ 그 됴건이 심히 크니</sent>
+<sent type="main" lang="chi" page="13b" n="7">本屬病民傷化, 惟不能杜其獘遏其流,</sent>
+<sent type="main" lang="kor" page="13b" n="7">ᄇᆡᆨ셩을 해롭게 ᄒᆞ고 교화ᄅᆞᆯ 샹ᄒᆞ게 ᄒᆞᄃᆡ 능히 그 폐단을 막지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="13b-14a" n="8">而奸民遂遷往澳門,</sent>
+<sent type="main" lang="kor" page="13b-14a" n="8">간사ᄒᆞᆫ ᄇᆡᆨ셩드리 오문으^로 올마가</sent>
+<sent type="main" lang="chi" page="14a" n="1">仍行開廠,</sent>
+<sent type="main" lang="kor" page="14a" n="1">인ᄒᆞ야 져ᄌᆞᄒᆞᄂᆞᆫ 집을 짓고 물화ᄅᆞᆯ 팔며 셰젼을 ᄂᆡ니</sent>
+<sent type="main" lang="chi" page="14a" n="2">廣收綜計, 三年捐銀五十萬兩, 利歸洋人,</sent>
+<sent type="main" lang="kor" page="14a" n="2">분수ᄅᆞᆯ 교계ᄒᆞ건ᄃᆡ 삼년의 ᄂᆡᄂᆞᆫ 은이 오십만 량이오 리ᄂᆞᆫ 양인의게 도라가니</sent>
+<sent type="main" lang="chi" page="14a" n="3">此所謂爲淵毆魚,</sent>
+<sent type="main" lang="kor" page="14a" n="3">이ᄂᆞᆫ 니ᄅᆞᆫ바 모ᄉᆞᆯ ᄆᆡᆫᄃᆞ러 고기ᄅᆞᆯ 모라 드리며</sent>
+<sent type="main" lang="chi" page="14a" n="4">爲叢毆爵也.</sent>
+<sent type="main" lang="kor" page="14a" n="4">슈플을 ᄆᆡᆫᄃᆞ러 ᄉᆡᄅᆞᆯ 모라 드리미라</sent>
+<sent type="main" lang="chi" page="14a" n="5">曾考泰西各國稅額大致,</sent>
+<sent type="main" lang="kor" page="14a" n="5">태셔 각국에 셰젼 밧ᄂᆞᆫ 대톄ᄅᆞᆯ 일ᄌᆞᆨ 샹고ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="14a" n="6">以値百取二十或取四十爲制,</sent>
+<sent type="main" lang="kor" page="14a" n="6">ᄆᆡ ᄇᆡᆨ에 이십 량도 ᄎᆔᄒᆞ며 혹 ᄉᆞ십 량도 ᄎᆔᄒᆞ고</sent>
+<sent type="main" lang="chi" page="14a" n="7">最多則有値百取百者,</sent>
+<sent type="main" lang="kor" page="14a" n="7">그즁 만흔 거신ᄌᆞᆨ ᄆᆡ ᄇᆡᆨ에 ᄇᆡᆨ 량을 ᄎᆔᄒᆞᄂᆞᆫ 쟈도 이시며</sent>
+<sent type="main" lang="chi" page="14a" n="8">又有全不取稅者,</sent>
+<sent type="main" lang="kor" page="14a" n="8">ᄯᅩ 젼수히 셰젼을 밧지 아니ᄒᆞᄂᆞᆫ 쟈도 이시니</sent>
+<sent type="main" lang="chi" page="14a" n="9">盖於輕重之中, 各寓自便之計.</sent>
+<sent type="main" lang="kor" page="14a" n="9">대뎌 경즁지간의 스ᄉᆞ로 잉편ᄒᆞᆯ 계교를 위ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="14a-14b" n="10">卽如烟酒, 外洋徵稅極重,</sent>
+<sent type="main" lang="kor" page="14a-14b" n="10">슐과 담베ᄂᆞᆫ 외양의셔 슈셰ᄒᆞ기ᄅᆞᆯ 즁히 ᄒᆞ^고</sent>
+<sent type="main" lang="chi" page="14b" n="1">在中國開洋酒店者, 尙需納䂓領牌,</sent>
+<sent type="main" lang="kor" page="14b" n="1">즁국의셔 양국 슐을 밧아 쥬뎜을 열고 파ᄂᆞᆫ 쟈도 오히려 셰젼을 밧치거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="14b" n="2">而每年進口之呂宋烟洋酒, 其數甚鉅,</sent>
+<sent type="main" lang="kor" page="14b" n="2">ᄆᆡ년의 포구로 드러오ᄂᆞᆫ 려송연[려송국 담베라]과 양국 슐이 그 수ᄒᆈ 심히 만흐ᄃᆡ</sent>
+<sent type="main" lang="chi" page="14b" n="3">竟充伙食, 槪不納稅,</sent>
+<sent type="main" lang="kor" page="14b" n="3">한만히 먹을 거시라 ᄒᆞ야 셰젼을 밧지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="14b" n="4">泰西俱無此例, 尤屬不公.</sent>
+<sent type="main" lang="kor" page="14b" n="4">태셔의ᄂᆞᆫ 이런 젼례 일졀 업ᄉᆞᆫᄌᆞᆨ 더옥 공번되지 못ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="14b" n="5">今宜重訂新章, 仿照各國稅則,</sent>
+<sent type="main" lang="kor" page="14b" n="5">이졔 ᄆᆞᆺ당히 ᄉᆡ 법을 다시 뎡ᄒᆞᄃᆡ 각국의 슈셰ᄒᆞᄂᆞᆫ 법을 의방ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="14b" n="6">加徵進口之貨,</sent>
+<sent type="main" lang="kor" page="14b" n="6">포구로 드러오ᄂᆞᆫ 물화ᄅᆞᆯ 더 밧게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="14b" n="7">幷重稅烟酒鴉片虛費等物, 以昭平允.</sent>
+<sent type="main" lang="kor" page="14b" n="7">담베와 슐과 아편연 ᄀᆞᆺᄐᆞᆫ 허비ᄒᆞᄂᆞᆫ 등물은 셰젼을 즁히 밧게 ᄒᆞ야 평균ᄒᆞ고 밋부믈 ᄇᆞᆰ히며</sent>
+<sent type="main" lang="chi" page="14b-15a" n="8">又如珠玉錦繡珍玩, 非民生日用飮食所必需,</sent>
+<sent type="main" lang="kor" page="14b-15a" n="8">쥬옥금슈의 온ᄀᆞᆺ 완호지물은 ᄇᆡᆨ셩의 일용 음식의 당치 아니ᄒᆞᆫ ^ ᄇᆡ니</sent>
+<sent type="main" lang="chi" page="15a" n="1">雖倍稅加釐,</sent>
+<sent type="main" lang="kor" page="15a" n="1">비록 세젼을 갑졀노 밧고 츄리ᄅᆞᆯ 더 바다도</sent>
+<sent type="main" lang="chi" page="15a" n="2">無捐於貧民, 無傷於富室.</sent>
+<sent type="main" lang="kor" page="15a" n="2">간난ᄒᆞᆫ ᄇᆡᆨ셩과 부요ᄒᆞᆫ ᄇᆡᆨ셩의게 손상ᄒᆞᆯ ᄇᆡ 업ᄉᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="15a" n="3">且統計, 我國之所無者</sent>
+<sent type="main" lang="kor" page="15a" n="3">ᄯᅩ 일통을 교계ᄒᆞ야 아국의 업ᄂᆞᆫ 거시어든</sent>
+<sent type="main" lang="chi" page="15a" n="4">則輕稅, 以廣來源,</sent>
+<sent type="main" lang="kor" page="15a" n="4">셰젼을 경히 ᄒᆞ야 오ᄂᆞᆫ 근원을 널니 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="15a" n="5">有者則重稅, 以遏去路,</sent>
+<sent type="main" lang="kor" page="15a" n="5">잇ᄂᆞᆫ 거시어든 셰젼을 즁히 ᄒᆞ야 가ᄂᆞᆫ 길을 막게 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="15a" n="6">權其輕重, 衛我商民.</sent>
+<sent type="main" lang="kor" page="15a" n="6">경즁을 져울노 다드시 ᄒᆞ야 우리 쟝ᄉᆞᄒᆞᄂᆞᆫ ᄇᆡᆨ셩을 호위ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="15a" n="7">倘慮率爾更易, 齟齬必多,</sent>
+<sent type="main" lang="kor" page="15a" n="7">만일 경솔히 변ᄀᆡᄒᆞ랴 ᄒᆞ면 셔어ᄒᆞᆫ 폐단이 만ᄒᆞᆯ가 념려되니</sent>
+<sent type="main" lang="chi" page="15a" n="8">惟於期滿換約之時, 重定稅則,</sent>
+<sent type="main" lang="kor" page="15a" n="8">오직 긔약이 찬 후 약됴ᄅᆞᆯ 밧골 ᄯᆡ의 슈셰ᄒᆞᄂᆞᆫ 법을 곳쳐 뎡ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="15a" n="9">據理力爭, 務使之就我範圍而後已耳.</sent>
+<sent type="main" lang="kor" page="15a" n="9">ᄉᆞ리ᄃᆡ로 힘ᄡᅥ 닷토와 그여히 나의 법도에 나아오게 ᄒᆞᆫ 후에 말 거시니라</sent>
+<sent type="title2" lang="chi" page="16a" n="1">論鴉片</sent>
+<sent type="title2" lang="kor" page="16a" n="1">론아편</sent>
+<sent type="anno" lang="chi" page="16a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="16a" n="2">아편연을 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="16a" n="3">今夫爲政之要, 能因勢以利導, 斯救獘而補偏,</sent>
+<sent type="main" lang="kor" page="16a" n="3">대뎌 졍ᄉᆞᄒᆞᄂᆞᆫ 도ᄂᆞᆫ 능히 형셰ᄅᆞᆯ 인ᄒᆞ야 리ᄒᆞ므로 인도ᄒᆞ고 폐단을 구ᄒᆞ고 일편된 거ᄉᆞᆯ 기우면</sent>
+<sent type="main" lang="chi" page="16a" n="4">黎庶於以蒙庥, 國家因而獲益.</sent>
+<sent type="main" lang="kor" page="16a" n="4">ᄇᆡᆨ셩이 이에 덕ᄐᆡᆨ을 닙고 나라히 인ᄒᆞ야 유익ᄒᆞ믈 엇ᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="16a" n="5">故立法, 不得不嚴,</sent>
+<sent type="main" lang="kor" page="16a" n="5">그런고로 법 셰우기ᄅᆞᆯ 부득불 엄히 ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="16a" n="6">而用情 不可不恕.</sent>
+<sent type="main" lang="kor" page="16a" n="6">인졍을 ᄡᅳᄆᆡ 불가불 용셔ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="16a" n="7">慨自鴉片流入中國,</sent>
+<sent type="main" lang="kor" page="16a" n="7">대개 아편연이 즁국의 드러오므로븟허</sent>
+<sent type="main" lang="chi" page="16a" n="8">毒痡天下, 迄今垂數十年, 出口之銀, 難以會計.</sent>
+<sent type="main" lang="kor" page="16a" n="8">독ᄒᆞᆫ 긔운이 텬하ᄅᆞᆯ 병들게 ᄒᆞᆫ 지 우금 수십 년의 포구로 나가ᄂᆞᆫ 은이 불가승쉬라</sent>
+<sent type="main" lang="chi" page="16a" n="9">若非絲茶兩種, 互相交易, 不幾竭中國之財源耶.</sent>
+<sent type="main" lang="kor" page="16a" n="9">만일 면ᄉᆞ와 향다 두 가지로 셔로 환ᄆᆡᄒᆞ미 업ᄉᆞ면 즁국 ᄌᆡ물이 거의 다ᄒᆞ지 아니ᄒᆞ엿시랴</sent>
+<sent type="main" lang="chi" page="16a-16b" n="10">然而時不可爲, 勢猶可挽,</sent>
+<sent type="main" lang="kor" page="16a-16b" n="10">그러나 ^ ᄯᆡᄂᆞᆫ 가히 ᄒᆞᆯ 슈 업셔도 형셰ᄂᆞᆫ 오히려 가히 당긜만 ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="16b" n="1">則莫如弛種鶯粟之禁.</sent>
+<sent type="main" lang="kor" page="16b" n="1">ᄋᆡᆼ속각 심으ᄂᆞᆫ 거ᄉᆞᆯ 금ᄒᆞ지 마나니만 ᄀᆞᆺ지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="16b" n="2">昔林文忠, 因禁鴉片, 以致遣戍,</sent>
+<sent type="main" lang="kor" page="16b" n="2">녯젹에 림문츙[사ᄅᆞᆷ의 일홈]이 아편연을 금ᄒᆞ랴 ᄒᆞ다가 변방의 ᄂᆡ치기의 니ᄅᆞ고</sent>
+<sent type="main" lang="chi" page="16b" n="3">及再起用, 不禁栽種鶯粟, 嘗言,</sent>
+<sent type="main" lang="kor" page="16b" n="3">셰샹의 다시 나오기의 밋쳐셔ᄂᆞᆫ ᄋᆡᆼ속각 심으ᄂᆞᆫ 거ᄉᆞᆯ 금치 아니ᄒᆞ며 일ᄌᆞᆨ 말ᄉᆞᆷᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="4">“旣不能禁, 不如任民自種,</sent>
+<sent type="main" lang="kor" page="16b" n="4">임의 능히 금치 못ᄒᆞᆯ진ᄃᆡ ᄇᆡᆨ셩ᄃᆞ려 임의로 심으게 ᄒᆞᆯ만 ᄀᆞᆺ지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="16b" n="5">可塞漏巵.”</sent>
+<sent type="main" lang="kor" page="16b" n="5">그리ᄒᆞ면 ᄇᆡᆨ셩의 리로온 일이 루락ᄒᆞᄂᆞᆫ 폐ᄅᆞᆯ 막으리라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="16b" n="6">遠慮深謀, 實非尋常所能企及.</sent>
+<sent type="main" lang="kor" page="16b" n="6">먼니 념려ᄒᆞ고 깁히 ᄭᅬᄒᆞᄂᆞᆫ 거시 실노 심샹ᄒᆞᆫ 사ᄅᆞᆷ의 능히 밋ᄎᆞᆯ ᄇᆡ 아니로다</sent>
+<sent type="main" lang="chi" page="16b-17a" n="7">今陜甘運貴晉蜀等省, 及江南之滁州逝之台州等處, 皆種鶯粟,</sent>
+<sent type="main" lang="kor" page="16b-17a" n="7">이졔 셤셔와 감슉과 운남과 귀쥬와 ^ 진 ᄯᆞ 쵹 ᄯᆞ와 강남의 졔쥬와 졀강의 태쥬 등쳐의 다 ᄋᆡᆼ속각을 심으니</sent>
+<sent type="main" lang="chi" page="17a" n="1">滋蔓已多,</sent>
+<sent type="main" lang="kor" page="17a" n="1">퍼지기ᄅᆞᆯ 임의 만히 ᄒᆞ엿시나</sent>
+<sent type="main" lang="chi" page="17a" n="2">然核其所産之味, 淡於洋土,</sent>
+<sent type="main" lang="kor" page="17a" n="2">그러나 그 심으ᄂᆞᆫ 바 토픔이 양국 토픔보다 박ᄒᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="17a" n="3">故吸之癮輕而病淺, 戒之亦易.</sent>
+<sent type="main" lang="kor" page="17a" n="3">먹ᄂᆞᆫ 쟤 독긔가 경ᄒᆞᄆᆡ 병 되미 엿트니 경계ᄒᆞ기 ᄯᅩᄒᆞᆫ ᄉᆔ오리라</sent>
+<sent type="main" lang="chi" page="17a" n="4">或曰人心多詐,</sent>
+<sent type="main" lang="kor" page="17a" n="4">혹이 ᄀᆞᆯ오ᄃᆡ 인심이 간사ᄒᆞ미 만흐니</sent>
+<sent type="main" lang="chi" page="17a" n="5">久則必有以假亂眞攙和射利者,</sent>
+<sent type="main" lang="kor" page="17a" n="5">오ᄅᆡᆫᄌᆞᆨ 반ᄃᆞ시 그짓 거ᄉᆞ로 참 거ᄉᆞᆯ 어ᄌᆞ러이 ᄒᆞ야 부동ᄒᆞ야 리ᄅᆞᆯ 구ᄒᆞᄂᆞᆫ 쟤 잇ᄉᆞ리라 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="17a" n="6">余謂世間各物惟慮不眞,</sent>
+<sent type="main" lang="kor" page="17a" n="6">나ᄂᆞᆫ 니ᄅᆞᄃᆡ 셰샹 만물이 다 진픔이 아릴가 념려ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="17a" n="7">獨此物不妨其假,</sent>
+<sent type="main" lang="kor" page="17a" n="7">홀노 이 거ᄉᆞᆫ 그 그짓 거시 방해롭지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="17a" n="8">貨愈假則毒愈輕,</sent>
+<sent type="main" lang="kor" page="17a" n="8">픔이 거짓 거신ᄌᆞᆨ 독긔가 더옥 경ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="17a-17b" n="9">不戒之戒不禁之禁,</sent>
+<sent type="main" lang="kor" page="17a-17b" n="9">경계ᄒᆞ지 아니 ᄒᆞ야도 경^계ᄒᆞ고 금ᄒᆞ지 아니ᄒᆞ야도 졀노 금ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="17b" n="1">日後將與水旱烟, 同類視之矣.</sent>
+<sent type="main" lang="kor" page="17b" n="1">일후의 쟝ᄎᆞᆺ 슈한연[담베 일홈]과 ᄀᆞᆺ치 보리라</sent>
+<sent type="main" lang="chi" page="17b" n="2">若洋土能仿外國之例, 稅倍於價,</sent>
+<sent type="main" lang="kor" page="17b" n="2">만일 양국의셔 능히 외국 젼례ᄅᆞᆯ 의방ᄒᆞ야 셰젼을 본갑에셔 갑졀이나 더 밧고</sent>
+<sent type="main" lang="chi" page="17b" n="3">而本土卽照稅抽收,</sent>
+<sent type="main" lang="kor" page="17b" n="3">본국의셔ᄂᆞᆫ 젼례ᄃᆡ로 셰젼을 바드ᄃᆡ</sent>
+<sent type="main" lang="chi" page="17b" n="4">種鶯粟之田, 則照錢漕, 加倍徵納,</sent>
+<sent type="main" lang="kor" page="17b" n="4">ᄋᆡᆼ속각 심으ᄂᆞᆫ 밧친ᄌᆞᆨ 대동을 돈으로 밧치ᄂᆞᆫ 젼례보다 갑졀을 밧아</sent>
+<sent type="main" lang="chi" page="17b" n="5">使洋土價昻, 本土價賤,</sent>
+<sent type="main" lang="kor" page="17b" n="5">양국 토산은 갑시 만코 본쳐 토산은 갑시 헐ᄒᆞ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="17b" n="6">人將多食本土, 少購洋土,</sent>
+<sent type="main" lang="kor" page="17b" n="6">사ᄅᆞᆷ이 쟝ᄎᆞᆺ 본쳐 토산을 만히 먹고 양국 토산을 젹게 ᄉᆞ면</sent>
+<sent type="main" lang="chi" page="17b" n="7">豈非與國有益, 與民興利乎.</sent>
+<sent type="main" lang="kor" page="17b" n="7">엇지 나라와 ᄇᆡᆨ셩의게 크게 유익지 아니ᄒᆞ랴</sent>
+<sent type="main" lang="chi" page="17b" n="8">或謂中國所收鴉片稅餉, 西人已定有章程,</sent>
+<sent type="main" lang="kor" page="17b" n="8">혹이 니ᄅᆞᄃᆡ 즁국의셔 거두ᄂᆞᆫ 바 아편연 셰젼을 셔양국 사ᄅᆞᆷ이 임의 법을 뎡ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="17b-18a" n="9">存載約中, 議增非易.</sent>
+<sent type="main" lang="kor" page="17b-18a" n="9">약^됴 가온ᄃᆡ 시러시니 더ᄒᆞ기ᄅᆞᆯ 의론ᄒᆞ기 쉽지 못ᄒᆞ리라 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="18a" n="1">不知, 鴉片乃害人之物, 中外共知.</sent>
+<sent type="main" lang="kor" page="18a" n="1">그러치 아니ᄒᆞᆫ 일이 아편연은 사ᄅᆞᆷ을 해ᄒᆞᄂᆞᆫ 물건이라 원근이 다 아ᄂᆞᆫ ᄇᆡ니</sent>
+<sent type="main" lang="chi" page="18a" n="2">外國旣不能絶其來源,</sent><!--원문에는 '阻'으로 되어 있음.-->
+<sent type="main" lang="kor" page="18a" n="2">외국의셔 능히 그 오ᄂᆞᆫ 근원을 ᄭᅳᆫ치 못ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="18a" n="3">卽加稅諒難力沮</sent>
+<sent type="main" lang="kor" page="18a" n="3">셰젼을 더ᄒᆞᆯ지라도 힘ᄡᅥ 막기 어렵고</sent>
+<sent type="main" lang="chi" page="18a" n="4">况西例, 土産之貨, 出口無稅, 抽亦無多,</sent>
+<sent type="main" lang="kor" page="18a" n="4">ᄒᆞ믈며 셔국 젼례에 토디 소산에 물화ᄂᆞᆫ 포구에 나갈 졔 슈셰도 업고 츄리도 만치 아니ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="18a" n="5">惟進口者, 必徵重稅,</sent>
+<sent type="main" lang="kor" page="18a" n="5">오직 포구로 드러오ᄂᆞᆫ 쟈ᄂᆞᆫ 반ᄃᆞ시 슈셰ᄅᆞᆯ 즁히 밧아</sent>
+<sent type="main" lang="chi" page="18a" n="6">以冀土産暢銷,</sent>
+<sent type="main" lang="kor" page="18a" n="6">토디 소산이 플녀 나가기ᄅᆞᆯ 쉽게 ᄒᆞ고ᄌᆞ ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="18a" n="7">而煙酒則必重榷其稅, 盖其意在於杜漸,</sent>
+<sent type="main" lang="kor" page="18a" n="7">담베와 슐인ᄌᆞᆨ 반ᄃᆞ시 그 슈셰ᄅᆞᆯ 즁히 ᄒᆞ기ᄂᆞᆫ 그 ᄯᅳᆺ이 당초에 ᄡᅡᆨ슬 업시 ᄒᆞ고ᄌᆞ ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="18a-18b" n="8">非以削民,</sent>
+<sent type="main" lang="kor" page="18a-18b" n="8">ᄇᆡᆨ셩의게 ^ 해롭게 ᄒᆞ미 아니라</sent>
+<sent type="main" lang="chi" page="18b" n="1">彼國旣可行之 中國獨不能哉.</sent>
+<sent type="main" lang="kor" page="18b" n="1">져의 나라에셔 임의 ᄒᆡᆼᄒᆞ엿거니 즁국에션들 엇지 홀노 ᄒᆡᆼ치 못ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="18b" n="2">且鴉片之患, 其來也以漸,</sent>
+<sent type="main" lang="kor" page="18b" n="2">ᄯᅩ 아편연의 빌미 되미 그 올 젹에도 ᄎᆞᄎᆞ 왓시니</sent>
+<sent type="main" lang="chi" page="18b" n="3">其去也亦當以漸.</sent>
+<sent type="main" lang="kor" page="18b" n="3">그 업시ᄒᆞᆯ 젹에도 ᄯᅩᄒᆞᆫ ᄆᆞᆺ당히 ᄎᆞᄎᆞ ᄒᆞᆯ 거시라</sent>
+<sent type="main" lang="chi" page="18b" n="4">試觀從前鴉片價昻, 吸者自小,</sent>
+<sent type="main" lang="kor" page="18b" n="4">시험ᄒᆞ야 보건ᄃᆡ 기젼에 아편연 갑시 귀ᄒᆞᄆᆡ 먹ᄂᆞᆫ 쟤 젹더니</sent>
+<sent type="main" lang="chi" page="18b" n="5">其後價賤, 吸者愈多.</sent>
+<sent type="main" lang="kor" page="18b" n="5">그 후에 갑시 쳔ᄒᆞᄆᆡ 먹ᄂᆞᆫ 쟤 더옥 만핫시니</sent>
+<sent type="main" lang="chi" page="18b" n="6">倘加稅, 價必驟增而吸者漸少,</sent>
+<sent type="main" lang="kor" page="18b" n="6">만일 셰젼을 더ᄒᆞ면 갑시 급히 올으고 먹ᄂᆞᆫ 쟤 졈졈 젹을 거시니</sent>
+<sent type="main" lang="chi" page="18b" n="7">亦返本還原之理也.</sent>
+<sent type="main" lang="kor" page="18b" n="7">쳐음에 ᄉᆡ로 나올 ᄯᆡ와 ᄀᆞᆺ틀 리치오</sent>
+<sent type="main" lang="chi" page="18b" n="8">且吸鴉片銷鑠其精神, 頹唐其志氣,</sent>
+<sent type="main" lang="kor" page="18b" n="8">ᄯᅩ 아편연을 먹으면 그 졍신을 쇼삭ᄒᆞ고 심긔ᄅᆞᆯ 모손ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="18b" n="9">以致廢時失業, 傾産破家,</sent>
+<sent type="main" lang="kor" page="18b" n="9">업을 폐ᄒᆞ며 가산을 파ᄒᆞ기에 니ᄅᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="18b-19a" n="10">其痼甚深, 其害甚重.</sent>
+<sent type="main" lang="kor" page="18b-19a" n="10">그 고질이 심히 깁고 ^ 그 해로오미 심히 즁ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="19a" n="1">有心世道者, 亟宜奏請朝廷, 限以日期,</sent>
+<sent type="main" lang="kor" page="19a" n="1">셰도에 ᄆᆞᄋᆞᆷ을 두ᄂᆞᆫ 쟤 급히 죠뎡에 주쳥ᄒᆞ야 일ᄌᆞᄅᆞᆯ ᄒᆞᆫ뎡ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="19a" n="2">飭各省地方官,</sent>
+<sent type="main" lang="kor" page="19a" n="2">각쳐 디방관의게 신칙ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="19a" n="3">先革烟舘, 免其傳染,</sent>
+<sent type="main" lang="kor" page="19a" n="3">위션 아편연 ᄡᅡ아둔 집을 업시 ᄒᆞ야 퍼져가ᄂᆞᆫ 폐단을 면ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="19a" n="4">再責成紳士族長 實力勸諭, 漸次嚴禁.</sent>
+<sent type="main" lang="kor" page="19a" n="4">진신과 ᄉᆞ족의게 신칙ᄒᆞ야 챡실이 권ᄒᆞ고 일너 졈졈 엄금ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="19a" n="5">如有過期尙吸者,</sent>
+<sent type="main" lang="kor" page="19a" n="5">만일 긔한이 지나도록 오히려 먹ᄂᆞᆫ 쟤 잇거든</sent>
+<sent type="main" lang="chi" page="19a" n="6">則貶爲下人, 科以重罪,</sent>
+<sent type="main" lang="kor" page="19a" n="6">ᄉᆞ족은 폄ᄒᆞ야 하쳔을 ᄆᆡᆫᄃᆞᆯ고 즁ᄒᆞᆫ 률노 다ᄉᆞ리며</sent>
+<sent type="main" lang="chi" page="19a" n="7">筮仕者, 飛章參辦,</sent>
+<sent type="main" lang="kor" page="19a" n="7">벼ᄉᆞᆯᄒᆞᄂᆞᆫ 쟈ᄂᆞᆫ 죠뎡에 샹소ᄒᆞ야 론ᄒᆡᆨᄒᆞ게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="19a" n="8">讀書者, 絶望科甲,</sent>
+<sent type="main" lang="kor" page="19a" n="8">글 닑ᄂᆞᆫ 쟈ᄂᆞᆫ 과거 보지 못ᄒᆞ게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="19a" n="9">當兵者, 革退名糧, 不列於衣裳,</sent>
+<sent type="main" lang="kor" page="19a" n="9">군ᄉᆞ에 당ᄒᆞᆫ 쟈ᄂᆞᆫ 졔 명하의 료ᄅᆞᆯ 쥬지 말아 의관지렬에 븟치지 말며</sent>
+<sent type="main" lang="chi" page="19a-19b" n="10">不齒於士類.</sent>
+<sent type="main" lang="kor" page="19a-19b" n="10">ᄉᆞ류의 셧^기지 못ᄒᆞ게 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="19b" n="1">如是, 將人皆畏法, 戒食不遑.</sent>
+<sent type="main" lang="kor" page="19b" n="1">이ᄀᆞᆺ치 ᄒᆞ면 사ᄅᆞᆷ마다 법을 두려워ᄒᆞ야 먹기ᄅᆞᆯ 경계ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="19b" n="2">中國之財, 旣不流於外洋,</sent>
+<sent type="main" lang="kor" page="19b" n="2">즁국 ᄌᆡ물이 외양의 흘너 나가지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="19b" n="3">天下之民, 又各除其結習,</sent>
+<sent type="main" lang="kor" page="19b" n="3">텬하 ᄇᆡᆨ셩이 각각 그 ᄆᆡᆺ친 ᄒᆡᆼ습을 더러바린ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="19b" n="4">則昇平之治 不可拭目而俟之乎.</sent>
+<sent type="main" lang="kor" page="19b" n="4">태평ᄒᆞ게 다ᄉᆞ리믈 가히 눈을 ᄡᅵᆺ고 기다리지 못ᄒᆞ랴</sent>
+<sent type="title2" lang="chi" page="20a" n="1">論商務</sent>
+<sent type="title2" lang="kor" page="20a" n="1">론샹무</sent>
+<sent type="anno" lang="chi" page="20a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="20a" n="2">쟝ᄉᆞᄒᆞᄂᆞᆫ ᄉᆞ무ᄅᆞᆯ 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="20a" n="3">原夫歐洲各邦, 以通商爲大經,</sent>
+<sent type="main" lang="kor" page="20a" n="3">대뎌 구라파쥬 각국이 통샹ᄒᆞ므로ᄡᅥ 큰 법을 ᄉᆞᆷ고</sent>
+<sent type="main" lang="chi" page="20a" n="4">以製造爲本務,</sent>
+<sent type="main" lang="kor" page="20a" n="4">긔계 ᄆᆡᆫᄃᆞᄂᆞᆫ 거ᄉᆞ로ᄡᅥ 근본의 ᄉᆞ무ᄅᆞᆯ ᄉᆞᆷ으니</sent>
+<sent type="main" lang="chi" page="20a" n="5">盖納稅於貨而寓兵於商也.</sent>
+<sent type="main" lang="kor" page="20a" n="5">대개 셰젼을 물화의 밧고 군ᄉᆞᄅᆞᆯ 샹고의 븟치미라</sent>
+<sent type="main" lang="chi" page="20a" n="6">其未通商之始, 劃疆自守, 不相往來,</sent>
+<sent type="main" lang="kor" page="20a" n="6">통샹ᄒᆞ기 젼의ᄂᆞᆫ 디경을 그어 스ᄉᆞ로 직히고 셔로 왕ᄅᆡᄒᆞ지 아니ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="20a" n="7">今則百貨流通, 各商雲集.</sent>
+<sent type="main" lang="kor" page="20a" n="7">이졔ᄂᆞᆫ 온ᄀᆞᆺ 물화가 흘너 통ᄒᆞ고 각국 샹고가 구름 못ᄃᆞᆺ ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="20a" n="8">設此國之財, 竟任滔滔而去,</sent>
+<sent type="main" lang="kor" page="20a" n="8">셜ᄉᆞ 이 나라 ᄌᆡ물이 져의 임의로 흘너 나가기ᄅᆞᆯ 바려두면</sent>
+<sent type="main" lang="chi" page="20a" n="9">彼國之利, 不能源源而來,</sent>
+<sent type="main" lang="kor" page="20a" n="9">져 나라 리로온 거시 능히 련속히 오지 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="20a" n="10">莫塞漏巵, 久將坐困.</sent>
+<sent type="main" lang="kor" page="20a" n="10">흘너 나가ᄂᆞᆫ 거ᄉᆞᆯ 막지 못ᄒᆞ면 오ᄅᆡᄆᆡ 쟝ᄎᆞᆺ 안져 곤ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="20a-20b" n="11">故泰西各國, 擧凡利之所在, 趨之如狂,</sent>
+<sent type="main" lang="kor" page="20a-20b" n="11">그런고^로 태셔 각국의셔 져마다 리ᄭᅳᆺ 잇ᄂᆞᆫ 바의ᄂᆞᆫ ᄯᅡ라가기ᄅᆞᆯ 밋ᄎᆞᆯ ᄃᆞ시 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="20b" n="1">而傳敎自者, 則非惟欲服中國之人心,</sent>
+<sent type="main" lang="kor" page="20b" n="1">교법을 젼ᄒᆞ라 단니ᄂᆞᆫ 쟨즉 즁국의 인심을 항복 밧고ᄌᆞ ᄒᆞᆯ ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="chi" page="20b" n="2">兼爲洋商之偵探也.</sent>
+<sent type="main" lang="kor" page="20b" n="2">겸ᄒᆞ야 양국 샹고의 리해ᄅᆞᆯ 탐지ᄒᆞ려 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="20b" n="3">査英國進口之貨稅較出口倍重,</sent>
+<sent type="main" lang="kor" page="20b" n="3">샹고ᄒᆞ건ᄃᆡ 영국의셔 포구에 드러오ᄂᆞᆫ 물화 셰젼을 포구의 나가ᄂᆞᆫ 물화보다 갑졀이나 즁히 밧고</sent>
+<sent type="main" lang="chi" page="20b" n="4">而本國之船鈔, 比他國稍廉,</sent>
+<sent type="main" lang="kor" page="20b" n="4">본국에 션가 밧기ᄂᆞᆫ 타국에 비ᄒᆞ면 젹이 렴ᄒᆞ게 바드니</sent>
+<sent type="main" lang="chi" page="20b" n="5">便商家而暢銷路.</sent>
+<sent type="main" lang="kor" page="20b" n="5">샹고의게 편ᄒᆞ고 물건 나가ᄂᆞᆫ 길을 훤츨ᄒᆞ게 ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="20b" n="6">惟歲核各商所盈之利, 約八十分取一,</sent>
+<sent type="main" lang="kor" page="20b" n="6">오직 ᄒᆡ마다 여러 샹고의 모흔 바 리ᄅᆞᆯ ᄒᆡᆨ실ᄒᆞ야 팔십 분의 일 분을 ᄎᆔᄒᆞ니</sent>
+<sent type="main" lang="chi" page="20b" n="7">畧如中國戶稅.</sent>
+<sent type="main" lang="kor" page="20b" n="7">즁국의 호구부셰와 대강 ᄀᆞᆺ고</sent>
+<sent type="main" lang="chi" page="20b-21a" n="8">所賜商賈寶星及他表記, 泐之用器以爲光榮.</sent>
+<sent type="main" lang="kor" page="20b-21a" n="8">나라의^셔 쥰 바 보셩[공뢰 잇ᄉᆞᆫ즉 보패 등물노 ᄆᆡᆫᄃᆞ러 몸의 지니게 ᄒᆞᄂᆞᆫ 거시라]과 표긔[공뢰ᄅᆞᆯ 표ᄒᆞ야 긔록ᄒᆞᆫ 거시라]ᄅᆞᆯ 긔명의 삭여 영광으로 너기며</sent>
+<sent type="main" lang="chi" page="21a" n="1">其歲入有常,</sent>
+<sent type="main" lang="kor" page="21a" n="1">ᄆᆡ년의 드러오ᄂᆞᆫ 거시 한뎡이 잇셔</sent>
+<sent type="main" lang="chi" page="21a" n="2">三百磅以下不稅,</sent>
+<sent type="main" lang="kor" page="21a" n="2">삼ᄇᆡᆨ 방[방은 은ᄌᆞ 셕 량 셔 돈 셔 푼 즁이라] 이하ᄂᆞᆫ 셰젼을 밧지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="21a" n="3">如有關於商務者,</sent>
+<sent type="main" lang="kor" page="21a" n="3">만일 샹고의 ᄉᆞ무에 계관ᄒᆞᆫ 쟤 이시면</sent>
+<sent type="main" lang="chi" page="21a" n="4">必使議政院官商議覆,</sent>
+<sent type="main" lang="kor" page="21a" n="4">반ᄃᆞ시 의졍원으로 ᄒᆞ야곰 관원과 샹괴 셔로 의론ᄒᆞ고 회계ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="21a" n="5">務期妥協而後施行,</sent>
+<sent type="main" lang="kor" page="21a" n="5">일이 온당ᄒᆞᆫ 연후에 시ᄒᆡᆼᄒᆞ며</sent>
+<sent type="main" lang="chi" page="21a" n="6">並設商務大臣, 專理其事.</sent>
+<sent type="main" lang="kor" page="21a" n="6">샹무대신을 셜시ᄒᆞ야 그 일을 젼쥬ᄒᆞ야 다ᄉᆞ리게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="21a" n="7">是以利權獨擅, 日臻富强.</sent>
+<sent type="main" lang="kor" page="21a" n="7">이러므로 리로온 권셰ᄅᆞᆯ 홀노 쳔단ᄒᆞ야 ᄂᆞᆯ노 부강ᄒᆞᆫ ᄃᆡ 니ᄅᆞ고</sent>
+<sent type="main" lang="chi" page="21a-21b" n="8">所有商埠要區, 俱設公使領事,</sent>
+<sent type="main" lang="kor" page="21a-21b" n="8">잇ᄂᆞᆫ 바 샹고 모히ᄂᆞᆫ 포구와 요긴ᄒᆞᆫ 디경의 다 공ᄉᆞ와 령ᄉᆞ란 벼^ᄉᆞᆯ을 두고</sent>
+<sent type="main" lang="chi" page="21b" n="1">屯泊水師兵舶, 以資護衛而壯聲威,</sent>
+<sent type="main" lang="kor" page="21b" n="1">슈군과 젼션을 둔쳐 호위ᄒᆞ믈 ᄌᆞ뢰ᄒᆞ고 위풍을 웅장히 ᄒᆞ엿다가</sent>
+<sent type="main" lang="chi" page="21b" n="2">遇有事端, 恃爲挾制.</sent>
+<sent type="main" lang="kor" page="21b" n="2">만일 흔단이 이시면 이거ᄉᆞᆯ 미더 졔어ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="21b" n="3">或請開口岸, 或勒免釐捐,</sent>
+<sent type="main" lang="kor" page="21b" n="3">혹 ᄀᆡ항ᄒᆞ기ᄅᆞᆯ 쳥ᄒᆞ거나 혹 억지로 츄리ᄅᆞᆯ 모면ᄒᆞ랴 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="21b" n="4">誅求無厭, 必遂其大欲而後已.</sent>
+<sent type="main" lang="kor" page="21b" n="4">구ᄒᆞᄂᆞᆫ ᄇᆡ 스리미 업셔 반ᄃᆞ시 큰 욕심을 ᄎᆡ온 연후의 마더라</sent>
+<sent type="main" lang="chi" page="21b" n="5">初英國, 在印度等處, 租地開埠, 志在通商,</sent>
+<sent type="main" lang="kor" page="21b" n="5">쳐음의 영국이 인도 등쳐의 ᄯᆞᄒᆞᆯ 셰 ᄂᆡ고 ᄀᆡ항ᄒᆞ야 ᄯᅳᆺ이 통샹ᄒᆞ기의 잇더니</sent>
+<sent type="main" lang="chi" page="21b" n="6">其後觀釁倂呑, 倚爲外府,</sent>
+<sent type="main" lang="kor" page="21b" n="6">그 후의 틈을 보아 인도 등쳐ᄅᆞᆯ 다 침탈ᄒᆞ야 외부ᄅᆞᆯ ᄆᆡᆫᄃᆞ니</sent>
+<sent type="main" lang="chi" page="21b" n="7">而富强遂冠於歐洲.</sent>
+<sent type="main" lang="kor" page="21b" n="7">부강ᄒᆞ미 드ᄃᆡ여 구라파쥬의 읏듬 ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="21b" n="8">無如中國商民, 株守故鄕, 乏於遠志.</sent>
+<sent type="main" lang="kor" page="21b" n="8">즁국의 쟝ᄉᆞᄒᆞᄂᆞᆫ ᄇᆡᆨ셩들은 고향을 직히고 먼니 갈 ᄯᅳᆺ이 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="21b-22a" n="9">求如洋人之設公司集鉅欵涉洋貿易者,</sent>
+<sent type="main" lang="kor" page="21b-22a" n="9">양인ᄀᆞᆺ치 공ᄉᆞ를 베플고 ᄌᆡ^물을 만히 가져 대양을 건너 무역ᄒᆞᆯ 쟈ᄅᆞᆯ 구ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="22a" n="1">迄今尙鮮其人.</sent>
+<sent type="main" lang="kor" page="22a" n="1">지금에 오히려 그런 사ᄅᆞᆷ이 드믄지라</sent>
+<sent type="main" lang="chi" page="22a" n="2">去欵日多, 來源日絀,</sent>
+<sent type="main" lang="kor" page="22a" n="2">물홰 가ᄂᆞᆫ 길은 ᄂᆞᆯ노 만코 오ᄂᆞᆫ 근원은 ᄂᆞᆯ노 감ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="22a" n="3">竊慮他日民窮財竭, 補救殊難.</sent>
+<sent type="main" lang="kor" page="22a" n="3">그윽이 념려ᄒᆞ건ᄃᆡ 타일의 ᄇᆡᆨ셩이 궁곤ᄒᆞ고 ᄌᆡ물이 다ᄒᆞ면 구원ᄒᆞ기 ᄌᆞ못 어려올지라</sent>
+<sent type="main" lang="chi" page="22a" n="4">然旣不能禁止通商,</sent>
+<sent type="main" lang="kor" page="22a" n="4">그러나 임의 통샹ᄒᆞ믈 능히 금치 못ᄒᆞ엿시니</sent>
+<sent type="main" lang="chi" page="22a" n="5">維有自理商務,</sent>
+<sent type="main" lang="kor" page="22a" n="5">오직 스ᄉᆞ로 샹고의 ᄉᆞ무ᄅᆞᆯ 다ᄉᆞ려</sent>
+<sent type="main" lang="chi" page="22a" n="6">核其出入, 與之抗衡, 以期互相抵兌而已.</sent>
+<sent type="main" lang="kor" page="22a" n="6">그 츌입ᄒᆞᄂᆞᆫ 슈효ᄅᆞᆯ ᄒᆡᆨ실ᄒᆞ야 더브러 결워보와 셔로 뎌당ᄒᆞᆯ ᄯᆞ름이라</sent>
+<sent type="main" lang="chi" page="22a" n="7">中國出洋之貨, 以絲茶爲最大宗.</sent>
+<sent type="main" lang="kor" page="22a" n="7">즁국의셔 외양으로 나가ᄂᆞᆫ 물화ᄂᆞᆫ 면ᄉᆞ와 향다로 가쟝 큰 됴건을 ᄉᆞᆷ더니</sent>
+<sent type="main" lang="chi" page="22a-22b" n="8">今印度等處, 皆植桑茶, 所出與中國相仿.</sent>
+<sent type="main" lang="kor" page="22a-22b" n="8">이졔 인도 등쳐의셔 다 ᄲᅩᆼ나무와 차를 심어 소츌이 즁국^으로 방블ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="22b" n="1">洋人悉往購辦,</sent>
+<sent type="main" lang="kor" page="22b" n="1">양인이 다 그 곳의 가 ᄆᆡ매ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="22b" n="2">故年來中土之貨, 未能暢銷,</sent>
+<sent type="main" lang="kor" page="22b" n="2">근ᄅᆡ의 즁국 물홰 능히 쉽게 플니지 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="22b" n="3">後或並此而失之, 中國之利源, 不幾竭乎.</sent>
+<sent type="main" lang="kor" page="22b" n="3">후일에 혹 이것좃ᄎᆞ 일흐면 즁국의 ᄎᆔ리ᄒᆞᄂᆞᆫ 근원이 ᄭᅳᆫ허지지 아니ᄒᆞ랴</sent>
+<sent type="main" lang="chi" page="22b" n="4">宜令地方官, 廣勸農民,</sent>
+<sent type="main" lang="kor" page="22b" n="4">ᄆᆞᆺ당히 디방관으로 ᄒᆞ야금 농민을 널니 권ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="22b" n="5">於山谷閒地, 遍種桑茶, 勤加經理.</sent>
+<sent type="main" lang="kor" page="22b" n="5">산곡 간 공한ᄒᆞᆫ ᄯᆞᄒᆡ ᄲᅩᆼ나무와 차를 만히 심어 부지러니 다ᄉᆞ리게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="22b" n="6">其繅絲製茶之法, 尤須刻意推求.</sent>
+<sent type="main" lang="kor" page="22b" n="6">실을 혀고 차를 ᄆᆡᆫ드ᄂᆞᆫ 법을 더옥 ᄯᅳᆺ을 각골히 ᄒᆞ야 광구ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="22b" n="7">如有勝於尋常者, 優加獎賞,</sent>
+<sent type="main" lang="kor" page="22b" n="7">만일 심샹ᄒᆞᆫ ᄃᆡ 지나ᄂᆞᆫ 쟤 잇거든 포쟝ᄒᆞ고 샹ᄉᆞᄒᆞ기를 널니 ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="22b" n="8">務使野無曠土, 農不失時,</sent>
+<sent type="main" lang="kor" page="22b" n="8">힘ᄡᅥ 들의 공한ᄒᆞᆫ ᄯᆞ히 업고 농ᄉᆞ를 실시ᄒᆞ지 아니ᄒᆞ게 ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="22b-23a" n="9">則出數愈多, 其價可減.</sent>
+<sent type="main" lang="kor" page="22b-23a" n="9">소츌은 더옥 만코 갑ᄉᆞᆫ 가히 감ᄒᆞᆯ ^ 거시니</sent>
+<sent type="main" lang="chi" page="23a" n="1">酌爲銷售, 用廣招徠,</sent>
+<sent type="main" lang="kor" page="23a" n="1">침쟉ᄒᆞ야 갑ᄉᆞᆯ 뎡ᄒᆞ야 파ᄃᆡ 물화 구ᄒᆞ라 오ᄂᆞᆫ 길을 널니 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="23a" n="2">將不特國課可增, 而民財亦可阜矣.</sent>
+<sent type="main" lang="kor" page="23a" n="2">나라의 밧치ᄂᆞᆫ 셰젼만 더ᄒᆞᆯ ᄲᅮᆫ이 아니라 ᄇᆡᆨ셩의 ᄌᆡ물이 ᄯᅩᄒᆞᆫ 넉넉ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="23a" n="3">況中國東南各省, 多種棉花, 西北廣牧牲畜,</sent>
+<sent type="main" lang="kor" page="23a" n="3">ᄒᆞ믈며 즁국 동남 각 ᄉᆡᆼ의 면화ᄅᆞᆯ 만히 심으고 셔븍의셔ᄂᆞᆫ 륙츅을 만히 기르ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="23a" n="4">若用機器, 以製造洋布羽毛呢絨等物,</sent>
+<sent type="main" lang="kor" page="23a" n="4">만일 긔긔[고동을 트러 ᄡᅳᄂᆞᆫ 긔구라]ᄅᆞᆯ ᄡᅥ 양포와 우단 모단과 젼과 융ᄉᆞ 등물을 ᄧᆞ면</sent>
+<sent type="main" lang="chi" page="23a" n="5">則一夫可抵百夫之力. 又省往返運費,</sent>
+<sent type="main" lang="kor" page="23a" n="5">일인이 가히 ᄇᆡᆨ인의 힘을 당ᄒᆞᆯ 거시오 ᄯᅩ 왕ᄅᆡᄒᆞᄂᆞᆫ 부비ᄅᆞᆯ 덜만 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="23a" n="6">其價較外洋倍賤, 而獲利倍豐.</sent>
+<sent type="main" lang="kor" page="23a" n="6">그 갑시 외양의 비ᄒᆞ면 갑졀이 쳔ᄒᆞ고 리ᄂᆞᆫ 갑졀이나 후ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="23a-23b" n="7">或疑用機以代人工, 恐攘小民之利,</sent>
+<sent type="main" lang="kor" page="23a-23b" n="7">혹이 의심ᄒᆞᄃᆡ 긔긔로ᄡᅥ 사ᄅᆞᆷ의 공력을 ᄃᆡ신ᄒᆞ면 젹은 ᄇᆡᆨ셩이 리ᄅᆞᆯ 아일가 두^려ᄒᆞᆫ다 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="23b" n="1">不知洋布呢羽本出外洋, 無礙民業,</sent>
+<sent type="main" lang="kor" page="23b" n="1">모로ᄂᆞᆫ 말이 우단 모단 등물은 본ᄅᆡ 외양의셔 나ᄂᆞᆫ 거시오 ᄇᆡᆨ셩의 업의 구ᄋᆡᄒᆞ미 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="23b" n="2">仿而行之, 本以分彼之利權耳.</sent>
+<sent type="main" lang="kor" page="23b" n="2">의방ᄒᆞ야 ᄒᆡᆼᄒᆞ면 져의 ᄎᆔ리ᄒᆞᄂᆞᆫ 권이 난호일지라</sent>
+<sent type="main" lang="chi" page="23b" n="3">今閩粤人之賈於星加波舊金山各處者, 不下八十萬人.</sent>
+<sent type="main" lang="kor" page="23b" n="3">이졔 민월 ᄯᆞ 사ᄅᆞᆷ이 셩가파와 구금산[모다 디명] 각쳐의 쟝ᄉᆞᄒᆞᄂᆞᆫ 쟤 팔십만인의 나리지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="23b" n="4">其中或住經二百餘年, 或隸入英美等籍.</sent>
+<sent type="main" lang="kor" page="23b" n="4">그즁의 혹 우거ᄒᆞ야 이ᄇᆡᆨ여 년을 지ᄂᆡ며 혹 영국 미국 호젹의 븟쳐시나</sent>
+<sent type="main" lang="chi" page="23b" n="5">然皆奉大淸之正朔, 服本朝之冠裳,</sent>
+<sent type="main" lang="kor" page="23b" n="5">다 대쳥 년호ᄅᆞᆯ 밧들며 대쳥 의복을 닙으니</sent>
+<sent type="main" lang="chi" page="23b" n="6">足徵聲敎覃敷, 龐乎莫外矣.</sent>
+<sent type="main" lang="kor" page="23b" n="6">족히 교홰 먼니 밋ᄎᆞ믈 징험ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="23b" n="7">倘中朝, 亦簡派領事人員, 顯示撫循, 隱資控制,</sent>
+<sent type="main" lang="kor" page="23b" n="7">만일 즁국이 령ᄉᆞ 등 관원을 갈ᄒᆡ여 보ᄂᆡ여 현져히 무휼ᄒᆞ고 은연이 졔어ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="23b-24a" n="8">則華人有恃無恐, 籌畫愈工.</sent>
+<sent type="main" lang="kor" page="23b-24a" n="8">즁국 사ᄅᆞᆷ이 밋부미 잇고 두려올 ^ ᄇᆡ 업셔 쟝ᄉᆞᄒᆞᄂᆞᆫ 획ᄎᆡᆨ이 더옥 공교ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="24a" n="1">擧凡外洋之貨, 我華人自營運之,</sent>
+<sent type="main" lang="kor" page="24a" n="1">므릇 외양 물화ᄅᆞᆯ 우리 화인이 스ᄉᆞ로 운젼ᄒᆞ야 오고</sent>
+<sent type="main" lang="chi" page="24a" n="2">中土之貨, 我華人自經理之, 擴其遠圖, 擅其利藪,</sent>
+<sent type="main" lang="kor" page="24a" n="2">즁국 물화ᄅᆞᆯ 우리 화인이 스ᄉᆞ로 판단ᄒᆞ야 길게 도모ᄒᆞ기ᄅᆞᆯ 힘ᄡᅳ고 그리로 온 권셰ᄅᆞᆯ 쥬쟝ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="24a" n="3">則洋人進口, 日見其衰, 而華人出洋, 日徵其盛,</sent>
+<sent type="main" lang="kor" page="24a" n="3">양인이 포구의 나아오미 ᄂᆞᆯ노 쇠ᄒᆞ고 화인이 외양의 나아가기ᄅᆞᆯ ᄂᆞᆯ노 셩ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="24a" n="4">將富國裕民之效, 可操券而得焉.</sent>
+<sent type="main" lang="kor" page="24a" n="4">쟝ᄎᆞᆺ 나라히 부요ᄒᆞ고 ᄇᆡᆨ셩이 유여ᄒᆞᆯ 효험을 가히 다짐 두고 어들 거시로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="24a" n="5">所慮者, 志無洋人之堅貞,</sent>
+<sent type="main" lang="kor" page="24a" n="5">념려되ᄂᆞᆫ 바ᄂᆞᆫ 화인의 ᄆᆞᄋᆞᆷ이 양인ᄀᆞᆺ치 견고치 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="24a" n="6">財遜洋人之豐厚.</sent>
+<sent type="main" lang="kor" page="24a" n="6">즁원 ᄌᆡ물이 양화ᄀᆞᆺ치 풍셩치 못ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="24a" n="7">偶有盈絀, 便思改圖,</sent>
+<sent type="main" lang="kor" page="24a" n="7">혹 영츅이 이시면 믄득 곳쳐 도모ᄒᆞ기ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="24a-24b" n="8">惟賴在上者, 扼其利權, 神其鼓舞.</sent>
+<sent type="main" lang="kor" page="24a-24b" n="8">오직 ᄌᆡ샹지인^이 그 리권을 잡아 롱낙ᄒᆞ기ᄅᆞᆯ 신통이 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="24b" n="1">凡中西可共之利, 思何以籌之,</sent>
+<sent type="main" lang="kor" page="24b" n="1">므릇 즁국과 셔국이 가히 ᄒᆞᆷ긔 ᄒᆞᆯ 일을 엇지ᄒᆞ야 판단ᄒᆞᆯ고 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="24b" n="2">中國自有之利, 思何以擴之,</sent>
+<sent type="main" lang="kor" page="24b" n="2">즁국의 스ᄉᆞ로 오로지 ᄒᆞᄂᆞᆫ 리ᄅᆞᆯ 엇지ᄒᆞ야ᄡᅥ 널닐고 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="24b" n="3">西人獨攬之利, 思何以分之.</sent>
+<sent type="main" lang="kor" page="24b" n="3">셔인이 홀노 당긔ᄂᆞᆫ 리를 엇지ᄡᅥ 난홀고 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="24b" n="4">扼此三端, 則利權可復矣.</sent>
+<sent type="main" lang="kor" page="24b" n="4">이 셰 가지를 노치 아니ᄒᆞᆫᄌᆞᆨ 리권을 가히 회복ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="24b" n="5">惟西人, 多財善賈, 利之所在, 必爭趨之.</sent>
+<sent type="main" lang="kor" page="24b" n="5">오직 셔인이 ᄌᆡ물이 만흐므로 쟝ᄉᆞ를 잘ᄒᆞ야 리로오미 잇ᄂᆞᆫ 바의ᄂᆞᆫ 닷토와 나아가ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="24b" n="6">若華人, 亦設公司造商船, 力與爭雄,</sent>
+<sent type="main" lang="kor" page="24b" n="6">만일 화인이 ᄯᅩᄒᆞᆫ 공ᄉᆞ를 베플고 쟝ᄉᆞ의 ᄇᆡᄅᆞᆯ 지어 힘ᄡᅥ 더브러 ᄌᆞ웅을 닷토와</sent>
+<sent type="main" lang="chi" page="24b" n="7">媚商減價, 拚折資本,</sent>
+<sent type="main" lang="kor" page="24b" n="7">샹고를 ᄭᅬ여 물가를 감ᄒᆞ고 본젼이 ᄭᅥᆨ기면</sent>
+<sent type="main" lang="chi" page="24b-25a" n="8">勢必彼此虧絀, 無裨大局.</sent>
+<sent type="main" lang="kor" page="24b-25a" n="8">형셰 반ᄃᆞ시 피ᄎᆞ의 휴손ᄒᆞ야 국^가의 유익ᄒᆞᆯ ᄇᆡ 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="25a" n="1">欲救其獘, 須開其源,</sent>
+<sent type="main" lang="kor" page="25a" n="1">그 폐단을 구코ᄌᆞ ᄒᆞᆯ진ᄃᆡ 모로미 그 근원을 열지니</sent>
+<sent type="main" lang="chi" page="25a" n="2">按公法例載, 凡長江內河,</sent>
+<sent type="main" lang="kor" page="25a" n="2">공법을 샹고ᄒᆞᆯ진ᄃᆡ 므릇 쟝강 ᄂᆡ하가</sent>
+<sent type="main" lang="chi" page="25a" n="3">如歐羅巴之來因河多拿江, 盡人皆得開設船行,</sent>
+<sent type="main" lang="kor" page="25a" n="3">구라파의 ᄂᆡ인하와 다라강은 모ᄃᆞᆫ 사ᄅᆞᆷ이 다 ᄒᆡᆼ션ᄒᆞᄂᆞᆫ 길을 여러 쥬니</sent>
+<sent type="main" lang="chi" page="25a" n="4">以其分屬於各國也.</sent>
+<sent type="main" lang="kor" page="25a" n="4">각국의 난호여 븟치엿고</sent>
+<sent type="main" lang="chi" page="25a" n="5">美國之米西昔比江, 帆輪之利, 土著擅之,</sent>
+<sent type="main" lang="kor" page="25a" n="5">미국의 미셔셕비강은 ᄇᆡ의 나ᄂᆞᆫ 리를 본토의셔 독단ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="25a" n="6">以專屬於一國也.</sent>
+<sent type="main" lang="kor" page="25a" n="6">일국의 젼쥬ᄒᆞ야 븟치엿고</sent>
+<sent type="main" lang="chi" page="25a" n="7">他如巴西之阿麻沈江, 雖發源於秘魯, 入巴西,</sent>
+<sent type="main" lang="kor" page="25a" n="7">파셔국 아마심강은 비로 ᄯᆞᄒᆡ셔 발원ᄒᆞ여 파셔국으로 드러가나</sent>
+<sent type="main" lang="chi" page="25a" n="8">支分派別, 兼注依瓜朶耳國委內瑞拉國, 以貫注巴西數千里之遙.</sent>
+<sent type="main" lang="kor" page="25a" n="8">물골시 난호여 의과타이국과 위ᄂᆡ셔랍국으로 ᄒᆞᆫᄃᆡ 모혀 드러가 파셔국 수쳔 리를 ᄭᅦ쳐 드러가니</sent>
+<sent type="main" lang="chi" page="25a-25b" n="9">昔有客請立船行, 而執政拒之.</sent>
+<sent type="main" lang="kor" page="25a-25b" n="9">녯젹의 ᄒᆡᆼ션ᄒᆞᄂᆞᆫ 법 셰우기를 쳥ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ이 이^시ᄃᆡ 졍부의셔 막앗더니</sent>
+<sent type="main" lang="chi" page="25b" n="1">嗣因商旅蕭條, 爰除前禁, 以廣招徠,</sent>
+<sent type="main" lang="kor" page="25b" n="1">그 후의 샹괴 소죠ᄒᆞ기로 이젼 금령을 업시 ᄒᆞ야 샹고 단니ᄂᆞᆫ 길을 널니 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="25b" n="2">操縱之權, 仍自掌之, 不以假人也.</sent>
+<sent type="main" lang="kor" page="25b" n="2">조죵ᄒᆞᄂᆞᆫ 권셰를 스ᄉᆞ로 쥬쟝ᄒᆞ야 타인의게 빌니지 아니ᄒᆞ엿시니</sent>
+<sent type="main" lang="chi" page="25b" n="3">若夫中國之長江, 西導岷峨, 東注滄海,</sent>
+<sent type="main" lang="kor" page="25b" n="3">만일 즁국의 쟝강 ᄀᆞᆺᄐᆞᆫ 거ᄉᆞᆫ 셔흐로 민산과 아산으로 인도ᄒᆞ야 동으로 창ᄒᆡ로 드러가니</sent>
+<sent type="main" lang="chi" page="25b" n="4">源遠流長, 如美國之米西昔比江, 絶非巴西可比.</sent>
+<sent type="main" lang="kor" page="25b" n="4">근원이 멀고 길게 흘너 미국의 미셔셕비강 ᄀᆞᆺ고 파셔의 비ᄒᆞᆯ ᄇᆡ 아니라</sent>
+<sent type="main" lang="chi" page="25b" n="5">今長江二千數百里, 有奇洋船往來,</sent>
+<sent type="main" lang="kor" page="25b" n="5">이졔 쟝강이 이쳔 수ᄇᆡᆨ여 리의 양션이 왕ᄅᆡᄒᆞ야</sent>
+<sent type="main" lang="chi" page="25b" n="6">實獲厚利, 喧賓奪主, 殊抱杞憂.</sent>
+<sent type="main" lang="kor" page="25b" n="6">실노 큰 리를 엇고 호빈작쥬ᄒᆞ니 ᄌᆞ못 분ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="25b" n="7">宜俟中西約滿之時,</sent>
+<sent type="main" lang="kor" page="25b" n="7">ᄆᆞᆺ당히 즁국과 셔국의 약됴ᄒᆞᆫ 한뎡이 ᄎᆞ기를 기ᄃᆞ려</sent>
+<sent type="main" lang="chi" page="25b-26a" n="8">更換舊約, 另議新章.</sent>
+<sent type="main" lang="kor" page="25b-26a" n="8">녯 약됴를 곳치고 별노 ᄉᆡ 법^을 의론ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="26a" n="1">凡西人之長江輪船, 一槪給價收回,</sent>
+<sent type="main" lang="kor" page="26a" n="1">므릇 셔인의 쟝강으로 단니ᄂᆞᆫ 화륜션을 모다 갑ᄉᆞᆯ 쥬고 ᄉᆞ오며</sent>
+<sent type="main" lang="chi" page="26a" n="2">所有載貨水脚, 因爭儎而遞減者, 酌復其舊,</sent>
+<sent type="main" lang="kor" page="26a" n="2">각쳐의 물화 싯고 단니ᄂᆞᆫ 슈로의 인ᄒᆞ야 닷토와 싯고 갈마드려 감ᄒᆞᄂᆞᆫ 쟈ᄅᆞᆯ 침쟉ᄒᆞ야 녯 규례ᄅᆞᆯ 회복ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="26a" n="3">則西人罔敢異詞.</sent>
+<sent type="main" lang="kor" page="26a" n="3">셔인이 감히 이론을 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="26a" n="4">更於長江上下游間,</sent>
+<sent type="main" lang="kor" page="26a" n="4">ᄯᅩ 쟝강 샹하에 톄탐을 널니 두어</sent>
+<sent type="main" lang="chi" page="26a" n="5">日開行輪船, 以報市價,</sent>
+<sent type="main" lang="kor" page="26a" n="5">ᄂᆞᆯ마다 화륜션을 타고 단니며 물가ᄅᆞᆯ 알아 보ᄒᆞ게 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="26a" n="6">如是則長江商船之利, 悉歸中國,</sent>
+<sent type="main" lang="kor" page="26a" n="6">이ᄀᆞᆺ치 ᄒᆞᆫᄌᆞᆨ 쟝강에 샹고션의 리가 다 즁국의 도라올 거시오</sent>
+<sent type="main" lang="chi" page="26a" n="7">獨擅利權.</sent>
+<sent type="main" lang="kor" page="26a" n="7">ᄎᆔ리ᄒᆞᄂᆞᆫ 권셰ᄅᆞᆯ 독단ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="26a" n="8">當道其有意乎爲國爲民, 胥於是乎在矣.</sent>
+<sent type="main" lang="kor" page="26a" n="8">당도ᄒᆞᆫ 쟤 나라를 위ᄒᆞ고 ᄇᆡᆨ셩을 위ᄒᆞᄂᆞᆫ ᄃᆡ 유의ᄒᆞ면 거의 여긔 이시리라</sent>
+<sent type="title2" lang="chi" page="27a" n="1">論開礦</sent>
+<sent type="title2" lang="kor" page="27a" n="1">론ᄀᆡ광</sent>
+<sent type="anno" lang="chi" page="27a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="27a" n="2">금 은 동 텰 ᄀᆡ뎜ᄒᆞᄂᆞᆫ 일을 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="27a" n="3">夫五金之産, 原以供世上之需,</sent>
+<sent type="main" lang="kor" page="27a" n="3">대뎌 금 은 동 텰의 나ᄂᆞᆫ 거ᄉᆞᆫ 근본 셰샹에 ᄡᅳ이기ᄅᆞᆯ 위ᄒᆞ미니</sent>
+<sent type="main" lang="chi" page="27a" n="4">若棄之如遺, 則在天爲虛生此材,</sent>
+<sent type="main" lang="kor" page="27a" n="4">만일 바리고 ᄎᆔ치 아니ᄒᆞᆫᄌᆞᆨ 하ᄂᆞᆯ의셔도 헛도이 이 ᄌᆡ물을 ᄂᆡ시미오</sent>
+<sent type="main" lang="chi" page="27a" n="5">在人爲棄貨於地矣.</sent>
+<sent type="main" lang="kor" page="27a" n="5">사ᄅᆞᆷ의게도 보화ᄅᆞᆯ ᄯᆞᄒᆡ 바려두ᄂᆞᆫ ᄌᆞᆨ시라</sent>
+<sent type="main" lang="chi" page="27a" n="6">居今日而策國家之富强, 資民生之利賴,</sent>
+<sent type="main" lang="kor" page="27a" n="6">이졔 국가에 부강ᄒᆞ기ᄅᆞᆯ ᄭᅬᄒᆞ고 ᄇᆡᆨ셩의 리ᄒᆞᆫ 료뢰ᄅᆞᆯ ᄌᆞ뢰ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="chi" page="27a" n="7">因地之利, 取無盡而用不竭者, 其惟開礦一事乎.</sent>
+<sent type="main" lang="kor" page="27a" n="7">ᄯᆞᄒᆡ셔 나ᄂᆞᆫ 리를 ᄎᆔᄒᆞ야도 다ᄒᆞ미 업고 ᄡᅥ도 마르지 안ᄂᆞᆫ 거ᄉᆞᆫ 오즉 ᄀᆡ뎜ᄒᆞᄂᆞᆫ 일인뎌</sent>
+<sent type="main" lang="chi" page="27a" n="8">査英國版圖, 不及中國數省之地,</sent>
+<sent type="main" lang="kor" page="27a" n="8">영국 디도를 샹고ᄒᆞ건ᄃᆡ 즁국 두어 ᄉᆡᆼ에 ᄆᆡ인 ᄯᆞ만 못ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="27a" n="9">顧能富甲天下, 雄視六合者. 盖格致之士,</sent>
+<sent type="main" lang="kor" page="27a" n="9">능히 텬하에 갑부되고 ᄉᆞᄒᆡ의 ᄃᆡ뎍ᄒᆞ리 업ᄂᆞᆫ 쟈ᄂᆞᆫ 대개 격치지ᄉᆡ 잇셔</sent>
+<sent type="main" lang="chi" page="27a-27b" n="10">能知五金之礦, 隨處皆有,</sent>
+<sent type="main" lang="kor" page="27a-27b" n="10">능^히 금 은 동 텰 ᄀᆡ뎜ᄒᆞᆯ 쥴을 아라 쳐쳐의 다 이시ᄆᆡ</sent>
+<sent type="main" lang="chi" page="27b" n="1">因地制宜, 按法開採,</sent>
+<sent type="main" lang="kor" page="27b" n="1">ᄯᆞ흘 인ᄒᆞ야 ᄆᆞᆺ당ᄒᆞᆫ 법을 지어 법ᄃᆡ로 ᄀᆡ뎜ᄒᆞ야 ᄏᆡ여ᄂᆡᄃᆡ</sent>
+<sent type="main" lang="chi" page="27b" n="2">不惜經費, 不畏艱難,</sent>
+<sent type="main" lang="kor" page="27b" n="2">소비를 앗기지 아니ᄒᆞ고 어려온 거ᄉᆞᆯ 긔탄치 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="27b" n="3">事則必底於成, 物則各適乎用,</sent>
+<sent type="main" lang="kor" page="27b" n="3">일인ᄌᆞᆨ 반ᄃᆞ시 되게 ᄒᆞ고 물건인ᄌᆞᆨ 각각 ᄡᅳᄂᆞᆫ ᄃᆡ ᄆᆞᆺ갓게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="27b" n="4">製機器代人力以省工,</sent>
+<sent type="main" lang="kor" page="27b" n="4">긔긔를 ᄆᆡᆫᄃᆞ러 인력을 ᄃᆡ신ᄒᆞ야 공력을 덜게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="27b" n="5">建鐵路資轉運以省費,</sent>
+<sent type="main" lang="kor" page="27b" n="5">텰로[길의 ᄉᆈᄅᆞᆯ ᄞᅡ라 두고 화륜거ᄅᆞᆯ 단니게 ᄒᆞᆫ 거시라]를 ᄆᆡᆫᄃᆞ러 슈운ᄒᆞ게 ᄒᆞ야 부비를 덜게 ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="27b" n="6">故能普美利於無窮也.</sent>
+<sent type="main" lang="kor" page="27b" n="6">능히 아름다온 리를 무궁ᄒᆞ게 ᄎᆔᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="27b" n="7">査中國五金之礦, 雲南出銅, 山西出鐵,</sent>
+<sent type="main" lang="kor" page="27b" n="7">즁국에 금 은 동 텰 나ᄂᆞᆫ 곳을 샹고ᄒᆞ건ᄃᆡ 운남의셔ᄂᆞᆫ 동이 나고 산셔의셔ᄂᆞᆫ 텰이 나고</sent>
+<sent type="main" lang="chi" page="27b-28a" n="8">湖南江西出煤, 齊魯荊襄出鉛, 臺灣出硝.</sent>
+<sent type="main" lang="kor" page="27b-28a" n="8">호남과 강셔의셔ᄂᆞᆫ ᄆᆡ[셕탄]가 ^ 나고 졔로와 형양의셔ᄂᆞᆫ 연이 나고 ᄃᆡ만의셔ᄂᆞᆫ 망쵸가 나니</sent>
+<sent type="main" lang="chi" page="28a" n="1">是數處者, 人皆知之, 其實五金煤鐵等礦, 各省各處皆有,</sent>
+<sent type="main" lang="kor" page="28a" n="1">이 두어 곳은 사ᄅᆞᆷ마다 알ᄃᆡ 실샹은 금 은 동 텰과 셕탄 나ᄂᆞᆫ ᄯᆞ히 각 ᄉᆡᆼ 각 쳐의 다 잇시ᄃᆡ</sent>
+<sent type="main" lang="chi" page="28a" n="2">特以地産之淺深, 體質之純雜, 層次之厚薄, 礦穴之狹寬, 人不得而知也.</sent>
+<sent type="main" lang="kor" page="28a" n="2">디즁에 쳔심과 픔지호부와 칭졀고하와 구덩이 좁고 넓은 거ᄉᆞᆫ 사ᄅᆞᆷ마다 아지 못ᄒᆞᄂᆞᆫ 바오</sent>
+<sent type="main" lang="chi" page="28a" n="3">今已知而開採者, 大抵不過萬分之一,</sent>
+<sent type="main" lang="kor" page="28a" n="3">이졔 알고 ᄀᆡ뎜ᄒᆞᄂᆞᆫ 거시 불과 만분지일이며</sent>
+<sent type="main" lang="chi" page="28a" n="4">卽礦苗已露之處, 又不知如何成色,</sent>
+<sent type="main" lang="kor" page="28a" n="4">ᄀᆡ뎜ᄒᆞᆯ 터이 임의 드러나 아ᄂᆞᆫ 곳이라도 무ᄉᆞᆫ 빗치 되ᄂᆞᆫ 쥴 아지 못ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="28a" n="5">且多封禁未開,</sent>
+<sent type="main" lang="kor" page="28a" n="5">ᄯᅩ 금ᄒᆞ고 ᄀᆡ뎜 아니ᄒᆞᄂᆞᆫ 곳이 만흐니</sent>
+<sent type="main" lang="chi" page="28a" n="6">其巖穴深藏未經透露者, 尙不知凡幾.</sent>
+<sent type="main" lang="kor" page="28a" n="6">바회 틈의 깁히 감쵸여 드러나지 아니ᄒᆞᆫ 거시 ᄯᅩ 언ᄆᆡᆫ 쥴 아지 못ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="28a-28b" n="7">宜專請西國頭等礦師, 設法偵探,</sent>
+<sent type="main" lang="kor" page="28a-28b" n="7">ᄆᆞᆺ당히 셔국의 일등광ᄉᆞ[금은뎜ᄒᆞᄂᆞᆫ 법을 아ᄂᆞᆫ 스승이라]^ᄅᆞᆯ 쳥ᄒᆞ야 법ᄃᆡ로 탐지ᄒᆞ야 보와</sent>
+<sent type="main" lang="chi" page="28b" n="1">確有把握, 或議以民採官收,</sent>
+<sent type="main" lang="kor" page="28b" n="1">뎍실이 잇ᄂᆞᆫ 줄 알거든 혹 의론ᄒᆞ야 ᄇᆡᆨ셩ᄃᆞ려 ᄏᆡ라 ᄒᆞ고 관가의셔 슈셰ᄅᆞᆯ ᄒᆞ던지</sent>
+<sent type="main" lang="chi" page="28b" n="2">或由部議刊給礦照, 准民間具領開採,</sent>
+<sent type="main" lang="kor" page="28b" n="2">혹 ᄒᆡ부의셔 의론ᄒᆞ고 톄문을 삭여 쥬어 민간의셔 ᄏᆡ기ᄅᆞᆯ 허ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="28b" n="3">仿商民納帖開行之例.</sent>
+<sent type="main" lang="kor" page="28b" n="3">쟝ᄉᆞᄒᆞᄂᆞᆫ ᄇᆡᆨ셩이 톄문을 맛타 가지고 물화ᄅᆞᆯ ᄂᆡ여 가ᄂᆞᆫ 젼례ᄅᆞᆯ 의방ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="28b" n="4">取地中之所有, 供人世之所無, 計無有更便於此者.</sent>
+<sent type="main" lang="kor" page="28b" n="4">ᄯᆞᄒᆡ 잇ᄂᆞᆫ 바ᄅᆞᆯ ᄎᆔᄒᆞ야 셰샹의 업ᄂᆞᆫ 거ᄉᆞᆯ 이바지ᄒᆞᄂᆞᆫ 거시 계ᄎᆡᆨ이 이의셔 편ᄒᆞᆫ 거시 업고</sent>
+<sent type="main" lang="chi" page="28b" n="5">而開礦之要, 固恃礦師,</sent>
+<sent type="main" lang="kor" page="28b" n="5">ᄀᆡ뎜ᄒᆞᄂᆞᆫ 묘리ᄂᆞᆫ 진실노 광ᄉᆞ를 미드려니와</sent>
+<sent type="main" lang="chi" page="28b" n="6">尤資總辦, 躬親探確, 因地制宜,</sent>
+<sent type="main" lang="kor" page="28b" n="6">총판[일을 쥬쟝ᄒᆞᄂᆞᆫ 관원이라]이 친히 탐지ᄒᆞ야 뎍실이 안 연후의 디셰를 인ᄒᆞ야 ᄆᆞᆺ당ᄒᆞᆯ 도리를 지으ᄃᆡ</sent>
+<sent type="main" lang="chi" page="28b" n="7">或專用西法,</sent>
+<sent type="main" lang="kor" page="28b" n="7">혹 젼수히 셔국 법을 ᄡᅳ거나</sent>
+<sent type="main" lang="chi" page="29a" n="1">或專用中法,</sent>
+<sent type="main" lang="kor" page="29a" n="1">혹 젼수히 즁국 법을 ᄡᅳ거나</sent>
+<sent type="main" lang="chi" page="29a" n="2">或參用中西.</sent>
+<sent type="main" lang="kor" page="29a" n="2">혹 즁국과 셔국 법을 셕거 ᄡᅳ거나</sent>
+<sent type="main" lang="chi" page="29a" n="3">視其水口之遠近, 審其挖礦之井道,</sent>
+<sent type="main" lang="kor" page="29a" n="3">슈구의 원근을 보며 구덩이 파ᄂᆞᆫ 길을 ᄉᆞᆲ혀보며</sent>
+<sent type="main" lang="chi" page="29a" n="4">覈其成本, 籌其銷塲,</sent>
+<sent type="main" lang="kor" page="29a" n="4">되ᄂᆞᆫ 소이연을 ᄒᆡᆨ실ᄒᆞ며 팔녀 나갈 길을 료량ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="29a" n="5">毋任用私人, 毋刻求礦役,</sent>
+<sent type="main" lang="kor" page="29a" n="5">공심 업ᄂᆞᆫ 쟈를 맛져 ᄡᅳ지 말며 뎜일을 각박히 시기지 말며</sent>
+<sent type="main" lang="chi" page="29a" n="6">毋舖張局面, 毋厚給薪資.</sent>
+<sent type="main" lang="kor" page="29a" n="6">판셰를 포쟝ᄒᆞ지 말며 뎜일ᄒᆞᄂᆞᆫ 역군의 곡가를 후히 쥬지 말 거시니</sent>
+<sent type="main" lang="chi" page="29a" n="7">誠以開礦之初, 用欵有出無入,</sent>
+<sent type="main" lang="kor" page="29a" n="7">셜뎜지초에 용되 나가ᄂᆞᆫ 거ᄉᆞᆫ 이시ᄃᆡ 드러오ᄂᆞᆫ 거ᄉᆞᆫ 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="29a" n="8">除礦夫等照給工食外, 其各執事, 均宜薄給辛資.</sent>
+<sent type="main" lang="kor" page="29a" n="8">역군들의 곡가 쥬ᄂᆞᆫ 외에 일 보ᄂᆞᆫ 사ᄅᆞᆷ들은 고로게 월름을 박히 쥬다가</sent>
+<sent type="main" lang="chi" page="29a" n="9">出礦後, 卽行截止, 惟先議一永遠遵行之法.</sent>
+<sent type="main" lang="kor" page="29a" n="9">뎜 터를 어든 후에 즉시 긋치ᄃᆡ 오ᄌᆞᆨ 몬져 영구 준ᄒᆡᆼᄒᆞᆯ 법을 의론ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="29a-29b" n="10">該廠或按年季,</sent>
+<sent type="main" lang="kor" page="29a-29b" n="10">셜뎜ᄒᆞᆫ 곳의셔 일 년^을 두고 치부ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="29b" n="1">核計出礦售銷實數,</sent>
+<sent type="main" lang="kor" page="29b" n="1">뎜의셔 나ᄂᆞᆫ 것과 팔녀 나간 수효를 회계ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="29b" n="2">除提出成本利息及納稅開銷之外, 所贏餘利,</sent>
+<sent type="main" lang="kor" page="29b" n="2">본젼과 리젼과 셰젼을 졔ᄒᆞᆫ 외에 남ᄂᆞᆫ 거ᄉᆞᆯ 가지고</sent>
+<sent type="main" lang="chi" page="29b" n="3">以十分之二, 歸於廠主,</sent>
+<sent type="main" lang="kor" page="29b" n="3">십 분에 이 분은 챵[일을 쥬쟝ᄒᆞᄂᆞᆫ 집]쥬를 쥬고</sent>
+<sent type="main" lang="chi" page="29b" n="4">十分之五, 勻分各執事, 以抵辛金,</sent>
+<sent type="main" lang="kor" page="29b" n="4">십 분에 오 분은 일 보ᄂᆞᆫ 여러 사ᄅᆞᆷ이 고로게 난호와 료뢰ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="29b" n="5">十分之三, 給各礦夫, 以充犒賞.</sent>
+<sent type="main" lang="kor" page="29b" n="5">십 분에 삼 분은 여러 역군을 샹 쥬고</sent>
+<sent type="main" lang="chi" page="29b" n="6">每年將進支數目, 張貼工廠,</sent>
+<sent type="main" lang="kor" page="29b" n="6">ᄆᆡ년에 나ᄂᆞᆫ 수효를 긔록ᄒᆞ야 뎜집 벽샹에 븟쳐</sent>
+<sent type="main" lang="chi" page="29b" n="7">使外內共知共見, 疑義毫無,</sent>
+<sent type="main" lang="kor" page="29b" n="7">ᄂᆡ외로 ᄒᆞ야곰 ᄒᆞᆷ긔 보고 ᄒᆞᆷ긔 아라 의심되미 죠금도 업게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="29b" n="8">庶幾在廠諸人, 均有後望,</sent>
+<sent type="main" lang="kor" page="29b" n="8">거의 뎜의 잇ᄂᆞᆫ 모ᄃᆞᆫ 사ᄅᆞᆷ이 후일 소망이 고로로 잇셔</sent>
+<sent type="main" lang="chi" page="29b" n="9">上下一氣, 無荒無怠,</sent>
+<sent type="main" lang="kor" page="29b" n="9">샹해 일심이 되여 게얼니 ᄒᆞ미 업ᄉᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="29b-30a" n="10">工勤獘絶, 利藪斯開.</sent>
+<sent type="main" lang="kor" page="29b-30a" n="10">역군의 공젼 닷토ᄂᆞᆫ 폐 아죠 업고 리로온 근원^은 졈졈 만흐리라</sent>
+<sent type="main" lang="chi" page="30a" n="1">査各省所開各礦,</sent>
+<sent type="main" lang="kor" page="30a" n="1">각 ᄉᆡᆼ 각쳐에 셜시ᄒᆞᆫ 각 뎜을 사실ᄒᆞ야 보건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="30a" n="2">或悞於始事, 或廢於半途,</sent>
+<sent type="main" lang="kor" page="30a" n="2">혹 셜시ᄒᆞᆯ ᄯᆡ에 잘못ᄒᆞ미 이시며 혹 즁도에 폐ᄒᆞ기도 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="30a" n="3">或獲利甚微, 或成本虛耗者, 何哉.</sent>
+<sent type="main" lang="kor" page="30a" n="3">혹 리를 보미 젹기도 ᄒᆞ며 혹 본젼이 턱이 븨ᄂᆞᆫ 쟈도 잇ᄉᆞ믄 다 엇지미뇨</sent>
+<sent type="main" lang="chi" page="30a" n="4">推其故,</sent>
+<sent type="main" lang="kor" page="30a" n="4">그 곡졀을 미루여 보건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="30a" n="5">一由於礦師, 探穴未眞, 開硐未善,</sent>
+<sent type="main" lang="kor" page="30a" n="5">하나흔 광ᄉᆡ 뎜 터 잡기ᄅᆞᆯ 진뎍히 못ᄒᆞ고 ᄀᆡ뎜ᄒᆞ기ᄅᆞᆯ 잘못ᄒᆞᆫ ᄃᆡ 말ᄆᆡ암아시며</sent>
+<sent type="main" lang="chi" page="30a" n="6">一由於總辦, 居尊輕信,</sent>
+<sent type="main" lang="kor" page="30a" n="6">하나흔 총판이 지위ᄂᆞᆫ 놉고 남의 말 곳지 듯기ᄅᆞᆯ 경이히 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="30a" n="7">不一一親臨相度, 實力講求,</sent>
+<sent type="main" lang="kor" page="30a" n="7">낫낫치 친히 ᄉᆞᆲ혀보며 실샹으로 힘을 드려 쥬쟝ᄒᆞ지 아니ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="30a" n="8">否則專任親暱,</sent>
+<sent type="main" lang="kor" page="30a" n="8">그러치 아니ᄒᆞᆫᄌᆞᆨ 친압ᄒᆞᆫ 사ᄅᆞᆷ을 젼슈히 맛지며</sent>
+<sent type="main" lang="chi" page="30a-30b" n="9">厚給辛工, 薄待礦夫, 衆工不悅.</sent>
+<sent type="main" lang="kor" page="30a-30b" n="9">일 보ᄂᆞᆫ 사ᄅᆞᆷ의 곡가ᄂᆞᆫ 후히 쥬며 역^군을 박ᄃᆡᄒᆞᄆᆡ 즁인이 깃거 아니ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="30b" n="1">故或則捏報礦硐將塌, 請示塡封,</sent>
+<sent type="main" lang="kor" page="30b" n="1">혹 뎜 구덩이가 쟝ᄎᆞᆺ 문허진다 ᄒᆞ고 허무ᄒᆞᆫ 말ᄉᆞᆷ으로 얽어 보ᄒᆞ야 메우고 봉ᄒᆞ기ᄅᆞᆯ 쳥ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="30b" n="2">或妄稱礦産已空, 無從開取. 罔知利獘,</sent>
+<sent type="main" lang="kor" page="30b" n="2">혹 뎜의셔 나ᄂᆞᆫ 거시 업ᄉᆞᄆᆡ 뎜을 ᄒᆞᆯ 길이 업다 ᄒᆞ고 망녕도이 일ᄏᆞ라 리와 폐ᄅᆞᆯ 아지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="30b" n="3">上下相蒙, 虧本停工, 率坐此獘.</sent>
+<sent type="main" lang="kor" page="30b" n="3">샹해 셔로 긔여 본젼만 업시 ᄒᆞ고 뎜역을 뎡지ᄒᆞ니 이런 폐단이 만흔지라</sent>
+<sent type="main" lang="chi" page="30b" n="4">此雲南所以‘常有硐老山空’之說歟.</sent>
+<sent type="main" lang="kor" page="30b" n="4">이ᄂᆞᆫ 운남에셔 뎜이 늙어 산이 븨다 ᄒᆞᄂᆞᆫ 말ᄉᆞᆷ이 ᄒᆞᆼ샹 이시민뎌</sent>
+<sent type="main" lang="chi" page="30b" n="5">計中國民生之用, 首在銅鉛,</sent>
+<sent type="main" lang="kor" page="30b" n="5">즁국 ᄇᆡᆨ셩의 흔이 ᄡᅳᄂᆞᆫ 거ᄉᆞᆯ 가량ᄒᆞ야 보건ᄃᆡ 읏듬이 동과 연이니</sent>
+<sent type="main" lang="chi" page="30b" n="6">盖因各省鈔局, 皷鑄停爐,</sent>
+<sent type="main" lang="kor" page="30b" n="6">대개 각 ᄉᆡᆼ 쵸국[주젼ᄒᆞᄂᆞᆫ 곳]에셔 주젼ᄒᆞ기를 뎡지ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="30b-31a" n="7">而奸民又往往私鎔制錢, 改鑄器皿,</sent>
+<sent type="main" lang="kor" page="30b-31a" n="7">간사ᄒᆞᆫ ᄇᆡᆨ셩들이 잇다감 돈^을 록여 긔명을 짓기로</sent>
+<sent type="main" lang="chi" page="31a" n="1">以致錢源愈缺, 日用不敷.</sent>
+<sent type="main" lang="kor" page="31a" n="1">돈이 졈졈 업셔져 일용이 넉넉지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="31a" n="2">其次則在金銀, 其次則在煤鐵.</sent>
+<sent type="main" lang="kor" page="31a" n="2">그 버거ᄂᆞᆫ 금 은의 잇고 그 버거ᄂᆞᆫ 셕탄과 텰의 이시니</sent>
+<sent type="main" lang="chi" page="31a" n="3">夫煤鐵之礦, 雖獲利較他礦稍差,</sent>
+<sent type="main" lang="kor" page="31a" n="3">대뎌 셕탄과 텰뎜은 비록 리ᄅᆞᆯ 어드미 다른 뎜에 비교ᄒᆞ면 져기 ᄎᆞ등이 이시나</sent>
+<sent type="main" lang="chi" page="31a" n="4">而不得不開者, 實以非煤火, 不能化汽而動機,</sent>
+<sent type="main" lang="kor" page="31a" n="4">부득불 ᄀᆡ뎜ᄒᆞ기ᄂᆞᆫ 실샹 셕탄이 아니면 능히 긔긔[ᄀᆡ뎜ᄒᆞᄂᆞᆫ ᄃᆡ 고동 트러 ᄡᅳᄂᆞᆫ 거시라]ᄅᆞᆯ 운동ᄒᆞ지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="31a" n="5">非精鐵, 不能製器而利用.</sent>
+<sent type="main" lang="kor" page="31a" n="5">졍텰이 아니면 능히 긔계ᄅᆞᆯ 짓지 못ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="31a" n="6">故泰西自煤鐵礦開而後,</sent>
+<sent type="main" lang="kor" page="31a" n="6">태셔의셔 셕탄과 텰뎜을 셜시ᄒᆞᆫ 후로븟허</sent>
+<sent type="main" lang="chi" page="31a" n="7">以之製造槍礮, 則日益新奇,</sent>
+<sent type="main" lang="kor" page="31a" n="7">인ᄒᆞ야 양창 대포ᄅᆞᆯ 지은ᄌᆞᆨ ᄂᆞᆯ노 더옥 신긔ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="31a" n="8">以之製造舟車, 則日益利便,</sent>
+<sent type="main" lang="kor" page="31a" n="8">ᄇᆡ와 슐위ᄅᆞᆯ 지은ᄌᆞᆨ ᄂᆞᆯ노 더옥 편리ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="31a-31b" n="9">以之製造耕織等器, 則日益精工,</sent>
+<sent type="main" lang="kor" page="31a-31b" n="9">밧 갈고 깁 ᄧᆞᄂᆞᆫ 긔계ᄅᆞᆯ 지은ᄌᆞᆨ ᄂᆞᆯ노 더옥 공교^ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="31b" n="1">各邦遂漸臻富强.</sent>
+<sent type="main" lang="kor" page="31b" n="1">각국이 드ᄃᆡ여 부강ᄒᆞ기에 니른지라</sent>
+<sent type="main" lang="chi" page="31b" n="2">西人謂‘一國盛衰, 可以所産各礦定之’, 誠不謬也.</sent>
+<sent type="main" lang="kor" page="31b" n="2">셔인들이 니ᄅᆞᄃᆡ 일국 셩쇠ᄅᆞᆯ 각 뎜 소산으로 뎡ᄒᆞᆫ다 ᄒᆞᄂᆞᆫ 말이 진실노 허언이 아니로다</sent>
+<sent type="main" lang="chi" page="31b" n="3">聞泰西各處之礦, 開採幾盡,</sent>
+<sent type="main" lang="kor" page="31b" n="3">드ᄅᆞ니 태셔 각쳐의 온ᄀᆞᆺ 뎜이 ᄏᆡ여 ᄡᅳ기를 거의 다ᄒᆞ여시ᄆᆡ</sent>
+<sent type="main" lang="chi" page="31b" n="4">見中國礦産饒富, 無不垂涎.</sent>
+<sent type="main" lang="kor" page="31b" n="4">즁국의 소산이 부요ᄒᆞ믈 보고 져마다 부러워ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="31b" n="5">與其抱泥因循, 致生西人之羨,</sent>
+<sent type="main" lang="kor" page="31b" n="5">거리ᄭᅵ고 ᄒᆡᆼᄒᆞ지 아니ᄒᆞ야 타국 사ᄅᆞᆷ들이 부러워ᄒᆞ게 ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="chi" page="31b" n="6">何如變通辦理, 藉充國用之儲.</sent>
+<sent type="main" lang="kor" page="31b" n="6">변통ᄒᆞ야 ᄏᆡ여 ᄡᅥ 국용을 넉넉ᄒᆞ게 ᄒᆞᄂᆞᆫ 것과 엇더ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="31b" n="7">方今海宇昇平, 勵精圖治,</sent>
+<sent type="main" lang="kor" page="31b" n="7">방금의 ᄒᆡᄂᆡ 승평ᄒᆞ니 졍신을 가다듬어 다ᄉᆞ리기ᄅᆞᆯ 도모ᄒᆞᆯ ᄯᆡ의</sent>
+<sent type="main" lang="chi" page="31b" n="8">凡有益於國計民生者,</sent>
+<sent type="main" lang="kor" page="31b" n="8">므릇 국가와 ᄇᆡᆨ셩의게 유익ᄒᆞᆯ 일이면</sent>
+<sent type="main" lang="chi" page="31b-32a" n="9">莫不次第擧行, 參倣西法.</sent>
+<sent type="main" lang="kor" page="31b-32a" n="9">ᄎᆞ뎨로 거ᄒᆡᆼᄒᆞ야 셔국법을 의방^ᄒᆞ야 ᄡᅳ지 아니미 업ᄉᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="32a" n="1">然但學西人之製器,</sent>
+<sent type="main" lang="kor" page="32a" n="1">그러나 다만 셔인의 긔계 짓ᄂᆞᆫ 법만 ᄇᆡ호고</sent>
+<sent type="main" lang="chi" page="32a" n="2">而不學西國之理財,</sent>
+<sent type="main" lang="kor" page="32a" n="2">셔국의 ᄌᆡ물 다ᄉᆞ리ᄂᆞᆫ 법을 ᄇᆡ호지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="32a" n="3">非富無以保邦,</sent>
+<sent type="main" lang="kor" page="32a" n="3">부ᄒᆞ미 아니면 나라를 보젼ᄒᆞᆯ 길이 업고</sent>
+<sent type="main" lang="chi" page="32a" n="4">非强幷無以保富,</sent>
+<sent type="main" lang="kor" page="32a" n="4">강ᄒᆞ미 아니면 부ᄒᆞ믈 보젼ᄒᆞᆯ 길이 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="32a" n="5">相需爲用, 乃能相濟有成焉.</sent>
+<sent type="main" lang="kor" page="32a" n="5">부강을 ᄒᆞᆷ긔 ᄡᅥ야 능히 셔로 건져 셩공ᄒᆞ미 잇ᄉᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="32a" n="6">宜通飭各省地方官,</sent>
+<sent type="main" lang="kor" page="32a" n="6">ᄆᆞᆺ당히 각쳐 디방관의게 신칙ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="32a" n="7">査驗確實, 設法招商,</sent>
+<sent type="main" lang="kor" page="32a" n="7">셜뎜ᄒᆞᆯ 곳을 뎍실이 징험ᄒᆞᆫ 후 법을 베프러 샹고ᄅᆞᆯ 부ᄅᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="32a" n="8">並請精於西法, 善於識礦者,</sent>
+<sent type="main" lang="kor" page="32a" n="8">셔국 법에 익달ᄒᆞ고 뎜일 알기ᄅᆞᆯ 잘ᄒᆞᄂᆞᆫ 쟈ᄅᆞᆯ 아오로 쳥ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="32a" n="9">督同工人,</sent>
+<sent type="main" lang="kor" page="32a" n="9">쟝인을 동독ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="32a" n="10">派撥防勇營兵, 一體開採,</sent>
+<sent type="main" lang="kor" page="32a" n="10">각 영 군ᄉᆞᄅᆞᆯ 분발ᄒᆞ야 일톄로 ᄏᆡ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="32a-32b" n="11">旣可彌補巨欵, 啓無盡之財源,</sent>
+<sent type="main" lang="kor" page="32a-32b" n="11">가히 큰 일을 미봉ᄒᆞ야 무궁ᄒᆞᆫ ᄌᆡ물 ^ 근원을 열 거시오</sent>
+<sent type="main" lang="chi" page="32b" n="1">又可弭息奸謀, 消未來之隱患.</sent>
+<sent type="main" lang="kor" page="32b" n="1">ᄯᅩ 가히 간사ᄒᆞᆫ ᄭᅬᄅᆞᆯ 업시 ᄒᆞ야 쟝ᄅᆡ의 슘은 근심을 덜니라</sent>
+<sent type="main" lang="chi" page="32b" n="2">開辦之始, 祇須購備機器, 延請礦師,</sent>
+<sent type="main" lang="kor" page="32b" n="2">ᄀᆡ뎜지초의 모로미 긔긔ᄅᆞᆯ ᄉᆞ셔 쥰비ᄒᆞ고 광ᄉᆞᄅᆞᆯ 쳥ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="chi" page="32b" n="3">經理得人, 自臻妥善.</sent>
+<sent type="main" lang="kor" page="32b" n="3">경리ᄒᆞᆯ 사ᄅᆞᆷ을 어드면 스ᄉᆞ로 온당ᄒᆞ게 되리라</sent>
+<sent type="main" lang="chi" page="32b" n="4">有慮其工役之繁者,</sent>
+<sent type="main" lang="kor" page="32b" n="4">공역이 호번ᄒᆞ믈 념려ᄒᆞᄂᆞᆫ 쟤 잇거든</sent>
+<sent type="main" lang="chi" page="32b" n="5">思有以堅其心,</sent>
+<sent type="main" lang="kor" page="32b" n="5">그 ᄆᆞᄋᆞᆷ을 굿거니 ᄒᆞᆯ 도리ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="32b" n="6">有溺於堪輿之說者, 先有以祛其惑,</sent>
+<sent type="main" lang="kor" page="32b" n="6">디가셔의 혹ᄒᆞᆫ 쟤 잇거든 몬져 그 의심을 업게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="32b" n="7">實事求是, 歷久不渝,</sent>
+<sent type="main" lang="kor" page="32b" n="7">실샹 일을 이에 구ᄒᆞ야 오ᄅᆡ도록 변치 아니ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="32b" n="8">則成效可以克臻.</sent>
+<sent type="main" lang="kor" page="32b" n="8">큰 효험을 가히 일울 거시니</sent>
+<sent type="main" lang="chi" page="32b" n="9">上爲國家致富强,</sent>
+<sent type="main" lang="kor" page="32b" n="9">우흐로 국가ᄅᆞᆯ 위ᄒᆞ야 부강ᄒᆞ믈 일우게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="32b" n="10">下爲民生資利賴,</sent>
+<sent type="main" lang="kor" page="32b" n="10">아ᄅᆡ로 ᄇᆡᆨ셩을 위ᄒᆞ야 대리ᄅᆞᆯ ᄌᆞ뢰ᄒᆞ게 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="32b-33a" n="11">誠救時之先務,</sent>
+<sent type="main" lang="kor" page="32b-33a" n="11">진실노 시폐를 구원ᄒᆞᄂᆞᆫ ^ 큰 일이오</sent>
+<sent type="main" lang="chi" page="33a" n="1">治世之良圖也, 可不講哉.</sent>
+<sent type="main" lang="kor" page="33a" n="1">셰샹을 다ᄉᆞ리ᄂᆞᆫ 죠흔 계ᄎᆡᆨ이니 가히 강론치 아니ᄒᆞ랴</sent>
+<sent type="title2" lang="chi" page="34a" n="1">論火車</sent>
+<sent type="title2" lang="kor" page="34a" n="1">론화거</sent>
+<sent type="anno" lang="chi" page="34a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="34a" n="2">화륜거ᄅᆞᆯ 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="34a" n="3">夫水則資舟, 陸則資車,</sent>
+<sent type="main" lang="kor" page="34a" n="3">대뎌 물에ᄂᆞᆫ ᄇᆡᄅᆞᆯ ᄌᆞ뢰ᄒᆞ고 륙디에ᄂᆞᆫ 슐위를 ᄌᆞ뢰ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="34a" n="4">此民生自然之利也.</sent>
+<sent type="main" lang="kor" page="34a" n="4">이ᄂᆞᆫ 인ᄉᆡᆼ에 ᄌᆞ연지리라</sent>
+<sent type="main" lang="chi" page="34a" n="5">西人, 本此意而精求之,</sent>
+<sent type="main" lang="kor" page="34a" n="5">셔인이 이 ᄯᅳᆺ을 근본ᄒᆞ야 졍긴히 구ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="34a" n="6">水則製火輪船, 陸則製火車路,</sent>
+<sent type="main" lang="kor" page="34a" n="6">물의ᄂᆞᆫ 화륜션을 짓고 륙디의ᄂᆞᆫ 화륜거를 지어</sent>
+<sent type="main" lang="chi" page="34a" n="7">以便來往, 以利轉輪,</sent>
+<sent type="main" lang="kor" page="34a" n="7">왕ᄅᆡᄒᆞ기를 편ᄒᆞ게 ᄒᆞ고 슈운ᄒᆞ기를 리롭게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="34a" n="8">誠亘古未有之奇製也.</sent>
+<sent type="main" lang="kor" page="34a" n="8">진실노 ᄌᆞ고이ᄅᆡ로 업ᄂᆞᆫ 바 긔이ᄒᆞᆫ 졔되라</sent>
+<sent type="main" lang="chi" page="34a" n="9">中國版圖廣大,</sent>
+<sent type="main" lang="kor" page="34a" n="9">즁국 디방이 광대ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="34a" n="10">苟非仿造火車鐵路,</sent>
+<sent type="main" lang="kor" page="34a" n="10">진실노 그 법을 의방ᄒᆞ야 화륜거를 짓고 텰로를 ᄭᆞᆯ지 아니ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="34a" n="11">則相距萬里之遙, 安能信息遽通, 不違咫尺.</sent>
+<sent type="main" lang="kor" page="34a" n="11">샹게 만 리나 되ᄂᆞᆫ 먼 길의 엇지 능히 쇼식을 속히 통ᄒᆞ야 지쳑을 어긔지 안케 ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="34a-34b" n="12">大則轉餉調軍, 有裨於國計,</sent>
+<sent type="main" lang="kor" page="34a-34b" n="12">크게 ᄡᅳ면 군량을 슈^운ᄒᆞ고 군ᄉᆞ를 됴발ᄒᆞ야 나라ᄒᆡ 유익ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="34b" n="1">小則商賈貿易, 有便於民生,</sent>
+<sent type="main" lang="kor" page="34b" n="1">젹게 ᄡᅳ면 샹고가 물화를 무역ᄒᆞ야 ᄇᆡᆨ셩의게 리편ᄒᆞ게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="34b" n="2">而且郵傳信息, 不慮稽遲,</sent>
+<sent type="main" lang="kor" page="34b" n="2">ᄯᅩ 신식을 젼ᄒᆞᄆᆡ 지쳬될가 념려ᄒᆞᆯ ᄇᆡ 업고</sent>
+<sent type="main" lang="chi" page="34b" n="3">警報調徵, 無虞舛悞.</sent>
+<sent type="main" lang="kor" page="34b" n="3">급ᄒᆞᆫ 일의 군ᄉᆞ를 됴발ᄒᆞᄆᆡ 그ᄅᆞᆺᄒᆞᆯ가 근심ᄒᆞᆯ ᄇᆡ 업고</sent>
+<sent type="main" lang="chi" page="34b" n="4">况中土沃壤, 倍於歐洲,</sent>
+<sent type="main" lang="kor" page="34b" n="4">ᄒᆞ믈며 즁국은 토옥ᄒᆞ미 구라파 쥬에 갑졀이나 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="34b" n="5">祗爲山險路遙, 轉運不便,</sent>
+<sent type="main" lang="kor" page="34b" n="5">다만 산이 험ᄒᆞ고 길이 머러 슈운ᄒᆞ기 극난ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="34b" n="6">而農民, 亦不知製器,</sent>
+<sent type="main" lang="kor" page="34b" n="6">농민들이 ᄯᅩᄒᆞᆫ 이런 긔계를 지을 쥴 아지 못ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="34b" n="7">因地之利以謀贏餘,</sent>
+<sent type="main" lang="kor" page="34b" n="7">토디 소츌을 인ᄒᆞ야 져기 넉넉ᄒᆞ기를 ᄭᅬᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="34b" n="8">僅樹藝五穀, 供日用所需而已.</sent>
+<sent type="main" lang="kor" page="34b" n="8">겨유 오곡을 심어 일용을 이바지ᄒᆞᆯ ᄯᆞᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="34b" n="9">使載物之器良便, 而運物之價又廉,</sent>
+<sent type="main" lang="kor" page="34b" n="9">물화를 ᄌᆡ운ᄒᆞᄂᆞᆫ 긔계 슌편ᄒᆞ고 물화 슈운ᄒᆞᄂᆞᆫ 갑ᄉᆞᆯ 렴ᄒᆞ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="35a" n="1">一切種植立可以此之有餘, 濟彼之不足,</sent>
+<sent type="main" lang="kor" page="35a" n="1">온ᄀᆞᆺ 심은 거ᄉᆞᆯ 가지고 즉ᄀᆡᆨ ᄂᆡ의 이곳에 유여ᄒᆞᆫ 거ᄉᆞ로 져곳의 부죡ᄒᆞᆫ 거ᄉᆞᆯ 구졔ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="35a" n="2">而獲利恒得倍蓰.</sent>
+<sent type="main" lang="kor" page="35a" n="2">리를 어드미 ᄒᆞᆼ샹 몃 갑졀이 될 거시니</sent>
+<sent type="main" lang="chi" page="35a" n="3">數年之後, 民間蓄積自饒,</sent>
+<sent type="main" lang="kor" page="35a" n="3">수년 후에 민간의 져츅ᄒᆞᆫ 거시 ᄌᆞ연 요죡ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="35a" n="4">當不僅如古人所云餘三餘一已也.</sent>
+<sent type="main" lang="kor" page="35a" n="4">그 공효를 심샹ᄒᆞᆫ ᄃᆡ 비기지 못ᄒᆞᆯ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="35a" n="5">卽惑旱乾水溢, 偶有偏災,</sent>
+<sent type="main" lang="kor" page="35a" n="5">혹 슈ᄌᆡ와 한ᄌᆡ에 우연이 편벽된 ᄌᆡ앙이 잇셔도</sent>
+<sent type="main" lang="chi" page="35a" n="6">亦能接濟運糧, 藉甦民困.</sent>
+<sent type="main" lang="kor" page="35a" n="6">ᄯᅩᄒᆞᆫ 능히 량식을 슈운ᄒᆞ야 ᄇᆡᆨ셩의 곤ᄒᆞ믈 구졔ᄒᆞᆯ 만ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="35a" n="7">昔美國西北之余山郡, 地多瀕海, 曠邈無垠.</sent>
+<sent type="main" lang="kor" page="35a" n="7">녯젹의 미국 셔븍 려산 고ᄋᆞᆯ에 ᄒᆡ변이 만코 너르기 한량이 업더니</sent>
+<sent type="main" lang="chi" page="35a" n="8">當道於數年前, 開設火車鐵路,</sent>
+<sent type="main" lang="kor" page="35a" n="8">당도지인이 수년 젼의 화륜거와 텰로를 셜시ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="35a" n="9">近通東郡, 遙接金山,</sent>
+<sent type="main" lang="kor" page="35a" n="9">갓가이 동군 ᄯᆞ흘 통ᄒᆞ고 먼니 금산을 졉ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="35a-35b" n="10">由是百貨流通, 商賈輻輳,</sent>
+<sent type="main" lang="kor" page="35a-35b" n="10">일노 말ᄆᆡ암아 온ᄀᆞᆺ 물화를 통^ᄒᆞ고 샹괴 모혀들며</sent>
+<sent type="main" lang="chi" page="35b" n="1">戶口增至十有八萬, 有冊可稽,</sent>
+<sent type="main" lang="kor" page="35b" n="1">민개 느러 십팔만 호에 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="35b" n="2">此富庶之明效大驗也.</sent>
+<sent type="main" lang="kor" page="35b" n="2">이ᄂᆞᆫ 부강ᄒᆞᆫ 큰 효험이라</sent>
+<sent type="main" lang="chi" page="35b" n="3">嘗聞德法搆兵時, 德所以勝法者,</sent>
+<sent type="main" lang="kor" page="35b" n="3">일ᄌᆞᆨ 드르니 덕국과 법국이 셔로 ᄡᅡ호다가 덕국이 법국을 니긘 밧 쟈ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="35b" n="4">非德兵果精於法兵,</sent>
+<sent type="main" lang="kor" page="35b" n="4">덕국 군ᄉᆡ 법국 군ᄉᆞ보다 나은 쥴이 아니라</sent>
+<sent type="main" lang="chi" page="35b" n="5">亦藉電信與火車之行軍迅速耳.</sent>
+<sent type="main" lang="kor" page="35b" n="5">ᄯᅩᄒᆞᆫ 뎐긔션과 화륜거로 ᄒᆡᆼ군ᄒᆞ기를 신속히 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="35b" n="6">當兩國未戰之先, 德提督向法使言曰,</sent>
+<sent type="main" lang="kor" page="35b" n="6">량국이 ᄡᅡ호기 젼에 덕국 졔독이 법국 ᄉᆞ신ᄃᆞ려 말ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="35b" n="7">“如果欲戰, 我國可於十四日中, 在邊境集軍十萬, 糧械俱備,”</sent>
+<sent type="main" lang="kor" page="35b" n="7">만일 ᄡᅡ호고져 ᄒᆞ거든 아국이 십ᄉᆞ일 ᄂᆡ에 변방 디경으로 군ᄉᆞ 십만을 모흐고 군량과 긔계를 다 쥰비ᄒᆞ리라 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="35b" n="8">後果克踐其言, 大獲全勝.</sent>
+<sent type="main" lang="kor" page="35b" n="8">그 후에 과연 그 말ᄃᆡ로 ᄒᆞ야 크게 승쳡ᄒᆞ엿고</sent>
+<sent type="main" lang="chi" page="35b-36a" n="9">從前英俄交戰, 俄軍輒敗,</sent>
+<sent type="main" lang="kor" page="35b-36a" n="9">젼의 영국과 아라ᄉᆞ국이 셔로 ᄡᅡ호다^가 아라ᄉᆞ국이 믄득 패ᄒᆞ엿시니</sent>
+<sent type="main" lang="chi" page="36a" n="1">彼時, 俄若鐵路先成, 則勝敗尙難逆料.</sent>
+<sent type="main" lang="kor" page="36a" n="1">기시에 아라ᄉᆞ국이 만일 텰로를 먼져 ᄆᆡᆫᄃᆞ려시면 승패를 혜아리기 어려올지라</sent>
+<sent type="main" lang="chi" page="36a" n="2">可知兩國交戰, 總視何國能剋期集兵,</sent>
+<sent type="main" lang="kor" page="36a" n="2">량국이 셔로 ᄡᅡ호ᄆᆡ 어ᄂᆡ 나라히 군ᄉᆞ를 모흐ᄃᆡ</sent>
+<sent type="main" lang="chi" page="36a" n="3">速而且多者, 卽操勝算.</sent>
+<sent type="main" lang="kor" page="36a" n="3">능히 속히 ᄒᆞ고 ᄯᅩ 만히 ᄒᆞᄂᆞᆫ 쟈를 ᄉᆞᆲ혀보면 승부를 가히 침쟉ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="36a" n="4">若敵人壓境, 而無鐵路,</sent>
+<sent type="main" lang="kor" page="36a" n="4">만일 뎍병이 디경을 범ᄒᆞᄃᆡ 텰뢰 업ᄉᆞ면</sent><!--'[업]ᄉᆞ면'은 원문에는 '엽ᄉᆞ면'으로 되어 있음.-->
+<sent type="main" lang="chi" page="36a" n="5">非但兵不易集, 糧不易徵,</sent>
+<sent type="main" lang="kor" page="36a" n="5">군ᄉᆞ를 쉽게 모흐지 못ᄒᆞ고 군량을 쉽게 슈운ᄒᆞ지 못ᄒᆞᆯ ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="chi" page="36a" n="6">未免部署倉皇, 軍情危急矣.</sent>
+<sent type="main" lang="kor" page="36a" n="6">거죄 창황ᄒᆞ야 군졍이 위급ᄒᆞ믈 면치 못ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="36a" n="7">今俄國, 精於製造,</sent>
+<sent type="main" lang="kor" page="36a" n="7">이졔 아라ᄉᆞ국이 긔계 짓기를 졍긴히 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="36a" n="8">如自彼國至中華地界, 築成鐵路, 一朝用兵,</sent>
+<sent type="main" lang="kor" page="36a" n="8">만일 져의 나라로븟허 즁국 디경ᄭᅡ지 텰로를 ᄭᅡ랏다가 일죠에 군ᄉᆞ를 ᄡᅳ면</sent>
+<sent type="main" lang="chi" page="36a-36b" n="9">不過半月, 可達中國,</sent>
+<sent type="main" lang="kor" page="36a-36b" n="9">불^과 반월의 가히 즁국의 득달ᄒᆞ려니와</sent>
+<sent type="main" lang="chi" page="36b" n="1">旣無此路, 則徵兵調餉動需歲月,</sent>
+<sent type="main" lang="kor" page="36b" n="1">이 길이 업ᄉᆞᆫᄌᆞᆨ 군ᄉᆞ를 됴발ᄒᆞ고 군량을 슈운ᄒᆞᄆᆡ 셰월만 허비ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="36b" n="2">未及齊集, 而敵已過境矣.</sent>
+<sent type="main" lang="kor" page="36b" n="2">밋쳐 다 모히지 못ᄒᆞ야 뎍병이 임의 디경에 지날 거시오</sent>
+<sent type="main" lang="chi" page="36b" n="3">英國若於印度, 築鐵路至雲南邊界,</sent>
+<sent type="main" lang="kor" page="36b" n="3">영국이 만일 인도의 텰로를 ᄭᅡ라 운남 변방 디경ᄭᅡ지 온ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="36b" n="4">則行兵不過五日可到,</sent>
+<sent type="main" lang="kor" page="36b" n="4">ᄒᆡᆼ군ᄒᆞᆫ 지 불과 오일에 가히 득달ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="36b" n="5">興言及此, 曷勝悚懼.</sent>
+<sent type="main" lang="kor" page="36b" n="5">말ᄉᆞᆷ이 이에 밋ᄎᆞᄆᆡ 엇지 송구ᄒᆞ믈 니긔리오</sent>
+<sent type="main" lang="chi" page="36b" n="6">總之車路之設, 有備無患, 有益無損.</sent>
+<sent type="main" lang="kor" page="36b" n="6">대뎌 텰로를 셜시ᄒᆞᄂᆞᆫ 거시 방비ᄒᆞᄂᆞᆫ ᄃᆡ 유익ᄒᆞ믄 잇고 해로올 근심은 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="36b" n="7">在中國今日, 斷不能置爲緩圖者矣.</sent>
+<sent type="main" lang="kor" page="36b" n="7">즁국의셔 이졔 완완ᄒᆞᆫ 일노 바려두기ᄂᆞᆫ 결단코 못ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="36b-37a" n="8">然鐵路當以京都爲總匯, 分支路,</sent>
+<sent type="main" lang="kor" page="36b-37a" n="8">그러나 텰로를 ᄆᆞᆺ당히 황셩으로 도회쳐를 ᄉᆞᆷ고 여러 길을 난^호와</sent><!--원문에는 그러나. '그러[니]' 문맥상으로는-->
+<sent type="main" lang="chi" page="37a" n="1">以達各省, 務使首尾相應, 遠近相通.</sent>
+<sent type="main" lang="kor" page="37a" n="1">각 ᄉᆡᆼ으로 통ᄒᆞ야 가게 ᄒᆞᄃᆡ 원근이 셔로 통ᄒᆞ고 슈미ᄅᆞᆯ 셔로 응ᄒᆞ게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="37a" n="2">或有礙於廬墓者, 當迂廻以避之.</sent>
+<sent type="main" lang="kor" page="37a" n="2">혹 인가와 분묘의 다다칠 ᄃᆡ 잇거든 ᄆᆞᆺ당히 길을 돌녀 피ᄒᆞ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="37a" n="3">庶免滋生事端阻撓大計.</sent>
+<sent type="main" lang="kor" page="37a" n="3">거의 국가 대ᄉᆞᄅᆞᆯ 져희ᄒᆞᄂᆞᆫ ᄉᆞ단을 면ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="37a" n="4">而於各州縣偏旁之地, 亦築車路,</sent>
+<sent type="main" lang="kor" page="37a" n="4">각 ᄉᆡᆼ에 치우쳐 잇ᄂᆞᆫ 고ᄋᆞᆯ의도 ᄯᅩᄒᆞᆫ 슐위 단닐 길을 닥고</sent>
+<sent type="main" lang="chi" page="37a" n="5">多備馬車, 以資轉運往來,</sent>
+<sent type="main" lang="kor" page="37a" n="5">말게 메ᄂᆞᆫ 슐위ᄅᆞᆯ 만히 작만ᄒᆞ야 왕ᄅᆡᄒᆞ며</sent>
+<sent type="main" lang="chi" page="37a" n="6">如輪船之有駁船,</sent>
+<sent type="main" lang="kor" page="37a" n="6">슈운ᄒᆞ게 ᄒᆞ되 화륜션의 죵션 두ᄃᆞ시 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="37a" n="7">費雖多而利甚普</sent>
+<sent type="main" lang="kor" page="37a" n="7">허비ᄂᆞᆫ 비록 만흐나 리로오미 심히 너ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="37a" n="8">苟能擧辦, 則水路有輪船, 內地有鐵路,</sent>
+<sent type="main" lang="kor" page="37a" n="8">진실노 능히 이ᄅᆞᆯ 판비ᄒᆞᆫᄌᆞᆨ 슈로의ᄂᆞᆫ 화륜션이 잇고 륙디의ᄂᆞᆫ 텰뢰 잇셔</sent>
+<sent type="main" lang="chi" page="37a" n="9">有事則便於策應,</sent>
+<sent type="main" lang="kor" page="37a" n="9">일이 잇ᄉᆞᆫᄌᆞᆨ ᄎᆡᆨ응ᄒᆞ기 극히 편ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="37a-37b" n="10">無事則便於商民,</sent>
+<sent type="main" lang="kor" page="37a-37b" n="10">일이 업ᄉᆞᆫᄌᆞᆨ 샹고의^게 심히 유익ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="37b" n="1">利何如也.</sent>
+<sent type="main" lang="kor" page="37b" n="1">그 리로오미 엇더ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="37b" n="2">夫天下之事, 守常不變, 則難與圖功,</sent>
+<sent type="main" lang="kor" page="37b" n="2">대뎌 텬하 일은 덧덧ᄒᆞ믈 직희고 변통ᄒᆞ지 아니ᄒᆞᆫᄌᆞᆨ 공효ᄅᆞᆯ 도모ᄒᆞ기 어렵고</sent>
+<sent type="main" lang="chi" page="37b" n="3">因時制宜, 則無往不利.</sent>
+<sent type="main" lang="kor" page="37b" n="3">시셰ᄅᆞᆯ 인ᄒᆞ야 ᄆᆞᆺ당ᄒᆞᆫ 법을 지은ᄌᆞᆨ 리롭지 아니ᄒᆞᆯ ᄇᆡ 업ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="37b" n="4">査西洋鐵路, 其始或數十里數百里,</sent>
+<sent type="main" lang="kor" page="37b" n="4">셔국 텰로ᄅᆞᆯ 샹고ᄒᆞ건ᄃᆡ 쳐음의ᄂᆞᆫ 혹 수십 리 혹 수ᄇᆡᆨ 리ᄅᆞᆯ 시작ᄒᆞ엿다가</sent>
+<sent type="main" lang="chi" page="37b" n="5">接續而成,</sent>
+<sent type="main" lang="kor" page="37b" n="5">그 후에 련쇽ᄒᆞ야 ᄆᆡᆫᄃᆞᆫ 거시니</sent>
+<sent type="main" lang="chi" page="37b" n="6">如慮經費不敷,</sent>
+<sent type="main" lang="kor" page="37b" n="6">만일 경비 부죡ᄒᆞᆯ가 념려ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="chi" page="37b" n="7">選擇要道, 小試其端,</sent>
+<sent type="main" lang="kor" page="37b" n="7">몬져 요긴ᄒᆞᆫ 길에 죠고마치 시험ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="37b" n="8">俾民習於見聞, 知其利益,</sent>
+<sent type="main" lang="kor" page="37b" n="8">ᄇᆡᆨ셩으로 ᄒᆞ야곰 문견에 익어 유익ᄒᆞ믈 알게 ᄒᆞᆫ 연후에</sent>
+<sent type="main" lang="chi" page="37b" n="9">然後招商承辦 逐次推廣.</sent>
+<sent type="main" lang="kor" page="37b" n="9">샹고ᄅᆞᆯ 블너 이어 ᄆᆡᆫᄃᆞ러 ᄎᆞ례로 미루여 널게 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="37b-38a" n="10">今漕糧改行海運, 較前已捷,</sent>
+<sent type="main" lang="kor" page="37b-38a" n="10">이졔 셰곡 조운ᄒᆞ기ᄅᆞᆯ 바다길노 ᄒᆡᆼᄒᆞ^게 ᄒᆞᄆᆡ 젼보다 심히 ᄲᆞ르되</sent>
+<sent type="main" lang="chi" page="38a" n="1">而當事者, 虞海道不靖,</sent>
+<sent type="main" lang="kor" page="38a" n="1">당ᄉᆞ지인이 바다길이 고요ᄒᆞ지 못ᄒᆞ믈 념려ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="38a" n="2">欲復河運舊制.</sent>
+<sent type="main" lang="kor" page="38a" n="2">하슈로 슈운ᄒᆞᄂᆞᆫ 녯 졔도ᄅᆞᆯ 회복고져 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="38a" n="3">與其費巨欵以復河運, 何如移此款以改鐵路之爲愈也.</sent>
+<sent type="main" lang="kor" page="38a" n="3">인력을 크게 허비ᄒᆞ야 하슈로 슈운ᄒᆞᄂᆞᆫ 법을 회복ᄒᆞᄂᆞᆫ 거시 이 인력을 옴겨 텰로를 셜시ᄒᆞᄂᆞᆫ 것과 엇더ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="38a" n="4">西洋近有新式鐵路,</sent>
+<sent type="main" lang="kor" page="38a" n="4">셔국에셔 근ᄅᆡ ᄉᆡ 규식으로 ᄆᆡᆫᄃᆞᆫ 텰뢰 이시니</sent>
+<sent type="main" lang="chi" page="38a" n="5">寬徑一尺, 其地面不必舖平,</sent>
+<sent type="main" lang="kor" page="38a" n="5">너븨ᄂᆞᆫ 한ᄌᆞ히 남즛ᄒᆞ고 ᄯᆞ흔 굿타여 평평ᄒᆞ게 ᄒᆞᆯ 거시 업고</sent>
+<sent type="main" lang="chi" page="38a" n="6">下植木椿爲架, 承以浮梁,</sent>
+<sent type="main" lang="kor" page="38a" n="6">아ᄅᆡ 나무를 셰워 시렁 ᄆᆡᄃᆞᆺ ᄒᆞ고 그 우ᄒᆡ 다리를 노하</sent>
+<sent type="main" lang="chi" page="38a" n="7">用則搭, 不用則卸</sent>
+<sent type="main" lang="kor" page="38a" n="7">텰로 ᄡᅳᆯ ᄯᆡ의ᄂᆞᆫ 다리를 베플고 아니 ᄡᅳᆯ ᄯᆡ의ᄂᆞᆫ 다리를 거두게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="38a-38b" n="8">西國凡有兵事, 用以濟急.</sent>
+<sent type="main" lang="kor" page="38a-38b" n="8">셔국에셔 므릇 군ᄉᆞ를 ᄡᅳᆯ ᄯᆡ면 일노ᄡᅥ 급ᄒᆞ믈 구^졔ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="38b" n="1">惟是修治鐵路, 固非倉卒可辦,</sent>
+<sent type="main" lang="kor" page="38b" n="1">오ᄌᆞᆨ 텰로를 다ᄉᆞ리ᄂᆞᆫ 거시 창졸간에 가히 판비치 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="38b" n="2">抑且經費不貲,</sent>
+<sent type="main" lang="kor" page="38b" n="2">ᄯᅩ 부비가 젹지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="38b" n="3">中國如能措款仿行, 亦可以備不虞也.</sent>
+<sent type="main" lang="kor" page="38b" n="3">즁국이 만일 능히 이를 의방ᄒᆞ야 ᄒᆡᆼᄒᆞ면 가히 불우지변을 방비ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="38b" n="4">或詰余曰,</sent>
+<sent type="main" lang="kor" page="38b" n="4">혹이 나를 힐란ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="38b" n="5">“鐵路造成, 設隣國有覬覦之心,</sent>
+<sent type="main" lang="kor" page="38b" n="5">텰로를 ᄆᆡᆫᄃᆞ럿다가 셜ᄉᆞ 타국에셔 침범ᄒᆞᆯ ᄆᆞᄋᆞᆷ을 두어</sent>
+<sent type="main" lang="chi" page="38b" n="6">倏忽可至, 猝不及防,</sent>
+<sent type="main" lang="kor" page="38b" n="6">삽시간에 드러오면 졸디에 밋쳐 방비ᄒᆞ지 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="38b" n="7">其害可勝言哉”.</sent>
+<sent type="main" lang="kor" page="38b" n="7">그 해를 가히 익의여 말ᄒᆞ랴 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="38b" n="8">不知, 鐵路在我境中, 操縱由己,</sent>
+<sent type="main" lang="kor" page="38b" n="8">모로ᄂᆞᆫ 말이 텰뢰 아국 디경에 잇셔 ᄂᆡ 임의로 조죵ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="38b" n="9">何慮爲敵所據,</sent>
+<sent type="main" lang="kor" page="38b" n="9">엇지 뎍병의 웅거ᄒᆞᆫ ᄇᆡ 될가 념려ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="38b-39a" n="10">試思毆洲各國, 欲到內地, 必有海道,</sent>
+<sent type="main" lang="kor" page="38b-39a" n="10">시험ᄒᆞ야 ᄉᆡᆼ각ᄒᆞ라 구라파 각국이 ᄂᆡ디에 드러오려 ᄒᆞ면 반ᄃᆞ시 ^ 바다로 올 거시니</sent>
+<sent type="main" lang="chi" page="39a" n="1">苟有齟齬則海禁必先嚴密,</sent>
+<sent type="main" lang="kor" page="39a" n="1">진실노 념례 잇거든 바다길을 엄금ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="39a" n="2">所建鐵路, 何難調重兵以守之.</sent>
+<sent type="main" lang="kor" page="39a" n="2">텰로에도 대병을 됴발ᄒᆞ야 직히미 무어시 어려오리오</sent>
+<sent type="main" lang="chi" page="39a" n="3">倘慮俄人,</sent>
+<sent type="main" lang="kor" page="39a" n="3">만일 아라ᄉᆞ국 사ᄅᆞᆷ을 념려ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="chi" page="39a" n="4">而所設鐵路, 惟在山右陜甘內地,</sent>
+<sent type="main" lang="kor" page="39a" n="4">셜시ᄒᆞᆫ 바 텰로ᄂᆞᆫ 오직 산우ᄉᆡᆼ과 셤셔 감슉ᄉᆡᆼ ᄂᆡ디에 잇고</sent>
+<sent type="main" lang="chi" page="39a" n="5">不至邊城,</sent>
+<sent type="main" lang="kor" page="39a" n="5">변방ᄭᅡ지 아니ᄒᆞ야시니</sent>
+<sent type="main" lang="chi" page="39a" n="6">彼終不能長驅直入.</sent>
+<sent type="main" lang="kor" page="39a" n="6">져의 ᄆᆞᆺᄎᆞᆷᄂᆡ 바로 모라 드러오지 못ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="39a" n="7">余聞之西人, 云 “鐵路之設 其利有五”</sent>
+<sent type="main" lang="kor" page="39a" n="7">ᄂᆡ 셔인의게 드ᄅᆞ니 니ᄅᆞᄃᆡ 텰로ᄅᆞᆯ 셜시ᄒᆞ미 다셧 가지 리ᄒᆞ미 이시니</sent>
+<sent type="main" lang="chi" page="39a" n="8">所得運費, 除支銷各項及酌提造費外, 餘皆可助國用</sent>
+<sent type="main" lang="kor" page="39a" n="8">어든 바 슈운ᄒᆞᄂᆞᆫ 부비에 각 항 용도ᄅᆞᆯ 졔ᄒᆞᆫ 외에 나마ᄂᆞᆫ 가히 국용을 도을 거시니</sent>
+<sent type="main" lang="chi" page="39a" n="9">其利一.</sent>
+<sent type="main" lang="kor" page="39a" n="9">리ᄒᆞᆫ 일이 하나히오</sent>
+<sent type="main" lang="chi" page="39a-39b" n="10">偶有邊警, 徵兵籌餉,</sent>
+<sent type="main" lang="kor" page="39a-39b" n="10">우연이 변방에 급ᄒᆞᆫ 일이 잇셔 군ᄉᆞᄅᆞᆯ 됴발ᄒᆞ고 군량^을 슈운ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="39b" n="1">朝發夕至,</sent>
+<sent type="main" lang="kor" page="39b" n="1">아ᄎᆞᆷ에 발ᄒᆞ야 져녁에 니ᄅᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="39b" n="2">平時各省, 惟練精兵</sent>
+<sent type="main" lang="kor" page="39b" n="2">평시의ᄂᆞᆫ 각 ᄉᆡᆼ의셔 오ᄌᆞᆨ 군ᄉᆞᄅᆞᆯ 조련ᄒᆞᆯ ᄲᅮᆫ이오</sent>
+<sent type="main" lang="chi" page="39b" n="3">備調額, 可酌裁,</sent>
+<sent type="main" lang="kor" page="39b" n="3">됴발ᄒᆞᄂᆞᆫ ᄋᆡᆨ수ᄅᆞᆯ 가히 침쟉ᄒᆞ야 감ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="39b" n="4">其利二.</sent>
+<sent type="main" lang="kor" page="39b" n="4">그 리ᄒᆞᆫ 일이 둘히오</sent>
+<sent type="main" lang="chi" page="39b" n="5">旣有鐵路, 各處礦産, 均可開探,</sent>
+<sent type="main" lang="kor" page="39b" n="5">임의 텰뢰 이시ᄆᆡ 각쳐 금 은 동 텰 나ᄂᆞᆫ ᄃᆡ 다 ᄀᆡ뎜ᄒᆞ고 ᄏᆡ여 ᄂᆡᄆᆡ</sent>
+<sent type="main" lang="chi" page="39b" n="6">運費省而銷路速,</sent>
+<sent type="main" lang="kor" page="39b" n="6">슈운ᄒᆞᄂᆞᆫ 부비ᄂᆞᆫ 덜니고 팔나 가ᄂᆞᆫ 길은 속ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="39b" n="7">其利三.</sent>
+<sent type="main" lang="kor" page="39b" n="7">그 리ᄒᆞᆫ 일이 셰히오</sent>
+<sent type="main" lang="chi" page="39b" n="8">商賈便於販運,</sent>
+<sent type="main" lang="kor" page="39b" n="8">샹고들이 흥판ᄒᆞ야 슈운ᄒᆞ기 경편ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="39b" n="9">貿易日旺, 稅餉日增,</sent>
+<sent type="main" lang="kor" page="39b" n="9">무역은 ᄂᆞᆯ노 왕셩ᄒᆞ고 셰젼은 ᄂᆞᆯ노 더ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="39b" n="10">其利四.</sent>
+<sent type="main" lang="kor" page="39b" n="10">그 리ᄒᆞᆫ 일이 네히오</sent>
+<sent type="main" lang="chi" page="39b" n="11">文遞快捷, 凡有鐵路之處, 驛岾均可裁省,</sent>
+<sent type="main" lang="kor" page="39b" n="11">문셔ᄅᆞᆯ 젼ᄒᆞ기 ᄲᅡᆯ나 텰로 잇ᄂᆞᆫ 곳의ᄂᆞᆫ 역참을 가히 혜아려 덜 거시니</sent>
+<sent type="main" lang="chi" page="39b" n="12">其利五.</sent>
+<sent type="main" lang="kor" page="39b" n="12">그 리ᄒᆞᆫ 일이 다셧시로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="39b-40a" n="13">而當事之所以遲疑顧慮, 不敢舉行者,</sent>
+<sent type="main" lang="kor" page="39b-40a" n="13">당ᄉᆞ지인이 ^ 의혹ᄒᆞ고 념려ᄒᆞ야 감히 거ᄒᆡᆼ치 못ᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="40a" n="1">一則以經費難籌,</sent>
+<sent type="main" lang="kor" page="40a" n="1">쳣쟤ᄂᆞᆫ 경비ᄅᆞᆯ 구획ᄒᆞ기 어렵고</sent>
+<sent type="main" lang="chi" page="40a" n="2">再則恐奪小民之利.</sent>
+<sent type="main" lang="kor" page="40a" n="2">둘쟤ᄂᆞᆫ 쇼민의 리ᄭᅳᆺᄎᆞᆯ 아ᄉᆞᆯ가 두려ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="40a" n="3">如操舟駕車遞文傳信等事, 路旣便捷,</sent>
+<sent type="main" lang="kor" page="40a" n="3">ᄇᆡᄅᆞᆯ 타고 슐위ᄅᆞᆯ 몰며 문셔ᄅᆞᆯ 젼ᄒᆞ고 쇼식을 통ᄒᆞᄂᆞᆫ 등ᄉᆞ에 길이 임의 편쳡ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="40a" n="4">則若輩失業, 必多.</sent>
+<sent type="main" lang="kor" page="40a" n="4">져의 무리 업을 일우미 반ᄃᆞ시 만흐리라 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="40a" n="5">殊不知. 鐵路雖成, 舟仍不減,</sent>
+<sent type="main" lang="kor" page="40a" n="5">이ᄂᆞᆫ 그러치 아니ᄒᆞᆫ 거시 텰로ᄅᆞᆯ 비록 셜시ᄒᆞ엿시나 ᄇᆡᄂᆞᆫ 감ᄒᆞᆫ ᄇᆡ 업고</sent>
+<sent type="main" lang="chi" page="40a" n="6">且鐵路傍有馬路,</sent>
+<sent type="main" lang="kor" page="40a" n="6">ᄯᅩ 텰로 겻ᄒᆡ 말게 메ᄂᆞᆫ 슐위 단니ᄂᆞᆫ 길이 이시니</sent>
+<sent type="main" lang="chi" page="40a" n="7">推車者, 亦可營生,</sent>
+<sent type="main" lang="kor" page="40a" n="7">슐위 모ᄂᆞᆫ 쟤 ᄯᅩᄒᆞᆫ 가히 ᄉᆡᆼ애ᄒᆞᆯ 만ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="40a" n="8">至於傳信遞文, 不過時日較速,</sent>
+<sent type="main" lang="kor" page="40a" n="8">문셔ᄅᆞᆯ 젼ᄒᆞ고 쇼식을 통ᄒᆞᄂᆞᆫ 일이 젼에 비교ᄒᆞ면 속ᄒᆞ기ᄂᆞᆫ ᄒᆞ거니와</sent>
+<sent type="main" lang="chi" page="40a" n="9">仍須留用此輩,</sent>
+<sent type="main" lang="kor" page="40a" n="9">인ᄒᆞ야 이 무리ᄅᆞᆯ ᄡᅳ게 되면</sent>
+<sent type="main" lang="chi" page="40a-40b" n="10">何損於民.</sent>
+<sent type="main" lang="kor" page="40a-40b" n="10">무^어시 ᄇᆡᆨ셩의게 해로오리오</sent>
+<sent type="main" lang="chi" page="40b" n="1">無如官之與民, 聲氣不通,</sent>
+<sent type="main" lang="kor" page="40b" n="1">관원 지어 ᄇᆡᆨ셩에 셩긔 통치 못ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="40b" n="2">每畏官之無信.</sent>
+<sent type="main" lang="kor" page="40b" n="2">관원의 무신ᄒᆞ믈 ᄆᆡ양 두려ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="40b" n="3">如民間, 有認造火車路者,</sent>
+<sent type="main" lang="kor" page="40b" n="3">만일 민간의셔 텰로ᄅᆞᆯ 맛타 짓ᄂᆞᆫ 쟤 이시면</sent>
+<sent type="main" lang="chi" page="40b" n="4">特免其損輪,</sent>
+<sent type="main" lang="kor" page="40b" n="4">그 슈운ᄒᆞᄂᆞᆫ 셰젼을 특별이 면ᄒᆞ야 쥬고</sent>
+<sent type="main" lang="chi" page="40b" n="5">幷保其五釐出息.</sent>
+<sent type="main" lang="kor" page="40b" n="5">오 리식 ᄂᆡᄂᆞᆫ 리젼을 아오로 쥬고</sent>
+<sent type="main" lang="chi" page="40b" n="6">如官利不足,</sent>
+<sent type="main" lang="kor" page="40b" n="6">만일 관가에 리가 부죡ᄒᆞ거든</sent>
+<sent type="main" lang="chi" page="40b" n="7">每年, 由該省地丁項下, 扣足,</sent>
+<sent type="main" lang="kor" page="40b" n="7">ᄆᆡ년에 본부 뎐결의셔 바다 츙수ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="40b" n="8">以昭大信而廣招徠.</sent>
+<sent type="main" lang="kor" page="40b" n="8">신을 ᄇᆞᆰ히고 쟝ᄉᆞ길을 너르게 ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="40b" n="9">憶中國, 初議造輪船時,</sent>
+<sent type="main" lang="kor" page="40b" n="9">쳐음의 즁국의셔 화륜션 짓기ᄅᆞᆯ 의론ᄒᆞᆯ ᄯᆡ에</sent>
+<sent type="main" lang="chi" page="40b" n="10">聚訟, 紛如, 幾於中止,</sent>
+<sent type="main" lang="kor" page="40b" n="10">모도혀 시비ᄒᆞ기ᄅᆞᆯ 분분히 ᄒᆞ야 거의 즁지ᄒᆞ게 될너니</sent>
+<sent type="main" lang="chi" page="40b" n="11">幸當軸者, 毅然舉辦,</sent>
+<sent type="main" lang="kor" page="40b" n="11">다ᄒᆡᆼ이 당ᄉᆞ지인이 굿셰게 드러 ᄒᆡᆼᄒᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="40b-41a" n="12">故今商船礮舶, 月盛日新.</sent>
+<sent type="main" lang="kor" page="40b-41a" n="12">이졔 샹고션과 대포 실은 ᄇᆡ 달노 셩ᄒᆞ고 ^ ᄂᆞᆯ노 ᄉᆡ로와</sent>
+<sent type="main" lang="chi" page="41a" n="1">凡漕糧之轉運, 兵糈之徵解,</sent>
+<sent type="main" lang="kor" page="41a" n="1">므릇 셰곡 슈운ᄒᆞᄂᆞᆫ 것과 군량 프러 드리ᄂᆞᆫ 것과</sent>
+<sent type="main" lang="chi" page="41a" n="2">商旅之往來, 貨物之流通, 無不輪船是賴.</sent>
+<sent type="main" lang="kor" page="41a" n="2">샹고의 왕ᄅᆡ와 물화의 류통ᄒᆞᄂᆞᆫ 거시 화륜션을 힘닙지 아니ᄒᆞ미 업고</sent>
+<sent type="main" lang="chi" page="41a" n="3">且海盜, 因以斂戢, 洋面藉以晏安.</sent>
+<sent type="main" lang="kor" page="41a" n="3">ᄯᅩ ᄒᆡ랑적이 업셔지ᄆᆡ ᄒᆡ즁이 힘닙어 안연ᄒᆞ엿거든</sent>
+<sent type="main" lang="chi" page="41a" n="4">矧鐵路之利, 倍於輪船者乎.</sent>
+<sent type="main" lang="kor" page="41a" n="4">ᄒᆞ믈며 텰로의 리로오미 화륜션의셔 갑졀이나 되ᄂᆞᆫ 쟤라</sent>
+<sent type="main" lang="chi" page="41a" n="5">倘亦力持其議, 任謗任勞,</sent>
+<sent type="main" lang="kor" page="41a" n="5">만일 이 의론을 힘ᄡᅥ 쥬쟝ᄒᆞ야 훼방을 도라보지 말며 슈고ᄅᆞᆯ 교계치 말면</sent>
+<sent type="main" lang="chi" page="41a" n="6">事不難集.</sent>
+<sent type="main" lang="kor" page="41a" n="6">일이 되기 어렵지 아니ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="41a" n="7">然需費甚鉅,</sent>
+<sent type="main" lang="kor" page="41a" n="7">그러나 소비 심히 만흐니</sent>
+<sent type="main" lang="chi" page="41a" n="8">須仿西法自造, 乃爲善計.</sent>
+<sent type="main" lang="kor" page="41a" n="8">모로미 셔국 법을 의방ᄒᆞ야 스ᄉᆞ로 짓ᄂᆞᆫ 거시 이 죠흔 계ᄀᆈ 될 거시오</sent>
+<sent type="main" lang="chi" page="41a" n="9">若購之西國, 則失利, 於先,</sent>
+<sent type="main" lang="kor" page="41a" n="9">만일 셔국 거ᄉᆞᆯ ᄉᆞ려 ᄒᆞ면 리ᄅᆞᆯ 몬져 일흘 거시니</sent>
+<sent type="main" lang="chi" page="41a-41b" n="10">惟自造而自用之然後,</sent>
+<sent type="main" lang="kor" page="41a-41b" n="10">오직 스ᄉᆞ로 지어 스^ᄉᆞ로 ᄡᅳᆫ 연후에야</sent>
+<sent type="main" lang="chi" page="41b" n="1">行止之權, 自我而操,</sent>
+<sent type="main" lang="kor" page="41b" n="1">ᄒᆡᆼᄒᆞ고 ᄭᅳᆺ치ᄂᆞᆫ 권셰를 ᄂᆡ 임의로 조죵ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="41b" n="2">工費之需, 不流於外.</sent>
+<sent type="main" lang="kor" page="41b" n="2">공비로 ᄡᅳᄂᆞᆫ 거시 외국에 나가지 아니ᄒᆞ게 ᄒᆞᆯ지니</sent>
+<sent type="main" lang="chi" page="41b" n="3">省之又省, 精益求精,</sent>
+<sent type="main" lang="kor" page="41b" n="3">감지우감ᄒᆞ야 졍ᄒᆞᆯᄉᆞ록 더옥 졍ᄒᆞ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="41b" n="4">庶中國富强之轉機, 在此一舉矣.</sent>
+<sent type="main" lang="kor" page="41b" n="4">거의 즁국 부강ᄒᆞᆯ 긔틀이 이 ᄒᆞᆫ 번 드ᄂᆞᆫ ᄃᆡ 이시리라</sent>
+<sent type="title2" lang="chi" page="42a" n="1">論電報</sent>
+<sent type="title2" lang="kor" page="42a" n="1">론뎐보</sent>
+<sent type="anno" lang="chi" page="42a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="2">뎐긔션으로 보ᄒᆞᄂᆞᆫ 거ᄉᆞᆯ 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="42a" n="3">夫世之至神至速,</sent>
+<sent type="main" lang="kor" page="42a" n="3">대뎌 셰샹에 지극히 신통ᄒᆞ고 지극히 속ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="42a" n="4">倏去倏來者, 盖莫如電,</sent>
+<sent type="main" lang="kor" page="42a" n="4">훌연이 갓다가 훌연이 오ᄂᆞᆫ 쟤 대개 번ᄀᆡ ᄀᆞᆺᄐᆞᆫ 거시 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="42a" n="5">藉電以傳信, 則其捷也, 可知.</sent>
+<sent type="main" lang="kor" page="42a" n="5">번ᄀᆡ를 빙쟈ᄒᆞ야 신식을 젼ᄒᆞᆫᄌᆞᆨ 그 ᄲᆞ르믈 가히 알지라</sent>
+<sent type="main" lang="chi" page="42a" n="6">昔有美國之士, 好學深思, 精於格致,</sent>
+<sent type="main" lang="kor" page="42a" n="6">녯젹에 미국 션ᄇᆡ 학업을 죠하ᄒᆞ며 ᄉᆡᆼ각을 깁히 ᄒᆞ야 격치지학을 잘ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="chi" page="42a" n="7">得引電之法, 以利世用,</sent>
+<sent type="main" lang="kor" page="42a" n="7">번ᄀᆡ 잇ᄭᅳᄂᆞᆫ 법을 어더 셰샹에 ᄡᅳ기를 리롭게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="42a" n="8">此電線之所由昉焉.</sent>
+<sent type="main" lang="kor" page="42a" n="8">이ᄂᆞᆫ 뎐긔션에 말ᄆᆡ암아 시작ᄒᆞᆫ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="42a" n="9">今泰西各邦, 皆設電報,</sent>
+<sent type="main" lang="kor" page="42a" n="9">이졔 태셔 각국에셔 다 뎐긔션을 베프러</sent>
+<sent type="main" lang="chi" page="42a" n="10">無論隔山阻海, 頃刻通音,</sent>
+<sent type="main" lang="kor" page="42a" n="10">산이 가렷던지 바다히 막혓던지 물론ᄒᆞ고 경ᄀᆡᆨ간에 쇼식을 통ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="42a-42b" n="11">誠啓古今未有之奇,</sent>
+<sent type="main" lang="kor" page="42a-42b" n="11">진실노 고금에 업ᄂᆞᆫ 긔이^ᄒᆞ믈 열고</sent>
+<sent type="main" lang="chi" page="42b" n="1">洩造化莫名之秘.</sent>
+<sent type="main" lang="kor" page="42b" n="1">죠화로 측량치 못ᄒᆞᆯ 비밀ᄒᆞ믈 루셜ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="42b" n="2">誠以兩國搆釁, 賴電報以傳遞軍機,</sent>
+<sent type="main" lang="kor" page="42b" n="2">량국이 흔단을 얽어 샹지ᄒᆞᆯ 졔 뎐긔션을 힘닙어 군졍을 젼ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="42b" n="3">則有者多勝, 而無者多敗.</sent>
+<sent type="main" lang="kor" page="42b" n="3">뎐긔션 잇ᄂᆞᆫ 쟈ᄂᆞᆫ 만히 니긔고 업ᄂᆞᆫ 쟈ᄂᆞᆫ 만히 패ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="42b" n="4">商賈貿易, 藉電報以通達市價,</sent>
+<sent type="main" lang="kor" page="42b" n="4">샹고들이 물화를 무역ᄒᆞᆯ 졔 뎐긔션을 빙쟈ᄒᆞ야 시셰를 셔로 통ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="42b" n="5">則無者常絀, 而有者常贏,</sent>
+<sent type="main" lang="kor" page="42b" n="5">뎐긔션 업ᄂᆞᆫ 쟈ᄂᆞᆫ ᄒᆞᆼ샹 굽죄고 잇ᄂᆞᆫ 쟈ᄂᆞᆫ ᄒᆞᆼ샹 넉넉ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="42b" n="6">强富之功, 基於此矣.</sent>
+<sent type="main" lang="kor" page="42b" n="6">부강ᄒᆞ게 ᄒᆞᄂᆞᆫ 공이 여긔 말ᄆᆡ암은지라</sent>
+<sent type="main" lang="chi" page="42b" n="7">卽以英國而論, 其電報設於王家,</sent>
+<sent type="main" lang="kor" page="42b" n="7">영국으로 의론ᄒᆞᆯ지라도 뎐긔션을 나라의셔 셜시ᄒᆞ엿더니</sent>
+<sent type="main" lang="chi" page="42b" n="8">商民欲通電報者, 收回工費,</sent>
+<sent type="main" lang="kor" page="42b" n="8">샹고ᄒᆞᄂᆞᆫ ᄇᆡᆨ셩이 뎐긔션을 ᄡᅳ고져 ᄒᆞᄂᆞᆫ 쟤 공비를 거두어 도로 밧치고</sent>
+<sent type="main" lang="chi" page="42b-43a" n="9">每年所入, 除電線局開銷,</sent>
+<sent type="main" lang="kor" page="42b-43a" n="9">ᄆᆡ년 소입에 뎐션국[뎐긔션을 주쟝ᄒᆞᄂᆞᆫ 데라]에 드ᄂᆞᆫ ^ 잡비ᄅᆞᆯ 졔ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="43a" n="1">餘資藉充國用.</sent>
+<sent type="main" lang="kor" page="43a" n="1">그 나마ᄂᆞᆫ 국용에 ᄎᆡ오며</sent>
+<sent type="main" lang="chi" page="43a" n="2">至本國有軍機密事,</sent>
+<sent type="main" lang="kor" page="43a" n="2">본국에 군졍 비밀ᄒᆞᆫ 일이 이시면</sent>
+<sent type="main" lang="chi" page="43a" n="3">分文不費,</sent>
+<sent type="main" lang="kor" page="43a" n="3">분젼을 허비치 아니ᄒᆞ고 능히 쇼식을 통ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="43a" n="4">其利豈不溥哉.</sent>
+<sent type="main" lang="kor" page="43a" n="4">그 리로오미 엇지 널지 아니ᄒᆞ랴</sent>
+<sent type="main" lang="chi" page="43a" n="5">然此猶言承平時耳,</sent>
+<sent type="main" lang="kor" page="43a" n="5">그러나 이ᄂᆞᆫ 오히려 태평시졀을 말ᄒᆞ미여니와</sent>
+<sent type="main" lang="chi" page="43a" n="6">若兩國交戰, 出奇制勝,</sent>
+<sent type="main" lang="kor" page="43a" n="6">만일 량국이 셔로 ᄡᅡ화 긔이ᄒᆞᆫ 계교ᄅᆞᆯ ᄂᆡ여 니긔기ᄅᆞᆯ 결단ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="chi" page="43a" n="7">則電報更爲要圖.</sent>
+<sent type="main" lang="kor" page="43a" n="7">뎐긔션이 더옥 요긴ᄒᆞᆫ 거시 되니</sent>
+<sent type="main" lang="chi" page="43a" n="8">昔年普法搆兵,</sent>
+<sent type="main" lang="kor" page="43a" n="8">녯젹에 보국과 법국이 셔로 ᄡᅡ홀 졔</sent>
+<sent type="main" lang="chi" page="43a" n="9">普人於行軍之處, 俱設電線,</sent>
+<sent type="main" lang="kor" page="43a" n="9">보국 사ᄅᆞᆷ이 ᄒᆡᆼ군ᄒᆞᄂᆞᆫ 곳에 뎐긔션을 다 베플고</sent>
+<sent type="main" lang="chi" page="43a" n="10">而法人所設之電線, 悉爲普人所毁,</sent>
+<sent type="main" lang="kor" page="43a" n="10">법국 사ᄅᆞᆷ의 베픈 바 뎐긔션은 다 보국 사ᄅᆞᆷ의 문허바린 ᄇᆡ 된지라</sent>
+<sent type="main" lang="chi" page="43a" n="11">是以法敗而普勝也.</sent>
+<sent type="main" lang="kor" page="43a" n="11">이러므로 법국이 패ᄒᆞ고 보국이 니겻ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="43a-43b" n="12">夫中國建都北方, 至極南之地, 相距萬里,</sent>
+<sent type="main" lang="kor" page="43a-43b" n="12">대뎌 즁국은 븍방^에 도읍ᄒᆞ엿시ᄆᆡ 극남으로 가려 ᄒᆞ면 샹게 만 리오</sent>
+<sent type="main" lang="chi" page="43b" n="1">其他多距數千里.</sent>
+<sent type="main" lang="kor" page="43b" n="1">다른 ᄃᆡ도 슈쳔 리 샹게 되ᄂᆞᆫ ᄃᆡ 만흔지라</sent>
+<sent type="main" lang="chi" page="43b" n="2">燃烽置戍,</sent>
+<sent type="main" lang="kor" page="43b" n="2">봉화ᄅᆞᆯ 혀며 슈ᄌᆞ리ᄒᆞᄂᆞᆫ 군ᄉᆞᄅᆞᆯ 두나</sent>
+<sent type="main" lang="chi" page="43b" n="3">僅能告警, 而弗克通言,</sent>
+<sent type="main" lang="kor" page="43b" n="3">급ᄒᆞᆫ 일이나 겨유 보ᄒᆞᆯ ᄲᅮᆫ이오 말ᄉᆞᆷ을 능히 통ᄒᆞᆯ 길이 업ᄉᆞ며</sent>
+<sent type="main" lang="chi" page="43b" n="4">設卒傳號, 輾轉間關, 而多舛悞.</sent>
+<sent type="main" lang="kor" page="43b" n="4">군ᄉᆞᄅᆞᆯ 베프려 호령을 젼ᄒᆞ나 여러 ᄂᆞᆯ 지쳬ᄒᆞ야 그릇되ᄂᆞᆫ 일이 만흐니</sent>
+<sent type="main" lang="chi" page="43b" n="5">卽令沿海要害, 有礮臺而無戰舶,</sent>
+<sent type="main" lang="kor" page="43b" n="5">ᄒᆡ변 요긴ᄒᆞᆫ 곳의 포ᄃᆡ[돈ᄃᆡᄅᆞᆯ 모흐고 대포ᄅᆞᆯ 버려둔 곳이라]ᄅᆞᆯ 두고 ᄯᅩ 젼션이 업ᄉᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="43b" n="6">則礮臺亦孤立無徒,</sent>
+<sent type="main" lang="kor" page="43b" n="6">포ᄃᆡ도 ᄯᅩᄒᆞᆫ 외로와 구원이 업ᄉᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="43b" n="7">有戰船而無電線, 則戰船亦應援莫及.</sent>
+<sent type="main" lang="kor" page="43b" n="7">젼션만 잇고 뎐긔션이 업ᄉᆞᆫᄌᆞᆨ 젼션도 ᄯᅩᄒᆞᆫ 구원ᄒᆞ기ᄅᆞᆯ 밋쳐 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="43b-44a" n="8">若敵人偵知我戰船之所在, 合兵圍擊,</sent>
+<sent type="main" lang="kor" page="43b-44a" n="8">만일 뎍병이 나의 젼션 둔 곳을 알고 군ᄉᆞᄅᆞᆯ 합ᄒᆞ야 에워ᄡᅡ고 칠 ^ 졔</sent>
+<sent type="main" lang="chi" page="44a" n="1">無電線以通傳, 各省何能倍道來援.</sent>
+<sent type="main" lang="kor" page="44a" n="1">뎐긔션으로 통긔ᄒᆞ미 업ᄉᆞ면 각쳐의셔 엇지 능히 ᄲᅡᆯ니 와 구원ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="44a" n="2">一船有失, 費固不貲,</sent>
+<sent type="main" lang="kor" page="44a" n="2">젼션 하나히 실패ᄒᆞ면 소비도 불쇼ᄒᆞ거니와</sent>
+<sent type="main" lang="chi" page="44a" n="3">而各處又爲之奪氣.</sent>
+<sent type="main" lang="kor" page="44a" n="3">일노 인ᄒᆞ야 각쳐의셔 다 탈긔ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="44a" n="4">査津沽爲水道入京門戶,</sent>
+<sent type="main" lang="kor" page="44a" n="4">슈로로 황셩ᄭᅡ지 드러오ᄂᆞᆫ 졍도를 혜아리건ᄃᆡ</sent>
+<sent type="main" lang="chi" page="44a" n="5">宜先由海底, 建一電線,</sent>
+<sent type="main" lang="kor" page="44a" n="5">ᄆᆞᆺ당히 몬져 바다 밋ᄒᆡ 뎐긔션 하나흘 셰워</sent>
+<sent type="main" lang="chi" page="44a" n="6">通兩江吳淞等處.</sent>
+<sent type="main" lang="kor" page="44a" n="6">량강과 오송 등쳐를 통ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="44a" n="7">由是而閩浙粵東, 凡屬海疆,</sent>
+<sent type="main" lang="kor" page="44a" n="7">일노 말ᄆᆡ암아 민즁과 졀강과 월동에 바다를 통ᄒᆞᆫ 고ᄋᆞᆯ이어든</sent>
+<sent type="main" lang="chi" page="44a" n="8">悉勅下大吏, 揆度地勢, 次第擧行,</sent>
+<sent type="main" lang="kor" page="44a" n="8">방ᄇᆡᆨ의게 신칙ᄒᆞ야 디형을 혜아려 ᄎᆞ례로 거ᄒᆡᆼᄒᆞ게 ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="44a" n="9">則宸居雖遙, 儼如咫尺矣.</sent>
+<sent type="main" lang="kor" page="44a" n="9">경셩이 비록 머나 엄연이 지쳑 ᄀᆞᆺᄐᆞ리라</sent>
+<sent type="main" lang="chi" page="44a" n="10">或謂, “設立電報, 誠有益處,</sent>
+<sent type="main" lang="kor" page="44a" n="10">혹이 니ᄅᆞᄃᆡ 뎐긔션을 셜시ᄒᆞ면 진실노 유익ᄒᆞ거니와</sent>
+<sent type="main" lang="chi" page="44a-44b" n="11">然經費過鉅, 恐不易籌, 奈何.”</sent>
+<sent type="main" lang="kor" page="44a-44b" n="11">경비 과^히 만흐니 판츌ᄒᆞ기 쉽지 아닌지라 엇지ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="44b" n="1">余曰, “安設電報之處, 在海底則難, 其價頗重,</sent>
+<sent type="main" lang="kor" page="44b" n="1">나ᄂᆞᆫ ᄀᆞᆯ오ᄃᆡ 뎐긔션을 셜시ᄒᆞᄂᆞᆫ 곳이 바다 밋ᄒᆡ 잇ᄉᆞᆫᄌᆞᆨ 어렵고 그 갑시 ᄌᆞ못 만히 들녀니와</sent>
+<sent type="main" lang="chi" page="44b" n="2">在地面較易, 其價亦輕.</sent>
+<sent type="main" lang="kor" page="44b" n="2">평디에 이시면 젹이 쉽고 갑시 ᄯᅩᄒᆞᆫ 경ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="44b" n="3">雖明知創始維艱, 而大局攸關, 實受其利.</sent>
+<sent type="main" lang="kor" page="44b" n="3">창ᄀᆡᄒᆞ기가 어려올 쥴 명명이 아나 대ᄉᆞ관두에 실노 대리ᄅᆞᆯ 바들 거시오</sent>
+<sent type="main" lang="chi" page="44b" n="4">前者傳報電信, 猶用外國字樣,</sent>
+<sent type="main" lang="kor" page="44b" n="4">젼에 뎐긔션으로 쇼식을 젼ᄒᆞᆯ 졔 오히려 외국 글ᄌᆞ로 ᄡᅥ시니</sent>
+<sent type="main" lang="chi" page="44b" n="5">必待繙譯而知,</sent>
+<sent type="main" lang="kor" page="44b" n="5">반ᄃᆞ시 번역ᄒᆞᆫ 후의야 알너니</sent>
+<sent type="main" lang="chi" page="44b" n="6">今輯有電報新書, 改用華文,</sent>
+<sent type="main" lang="kor" page="44b" n="6">이졔ᄂᆞᆫ 뎐긔션에 ᄉᆡ로 ᄂᆞᆫ 글이 잇셔 즁원 글노 곳쳐 ᄡᅥ시니</sent>
+<sent type="main" lang="chi" page="44b" n="7">較前更便.</sent>
+<sent type="main" lang="kor" page="44b" n="7">젼의 비ᄒᆞ면 더옥 편ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="44b" n="8">如傳秘密要事,</sent>
+<sent type="main" lang="kor" page="44b" n="8">만일 비밀ᄒᆞᆫ 일을 젼ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="chi" page="44b-45a" n="9">卽經理電線者, 尙且不知,</sent>
+<sent type="main" lang="kor" page="44b-45a" n="9">뎐긔션 쥬쟝ᄒᆞ야 다ᄉᆞ리ᄂᆞᆫ 쟈도 오히려 아^지 못ᄒᆞ거든</sent>
+<sent type="main" lang="chi" page="45a" n="1">何况他人.</sent>
+<sent type="main" lang="kor" page="45a" n="1">ᄒᆞ믈며 타인이 엇지 알니오</sent>
+<sent type="main" lang="chi" page="45a" n="2">旣無漏泄之虞, 又無延擱之獘.</sent>
+<sent type="main" lang="kor" page="45a" n="2">임의 루셜ᄒᆞᆯ 념려도 업고 ᄯᅩ 지쳬ᄒᆞᆯ 폐도 업ᄉᆞ리라</sent>
+<sent type="main" lang="chi" page="45a" n="3">今西人, 更創有爹釐風一種, 傳音,</sent>
+<sent type="main" lang="kor" page="45a" n="3">이졔 셔인이 ᄯᅩ 다리풍[뎐긔션 ᄀᆞᆺ튼 거시라]을 창ᄀᆡᄒᆞ야 쇼식을 젼ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="45a" n="4">更異尋常.</sent>
+<sent type="main" lang="kor" page="45a" n="4">더옥 심샹치 아니ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="45a" n="5">若中國毅然擧行, 推廣其用,</sent>
+<sent type="main" lang="kor" page="45a" n="5">만일 즁국이 의론을 굿셰게 ᄒᆞ야 거ᄒᆡᆼᄒᆞ게 ᄒᆞ야 그 ᄡᅳ기ᄅᆞᆯ 널게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="45a" n="6">更與商民傳信, 酌費照收,</sent>
+<sent type="main" lang="kor" page="45a" n="6">ᄯᅩ 샹고의게 븟쳐 쇼식을 젼ᄒᆞ게 ᄒᆞ고 소입을 침쟉ᄒᆞ야 슈셰ᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="45a" n="7">則一二年間, 必能塡還創設款項.</sent>
+<sent type="main" lang="kor" page="45a" n="7">일이 년간에 반ᄃᆞ시 쳐음에 셜시ᄒᆞ던 소입을 츙수ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="45a" n="8">嗣後所入, 源源不絶, 利賴無窮,</sent>
+<sent type="main" lang="kor" page="45a" n="8">그 후에 슈셰 련면부졀ᄒᆞ야 리로오미 무궁ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="45a" n="9">誠益國便民之要務也.</sent>
+<sent type="main" lang="kor" page="45a" n="9">진실노 나라의 유익ᄒᆞ고 ᄇᆡᆨ셩의게 편ᄒᆞᆯ 요긴ᄒᆞᆫ ᄉᆞ뮈라</sent>
+<sent type="main" lang="chi" page="45a-45b" n="10">夫輪船槍礮等物, 中國用之有年,</sent>
+<sent type="main" lang="kor" page="45a-45b" n="10">대뎌 화륜션과 양창 대^포 등물을 즁국이 ᄒᆡ포 ᄡᅳᄆᆡ</sent>
+<sent type="main" lang="chi" page="45b" n="1">損益猶爲參半, 至電報, 則有益無損矣.</sent>
+<sent type="main" lang="kor" page="45b" n="1">리해 샹반ᄒᆞᄃᆡ 지어 뎐긔션은 유리무해ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="45b" n="2">何不擧而試之哉.”</sent>
+<sent type="main" lang="kor" page="45b" n="2">엇지 드러 시험ᄒᆞ지 아니ᄒᆞ랴</sent>
+<sent type="title2" lang="chi" page="46a" n="1">論開墾</sent>
+<sent type="title2" lang="kor" page="46a" n="1">론ᄀᆡᄀᆞᆫ</sent>
+<sent type="anno" lang="chi" page="46a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="46a" n="2">밧ᄎᆞᆯ ᄀᆡ쳑ᄒᆞ야 니ᄅᆞ혀믈 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="46a" n="3">夫國之賦稅, 出於人民,</sent>
+<sent type="main" lang="kor" page="46a" n="3">대뎌 나라의 부셰ᄂᆞᆫ ᄇᆡᆨ셩의게셔 나고</sent>
+<sent type="main" lang="chi" page="46a" n="4">民之供億, 出於土地,</sent>
+<sent type="main" lang="kor" page="46a" n="4">ᄇᆡᆨ셩의 먹ᄂᆞᆫ 거ᄉᆞᆫ 토디의셔 나ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="46a" n="5">此古今不易之理.</sent>
+<sent type="main" lang="kor" page="46a" n="5">이ᄂᆞᆫ 고금에 밧고지 못ᄒᆞᆯ 리치오</sent>
+<sent type="main" lang="chi" page="46a" n="6">卽聖人所謂, “有德此有人,</sent>
+<sent type="main" lang="kor" page="46a" n="6">셩인이 니ᄅᆞ신 바 덕이 이시면 이의 사ᄅᆞᆷ이 잇고</sent>
+<sent type="main" lang="chi" page="46a" n="7">有人此有土,</sent>
+<sent type="main" lang="kor" page="46a" n="7">사ᄅᆞᆷ이 이시면 이의 토디 잇고</sent>
+<sent type="main" lang="chi" page="46a" n="8">有土此有財,</sent>
+<sent type="main" lang="kor" page="46a" n="8">토디 이시면 이의 ᄌᆡ물이 잇고</sent>
+<sent type="main" lang="chi" page="46a" n="9">有財此有用也.”</sent>
+<sent type="main" lang="kor" page="46a" n="9">ᄌᆡ물이 이시면 이의 ᄡᅳ이미 잇다 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="46a" n="10">今海內肅淸, 各處荒田, 連阡累陌, 草其宅之,</sent>
+<sent type="main" lang="kor" page="46a" n="10">이졔 ᄒᆡᄂᆡ 쳥평ᄒᆞᄃᆡ 각 쳐의 묵은 밧치 일망무졔ᄒᆞ야 플만 ᄌᆞ욱ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="46a" n="11">其故, 非盡由於無資, 實皆出於無人.</sent>
+<sent type="main" lang="kor" page="46a" n="11">그 연고ᄂᆞᆫ ᄌᆡ력이 업셔 그럴 ᄲᅮᆫ 아니라 실노 사ᄅᆞᆷ이 업ᄉᆞᆫ 연괴니</sent>
+<sent type="main" lang="chi" page="46a" n="12">盖兵燹之餘, 逃亡過半,</sent>
+<sent type="main" lang="kor" page="46a" n="12">대개 병화ᄅᆞᆯ 지ᄂᆡᆫ ᄭᅳᆺᄒᆡ 도망ᄒᆞᆫ 쟤 반히 남으니</sent>
+<sent type="main" lang="chi" page="46a-46b" n="13">若欲盡闢汙萊, 復其舊規,</sent>
+<sent type="main" lang="kor" page="46a-46b" n="13">만일 플밧ᄎᆞᆯ 다 여러 녯 ^ 법을 회복ᄒᆞ고져 ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="chi" page="46b" n="1">惟有廣招客民, 使之開荒耳.</sent>
+<sent type="main" lang="kor" page="46b" n="1">타쳐 ᄇᆡᆨ셩을 널니 블너 ᄀᆡ쳑ᄒᆞ게 ᄒᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="46b" n="2">今閩廣等省, 或無曠土, 尙有游民,</sent>
+<sent type="main" lang="kor" page="46b" n="2">이졔 민광 등 ᄉᆡᆼ에 혹 븬 ᄯᆞ히 업고 오히려 노ᄂᆞᆫ ᄇᆡᆨ셩이 잇셔</sent>
+<sent type="main" lang="chi" page="46b" n="3">無事可圖, 旣不憚傭工於海外,</sent>
+<sent type="main" lang="kor" page="46b" n="3">도모ᄒᆞᆯ 일이 업ᄉᆞ므로 ᄒᆡ외에 나가 고공ᄉᆞ리ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="46b" n="4">有田可墾, 更無庸謀食於他鄕.</sent>
+<sent type="main" lang="kor" page="46b" n="4">가히 ᄀᆡ쳑ᄒᆞᆯ 밧치 이시면 타향에 류리ᄒᆞᆯ 리 업ᄉᆞᆯ지라</sent>
+<sent type="main" lang="chi" page="46b" n="5">與其聽往外洋, 受人凌虐,</sent>
+<sent type="main" lang="kor" page="46b" n="5">외양에 나가 타국 사ᄅᆞᆷ의게 업슈히믈 밧ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="46b" n="6">何不査明荒地, 嚴定章程,</sent>
+<sent type="main" lang="kor" page="46b" n="6">엇지 묵은 밧ᄎᆞᆯ ᄇᆞᆰ히 사ᄒᆡᆨᄒᆞ야 법을 엄히 뎡ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="46b" n="7">多招客民, 使之開墾.</sent>
+<sent type="main" lang="kor" page="46b" n="7">타쳐 ᄇᆡᆨ셩을 만히 블너 ᄀᆡ간ᄒᆞ지 아니ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="46b" n="8">又撤散之兵用, 或無家可歸,</sent>
+<sent type="main" lang="kor" page="46b" n="8">ᄯᅩ 흣허보ᄂᆡᆫ 군ᄉᆞ들이 혹 가히 도라갈 길이 업고</sent>
+<sent type="main" lang="chi" page="46b" n="9">或不願回家者, 往往聚黨橫行, 爲地方害.</sent>
+<sent type="main" lang="kor" page="46b" n="9">혹 도라가기ᄅᆞᆯ 원치 아니ᄒᆞᄂᆞᆫ 쟤 왕왕이 모혀 작란ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="46b-47a" n="10">如能設法招撫, 按名給地,</sent>
+<sent type="main" lang="kor" page="46b-47a" n="10">능히 법을 베퍼 안무ᄒᆞ고 ᄆᆡ 명하에 ^ 밧ᄎᆞᆯ 쥬어</sent>
+<sent type="main" lang="chi" page="47a" n="1">仿古人寓兵於農之法,</sent>
+<sent type="main" lang="kor" page="47a" n="1">녯젹의 군ᄉᆞᄅᆞᆯ 농ᄉᆞ의 븟치ᄂᆞᆫ 법을 의방ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="47a" n="2">有事則徵調, 無事則力耕,</sent>
+<sent type="main" lang="kor" page="47a" n="2">일이 이시면 블너 ᄡᅳ고 일이 업ᄉᆞ면 힘ᄡᅥ 밧 갈게 ᄒᆞᆯ지니</sent>
+<sent type="main" lang="chi" page="47a" n="3">旣可安置無業之游民,</sent>
+<sent type="main" lang="kor" page="47a" n="3">임의 업 업시 노ᄂᆞᆫ ᄇᆡᆨ셩을 안돈ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="47a" n="4">又可約束逗留之散勇.</sent>
+<sent type="main" lang="kor" page="47a" n="4">ᄯᅩ 흣허진 군ᄉᆞᄅᆞᆯ 약속ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="47a" n="5">正供之賦額, 藉以取盈,</sent>
+<sent type="main" lang="kor" page="47a" n="5">나라의 셰납이 이ᄅᆞᆯ 인ᄒᆞ야 츙실ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="47a" n="6">上下之積儲, 賴以饒裕,</sent>
+<sent type="main" lang="kor" page="47a" n="6">샹하에 져츅ᄒᆞᆫ 거시 이ᄅᆞᆯ 힘닙어 요부ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="47a" n="7">是一擧而數善, 備焉矣.</sent>
+<sent type="main" lang="kor" page="47a" n="7">이ᄂᆞᆫ ᄒᆞᆫ 번 드러 두어 가지 죠흔 일이 ᄀᆞᆺ촐지라</sent>
+<sent type="main" lang="chi" page="47a" n="8">謹査福建臺灣一府, 孤懸海外,</sent>
+<sent type="main" lang="kor" page="47a" n="8">삼가 샹고ᄒᆞ건ᄃᆡ 복건ᄉᆡᆼ에 ᄃᆡ만은 ᄒᆡ외에 외로이 잇셔</sent>
+<sent type="main" lang="chi" page="47a" n="9">地廣人稀, 土盡膏腴, 敏於生物.</sent>
+<sent type="main" lang="kor" page="47a" n="9">ᄯᆞ흔 너르ᄃᆡ 사ᄅᆞᆷ은 희소ᄒᆞ고 극히 토옥ᄒᆞ야 곡식이 만히 나니</sent>
+<sent type="main" lang="chi" page="47a" n="10">除已經種植稅有常供之外,</sent>
+<sent type="main" lang="kor" page="47a" n="10">임의 밧 갈아 먹고 부셰 밧ᄂᆞᆫ 외에</sent>
+<sent type="main" lang="chi" page="47a-47b" n="11">其附近內山左右各處, 無主荒地, 可以開墾樹藝者, 不下千數百頃有奇.</sent>
+<sent type="main" lang="kor" page="47a-47b" n="11">그 근쳐 ᄂᆡ산 좌우 각쳐에 임쟈 업ᄂᆞᆫ 묵은 밧^치 가히 ᄀᆡ쳑ᄒᆞᆯ 만ᄒᆞᆫ 쟤 쳔수 ᄇᆡᆨ경의 나리지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="47b" n="1">倘能設局招耕, 認眞辦理,</sent>
+<sent type="main" lang="kor" page="47b" n="1">만일 능히 ᄇᆡᆨ셩을 모화 밧갈게 ᄒᆞ고 실샹으로 다ᄉᆞ린ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="47b" n="2">則野無曠土, 市無游民,</sent>
+<sent type="main" lang="kor" page="47b" n="2">들에 븬 ᄯᆞ히 업고 져ᄌᆞ에 노ᄂᆞᆫ ᄇᆡᆨ셩이 업게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="47b" n="3">實於國計民生, 有裨不少.</sent>
+<sent type="main" lang="kor" page="47b" n="3">나라와 ᄇᆡᆨ셩의게 유익ᄒᆞ미 불쇼ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="47b" n="4">否則土田有限, 生齒日繁,</sent>
+<sent type="main" lang="kor" page="47b" n="4">그리 아닌ᄌᆞᆨ 뎐토ᄂᆞᆫ 한이 잇고 ᄉᆡᆼ령은 ᄂᆞᆯ노 셩ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="47b" n="5">歲收尙且不敷,</sent>
+<sent type="main" lang="kor" page="47b" n="5">일 년에 거두ᄂᆞᆫ 것도 오히려 넉넉지 못ᄒᆞ거든</sent>
+<sent type="main" lang="chi" page="47b" n="6">偏災何堪設想.</sent>
+<sent type="main" lang="kor" page="47b" n="6">편벽된 ᄌᆡ앙을 당ᄒᆞ면 엇지 견ᄃᆡ리오</sent>
+<sent type="main" lang="chi" page="47b" n="7">邇來在京各官, 屢次奏請朝廷,</sent>
+<sent type="main" lang="kor" page="47b" n="7">근ᄅᆡ의 황셩의 잇ᄂᆞᆫ 모ᄃᆞᆫ 관원이 죠뎡의 루ᄎᆞ 주쳥ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="47b" n="8">飭令各省大吏, 轉督地方官,</sent>
+<sent type="main" lang="kor" page="47b" n="8">각쳐 방ᄇᆡᆨ의게 신칙ᄒᆞ야 디방관을 동독ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="47b-48a" n="9">開墾荒田, 興脩水利, 此誠今日民事之先務也.</sent>
+<sent type="main" lang="kor" page="47b-48a" n="9">묵은 밧ᄎᆞᆯ ᄀᆡᄀᆞᆫᄒᆞ고 슈도ᄅᆞᆯ 슈츅ᄒᆞᄂᆞᆫ 거시 ᄇᆡᆨ셩의게 가쟝 급ᄒᆞᆫ ᄇᆡ라 ᄒᆞ^ᄃᆡ</sent>
+<sent type="main" lang="chi" page="48a" n="1">無如各府州縣, 更調頻仍,</sent>
+<sent type="main" lang="kor" page="48a" n="1">각 쥬 부 현 관원들이 톄등이 ᄌᆞ죠 되여</sent>
+<sent type="main" lang="chi" page="48a" n="2">實授不過三年, 委署限以年半,</sent>
+<sent type="main" lang="kor" page="48a" n="2">다불과 삼 년이오 혹 반년도 되니</sent>
+<sent type="main" lang="chi" page="48a" n="3">席不暇暖,</sent>
+<sent type="main" lang="kor" page="48a" n="3">안즌 ᄌᆞ리도 밋쳐 덥지 못ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="48a" n="4">雖有一二留心民事者, 亦且兼顧未遑.</sent>
+<sent type="main" lang="kor" page="48a" n="4">그 즁에 비록 하나 둘히 ᄇᆡᆨ셩의 일에 유의ᄒᆞᄂᆞᆫ 쟤 이실지라도 결을치 못ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="48a" n="5">就令勇於吏治, 毅然稟請,</sent>
+<sent type="main" lang="kor" page="48a" n="5">치민ᄒᆞ기의 셩의 잇ᄂᆞᆫ 사ᄅᆞᆷ으로 ᄒᆞ야곰 구지 주쳥ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="48a" n="6">招墾招耕,</sent>
+<sent type="main" lang="kor" page="48a" n="6">일변 ᄇᆡᆨ셩을 블너 ᄀᆡᄀᆞᆫᄒᆞ며 일변 밧 갈니다가</sent>
+<sent type="main" lang="chi" page="48a" n="7">萬一部署未周, 猝然陞調,</sent>
+<sent type="main" lang="kor" page="48a" n="7">만일 밋쳐 료뎡치 못ᄒᆞ야셔 졸연이 이직ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="48a" n="8">後任或更張任意, 壞事堪虞,</sent>
+<sent type="main" lang="kor" page="48a" n="8">후에 오ᄂᆞᆫ 사ᄅᆞᆷ이 임의로 곳치다가 일을 해롭게 ᄒᆞ미 죡히 념려ᄒᆞᆯ 바오</sent>
+<sent type="main" lang="chi" page="48a" n="9">而究之端自我開, 不任受功,</sent>
+<sent type="main" lang="kor" page="48a" n="9">일 ᄭᅳᆺᄎᆞᆯ ᄂᆡ가 셜시ᄒᆞ고 셩공ᄒᆞ게 바려 두지 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="48a" n="10">轉任受過.</sent>
+<sent type="main" lang="kor" page="48a" n="10">벼ᄉᆞᆯ을 올마가고 필경 죄ᄎᆡᆨ을 당ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="48a-48b" n="11">惟願身膺重寄者, 心精力果, 速定新章,</sent>
+<sent type="main" lang="kor" page="48a-48b" n="11">원컨ᄃᆡ ^ 몸의 즁임을 담당ᄒᆞᆫ 쟤 ᄆᆞᄋᆞᆷ을 졍히 ᄒᆞ고 힘을 ᄆᆡᆼ렬이 ᄒᆞ야 ᄉᆡ 법을 속히 뎡ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="48b" n="1">庶國帑於以豐, 民財亦於以阜矣,</sent>
+<sent type="main" lang="kor" page="48b" n="1">거의 국가의 창름이 풍만ᄒᆞ고 ᄇᆡᆨ셩의 ᄌᆡ물이 ᄯᅩᄒᆞᆫ 부요ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="48b" n="2">豈不懿歟.</sent>
+<sent type="main" lang="kor" page="48b" n="2">엇지 아름답지 아니ᄒᆞ랴</sent>
+<sent type="title2" lang="chi" page="49a" n="1">論治旱</sent>
+<sent type="title2" lang="kor" page="49a" n="1">론치한</sent>
+<sent type="anno" lang="chi" page="49a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="49a" n="2">한ᄌᆡ 다ᄉᆞ림을 의론ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="49a" n="3">天災流行, 何國蔑有,</sent>
+<sent type="main" lang="kor" page="49a" n="3">하ᄂᆞᆯ에 ᄌᆡ앙이 류ᄒᆡᆼᄒᆞᄆᆡ 어ᄂᆡ 나라의 업ᄉᆞ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="49a" n="4">然事後而始圖補救, 何如事前而豫切綢繆.</sent>
+<sent type="main" lang="kor" page="49a" n="4">일이 지ᄂᆞᆫ 후에 비로쇼 구원ᄒᆞ기ᄅᆞᆯ 도모ᄒᆞᄂᆞᆫ 거시 당ᄒᆞ기 젼에 미리 경륜ᄒᆞᄂᆞᆫ 것과 엇더ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="49a" n="5">况事關國計民生,</sent>
+<sent type="main" lang="kor" page="49a" n="5">ᄒᆞ믈며 일이 국가와 ᄇᆡᆨ셩의게 계관ᄒᆞᆫ 거시니</sent>
+<sent type="main" lang="chi" page="49a" n="6">當軸者, 尤宜先務之急也.</sent>
+<sent type="main" lang="kor" page="49a" n="6">당도지인이 더옥 몬져 힘ᄡᅳ기ᄅᆞᆯ 밧비ᄒᆞᆯ ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="49a" n="7">今西北各省, 疊遘旱荒, 東南復多水患,</sent>
+<sent type="main" lang="kor" page="49a" n="7">이졔 셔븍 각 ᄉᆡᆼ이 련쳡히 한ᄌᆡᄅᆞᆯ 만나고 동남의ᄂᆞᆫ ᄯᅩ 슈환이 만흐니</sent>
+<sent type="main" lang="chi" page="49a" n="8">若不專心農政,</sent>
+<sent type="main" lang="kor" page="49a" n="8">만일 농무의 ᄆᆞᄋᆞᆷ을 젼쥬이 ᄒᆞ지 아니ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="49a" n="9">設偏災偶至, 何以禦之.</sent>
+<sent type="main" lang="kor" page="49a" n="9">셜혹 일편된 ᄌᆡ앙이 우연이 니ᄅᆞ면 엇지ᄡᅥ 막을고</sent>
+<sent type="main" lang="chi" page="49a-49b" n="10">今陳末議三條, 請備詳擇,</sent>
+<sent type="main" lang="kor" page="49a-49b" n="10">이졔 어린 의론 셰 됴목을 베프ᄂᆞ니 쳥컨ᄃᆡ ᄌᆞ셰히 ᄀᆞᆯ^ᄒᆡ라</sent>
+<sent type="main" lang="chi" page="49b" n="1">一曰開溝洫,</sent>
+<sent type="main" lang="kor" page="49b" n="1">하나흔 ᄀᆞᆯ온 구혁[밧 사이의 물길이라]을 치미오</sent>
+<sent type="main" lang="chi" page="49b" n="2">次曰用水糞,</sent>
+<sent type="main" lang="kor" page="49b" n="2">버거ᄂᆞᆫ ᄀᆞᆯ온 슈분[거름물이라]을 ᄡᅳ미오</sent>
+<sent type="main" lang="chi" page="49b" n="3">次曰補種樹,</sent>
+<sent type="main" lang="kor" page="49b" n="3">버거ᄂᆞᆫ ᄀᆞᆯ온 나무ᄅᆞᆯ 심으미니</sent>
+<sent type="main" lang="chi" page="49b" n="4">分言之則各有所宜,</sent>
+<sent type="main" lang="kor" page="49b" n="4">난호와 말ᄒᆞᆫᄌᆞᆨ 각각 ᄆᆞᆺ당ᄒᆞᆫ ᄇᆡ 잇고</sent>
+<sent type="main" lang="chi" page="49b" n="5">竝務之則備收其益.</sent>
+<sent type="main" lang="kor" page="49b" n="5">아오로 힘ᄡᅳᆫᄌᆞᆨ 유익ᄒᆞ믈 ᄀᆞᆺ쵸 바들 거시니</sent>
+<sent type="main" lang="chi" page="49b" n="6">其開溝洫, 若何.</sent>
+<sent type="main" lang="kor" page="49b" n="6">그 구혁을 치ᄂᆞᆫ 거ᄉᆞᆫ 엇더ᄒᆞ미뇨</sent>
+<sent type="main" lang="chi" page="49b" n="7">昔禹平水土, 盡力溝洫.</sent>
+<sent type="main" lang="kor" page="49b" n="7">녯젹에 하우시 슈도ᄅᆞᆯ 평ᄒᆞ시고 구혁의 힘을 다ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="49b" n="8">稷因得施稼穡之功,</sent>
+<sent type="main" lang="kor" page="49b" n="8">후직이 인ᄒᆞ야 농ᄉᆞᄒᆞᄂᆞᆫ 공을 베프럿고</sent>
+<sent type="main" lang="chi" page="49b" n="9">三代因之,</sent>
+<sent type="main" lang="kor" page="49b" n="9">하 은 쥬 삼ᄃᆡ의셔 다 인ᄒᆞ야 ᄡᅳ니</sent>
+<sent type="main" lang="chi" page="49b" n="10">卽遇天災, 未聞赤地千里者, 皆溝洫之力居多.</sent>
+<sent type="main" lang="kor" page="49b" n="10">곳 하ᄂᆞᆯ ᄌᆡ앙을 맛나도 젹디 쳔 리 되엿단 말을 듯지 못ᄒᆞᆫ 쟈ᄂᆞᆫ 다 구혁의 공력이 만흐미러니</sent>
+<sent type="main" lang="chi" page="49b-50a" n="11">迨秦廢井田開阡陌,</sent>
+<sent type="main" lang="kor" page="49b-50a" n="11">진나라에 밋쳐ᄂᆞᆫ 졍뎐법을 폐ᄒᆞ고 밧 두던을 놉히 ᄡᆞ하 갈피ᄅᆞᆯ 뎡^ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="50a" n="1">溝洫之制蕩然無存,</sent>
+<sent type="main" lang="kor" page="50a" n="1">구혁 졔되 탕연이 남으미 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="50a" n="2">其後, 水旱始有, 連及數郡者.</sent>
+<sent type="main" lang="kor" page="50a" n="2">그 후에 슈ᄌᆡ와 한ᄌᆡ 비로쇼 잇셔 ᄌᆡ앙이 두어 고ᄋᆞᆯ의 밋ᄎᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="50a" n="3">自漢以來, 循吏輩出, 代不乏人,</sent>
+<sent type="main" lang="kor" page="50a" n="3">한나라로븟허ᄡᅥ 오므로 션치ᄒᆞᄂᆞᆫ 아젼이 무리 지어 낫시ᄆᆡ 사ᄅᆞᆷ이 업ᄂᆞᆫ ᄇᆡ 아니로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="50a" n="4">深知井田古法, 斷不能復,</sent>
+<sent type="main" lang="kor" page="50a" n="4">졍뎐법을 결단코 회복지 못ᄒᆞᆯ 쥴 깁히 알고</sent>
+<sent type="main" lang="chi" page="50a" n="5">惟有詳察水道, 濬源導流, 疏渠設閘,</sent>
+<sent type="main" lang="kor" page="50a" n="5">오직 슈도ᄅᆞᆯ ᄉᆞᆲ혀 근원을 치며 물골슬 인도ᄒᆞ고 시ᄂᆡ물을 소통ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="50a" n="6">專事蓄洩, 俾資灌漑,</sent>
+<sent type="main" lang="kor" page="50a" n="6">슈문을 노하 져슈ᄒᆞ엿다가 터 노하 밧ᄒᆡ 다히니</sent>
+<sent type="main" lang="chi" page="50a" n="7">遇有旱澇, 不憂荒歉.</sent>
+<sent type="main" lang="kor" page="50a" n="7">한ᄌᆡ와 슈ᄌᆡᄅᆞᆯ 만나도 흉년 들가 근심 아니ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="50a" n="8">此鄭白等渠之所以利賴無窮也.</sent>
+<sent type="main" lang="kor" page="50a" n="8">이ᄂᆞᆫ 졍ᄇᆡᆨ[방츅을 ᄆᆡᆫᄃᆞᆯ기로 유명ᄒᆞᆫ 사ᄅᆞᆷ이라]의 무리 방츅이 무궁ᄒᆞᆫ 리ᄅᆞᆯ 힘닙은 ᄇᆡ라</sent>
+<sent type="main" lang="chi" page="50a-50b" n="9">雍正時, 怡賢親王, 與衆大臣等, 大開畿輔水田,</sent>
+<sent type="main" lang="kor" page="50a-50b" n="9">옹졍 시졀에 이현친왕이 즁대신으로 더^브러 긔ᄂᆡ에 슈답을 크게 열어</sent>
+<sent type="main" lang="chi" page="50b" n="1">漸欲推行於直隸與西北各省,</sent>
+<sent type="main" lang="kor" page="50b" n="1">직례ᄉᆡᆼ과 셔븍 각 ᄉᆡᆼ에 졈졈 미루여 ᄒᆡᆼᄒᆞ고져 ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="50b" n="2">惜功未竟耳.</sent>
+<sent type="main" lang="kor" page="50b" n="2">ᄆᆞᆺᄎᆞᆷᄂᆡ 셩공치 못ᄒᆞ미 가셕ᄒᆞ거니와</sent>
+<sent type="main" lang="chi" page="50b" n="3">然畿輔水田, 至今民猶賴之,</sent>
+<sent type="main" lang="kor" page="50b" n="3">그러나 긔ᄂᆡ에 슈답은 지금ᄭᅡ지 ᄇᆡᆨ셩이 오히려 힘닙으니</sent>
+<sent type="main" lang="chi" page="50b" n="4">可見水利之興, 無地不宜.</sent>
+<sent type="main" lang="kor" page="50b" n="4">슈도에 리ᄒᆞ미 어ᄂᆡ ᄯᆞᄒᆡ ᄆᆞᆺ당치 아니ᄒᆞ미 업ᄉᆞ믈 가히 볼지라</sent>
+<sent type="main" lang="chi" page="50b" n="5">若各省大吏, 能於有水之地, 盡開水道,</sent>
+<sent type="main" lang="kor" page="50b" n="5">만일 각 ᄉᆡᆼ의 방ᄇᆡᆨ들이 능히 물 잇ᄂᆞᆫ ᄯᆞᄒᆡ 슈도를 다 치고</sent>
+<sent type="main" lang="chi" page="50b" n="6">而於無水之田, 復講求溝洫遺法,</sent>
+<sent type="main" lang="kor" page="50b" n="6">물 업ᄂᆞᆫ 밧ᄒᆡ 구혁 녯 법을 다시 강구ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="50b" n="7">令民於每年農隙之時, 疏通水道, 深濬溝洫,</sent>
+<sent type="main" lang="kor" page="50b" n="7">ᄇᆡᆨ셩으로 ᄒᆞ야곰 ᄆᆡ년 농ᄉᆞᄒᆞᆫ 틈의 슈도ᄅᆞᆯ 소통ᄒᆞ고 구혁을 깁히 친ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="50b" n="8">則大水可免淹沒之虞,</sent>
+<sent type="main" lang="kor" page="50b" n="8">큰 물의 슈침ᄒᆞᄂᆞᆫ 근심을 면ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="50b" n="9">亢旱可無乾熯之患.</sent>
+<sent type="main" lang="kor" page="50b" n="9">큰 한ᄌᆡ의 타계 마르ᄂᆞᆫ 념례 업ᄉᆞ리니</sent>
+<sent type="main" lang="chi" page="50b-51a" n="10">其事甚易, 其功甚多,</sent>
+<sent type="main" lang="kor" page="50b-51a" n="10">그 일은 심히 쉽고 그 ^ 공효ᄂᆞᆫ 심히 만흐니</sent>
+<sent type="main" lang="chi" page="51a" n="1">此不待智者而後知之.</sent>
+<sent type="main" lang="kor" page="51a" n="1">이ᄂᆞᆫ 지혜 잇ᄂᆞᆫ 쟈를 기다리지 아니ᄒᆞ야 가히 알 거시오</sent>
+<sent type="main" lang="chi" page="51a" n="2">至如平曠之區, 可倣泰西風車之法,</sent>
+<sent type="main" lang="kor" page="51a" n="2">평원 광야의ᄂᆞᆫ 태셔 풍거[무ᄌᆞ위라] ᄡᅳᄂᆞᆫ 법을 의방ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="51a" n="3">以代人力之勞,</sent>
+<sent type="main" lang="kor" page="51a" n="3">인력에 슈고로오믈 ᄃᆡ신ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="51a" n="4">遇旱則掘深井,</sent>
+<sent type="main" lang="kor" page="51a" n="4">한ᄌᆡᄅᆞᆯ 만나거든 우물을 깁히 파고</sent>
+<sent type="main" lang="chi" page="51a" n="5">以風力汲水, 灌漑田疇,</sent>
+<sent type="main" lang="kor" page="51a" n="5">풍거 힘으로 물을 기러 밧ᄒᆡ 부으며</sent>
+<sent type="main" lang="chi" page="51a" n="6">遇潦則開水道,</sent>
+<sent type="main" lang="kor" page="51a" n="6">쟝마ᄅᆞᆯ 만나거든 슈도ᄅᆞᆯ 치고</sent>
+<sent type="main" lang="chi" page="51a" n="7">以風力戽水, 導注江海,</sent>
+<sent type="main" lang="kor" page="51a" n="7">풍거 힘으로 물을 퍼 인도ᄒᆞ야 강으로 부으면</sent>
+<sent type="main" lang="chi" page="51a" n="8">工程旣省, 晝夜弗輟,</sent>
+<sent type="main" lang="kor" page="51a" n="8">공졍이 임의 덜니고 불쳘쥬야ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="51a" n="9">尙何偏災之足患乎.</sent>
+<sent type="main" lang="kor" page="51a" n="9">일편된 ᄌᆡ앙을 엇지 죡히 근심ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="51a" n="10">其用水糞, 又若何.</sent>
+<sent type="main" lang="kor" page="51a" n="10">그 슈분 ᄡᅳ기ᄂᆞᆫ 엇더케 ᄒᆞᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="51a" n="11">査此法, 盛於東洋.</sent>
+<sent type="main" lang="kor" page="51a" n="11">샹고ᄒᆞ건ᄃᆡ 이 법이 동양의 셩ᄒᆡᆼᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="51a" n="12">余聞之東瀛游客, 曰</sent>
+<sent type="main" lang="kor" page="51a" n="12">ᄂᆡ 동양의 노ᄂᆞᆫ 숀의게 드ᄅᆞ니 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="51a-51b" n="13">“?東洋種麥, 獨有妙訣,</sent><!--'?'는 무엇인가?-->
+<sent type="main" lang="kor" page="51a-51b" n="13">동양의셔 보리^ᄅᆞᆯ 심으ᄆᆡ 홀노 묘ᄒᆞᆫ 방법이 이시니</sent>
+<sent type="main" lang="chi" page="51b" n="1">其農人暇時, 均於村莊, 預備糞池,</sent>
+<sent type="main" lang="kor" page="51b" n="1">농민이 결을 잇ᄂᆞᆫ ᄯᆡ의 촌가의 모ᄉᆞᆯ 파되</sent>
+<sent type="main" lang="chi" page="51b" n="2">脩砌堅固, 不使稍有滲漏,</sent>
+<sent type="main" lang="kor" page="51b" n="2">방츅을 견고히 ᄒᆞ야 죠곰도 물이 ᄉᆡᄂᆞᆫ 폐 업게 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="51b" n="3">所有人畜糞溺, 一切垢穢之水, 傾注其中,</sent>
+<sent type="main" lang="kor" page="51b" n="3">사ᄅᆞᆷ과 륙츅의 오좀 ᄯᅩᆼ과 온ᄀᆞᆺ 더러온 물을 그곳의 부엇다가</sent>
+<sent type="main" lang="chi" page="51b" n="4">以備糞田之用.</sent>
+<sent type="main" lang="kor" page="51b" n="4">밧ᄒᆡ 거름ᄒᆞ게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="51b" n="5">其田隴廣狹, 皆同一式,</sent>
+<sent type="main" lang="kor" page="51b" n="5">밧이랑 활협을 ᄒᆞᆫ갈ᄀᆞᆺ치 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="51b" n="6">開溝, 深約寸許,</sent>
+<sent type="main" lang="kor" page="51b" n="6">구혁을 치되 깁기 한 치 남즛ᄒᆞ게 ᄒᆞ엿다가</sent>
+<sent type="main" lang="chi" page="51b" n="7">及期種麥. 農夫播種已畢,</sent>
+<sent type="main" lang="kor" page="51b" n="7">졔 ᄯᆡ에 보리ᄅᆞᆯ 심으ᄃᆡ 농뷔 파죵ᄒᆞ기ᄅᆞᆯ ᄆᆞᆺᄎᆞᄆᆡ</sent>
+<sent type="main" lang="chi" page="51b" n="8">將水糞運往田間,</sent>
+<sent type="main" lang="kor" page="51b" n="8">슈분을 슈운ᄒᆞ야 밧흐로 가셔</sent>
+<sent type="main" lang="chi" page="51b" n="9">用長柄巨杓, 挨次澆灌隴溝,</sent>
+<sent type="main" lang="kor" page="51b" n="9">큰 박의 ᄌᆞ로ᄅᆞᆯ 길게 맛쵸와 밧 구혁에 ᄎᆞ례로 부어</sent>
+<sent type="main" lang="chi" page="51b" n="10">俾得停蓄, 潛滋土脉.</sent>
+<sent type="main" lang="kor" page="51b" n="10">가득히 져슈ᄒᆞ야 토ᄆᆡᆨ을 븟게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="51b" n="11">此後, 天縱不雨, 麥亦萌芽,</sent>
+<sent type="main" lang="kor" page="51b" n="11">이 후에 비록 비 오지 아니ᄒᆞ나 보리ᄂᆞᆫ ᄡᅡᆨ시 나며</sent>
+<sent type="main" lang="chi" page="51b-52a" n="12">迨麥苗出, 至二三寸高, 如前澆灌一次,</sent>
+<sent type="main" lang="kor" page="51b-52a" n="12">보리 ᄡᅡᆨ시 이^삼 촌즘 ᄌᆞ라거든 젼과 ᄀᆞᆺ치 ᄒᆞᆫ 번을 더 부으며</sent>
+<sent type="main" lang="chi" page="52a" n="1">吐秀時復澆一次,</sent>
+<sent type="main" lang="kor" page="52a" n="1">이삭이 팰 ᄯᆡ의 ᄯᅩ ᄒᆞᆫ 번 더 부으며</sent>
+<sent type="main" lang="chi" page="52a" n="2">結實時更澆一次,</sent>
+<sent type="main" lang="kor" page="52a" n="2">결실ᄒᆞᆯ ᄯᆡ의 ᄯᅩ ᄒᆞᆫ 번 더 븟ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="52a" n="3">由是, 農乃登麥.”</sent>
+<sent type="main" lang="kor" page="52a" n="3">일노 말ᄆᆡ암아 보리 대풍ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="52a" n="4">東洋麥田, 所以無患天旱者, 大率恃此.</sent>
+<sent type="main" lang="kor" page="52a" n="4">동양 보리밧ᄒᆡ 한ᄌᆡᄅᆞᆯ 근심 아ᄂᆞᆫ 밧 쟤 대뎌 이ᄅᆞᆯ 미드미오</sent>
+<sent type="main" lang="chi" page="52a" n="5">至於分秧種稻, 必賴甘霖,</sent>
+<sent type="main" lang="kor" page="52a" n="5">급기 이양ᄒᆞᆯ ᄯᆡ의ᄂᆞᆫ 반ᄃᆞ시 비 오기ᄅᆞᆯ 기다리니</sent>
+<sent type="main" lang="chi" page="52a" n="6">與中華無異.</sent>
+<sent type="main" lang="kor" page="52a" n="6">이ᄂᆞᆫ 즁원으로 다ᄅᆞ미 업ᄉᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="52a" n="7">惟田家互積水糞, 利益多端.</sent>
+<sent type="main" lang="kor" page="52a" n="7">오직 농가의셔 슈분을 셔로 모흐ᄂᆞᆫ 거시 유익ᄒᆞᆫ 일이 만흐니</sent>
+<sent type="main" lang="chi" page="52a" n="8">凡癘疫之興, 穢氣中人所致,</sent>
+<sent type="main" lang="kor" page="52a" n="8">므릇 려역이 셩ᄒᆞᄂᆞᆫ 거시 더러온 긔운이 사ᄅᆞᆷ의게 다ᄃᆞ쳐 되ᄂᆞᆫ ᄇᆡ니</sent>
+<sent type="main" lang="chi" page="52a" n="9">果能將汚物, 盡投郊外,</sent>
+<sent type="main" lang="kor" page="52a" n="9">과연 능히 더러온 물건을 치워 들 밧긔 보ᄂᆡᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="52a" n="10">則城市中俱得淸氣,</sent>
+<sent type="main" lang="kor" page="52a" n="10">셩즁의ᄂᆞᆫ 맑은 긔운만 모혓고</sent>
+<sent type="main" lang="chi" page="52a-52b" n="11">調攝以時, 疫症何由而作.</sent>
+<sent type="main" lang="kor" page="52a-52b" n="11">됴셥ᄒᆞ기ᄅᆞᆯ ᄯᆡ로 ᄒᆞ면 려^역 ᄀᆞᆺᄐᆞᆫ 병이 어ᄃᆡ로 말ᄆᆡ암아 니러나리오</sent>
+<sent type="main" lang="chi" page="52b" n="1">此有益於居民者也.</sent>
+<sent type="main" lang="kor" page="52b" n="1">이ᄂᆞᆫ ᄇᆡᆨ셩의게 유익ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="52b" n="2">盛署之時, 汚水不蓄於街衢</sent>
+<sent type="main" lang="kor" page="52b" n="2">삼복 더위에 더러온 물이 길거리의 고히지 아니ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="52b" n="3">自不至臭穢載途, 行人觸鼻,</sent>
+<sent type="main" lang="kor" page="52b" n="3">더러온 긔운이 길에 가득ᄒᆞ야 ᄒᆡᆼ인의 코ᄅᆞᆯ 거ᄉᆞ리기의 니ᄅᆞ지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="52b" n="4">而痧疹可免,</sent>
+<sent type="main" lang="kor" page="52b" n="4">사진[병 일홈]을 가히 면ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="52b" n="5">此又有益於行人者也.</sent>
+<sent type="main" lang="kor" page="52b" n="5">이ᄂᆞᆫ ᄯᅩ ᄒᆡᆼ인의게 유익ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="52b" n="6">且凶年飢歲, 倉庾空虛, 生民乏食,</sent>
+<sent type="main" lang="kor" page="52b" n="6">ᄯᅩ 흉년의 창름이 공허ᄒᆞ고 ᄇᆡᆨ셩이 먹을 거시 업ᄉᆞᆯ ᄯᆡ에</sent>
+<sent type="main" lang="chi" page="52b" n="7">若用水糞多種宿麥麰麥, 以備不虞,</sent>
+<sent type="main" lang="kor" page="52b" n="7">만일 슈분을 모화 모ᄆᆡᆨ을 만히 심엇다가 불우지비ᄅᆞᆯ ᄒᆞ게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="52b" n="8">卽使亢旱頻年, 或不至民無粒食.</sent>
+<sent type="main" lang="kor" page="52b" n="8">곳 여러 ᄒᆡ 한ᄌᆡ 크게 잇셔도 ᄇᆡᆨ셩의 먹을 거시 바히 업지 아니ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="52b-53a" n="9">此東洋所以有不懼三年旱之說也.</sent>
+<sent type="main" lang="kor" page="52b-53a" n="9">이ᄂᆞᆫ 동양 사ᄅᆞᆷ이 삼 년 한ᄌᆡᄅᆞᆯ 두리지 아니ᄒᆞᆫ다 ᄒᆞᄂᆞᆫ 말이 ^ 이시미라</sent>
+<sent type="main" lang="chi" page="53a" n="1">今西北各省宜於種麥,</sent>
+<sent type="main" lang="kor" page="53a" n="1">이졔 셔븍 각 ᄉᆡᆼ의셔 토픔이 모ᄆᆡᆨ 심으기의 ᄆᆞᆺ당ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="53a" n="2">無如屢逢亢旱, 民無蓋藏,</sent>
+<sent type="main" lang="kor" page="53a" n="2">여러 번 한ᄌᆡᄅᆞᆯ 만나ᄆᆡ ᄇᆡᆨ셩이 져츅이 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="53a" n="3">亟須思患豫防, 籌之於早</sent>
+<sent type="main" lang="kor" page="53a" n="3">급히 예방ᄒᆞᆯ 도리ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ야 일즉 ᄭᅬᄒᆞᆫᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="53a" n="4">則水糞之法, 非當採用者乎.</sent>
+<sent type="main" lang="kor" page="53a" n="4">슈분 모흐ᄂᆞᆫ 법을 ᄆᆞᆺ당히 ᄏᆡ여 ᄡᅧᆷᄌᆞᆨᄒᆞ지 아니ᄒᆞ냐</sent>
+<sent type="main" lang="chi" page="53a" n="5">其種樹之法, 又若何.</sent>
+<sent type="main" lang="kor" page="53a" n="5">나무 심으ᄂᆞᆫ 법은 ᄯᅩ 엇더ᄒᆞᆫ고</sent>
+<sent type="main" lang="chi" page="53a" n="6">西人謂成頃之田, 四圍須多種樹.</sent>
+<sent type="main" lang="kor" page="53a" n="6">셔인이 니ᄅᆞᄃᆡ 밧 이랑이 두렷ᄒᆞᆫ 곳의 ᄉᆞ면에 나무ᄅᆞᆯ 만히 심은다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="53a" n="7">蓋樹之發榮, 自下而上,</sent>
+<sent type="main" lang="kor" page="53a" n="7">대개 남기 발ᄉᆡᆼᄒᆞᆯ 졔 아ᄅᆡ로븟허 올나가ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="53a" n="8">其所以發榮者, 資乎土脈,</sent>
+<sent type="main" lang="kor" page="53a" n="8">그 발ᄉᆡᆼᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ 토ᄆᆡᆨ을 ᄌᆞ뢰ᄒᆞ엿고</sent>
+<sent type="main" lang="chi" page="53a" n="9">而土脈之所以能培養樹木者, 以其有水氣耳.</sent>
+<sent type="main" lang="kor" page="53a" n="9">토ᄆᆡᆨ이 능히 나무ᄅᆞᆯ ᄇᆡ양ᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ 슈긔 이시믈 인ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="53a" n="10">樹根入土, 不啼用竹管揷地,</sent>
+<sent type="main" lang="kor" page="53a" n="10">목근이 ᄯᆞᄒᆡ 드러가ᄆᆡ ᄃᆡᄧᅩᆨ을 ᄯᆞᄒᆡ ᄭᅩᆺ고</sent>
+<sent type="main" lang="chi" page="53a-53b" n="11">上施巧力,</sent>
+<sent type="main" lang="kor" page="53a-53b" n="11">우ᄒᆡ 공교ᄒᆞᆫ 힘^을 베플 ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="chi" page="53b" n="1">可使水由本達末,</sent>
+<sent type="main" lang="kor" page="53b" n="1">가히 물노 ᄒᆞ야곰 근본으로븟허 ᄭᅳᆺᄒᆡᄭᅡ지 ᄉᆞᄆᆞᆺ치게 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="53b" n="2">暗長潛滋.</sent>
+<sent type="main" lang="kor" page="53b" n="2">가마니 ᄌᆞ라고 그윽이 븟게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="53b" n="3">其地勢平衍, 去水較遠之田, 旣無時雨沾濡,</sent>
+<sent type="main" lang="kor" page="53b" n="3">디셰 평탄ᄒᆞ야 믈의 가기 젹이 먼 밧ᄒᆡ 임의 흡죡히 비 오지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="53b" n="4">復乏桔槹灌漑, 惟有樹以吸水,</sent>
+<sent type="main" lang="kor" page="53b" n="4">ᄯᅩ 두레로 물을 기러 부은 ᄇᆡ 업고 오직 나무ᄅᆞᆯ 두어 물을 혀드린ᄌᆞᆨ</sent>
+<sent type="main" lang="chi" page="53b" n="5">則枝葉固茂, 且陰森之氣,</sent>
+<sent type="main" lang="kor" page="53b" n="5">지엽도 무셩ᄒᆞ고 음음ᄒᆞᆫ 긔운이 젹시고</sent>
+<sent type="main" lang="chi" page="53b" n="6">又浸淫而生水, 自上而下, 歸於地中,</sent>
+<sent type="main" lang="kor" page="53b" n="6">무드러 우흐로븟허 나려 ᄯᆞ흐로 드러가니</sent>
+<sent type="main" lang="chi" page="53b" n="7">土脈愈潤,</sent>
+<sent type="main" lang="kor" page="53b" n="7">토ᄆᆡᆨ이 졈졈 윤ᄐᆡᆨᄒᆞ고</sent>
+<sent type="main" lang="chi" page="53b" n="8">上下呼吸, 長養不窮,</sent>
+<sent type="main" lang="kor" page="53b" n="8">오르락나리락ᄒᆞ며 혀드리며 ᄂᆡᄲᅳᆷ기ᄅᆞᆯ 무궁히 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="53b" n="9">雖値旱乾, 猶不至於速槁,</sent>
+<sent type="main" lang="kor" page="53b" n="9">비록 한ᄌᆡ를 만나도 오히려 속히 마르기의 니ᄅᆞ지 아니ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="53b-54a" n="10">倘忽然得雨, 將前此未盡之水氣, 合後來之雨澤,</sent>
+<sent type="main" lang="kor" page="53b-54a" n="10">만일 홀연이 비를 어드면 젼에 미진ᄒᆞᆫ 슈^긔에 ᄯᅩ 우ᄐᆡᆨ을 겸ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="54a" n="1">接續滋榮, 尤爲神速,</sent>
+<sent type="main" lang="kor" page="54a" n="1">련쇽ᄒᆞ여 부러나기 아죠 신속ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="54a" n="2">若無樹之田, 水口較遙,</sent>
+<sent type="main" lang="kor" page="54a" n="2">만일 나무 업ᄂᆞᆫ 밧ᄒᆡ 물목시 젹이 머러</sent>
+<sent type="main" lang="chi" page="54a" n="3">不能平地引入,</sent>
+<sent type="main" lang="kor" page="54a" n="3">능히 평디에 물을 다혀 드러오지 못ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="54a" n="4">卽時雨偶降, 而水性就下,</sent>
+<sent type="main" lang="kor" page="54a" n="4">비가 우연이 올지라도 물은 근본 아ᄅᆡ로 ᄲᆞ지ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="54a" n="5">苗根入土, 不過數寸之多,</sent>
+<sent type="main" lang="kor" page="54a" n="5">곡식 ᄲᅳᆯ희ᄂᆞᆫ ᄯᆞᄒᆡ 드러가미 두어 치의 지나지 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="54a" n="6">水已入地尺餘,</sent>
+<sent type="main" lang="kor" page="54a" n="6">물은 ᄯᆞᄒᆡ 드러가미 한 ᄌᆞ히 남으ᄃᆡ</sent>
+<sent type="main" lang="chi" page="54a" n="7">吸引無資, 涸可立待.</sent>
+<sent type="main" lang="kor" page="54a" n="7">당긔여 져츅ᄒᆞᆯ 거시 업ᄉᆞᄆᆡ 마르기를 가히 셔셔 기다릴지라</sent>
+<sent type="main" lang="chi" page="54a" n="8">故古者井田之法, 必於兩旁種桑,</sent>
+<sent type="main" lang="kor" page="54a" n="8">그런고로 녯젹 졍뎐법은 반ᄃᆞ시 두 겻ᄒᆡ ᄲᅩᆼ나무를 심으ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="54a" n="9">一以養春蠶, 一以衞五穀也.</sent>
+<sent type="main" lang="kor" page="54a" n="9">하나흔 누에치기를 위ᄒᆞ미오 하나흔 오곡을 호위ᄒᆞ기를 위ᄒᆞ미러니</sent>
+<sent type="main" lang="chi" page="54a-54b" n="10">乃後人習而不察,</sent>
+<sent type="main" lang="kor" page="54a-54b" n="10">후셰 사ᄅᆞᆷ은 등한이 너기고 ᄉᆞᆲ히^지 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="54b" n="1">罔知種樹, 徒事西疇,</sent>
+<sent type="main" lang="kor" page="54b" n="1">나무 심을 쥴 아지 못ᄒᆞ고 ᄒᆞᆫᄀᆞᆺ 밧ᄎᆞᆯ 훤츨ᄒᆞ게 ᄒᆞᆯ 쥴만 아니</sent>
+<sent type="main" lang="chi" page="54b" n="2">反不若西人之卽物以窮理矣.</sent>
+<sent type="main" lang="kor" page="54b" n="2">도로혀 셔인의 물졍을 ᄯᆞ라 궁리ᄒᆞᄂᆞᆫ 이만 ᄀᆞᆺ지 못ᄒᆞᆫ지라</sent>
+<sent type="main" lang="chi" page="54b" n="3">在上者, 果能廣爲勸諭, 令民於畎畝之旁,</sent>
+<sent type="main" lang="kor" page="54b" n="3">ᄌᆡ샹지인이 널니 효유ᄒᆞ야 ᄇᆡᆨ셩으로 ᄒᆞ야곰</sent>
+<sent type="main" lang="chi" page="54b" n="4">有樹者增益之, 無樹者補種之,</sent>
+<sent type="main" lang="kor" page="54b" n="4">밧가의 나무 잇ᄂᆞᆫ ᄃᆡᄂᆞᆫ 더 심으고 나무 업ᄂᆞᆫ ᄃᆡᄂᆞᆫ 만히 심으면</sent>
+<sent type="main" lang="chi" page="54b" n="5">將雨澤, 雖或愆期, 不可恃, 而仍若可恃耳.</sent>
+<sent type="main" lang="kor" page="54b" n="5">비록 비가 졔 ᄯᆡ의 아니 와도 져기 미들 ᄇᆡ 잇ᄉᆞᆯᄃᆞᆺ ᄒᆞ리라</sent>
+<sent type="main" lang="chi" page="54b" n="6">夫種樹之義, 似乎創自西人,</sent>
+<sent type="main" lang="kor" page="54b" n="6">대뎌 나무 심으ᄂᆞᆫ 법이 셔인이 창ᄀᆡᄒᆞᆫᄃᆞᆺ ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="54b" n="7">實仍師乎古制, 亦何樂而弗爲哉.</sent>
+<sent type="main" lang="kor" page="54b" n="7">실노 녯 법을 스승ᄒᆞ미니 무어ᄉᆞᆯ 빙쟈ᄒᆞ고 아니ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="54b" n="8">故曰與其遇患而始圖補救,</sent>
+<sent type="main" lang="kor" page="54b" n="8">그런고로 ᄀᆞᆯ오ᄃᆡ 근심을 만나 비로쇼 구폐ᄒᆞ기를 도모ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="chi" page="54b" n="9">何如未事而預切綢繆.</sent>
+<sent type="main" lang="kor" page="54b" n="9">당ᄒᆞ기 젼에 미리 경륜ᄒᆞᄂᆞᆫ 것과 엇더ᄒᆞᆫ고</sent>
+<sent type="main" lang="chi" page="54b-55a" n="10">謹獻芻言,</sent>
+<sent type="main" lang="kor" page="54b-55a" n="10">ᄉᆞᆷ가 ^ 미쳔ᄒᆞᆫ 말ᄉᆞᆷ을 드리ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="55a" n="1">未始非千慮一得之助也.</sent>
+<sent type="main" lang="kor" page="55a" n="1">어리셕은 쟤 쳔 번 ᄉᆡᆼ각ᄒᆞ야 ᄒᆞᆫ 번 엇ᄂᆞᆫ 효험이 될 ᄃᆞᆺᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="55b" n="1">없음</sent>
+<sent type="main" lang="kor" page="55b" n="1">이언권지일 죵</sent>
+<!--title: 제목, title2: 편명, main: 본문, anno: 협주-->
+</doc>
