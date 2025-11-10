@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">속명의록언해</title>
+<title lang="chi">續明義錄諺解</title>
+<full_name>속명의록언해</full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<nikl_name>속명의록언해</nikl_name><!--국립국어원(NIKL) 국어 어원사전 편찬 일반서명-->
+<general_name>속명의록언해</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name></another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고] ;[디] ;[우] ;[이] ;[표];</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version></version><!--한문본 url 주소: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1434A_0070_010_0010&viewSync=OT -->
+<volume n="2"/>
+<author>正祖</author>
+<date>1778</date>
+</titleStmt>
+
+<notesStmt><!-- 디지털한글박물관의 '한글 문헌 통합 정보'에 기재된 내용을 바탕으로 입력함 -->
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</notesStmt>
+
+<revisionDesc>
+<date>2015/08/1~15</date>
+<respStmt>
+<resp>입력자</resp><name>김해금</name><!--언해문 입력-->
+</respStmt>
+<item>언해문 입력 및 교정</item>
+<respStmt>
+<resp>교정자</resp><name>황선엽</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2024/09/30</date>
+<respStmt>
+<resp>입력자</resp><name>강은진</name><!--한문 입력-->
+</respStmt>
+<item>한문 입력 및 교정</item>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">續明義錄</sent><!--한자 원문에는 권이 ‘title’이 별도로 없어 추가 입력함-->
+<sent type="title" lang="kor" page="01a" n="1">쇽명의록 권이</sent>
+<sent type="main" lang="chi" page="01a" n="2">八月十八日辛亥 辛亥。洪相格伏誅。</sent><!--한자 원문과 내용이 다름. 한자 원문에는 ‘八月十八日辛亥’ 날짜가 따로 있고 ‘辛亥。洪相格伏誅。’로 시작함-->
+<sent type="main" lang="kor" page="01a" n="2">ᄌᆞ 팔월 신ᄒᆡ 지 무슐 이월 임ᄌᆞ 팔월 신ᄒᆡ에 홍샹격이 복쥬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="01a" n="3">鞫相格。</sent>
+<sent type="main" lang="kor" page="01a" n="3">샹격을 국문ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="01a" n="4">相格供。</sent>
+<sent type="main" lang="kor" page="01a" n="4">샹격이 공ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="01a" n="5">四月。見啓能。</sent>
+<sent type="dialog" lang="kor" page="01a" n="5">ᄉᆞ월에 계능을 보고</sent>
+<sent type="dialog" lang="chi" page="01a" n="6">同謀推戴事。</sent>
+<sent type="dialog" lang="kor" page="01a" n="6">츄ᄃᆡᄒᆞᆯ 일을 ᄒᆞᆫ가지로 ᄭᅬᄒᆞᆯᄉᆡ</sent>
+<sent type="dialog" lang="chi" page="01a" n="7">啓能之子與姪及閔弘燮李澤遂。在座也。</sent>
+<sent type="dialog" lang="kor" page="01a" n="7">계능의 아ᄃᆞᆯ과 족하와 밋 민홍셥 니ᄐᆡᆨᄉᆔ 좌샹에 잇더이다 ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="01a" n="8">結案正法。</sent>
+<sent type="dialog" lang="kor" page="01a" n="8">결안ᄒᆞ야 졍법ᄒᆞ다</sent>
+<sent type="theme" lang="chi" page="01a" n="9">丙辰。追奪洪啓禧官爵。</sent>
+<sent type="theme" lang="kor" page="01a" n="9">병진에 홍계희 관쟉을 츄탈ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="01a" n="10">三司啓。</sent>
+<sent type="main" lang="kor" page="01a" n="10">삼ᄉᆡ 계ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="01a" n="11">洪啓禧賦性妖邪。行已陰祕。</sent>
+<sent type="dialog" lang="kor" page="01a" n="11">홍계희 셩품이 요샤ᄒᆞ고 ᄒᆡᆼ신이 음비ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="01a" n="12">晝宵經營。</sent>
+<sent type="dialog" lang="kor" page="01a" n="12">밤낫 경영ᄒᆞᄂᆞᆫ 배</sent>
+<sent type="dialog" lang="chi" page="01a-01b" n="13">無非凶國禍家。</sent>
+<sent type="dialog" lang="kor" page="01a-01b" n="13">나라희 흉ᄒᆞ고 집에 해롭게 ᄒᆞᆷ이 아니미 업ᄉᆞ니</sent><!--흉ᄒᆞ고 ^ 집에-->
+<sent type="dialog" lang="chi" page="01b" n="1">而盜竊科宦。特其餘事。</sent>
+<sent type="dialog" lang="kor" page="01b" n="1">과거와 벼ᄉᆞᆯ을 도적ᄒᆞ기ᄂᆞᆫ 특별이 그 여ᄉᆡ라</sent>
+<sent type="dialog" lang="chi" page="01b" n="2">一轉而爲趾簡之逆節。</sent>
+<sent type="dialog" lang="kor" page="01b" n="2">ᄒᆞᆫ 번 구을너 지ᄒᆡ 샹간의 역졀이 되고</sent>
+<sent type="dialog" lang="chi" page="01b" n="3">再轉而爲範吉之凶謀。</sent>
+<sent type="dialog" lang="kor" page="01b" n="3">두 번 구을너 샹범 샹길의 흉뫼 되니</sent>
+<sent type="dialog" lang="chi" page="01b" n="4">今日亂逆之本。非一朝一夕之故。</sent>
+<sent type="dialog" lang="kor" page="01b" n="4">오ᄂᆞᆯ날 란역의 근본이 일죠일셕의 연괴 아니라</sent>
+<sent type="dialog" lang="chi" page="01b" n="5">究厥根柢。</sent>
+<sent type="dialog" lang="kor" page="01b" n="5">그 근본을 구ᄒᆡᆨᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="01b" n="6">莫非啓禧平日作俑之致。</sent>
+<sent type="dialog" lang="kor" page="01b" n="6">계희 평일에 작용ᄒᆞᆫ 연괴 아니미 업ᄉᆞ니</sent>
+<sent type="dialog" lang="chi" page="01b" n="7">使啓禧而在也。</sent>
+<sent type="dialog" lang="kor" page="01b" n="7">계희로 ᄒᆞ여곰 이시면</sent>
+<sent type="dialog" lang="chi" page="01b" n="8">雖欲保其首領得乎。</sent>
+<sent type="dialog" lang="kor" page="01b" n="8">비록 머리ᄅᆞᆯ 보젼ᄒᆞ고져 ᄒᆞ나 엇지 어드리잇고</sent>
+<sent type="dialog" lang="chi" page="01b" n="9">請洪啓禧追奪官爵。</sent>
+<sent type="dialog" lang="kor" page="01b" n="9">청컨대 홍계희 관쟉을 츄탈ᄒᆞ여지이다 ᄒᆞᆫ대</sent>
+<sent type="dialog" lang="chi" page="01b" n="10">從之。</sent>
+<sent type="dialog" lang="kor" page="01b" n="10">조츠시다</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">丁巳。洪述海伏誅。</sent>
+<sent type="main" lang="kor" page="02a" n="1">뎡ᄉᆞ에 홍슐ᄒᆡ 복쥬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02a" n="2">鞫述海。問。</sent>
+<sent type="main" lang="kor" page="02a" n="2">슐ᄒᆡᄅᆞᆯ 국문ᄒᆞᆯ ᄉᆡ 뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="02a" n="3">汝以逆簡之叔。逆簡伏法後。</sent>
+<sent type="dialog" lang="kor" page="02a" n="3">네 역적 샹간의 아ᄌᆞ비로 역적 샹간이 복법ᄒᆞᆫ 후</sent>
+<sent type="dialog" lang="chi" page="02a" n="4">汝在島棘中。</sent>
+<sent type="dialog" lang="kor" page="02a" n="4">네 졀도 쳔극ᄒᆞᆫ 가온대 이셔</sent>
+<sent type="dialog" lang="chi" page="02a" n="5">必欲甘心於國家者。</sent>
+<sent type="dialog" lang="kor" page="02a" n="5">반ᄃᆞ시 국가에 감심ᄒᆞ고져 ᄒᆞᆷ은</sent>
+<sent type="dialog" lang="chi" page="02a" n="6">一世之所共知。</sent>
+<sent type="dialog" lang="kor" page="02a" n="6">일셰의 다 아ᄂᆞᆫ 배라</sent>
+<sent type="dialog" lang="chi" page="02a" n="7">而汝子相範。募得死士。</sent>
+<sent type="dialog" lang="kor" page="02a" n="7">네 아ᄃᆞᆯ 샹범이 ᄉᆞᄉᆞᄅᆞᆯ 모득ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="02a" n="8">挾匕宮中。</sent>
+<sent type="dialog" lang="kor" page="02a" n="8">비슈ᄅᆞᆯ ᄭᅵ고 궁즁에 드러와</sent>
+<sent type="dialog" lang="chi" page="02a" n="9">欲爲犯上之計。</sent>
+<sent type="dialog" lang="kor" page="02a" n="9">우흘 범ᄒᆞᆯ 계교ᄅᆞᆯ ᄒᆞ고져 ᄒᆞ며</sent>
+<sent type="dialog" lang="chi" page="02a" n="10">汝妻孝任。締結妖巫。</sent>
+<sent type="dialog" lang="kor" page="02a" n="10">네 안ᄒᆡ 효임이 요괴로온 무당을 톄결ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="02a" n="11">埋凶詛呪。</sent>
+<sent type="dialog" lang="kor" page="02a" n="11">흉ᄒᆞᆫ 거ᄉᆞᆯ 무드며 져쥬ᄅᆞᆯ ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="02a" n="12">欲作不道之事。</sent>
+<sent type="dialog" lang="kor" page="02a" n="12">부도ᄒᆞᆫ 일을 짓고져 ᄒᆞ며</sent>
+<sent type="dialog" lang="chi" page="02a" n="13">汝姪相吉相格。符同啓能。</sent>
+<sent type="dialog" lang="kor" page="02a" n="13">네 족하 샹길과 샹격이 계능을 부동ᄒᆞ야</sent>
+
+<sent type="dialog" lang="chi" page="02b" n="1">推戴逆禶。欲作罔測之變。</sent>
+<sent type="dialog" lang="kor" page="02b" n="1">역적 찬을 츄ᄃᆡᄒᆞ야 망측ᄒᆞᆫ 변을 짓고져 ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="02b" n="2">汝身雖在遠地。</sent>
+<sent type="dialog" lang="kor" page="02b" n="2">네 몸은 비록 먼 ᄃᆡ 이시니</sent>
+<sent type="dialog" lang="chi" page="02b" n="3">其設計謀逆。</sent>
+<sent type="dialog" lang="kor" page="02b" n="3">그 계교ᄅᆞᆯ 베프며 역적을 ᄭᅬᄒᆞᆷ은</sent>
+<sent type="dialog" lang="chi" page="02b" n="4">皆汝之所主張也。</sent>
+<sent type="dialog" lang="kor" page="02b" n="4">다 너의 쥬쟝ᄒᆞᆫ 배라</sent>
+<sent type="dialog" lang="chi" page="02b" n="5">情節綻露。一一直告。</sent>
+<sent type="dialog" lang="kor" page="02b" n="5">졍졀이 탈로ᄒᆞ여시니 일일히 직고ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="02b" n="6">述海供。</sent>
+<sent type="main" lang="kor" page="02b" n="6">슐ᄒᆡ 공ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="02b" n="7">詛呪刺客推戴等凶謀之大體。皆臣指揮。</sent>
+<sent type="dialog" lang="kor" page="02b" n="7">져주와 ᄌᆞᄀᆡᆨ과 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ 흉모의 대톄ᄂᆞᆫ 다 신의 지휘ᄒᆞᆷ이로ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="02b" n="8">至其小曲折。臣亦未能詳知。</sent>
+<sent type="dialog" lang="kor" page="02b" n="8">그 져근 곡졀은 신이 ᄯᅩᄒᆞᆫ ᄌᆞ셰히 아디 못ᄒᆞ오니</sent>
+<sent type="dialog" lang="chi" page="02b" n="9">其往復之人。卽福石得金葛無金介同得才。</sent>
+<sent type="dialog" lang="kor" page="02b" n="9">그 왕복ᄒᆞ던 사ᄅᆞᆷ은 곳 복돌이와 득쇠와 갈무쇠와 개동이와 득ᄌᆡ니 다 슐ᄒᆡ의 죵과 비뷔라</sent>
+<sent type="dialog" lang="chi" page="02b" n="10">而今年六月。得才來臣謫所時。</sent>
+<sent type="dialog" lang="kor" page="02b" n="10">올 뉵월에 득ᄌᆡ 신의 젹소에 오올 ᄯᅢ예</sent>
+<sent type="dialog" lang="chi" page="02b-03a" n="11">臣妻則書報埋凶事。</sent>
+<sent type="dialog" lang="kor" page="02b-03a" n="11">신의 안ᄒᆡᄂᆞᆫ 흉ᄒᆞᆫ 거슬 뭇ᄂᆞᆫ 일을 편지에 긔별ᄒᆞ고</sent><!--안ᄒᆡᄂᆞᆫ ^ 흉ᄒᆞᆫ-->
+<sent type="dialog" lang="chi" page="03a" n="1">臣子相範則書報募刺客入送闕中事。</sent>
+<sent type="dialog" lang="kor" page="03a" n="1">신의 아ᄃᆞᆯ 샹범은 ᄌᆞᄀᆡᆨ을 모득ᄒᆞ야 궐 즁에 드려 보내ᄂᆞᆫ 일을 편지에 긔별ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="03a" n="2">臣姪相吉。又書報啓能推戴之凶謀。</sent>
+<sent type="dialog" lang="kor" page="03a" n="2">신의 족하 샹길은 ᄯᅩ 계능의 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ 흉모ᄅᆞᆯ 편지에 긔별ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="03a" n="3">而其書以爲</sent>
+<sent type="dialog" lang="kor" page="03a" n="3">그 편지에 ᄒᆞ여시되</sent>
+<sent type="dialog" lang="chi" page="03a" n="4">啓能本多形勢。</sent>
+<sent type="dialog" lang="kor" page="03a" n="4">계능이 본 ᄃᆡ 형셰 만하</sent>
+<sent type="dialog" lang="chi" page="03a" n="5">欲爲無不爲云矣。</sent>
+<sent type="dialog" lang="kor" page="03a" n="5">ᄒᆞ고져 ᄒᆞᄂᆞᆫ 일은 못ᄒᆞᆯ 일이 업다 ᄒᆞ엿더이다</sent>
+<sent type="main" lang="chi" page="03a" n="6">遂磔述海。</sent>
+<sent type="main" lang="kor" page="03a" n="6">드듸여 슐ᄒᆡᄅᆞᆯ 능지쳐ᄉᆞᄒᆞ다</sent>
+<sent type="theme" lang="chi" page="03a" n="7">己未。宗室禶。使之自盡。</sent>
+<sent type="theme" lang="kor" page="03a" n="7">긔미에 종실찬을 ᄒᆞ여곰 ᄌᆞ딘ᄒᆞ게 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03a" n="8">初。啓能推戴禶事。發於相吉之供。</sent>
+<sent type="main" lang="kor" page="03a" n="8">처음에 계능의 찬을 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ 일이 샹길의 공ᄉᆞ에 나매</sent><!--샹길의 ^ 공ᄉᆞ에-->
+<sent type="main" lang="chi" page="03b" n="1">大臣以逆黨猶未盡究覈。</sent>
+<sent type="main" lang="kor" page="03b" n="1">대신이 ᄡᅥ ᄒᆞ되 역당을 오히려 다 구ᄒᆡᆨ디 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="03b" n="2">而禶以王室至親。名入推戴。</sent>
+<sent type="main" lang="kor" page="03b" n="2">찬이 왕실 지친으로 일홈이 츄ᄃᆡ예 드러시니</sent>
+<sent type="main" lang="chi" page="03b" n="3">其所逮問。不容晷刻遲也。</sent>
+<sent type="main" lang="kor" page="03b" n="3">그 잡아 무르미 ᄒᆞᆫ ᄯᅢᄅᆞᆯ 더듸디 못ᄒᆞ리라 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="03b" n="4">力請逮問。</sent>
+<sent type="main" lang="kor" page="03b" n="4">힘ᄡᅥ 잡아 무르믈 쳥ᄒᆞᆫ대</sent>
+<sent type="main" lang="chi" page="03b" n="5">上遽起。入小次。</sent>
+<sent type="main" lang="kor" page="03b" n="5">샹이 즉시 니르샤 쇼ᄎᆞ에 드르시고</sent>
+<sent type="main" lang="chi" page="03b" n="6">久不出御帳殿。</sent>
+<sent type="main" lang="kor" page="03b" n="6">오래 나오셔 쟝뎐에 뎐좌 아니ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="03b" n="7">大臣卿宰。屢求對不得。</sent>
+<sent type="main" lang="kor" page="03b" n="7">대신과 경ᄌᆡ들이 여러 번 입ᄃᆡᄒᆞᆷ을 구ᄒᆞ되 엇디 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="03b" n="8">於是。大臣卿宰。排闥而入。</sent>
+<sent type="main" lang="kor" page="03b" n="8">이에 대신 경ᄌᆡ들이 문을 헤티고 드러가</sent>
+<sent type="main" lang="chi" page="03b" n="9">極言事機急迫。國勢危疑。請宮城扈衛。</sent>
+<sent type="main" lang="kor" page="03b" n="9">ᄉᆞ긔 급ᄒᆞ며 국셰 위ᄐᆡᄒᆞᆷ을 다 알외고 궁셩 호위ᄒᆞᆷ을 쳥ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="03b-04a" n="10">上許之。</sent>
+<sent type="main" lang="kor" page="03b-04a" n="10">샹이 허ᄒᆞ신대</sent><!--샹이 ^ 허ᄒᆞ신대-->
+<sent type="main" lang="chi" page="04a" n="1">大臣以下。又力請逮問禶焉。</sent>
+<sent type="main" lang="kor" page="04a" n="1">대신 이해 ᄯᅩ 찬을 잡아 무르믈 힘ᄡᅥ 쳥ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="04a" n="2">上終不許。</sent>
+<sent type="main" lang="kor" page="04a" n="2">샹이 ᄆᆞᄎᆞᆷ내 허티 아니ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="04a" n="3">大臣曰。</sent>
+<sent type="main" lang="kor" page="04a" n="3">대신이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="04a" n="4">國人之所共討。</sent>
+<sent type="dialog" lang="kor" page="04a" n="4">일국 사ᄅᆞᆷ의 ᄒᆞᆫ가지로 치ᄂᆞᆫ 배니</sent>
+<sent type="dialog" lang="chi" page="04a" n="5">聖上亦不當挽止。</sent>
+<sent type="dialog" lang="kor" page="04a" n="5">셩샹이 ᄯᅩᄒᆞᆫ 맛당이 말니디 못ᄒᆞ실디라</sent>
+<sent type="dialog" lang="chi" page="04a" n="6">請亟以榻敎擧行也。</sent>
+<sent type="dialog" lang="kor" page="04a" n="6">밧비 탑젼 하교 젼교로 부르시디 아니ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="04a" n="7"></sent>
+<sent type="anno" lang="kor" page="04a" n="7">승지 탑젼에셔 바로 ᄡᅥ 내ᄂᆞᆫ 거시라 로ᄡᅥ 거ᄒᆡᆼᄒᆞᆷ을 쳥ᄒᆞᆫ대</sent>
+<sent type="dialog" lang="chi" page="04a" n="8">上不能禁。</sent>
+<sent type="dialog" lang="kor" page="04a" n="8">샹이 능히 금티 못ᄒᆞ신디라</sent>
+<sent type="dialog" lang="chi" page="04a" n="9">於是。拿囚禶。</sent>
+<sent type="dialog" lang="kor" page="04a" n="9">이에 찬을 가도왓더니</sent>
+<sent type="dialog" lang="chi" page="04a" n="10">及相吉等伏誅。</sent>
+<sent type="dialog" lang="kor" page="04a" n="10">밋 샹길 등이 복쥬ᄒᆞ매</sent>
+<sent type="dialog" lang="chi" page="04a" n="11">大臣三司宗親文蔭武百官。伏殿庭。</sent>
+<sent type="dialog" lang="kor" page="04a" n="11">대신과 삼ᄉᆞ와 종친과 문신 남ᄒᆡᆼ 호반 ᄇᆡᆨ관들이 뎐뎡에 업듸여</sent>
+<sent type="dialog" lang="chi" page="04a" n="12">日六七啓請誅禶。</sent>
+<sent type="dialog" lang="kor" page="04a" n="12">날마다 여닐곱 번 계ᄉᆞᄒᆞ야 찬을 버히믈 쳥ᄒᆞ고</sent><!--버히믈 ^ 쳥ᄒᆞ고-->
+<sent type="dialog" lang="chi" page="04b" n="1">館學儒生罷散前銜軍校醫譯各司吏胥。以至五部坊民。交章力爭。</sent>
+<sent type="dialog" lang="kor" page="04b" n="1">관ᄒᆞᆨ 션ᄌᆡ와 파산ᄒᆞᆫ 젼함들과 군문쟝교와 의원역관 각ᄉᆞ하인과 오부방민ᄭᆞ디 니르히 ᄃᆞ토아 샹소ᄒᆞ야 힘ᄡᅥ ᄃᆞ토되</sent>
+<sent type="dialog" lang="chi" page="04b" n="2">上猶不許。</sent>
+<sent type="dialog" lang="kor" page="04b" n="2">샹이 오히려 허티 아니ᄒᆞ시고</sent>
+<sent type="dialog" lang="chi" page="04b" n="3">其答箚啓有曰。</sent>
+<sent type="dialog" lang="kor" page="04b" n="3">그 차ᄌᆞ와 계ᄉᆞ에 비답ᄒᆞ여 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="04b" n="4">周公聖人也。</sent>
+<sent type="dialog" lang="kor" page="04b" n="4">쥬공은 셩인이시니</sent>
+<sent type="dialog" lang="chi" page="04b" n="5">處變行權。</sent>
+<sent type="dialog" lang="kor" page="04b" n="5">변을 당ᄒᆞ야 권도ᄅᆞᆯ ᄒᆡᆼᄒᆞ엿거니와</sent>
+<sent type="dialog" lang="chi" page="04b" n="6">無聖人之德而行聖人之權。</sent>
+<sent type="dialog" lang="kor" page="04b" n="6">셩인의 덕이 업시 셔 셩인의 권도ᄅᆞᆯ ᄒᆡᆼᄒᆞᆷ은</sent>
+<sent type="dialog" lang="chi" page="04b" n="7">亦莫之聞也。</sent>
+<sent type="dialog" lang="kor" page="04b" n="7">ᄯᅩᄒᆞᆫ 듯디 못ᄒᆞᆷ이라 ᄒᆞ시고</sent>
+<sent type="dialog" lang="chi" page="04b" n="8">又曰。</sent>
+<sent type="dialog" lang="kor" page="04b" n="8">ᄯᅩ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="04b" n="9">今日事有管蔡之跡。</sent>
+<sent type="main" lang="kor" page="04b" n="9">오ᄂᆞᆯ 일이 관채【관슉 채슉은 쥬공의 동ᄉᆡᆼ이니 은나라 무경과 ᄒᆞᆫ가지로 반ᄒᆞ야 쥬공을 해ᄒᆞ여 ᄒᆞ매 쥬공이 쳐 버히시다】의 자최 이시나</sent>
+<sent type="main" lang="chi" page="04b-05a" n="10">無管蔡之情。</sent>
+<sent type="main" lang="kor" page="04b-05a" n="10">관채의 ᄆᆞᄋᆞᆷ은 업ᄉᆞ니</sent><!--관채의 ^ ᄆᆞᄋᆞᆷ은-->
+<sent type="main" lang="chi" page="05a" n="1">而斷以管蔡之法。</sent>
+<sent type="main" lang="kor" page="05a" n="1">관채ᄅᆞᆯ 다ᄉᆞ리던 법으로 결단ᄒᆞᆷ이</sent>
+<sent type="main" lang="chi" page="05a" n="2">實有所不忍也。</sent>
+<sent type="main" lang="kor" page="05a" n="2">실노 ᄎᆞᆷ아 못ᄒᆞᄂᆞᆫ 배 잇노라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="05a" n="3">又曰。</sent>
+<sent type="main" lang="kor" page="05a" n="3">ᄯᅩ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="05a" n="4">君臣之間。貴相知心。</sent>
+<sent type="dialog" lang="kor" page="05a" n="4">군신지간은 서로 ᄆᆞᄋᆞᆷ을 알믈 귀히 너기ᄂᆞ니</sent>
+<sent type="dialog" lang="chi" page="05a" n="5">日者以經權之義。</sent>
+<sent type="dialog" lang="kor" page="05a" n="5">요ᄉᆞ이 경샹과 권도읫 의와</sent>
+<sent type="dialog" lang="chi" page="05a" n="6">情迹之分。</sent>
+<sent type="dialog" lang="kor" page="05a" n="6">ᄆᆞᄋᆞᆷ과 자최의 ᄂᆞᆫ호이므로ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="05a" n="7">爲批。</sent>
+<sent type="dialog" lang="kor" page="05a" n="7">비답을 ᄒᆞ여시니</sent>
+<sent type="dialog" lang="chi" page="05a" n="8">自以爲瞻聆所及。庶幾或悟。</sent>
+<sent type="dialog" lang="kor" page="05a" n="8">스ᄉᆞ로 ᄡᅥ ᄒᆞ되 보고 듯ᄂᆞᆫ 쟤 거의 ᄭᆡᄃᆞᄅᆞᆯᄭᅡ ᄒᆞ엿더니</sent>
+<sent type="dialog" lang="chi" page="05a" n="9">今見庭啓。</sent>
+<sent type="dialog" lang="kor" page="05a" n="9">이제 뎡쳥 계ᄉᆞᄅᆞᆯ 보니</sent>
+<sent type="dialog" lang="chi" page="05a" n="10">其所證引。卽列祖已行之事。</sent>
+<sent type="dialog" lang="kor" page="05a" n="10">그 인증ᄒᆞᆫ 배 곳 렬조에 이믜 ᄒᆡᆼᄒᆞ신 일이니</sent>
+<sent type="dialog" lang="chi" page="05a" n="11">而彼三人者。自干天誅。</sent>
+<sent type="dialog" lang="kor" page="05a" n="11">져 세 사ᄅᆞᆷ은【셰조죠에 안평대군 용과 금셩대군 유와 인조죠에 인셩군 공이니 다 역류에 간련ᄒᆞ야 죽으니라】 스ᄉᆞ로 하ᄂᆞᆯ의 버히시믈 범ᄒᆞᆷ이니</sent><!--버히시믈 ^ 범ᄒᆞᆷ이니-->
+<sent type="dialog" lang="chi" page="05b" n="1">豈兩朝之慈恩。</sent>
+<sent type="dialog" lang="kor" page="05b" n="1">엇디 두 조종 죠에 ᄉᆞ랑과 은혜 일호나미</sent>
+<sent type="dialog" lang="chi" page="05b" n="2">有一毫未盡歟。</sent>
+<sent type="dialog" lang="kor" page="05b" n="2">진ᄒᆞ시미 이시리오</sent>
+<sent type="dialog" lang="chi" page="05b" n="3">實以宗社爲重。</sent>
+<sent type="dialog" lang="kor" page="05b" n="3">실노 ᄡᅥ 종섀 즁ᄒᆞ시매</sent>
+<sent type="dialog" lang="chi" page="05b" n="4">私恩反輕故也。</sent>
+<sent type="dialog" lang="kor" page="05b" n="4">ᄉᆞᄉᆞ 은혜 도로혀 경ᄒᆞᆫ 연괴라</sent>
+<sent type="dialog" lang="chi" page="05b" n="5">今若有近似於三人者。</sent>
+<sent type="dialog" lang="kor" page="05b" n="5">이제 만일 세 사ᄅᆞᆷ의 일에 ᄀᆞ튼 쟤 이신즉</sent>
+<sent type="dialog" lang="chi" page="05b" n="6">則亦當仰述舊典。</sent>
+<sent type="dialog" lang="kor" page="05b" n="6">ᄯᅩᄒᆞᆫ 맛당히 우러러 녯 법을 닛고</sent>
+<sent type="dialog" lang="chi" page="05b" n="7">勉副群心。流涕而從之可也。</sent>
+<sent type="dialog" lang="kor" page="05b" n="7">면강ᄒᆞ야 모든 ᄆᆞᄋᆞᆷ을 마초와 류톄ᄒᆞ야 조차도 가ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="05b" n="8">流涕而從之可也。</sent>
+<sent type="dialog" lang="kor" page="05b" n="8">오열ᄒᆞ야 허ᄒᆞᆷ도 ᄯᅩᄒᆞᆫ 가ᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="05b" n="9">若是其牢拒不已者。</sent>
+<sent type="dialog" lang="kor" page="05b" n="9">이러ᄐᆞ시 굿게 막기ᄅᆞᆯ 마디 아니ᄒᆞ기ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="05b" n="10">豈無以也。</sent>
+<sent type="dialog" lang="kor" page="05b" n="10">엇디 연괴 업ᄉᆞ리오</sent>
+<sent type="dialog" lang="chi" page="05b" n="11">噫。予之情事。</sent>
+<sent type="dialog" lang="kor" page="05b" n="11">슬프다 나의 졍ᄉᆞᄅᆞᆯ 닐으고져 ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="chi" page="05b" n="12">欲諭則聲已咽。</sent>
+<sent type="dialog" lang="kor" page="05b" n="12">소ᄅᆡ 이믜 ᄆᆡ치고 ᄡᅳ고져ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="chi" page="05b-06a" n="13">欲書則淚先濕。</sent>
+<sent type="dialog" lang="kor" page="05b-06a" n="13">눈물이 몬져 저즈니</sent><!--몬져 ^ 저즈니-->
+<sent type="dialog" lang="chi" page="06a" n="1">孤露餘生。豈有如予者。</sent>
+<sent type="dialog" lang="kor" page="06a" n="1">고로ᄒᆞᆫ 여ᄉᆡᆼ이 엇디 날 ᄀᆞ튼 쟤 이시리오</sent>
+<sent type="dialog" lang="chi" page="06a" n="2">鴒原之懷。荊樹之倚。惟有庶弟三人。</sent>
+<sent type="dialog" lang="kor" page="06a" n="2">령원의 회포와 형슈의 의지ᄒᆞᆷ이 【령원 형슈ᄂᆞᆫ 형뎨에 비ᄒᆞᆫ 거시라】 오직 셔뎨 세 사ᄅᆞᆷ이 이시니</sent>
+<sent type="dialog" lang="chi" page="06a" n="3">而禛風露所祟。不幸早死。</sent>
+<sent type="dialog" lang="kor" page="06a" n="3">진은[은신군이라] ᄇᆞ람과 이슬에 병든 배 되야 블ᄒᆡᆼ이 일 죽고</sent>
+<sent type="dialog" lang="chi" page="06a" n="4">䄄年紀差長。</sent>
+<sent type="dialog" lang="kor" page="06a" n="4">인은[은언군이라] 나히 잠ᄭᅡᆫ 만흐되</sent>
+<sent type="dialog" lang="chi" page="06a" n="5">疾病常纏。</sent>
+<sent type="dialog" lang="kor" page="06a" n="5">샹ᄒᆡ 질병에 얽히이고</sent>
+<sent type="dialog" lang="chi" page="06a" n="6">唯禶幸而無恙。</sent>
+<sent type="dialog" lang="kor" page="06a" n="6">오직 찬이 다ᄒᆡᆼ이 병이 업ᄉᆞ니</sent>
+<sent type="dialog" lang="chi" page="06a" n="7">每以爲庶幾成立。</sent>
+<sent type="dialog" lang="kor" page="06a" n="7">ᄆᆞ양 ᄡᅥ ᄒᆞ되 거의 셩닙ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="06a" n="8">宗英繁衍。</sent>
+<sent type="dialog" lang="kor" page="06a" n="8">종실이 만히 브러</sent>
+<sent type="dialog" lang="chi" page="06a" n="9">使先父之子孫立我朝廷。</sent>
+<sent type="dialog" lang="kor" page="06a" n="9">션부의 ᄌᆞ손으로 ᄒᆞ여곰 내 죠뎡에 셔면</sent>
+<sent type="dialog" lang="chi" page="06a" n="10">庶報劬勞之萬一。</sent>
+<sent type="dialog" lang="kor" page="06a" n="10">거의 구로ᄒᆞ오신 은혜ᄅᆞᆯ 만분에 일이나 갑흘가 ᄒᆞ엿더니</sent>
+<sent type="dialog" lang="chi" page="06a" n="11">而凶逆作孼。</sent>
+<sent type="dialog" lang="kor" page="06a" n="11">흉역이 작얼ᄒᆞ야</sent>
+
+<sent type="dialog" lang="chi" page="06b" n="1">禶名出於推戴。</sent>
+<sent type="dialog" lang="kor" page="06b" n="1">찬의 일홈이 츄ᄃᆡ에 나니</sent>
+<sent type="dialog" lang="chi" page="06b" n="2">嗚呼。生長綺紈。蒙未知識。</sent>
+<sent type="dialog" lang="kor" page="06b" n="2">오회라 긔환에 ᄌᆞ라나 몽애ᄒᆞ야 지식이 업ᄉᆞ니</sent>
+<sent type="dialog" lang="chi" page="06b" n="3">渠豈知推戴之爲何事也。</sent>
+<sent type="dialog" lang="kor" page="06b" n="3">제 츄ᄃᆡ가 므슨 일이믈 알니오</sent>
+<sent type="dialog" lang="chi" page="06b" n="4">予之情事。求之古牒。未有倫比。</sent>
+<sent type="dialog" lang="kor" page="06b" n="4">나의 졍ᄉᆞᄂᆞᆫ 녯 ᄉᆞ긔예 구ᄒᆞ야도 비ᄒᆞ리 업슨디라</sent>
+<sent type="dialog" lang="chi" page="06b" n="5">故非不知兩朝之例。</sent>
+<sent type="dialog" lang="kor" page="06b" n="5">그런 고로 두 조종 죠 젼례ᄅᆞᆯ 아디 못ᄒᆞᆷ이 아니며</sent>
+<sent type="dialog" lang="chi" page="06b" n="6">亦非不知斷恩伸法。</sent>
+<sent type="dialog" lang="kor" page="06b" n="6">ᄯᅩᄒᆞᆫ 은혜ᄅᆞᆯ ᄭᅳᆫ코 법을 펴믈 아디 못ᄒᆞᆷ이 아니로ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="06b" n="7">而終有所不忍者。其亦慽矣。</sent>
+<sent type="dialog" lang="kor" page="06b" n="7">ᄆᆞᄎᆞᆷ내 ᄎᆞᆷ아 못ᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ 그 ᄯᅩᄒᆞᆫ 슬픈디라</sent>
+<sent type="dialog" lang="chi" page="06b" n="8">言之及此。摧痛惻傷。</sent>
+<sent type="dialog" lang="kor" page="06b" n="8">말이 이에 미ᄎᆞ매 최통ᄒᆞ고 측샹ᄒᆞ다 ᄒᆞᆷ이</sent>
+<sent type="dialog" lang="chi" page="06b" n="9">猶屬例語。更復何諭。</sent>
+<sent type="dialog" lang="kor" page="06b" n="9">오히려 녜ᄉᆞᆺ 말이니 다시 ᄯᅩ 엇디 닐으리 오 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="06b" n="10">諸臣伏閤。</sent>
+<sent type="main" lang="kor" page="06b" n="10">졔신이 합문에 업듸여</sent>
+<sent type="main" lang="chi" page="06b-07a" n="11">至或達曙。</sent>
+<sent type="main" lang="kor" page="06b-07a" n="11">밤을 새오기예 니르더니</sent><!--예 ^ 니-->
+<sent type="main" lang="chi" page="07a" n="1">及親鞫罷。</sent>
+<sent type="main" lang="kor" page="07a" n="1">밋 친국을 파ᄒᆞ매</sent>
+<sent type="main" lang="chi" page="07a" n="2">大臣攀輿迭請。</sent>
+<sent type="main" lang="kor" page="07a" n="2">대신이 옥교ᄅᆞᆯ 븟들고 ᄃᆞ토아 쳥ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="07a" n="3">上駐輿煕政堂庭。</sent>
+<sent type="main" lang="kor" page="07a" n="3">샹이 희졍당 ᄯᅳᆯ에 옥교ᄅᆞᆯ 머므로시고</sent>
+<sent type="main" lang="chi" page="07a" n="4">至不得前。</sent>
+<sent type="main" lang="kor" page="07a" n="4">압흐로 나아가디 못ᄒᆞ시기예 니른디라</sent>
+<sent type="main" lang="chi" page="07a" n="5">上旣還內。</sent>
+<sent type="main" lang="kor" page="07a" n="5">샹이 이믜 안흐로 드르시매</sent>
+<sent type="main" lang="chi" page="07a" n="6">又面諭諸臣以決不可從之意。</sent>
+<sent type="main" lang="kor" page="07a" n="6">ᄯᅩ 졔신ᄃᆞ려 결단ᄒᆞ야 좃디 못ᄒᆞᆯ ᄯᅳᆺ을 면유ᄒᆞ신대</sent>
+<sent type="main" lang="chi" page="07a" n="7">大臣請率金吾堂上。</sent>
+<sent type="main" lang="kor" page="07a" n="7">대신이 금부당샹을 거ᄂᆞ리고</sent>
+<sent type="main" lang="chi" page="07a" n="8">往金吾。</sent>
+<sent type="main" lang="kor" page="07a" n="8">금부에 가찬ᄃᆞ려 닐너</sent>
+<sent type="main" lang="chi" page="07a" n="9">諭禶令自盡。</sent>
+<sent type="main" lang="kor" page="07a" n="9">ᄒᆞ여곰 ᄌᆞ진ᄒᆞ게 ᄒᆞ믈 쳥ᄒᆞᆫ대</sent>
+<sent type="main" lang="chi" page="07a" n="10">上又不許。</sent>
+<sent type="main" lang="kor" page="07a" n="10">샹이 ᄯᅩ 허티 아니ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="07a" n="11">大臣請不待敎而往。</sent>
+<sent type="main" lang="kor" page="07a" n="11">대신이 하교ᄅᆞᆯ 기ᄃᆞ리디 아니ᄒᆞ고 가믈 알외고</sent>
+<sent type="main" lang="chi" page="07a" n="12">遂直至金吾。</sent>
+<sent type="main" lang="kor" page="07a" n="12">드듸여 바로 금부에 가</sent>
+<sent type="main" lang="chi" page="07a" n="13">跪禶于庭曰。</sent>
+<sent type="main" lang="kor" page="07a" n="13">찬을 ᄯᅳᆯ에 ᄭᅮᆯ니고 닐너 ᄀᆞᆯ오ᄃᆡ</sent><!--ᄯᅳᆯ에 ^ ᄭᅮᆯ니고-->
+<sent type="dialog" lang="chi" page="07b" n="1">汝爲逆徒所推戴。</sent>
+<sent type="dialog" lang="kor" page="07b" n="1">네 역적 무리의 츄ᄃᆡᄒᆞᆫ 배 되여시니</sent>
+<sent type="dialog" lang="chi" page="07b" n="2">萬無一生。</sent>
+<sent type="dialog" lang="kor" page="07b" n="2">만분에 일도 사디 못ᄒᆞᆯ디라</sent>
+<sent type="dialog" lang="chi" page="07b" n="3">而上雖不忍置汝于死。</sent>
+<sent type="dialog" lang="kor" page="07b" n="3">샹이 비록 ᄎᆞᆷ아 너ᄅᆞᆯ 죽ᄂᆞᆫ 듸 두디 못ᄒᆞ시나</sent>
+<sent type="dialog" lang="chi" page="07b" n="4">汝若有臣節。</sent>
+<sent type="dialog" lang="kor" page="07b" n="4">네 만일 신분이 이시면</sent>
+<sent type="dialog" lang="chi" page="07b" n="5">寧可一日活也。</sent>
+<sent type="dialog" lang="kor" page="07b" n="5">엇디 가히 ᄒᆞᆯ 닌들 살니오</sent>
+<sent type="main" lang="chi" page="07b" n="6">禶拒不從。</sent>
+<sent type="main" lang="kor" page="07b" n="6">찬이 항거ᄒᆞ야 좃지 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="07b" n="7">大臣復求對。</sent>
+<sent type="main" lang="kor" page="07b" n="7">대신이 다시 쳥ᄃᆡᄒᆞ야 알외되</sent>
+<sent type="dialog" lang="chi" page="07b" n="8">言卽此已無臣節矣。</sent>
+<sent type="dialog" lang="kor" page="07b" n="8">곳 이 일이 이믜 신분이 업슨디라</sent>
+<sent type="main" lang="chi" page="07b" n="9">請賜死。</sent>
+<sent type="main" lang="kor" page="07b" n="9">ᄉᆞᄉᆞᄒᆞ믈 쳥ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="07b" n="10">上猶難之。</sent>
+<sent type="main" lang="kor" page="07b" n="10">ᄉᆞ샹이 오히려 지란ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="07b" n="11">大臣請令承旨以使之自盡事榻前定奪。書出。</sent>
+<sent type="main" lang="kor" page="07b" n="11">대신이 승지로 ᄒᆞ여곰 ᄌᆞ진ᄒᆞ라 ᄒᆞᆷ을 탑젼뎡탈[졔신이 탑젼에 알왼 말을 승지가 ᄡᅥ내ᄂᆞᆫ 거시라]노 ᄡᅥ내믈 쳥ᄒᆞᆫ대</sent>
+<sent type="main" lang="chi" page="07b" n="12">上不得已頷之。</sent>
+<sent type="main" lang="kor" page="07b" n="12">샹이 마디 못ᄒᆞ샤 ᄃᆡ답은 아니ᄒᆞ시고 좃ᄂᆞᆫ ᄯᅳᆺ을 뵈시다</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">九月丁卯。洪趾海伏誅。</sent>
+<sent type="main" lang="kor" page="08a" n="1">구월 뎡묘에 홍지ᄒᆡ 복쥬ᄒᆞ다</sent>
+<sent type="theme" lang="chi" page="08a" n="2">鞫趾海。</sent>
+<sent type="theme" lang="kor" page="08a" n="2">지ᄒᆡᄅᆞᆯ 국문ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="08a" n="3">趾海不卽輸款。</sent>
+<sent type="main" lang="kor" page="08a" n="3">지ᄒᆡ 즉시 승복디 아니ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="08a" n="4">以前後罪人結案。</sent>
+<sent type="main" lang="kor" page="08a" n="4">젼후 죄인의 결안으로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="08a" n="5">讀諭趾海。而令趾海聽之。</sent>
+<sent type="main" lang="kor" page="08a" n="5">닑혀 닐니 지ᄒᆡ로 ᄒᆞ여곰 듯게 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="08a" n="6">則趾海供。</sent>
+<sent type="main" lang="kor" page="08a" n="6">지ᄒᆡ 공ᄉᆡᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="08a" n="7">刺客埋凶推戴等事。</sent>
+<sent type="dialog" lang="kor" page="08a" n="7">ᄌᆞᄀᆡᆨ과 흉ᄒᆞᆫ 거슬 무든 일과 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ 일은</sent>
+<sent type="dialog" lang="chi" page="08a" n="8">昨年十月謫北時。</sent>
+<sent type="dialog" lang="kor" page="08a" n="8">젼년 십월 븍도에 귀향 가실 ᄯᅢ예</sent>
+<sent type="dialog" lang="chi" page="08a" n="9">因相吉書而知之。</sent>
+<sent type="dialog" lang="kor" page="08a" n="9">샹길의 편지ᄅᆞᆯ 인ᄒᆞ야 아라ᄡᆞᆸ고</sent>
+<sent type="dialog" lang="chi" page="08a" n="10">今年三四月間謫島中時。</sent>
+<sent type="dialog" lang="kor" page="08a" n="10">올 삼ᄉᆞ월간 도즁에 귀향 가실 ᄯᅢ</sent>
+<sent type="dialog" lang="chi" page="08a" n="11">又因相吉書而知之。</sent>
+<sent type="dialog" lang="kor" page="08a" n="11">ᄯᅩ 샹길의 편지ᄅᆞᆯ 인ᄒᆞ야 아라ᄡᆞ오니</sent>
+<sent type="dialog" lang="chi" page="08a" n="12">今年傳書者。</sent>
+<sent type="dialog" lang="kor" page="08a" n="12">올ᄒᆡ 편지 젼ᄒᆞᆫ 쟈ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="08a-08b" n="13">臣奴之居在全州良丁浦險金其名也。</sent>
+<sent type="dialog" lang="kor" page="08a-08b" n="13">신의 죵 젼ᄌᆔ 량뎡개셔 사ᄂᆞᆫ 험쇠오</sent><!--량뎡개셔 ^ 사ᄂᆞᆫ-->
+<sent type="dialog" lang="chi" page="08b" n="1">昨冬傳書者。</sent>
+<sent type="dialog" lang="kor" page="08b" n="1">젼년 겨ᄋᆞᆯ 편지 젼ᄒᆞᆫ 자ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="08b" n="2">穩城官隷也。</sent>
+<sent type="dialog" lang="kor" page="08b" n="2">온셩관 하인이올소이다</sent>
+<sent type="main" lang="chi" page="08b" n="3">結案正法。</sent>
+<sent type="main" lang="kor" page="08b" n="3">결안ᄒᆞ야 졍법ᄒᆞ다</sent>
+<sent type="theme" lang="chi" page="08b" n="4">庚午。洪纘海伏誅。</sent>
+<sent type="theme" lang="kor" page="08b" n="4">경오에 홍찬ᄒᆡ 복쥬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08b" n="5">鞫纘海。</sent>
+<sent type="main" lang="kor" page="08b" n="5">찬ᄒᆡᄅᆞᆯ 국문ᄒᆞ니 </sent>
+<sent type="main" lang="chi" page="08b" n="6">纘海供。</sent>
+<sent type="main" lang="kor" page="08b" n="6">찬ᄒᆡ 공ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="08b" n="7">昨年八月在黑山島時。</sent>
+<sent type="dialog" lang="kor" page="08b" n="7">젼년 팔월 흑산도 이실 ᄯᅢ예</sent>
+<sent type="dialog" lang="chi" page="08b" n="8">臣之婢夫卜龍。持衣服書札而來。</sent>
+<sent type="dialog" lang="kor" page="08b" n="8">비부 복룡이 의복과 편지ᄅᆞᆯ 가지고 왓ᄉᆞᆸᄂᆞᆫ듸</sent>
+<sent type="dialog" lang="chi" page="08b" n="9">其中有相吉書。</sent>
+<sent type="dialog" lang="kor" page="08b" n="9">그 가온대 샹길의 편지 잇ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="08b" n="10">臣當結案。</sent>
+<sent type="dialog" lang="kor" page="08b" n="10">신이 맛당히 결안ᄒᆞ오려니와</sent>
+<sent type="dialog" lang="chi" page="08b" n="11">然結案甚重。</sent>
+<sent type="dialog" lang="kor" page="08b" n="11">결안이 심히 즁난ᄒᆞᆫ 거시오니</sent>
+<sent type="dialog" lang="chi" page="08b" n="12">臣當從頭至尾。</sent>
+<sent type="dialog" lang="kor" page="08b" n="12">신이 맛당히 죵두지미히 귀귀ᄯᆞ라</sent>
+<sent type="dialog" lang="chi" page="08b" n="13">逐句口呼也。</sent>
+<sent type="dialog" lang="kor" page="08b" n="13">입으로 브르오리이다 ᄒᆞ고</sent>
+
+<sent type="main" lang="chi" page="09a" n="1">仍結案曰。</sent>
+<sent type="main" lang="kor" page="09a" n="1">인ᄒᆞ야 결안ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="09a" n="2">臣家自昨年。爲亂逆之家。</sent>
+<sent type="dialog" lang="kor" page="09a" n="2">신의 집이 젼년브터 역적의 집이 되야</sent>
+<sent type="dialog" lang="chi" page="09a" n="3">常懷怨懟之心。</sent>
+<sent type="dialog" lang="kor" page="09a" n="3">샹ᄒᆡ 원망ᄒᆞ고 ᄒᆞᆫᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ을 픔엇ᄉᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="09a" n="4">昨年八月。臣姪相吉。</sent>
+<sent type="dialog" lang="kor" page="09a" n="4">젼년 팔월에 신의 족하 샹길이</sent>
+<sent type="dialog" lang="chi" page="09a" n="5">寄書臣之謫所。</sent>
+<sent type="dialog" lang="kor" page="09a" n="5">신의 젹소에 편지ᄅᆞᆯ 부쳐</sent>
+<sent type="dialog" lang="chi" page="09a" n="6">盡報凶謀。</sent>
+<sent type="dialog" lang="kor" page="09a" n="6">흉모ᄅᆞᆯ 다 긔별ᄒᆞᄋᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="09a" n="7">一則挾劍。</sent>
+<sent type="dialog" lang="kor" page="09a" n="7">ᄒᆞ나흔 비슈ᄭᅵᄂᆞᆫ 계ᄀᆈ오</sent>
+<sent type="dialog" lang="chi" page="09a" n="8">二則埋凶。</sent>
+<sent type="dialog" lang="kor" page="09a" n="8">둘ᄧᅢᄂᆞᆫ 흉ᄒᆞᆫ 거ᄉᆞᆯ 뭇ᄂᆞᆫ 계ᄀᆈ오</sent>
+<sent type="dialog" lang="chi" page="09a" n="9">三則推戴。</sent>
+<sent type="dialog" lang="kor" page="09a" n="9">세ᄧᅢᄂᆞᆫ 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ 계ᄀᆈ오니</sent>
+<sent type="dialog" lang="chi" page="09a" n="10">而臣一一往復指揮也。</sent>
+<sent type="dialog" lang="kor" page="09a" n="10">신이 일일히 왕복ᄒᆞ야 지휘ᄒᆞ엿ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="09a" n="11">遂正法。</sent>
+<sent type="main" lang="kor" page="09a" n="11">드듸여 졍법ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="09a" n="12">鞫洪啓能。</sent>
+<sent type="main" lang="kor" page="09a" n="12">홍계능을 국문ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="09a" n="13">啓能承款徑斃。</sent>
+<sent type="main" lang="kor" page="09a" n="13">계능이 승복ᄒᆞ고 경폐ᄒᆞ다</sent>
+
+<sent type="main" lang="chi" page="09b" n="1">鞫啓能。問。</sent>
+<sent type="main" lang="kor" page="09b" n="1">계능을 국문ᄒᆞᆯ ᄉᆡ 뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="09b" n="2">汝假托虛名。</sent>
+<sent type="dialog" lang="kor" page="09b" n="2">네 거즛 헛 일홈을 의탁ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="09b" n="3">身居近郊。</sent>
+<sent type="dialog" lang="kor" page="09b" n="3">몸이 갓가온 교외예 이셔</sent>
+<sent type="dialog" lang="chi" page="09b" n="4">作爲凶徒窩主。</sent>
+<sent type="dialog" lang="kor" page="09b" n="4">흉ᄒᆞᆫ 무리의 와ᄌᆔ 되야</sent>
+<sent type="dialog" lang="chi" page="09b" n="5">大小言議。無不主張指揮。</sent>
+<sent type="dialog" lang="kor" page="09b" n="5">대쇼의논을 쥬쟝ᄒᆞ야 지휘 아니ᄒᆞ미 업서</sent>
+<sent type="dialog" lang="chi" page="09b" n="6">而甚至於銓注用捨之際。亦無不參涉。</sent>
+<sent type="dialog" lang="kor" page="09b" n="6">벼ᄉᆞᆯ 용샤ᄒᆞᄂᆞᆫ ᄃᆡ 니르히 참셥디 아니ᄒᆞ미 업고</sent>
+<sent type="dialog" lang="chi" page="09b" n="7">慫慂恒簡輩大北之說追崇之論。</sent>
+<sent type="dialog" lang="kor" page="09b" n="7">ᄒᆞᆼ렬 샹간의 무리ᄅᆞᆯ 대북의 말과 츄슝ᄒᆞᄂᆞᆫ 의논[젼편에 잇다]으로 부쵹ᄒᆞ여</sent>
+<sent type="dialog" lang="chi" page="09b" n="8">疑動一世。</sent>
+<sent type="dialog" lang="kor" page="09b" n="8">일셰ᄅᆞᆯ 의심ᄒᆞ고 움즉이게 ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="09b" n="9">至有他日國洞之世入相之言。</sent>
+<sent type="dialog" lang="kor" page="09b" n="9">타일 국동시졀에 드러와 졍승ᄒᆞ려 ᄒᆞᆫ단 말ᄭᆞ지 이시니</sent>
+<sent type="dialog" lang="chi" page="09b" n="10">而國家自在銅闈之時。</sent>
+<sent type="dialog" lang="kor" page="09b" n="10">국개 동궁에 이실 ᄯᅢ로브터</sent>
+<sent type="dialog" lang="chi" page="09b" n="11">一扇一魚之頒。如或未盡。</sent>
+<sent type="dialog" lang="kor" page="09b" n="11">ᄒᆞᆫ 브채와 ᄒᆞᆫ 고기의 반ᄉᆞᄒᆞᆷ이 혹 미진ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="chi" page="09b" n="12">則厚麟諸賊藉重汝。</sent>
+<sent type="dialog" lang="kor" page="09b" n="12">후겸 린한 모든 역적이 너ᄅᆞᆯ 쟈즁ᄒᆞ야</sent><!--후겸 ^ 린한-->
+<sent type="dialog" lang="chi" page="10a" n="1">恐赫脅逼。無所不至。</sent>
+<sent type="dialog" lang="kor" page="10a" n="1">저히고 헙박ᄒᆞ야 니르디 아닌 배 업순디라</sent>
+<sent type="dialog" lang="chi" page="10a" n="2">及今義理大定。</sent>
+<sent type="dialog" lang="kor" page="10a" n="2">밋 이제 의리 크게 뎡ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="10a" n="3">賊黨鋤治之時。</sent>
+<sent type="dialog" lang="kor" page="10a" n="3">역적의 무리ᄅᆞᆯ 서치ᄒᆞᄂᆞᆫ ᄯᅢ예</sent>
+<sent type="dialog" lang="chi" page="10a" n="4">如汝之爲賊黨巨魁者。</sent>
+<sent type="dialog" lang="kor" page="10a" n="4">너ᄀᆞᄐᆞᆫ 역적의 무리의 큰 괴슈 된 쟤</sent>
+<sent type="dialog" lang="chi" page="10a" n="5">尙逭王章。</sent>
+<sent type="dialog" lang="kor" page="10a" n="5">오히려 왕법을 도망ᄒᆞ여시니</sent>
+<sent type="dialog" lang="chi" page="10a" n="6">已是失刑。</sent>
+<sent type="dialog" lang="kor" page="10a" n="6">이믜 이 형법을 일흐미여ᄂᆞᆯ</sent>
+<sent type="dialog" lang="chi" page="10a" n="7">則乃敢與相吉相格閔弘燮李澤遂等諸賊。</sent>
+<sent type="dialog" lang="kor" page="10a" n="7">이예 감히 샹길과 샹격과 민홍셥과 니ᄐᆡᆨ슈 등 모든 역적으로 더브어</sent>
+<sent type="dialog" lang="chi" page="10a" n="8">綢繆密室。</sent>
+<sent type="dialog" lang="kor" page="10a" n="8">밀실에 ᄀᆞ만히 ᄭᅬᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="10a" n="9">爲計益急。</sent>
+<sent type="dialog" lang="kor" page="10a" n="9">계교ᄒᆞᆷ이 더옥 급ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="10a" n="10">至以太甲桐宮之說。癸亥反正之擧。</sent>
+<sent type="dialog" lang="kor" page="10a" n="10">태갑 동궁의 말과 계ᄒᆡ 반졍의 일노ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="10a" n="11">詬天罵日。無所不至。</sent>
+<sent type="dialog" lang="kor" page="10a" n="11">하ᄂᆞᆯ을 욕ᄒᆞ고 날을 ᄭᅮ지저 니르디 아닐 배 업고</sent>
+<sent type="dialog" lang="chi" page="10a-10b" n="12">乃有推戴三王孫</sent>
+<sent type="dialog" lang="kor" page="10a-10b" n="12">이예 삼왕손을 츄ᄃᆡᄒᆞ야</sent><!--이예 ^ 삼왕손을-->
+<sent type="dialog" lang="chi" page="10b" n="1">及將任藩閫排布等言。</sent>
+<sent type="dialog" lang="kor" page="10b" n="1">밋 쟝슈와 번임과 곤슈들을 ᄇᆡ포ᄒᆞᆯ 말이 이신즉</sent>
+<sent type="dialog" lang="chi" page="10b" n="2">則孝任之締結妖巫。</sent>
+<sent type="dialog" lang="kor" page="10b" n="2">효임의 요괴로은 무당을 톄결ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="10b" n="3">埋凶射天者。</sent>
+<sent type="dialog" lang="kor" page="10b" n="3">흉ᄒᆞᆫ 거슬 뭇고 하ᄂᆞᆯ을 ᄡᅩ랴 ᄒᆞᄂᆞᆫ 쟤</sent>
+<sent type="dialog" lang="chi" page="10b" n="4">亦由汝之推戴逆禶也。</sent>
+<sent type="dialog" lang="kor" page="10b" n="4">ᄯᅩᄒᆞᆫ 너의 역적 찬을 츄ᄃᆡᄒᆞ려 ᄒᆞ므로 말ᄆᆡ암고</sent>
+<sent type="dialog" lang="chi" page="10b" n="5">範吉輩之潛引刺客。</sent>
+<sent type="dialog" lang="kor" page="10b" n="5">샹범 샹길의 무리 ᄀᆞ만히 ᄌᆞᄀᆡᆨ을 인ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="10b" n="6">懷刃入闕者。</sent>
+<sent type="dialog" lang="kor" page="10b" n="6">칼을 픔고 대궐 드러온 쟤</sent>
+<sent type="dialog" lang="chi" page="10b" n="7">亦由汝之推戴逆禶也。</sent>
+<sent type="dialog" lang="kor" page="10b" n="7">ᄯᅩᄒᆞᆫ 너의 역적 찬을 츄ᄃᆡᄒᆞ려 ᄒᆞ므로 말ᄆᆡ암아시니</sent>
+<sent type="dialog" lang="chi" page="10b" n="8">諸賊之千罪萬惡。</sent>
+<sent type="dialog" lang="kor" page="10b" n="8">모든 역적의 쳔 가지 죄와 만 가지 흉악ᄒᆞᆫ 거시</sent>
+<sent type="dialog" lang="chi" page="10b" n="9">專由推戴之密謀。</sent>
+<sent type="dialog" lang="kor" page="10b" n="9">젼혀 츄ᄃᆡᄒᆞᄂᆞᆫ ᄀᆞ만ᄒᆞᆫ ᄭᅬ로 말ᄆᆡ암아</sent>
+<sent type="dialog" lang="chi" page="10b" n="10">而爲其向後事也。斯速遲晩。</sent>
+<sent type="dialog" lang="kor" page="10b" n="10">그 후 일을 ᄒᆞ려 ᄒᆞᆷ이니 ᄲᆞᆯ니 지만ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="10b-11a" n="11">啓能供。</sent>
+<sent type="main" lang="kor" page="10b-11a" n="11">계능이 공ᄉᆞᄒᆞ되</sent><!--계능이 ^ 공ᄉᆞᄒᆞ되-->
+<sent type="dialog" lang="chi" page="11a" n="1">問目全不近似矣。</sent>
+<sent type="dialog" lang="kor" page="11a" n="1">문목이 젼혀 근ᄉᆞ티 아니ᄒᆞ와이다</sent>
+<sent type="main" lang="chi" page="11a" n="2">問。</sent>
+<sent type="main" lang="kor" page="11a" n="2">뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="11a" n="3">傳敎問目。汝敢以不近似之說。</sent>
+<sent type="dialog" lang="kor" page="11a" n="3">젼교ᄒᆞᆫ 문목을 네 감히 근ᄉᆞ티 아니ᄒᆞ단 말노</sent>
+<sent type="dialog" lang="chi" page="11a" n="4">勃慢爲對乎。</sent>
+<sent type="dialog" lang="kor" page="11a" n="4">ᄇᆞᆯ만히 ᄃᆡ답ᄒᆞᆯ가 시브냐</sent>
+<sent type="main" lang="chi" page="11a" n="5">供。</sent>
+<sent type="main" lang="kor" page="11a" n="5">공ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="11a" n="6">相吉昨年下鄕時。果來見矣。</sent>
+<sent type="dialog" lang="kor" page="11a" n="6">샹길이 젼년 싀골 갈 ᄯᅢ예 과연 와 보왓ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="11a" n="7">雖使優爲逆謀。</sent>
+<sent type="dialog" lang="kor" page="11a" n="7">셜ᄉᆞ 넉넉히 역적질ᄒᆞᆯ ᄭᅬᄅᆞᆯ ᄒᆞ엿다 ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="11a" n="8">不少之人。豈可遲晩乎。</sent>
+<sent type="dialog" lang="kor" page="11a" n="8">졈디 아니ᄒᆞᆫ 거시 엇디 가히 지만ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="11a" n="9">問。</sent>
+<sent type="main" lang="kor" page="11a" n="9">뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="11a" n="10">汝敢終始勃慢乎。</sent>
+<sent type="dialog" lang="kor" page="11a" n="10">네 감히 죵시 ᄇᆞᆯ만히 굴ᄭᅡ 시브냐</sent>
+<sent type="main" lang="chi" page="11a" n="11">供。</sent>
+<sent type="main" lang="kor" page="11a" n="11">공ᄌᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="11a" n="12">何不速出斬之乎。</sent>
+<sent type="dialog" lang="kor" page="11a" n="12">엇디 밧비 내여 버히디 아니ᄒᆞᄂᆞ니잇가</sent>
+<sent type="main" lang="chi" page="11a" n="13">問。</sent>
+<sent type="main" lang="kor" page="11a" n="13">뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="11a" n="14">卽此一語。乃是不道之言也。</sent>
+<sent type="dialog" lang="kor" page="11a" n="14">이 ᄒᆞᆫ 말이 곳 부도엣 말이로다</sent>
+<sent type="main" lang="chi" page="11a" n="15">供。</sent>
+<sent type="main" lang="kor" page="11a" n="15">공ᄉᆞᄒᆞ되</sent>
+<sent type="dialog" lang="chi" page="11a-11b" n="16">太甲桐宮之說。</sent>
+<sent type="dialog" lang="kor" page="11a-11b" n="16">태갑 동궁 말은</sent><!--동궁 ^ 말은-->
+<sent type="dialog" lang="chi" page="11b" n="1">果因尙書文義言之也。</sent>
+<sent type="dialog" lang="kor" page="11b" n="1">과연 샹셔문의ᄅᆞᆯ 인ᄒᆞ야 ᄒᆞ엿ᄉᆞᆸᄂᆞ니이다</sent>
+<sent type="main" lang="chi" page="11b" n="2">未及結案徑斃。</sent>
+<sent type="main" lang="kor" page="11b" n="2">미처 결안티 못ᄒᆞ야 즈레 죽다</sent>
+<sent type="main" lang="chi" page="11b" n="3">臣等謹按。</sent>
+<sent type="main" lang="kor" page="11b" n="3">신 등이 삼가 안ᄒᆞ오니</sent>
+<sent type="main" lang="chi" page="11b" n="4">亂臣賊子。從古何限。</sent>
+<sent type="main" lang="kor" page="11b" n="4">란신적ᄌᆡ 녜브터 엇디 ᄒᆞᆫ이 이시리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="11b" n="5">而未有若今玆之逆者也。</sent>
+<sent type="main" lang="kor" page="11b" n="5">이번 역적과 ᄀᆞ튼 쟤 잇디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="11b" n="6">大凡亂逆之變。常起於戚里者。</sent>
+<sent type="main" lang="kor" page="11b" n="6">대범 란역의 변이 ᄆᆞ양 쳑리에셔 니러나ᄂᆞᆫ 쟈ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="11b" n="7">以其地邇。易逼上。</sent>
+<sent type="main" lang="kor" page="11b" n="7">그디 쳬 갓가와 님군ᄭᅴ 핍ᄒᆞ기 쉽고</sent>
+<sent type="main" lang="chi" page="11b" n="8">權重。易傾世也。</sent>
+<sent type="main" lang="kor" page="11b" n="8">권셰 무거워 셰샹을 기우리기 쉬오므로ᄡᅦ라</sent>
+<sent type="main" lang="chi" page="11b" n="9">夫以麟漢厚謙之地處權勢。</sent>
+<sent type="main" lang="kor" page="11b" n="9">무릇 린한 후겸의 디쳐 귄셰로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="11b" n="10">其眼無君上。固已久矣。</sent>
+<sent type="main" lang="kor" page="11b" n="10">그 눈에 님군이 업선디 진실노 이믜 오랜디라</sent>
+<sent type="main" lang="chi" page="11b-12a" n="11">況當我聖上養德春宮之日。</sent>
+<sent type="main" lang="kor" page="11b-12a" n="11">ᄒᆞ믈며 우리 셩샹이 츈둥에 양덕ᄒᆞ오신 날을 당ᄒᆞ야</sent><!--우리 ^ 셩샹이-->
+<sent type="main" lang="chi" page="12a" n="1">天地之公無私覆。</sent>
+<sent type="main" lang="kor" page="12a" n="1">텬디의 공번되시미 ᄉᆞᄉᆞ로이 덥흠이 업ᄌᆞ오시니</sent>
+<sent type="main" lang="chi" page="12a" n="2">已足以落膽。</sent>
+<sent type="main" lang="kor" page="12a" n="2">이믜 죡히 담이 ᄯᅥ러지고</sent>
+<sent type="main" lang="chi" page="12a" n="3">日月之明無遺燭。</sent>
+<sent type="main" lang="kor" page="12a" n="3">일월의 ᄇᆞᆰ으시미 비최디 못ᄒᆞᆷ이 업ᄌᆞ오시니</sent>
+<sent type="main" lang="chi" page="12a" n="4">又無所逃形。</sent>
+<sent type="main" lang="kor" page="12a" n="4">ᄯᅩ 형상을 도망ᄒᆞᆯ 배 업슨즉</sent>
+<sent type="main" lang="chi" page="12a" n="5">則始而角立。終焉仇視。</sent>
+<sent type="main" lang="kor" page="12a" n="5">처음은 각립ᄒᆞ고 ᄆᆞᄎᆞᆷ내 원슈 쳐로 보와</sent>
+<sent type="main" lang="chi" page="12a" n="6">表裏交煽。</sent>
+<sent type="main" lang="kor" page="12a" n="6">밧과 안흐로 서로 션동ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="12a" n="7">無變不有。</sent>
+<sent type="main" lang="kor" page="12a" n="7">변괴 잇디 아니ᄒᆞᆷ이 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="12a" n="8">蓋自在儲以至 代聽。</sent>
+<sent type="main" lang="kor" page="12a" n="8">대ᄀᆡ 져위예 겨오실 ᄯᅢ로브터 텽졍ᄒᆞ오시기예</sent>
+<sent type="main" lang="chi" page="12a" n="9">所以震撼危動者萬方。</sent>
+<sent type="main" lang="kor" page="12a" n="9">니르히 ᄡᅥ 흔들며 위동ᄒᆞᄂᆞᆫ 밧 쟤 만방으로 ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="12a-12b" n="10">而百神攸衛。繼明中天。</sent>
+<sent type="main" lang="kor" page="12a-12b" n="10">ᄇᆡᆨ신이 호위ᄒᆞᄂᆞᆫ 바에 니어 ᄇᆞᆰ으시미 즁텬ᄒᆞ오신즉</sent><!--호위ᄒᆞᄂᆞᆫ ^ 바에-->
+<sent type="main" lang="chi" page="12b" n="1">則彼其血黨死友。又欲直行射天之事。</sent>
+<sent type="main" lang="kor" page="12b" n="1">그 혈당과 ᄉᆞ위 ᄯᅩ바로 하ᄂᆞᆯ을 ᄡᅩᄂᆞᆫ 일을 ᄒᆡᆼᄒᆞ고져 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="12b" n="2">於是乎。相範募刺客而入闕。</sent>
+<sent type="main" lang="kor" page="12b" n="2">이에 샹범은 ᄌᆞᄀᆡᆨ을 모득ᄒᆞ야 대궐 드러오고</sent>
+<sent type="main" lang="chi" page="12b" n="3">孝任挾妖巫而埋凶。</sent>
+<sent type="main" lang="kor" page="12b" n="3">효임은 요괴로온 무당을 ᄭᅧ 흉ᄒᆞᆫ 거슬 뭇고</sent>
+<sent type="main" lang="chi" page="12b" n="4">啓能則又與信履吉格弘燮澤遂輩。</sent>
+<sent type="main" lang="kor" page="12b" n="4">계능은 ᄯᅩ 신ᄒᆡ 니ᄒᆡ 샹길 샹격 홍셥 ᄐᆡᆨ슈의 무리로 더브러</sent>
+<sent type="main" lang="chi" page="12b" n="5">謀爲推戴纂奪之擧。</sent>
+<sent type="main" lang="kor" page="12b" n="5">츄ᄃᆡ 찬탈ᄒᆞᄂᆞᆫ 거조ᄒᆞ기ᄅᆞᆯ ᄭᅬᄒᆞ매</sent>
+<sent type="main" lang="chi" page="12b" n="6">而樂任爲其機栝。</sent>
+<sent type="main" lang="kor" page="12b" n="6">락임이 그 긔틀이 되야</sent>
+<sent type="main" lang="chi" page="12b" n="7">一心讎國。</sent>
+<sent type="main" lang="kor" page="12b" n="7">ᄒᆞᆫ ᄆᆞᄋᆞᆷ으로 나라흘 원슈로 알고</sent>
+<sent type="main" lang="chi" page="12b" n="8">三塗謀逆。</sent>
+<sent type="main" lang="kor" page="12b" n="8">세 가지 길노 역적을 ᄭᅬᄒᆞ야</sent>
+<sent type="main" lang="chi" page="12b" n="9">肘腋之變。迫在呼吸。</sent>
+<sent type="main" lang="kor" page="12b" n="9">쥬ᄋᆡᆨ에 변이 호흡에 이시니</sent>
+<sent type="main" lang="chi" page="12b" n="10">夫以啓能之視戚里爲奇貨。</sent>
+<sent type="main" lang="kor" page="12b" n="10">무릇 계능이 쳑리로 긔특ᄒᆞᆫ 보ᄇᆡᄅᆞᆯ 삼고</sent><!--계능이 ^ 쳑리로-->
+<sent type="main" lang="chi" page="13a" n="1">戚里之倚啓能爲淵藪。</sent>
+<sent type="main" lang="kor" page="13a" n="1">쳑리ᄂᆞᆫ 계능으로 못과 숩흘 삼으므로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="13a" n="2">而兩相結焉。</sent>
+<sent type="main" lang="kor" page="13a" n="2">둘히 서로 ᄆᆡ자신즉</sent>
+<sent type="main" lang="chi" page="13a" n="3">則夫何事之不可爲。</sent>
+<sent type="main" lang="kor" page="13a" n="3">무슨 일을 가히 ᄒᆞ디 못ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="13a" n="4">嚮當諸賊之竊柄也。</sent>
+<sent type="main" lang="kor" page="13a" n="4">뎌즈음ᄭᅴ 모든 역적이 권병을 도적ᄒᆞᆫ ᄯᅢᄅᆞᆯ 당ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="13a" n="5">早已鉗盡一世。</sent>
+<sent type="main" lang="kor" page="13a" n="5">이믜 왼 셰샹을 다 쟈갈 먹이고</sent>
+<sent type="main" lang="chi" page="13a" n="6">而猶或有外畏公議。</sent>
+<sent type="main" lang="kor" page="13a" n="6">오히려 혹 밧그로 공의ᄅᆞᆯ 저허ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="13a" n="7">不直入其圈套者。</sent>
+<sent type="main" lang="kor" page="13a" n="7">바로 그 권투에 드디 아니ᄒᆞᄂᆞᆫ 쟤 이신즉</sent>
+<sent type="main" lang="chi" page="13a" n="8">則借啓能之譸張文飾。</sent>
+<sent type="main" lang="kor" page="13a" n="8">계능의 거즛말과 ᄭᅮ미ᄂᆞᆫ 거슬 비러 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="13a" n="9">以籠絡而收攝之。</sent>
+<sent type="main" lang="kor" page="13a" n="9">롱락ᄒᆞ고 거두어</sent>
+<sent type="main" lang="chi" page="13a" n="10">駸駸然不覺邪說之易天下。</sent>
+<sent type="main" lang="kor" page="13a" n="10">침침히 샤셜이 텬하ᄅᆞᆯ 밧고ᄂᆞᆫ 줄을 ᄭᆡᄃᆞᆺ디 못ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="13a-13b" n="11">而賊勢遂滔天矣。</sent>
+<sent type="main" lang="kor" page="13a-13b" n="11">역적의 형셰 드듸여 하ᄂᆞᆯ에 다핫ᄂᆞᆫ디라</sent><!--드듸여 ^ 하ᄂᆞᆯ에-->
+<sent type="main" lang="chi" page="13b" n="1">大抵自厚麟至範任。</sent>
+<sent type="main" lang="kor" page="13b" n="1">대뎌 후겸 린한으로브터 샹범 효임의게 니르히 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="13b" n="2">所以爲逆者。不一其道。</sent>
+<sent type="main" lang="kor" page="13b" n="2">역적된 밧 쟤 그 길이 ᄒᆞᆫ 가지 아니라</sent>
+<sent type="main" lang="chi" page="13b" n="3">愈出愈凶。</sent>
+<sent type="main" lang="kor" page="13b" n="3">더옥 날ᄉᆞ록 더옥 흉ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="13b" n="4">而究其歸。則啓能爲之本也。</sent>
+<sent type="main" lang="kor" page="13b" n="4">그 귀ᄎᆔᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ면 계능이 근본이 되ᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="13b" n="5">啓能凶逆之謀。</sent>
+<sent type="main" lang="kor" page="13b" n="5">계능의 흉역ᄒᆞᄂᆞᆫ ᄭᅬ</sent>
+<sent type="main" lang="chi" page="13b" n="6">已狼藉於渠之宗族門徒之招。</sent>
+<sent type="main" lang="kor" page="13b" n="6">이믜 제 겨레와 뎨ᄌᆞ의 쵸ᄉᆞ의 낭쟈ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="13b" n="7">渠亦無辭可白。</sent>
+<sent type="main" lang="kor" page="13b" n="7">저도 ᄯᅩᄒᆞᆫ 가히 발명ᄒᆞᆯ 말이 업슨즉</sent>
+<sent type="main" lang="chi" page="13b" n="8">則乃敢以不近似優謀逆不少之人等說。</sent>
+<sent type="main" lang="kor" page="13b" n="8">이에 감히 근ᄉᆞ티 아니ᄒᆞ단 말과 넉넉히 모역ᄒᆞ엿단 말과 졈디 아닌 사ᄅᆞᆷ이란 말노ᄡᅥ</sent>
+<sent type="main" lang="chi" page="13b" n="9">游辭漫漶。</sent>
+<sent type="main" lang="kor" page="13b" n="9">말을 놀녀 만환ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="13b" n="10">顯有面弄之意。</sent>
+<sent type="main" lang="kor" page="13b" n="10">현연이 면롱ᄒᆞᄂᆞᆫ ᄯᅳᆺ이 잇고</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">至於速出斬之云者。</sent>
+<sent type="main" lang="kor" page="14a" n="1">밧비 내여 버히라 ᄒᆞᄂᆞᆫ 말에 니르러ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="14a" n="2">隱然用殺身樹節者之語法。</sent>
+<sent type="main" lang="kor" page="14a" n="2">은연히 몸을 죽여 졀의ᄅᆞᆯ 셰우ᄂᆞᆫ 쟈의 어법을 ᄡᅳ니</sent>
+<sent type="main" lang="chi" page="14a" n="3">其滿腹拂鬱。</sent>
+<sent type="main" lang="kor" page="14a" n="3">그 ᄇᆡ예 ᄀᆞ득히 불울ᄒᆞᆫ 거시</sent>
+<sent type="main" lang="chi" page="14a" n="4">都是怨懟。</sent>
+<sent type="main" lang="kor" page="14a" n="4">도모디 이 원망ᄒᆞ고 ᄒᆞᆫᄒᆞᄂᆞᆫ 거시며</sent>
+<sent type="main" lang="chi" page="14a" n="5">信口流出。</sent>
+<sent type="main" lang="kor" page="14a" n="5">입에 절노 흘너 나ᄂᆞᆫ 거시</sent>
+<sent type="main" lang="chi" page="14a" n="6">無非不道者。卽此可見。</sent>
+<sent type="main" lang="kor" page="14a" n="6">부되 아니미 업ᄉᆞ믈 이에 가히 볼 ᄭᅥ시니</sent>
+<sent type="main" lang="chi" page="14a" n="7">不待太甲文義之吐實。</sent>
+<sent type="main" lang="kor" page="14a" n="7">태갑 문의에 의논ᄒᆞ믈 토실ᄒᆞ기ᄅᆞᆯ 기ᄃᆞ리디 아녀</sent>
+<sent type="main" lang="chi" page="14a" n="8">而知其爲劇逆也。</sent>
+<sent type="main" lang="kor" page="14a" n="8">그 흉ᄒᆞᆫ 역적인 줄을 알디라</sent>
+<sent type="main" lang="chi" page="14a" n="9">且如弘燮之陰譎凶悖。</sent>
+<sent type="main" lang="kor" page="14a" n="9">ᄯᅩ 흥셥ᄀᆞ치 음흉ᄒᆞ고 패녀ᄒᆞᆷ으로</sent>
+<sent type="main" lang="chi" page="14a" n="10">以麟漢之姻親。而爲啓能之近親。</sent>
+<sent type="main" lang="kor" page="14a" n="10">린한의 사돈으로ᄡᅥ 계능의 지친이 되고</sent>
+<sent type="main" lang="chi" page="14a-14b" n="11">澤遂之傾邪妖慝。以麟漢之甥姪。</sent>
+<sent type="main" lang="kor" page="14a-14b" n="11">ᄐᆡᆨ슈ᄀᆞ치 경샤ᄒᆞ고 요특ᄒᆞᆷ으로 린한의 ᄉᆡᆼ질노ᄡᅥ</sent><!--로 ^ 린-->
+<sent type="main" lang="chi" page="14b" n="1">而爲啓能之門徒。</sent>
+<sent type="main" lang="kor" page="14b" n="1">계능의 뎨ᄌᆡ 되어시니이다</sent>
+<sent type="main" lang="chi" page="14b" n="2">是皆爲啓能關通戚里之紹介。而綢繆醞釀。</sent>
+<sent type="main" lang="kor" page="14b" n="2">계능의 쳑리ᄅᆞᆯ 관통ᄒᆞᄂᆞᆫ 쇼개되야 얽히이며 비저내미</sent>
+<sent type="main" lang="chi" page="14b" n="3">旣歲月之積累。</sent>
+<sent type="main" lang="kor" page="14b" n="3">이믜 셰월이 오래고</sent>
+<sent type="main" lang="chi" page="14b" n="4">排布和應。又徒黨之繁殖。</sent>
+<sent type="main" lang="kor" page="14b" n="4">ᄇᆡ포ᄒᆞ고 화응ᄒᆞᆷ이 ᄯᅩ 도당이 만흔즉</sent>
+<sent type="main" lang="chi" page="14b" n="5">則其凶謀逆節。</sent>
+<sent type="main" lang="kor" page="14b" n="5">그 흉ᄒᆞᆫ ᄭᅬ와 역졀이</sent>
+<sent type="main" lang="chi" page="14b" n="6">又豈止於推戴一事之已現發者而已哉。</sent>
+<sent type="main" lang="kor" page="14b" n="6">ᄯᅩ 엇디 츄ᄃᆡᄒᆞ려 ᄒᆞᄂᆞᆫ ᄒᆞᆫ 일이 이믜 현발ᄒᆞᆫ 쟈에 그칠 ᄲᅮᆫ이리오</sent>
+<sent type="main" lang="chi" page="14b" n="7">彼相範之父子兄弟。盡是梟獍種子。</sent>
+<sent type="main" lang="kor" page="14b" n="7">뎌 샹범의 부ᄌᆞ와 형뎨ᄂᆞᆫ 다 이 효경의 ᄡᅵ라</sent>
+<sent type="main" lang="chi" page="14b" n="8">首造凶謀。至出於婦女者。</sent>
+<sent type="main" lang="kor" page="14b" n="8">몬져 흉악ᄒᆞᆫ ᄭᅬᄅᆞᆯ 지음이 부녀에셔 나기ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="14b" n="9">又是從古亂逆之家所未有也。</sent>
+<sent type="main" lang="kor" page="14b" n="9">ᄯᅩ 이 녜부터 란역의 집에도 잇ᄂᆞᆫ 배 아니오</sent>
+<sent type="main" lang="chi" page="14b-15a" n="10">至若禶。以王室至親。</sent>
+<sent type="main" lang="kor" page="14b-15a" n="10">찬에 니르러ᄂᆞᆫ 왕실 지친으로ᄡᅥ</sent>
+
+<sent type="main" lang="chi" page="15a" n="1">爲諸逆之所指擬。則元無可生之理。</sent>
+<sent type="main" lang="kor" page="15a" n="1">모든 역적의 ᄀᆞ르쳐 비긴 배 된즉 가히 살 니 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="15a" n="2">而百官萬民守闕請討。凡幾日矣。</sent>
+<sent type="main" lang="kor" page="15a" n="2">ᄇᆡᆨ관과 만민이 대궐을 직희여 토죄ᄒᆞ기ᄅᆞᆯ 쳥ᄒᆞᆷ이 여러 날이로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="15a" n="3">惟我聖上。以人倫之至。</sent>
+<sent type="main" lang="kor" page="15a" n="3">오직 우리 셩샹이 인륜의 지극ᄒᆞ시므로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="15a" n="4">不忍遽置之法。</sent>
+<sent type="main" lang="kor" page="15a" n="4">ᄎᆞᆷ아 거연히 법에 두디 못ᄒᆞ샤</sent>
+<sent type="main" lang="chi" page="15a" n="5">絲綸惻怛。有足動人。</sent>
+<sent type="main" lang="kor" page="15a" n="5">ᄉᆞ륜이 측달ᄒᆞ샤 죡히 사ᄅᆞᆷ을 감동ᄒᆞᆷ이 잇고</sent>
+<sent type="main" lang="chi" page="15a" n="6">至丙辰所下庭啓之批。</sent>
+<sent type="main" lang="kor" page="15a" n="6">병진 일에 ᄂᆞ리오신 바 졍텽 계ᄉᆞ 비답에 니르러ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="15a" n="7">滿庭臣僚。孰有不流涕者。</sent>
+<sent type="main" lang="kor" page="15a" n="7">만뎡 신ᄅᆈ 뉘 눈믈을 흘니디 아닐 쟤 이시리오</sent>
+<sent type="main" lang="chi" page="15a" n="8">及夫迫不得已然後。</sent>
+<sent type="main" lang="kor" page="15a" n="8">박브득이 ᄒᆞᆫ 연후에 미처 비로소</sent>
+<sent type="main" lang="chi" page="15a" n="9">始只許自盡之請。</sent>
+<sent type="main" lang="kor" page="15a" n="9">다만 ᄌᆞ진ᄒᆞ게 ᄒᆞ쟈 ᄒᆞᄂᆞᆫ 쳥을 허ᄒᆞ시고</sent><!--ᄒᆞᄂᆞᆫ ^ 쳥을-->
+<sent type="main" lang="chi" page="15b" n="1">而亦不用罄甸故事。</sent>
+<sent type="main" lang="kor" page="15b" n="1">ᄯᅩᄒᆞᆫ 경뎐ᄒᆞᄂᆞᆫ[경뎐은 종실 역적을 교외예 교ᄒᆞᄂᆞᆫ 법이라] 녜 일ᄅᆞᆯ ᄡᅳ디 아니ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="15b" n="2">後周公數千載。處變</sent>
+<sent type="main" lang="kor" page="15b" n="2">쥬공 후 수쳔 ᄒᆡ예 변을 쳐ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="15b" n="3">而不失其正者。</sent>
+<sent type="main" lang="kor" page="15b" n="3">그 졍도ᄅᆞᆯ 일티 아니ᄒᆞᆫ 쟤</sent>
+<sent type="main" lang="chi" page="15b" n="4">其惟我聖上乎。</sent>
+<sent type="main" lang="kor" page="15b" n="4">그 오직 우리 셩샹이신져</sent>
+<sent type="main" lang="chi" page="15b" n="5">百世之下。當有悲殿下之心者矣。</sent>
+<sent type="main" lang="kor" page="15b" n="5">ᄇᆡᆨ셰 아ᄅᆡ 맛당히 뎐하 ᄆᆞᄋᆞᆷ을 슬허ᄒᆞᆯ 쟤 이실디니</sent>
+<sent type="main" lang="chi" page="15b" n="6">猗歟盛哉。</sent>
+<sent type="main" lang="kor" page="15b" n="6">의여 셩ᄌᆡ라</sent>
+<sent type="theme" lang="chi" page="15b" n="7">二年戊戌春二月壬子。親問洪樂任。特宥釋之。</sent>
+<sent type="theme" lang="kor" page="15b" n="7">이년[무슐] 츈 이월 임ᄌᆞ에 홍락임을 친히 뭇ᄌᆞ오시고 특별이 샤ᄒᆞ야 노흐시다</sent>
+<sent type="main" lang="chi" page="15b" n="8">先是。兩司屢啓請鞫問樂任。</sent>
+<sent type="main" lang="kor" page="15b" n="8">션시에 냥ᄉᆡ 여러 번 계ᄉᆞᄒᆞ야 락임 국문ᄒᆞ기ᄅᆞᆯ 쳥ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="15b" n="9">而上久不從。</sent>
+<sent type="main" lang="kor" page="15b" n="9">샹이 오래 좃디 아니ᄒᆞ시니</sent>
+
+<sent type="main" lang="chi" page="16a" n="1">蓋不忍也。</sent>
+<sent type="main" lang="kor" page="16a" n="1">대개 ᄎᆞᆷ아 못ᄒᆞ시미라</sent>
+<sent type="main" lang="chi" page="16a" n="2">是日。敎曰。</sent>
+<sent type="main" lang="kor" page="16a" n="2">이 날 젼교ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="16a" n="3">儒臣疏中。</sent>
+<sent type="dialog" lang="kor" page="16a" n="3">옥당의 샹소 가온대</sent>
+<sent type="dialog" lang="chi" page="16a" n="4">有臺啓中輕者疑者疏釋之論。</sent>
+<sent type="dialog" lang="kor" page="16a" n="4">ᄃᆡ계 즁 가ᄇᆡ야온 쟈와 의심된 쟈ᄅᆞᆯ 소셕ᄒᆞ쟈 ᄒᆞᄂᆞᆫ 의논이 이시니</sent>
+<sent type="dialog" lang="chi" page="16a" n="5">此政合予意也。</sent>
+<sent type="dialog" lang="kor" page="16a" n="5">이 졍히 내 ᄠᅳᆺ에 합ᄒᆞᆫ디라</sent>
+<sent type="dialog" lang="chi" page="16a" n="6">若論其疑者。</sent>
+<sent type="dialog" lang="kor" page="16a" n="6">만일 그 의심된 쟈ᄅᆞᆯ 의논ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="16a" n="7">卽洪樂任首也。</sent>
+<sent type="dialog" lang="kor" page="16a" n="7">곳 홍락임이 읏듬이라</sent>
+<sent type="dialog" lang="chi" page="16a" n="8">雖曰屢出於賊招。</sent>
+<sent type="dialog" lang="kor" page="16a" n="8">비록 역적의 쵸ᄉᆞ에 여러 번 낫다 ᄒᆞ나</sent>
+<sent type="dialog" lang="chi" page="16a" n="9">而尙不一問於渠。</sent>
+<sent type="dialog" lang="kor" page="16a" n="9">오히려 ᄒᆞᆫ 번 제게 뭇디 아니ᄒᆞ야신즉</sent>
+<sent type="dialog" lang="chi" page="16a" n="10">則何以知眞贗與否。</sent>
+<sent type="dialog" lang="kor" page="16a" n="10">엇디 ᄡᅥ ᄎᆞᆷ 것과 거즛 거신 여부ᄅᆞᆯ 알니오</sent>
+<sent type="dialog" lang="chi" page="16a" n="11">是以前後諸逆。旣皆親問。</sent>
+<sent type="dialog" lang="kor" page="16a" n="11">일노ᄡᅥ 젼후 모든 역적을 이믜 다 친히 뭇고</sent>
+<sent type="dialog" lang="chi" page="16a" n="12">又捧結案後用法者。</sent>
+<sent type="dialog" lang="kor" page="16a" n="12">ᄯᅩ 결안을 바든 후에 법을 ᄡᅳᆫ 쟈ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="16a-16b" n="13">卽不欲使一人抱幽枉。</sent>
+<sent type="dialog" lang="kor" page="16a-16b" n="13">곳 ᄒᆞᆫ 사ᄅᆞᆷ으로 ᄒᆞ여곰 원왕ᄒᆞᆫ 거ᄉᆞᆯ 픔고</sent><!--ᄒᆞ여곰 ^ 원왕ᄒᆞᆫ-->
+<sent type="dialog" lang="chi" page="16b" n="1">一人漏王章也。</sent>
+<sent type="dialog" lang="kor" page="16b" n="1">ᄒᆞᆫ 사ᄅᆞᆷ으로 ᄒᆞ여곰 나라 법에 ᄲᅡ디디 아니케 ᄒᆞᆷ이라</sent>
+<sent type="dialog" lang="chi" page="16b" n="2">若欲分別。</sent>
+<sent type="dialog" lang="kor" page="16b" n="2">만일 분변ᄒᆞ고져 ᄒᆞᆯ딘대</sent>
+<sent type="dialog" lang="chi" page="16b" n="3">何拘小不忍也。</sent>
+<sent type="dialog" lang="kor" page="16b" n="3">엇디 젹은 ᄎᆞᆷ아 못ᄒᆞᄂᆞᆫ ᄃᆡ 걸니ᄭᅵ리오</sent>
+<sent type="dialog" lang="chi" page="16b" n="4">旣稟慈宮。</sent>
+<sent type="dialog" lang="kor" page="16b" n="4">이믜 ᄌᆞ궁ᄭᅴ 픔ᄒᆞ와시니</sent>
+<sent type="dialog" lang="chi" page="16b" n="5">洪樂任令王府卽爲拿來。</sent>
+<sent type="dialog" lang="kor" page="16b" n="5">홍락임을 왕부로 ᄒᆞ여곰 즉시 잡아오라</sent>
+<sent type="dialog" lang="chi" page="16b" n="6">拿來後。金吾以聞。</sent>
+<sent type="dialog" lang="kor" page="16b" n="6">잡아온 후에 금뷔 ᄡᅥ 알왼대</sent>
+<sent type="main" lang="chi" page="16b" n="7">上御帳殿。謂大臣曰。</sent>
+<sent type="main" lang="kor" page="16b" n="7">샹이 쟝뎐에 님어ᄒᆞ샤 대신ᄃᆞ려 닐너 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="8">今者此擧。雖出於不得已。</sent>
+<sent type="main" lang="kor" page="16b" n="8">이제 이 거죄 비록 마디 못ᄒᆞᆷ으로 나시나</sent>
+<sent type="dialog" lang="chi" page="16b" n="9">而是時惠慶宮當作何抱。</sent>
+<sent type="dialog" lang="kor" page="16b" n="9">이ᄯᅢ예 혜경궁 회푀 엇더ᄒᆞ시리오</sent>
+<sent type="dialog" lang="chi" page="16b" n="10">事之䵝昧者。不可不一問。</sent>
+<sent type="dialog" lang="kor" page="16b" n="10">일의 흐린 쟈ᄅᆞᆯ 가히 ᄒᆞᆫ 번 뭇디 아니티 못ᄒᆞᆯ ᄭᅥ시로되</sent>
+<sent type="dialog" lang="chi" page="16b" n="11">而心有所不忍。至今未果。</sent>
+<sent type="dialog" lang="kor" page="16b" n="11">ᄆᆞᄋᆞᆷ에 ᄎᆞᆷ아 못ᄒᆞᄂᆞᆫ 배 이셔 지금 못ᄒᆞ엿더니</sent><!--못ᄒᆞᄂᆞᆫ ^ 배-->
+<sent type="dialog" lang="chi" page="17a" n="1">從容思之。若不親問。</sent>
+<sent type="dialog" lang="kor" page="17a" n="1">죵용히 ᄉᆡᆼ각ᄒᆞ니 만일 친히 뭇디 아니ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="17a" n="2">則眞贗莫卞。</sent>
+<sent type="dialog" lang="kor" page="17a" n="2">ᄎᆞᆷ 것과 거즛 거ᄉᆞᆯ 분변티 못ᄒᆞᆯ ᄭᅥ시오</sent>
+<sent type="dialog" lang="chi" page="17a" n="3">眞贗莫卞。</sent>
+<sent type="dialog" lang="kor" page="17a" n="3">ᄎᆞᆷ 것과 거즛 거ᄉᆞᆯ 분변티 못ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="chi" page="17a" n="4">則常在人鬼關頭矣。</sent>
+<sent type="dialog" lang="kor" page="17a" n="4">ᄆᆞ양 인귀관두에 이실디라</sent>
+<sent type="dialog" lang="chi" page="17a" n="5">故予以此意。告于慈宮。</sent>
+<sent type="dialog" lang="kor" page="17a" n="5">그런 고로 내 이 ᄯᅳᆺ으로 ᄌᆞ궁ᄭᅴ 고ᄒᆞ온즉</sent>
+<sent type="dialog" lang="chi" page="17a" n="6">則慈宮亦以爲然。</sent>
+<sent type="dialog" lang="kor" page="17a" n="6">ᄌᆞ궁이 ᄯᅩᄒᆞᆫ 그러타 ᄒᆞ오시니</sent>
+<sent type="dialog" lang="chi" page="17a" n="7">今日之擧。良以此也。</sent>
+<sent type="dialog" lang="kor" page="17a" n="7">오ᄂᆞᆯ 거조ᄂᆞᆫ 실노 이러므로ᄡᅦ라</sent>
+<sent type="main" lang="chi" page="17a" n="8">領議政金尙喆等曰。</sent>
+<sent type="main" lang="kor" page="17a" n="8">령의졍 김샹쳘 등이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="17a" n="9">承此下敎。</sent>
+<sent type="dialog" lang="kor" page="17a" n="9">이 하교ᄅᆞᆯ 밧ᄌᆞ오니</sent>
+<sent type="dialog" lang="chi" page="17a" n="10">不覺感淚之自零也。</sent>
+<sent type="dialog" lang="kor" page="17a" n="10">감동ᄒᆞᄂᆞᆫ 눈믈이 스ᄉᆞ로 ᄯᅥ러디ᄂᆞᆫ 줄을 ᄭᆡᄃᆞᆺ디 못ᄒᆞ올소이다</sent>
+<sent type="dialog" lang="chi" page="17a" n="11">罪人之不可不一問。</sent>
+<sent type="dialog" lang="kor" page="17a" n="11">죄인을 가히 ᄒᆞᆫ 번 아니 뭇디 못ᄒᆞ믄</sent>
+
+<sent type="dialog" lang="chi" page="17b" n="1">誠如聖敎矣。</sent>
+<sent type="dialog" lang="kor" page="17b" n="1">진실노 셩교ᄀᆞᆺᄌᆞ오이다</sent>
+<sent type="main" lang="chi" page="17b" n="2">上問。</sent>
+<sent type="main" lang="kor" page="17b" n="2">샹이 뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="17b" n="3">奉朝賀亦入城胥命乎否也。</sent>
+<sent type="dialog" lang="kor" page="17b" n="3">봉죠해 ᄯᅩ한 셩에 드러와 ᄃᆡ명ᄒᆞᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="17b" n="4">都承旨洪國榮曰。</sent>
+<sent type="main" lang="kor" page="17b" n="4">도승지 홍국영이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="17b" n="5">聞都事之言。</sent>
+<sent type="dialog" lang="kor" page="17b" n="5">도ᄉᆞ의 말을 듯ᄌᆞ오니</sent>
+<sent type="dialog" lang="chi" page="17b" n="6">奉朝賀亦隨其子而馳來。</sent>
+<sent type="dialog" lang="kor" page="17b" n="6">봉죠해 ᄯᅩᄒᆞᆫ 그 아ᄃᆞᆯ을 ᄯᆞᆯ와 ᄃᆞᆯ녀오되</sent>
+<sent type="dialog" lang="chi" page="17b" n="7">未及入城云矣。</sent>
+<sent type="dialog" lang="kor" page="17b" n="7">미처 셩에 드디 못ᄒᆞ엿다 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="17b" n="8">上顧大臣曰。</sent>
+<sent type="main" lang="kor" page="17b" n="8">샹이 대신을 도라보오셔 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="17b" n="9">樂任則與麟謙諸賊。</sent>
+<sent type="dialog" lang="kor" page="17b" n="9">락임은 린한 후겸 모든 역적으로 더브러</sent>
+<sent type="dialog" lang="chi" page="17b" n="10">地處大有異焉。</sent>
+<sent type="dialog" lang="kor" page="17b" n="10">디쳬 크게 ᄃᆞ르미 이시니</sent>
+<sent type="dialog" lang="chi" page="17b" n="11">求之天理。參以人情。</sent>
+<sent type="dialog" lang="kor" page="17b" n="11">텬리에 구ᄒᆞ고 인졍으로ᄡᅥ 참쟉ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="17b" n="12">決無是理也。</sent>
+<sent type="dialog" lang="kor" page="17b" n="12">결단ᄒᆞ야 이러ᄒᆞᆯ 니 업ᄉᆞ리라</sent>
+<sent type="main" lang="chi" page="17b" n="13">尙喆等曰。</sent>
+<sent type="main" lang="kor" page="17b" n="13">샹쳘 등이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="17b" n="14">以渠地處。恐無是理。</sent>
+<sent type="dialog" lang="kor" page="17b" n="14">제 디쳐로ᄡᅥ 이러ᄒᆞᆯ 니 업슬 ᄃᆞᆺᄒᆞ오니</sent>
+
+<sent type="dialog" lang="chi" page="18a" n="1">今日親問。</sent>
+<sent type="dialog" lang="kor" page="18a" n="1">오ᄂᆞᆯ 친히 뭇ᄌᆞ오시면</sent>
+<sent type="dialog" lang="chi" page="18a" n="2">可決其眞贗也。</sent>
+<sent type="dialog" lang="kor" page="18a" n="2">가히 그 ᄎᆞᆷ이며 거즛 거시믈 결단ᄒᆞ리이다</sent>
+<sent type="main" lang="chi" page="18a" n="3">及樂任拿入。</sent>
+<sent type="main" lang="kor" page="18a" n="3">밋 락임을 나입ᄒᆞ매</sent>
+<sent type="main" lang="chi" page="18a" n="4">上揮涕曰。</sent>
+<sent type="main" lang="kor" page="18a" n="4">샹이 눈믈을 ᄲᅳ려 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="18a" n="5">此何事也。慘不忍見矣。</sent>
+<sent type="dialog" lang="kor" page="18a" n="5">이 어인 일이뇨 참연ᄒᆞ야 ᄎᆞᆷ아 보디 못ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="18a" n="6">問郞下去。先言此意也。</sent>
+<sent type="dialog" lang="kor" page="18a" n="6">문랑이 ᄂᆞ려가 몬져 이 ᄯᅳᆺ을 닐으라</sent>
+<sent type="main" lang="chi" page="18a" n="7">問郞沈豐之還奏曰。</sent>
+<sent type="main" lang="kor" page="18a" n="7">문랑 심풍지 도라와 알외여 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="18a" n="8">罪人自言。不肖無狀。</sent>
+<sent type="dialog" lang="kor" page="18a" n="8">죄인이 스ᄉᆞ로 ᄒᆞ오ᄃᆡ 블쵸 므상ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="18a" n="9">萬死無惜云矣。</sent>
+<sent type="dialog" lang="kor" page="18a" n="9">만 번 죽어 앗가옴이 업세라 ᄒᆞ더이다</sent>
+<sent type="main" lang="chi" page="18a" n="10">乃問樂任曰。</sent>
+<sent type="main" lang="kor" page="18a" n="10">이예 락임ᄃᆞ려 뭇ᄌᆞ오셔 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="18a" n="11">汝以王室舅親。家世受恩。</sent>
+<sent type="dialog" lang="kor" page="18a" n="11">네 왕실 구친[나라 외삼촌이라]으로 집이 ᄃᆡᄃᆡ로 은혜 바드미</sent>
+<sent type="dialog" lang="chi" page="18a" n="12">亦已罔極。</sent>
+<sent type="dialog" lang="kor" page="18a" n="12">ᄯᅩᄒᆞᆫ 이믜 망극ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="dialog" lang="chi" page="18a" n="13">則抑何心術。符同悖叔。</sent>
+<sent type="dialog" lang="kor" page="18a" n="13">무슨 심슐노 패악ᄒᆞᆫ 아ᄌᆞ비ᄅᆞᆯ 부동ᄒᆞ야</sent><!--무슨 ^ 심슐노-->
+<sent type="dialog" lang="chi" page="18b" n="1">嗾出妖雲。</sent>
+<sent type="dialog" lang="kor" page="18b" n="1">요괴로온 샹운을 부쵹여 내야</sent>
+<sent type="dialog" lang="chi" page="18b" n="2">至發於鞫庭之招乎。</sent>
+<sent type="dialog" lang="kor" page="18b" n="2">국텽 쵸ᄉᆞ에 나기에 니르니</sent>
+<sent type="dialog" lang="chi" page="18b" n="3">是其罪比諸他人。</sent>
+<sent type="dialog" lang="kor" page="18b" n="3">그 죄 다른 사ᄅᆞᆷ에 비기면</sent>
+<sent type="dialog" lang="chi" page="18b" n="4">尤合萬死。</sent>
+<sent type="dialog" lang="kor" page="18b" n="4">더옥 만 번 죽엄즉ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="18b" n="5">況且相吉輩窮凶極惡之凶謀。</sent>
+<sent type="dialog" lang="kor" page="18b" n="5">ᄒᆞ믈며 ᄯᅩ 샹길의 무리 궁흉극악ᄒᆞᆫ 흉ᄒᆞᆫ ᄭᅬ</sent>
+<sent type="dialog" lang="chi" page="18b" n="6">至於挾匕犯上。</sent>
+<sent type="dialog" lang="kor" page="18b" n="6">비슈ᄅᆞᆯ ᄭᅧ 우흘 범ᄒᆞ며</sent>
+<sent type="dialog" lang="chi" page="18b" n="7">謀議推戴。</sent>
+<sent type="dialog" lang="kor" page="18b" n="7">츄ᄃᆡᄒᆞ기ᄅᆞᆯ 모의ᄒᆞ기에 니르거ᄂᆞᆯ</sent>
+<sent type="dialog" lang="chi" page="18b" n="8">而汝之姓名。又出此招。</sent>
+<sent type="dialog" lang="kor" page="18b" n="8">네 셩명이 ᄯᅩ 이 쵸ᄉᆞ에 나니</sent>
+<sent type="dialog" lang="chi" page="18b" n="9">顧其罪當如何也。</sent>
+<sent type="dialog" lang="kor" page="18b" n="9">그 죄 맛당히 엇더ᄒᆞ료</sent>
+<sent type="dialog" lang="chi" page="18b" n="10">國家非不知劃卽鞫問。</sent>
+<sent type="dialog" lang="kor" page="18b" n="10">국개 즉시 국텽ᄒᆞ야 무로믈 모로미 아니로되</sent>
+<sent type="dialog" lang="chi" page="18b" n="11">而尙此隱忍者。意亦有在也。</sent>
+<sent type="dialog" lang="kor" page="18b" n="11">오히려 잇ᄯᅢᄭᆞ디 ᄎᆞᆷ기ᄂᆞᆫ ᄯᅳᆺ이 이시미오</sent>
+<sent type="dialog" lang="chi" page="18b" n="12">今於日久之後。又復具格親問者。</sent>
+<sent type="dialog" lang="kor" page="18b" n="12">이제 날이 오랜 후에 다시 법을 ᄀᆞ초와 친히 뭇ᄂᆞᆫ 것</sent>
+
+<sent type="dialog" lang="chi" page="19a" n="1">意亦有在也。</sent>
+<sent type="dialog" lang="kor" page="19a" n="1">그 ᄠᅳᆺ이 ᄯᅩᄒᆞᆫ 이시니</sent>
+<sent type="dialog" lang="chi" page="19a" n="2">其勿隱諱。從實直告。</sent>
+<sent type="dialog" lang="kor" page="19a" n="2">그 은휘티 말고 죵실ᄒᆞ야 직고ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="19a" n="3">讀諭問目訖。敎曰。</sent>
+<sent type="main" lang="kor" page="19a" n="3">문목을 닐으기ᄅᆞᆯ ᄆᆞᄎᆞ매 하교ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="19a" n="4">今日卽渠之人鬼關頭。</sent>
+<sent type="dialog" lang="kor" page="19a" n="4">오ᄂᆞᆯ은 곳 제인 귀관 뒤니 ᄒᆞ여곰</sent>
+<sent type="dialog" lang="chi" page="19a" n="5">使之收拾精神。詳細納供可也。</sent>
+<sent type="dialog" lang="kor" page="19a" n="5">졍신을 슈습ᄒᆞ야 ᄌᆞ셰히 공ᄉᆞᄅᆞᆯ 알외게 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="19a" n="6">樂任供曰。</sent>
+<sent type="main" lang="kor" page="19a" n="6">락임이 공ᄉᆞᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="19a" n="7">臣於一縷未絶之前。</sent>
+<sent type="dialog" lang="kor" page="19a" n="7">신이 일뉘 ᄭᅳᆫ티 아닌 젼에</sent>
+<sent type="dialog" lang="chi" page="19a" n="8">有此下問。</sent>
+<sent type="dialog" lang="kor" page="19a" n="8">이 하문ᄒᆞ시미 잇ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="19a" n="9">聖恩罔極。</sent>
+<sent type="dialog" lang="kor" page="19a" n="9">셩은이 망극ᄒᆞ온디라</sent>
+<sent type="dialog" lang="chi" page="19a" n="10">臣敢不罄竭以告乎。</sent>
+<sent type="dialog" lang="kor" page="19a" n="10">신이 감히 다 알외디 아니ᄒᆞ리잇가</sent>
+<sent type="dialog" lang="chi" page="19a" n="11">臣之父子。救死不贍。</sent>
+<sent type="dialog" lang="kor" page="19a" n="11">신의 부ᄌᆡ 구ᄉᆞ블셤ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="19a" n="12">朝廷凡事。初不敢與聞。</sent>
+<sent type="dialog" lang="kor" page="19a" n="12">죠뎡엣 범ᄉᆞᄅᆞᆯ 감히 참예ᄒᆞ야 듯디 못ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="19a" n="13">況臣爲人疎拙。</sent>
+<sent type="dialog" lang="kor" page="19a" n="13">ᄒᆞ믈며 신의 위인이 소졸ᄒᆞ야</sent>
+
+<sent type="dialog" lang="chi" page="19b" n="1">素無親知。</sent>
+<sent type="dialog" lang="kor" page="19b" n="1">본ᄃᆡ 친ᄒᆞ고 아ᄂᆞ니 업ᄉᆞ니</sent>
+<sent type="dialog" lang="chi" page="19b" n="2">則雲賊何以相知乎。</sent>
+<sent type="dialog" lang="kor" page="19b" n="2">샹운이ᄅᆞᆯ 엇디 서로 알니잇가마ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="19b" n="3">誠以臣之兩兄。積忤厚謙。</sent>
+<sent type="dialog" lang="kor" page="19b" n="3">진실노 신의 두 형이 후겸의게 무이여</sent>
+<sent type="dialog" lang="chi" page="19b" n="4">將成讎隙故。</sent>
+<sent type="dialog" lang="kor" page="19b" n="4">쟝ᄎᆞᆺ 원ᄉᆔ 되게 ᄒᆞ엿ᄂᆞᆫ 고로</sent>
+<sent type="dialog" lang="chi" page="19b" n="5">臣不得已往訪厚謙。</sent>
+<sent type="dialog" lang="kor" page="19b" n="5">신이 마디 못ᄒᆞ야 후겸을 ᄎᆞ자 본즉</sent>
+<sent type="dialog" lang="chi" page="19b" n="6">則雲賊在其座。</sent>
+<sent type="dialog" lang="kor" page="19b" n="6">샹운이 그 좌샹에 잇ᄂᆞᆫ디라</sent>
+<sent type="dialog" lang="chi" page="19b" n="7">與之接話。</sent>
+<sent type="dialog" lang="kor" page="19b" n="7">더브러 말ᄒᆞ엿ᄉᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="19b" n="8">自是雲賊數相來訪。</sent>
+<sent type="dialog" lang="kor" page="19b" n="8">일노브터 샹운이 ᄌᆞ조 와 ᄎᆞᆺᄉᆞᆸ고</sent>
+<sent type="dialog" lang="chi" page="19b" n="9">臣亦以雲賊之親昵厚謙故。</sent>
+<sent type="dialog" lang="kor" page="19b" n="9">신도 ᄯᅩᄒᆞᆫ 샹운이 후겸의게 친밀ᄒᆞᆷ으로ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="19b" n="10">善待之矣。</sent>
+<sent type="dialog" lang="kor" page="19b" n="10">잘 ᄃᆡ졉ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="19b" n="11">乙未科坼名後。</sent>
+<sent type="dialog" lang="kor" page="19b" n="11">을미년 과거방 난 후</sent>
+<sent type="dialog" lang="chi" page="19b" n="12">雲賊忽來見臣。</sent>
+<sent type="dialog" lang="kor" page="19b" n="12">샹운이 홀연이 신을 와 보ᄋᆞᆸ고</sent>
+<sent type="dialog" lang="chi" page="19b" n="13">而坐適有客。</sent>
+<sent type="dialog" lang="kor" page="19b" n="13">좌샹에 ᄆᆞᄎᆞᆷ 손이 잇ᄉᆞᆸ기로</sent>
+<sent type="dialog" lang="chi" page="19b" n="14">雲賊始有囁嚅狀。</sent>
+<sent type="dialog" lang="kor" page="19b" n="14">샹운이 처음에 머믓기ᄂᆞᆫ 형상이 잇ᄉᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="19b-20a" n="15">終起立窓外。</sent>
+<sent type="dialog" lang="kor" page="19b-20a" n="15">나죵에 니러나 창 밧긔 셔셔</sent><!--니러나 ^ 창-->
+<sent type="dialog" lang="chi" page="20a" n="1">出袖中一簡。招臣示之。</sent>
+<sent type="dialog" lang="kor" page="20a" n="1">ᄉᆞ매 가온대 ᄒᆞᆫ 간지ᄅᆞᆯ 내여 신을 블너 뵈오되</sent>
+<sent type="dialog" lang="chi" page="20a" n="2">滿紙辭意。</sent>
+<sent type="dialog" lang="kor" page="20a" n="2">죠희예 ᄀᆞ득ᄒᆞᆫ 말과 ᄯᅳᆺ이</sent>
+<sent type="dialog" lang="chi" page="20a" n="3">皆是鑿空黨私之說。</sent>
+<sent type="dialog" lang="kor" page="20a" n="3">다 이 헷거ᄉᆞᆯ ᄭᅮ미고 ᄉᆞᄉᆞᄅᆞᆯ 당ᄒᆞᄂᆞᆫ 말이어ᄂᆞᆯ</sent>
+<sent type="dialog" lang="chi" page="20a" n="4">臣責之曰。</sent>
+<sent type="dialog" lang="kor" page="20a" n="4">신이 ᄭᅮ지저 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="20a" n="5">以子地處。敢論人乎。</sent>
+<sent type="dialog" lang="kor" page="20a" n="5">네 디쳐로ᄡᅥ 감히 사ᄅᆞᆷ을 의논ᄒᆞ려 ᄒᆞᄂᆞ냐</sent>
+<sent type="dialog" lang="chi" page="20a" n="6">雲賊眈視臣而去。</sent>
+<sent type="dialog" lang="kor" page="20a" n="6">샹운이 신을 믈그름 보고 가ᄋᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="20a" n="7">及徐有寧之疏出。</sent>
+<sent type="dialog" lang="kor" page="20a" n="7">밋 셔유령의 샹쇠 나매</sent>
+<sent type="dialog" lang="chi" page="20a" n="8">而翔雲不復爲論人之計。</sent>
+<sent type="dialog" lang="kor" page="20a" n="8">샹운이 다시 사ᄅᆞᆷ 의논ᄒᆞᆯ 계교ᄅᆞᆯ 아니ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="20a" n="9">其後翔雲投呈凶疏。</sent>
+<sent type="dialog" lang="kor" page="20a" n="9">그 후에 샹운이 흉ᄒᆞᆫ 샹소ᄅᆞᆯ 바티고</sent>
+<sent type="dialog" lang="chi" page="20a" n="10">遂卽書送八條於臣。</sent>
+<sent type="dialog" lang="kor" page="20a" n="10">드듸여 즉시 여ᄃᆞᆲ 가지 죠건을 ᄡᅥ 신의게 보내엿ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="20a" n="11">而八條各書一二字或三四字。</sent>
+<sent type="dialog" lang="kor" page="20a-20b" n="11">여ᄃᆞᆲ 죠건에 각각 ᄒᆞᆫ두 ᄌᆞ와 혹 서너 ᄌᆞᄅᆞᆯ ᄡᅳ고</sent><!--서너 ^ ᄌᆞᄅᆞᆯ-->
+<sent type="dialog" lang="chi" page="20b" n="1">別以一紙。備書勿用外戚之說。</sent>
+<sent type="dialog" lang="kor" page="20b" n="1">별노 ᄒᆞᆫ 죠희에 외쳑 ᄡᅳ디 마ᄋᆞᆸ쇼셔 ᄒᆞᄂᆞᆫ 말을 ᄀᆞ초 ᄡᅥ시니</sent>
+<sent type="dialog" lang="chi" page="20b" n="2">似以語屬臣家而詳悉也。</sent>
+<sent type="dialog" lang="kor" page="20b" n="2">말이 신의 집에 쇽ᄒᆞᆷ으로ᄡᅥ ᄌᆞ셰히 ᄒᆞᆫ ᄃᆞᆺᄒᆞᄋᆞᆸ기예</sent>
+<sent type="dialog" lang="chi" page="20b" n="3">臣固已疑怪於心矣。</sent>
+<sent type="dialog" lang="kor" page="20b" n="3">신이 진실노 이믜 ᄆᆞᄋᆞᆷ에 의심ᄒᆞ고 괴이히 너겻ᄉᆞᆸ더니</sent>
+<sent type="dialog" lang="chi" page="20b" n="4">其後得見全本。</sent>
+<sent type="dialog" lang="kor" page="20b" n="4">그 후에 왼본을 어더 보온즉</sent>
+<sent type="dialog" lang="chi" page="20b" n="5">則雖以臣之無識。</sent>
+<sent type="dialog" lang="kor" page="20b" n="5">비록 신의 무식ᄒᆞ므로도</sent>
+<sent type="dialog" lang="chi" page="20b" n="6">亦知其爲凶慘之疏。</sent>
+<sent type="dialog" lang="kor" page="20b" n="6">ᄯᅩᄒᆞᆫ 그 흉참ᄒᆞᆫ 샹쇤 줄을 아온디라</sent>
+<sent type="dialog" lang="chi" page="20b" n="7">作書養厚。言雲賊之妖惡凶慘。</sent>
+<sent type="dialog" lang="kor" page="20b" n="7">양후의게 편지ᄒᆞ와 샹운의 요악ᄒᆞ고 흉참ᄒᆞᆷ을 닐으고</sent>
+<sent type="dialog" lang="chi" page="20b" n="8">勸其疏請拿鞫。</sent>
+<sent type="dialog" lang="kor" page="20b" n="8">그 샹소ᄒᆞ야 나 국쳥ᄒᆞ믈 권ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="20b" n="9">此事。養厚之兄象厚亦知之矣。</sent>
+<sent type="dialog" lang="kor" page="20b" n="9">이 일은 양후의 형샹후도 ᄯᅩᄒᆞᆫ 아ᄂᆞᆫ디라</sent>
+<sent type="dialog" lang="chi" page="20b" n="10">臣以翔雲書。</sent>
+<sent type="dialog" lang="kor" page="20b" n="10">신이 샹운의 편지로ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="20b-21a" n="11">欲爲他日證據之資。</sent>
+<sent type="dialog" lang="kor" page="20b-21a" n="11">다른 날 증거ᄒᆞᆯ ᄭᅥ리ᄅᆞᆯ 삼고져 ᄒᆞ 와</sent><!--날 ^ 증거ᄒᆞᆯ-->
+<sent type="dialog" lang="chi" page="21a" n="1">深藏囊中。</sent>
+<sent type="dialog" lang="kor" page="21a" n="1">주머니 가온대 깁히 ᄀᆞᆷ초와 ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="21a" n="2">以至于今。紙皆生毛。</sent>
+<sent type="dialog" lang="kor" page="21a" n="2">이제ᄭᆞ디 니르와 죠희 다 털이 낫ᄉᆞ오니</sent>
+<sent type="dialog" lang="chi" page="21a" n="3">若蒙下覽。</sent>
+<sent type="dialog" lang="kor" page="21a" n="3">만일 하람ᄒᆞᄋᆞᆸ신즉</sent>
+<sent type="dialog" lang="chi" page="21a" n="4">則可以一見決矣。</sent>
+<sent type="dialog" lang="kor" page="21a" n="4">가히 ᄒᆞᆫ 번 보ᄋᆞᆸ셔 결단ᄒᆞᄋᆞᆸ실이이다</sent>
+<sent type="main" lang="chi" page="21a" n="5">問曰。</sent>
+<sent type="main" lang="kor" page="21a" n="5">무러 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="21a" n="6">汝與象厚對質。</sent>
+<sent type="dialog" lang="kor" page="21a" n="6">네 샹후로 더브러 면질ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="21a" n="7">則能不屈乎。</sent>
+<sent type="dialog" lang="kor" page="21a" n="7">능히 굴티 아닐가 시브냐</sent>
+<sent type="main" lang="chi" page="21a" n="8">供曰。</sent>
+<sent type="main" lang="kor" page="21a" n="8">공ᄉᆞᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="21a" n="9">對質則必不屈矣。</sent>
+<sent type="dialog" lang="kor" page="21a" n="9">면질ᄒᆞ면 반ᄃᆞ시 굴티 아닐디니</sent>
+<sent type="main" lang="chi" page="21a" n="10">天日在上。豈敢一毫欺罔乎。</sent>
+<sent type="main" lang="kor" page="21a" n="10">텬일이 ᄌᆡ샹ᄒᆞ시니 엇디 감히 일회온들 긔망ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="21a" n="11">至若相吉。臣初不識其面目。</sent>
+<sent type="main" lang="kor" page="21a" n="11">샹길은 신이 본ᄃᆡ 그 면목을 모로ᄋᆞᆸ고</sent>
+<sent type="main" lang="chi" page="21a" n="12">啓能之家。亦未嘗往來。</sent>
+<sent type="main" lang="kor" page="21a" n="12">계능의 집도 ᄯᅩᄒᆞᆫ 일즉 왕ᄅᆡᄒᆞᆫ 일이 업슨즉</sent>
+<sent type="main" lang="chi" page="21a-21b" n="13">則渠輩凶謀。有何參涉之理乎。</sent>
+<sent type="main" lang="kor" page="21a-21b" n="13">저희 무리의 흉악ᄒᆞᆫ ᄭᅬᄅᆞᆯ 엇디 참셥ᄒᆞ올니 잇ᄉᆞ오리잇가</sent><!--흉악ᄒᆞᆫ ^ ᄭᅬ-->
+<sent type="main" lang="chi" page="21b" n="1">自臣叔伏法之後。</sent>
+<sent type="main" lang="kor" page="21b" n="1">신의 아ᄌᆞ비 복법ᄒᆞᆫ 후로브터</sent>
+<sent type="main" lang="chi" page="21b" n="2">凶徒輩以臣家爲廢族。</sent>
+<sent type="main" lang="kor" page="21b" n="2">흉도의 무리 신의 집으로ᄡᅥ 폐족이라 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="21b" n="3">而輒以凶慘之事。拖引臣家。</sent>
+<sent type="main" lang="kor" page="21b" n="3">믄득 흉참ᄒᆞᆫ 일노ᄡᅥ 신의 집을 ᄭᅳ어 다히오나</sent>
+<sent type="main" lang="chi" page="21b" n="4">然臣之父子。若有一毫不忠於國家。</sent>
+<sent type="main" lang="kor" page="21b" n="4">그러나 신의 부ᄌᆡ 만일 일회나 나라희 블츙ᄒᆞᆫ 일이 잇ᄉᆞ오면</sent>
+<sent type="main" lang="chi" page="21b" n="5">則萬死無惜矣。</sent>
+<sent type="main" lang="kor" page="21b" n="5">일만 번 죽어도 앗갑디 아니ᄒᆞ올 거시니</sent>
+<sent type="main" lang="chi" page="21b" n="6">以何心腸。參涉相吉之凶謀乎。</sent>
+<sent type="main" lang="kor" page="21b" n="6">무ᄉᆞᆷ 심쟝으로ᄡᅥ 샹길의 흉악ᄒᆞᆫ ᄭᅬ에 참셥ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="21b" n="7">且臣叔旣犯王章。</sent>
+<sent type="main" lang="kor" page="21b" n="7">ᄯᅩ 신의 아ᄌᆞ비 이믜 나라 법을 범ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="main" lang="chi" page="21b" n="8">雖臣父子。但中夜悲歎而已。</sent>
+<sent type="main" lang="kor" page="21b" n="8">비록 신의 부ᄌᆡ라도 다만 즁야에 비탄ᄒᆞᆯ ᄯᆞᄅᆞᆷ이오니</sent>
+<sent type="main" lang="chi" page="21b-22a" n="9">豈敢以臣叔之故。</sent>
+<sent type="main" lang="kor" page="21b-22a" n="9">엇디 감히 신의 아ᄌᆞ븨 연고로ᄡᅥ</sent><!--감히 ^ 신의-->
+<sent type="main" lang="chi" page="22a" n="1">萌怨國之心乎。</sent>
+<sent type="main" lang="kor" page="22a" n="1">나라 원망ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 ᄆᆡᆼ동ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="22a" n="2">抑臣有二大罪焉。</sent>
+<sent type="main" lang="kor" page="22a" n="2">신이 두 가지 큰 죄 잇ᄉᆞ오니</sent>
+<sent type="main" lang="chi" page="22a" n="3">一則與翔雲相親也。</sent>
+<sent type="main" lang="kor" page="22a" n="3">ᄒᆞᆫ 가지ᄂᆞᆫ 샹운으로 더브러 서로 친ᄒᆞ미오</sent>
+<sent type="main" lang="chi" page="22a" n="4">一則臣不幸爲廢族。</sent>
+<sent type="main" lang="kor" page="22a" n="4">ᄒᆞᆫ 가지ᄂᆞᆫ 신이 블ᄒᆡᆼᄒᆞ야 폐족이 되야</sent>
+<sent type="main" lang="chi" page="22a" n="5">出於逆吉之招也。</sent>
+<sent type="main" lang="kor" page="22a" n="5">역적 샹길의 쵸ᄉᆞ의 남이오니</sent>
+<sent type="main" lang="chi" page="22a" n="6">此皆臣之罪矣。</sent>
+<sent type="main" lang="kor" page="22a" n="6">이거시 다 신의 죄로소이다</sent>
+<sent type="main" lang="chi" page="22a" n="7">臣之父子。若非禽獸。</sent>
+<sent type="main" lang="kor" page="22a" n="7">신의 부ᄌᆡ 만일 금ᄉᆔ 아니온즉</sent>
+<sent type="main" lang="chi" page="22a" n="8">則乃不恃我殿下。</sent>
+<sent type="main" lang="kor" page="22a" n="8">우리 뎐하ᄅᆞᆯ 밋ᄌᆞᆸ디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="22a" n="9">而顧反與相吉弘燮輩同參凶謀乎。</sent>
+<sent type="main" lang="kor" page="22a" n="9">도로혀 샹길 홍셥의 무리로 더브러 ᄒᆞᆫ가지로 흉악ᄒᆞᆫ ᄭᅬᄅᆞᆯ 참예ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="22a" n="10">殿下天地於臣。父母於臣。</sent>
+<sent type="main" lang="kor" page="22a" n="10">뎐해 신의게 텬디ᄋᆞᆸ시고 신의게 부뫼ᄋᆞᆸ시니</sent>
+<sent type="main" lang="chi" page="22a-22b" n="11">臣至今生存。</sent>
+<sent type="main" lang="kor" page="22a-22b" n="11">신이 이제ᄭᆞ지 사라 잇ᄉᆞᆸᄂᆞᆫ 거시</sent><!--사라 ^ 잇ᄉᆞᆸᄂᆞᆫ-->
+<sent type="main" lang="chi" page="22b" n="1">皆殿下之恩。</sent>
+<sent type="main" lang="kor" page="22b" n="1">다 뎐하의 은혜온즉</sent>
+<sent type="main" lang="chi" page="22b" n="2">則今豈敢一毫欺隱乎。</sent>
+<sent type="main" lang="kor" page="22b" n="2">이제 엇디 감히 일회온들 긔은ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="22b" n="3">供畢。</sent>
+<sent type="main" lang="kor" page="22b" n="3">공ᄉᆞᄒᆞ기ᄅᆞᆯ ᄆᆞᄎᆞ매</sent>
+<sent type="main" lang="chi" page="22b" n="4">上顧尙喆等曰。</sent>
+<sent type="main" lang="kor" page="22b" n="4">샹이 샹쳘 등을 도라보와 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="22b" n="5">所供節節有條理矣。</sent>
+<sent type="dialog" lang="kor" page="22b" n="5">공ᄉᆞᄒᆞᄂᆞᆫ 배 졀졀이 됴리 이시니</sent>
+<sent type="dialog" lang="chi" page="22b" n="6">上款以生存之象厚爲證。</sent>
+<sent type="dialog" lang="kor" page="22b" n="6">웃 ᄆᆞ듸ᄂᆞᆫ 사라 잇ᄂᆞᆫ 샹후로ᄡᅥ 증인을 삼고</sent>
+<sent type="dialog" lang="chi" page="22b" n="7">下款亦皆有據。</sent>
+<sent type="dialog" lang="kor" page="22b" n="7">아랫 ᄆᆞ듸도 ᄯᅩᄒᆞᆫ 다의게 이셔</sent>
+<sent type="dialog" lang="chi" page="22b" n="8">斷無他意。</sent>
+<sent type="dialog" lang="kor" page="22b" n="8">단연히 다ᄅᆞᆫ ᄯᅳᆺ이 업스니</sent>
+<sent type="dialog" lang="chi" page="22b" n="9">今不必更問也。</sent>
+<sent type="dialog" lang="kor" page="22b" n="9">이제 다시 무ᄅᆞᆯ ᄭᅥ시 업도다</sent>
+<sent type="main" lang="chi" page="22b" n="10">尙喆等曰。</sent>
+<sent type="main" lang="kor" page="22b" n="10">샹쳘 등이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="22b" n="11">所供俱有條理。</sent>
+<sent type="dialog" lang="kor" page="22b" n="11">공ᄉᆞᄒᆞᄂᆞᆫ 배 다 됴리 잇고</sent>
+<sent type="dialog" lang="chi" page="22b" n="12">且其援引生存之象厚者。</sent>
+<sent type="dialog" lang="kor" page="22b" n="12">사라 잇ᄂᆞᆫ 샹후ᄅᆞᆯ 다히ᄂᆞᆫ 쟤</sent>
+<sent type="dialog" lang="chi" page="22b" n="13">亦足爲證左矣。</sent>
+<sent type="dialog" lang="kor" page="22b" n="13">ᄯᅩᄒᆞᆫ 죡히 증게 되리로소이다</sent>
+<sent type="main" lang="chi" page="22b-23a" n="14">上命三司諸臣進前。</sent>
+<sent type="main" lang="kor" page="22b-23a" n="14">샹이 삼ᄉᆞ 졔신을 명ᄒᆞ샤 앏희 나오시고</sent><!--앏희 ^ 나오시고-->
+<sent type="main" lang="chi" page="23a" n="1">涕泣下敎曰。</sent>
+<sent type="main" lang="kor" page="23a" n="1">톄읍ᄒᆞ시고 하교ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="23a" n="2">予以孤露餘生。所依唯慈宮。</sent>
+<sent type="dialog" lang="kor" page="23a" n="2">내 고로ᄒᆞᆫ 여ᄉᆡᆼ으로ᄡᅥ 의지ᄒᆞᄂᆞᆫ 배 오직 ᄌᆞ궁이오신듸</sent>
+<sent type="dialog" lang="chi" page="23a" n="3">而自去秋以後。慈宮飮啖全却。</sent>
+<sent type="dialog" lang="kor" page="23a" n="3">젼년 ᄀᆞᄋᆞᆯ 이후로브터 ᄌᆞ궁이 음담을 젼혀 믈니시고</sent>
+<sent type="dialog" lang="chi" page="23a" n="4">涕淚度日。</sent>
+<sent type="dialog" lang="kor" page="23a" n="4">눈믈노 날을 디내오셔</sent>
+<sent type="dialog" lang="chi" page="23a" n="5">常以不得面訣奉朝賀之生前。</sent>
+<sent type="dialog" lang="kor" page="23a" n="5">ᄆᆞ양 봉죠하의 ᄉᆡᆼ젼에 변결티 못ᄒᆞ오시므로ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="23a" n="6">爲至痛。</sent>
+<sent type="dialog" lang="kor" page="23a" n="6">지통을 삼ᄉᆞ오시니</sent>
+<sent type="dialog" lang="chi" page="23a" n="7">每承此敎。</sent>
+<sent type="dialog" lang="kor" page="23a" n="7">ᄆᆞ양 이 하교ᄅᆞᆯ 밧ᄌᆞ오매</sent>
+<sent type="dialog" lang="chi" page="23a" n="8">予心當如何。</sent>
+<sent type="dialog" lang="kor" page="23a" n="8">내 ᄆᆞᄋᆞᆷ이 맛당히 엇더ᄒᆞ리오</sent>
+<sent type="dialog" lang="chi" page="23a" n="9">臺啓發已經年。</sent>
+<sent type="dialog" lang="kor" page="23a" n="9">ᄃᆡ간의 계ᄉᆡ 난 디 이믜 ᄒᆡ가 디나되</sent>
+<sent type="dialog" lang="chi" page="23a" n="10">而其在重國法之道。</sent>
+<sent type="dialog" lang="kor" page="23a" n="10">나라 법을 즁히 ᄒᆞᄂᆞᆫ 도리에 가히 명ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="23a" n="11">不可命停。</sent>
+<sent type="dialog" lang="kor" page="23a" n="11">그치라 ᄒᆞ도 못ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="23a-23b" n="12">亦不欲見其景像。</sent>
+<sent type="dialog" lang="kor" page="23a-23b" n="12">ᄯᅩᄒᆞᆫ 경샹을 보고 시부디 아니ᄒᆞ야</sent><!--시부디 ^ 아니ᄒᆞ야-->
+<sent type="dialog" lang="chi" page="23b" n="1">至今靳允矣。</sent>
+<sent type="dialog" lang="kor" page="23b" n="1">이제ᄭᆞ지 허티 아니ᄒᆞ엿더니</sent>
+<sent type="dialog" lang="chi" page="23b" n="2">今日不得已有此擧措。</sent>
+<sent type="dialog" lang="kor" page="23b" n="2">오ᄂᆞᆯ날 마디 못ᄒᆞ야 이 거죄 이시되</sent>
+<sent type="dialog" lang="chi" page="23b" n="3">而所供旣皆明白。</sent>
+<sent type="dialog" lang="kor" page="23b" n="3">공ᄉᆞᄒᆞᄂᆞᆫ 배 이믜 다 명ᄇᆡᆨᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="23b" n="4">別無更問之端。</sent>
+<sent type="dialog" lang="kor" page="23b" n="4">별노 다시 므ᄅᆞᆯ ᄭᅳᆺ히 업슨 고로</sent>
+<sent type="dialog" lang="chi" page="23b" n="5">故今將特放。</sent>
+<sent type="dialog" lang="kor" page="23b" n="5">이제 쟝ᄎᆞᆺ 특방ᄒᆞ려 ᄒᆞ노니</sent>
+<sent type="dialog" lang="chi" page="23b" n="6">自此以後。慈宮復有見奉朝賀之日。</sent>
+<sent type="dialog" lang="kor" page="23b" n="6">일노브터 ᄡᅥ 후로 ᄌᆞ궁겨오셔 다시 봉죠하ᄅᆞᆯ 보오실 날이 잇ᄉᆞ오실 ᄭᅥ시오</sent>
+<sent type="dialog" lang="chi" page="23b" n="7">予亦有拜慈宮之顔。</sent>
+<sent type="dialog" lang="kor" page="23b" n="7">나도 ᄯᅩᄒᆞᆫ ᄌᆞ궁ᄭᅴ 뵈ᄋᆞ올 ᄂᆞᆺ치 이시니</sent>
+<sent type="dialog" lang="chi" page="23b" n="8">今日處分。允合於天理人情。</sent>
+<sent type="dialog" lang="kor" page="23b" n="8">오ᄂᆞᆯ날 쳐분은 진실노 텬리인졍에 합당ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="23b" n="9">於隄防。可謂益固而無所損矣。</sent>
+<sent type="dialog" lang="kor" page="23b" n="9">졔 방에도 가히 더옥 굿고 해로온 배 업다 닐으리로다</sent>
+<sent type="dialog" lang="chi" page="23b" n="10">尙喆等曰。</sent>
+<sent type="dialog" lang="kor" page="23b" n="10">샹쳘 등이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="23b" n="11">渠供旣甚明白。</sent>
+<sent type="dialog" lang="kor" page="23b" n="11">제 공ᄉᆡ 이믜 심히 명ᄇᆡᆨᄒᆞ고</sent>
+
+<sent type="dialog" lang="chi" page="24a" n="1">聖敎又如是懇惻。</sent>
+<sent type="dialog" lang="kor" page="24a" n="1">셩ᄀᆈ ᄯᅩ 이러ᄐᆞ시 ᄀᆞᆫ측ᄒᆞ오신</sent>
+<sent type="dialog" lang="chi" page="24a" n="2">在廷諸臣。孰不感泣乎。</sent>
+<sent type="dialog" lang="kor" page="24a" n="2">죠뎡에 잇ᄂᆞᆫ 모든 신해 뉘 감읍ᄒᆞ지 아니ᄒᆞ오리잇가</sent>
+<sent type="main" lang="chi" page="24a" n="3">上曰。</sent>
+<sent type="main" lang="kor" page="24a" n="3">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="24a" n="4">放送傳敎。當書下。</sent>
+<sent type="dialog" lang="kor" page="24a" n="4">방송ᄒᆞᄂᆞᆫ 젼교ᄅᆞᆯ 맛당히 ᄡᅥ ᄂᆞ리올 거시니</sent>
+<sent type="dialog" lang="chi" page="24a" n="5">罪人其令解枷着笠。</sent>
+<sent type="dialog" lang="kor" page="24a" n="5">죄인을 그 ᄒᆞ여곰 칼을 벗기고 가ᄉᆞᆯ ᄡᅳ이라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="24a" n="6">仍命書傳敎曰。</sent>
+<sent type="main" lang="kor" page="24a" n="6">인ᄒᆞ야 명ᄒᆞ샤 젼교ᄅᆞᆯ ᄡᅳ여 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="24a" n="7">今者執法之所請卽拿鞫。</sent>
+<sent type="dialog" lang="kor" page="24a" n="7">이제 ᄃᆡ간의 쳥ᄒᆞᄂᆞᆫ 바ᄂᆞᆫ 곳 나국이오</sent>
+<sent type="dialog" lang="chi" page="24a" n="8">而論以王章。</sent>
+<sent type="dialog" lang="kor" page="24a" n="8">나라 법으로 의논ᄒᆞ매</sent>
+<sent type="dialog" lang="chi" page="24a" n="9">亦不可使人在於䵝昧之科。人鬼之關。</sent>
+<sent type="dialog" lang="kor" page="24a" n="9">ᄯᅩᄒᆞᆫ 가히 사ᄅᆞᆷ으로 ᄒᆞ여곰 을ᄆᆡᄒᆞᆫ 터와 인귀관두에 두디 못ᄒᆞᆯ 거신 고로</sent>
+<sent type="dialog" lang="chi" page="24a" n="10">ᄇᆡᆨ 가지로 ᄉᆡᆼ각ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="kor" page="24a" n="10">故百爾思之。</sent>
+<sent type="dialog" lang="chi" page="24a-24b" n="11">則他人猶不可若此。</sent>
+<sent type="dialog" lang="kor" page="24a-24b" n="11">다른 사ᄅᆞᆷ도 오히려 가히 이러티 아닐 ᄭᅥ시여든</sent><!--아닐 ^ ᄭᅥ시여든-->
+<sent type="dialog" lang="chi" page="24b" n="1">況奉朝賀之子。慈宮之至親乎。</sent>
+<sent type="dialog" lang="kor" page="24b" n="1">ᄒᆞ믈며 봉죠하의 아ᄃᆞᆯ이오 ᄌᆞ궁의 지친가</sent>
+<sent type="dialog" lang="chi" page="24b" n="2">予於登極以後。不幸而遭時艱難。凶逆輩出。</sent>
+<sent type="dialog" lang="kor" page="24b" n="2">내 등극ᄒᆞᆫ 후로 블ᄒᆡᆼ이 간난ᄒᆞᆫ ᄯᅢᄅᆞᆯ 만나 흉역이 ᄇᆡ츌ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="24b" n="3">除非耳目所親見聞者。</sent>
+<sent type="dialog" lang="kor" page="24b" n="3">귀와 눈에 친히 보고 드른 밧 쟤 아니면</sent>
+<sent type="dialog" lang="chi" page="24b" n="4">則皆設鞫盤問。</sent>
+<sent type="dialog" lang="kor" page="24b" n="4">다 친국을 베퍼 반문ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="24b" n="5">必也得情而後用法者。</sent>
+<sent type="dialog" lang="kor" page="24b" n="5">반ᄃᆞ시 졍을 어든 후에야 법을 ᄡᅳ기ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="24b" n="6">誠以不妄殺爲念而然也。</sent>
+<sent type="dialog" lang="kor" page="24b" n="6">진실노 망녕도이 죽이디 아니키로ᄡᅥ ᄉᆡᆼ각ᄒᆞᆷ이라</sent>
+<sent type="dialog" lang="chi" page="24b" n="7">麟漢罪關宗社。</sent>
+<sent type="dialog" lang="kor" page="24b" n="7">린한은 죄가 종샤에 관계ᄒᆞ야</sent>
+<sent type="dialog" lang="chi" page="24b" n="8">固難容㒃。</sent>
+<sent type="dialog" lang="kor" page="24b" n="8">진실노 용ᄃᆡᄒᆞ기 어려오되</sent>
+<sent type="dialog" lang="chi" page="24b" n="9">而始猶薄竄於近地。</sent>
+<sent type="dialog" lang="kor" page="24b" n="9">처음에 오히려 근디에 귀향 보내엿더니</sent>
+<sent type="dialog" lang="chi" page="24b" n="10">及至淵疏上而輅書出。</sent>
+<sent type="dialog" lang="kor" page="24b" n="10">밋 약연의 샹소을 밧치고 샹로의 편지가 나기예 니른즉 마디 못ᄒᆞ야</sent>
+
+<sent type="dialog" lang="chi" page="25a" n="1">則不得已圍之島而賜之死。</sent>
+<sent type="dialog" lang="kor" page="25a" n="1">셤에 위리안치ᄒᆞ엿다가 죽기ᄅᆞᆯ 주니</sent>
+<sent type="dialog" lang="chi" page="25a" n="2">非恕渠罪也。</sent>
+<sent type="dialog" lang="kor" page="25a" n="2">제 죄ᄅᆞᆯ 용셔ᄒᆞᆷ이 아니라</sent>
+<sent type="dialog" lang="chi" page="25a" n="3">乃重人命也。待眞贓也。</sent>
+<sent type="dialog" lang="kor" page="25a" n="3">이에 인명을 즁히 너기고 진장을 기ᄃᆞ림이라</sent>
+<sent type="dialog" lang="chi" page="25a" n="4">今日樂任之親問。焉可已也。</sent>
+<sent type="dialog" lang="kor" page="25a" n="4">오ᄂᆞᆯ날 락임을 친히 므르믈 엇디 가히 말니오나</sent>
+<sent type="dialog" lang="chi" page="25a" n="5">謄傳拿鞫之故紙。亦已經年。</sent>
+<sent type="dialog" lang="kor" page="25a" n="5">국쳥ᄒᆞᄂᆞᆫ 계ᄉᆡ ᄯᅩᄒᆞᆫ 이믜 ᄒᆡ가 디나되</sent>
+<sent type="dialog" lang="chi" page="25a" n="6">而始焉不忍。中焉惻傷。</sent>
+<sent type="dialog" lang="kor" page="25a" n="6">처음은 ᄎᆞᆷ아 못ᄒᆞ고 즁간은 측연ᄒᆞ다가</sent>
+<sent type="dialog" lang="chi" page="25a" n="7">今乃大覺其不然者。</sent>
+<sent type="dialog" lang="kor" page="25a" n="7">이제야 그러티 아니ᄒᆞᆷ을 크게 ᄭᆡᄃᆞ르니</sent>
+<sent type="dialog" lang="chi" page="25a" n="8">嗚呼。樂任之事。雖曰</sent>
+<sent type="dialog" lang="kor" page="25a" n="8">오회라 락임의 일이 비록 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="25a" n="9">屢出於賊招。</sent>
+<sent type="dialog" lang="kor" page="25a" n="9">역적의 쵸ᄉᆞ에 여러 번 낫다 ᄒᆞ나</sent>
+<sent type="dialog" lang="chi" page="25a" n="10">究其本也。似有似無。</sent>
+<sent type="dialog" lang="kor" page="25a" n="10">그 근본을 ᄉᆡᆼ각ᄒᆞ면 잇ᄂᆞᆫ ᄃᆞᆺ도 ᄒᆞ고 업ᄂᆞᆫ ᄃᆞᆺ도 ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="25a-25b" n="11">似是似非。</sent>
+<sent type="dialog" lang="kor" page="25a-25b" n="11">그러ᄒᆞᆫ ᄃᆞᆺ도 ᄒᆞ고 그러티 아니ᄒᆞᆫ ᄃᆞᆺ도 ᄒᆞ니</sent><!--아니ᄒᆞᆫ ^ ᄃᆞᆺ도-->
+<sent type="dialog" lang="chi" page="25b" n="1">若不一次親問。</sent>
+<sent type="dialog" lang="kor" page="25b" n="1">만일 ᄒᆞᆫ 번 친히 뭇디 아니ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="25b" n="2">則雖有所犯。何以申法。</sent>
+<sent type="dialog" lang="kor" page="25b" n="2">비록 범ᄒᆞᆫ 배 이신들 엇디 ᄡᅥ 법을 펴며</sent>
+<sent type="dialog" lang="chi" page="25b" n="3">若無是事。</sent>
+<sent type="dialog" lang="kor" page="25b" n="3">만일 이 일이 업ᄉᆞ면</sent>
+<sent type="dialog" lang="chi" page="25b" n="4">亦豈不冤悶乎。</sent>
+<sent type="dialog" lang="kor" page="25b" n="4">ᄯᅩᄒᆞᆫ 엇디 원통코 민망티 아니ᄒᆞ리오</sent>
+<sent type="dialog" lang="chi" page="25b" n="5">予於定省之暇。以此意。陳稟于慈宮。</sent>
+<sent type="dialog" lang="kor" page="25b" n="5">내 뎡셩ᄒᆞᄋᆞᆸᄂᆞᆫ 겨를에 이 ᄯᅳᆺ으로 ᄌᆞ궁ᄭᅴ 픔ᄒᆞ온즉</sent>
+<sent type="dialog" lang="chi" page="25b" n="6">則慈敎亦以爲然。</sent>
+<sent type="dialog" lang="kor" page="25b" n="6">ᄌᆞᄀᆈ ᄯᅩᄒᆞᆫ 그러타 ᄒᆞ시매</sent>
+<sent type="dialog" lang="chi" page="25b" n="7">所以發捕者。良以此也。</sent>
+<sent type="dialog" lang="kor" page="25b" n="7">발포ᄒᆞᆫ 배 진실노 일놉세라</sent>
+<sent type="dialog" lang="chi" page="25b" n="8">今聞所供。</sent>
+<sent type="dialog" lang="kor" page="25b" n="8">이제 공ᄉᆞᄒᆞᄂᆞᆫ 바ᄅᆞᆯ 드르니</sent>
+<sent type="dialog" lang="chi" page="25b" n="9">一則雲疏參涉事。</sent>
+<sent type="dialog" lang="kor" page="25b" n="9">ᄒᆞᆫ가지ᄂᆞᆫ 샹운의 샹소 참셥ᄒᆞᆫ 일인듸</sent>
+<sent type="dialog" lang="chi" page="25b" n="10">而節節有條理。至以生存之象厚爲證左。</sent>
+<sent type="dialog" lang="kor" page="25b" n="10">졀졀히 죠리 이셔 사라 잇ᄂᆞᆫ 샹후로ᄡᅥ 증거ᄒᆞ고</sent>
+<sent type="dialog" lang="chi" page="25b" n="11">二則推戴同謀事。</sent>
+<sent type="dialog" lang="kor" page="25b" n="11">둘째ᄂᆞᆫ 츄ᄃᆡᄒᆞᆯ 제 ᄒᆞᆫ가지로 ᄭᅬᄒᆞᆫ 일인듸</sent>
+<sent type="dialog" lang="chi" page="25b" n="12">而斷斷無他意。</sent>
+<sent type="dialog" lang="kor" page="25b" n="12">단단히 다른 ᄯᅳᆺ이 업고</sent>
+<sent type="dialog" lang="chi" page="25b-26a" n="13">所引亦皆近似。</sent>
+<sent type="dialog" lang="kor" page="25b-26a" n="13">인거ᄒᆞᄂᆞᆫ 배 ᄯᅩᄒᆞᆫ 다 근ᄉᆞᄒᆞ야</sent><!--인거ᄒᆞᄂᆞᆫ ^ 배-->
+<sent type="dialog" lang="chi" page="26a" n="1">非徒其言有理。</sent>
+<sent type="dialog" lang="kor" page="26a" n="1">ᄒᆞᆫ갓 그 말이 유리ᄒᆞᆯ ᄲᅮᆫ이 아니라</sent>
+<sent type="dialog" lang="chi" page="26a" n="2">其情可知。</sent>
+<sent type="dialog" lang="kor" page="26a" n="2">그 ᄯᅳᆺ을 가히 알 ᄭᅥ시오</sent>
+<sent type="dialog" lang="chi" page="26a" n="3">況其地處。與麟漢厚謙絶異者乎。</sent>
+<sent type="dialog" lang="kor" page="26a" n="3">ᄒᆞ믈며 그 디쳬가 린한 후겸으로 더브러 현졀히 다른 것가</sent>
+<sent type="dialog" lang="chi" page="26a" n="4">求之天理人心。實無是理。</sent>
+<sent type="dialog" lang="kor" page="26a" n="4">텬리와 인심에 구ᄒᆞ매 실노 이러ᄒᆞᆯ 니 업슬 ᄭᅥ시니</sent>
+<sent type="dialog" lang="chi" page="26a" n="5">雖有疑似之跡。</sent>
+<sent type="dialog" lang="kor" page="26a" n="5">비록 의ᄉᆞᄒᆞᆫ 자최 이셔도</sent>
+<sent type="dialog" lang="chi" page="26a" n="6">原其心可也。</sent>
+<sent type="dialog" lang="kor" page="26a" n="6">그 ᄆᆞᄋᆞᆷ을 원셔ᄒᆞᆷ이 가ᄒᆞ거든</sent>
+<sent type="dialog" lang="chi" page="26a" n="7">況初無是事乎。</sent>
+<sent type="dialog" lang="kor" page="26a" n="7">ᄒᆞ믈며 처음에 이 일이 업ᄉᆞᆷ가</sent>
+<sent type="dialog" lang="chi" page="26a" n="8">噫。予以孤露餘生。</sent>
+<sent type="dialog" lang="kor" page="26a" n="8">슬프다 내 고로ᄒᆞᆫ 여ᄉᆡᆼ으로ᄡᅥ</sent>
+<sent type="dialog" lang="chi" page="26a" n="9">尙今爲命。卽慈宮也。</sent>
+<sent type="dialog" lang="kor" page="26a" n="9">샹금위 명ᄒᆞ기ᄂᆞᆫ 곳 ᄌᆞ궁이시니</sent>
+<sent type="dialog" lang="chi" page="26a" n="10">慈宮自去秋以後。食飮全却。</sent>
+<sent type="dialog" lang="kor" page="26a" n="10">ᄌᆞ궁이 디난 ᄀᆞᄋᆞᆯ 후로브터 식음을 젼혀 믈니시고</sent>
+<sent type="dialog" lang="chi" page="26a" n="11">涕淚常流。</sent>
+<sent type="dialog" lang="kor" page="26a" n="11">톄루ᄅᆞᆯ 샹ᄒᆡ 흘니오시니</sent>
+<sent type="dialog" lang="chi" page="26a-26b" n="12">每一仰瞻。</sent>
+<sent type="dialog" lang="kor" page="26a-26b" n="12">ᄆᆞ양 ᄒᆞᆫ 번 우러러 뵈오매</sent><!--우러러 ^ 뵈오매-->
+<sent type="dialog" lang="chi" page="26b" n="1">心肝如焚。</sent>
+<sent type="dialog" lang="kor" page="26b" n="1">심간이 블븟ᄂᆞᆫ ᄃᆞᆺᄒᆞᆫ디라</sent>
+<sent type="dialog" lang="chi" page="26b" n="2">嗚呼。慈宮之所以如此者。</sent>
+<sent type="dialog" lang="kor" page="26b" n="2">오회라 ᄌᆞ궁이 이러ᄐᆞᆺ ᄒᆞ신 밧 쟈ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="26b" n="3">卽以不見奉朝賀之面而然也。</sent>
+<sent type="dialog" lang="kor" page="26b" n="3">곳 봉죠하의 얼굴을 보디 못ᄒᆞ시므로ᄡᅥ 그러ᄒᆞ시미오</sent>
+<sent type="dialog" lang="chi" page="26b" n="4">非徒不見。</sent>
+<sent type="dialog" lang="kor" page="26b" n="4">ᄒᆞᆫ갓 보디 못ᄒᆞ실 ᄯᆞᄅᆞᆷ이 아니라</sent>
+<sent type="dialog" lang="chi" page="26b" n="5">將不得面訣於其生前也。</sent>
+<sent type="dialog" lang="kor" page="26b" n="5">쟝ᄎᆞᆺ 그 ᄉᆡᆼ젼에 면결을 못ᄒᆞ실가 ᄒᆞ시미니</sent>
+<sent type="dialog" lang="chi" page="26b" n="6">夫天下無不是底父母。</sent>
+<sent type="dialog" lang="kor" page="26b" n="6">므릇 텬하에 블시뎌 부뫼 업ᄂᆞᆫ 고로</sent>
+<sent type="dialog" lang="chi" page="26b" n="7">則慈宮之心如此。</sent>
+<sent type="dialog" lang="kor" page="26b" n="7">ᄌᆞ궁 ᄆᆞᄋᆞᆷ이 이ᄀᆞᄐᆞ시니</sent>
+<sent type="dialog" lang="chi" page="26b" n="8">予雖如常起居。强作言笑。</sent>
+<sent type="dialog" lang="kor" page="26b" n="8">내 비록 여샹히 긔거ᄅᆞᆯ ᄒᆞ고 강인ᄒᆞ야 언쇼ᄅᆞᆯ ᄒᆞ나</sent>
+<sent type="dialog" lang="chi" page="26b" n="9">亦豈安於心乎。</sent>
+<sent type="dialog" lang="kor" page="26b" n="9">ᄯᅩᄒᆞᆫ 엇디 ᄆᆞᄋᆞᆷ에 평안ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="26b" n="10">中夜每自謂曰。</sent>
+<sent type="main" lang="kor" page="26b" n="10">즁야에 ᄆᆞ양 스ᄉᆞ로 닐너 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="26b" n="11">慈宮之所以支保者。亦惟予在也。</sent>
+<sent type="dialog" lang="kor" page="26b" n="11">ᄌᆞ궁의 ᄡᅥ 지보ᄒᆞ오시ᄂᆞᆫ 배 ᄯᅩᄒᆞᆫ 오직 내 이시미니</sent>
+
+<sent type="dialog" lang="chi" page="27a" n="1">予不能以一事半事。悅慈宮之意。</sent>
+<sent type="dialog" lang="kor" page="27a" n="1">내 능히 ᄒᆞᆫ 일 반일노ᄡᅥ ᄌᆞ궁 ᄯᅳᆺ을 깃브시계 못ᄒᆞᄋᆞᆸ고</sent>
+<sent type="dialog" lang="chi" page="27a" n="2">而徒傷慈宮之心。</sent>
+<sent type="dialog" lang="kor" page="27a" n="2">ᄒᆞᆫ갓 ᄌᆞ궁 ᄆᆞᄋᆞᆷ만 샹ᄒᆡ오니</sent>
+<sent type="dialog" lang="chi" page="27a" n="3">眞所謂無樂爲君。正爲此也。</sent>
+<sent type="dialog" lang="kor" page="27a" n="3">진실노 닐은 바 님군 되미 즐거옴이 업단 말이 졍히 이러ᄒᆞᆷ이라</sent>
+<sent type="dialog" lang="chi" page="27a" n="4">斷斷此心。屋漏所知。</sent>
+<sent type="dialog" lang="kor" page="27a" n="4">단단ᄒᆞᆫ 이 ᄆᆞᄋᆞᆷ이 옥루의 아ᄂᆞᆫ 배니</sent>
+<sent type="dialog" lang="chi" page="27a" n="5">而在廷諸臣。亦豈盡知乎。</sent>
+<sent type="dialog" lang="kor" page="27a" n="5">죠뎡에 잇ᄂᆞᆫ 졔신이야 ᄯᅩᄒᆞᆫ 엇디 다 알니오</sent>
+<sent type="dialog" lang="chi" page="27a" n="6">當初予意。一欲親問樂任。</sent>
+<sent type="dialog" lang="kor" page="27a" n="6">당초에 내 ᄯᅳᆺ이 ᄒᆞᆫ 번 락임을 친히 무러 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="27a" n="7">以判黑白。</sent>
+<sent type="main" lang="kor" page="27a" n="7">흑ᄇᆡᆨ을 판단ᄒᆞ고져 ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="27a" n="8">所以趑趄者。亦以當此時也。</sent>
+<sent type="main" lang="kor" page="27a" n="8">ᄡᅥ ᄌᆞ져ᄒᆞᄂᆞᆫ 밧 쟈ᄂᆞᆫ ᄯᅩᄒᆞᆫ 이리ᄒᆞᄂᆞᆫ ᄯᅢᄅᆞᆯ 당ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="27a" n="9">慈宮之心。尤難爲懷故也。</sent>
+<sent type="main" lang="kor" page="27a" n="9">ᄌᆞ궁 ᄆᆞᄋᆞᆷ이 더옥 회포를 ᄒᆞ오시기 어려오시믈 위ᄒᆞᆫ 연괴라</sent>
+<sent type="main" lang="chi" page="27a-27b" n="10">日昨乘間。從容導達。</sent>
+<sent type="main" lang="kor" page="27a-27b" n="10">일작에 틈을 타 죵용히 도달ᄒᆞ온즉</sent><!--죵용히 ^ 도달ᄒᆞ온즉-->
+<sent type="main" lang="chi" page="27b" n="1">則慈宮泣謂予曰。</sent>
+<sent type="main" lang="kor" page="27b" n="1">ᄌᆞ궁이 우르시며 날ᄃᆞ려 닐너 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="27b" n="2">吾有吾父。且兄弟同氣也。</sent>
+<sent type="dialog" lang="kor" page="27b" n="2">내 부친이 잇고 ᄯᅩ 형뎨ᄂᆞᆫ 동긔라</sent>
+<sent type="dialog" lang="chi" page="27b" n="3">豈欲使主上有此不得已之擧。</sent>
+<sent type="dialog" lang="kor" page="27b" n="3">엇디 쥬샹으로 ᄒᆞ여곰 이러ᄒᆞᆫ 마디 못ᄒᆞᆫ 거죄 잇고져 ᄒᆞ리오마ᄂᆞᆫ</sent>
+<sent type="dialog" lang="chi" page="27b" n="4">而非此擧。</sent>
+<sent type="dialog" lang="kor" page="27b" n="4">이 거조 곳 아니면</sent>
+<sent type="dialog" lang="chi" page="27b" n="5">亦無以卞吾老父徹天極地之冤。</sent>
+<sent type="dialog" lang="kor" page="27b" n="5">ᄯᅩᄒᆞᆫ 내 늙은 부친의 쳘텬극디ᄒᆞᆫ 원통ᄒᆞᆷ을 변ᄇᆡᆨᄒᆞᆯ 길히 업ᄉᆞ니</sent>
+<sent type="dialog" lang="chi" page="27b" n="6">須卽一問樂任。果有罪。</sent>
+<sent type="dialog" lang="kor" page="27b" n="6">모로미 ᄒᆞᆫ 번 락임ᄃᆞ려 므러 과연 죄가 이시면</sent>
+<sent type="dialog" lang="chi" page="27b" n="7">雖誅戮。吾無悔恨也。</sent>
+<sent type="dialog" lang="kor" page="27b" n="7">비록 쥬륙ᄒᆞ여도 내 뉘웃고 ᄒᆞᆫᄒᆞᆷ이 업ᄉᆞᆯ 거시오</sent>
+<sent type="dialog" lang="chi" page="27b" n="8">若無實事。則余可有見老父之日。</sent>
+<sent type="dialog" lang="kor" page="27b" n="8">만일 실ᄉᆡ 업슨즉 내가 이 노브ᄅᆞᆯ 볼 날이 이시리니</sent>
+<sent type="dialog" lang="chi" page="27b" n="9">在國家法紀。少無損焉。</sent>
+<sent type="dialog" lang="kor" page="27b" n="9">국가 법긔예 죠금도 휴손ᄒᆞᆷ이 업고</sent>
+<sent type="dialog" lang="chi" page="27b-28a" n="10">在朝廷隄防。不甚關焉。</sent>
+<sent type="dialog" lang="kor" page="27b-28a" n="10">죠졍 졔방에 심히 관계ᄒᆞᆫ 일이 업다 ᄒᆞ시니</sent><!--졔방에 ^ 심히-->
+<sent type="dialog" lang="chi" page="28a" n="1">小子泣涕承敎。</sent>
+<sent type="dialog" lang="kor" page="28a" n="1">쇼ᄌᆡ 톄읍ᄒᆞ고 ᄀᆞᄅᆞ티시믈 니어</sent>
+<sent type="dialog" lang="chi" page="28a" n="2">有此親問之擧。</sent>
+<sent type="dialog" lang="kor" page="28a" n="2">이 친문ᄒᆞᄂᆞᆫ 거죄 잇더니</sent>
+<sent type="dialog" lang="chi" page="28a" n="3">樂任果脫空矣。</sent>
+<sent type="dialog" lang="kor" page="28a" n="3">락임이 과연 ᄇᆡᆨ탈ᄒᆞᆫ디라</sent>
+<sent type="dialog" lang="chi" page="28a" n="4">非但伸其幽枉。</sent>
+<sent type="dialog" lang="kor" page="28a" n="4">다만 그 원왕ᄒᆞᆫ 거ᄉᆞᆯ 펼 ᄲᅮᆫ이 아니라</sent>
+<sent type="dialog" lang="chi" page="28a" n="5">予將有拜慈宮之顔。</sent>
+<sent type="dialog" lang="kor" page="28a" n="5">내 쟝ᄎᆞᆺ ᄌᆞ궁ᄭᅴ 뵈ᄋᆞ올 ᄂᆞᆺ치 이시니</sent>
+<sent type="dialog" lang="chi" page="28a" n="6">洪樂任特爲放送。</sent>
+<sent type="dialog" lang="kor" page="28a" n="6">홍락임을 특별히 방송ᄒᆞ라</sent>
+<sent type="dialog" lang="chi" page="28a" n="7">嗚呼。予之初意。</sent>
+<sent type="dialog" lang="kor" page="28a" n="7">오회라 내 처음 ᄯᅳᆺ이 엇디</sent>
+<sent type="dialog" lang="chi" page="28a" n="8">豈料樂任之無事。</sent>
+<sent type="dialog" lang="kor" page="28a" n="8">락임의 무ᄉᆞᄒᆞ기ᄅᆞᆯ 혜아려시리오</sent>
+<sent type="dialog" lang="chi" page="28a" n="9">今幸白放。</sent>
+<sent type="dialog" lang="kor" page="28a" n="9">이제 다ᄒᆡᆼ이 ᄇᆡᆨ방ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="28a" n="10">是亦慈宮悲苦之心所感而然也。</sent>
+<sent type="dialog" lang="kor" page="28a" n="10">이 ᄯᅩᄒᆞᆫ ᄌᆞ궁 비고ᄒᆞ오신 ᄆᆞᄋᆞᆷ의 감동ᄒᆞ야 그러ᄒᆞᆫ 배라</sent>
+<sent type="dialog" lang="chi" page="28a" n="11">大抵此事旣不關係於麟賊處分。</sent>
+<sent type="dialog" lang="kor" page="28a" n="11">대뎌 이 일이 이믜 린한의 쳐분에 관계ᄒᆞᆷ이 업고</sent>
+<sent type="dialog" lang="chi" page="28a-28b" n="12">又不干涉於啓能謀議。</sent>
+<sent type="dialog" lang="kor" page="28a-28b" n="12">ᄯᅩ 계능의 모의예 간셥ᄒᆞᆷ이 업슨즉</sent><!--간셥ᄒᆞᆷ이 ^ 업슨즉-->
+<sent type="dialog" lang="chi" page="28b" n="1">則奉朝賀將有見慈宮之日矣。</sent>
+<sent type="dialog" lang="kor" page="28b" n="1">봉죠해 쟝ᄎᆞᆺ ᄌᆞ궁ᄭᅴ 뵈ᄋᆞ올 날이 이시리로다</sent>
+<sent type="main" lang="chi" page="28b" n="2">傳敎書訖。上問。</sent>
+<sent type="main" lang="kor" page="28b" n="2">젼교 ᄡᅳᄋᆞᆸ기ᄅᆞᆯ ᄆᆞᄎᆞ매 샹이 뭇ᄌᆞ오시ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="28b" n="3">奉朝賀已入來乎。</sent>
+<sent type="dialog" lang="kor" page="28b" n="3">봉죠해 이믜 드러왓ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="28b" n="4">洪國榮對曰。</sent>
+<sent type="main" lang="kor" page="28b" n="4">홍국영이 ᄃᆡ왈</sent>
+<sent type="dialog" lang="chi" page="28b" n="5">方胥命於闕下云矣。</sent>
+<sent type="dialog" lang="kor" page="28b" n="5">ᄇᆡ야흐로 궐하에 ᄃᆡ명ᄒᆞᆫ다 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="28b" n="6">上曰</sent>
+<sent type="main" lang="kor" page="28b" n="6">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="28b" n="7">奉朝賀入對於惠慶宮事。遣史官傳諭。</sent>
+<sent type="dialog" lang="kor" page="28b" n="7">봉죠해 혜경궁ᄭᅴ 입ᄃᆡᄒᆞ믈 ᄉᆞ관을 보내여 젼유ᄒᆞ라 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="28b" n="8">史官還奏曰。</sent>
+<sent type="main" lang="kor" page="28b" n="8">ᄉᆞ관이 도라와 알외여 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="28b" n="9">奉朝賀以爲臣子之特蒙放釋。</sent>
+<sent type="dialog" lang="kor" page="28b" n="9">봉죠해 ᄡᅥ ᄒᆞ오ᄃᆡ 신의 아ᄃᆞᆯ이 특별히 방셕ᄒᆞ시믈 닙ᄉᆞ오미</sent>
+<sent type="dialog" lang="chi" page="28b" n="10">實出聖上如天之恩。</sent>
+<sent type="dialog" lang="kor" page="28b" n="10">실노 셩샹의 하ᄂᆞᆯᄀᆞᄐᆞ신 은혜로 나시미니</sent>
+<sent type="dialog" lang="chi" page="28b" n="11">惶感之極。</sent>
+<sent type="dialog" lang="kor" page="28b" n="11">황공ᄒᆞ고 감격ᄒᆞᆷ이 극ᄒᆞ매</sent>
+
+<sent type="dialog" lang="chi" page="29a" n="1">不知所達。</sent>
+<sent type="dialog" lang="kor" page="29a" n="1">알외올 바ᄅᆞᆯ 아디 못ᄒᆞ오되</sent>
+<sent type="dialog" lang="chi" page="29a" n="2">而第臣地處。萬無復入脩門之望。</sent>
+<sent type="dialog" lang="kor" page="29a" n="2">다만 신의 디쳬 만분도 다시 궐문에 드올 ᄇᆞ람이 업슨디라</sent>
+<sent type="dialog" lang="chi" page="29a" n="3">史官來宣 召命。</sent>
+<sent type="dialog" lang="kor" page="29a" n="3">ᄉᆞ관이 와 브르오시ᄂᆞᆫ 명을 젼ᄒᆞ오되</sent>
+<sent type="dialog" lang="chi" page="29a" n="4">而不得趨進。</sent>
+<sent type="dialog" lang="kor" page="29a" n="4">나아가믈 엇디 못ᄒᆞ오니</sent>
+<sent type="dialog" lang="chi" page="29a" n="5">尤切悚蹙之忱云矣。</sent>
+<sent type="dialog" lang="kor" page="29a" n="5">더옥 숑츅ᄒᆞ온 ᄆᆞᄋᆞᆷ이 ᄀᆞᆫ졀ᄒᆞ오이다 알외더이다</sent>
+<sent type="main" lang="chi" page="29a" n="6">史官凡三往返。</sent>
+<sent type="main" lang="kor" page="29a" n="6">ᄉᆞ관이 세 번 왕반ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="29a" n="7">而奉朝賀洪鳳漢終不入來。</sent>
+<sent type="main" lang="kor" page="29a" n="7">봉죠하 홍봉한이 ᄆᆞᄎᆞᆷ내 드러오디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="29a" n="8">上敎曰。</sent>
+<sent type="main" lang="kor" page="29a" n="8">샹이 하교ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="29a" n="9">卿若不入。</sent>
+<sent type="dialog" lang="kor" page="29a" n="9">경이 만일 드러오디 아니ᄒᆞᆫ즉</sent>
+<sent type="dialog" lang="chi" page="29a" n="10">則予將親臨同入。</sent>
+<sent type="dialog" lang="kor" page="29a" n="10">내 쟝ᄎᆞᆺ 친히 님ᄒᆞ야 ᄒᆞᆫ가지로 드러올 ᄭᅥ시니</sent>
+<sent type="dialog" lang="chi" page="29a" n="11">此豈卿臣分之所安乎。</sent>
+<sent type="dialog" lang="kor" page="29a" n="11">이 엇디 경의 신분에 평안ᄒᆞᆯ ᄲᅢ리오</sent>
+<sent type="dialog" lang="chi" page="29a-29b" n="12">不須多誥。卽爲入來。</sent>
+<sent type="dialog" lang="kor" page="29a-29b" n="12">여러 말 ᄒᆞᆯ ᄭᅥ시 아니니 즉시 드러오라 ᄒᆞ시니</sent><!--아니니 ^ 즉시-->
+<sent type="main" lang="chi" page="29b" n="1">於是。鳳漢入侍。</sent>
+<sent type="main" lang="kor" page="29b" n="1">이예 봉한이 입시ᄒᆞᆫ대</sent>
+<sent type="main" lang="chi" page="29b" n="2">上握手流涕曰。</sent>
+<sent type="main" lang="kor" page="29b" n="2">샹이 손을 잡으시고 류톄ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="29b" n="3">卿家不幸。夫復何言。</sent>
+<sent type="dialog" lang="kor" page="29b" n="3">경의 집이 블ᄒᆡᆼᄒᆞ니 다시 닐을 말이 어이 이시리오</sent>
+<sent type="dialog" lang="chi" page="29b" n="4">而今日見卿。予懷難抑也。</sent>
+<sent type="dialog" lang="kor" page="29b" n="4">오ᄂᆞᆯ날 경을 보니 내 회포ᄅᆞᆯ 억졔ᄒᆞ기 어렵ᄯᅩ다</sent>
+<sent type="main" lang="chi" page="29b" n="5">鳳漢亦涕泣稱謝。</sent>
+<sent type="main" lang="kor" page="29b" n="5">봉한이 ᄯᅩᄒᆞᆫ 톄읍ᄒᆞ고 샤례ᄒᆞᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="29b" n="6">上命國榮讀傳敎於帳殿。</sent>
+<sent type="main" lang="kor" page="29b" n="6">샹이 국영을 명ᄒᆞ샤 젼교ᄅᆞᆯ 쟝젼에셔 닐너</sent>
+<sent type="main" lang="chi" page="29b" n="7">使侍衛皆聽。</sent>
+<sent type="main" lang="kor" page="29b" n="7">시위로 ᄒᆞ여곰 다 듯게 ᄒᆞ라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="29b" n="8">上謂尙喆等曰。</sent>
+<sent type="main" lang="kor" page="29b" n="8">샹이 샹쳘 등ᄃᆞ려 닐너 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="29b" n="9">相箚宜卽賜批。</sent>
+<sent type="dialog" lang="kor" page="29b" n="9">대신의 차ᄌᆞᄅᆞᆯ 맛당히 즉시 비답ᄒᆞᆯ ᄭᅥ시로되</sent>
+<sent type="dialog" lang="chi" page="29b" n="10">而日前卿等進續明義錄箚。</sent>
+<sent type="dialog" lang="kor" page="29b" n="10">일젼 경 등의 쇽명의록 나오ᄂᆞᆫ 차ᄌᆞᄅᆞᆯ</sent>
+
+<sent type="dialog" lang="chi" page="30a" n="1">尙不賜批者。</sent>
+<sent type="dialog" lang="kor" page="30a" n="1">오히려 비답ᄒᆞ디 아니ᄒᆞ기ᄂᆞᆫ </sent>
+<sent type="dialog" lang="chi" page="30a" n="2">以此事有所商量故也。</sent>
+<sent type="dialog" lang="kor" page="30a" n="2">이 일노ᄡᅥ 샹량ᄒᆞᄂᆞᆫ 배 잇ᄂᆞᆫ 연괴라</sent>
+<sent type="dialog" lang="chi" page="30a" n="3">大抵奉朝賀之終不得一番入對於慈宮。</sent>
+<sent type="dialog" lang="kor" page="30a" n="3">대뎌 봉죠해 ᄆᆞᄎᆞᆷ내 ᄒᆞᆫ 번도 ᄌᆞ궁ᄭᅴ 입ᄃᆡᄒᆞ디 못ᄒᆞᆷ은</sent>
+<sent type="dialog" lang="chi" page="30a" n="4">實是行不得之事。</sent>
+<sent type="dialog" lang="kor" page="30a" n="4">실노 ᄒᆡᆼ티 못ᄒᆞᆯ 일이오</sent>
+<sent type="dialog" lang="chi" page="30a" n="5">而若不如是處分。</sent>
+<sent type="dialog" lang="kor" page="30a" n="5">만일 이러ᄐᆞ시 쳐분ᄒᆞ디 아니ᄒᆞ면</sent>
+<sent type="dialog" lang="chi" page="30a" n="6">亦不無隄防漸解之慮。</sent>
+<sent type="dialog" lang="kor" page="30a" n="6">ᄯᅩᄒᆞᆫ 졔방이 졈졈 플니일 념례 업디 아니ᄒᆞ니</sent>
+<sent type="dialog" lang="chi" page="30a" n="7">今則與討麟賊之義理。</sent>
+<sent type="dialog" lang="kor" page="30a" n="7">이제ᄂᆞᆫ 린한을 토죄ᄒᆞᄂᆞᆫ 의지로 더브러</sent>
+<sent type="dialog" lang="chi" page="30a" n="8">判爲兩段。</sent>
+<sent type="dialog" lang="kor" page="30a" n="8">판연히 두 가지 되여시니</sent>
+<sent type="dialog" lang="chi" page="30a" n="9">而義理益明。隄防益嚴矣。</sent>
+<sent type="dialog" lang="kor" page="30a" n="9">의리 더옥 ᄇᆞᆰ고 졔방이 더옥 엄ᄒᆞ리로다</sent>
+<sent type="main" lang="chi" page="30a" n="10">尙喆等曰。</sent>
+<sent type="main" lang="kor" page="30a" n="10">샹쳘 등이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="30a" n="11">聖敎誠然。</sent>
+<sent type="dialog" lang="kor" page="30a" n="11">셩ᄀᆈ 진실노 그러ᄒᆞ오시니</sent>
+<sent type="dialog" lang="chi" page="30a" n="12">而今日處分。當載續明義錄之末然後。</sent>
+<sent type="dialog" lang="kor" page="30a" n="12">오ᄂᆞᆯ 쳐분은 맛당히 쇽명의록 ᄭᅳᆺ헤 올닌 연후에야</sent>
+
+<sent type="dialog" lang="chi" page="30b" n="1">可使一世曉然也。</sent>
+<sent type="dialog" lang="kor" page="30b" n="1">가히 일셰로 ᄒᆞ여공 효연히 알게 ᄒᆞ리이다</sent>
+<sent type="main" lang="chi" page="30b" n="2">上曰</sent>
+<sent type="main" lang="kor" page="30b" n="2">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="dialog" lang="chi" page="30b" n="3">可。</sent>
+<sent type="dialog" lang="kor" page="30b" n="3">가타 ᄒᆞ오시다</sent>
+<sent type="main" lang="chi" page="30b" n="4">奉</sent>
+<sent type="main" lang="kor" page="30b" n="4"></sent><!--title: 제목, main: 본문, dialog: 대화, anno: 협주-->
+
+</doc>
+

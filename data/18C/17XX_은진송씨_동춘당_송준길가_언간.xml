@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">은진송씨동춘당송준길가언간</title><!--은진송씨 동춘당 송준길가 언간-->
+<title lang="chi">恩津宋氏同春堂宋浚吉家諺簡</title>
+<full_name>은진송씨동춘당송준길가언간</full_name>
+<nikl_name>은진송씨동춘당송준길가언간</nikl_name>
+<general_name>은진송씨동춘당송준길가언간</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이]; [표];</abbre>
+<version></version>
+<volume n=""/>
+<sender> </sender><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<writer> </writer><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<receiver> </receiver><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<date>17세기-18세기</date><!--1640-1760 -->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>조선시대 한글편지 판독자료집 1</title><!--추가 사항의 주석을 기입하는 자리.-->
+<pubPlace>역락</pubPlace>
+<publisher>한국학중앙연구원 어문생활사연구소 편</publisher><!--황문환ㆍ임치균ㆍ전경목ㆍ조정아ㆍ황은영-->
+<date>2013-06-28</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2024.07.31</date>
+<respStmt>
+<resp>교정자</resp><name>정은영, 오민석</name>
+</respStmt>
+<item>내용 추출 및 xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2024/08/29</date>
+<respStmt>
+<resp>입력자</resp><name>정윤호</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+<item>전면적인 교감 및 구 및 절 단위로 분절</item><!---->
+</revisionDesc>
+</teiHeader>
+
+<letter n="1-1" sender="미상(아들)" writer="미상(아들)" receiver="배천조씨(어머니)" year="1667년">
+<sent type="envelop1-2" lang="kor" page="1-1" n="01">샹셔</sent>
+<sent type="envelop1-2" lang="kor" page="1-1" n="02">근봉</sent>
+<sent type="envelop1-2" lang="kor" page="1-1" n="03">송 니산ᄃᆡᆨ</sent>
+<sent type="main" lang="kor" page="1-1" n="04">문안 알외ᄋᆞᆸ고 그리 가 겨ᄋᆞᆸ셔</sent>
+<sent type="main" lang="kor" page="1-1" n="05">뫼오셔 긔운이나 평안ᄒᆞᄋᆞᆸ시니잇가</sent>
+<sent type="main" lang="kor" page="1-1" n="06">송촌셔 왕ᄂᆡᄒᆞᄋᆞᆸᄂᆞᆫ 줄 아오나</sent>
+<sent type="main" lang="kor" page="1-1" n="07">외오셔 아ᄋᆞᆸ디 못ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="1-1" n="08">ᄒᆡᆼᄎᆞᄒᆞ오신 후 뷔온 편지도 알외ᄋᆞᆸ디 못ᄒᆞ와 섭섭ᄒᆞᄋᆞᆸ더이다</sent><!--'섭섭ᄒᆞᄋᆞᆸ더이다'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="1-1" n="09">송촌셔 새아기시 ᄒᆡᆼᄎᆞᄒᆞ오시ᄂᆞᆫ 줄 아올ᄉᆡ 대강 알외ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="1-1" n="10">아기시겨오셔ᄂᆞᆫ 그리 가오시니 ᄌᆞᆨ히 든든ᄒᆞ오시거뇨</sent><!--'든든ᄒᆞ오시거뇨'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="1-1" n="11">몬내 일ᄀᆞᆺᄌᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="1-1" n="12">말ᄉᆞᆷ 탐탐ᄒᆞ오ᄃᆡ 보오시기 폐롭ᄉᆞ와 대강 알외ᄋᆞᆸ</sent><!--'탐탐ᄒᆞ오ᄃᆡ'에서 뒤에 오는 '탐'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="1-1" n="13">아마도 ᄆᆡ양 평안ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="1-1" n="14">ᄌᆞ식은 대되 뫼ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="1-1" n="15">든든이 디내ᄋᆞᆸ다가 대되 가ᄋᆞᆸ시니</sent><!--'든든이'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="1-1" n="16">큰집의 혼자 괴로이 머므ᄋᆞᆸ게 되오니</sent>
+<sent type="main" lang="kor" page="1-1" n="17">더옥 념녀ᄒᆞᄋᆞᆸ고 쉬 ᄒᆡᆼᄎᆞᄒᆞᄋᆞᆸ심을 ᄇᆞ라ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="1-1" n="18">뎡미 삼월 회일</sent>
+<sent type="main" lang="kor" page="1-1" n="19">남</sent>
+</letter>
+
+<letter n="1-2" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="송병하(아들)" year="1667년"> <!--한국정신문화연구원(2004)의 편지 번호를 따르되 이 판독자료집에서는 앞면과 뒷면의 발수신자 관계가 다른 점을 감안하여 앞면과 뒷면을 각각 ‘01-1’과 ‘01-2’로 구분하여 제시하였다.--><!-- 한국학중앙연구원 편(2009a)에서는 앞의 편지 ‘01-1’번의 작성 연대인 1667년부터 배천조씨가 죽은 1682년 사이에 작성된 편지로 추정하였다. 그러나 편지 중에 ‘원 디평’이 나오는데, 이는 배천조씨의 사위 원몽익(元夢翼)의 아버지 원만리(元萬里)를 가리키는 듯하다. 원만리는 1667년 8월 7일에 정언(正言)이 되는데 그 이전에는 지평(持平)이었다. 이 편지의 발신일이 4월 14일이므로 1667년 4월 14일에 보낸 편지로 추정할 수 있다.-->
+<sent type="main" lang="kor" page="1-2" n="01">경혜 아븨게</sent>
+<sent type="main" lang="kor" page="1-2" n="02">요ᄉᆞ이 뫼ᄋᆞᆸ고 어이 디내ᄂᆞᆫ다 닛디 못ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="1-2" n="03">예ᄂᆞᆫ 계유 디내노라</sent>
+<sent type="main" lang="kor" page="1-2" n="04">원 디평이 어제야 와시니</sent>
+<sent type="main" lang="kor" page="1-2" n="05">신부례ᄅᆞᆯ 수이 ᄒᆞ게 되면 어이 구러 디낼고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="1-2" n="06">네 형은 원가의 집의 가시매 유무 못ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="1-2" n="07">구가의 집의셔도 ᄉᆞ듀ᄅᆞᆯ 뎍어 가시되</sent>
+<sent type="main" lang="kor" page="1-2" n="08">당시 회뷔 업ᄉᆞ니 어이 ᄒᆞᄂᆞᆫ디 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="1-2" n="09">김 감역 ᄃᆡᆨ 사ᄅᆞᆷ이 가ᄂᆞᆫ 길희 유무ᄅᆞᆯ 맛드니</sent>
+<sent type="main" lang="kor" page="1-2" n="10">다ᄅᆞᆫ ᄃᆡ 못ᄒᆞ고 대강 뎍노라</sent>
+<sent type="main" lang="kor" page="1-2" n="11">경혜 어미도 복 알턴 ᄃᆡ ᄒᆞ려 잇다 ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="1-2" n="12">ᄉᆞ월 십ᄉᆞ일</sent>
+<sent type="main" lang="kor" page="1-2" n="13">모</sent>
+</letter>
+
+<letter n="02" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver=" 미상(아들)" year="1669~1683년">
+<sent type="envelop1-1" lang="kor" page="02" n="01">아긔게</sent>
+<sent type="envelop1-1" lang="kor" page="02" n="02">봉</sent>
+<sent type="envelop1-1" lang="kor" page="02" n="03">송 셔방손ᄃᆡ</sent>
+<sent type="main" lang="kor" page="02" n="04">어제 유무ᄅᆞᆯ ᄒᆞ엿거니와</sent>
+<sent type="main" lang="kor" page="02" n="05">ᄃᆡ동□ 시러 사ᄅᆞᆷ이 간다 ᄒᆞ매 ᄯᅩ □노라</sent>
+<sent type="main" lang="kor" page="02" n="06">얼우신내 긔운□ □러 가오신 후 엇더ᄒᆞ오신□ □라</sent>
+<sent type="main" lang="kor" page="02" n="07">올 사ᄅᆞᆷ이 업ᄉᆞ니 긔별도 수이 모ᄅᆞ니 답답ᄒᆞ기 ᄀᆞ이업다</sent><!--'답답ᄒᆞ기'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="02" n="08">예ᄂᆞᆫ 대되 무ᄉᆞᄒᆞ나 혼자 ᄠᅥ뎌 하 고단코 섭섭ᄒᆞ니</sent><!--'섭섭ᄒᆞ니'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="02" n="09">도로□ 병 ᄀᆞᄐᆞ여 ᄒᆞ며 아므려나 ᄀᆞ□□</sent>
+<sent type="main" lang="kor" page="02" n="10">과거ᄅᆞᆯ ᄒᆞ여 나도 가□□□ ᄇᆞ라노라</sent>
+<sent type="main" lang="kor" page="02" n="11">경샹 감영셔 □ □물은 졔ᄉᆞ의나 ᄡᅳ오려 두고</sent>
+<sent type="main" lang="kor" page="02" n="12">ᄡᆞᆫ □□ 둘흔 보내고</sent>
+<sent type="main" lang="kor" page="02" n="13">술은 보내□ □□ 못 가져갈다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="02" n="14">두니 □□□ 보내게 ᄒᆞ엿다</sent>
+<sent type="main" lang="kor" page="02" n="15">대경□ □□ 더ᄒᆞ고 됴히 이시되</sent>
+<sent type="main" lang="kor" page="02" n="16">반찬 업ᄉᆞᆫ 밥을 먹이니 민망코</sent>
+<sent type="main" lang="kor" page="02" n="17">네 본 것 바다 ᄌᆞᆨ히 ᄉᆡᆼ각ᄒᆞ랴 일ᄀᆞᆺ고 웃노라</sent>
+<sent type="main" lang="kor" page="02" n="18">예셔ᄂᆞᆫ 슈원 가ᄂᆞᆫ 사ᄅᆞᆷ이 업고 </sent>
+<sent type="main" lang="kor" page="02" n="19">셔울은 ᄌᆞ즐 □시나 유무ᄒᆞ여 보내니 브ᄃᆡ 뎐ᄒᆞ□□</sent>
+<sent type="main" lang="kor" page="02" n="20">삼월 초뉵일</sent>
+<sent type="main" lang="kor" page="02" n="21">모</sent>
+</letter>
+
+<letter n="03" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1650~1682년">
+<sent type="envelop1-2" lang="kor" page="03" n="01">아긔게</sent>
+<sent type="envelop1-2" lang="kor" page="03" n="02">봉</sent>
+<sent type="envelop1-2" lang="kor" page="03" n="03">송 셔방손ᄃᆡ</sent>
+<sent type="main" lang="kor" page="03" n="04">이리 온 후 긔별 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="03" n="05">극한의 어이 디내ᄂᆞᆫ다 분별ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="03" n="06">나ᄂᆞᆫ 뫼와 아직 무ᄉᆞ히 이시나</sent>
+<sent type="main" lang="kor" page="03" n="07">졔ᄉᆡ 님박ᄒᆞ시니 외오셔 새로이 슬프오며</sent>
+<sent type="main" lang="kor" page="03" n="08">어이 구러 디내올고 념녀ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="03" n="09">진ᄉᆞᄂᆞᆫ 이런 극한의 어이 갈고 념녀ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="03" n="10">너ᄂᆞᆫ 오려 터니 날이 하 치우니</sent>
+<sent type="main" lang="kor" page="03" n="11">와셔 여러 날 묵도 못ᄒᆞ면 왕ᄂᆡ예 샹ᄒᆞᆯ ᄲᅮᆫ이니</sent>
+<sent type="main" lang="kor" page="03" n="12">오디 말고 셰후의나 오면 됴흘가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="03" n="13">긔별ᄒᆞᆯ 말이 만터니 다 닛고</sent>
+<sent type="main" lang="kor" page="03" n="14">이만 졔ᄉᆞ 무ᄉᆞ히 디내오믈 ᄇᆞ라노라</sent>
+<sent type="main" lang="kor" page="03" n="15">어마님ᄭᅴ 반찬도 ᄯᆞᆨ히 업고 ᄌᆞ로 시댱ᄒᆞ여 ᄒᆞ시나</sent>
+<sent type="main" lang="kor" page="03" n="16">아므것도 뇨긔ᄒᆞ실 거시 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="03" n="17">이제ᄂᆞᆫ 아므거시라도 샹티 아니ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="03" n="18">ᄒᆡ건이 올 제</sent>
+<sent type="main" lang="kor" page="03" n="19">졔 퇴믈이라도 잡ᄉᆞ왐 즉ᄒᆞᆫ 것</sent>
+<sent type="main" lang="kor" page="03" n="20">ᄒᆡ건이 올 제 보내면 ᄌᆞᆨᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="03" n="21">ᄎᆞᆸᄡᆞᆯ ᄡᅳᆯ ᄃᆡ 이시니 져그나 보내여라</sent>
+<sent type="main" lang="kor" page="03" n="22">지월 념뉵일</sent>
+<sent type="main" lang="kor" page="03" n="23">모</sent>
+</letter>
+
+<letter n="04" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1650~1683년">
+<sent type="envelop1-2" lang="kor" page="04" n="01">아긔게</sent>
+<sent type="envelop1-2" lang="kor" page="04" n="02">송 셔방손ᄃᆡ</sent>
+<sent type="main" lang="kor" page="04" n="03">요ᄉᆞ이 됴히 잇ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="04" n="04">여러 번 유무ᄒᆞ더니 다 본다</sent>
+<sent type="main" lang="kor" page="04" n="05">올 ᄠᅢ 다ᄃᆞᄅᆞ니 기드리노라</sent>
+<sent type="main" lang="kor" page="04" n="06">올 제 건넌방으란 봉ᄒᆞ고 오나라</sent>
+<sent type="main" lang="kor" page="04" n="07">쇼농 가져오라 ᄒᆞ엿더니 가져오고</sent>
+<sent type="main" lang="kor" page="04" n="08">계예셔 주ᄂᆞᆫ 것들 다 가져오고</sent>
+<sent type="main" lang="kor" page="04" n="09">ᄭᅮᆯ란 이번 졔예 ᄡᅳᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="04" n="10">더러란 오는 압 졔ᄉᆞ의 ᄡᅳ올 거시니</sent>
+<sent type="main" lang="kor" page="04" n="11">브경이 간ᄉᆞᄒᆞ여 두라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="04" n="12">이번 ᄡᅳᆫ 수 나므니 다 티부ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="04" n="13">쥬미 ᄐᆞᆫ 거ᄉᆞ란 가져오기 어렵거든 무명을 사 오고</sent>
+<sent type="main" lang="kor" page="04" n="14">누록 진ᄀᆞᄅᆞ란 글로 ᄡᅳ랴 ᄒᆞ니 브ᄃᆡ 가져오고</sent>
+<sent type="main" lang="kor" page="04" n="15">게 두고 오신 누록 두 동도 가져오나라</sent>
+<sent type="main" lang="kor" page="04" n="16">ᄆᆞᆯ이 업서 지워 올디라도 가져오나라</sent>
+<sent type="main" lang="kor" page="04" n="17">그 글월 ᄌᆞ시 어더 보고 오나라</sent>
+<sent type="main" lang="kor" page="04" n="18">져믄 죵놈들 다 블러 보와</sent>
+<sent type="main" lang="kor" page="04" n="19">머리 됴흐니ᄃᆞᆯ이 ᄒᆞ나식 버혀 오나라</sent>
+<sent type="main" lang="kor" page="04" n="20">ᄉᆞ일 이윤샹이ᄂᆞᆫ 예 와신 제</sent>
+<sent type="main" lang="kor" page="04" n="21">버히려 타가 뎔러 아니 버혀더니</sent>
+<sent type="main" lang="kor" page="04" n="22">ᄒᆞ마 길어실 거시니 버혀라</sent>
+<sent type="main" lang="kor" page="04" n="23">ᄎᆡᆨ녁은 장녁 어더시되 올 거시니 아니 보ᄂᆡ노라</sent>
+<sent type="main" lang="kor" page="04" n="24">요ᄉᆞ이ᄂᆞᆫ 진봉도 그치엇고</sent>
+<sent type="main" lang="kor" page="04" n="25">혼인 제도 ᄡᅳᆯ 거시니</sent>
+<sent type="main" lang="kor" page="04" n="26">매ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ들의게 ᄉᆡᆼ티 져그나 모화 오나라</sent>
+</letter>
+
+<letter n="05" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="송병문(아들)" year="1650~1682년">
+<sent type="envelop1-2" lang="kor" page="05" n="01">아긔게</sent>
+<sent type="envelop1-2" lang="kor" page="05" n="02">법쳡ᄭᅩᆯ</sent>
+<sent type="main" lang="kor" page="05" n="03">념외예 예 아ᄒᆡ 긔별을 드르니</sent>
+<sent type="main" lang="kor" page="05" n="04">하 놀랍고 참혹ᄒᆞ기를 어이 다 뎍으리</sent>
+<sent type="main" lang="kor" page="05" n="05">그런 어려온 디경을 디나 그만치나 실ᄒᆞ여셔 므ᄉᆞᆷ 병이런고</sent>
+<sent type="main" lang="kor" page="05" n="06">앗갑고 참혹ᄒᆞ기 측냥이 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="05" n="07">네ᄒᆡ ᄆᆞᄋᆞᆷ이 올흐랴 더옥 닛디 못ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="05" n="08">도여나 인마ᄂᆞᆫ 수이 오ᄂᆞᆫ가 시브니 </sent>
+<sent type="main" lang="kor" page="05" n="09">가지가지 ᄆᆞᄋᆞᆷ이 심심ᄒᆞ여 디ᄂᆡ□□</sent>
+<sent type="main" lang="kor" page="05" n="10">뉵월 념삼일</sent>
+<sent type="main" lang="kor" page="05" n="11">모</sent>
+</letter>
+
+<letter n="06" sender="배천조씨" writer="배천조씨" receiver="미상" year="1681년">
+<sent type="envelop1-2" lang="kor" page="06" n="01">구범 어마님손ᄃᆡ</sent>
+<sent type="main" lang="kor" page="06" n="02">대경의 병은 요ᄉᆞ이 더 나은가</sent>
+<sent type="main" lang="kor" page="06" n="03">처엄 듕ᄒᆞᆫ 긔별 듯고 ᄀᆞ이업서</sent>
+<sent type="main" lang="kor" page="06" n="04">텬덕을 ᄇᆞ라고 츄원ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="06" n="05">ᄉᆡᆼ도 어든 긔별을 드르니 쉼을 내쉬며</sent>
+<sent type="main" lang="kor" page="06" n="06">채 쇼복ᄒᆞᆫ 긔별 몰라 답답ᄒᆡ</sent><!--'답답ᄒᆡ'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="07">다ᄅᆞᆫ 아ᄒᆡ들도 시작ᄒᆞ엿ᄂᆞᆫ가 념녀 아므라타 업ᄉᆡ</sent>
+<sent type="main" lang="kor" page="06" n="08">아기ᄂᆞᆫ 길ᄒᆡ 구티ᄒᆞ여 가셔</sent>
+<sent type="main" lang="kor" page="06" n="09">병 구완의 드러 용심ᄒᆞ고 올흐여시랴</sent>
+<sent type="main" lang="kor" page="06" n="10">더옥 분별ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="06" n="11">병판 ᄃᆡᆨ의셔ᄂᆞᆫ 국혼을 ᄒᆞ시ᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="06" n="12">귀코 거륵ᄒᆞ여 들리며</sent>
+<sent type="main" lang="kor" page="06" n="13">ᄌᆞ라신 후ᄂᆞᆫ 못 보왓거니와</sent>
+<sent type="main" lang="kor" page="06" n="14">어려 겨신 제ᄂᆞᆫ 심샹ᄒᆞᆫ 아기내로 아라더니</sent>
+<sent type="main" lang="kor" page="06" n="15">뎌런 귀인이신 줄 어이 알고</sent>
+<sent type="main" lang="kor" page="06" n="16">인간 일을 모ᄅᆞᆯ 거시로쇠</sent>
+<sent type="main" lang="kor" page="06" n="17">당신 ᄆᆞᄋᆞᆷ이 엇더ᄒᆞ여 ᄒᆞᄂᆞᆫ고 시븨</sent>
+<sent type="main" lang="kor" page="06" n="18">이리 이셔 거륵ᄒᆞᆫ 긔별도 ᄌᆞ시 모ᄅᆞ니 굼거외</sent>
+<sent type="main" lang="kor" page="06" n="19">자내ᄂᆞᆫ ᄌᆞ시 드를 거시오</sent>
+<sent type="main" lang="kor" page="06" n="20">혹 가셔 구시나 보거든 ᄌᆞ시 긔별ᄒᆞ소</sent>
+<sent type="main" lang="kor" page="06" n="21">죵은 뉘 드ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="06" n="22">ᄒᆞ나 둘히 아니 들려니와</sent>
+<sent type="main" lang="kor" page="06" n="23">착션이도 들가 ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="06" n="24">아기내ᄂᆞᆫ 다 올라가니 더외 길흘 어이 갈고 념녀로외</sent>
+<sent type="main" lang="kor" page="06" n="25">편지 쓴 후 아ᄒᆡ 긔별 드르니</sent>
+<sent type="main" lang="kor" page="06" n="26">하 놀랍□ 참혹 잔잉ᄒᆞ고 앗갑ᄭᅵ ᄀᆞ이업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="06" n="27">뎍을 말이 업서 ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="06" n="28">나히 듕히 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="06" n="29">미처 ᄒᆞᄂᆞᆫ 아ᄒᆡ들은 헐히 ᄒᆞᆯ가 너겻더니</sent>
+<sent type="main" lang="kor" page="06" n="30">ᄒᆞ 그럴 줄 어이 알고 ᄃᆞᆫᄃᆞᆫ+</sent><!--'ᄃᆞᆫᄃᆞᆫ'에서 뒤에 오는 'ᄃᆞᆫ'은 재점(〃)으로 표기되어 있음-->
+</letter>
+
+<letter n="07" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1650~1683년">
+<sent type="envelop1-2" lang="kor" page="07" n="01">송 셔방손ᄃᆡ</sent>
+<sent type="envelop1-2" lang="kor" page="07" n="02">아긔게</sent>
+<sent type="main" lang="kor" page="07" n="03">두 번 유무 보고</sent>
+<sent type="main" lang="kor" page="07" n="04">뫼와 무ᄉᆞ히 디내니 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="07" n="05">예ᄂᆞᆫ 계유 디내나</sent>
+<sent type="main" lang="kor" page="07" n="06">음식도 못 먹고 디내니 올흐랴</sent>
+<sent type="main" lang="kor" page="07" n="07">보션은 기워 보내노라</sent>
+<sent type="main" lang="kor" page="07" n="08">안 업서 민망ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="07" n="09">버ᄉᆞᆫ 것 업시 말고 보내여라</sent>
+<sent type="main" lang="kor" page="07" n="10">그 명디 갑 무명 ᄒᆞᆫ 필 몽뇽의게 보내여시니</sent>
+<sent type="main" lang="kor" page="07" n="11">그 집의 ᄆᆞ자 갓다가 주라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="07" n="12">밧바 이만</sent>
+</letter>
+
+<letter n="08" sender="배천조씨(할머니)" writer="배천조씨(할머니)" receiver="송요경(손자)" year="1668~1682년">
+<sent type="main" lang="kor" page="08" n="01">그리 왓다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="08" n="02">즉시 못 보나 든든ᄒᆞ여 ᄒᆞ노라</sent><!--'든든ᄒᆞ여'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="08" n="03">유무도 아니ᄒᆞᄂᆞᆫ다 섭섭ᄒᆞ다</sent><!--'섭섭ᄒᆞ다'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="08" n="04">언제 올고 기드리노라</sent>
+<sent type="main" lang="kor" page="08" n="05">희범의 병은 일양인가 시브니</sent>
+<sent type="main" lang="kor" page="08" n="06">그런 ᄀᆞᆸᄀᆞᆸᄒᆞᆫ 일이 업다</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞᆫ'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="08" n="07">감ᄌᆞ 셋 셕뉴 보내노라</sent>
+<sent type="main" lang="kor" page="08" n="08">납월 초삼일</sent>
+<sent type="main" lang="kor" page="08" n="09">조모</sent>
+</letter>
+
+<letter n="09" sender="배천조씨" writer="배천조씨" receiver="미상" year="1641~1683년">
+<sent type="envelop1-2" lang="kor" page="09" n="01">상쥬의게</sent>
+<sent type="main" lang="kor" page="09" n="02">밤ᄉᆞ이 뫼ᄋᆞᆸ고 됴히 잇ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="09" n="03">덧 업시 ᄃᆞᆫ녀가니 서운ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="09" n="04">보션 고텨시되 ᄇᆞᄅᆞᆺ 버혀시니 크게 못ᄒᆞᆯ다</sent>
+<sent type="main" lang="kor" page="09" n="05">ᄯᅥᆨ 죠곰 간다</sent>
+<sent type="main" lang="kor" page="09" n="06">ᄞᅢ ᄒᆞᆫ 말 보내노라</sent>
+</letter>
+
+<letter n="10" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1650~1683년">
+<sent type="envelop1-2" lang="kor" page="10" n="01">아긔게</sent>
+<sent type="main" lang="kor" page="10" n="02">유무ᄅᆞᆯ 써 죵을 보ᄂᆡ랴 ᄒᆞᆯ 제</sent>
+<sent type="main" lang="kor" page="10" n="03">번ᄌᆡ 오나늘 유무 보고 됴히 이시니 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="10" n="04">그 ᄑᆞᆫ 거ᄉᆞᆫ 몃 자ᄒᆡ 열닷 필을 밧고 몃 자히나 밧ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="10" n="05">셔 셔방ᄭᅴ ᄑᆞᆫ 거ᄉᆞᆫ ᄑᆞᆯ고 나마다 ᄒᆞᆫ 거ᄉᆞᆯ </sent><!--'셔 셔방ᄭᅴ'에서 뒤에 오는 '셔'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10" n="06">이를 바다 보ᄂᆡ엿ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="10" n="07">몬져 열닷 필 밧다 ᄒᆞᆫ 거시 인가</sent>
+<sent type="main" lang="kor" page="10" n="08">명디가 열여드ᇣ 자히니 몃 필의 혀여 바든고</sent>
+<sent type="main" lang="kor" page="10" n="09">ᄌᆞ시 아녀시니 몰라볼다</sent>
+<sent type="main" lang="kor" page="10" n="10">실과들도 슈영ᄃᆡᄃᆞ려 무러보와</sent>
+<sent type="main" lang="kor" page="10" n="11">밤 톄엿 거시나 더러 가져오고</sent>
+<sent type="main" lang="kor" page="10" n="12">계 ᄭᅮᆯ 바다 모과 어더 정과 더러 지어 오나라</sent>
+<sent type="main" lang="kor" page="10" n="13">이 보ᄂᆡᆫ 것 더러 차례여도 ᄡᅳᄋᆞᆸ게 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="10" n="14">샹ᄌᆔ 공ᄒᆞ고 근쳐 죵들의게 공들 바다 보ᄂᆡ라 ᄒᆞ엿더니 아니 바다ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="10" n="15">샹ᄌᆔ 공을 아니 바다 왓거든</sent>
+<sent type="main" lang="kor" page="10" n="16">즉시 사ᄅᆞᆷ을 브려</sent>
+<sent type="main" lang="kor" page="10" n="17">면화도 가져오고 공도 바다 가져오나라</sent>
+</letter>
+
+<letter n="11" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="송병하(아들)" year="1682년*">
+<sent type="envelop1-2" lang="kor" page="11" n="01">아산 ᄒᆡᆼᄎᆞ</sent>
+<sent type="envelop1-2" lang="kor" page="11" n="02">봉</sent>
+<sent type="envelop1-2" lang="kor" page="11" n="03">아긔게</sent>
+<sent type="main" lang="kor" page="11" n="04">여러 날 안부 모ᄅᆞ니 아희 병이 엇던고</sent>
+<sent type="main" lang="kor" page="11" n="05">몰라 답답 념녀ᄒᆞ며</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="06">예셔ᄂᆞᆫ 년ᄒᆞ여 유무를 ᄒᆞ여시되</sent>
+<sent type="main" lang="kor" page="11" n="07">도라오ᄂᆞ니 업ᄉᆞ니 긔별 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="11" n="08">아듕은 무ᄉᆞᄒᆞ니 념녀 마라</sent>
+<sent type="main" lang="kor" page="11" n="09">네 아ᄋᆞ도 간 후 긔별을 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="11" n="10">ᄒᆞ마 집으로 니건가 닛디 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="11" n="11">네 형의 안부도 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="11" n="12">두로 념녀도 만코 심심이 디내노라</sent><!--'심심이'에서 뒤에 오는 '심'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="13">니인은 하인이 만타 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="11" n="14">사ᄅᆞᆷ이나 브렴ᄌᆞᆨᄒᆞ되</sent>
+<sent type="main" lang="kor" page="11" n="15">오래 긔별을 모ᄅᆞ니 답답ᄒᆞ다</sent><!--'답답ᄒᆞ다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="16">너ᄂᆞᆫ 언제나 도라올고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="11" n="17">하인 간다 ᄒᆞᆯᄉᆡ 잠 뎍노라</sent>
+<sent type="main" lang="kor" page="11" n="18">진ᄉᆡ 아라 집으로 가노라 ᄒᆞ엿더니 엇던고</sent>
+<sent type="main" lang="kor" page="11" n="19">대단티나 아닌가 념녀ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="11" n="20">원집 편지 뎐ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="11" n="21">삼월 슌칠일</sent>
+<sent type="main" lang="kor" page="11" n="22">모</sent>
+</letter>
+
+<letter n="12" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1640~1683년">
+<sent type="envelop1-2" lang="kor" page="12" n="01">아긔게</sent>
+<sent type="main" lang="kor" page="12" n="02">네 유무ᄂᆞᆫ 년ᄒᆞ여 보고 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="12" n="03">하현은 어제 가더니 비조차 오니</sent>
+<sent type="main" lang="kor" page="12" n="04">어이 간고 더 닛디 못ᄒᆞᆯ다</sent>
+<sent type="main" lang="kor" page="12" n="05">예ᄂᆞᆫ 하익 어제브터 므ᄉᆞᆷ 병인디 극히 알하</sent>
+<sent type="main" lang="kor" page="12" n="06">블 혀 새아고 담이 무궁 셩ᄒᆞ고 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12" n="07">ᄀᆞᆸᄀᆞᆸᄒᆞ여 디내노라</sent>
+<sent type="main" lang="kor" page="12" n="08">네 주제ᄅᆞᆯ 보ᄂᆞᆫ 듯 닛디 못ᄒᆞ나 ᄒᆞᆯ 일이 업다</sent>
+<sent type="main" lang="kor" page="12" n="09">네 아바님 젹삼 솝것 보ᄂᆡ니 닙어라</sent>
+<sent type="main" lang="kor" page="12" n="10">갓 견홈ᄒᆞ여 보내여라</sent>
+<sent type="main" lang="kor" page="12" n="11">너ᄂᆞᆫ 와 ᄃᆞᆫ녀가기 못ᄒᆞᆯ가 닛디 못ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="12" n="12">심심ᄒᆞ여 이만</sent><!--'심심ᄒᆞ여'에서 뒤에 오는 '심'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="13">즉일</sent>
+<sent type="main" lang="kor" page="12" n="14">모</sent>
+</letter>
+
+<letter n="13" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1640~1682년">
+<sent type="main" lang="kor" page="13" n="01">요ᄉᆞ이 긔별 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="13" n="02">아희 병은 수이 ᄒᆞ리던가 일야 념녀ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="13" n="03">예도 어마님 병환이 지금 ᄒᆞ리디 못ᄒᆞ여 누어 겨시니</sent>
+<sent type="main" lang="kor" page="13" n="04">민망민망ᄒᆞ여 디내노라</sent><!--'민망민망ᄒᆞ여'에서 뒤에 오는 '민망'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13" n="05">나가기ᄂᆞᆫ 어이ᄒᆞ려 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="13" n="06">셔울흔 아직 피란 소동은 급디 아니ᄒᆞ니 </sent>
+<sent type="main" lang="kor" page="13" n="07">싀골흔 므ᄉᆞᆷ 긔별이 잇ᄂᆞᆫ고 몰나 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="13" n="08">계유 오니 동ᄉᆡᆼ들도 예 잇ᄂᆞ니 밧근 보디 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13" n="09">원집도 ᄒᆡ산 후 가셔 병환 겨신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="13" n="10">조븐 ᄃᆡ 와 디내기 민망ᄒᆞ여 못 와</sent>
+<sent type="main" lang="kor" page="13" n="11">셰후나 ᄃᆞ녀오고져 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="13" n="12">겻집의 역질이 드러시니</sent>
+<sent type="main" lang="kor" page="13" n="13">왓다가 ᄯᅩ 의외예 ᄒᆞ게 되면</sent>
+<sent type="main" lang="kor" page="13" n="14">쥬인도 민망ᄒᆞ여 ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="kor" page="13" n="15">낸들 ᄒᆞᆫ 방의 이셔 민망ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="13" n="16">ᄃᆞ려오기도 ᄉᆞ셰 민망코</sent>
+<sent type="main" lang="kor" page="13" n="17">아니키도 수이 가게 되면 제곰 잇기도 졀박ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="13" n="18">아므리 ᄒᆞᆯ 줄 몰나 심난ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="13" n="19">명녜동은 갓가오니 ᄌᆞ로 년신ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13" n="20">어든 거시면 보내시고</sent>
+<sent type="main" lang="kor" page="13" n="21">하 극진히 ᄒᆞ시니 고맙ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="13" n="22">일면 안심티 아니ᄒᆞ외 편지 맛다 보내ᄂᆡ</sent>
+<sent type="main" lang="kor" page="13" n="23">납월 념오일</sent>
+<sent type="main" lang="kor" page="13" n="24">모</sent>
+</letter>
+
+<letter n="14" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들 부부)" year="1675년">
+<sent type="envelop1-2" lang="kor" page="14" n="01">아기내게 겸답</sent>
+<sent type="envelop1-2" lang="kor" page="14" n="02">봉</sent>
+<sent type="envelop1-2" lang="kor" page="14" n="03">송 셔방손ᄃᆡ</sent>
+<sent type="main" lang="kor" page="14" n="04">긔별 몰라 답답 념녀 ᄀᆞ이업더니</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="05">유무 보고 무ᄉᆞ히 이시니 깃브나</sent>
+<sent type="main" lang="kor" page="14" n="06">튜탈ᄒᆞ신 일은 망극ᄒᆞᄋᆞᆸᄭᅵ ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="14" n="07">나ᄂᆞᆫ 계유 무ᄉᆞ히 디내나</sent>
+<sent type="main" lang="kor" page="14" n="08">어마님겨오셔 엇그제 ᄂᆡᆼᄇᆡ를 알흐셔</sent>
+<sent type="main" lang="kor" page="14" n="09">ᄒᆞᄅᆞ밤은 극듕ᄒᆞ시니 ᄀᆞᆸᄀᆞᆸᄒᆞᄋᆞᆸ더니</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞᄋᆞᆸ더니'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="10">져기 ᄒᆞ려 디내오시더니</sent>
+<sent type="main" lang="kor" page="14" n="11">수일재 ᄯᅩ 대단히 알흐시ᄂᆞᆫ ᄃᆡᄂᆞᆫ 업ᄉᆞ나</sent>
+<sent type="main" lang="kor" page="14" n="12">진지도 못 잡ᄉᆞᆸ고 신음ᄒᆞ여 디내오시니 민망ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="14" n="13">ᄌᆞ로 편티 못ᄒᆞ오시니 ᄆᆞᄋᆞᆷ이 아므라타 업다</sent>
+<sent type="main" lang="kor" page="14" n="14">사ᄒᆡᆨ 일로 듀야 념녀ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="14" n="15">그 말이 업ᄉᆞ니 거ᄌᆞᆺ말이 낫ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="14" n="16">긔별이 못 미쳐 갓ᄂᆞᆫ가 몰라 답답다</sent><!--'답답다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="17">ᄂᆞ려가기ᄂᆞᆫ 낸들 시절 일을 아디 못ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="14" n="18">오래 이실 계교야 ᄒᆞᄒᆞ랴만은</sent>
+<sent type="main" lang="kor" page="14" n="19">오난티골은 계유 ᄒᆞᆫᄃᆡ 역질로 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="14" n="20">동ᄉᆡᆼ들도 당시 못 보왓고</sent>
+<sent type="main" lang="kor" page="14" n="21">어마님겨셔도 병듕ᄋᆡ 수이 가려 ᄒᆞᄂᆞᆫ 긔별 드르시고</sent>
+<sent type="main" lang="kor" page="14" n="22">하 구쳐 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="14" n="23">ᄎᆞ마 어이 ᄠᅥ나오며</sent>
+<sent type="main" lang="kor" page="14" n="24">날이 요ᄉᆞ이ᄂᆞᆫ 엄한이 도여시니</sent>
+<sent type="main" lang="kor" page="14" n="25">아므린들 이제 어이 가리</sent>
+<sent type="main" lang="kor" page="14" n="26">소셜이 잇+</sent>
+</letter>
+
+<letter n="15" sender="배천조씨" writer="배천조씨" receiver="미상" year="1625~1683년">
+<sent type="main" lang="kor" page="15" n="01">죠용ᄒᆞᆫ ᄠᅢ 업서 ᄉᆞᇣ디 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15" n="02">죵도 이러셔 가ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="15" n="03">업서 못 닐러 보ᄂᆡ니 네게로 뎍노라</sent>
+<sent type="main" lang="kor" page="15" n="04">념지익의게 명디 갑ᄉᆡ 넉 냥을 줄 거시 이시ᄃᆡ 못ᄒᆞ여 보ᄂᆡ니</sent>
+<sent type="main" lang="kor" page="15" n="05">셔울 공이나 바다든 엿ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="15" n="06">다 못ᄒᆞᆯ디라도 두 냥 갑시나 몬져 주어라</sent>
+<sent type="main" lang="kor" page="15" n="07">무명도 못 어더 주거든</sent>
+<sent type="main" lang="kor" page="15" n="08">ᄌᆡ를 보와든 갑ᄉᆞᆯ 주라 ᄒᆞ시ᄃᆡ</sent>
+<sent type="main" lang="kor" page="15" n="09">못ᄒᆞ니 미처 어더 주마 닐러라</sent>
+<sent type="main" lang="kor" page="15" n="10">샹인의 거ᄉᆞᆯ 지금 못 주니</sent>
+<sent type="main" lang="kor" page="15" n="11">저ᄂᆞᆫ 니젓ᄂᆞᆫ가 너길가 안심티 아니타</sent>
+</letter>
+
+<letter n="16" sender="배천조씨" writer="배천조씨" receiver="미상" year="1668~1683년">
+<sent type="main" lang="kor" page="16" n="01">□ᄒᆞ여 유무 보고 든든ᄒᆞ며         </sent><!--'든든ᄒᆞ며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="02">희범은 차도ᄂᆞᆫ 의심 업시 어덧ᄂᆞᆫ가 시브니 다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ되</sent><!--'다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ되'에서 뒤에 오는 '다ᄒᆡᆼ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="03">이제도 니러 안ᄯᅵ 못ᄒᆞᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="16" n="04">언제야 쾌차ᄒᆞᆫ 긔별을 드를고 민망ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="16" n="05">니인 긔별 몰라 ᄒᆞ더니 병이 나앗다 ᄒᆞ니 깃브다</sent>
+<sent type="main" lang="kor" page="16" n="06">잇ᄂᆞᆫ 하인의 ᄒᆞᆫ 열희 ᄒᆞᆫ 번식이나 사ᄅᆞᆷ을 브리면 ᄒᆞ련만은</sent>
+<sent type="main" lang="kor" page="16" n="07">긔별을 모ᄅᆞ니 답답ᄒᆞ다</sent><!--'답답ᄒᆞ다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="08">네 아이 집으로 가며 유무 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="16" n="09">반찬이 업서 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="16" n="10">게 업ᄉᆞᆫ ᄉᆡᆼ믈을 어더</sent>
+<sent type="main" lang="kor" page="16" n="11">하인을 브리라 ᄒᆞ엿더라만은</sent>
+<sent type="main" lang="kor" page="16" n="12">셔울 사ᄅᆞᆷ이 날마다 가거든</sent>
+<sent type="main" lang="kor" page="16" n="13">내 어ᄃᆡ 가 사ᄅᆞᆷ 브리라 ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="16" n="14">졔믈 가져 하인 간다 ᄒᆞ매 □ 뎍노라</sent>
+<sent type="main" lang="kor" page="16" n="15">네 동ᄉᆡᆼ들의게 가ᄂᆞᆫ 유무 뎐ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="16" n="16">답□ □다 가라 ᄒᆞ여라</sent>
+</letter>
+
+<letter n="17" sender="배천조씨" writer="배천조씨" receiver="미상" year="1681년">
+<sent type="main" lang="kor" page="17" n="01">두 번 ᄒᆞᆫ 유무 보고 됴히 이시니 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17" n="02">하익이ᄂᆞᆫ ᄠᅥ난 디 날포 되니 언제 올고 기드리더니</sent>
+<sent type="main" lang="kor" page="17" n="03">의외예 두고 오시니 섭섭ᄭᅵ ᄀᆞ이업고</sent><!--'섭섭ᄭᅵ'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="03">더옥 고단ᄒᆞ여 디내노라</sent>
+<sent type="main" lang="kor" page="17" n="04">울기나 아니코 됴히 잇ᄂᆞ냐 못 니저 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17" n="05">모ᄅᆡ 실옥 ᄒᆡᆼᄎᆡ 이리 디나니 구시 거륵다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="17" n="06">너희 못 뵈니 애ᄃᆞᇣ다</sent>
+<sent type="main" lang="kor" page="17" n="07">나도 겨을 거ᄉᆞᆯ 시방 ᄒᆞ니 아니 닙으랴 념녀 마라</sent>
+<sent type="main" lang="kor" page="17" n="08">다만 심심ᄒᆞᆫ 일이 하 만흐니 긔괴로와 ᄒᆞ노라</sent><!--'심심ᄒᆞᆫ'에서 뒤에 오는 '심'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="09">밧바 이만</sent>
+<sent type="main" lang="kor" page="17" n="10">초뉵일 야</sent>
+<sent type="main" lang="kor" page="17" n="10">득ᄉᆡᆼ이ᄃᆞ려 겹내 면화 수이 바다 보내라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="17" n="10">제 명디 과그리 ᄒᆞ여 줄 셰 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="17" n="10">설워 내 못 이긔게 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="17" n="10">그 명디나 이놈 오ᄂᆞᆫ ᄃᆡ 보내라 ᄒᆞ여라</sent>
+</letter>
+
+<letter n="18" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1675년">
+<sent type="main" lang="kor" page="18" n="01">+다 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="18" n="02">셔울흔 아직 급ᄒᆞᆫ 소동은 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="18" n="03">설어 졍월 회간으로 가고져 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="18" n="04">그리 아라 인마를 보내여라</sent>
+<sent type="main" lang="kor" page="18" n="05">홍둉진 ᄒᆡᆼᄎᆞ의 유무 ᄒᆞ마 ᄒᆞ니 기드리노라</sent>
+<sent type="main" lang="kor" page="18" n="06">슈원 ᄉᆞ촌 네재 치 ᄯᅩ 염질로 구티 못ᄒᆞ다 ᄒᆞ니 참혹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="18" n="07">송 별쟝 ᄒᆡᆼᄎᆞ의 유무ᄒᆞ엿고 총망여 이만</sent>
+<sent type="main" lang="kor" page="18" n="08">이놈은 닐웬 만의 오고</sent>
+<sent type="main" lang="kor" page="18" n="09">양식도 먹고 왓노라 ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="18" n="10">ᄡᅳᆯ ᄃᆡ 이셔 ᄡᆞᆯ은 서 말 ᄑᆞᆺ ᄒᆞᆫ 말을 ᄭᅮ어 ᄡᅥ시니</sent>
+<sent type="main" lang="kor" page="18" n="11">셰후 브ᄃᆡ 보내여라</sent>
+<sent type="main" lang="kor" page="18" n="12">어마님ᄭᅴ 잡ᄉᆞᆸᄭᅦ 쇼쥬 ᄒᆞᆫ 병만 ᄒᆞ여 보내면 ᄌᆞᆨᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="18" n="13">ᄒᆡᆼ혀 사ᄅᆞᆷ 브리거든 명현이를 브듸 보내여라</sent>
+<sent type="main" lang="kor" page="18" n="14">어마님겨셔ᄂᆞᆫ 시방 편티 아녀 누어 겨시니 편지 못ᄒᆞ신다</sent>
+<sent type="main" lang="kor" page="18" n="15">납월 십ᄉᆞ일</sent>
+<sent type="main" lang="kor" page="18" n="16">모</sent>
+</letter>
+
+<letter n="19" sender="배천조씨" writer="배천조씨" receiver="미상" year="1625~1683년">
+<sent type="main" lang="kor" page="19" n="01">안 양식은 초ᄒᆞᄅᆞᆫ날 벼 셜흔 말 드리고</sent>
+<sent type="main" lang="kor" page="19" n="02">ᄯᅩ 열닷 말 드리고</sent>
+<sent type="main" lang="kor" page="19" n="03">ᄯᅩ 너 간 후 열 말 드리니</sent>
+<sent type="main" lang="kor" page="19" n="04">이샹의 두 셤 열닷 말 드리ᄃᆡ</sent>
+<sent type="main" lang="kor" page="19" n="05">ᄯᅩ 모ᄌᆞ란다 ᄒᆞ니 하 헤프니 민망ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="19" n="06">흥뇽 아기내 세히 ᄆᆞ양 잇듯 ᄒᆞ니 그러커니와</sent>
+<sent type="main" lang="kor" page="19" n="07">ᄡᅳ기도 너모 쉽고</sent>
+<sent type="main" lang="kor" page="19" n="08">날ᄃᆞ려 혜아려 마련ᄒᆞ여 드리라 ᄒᆞᆫ들</sent>
+<sent type="main" lang="kor" page="19" n="09">내 어이 산계를 ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="19" n="10">새ᄃᆞᆯ은 뇨를 어이 드릴디</sent>
+<sent type="main" lang="kor" page="19" n="11">본뇨 셜흔 말이오</sent>
+<sent type="main" lang="kor" page="19" n="12">상쟈 칠 홉으로 열 말 드리면 두 셤이 되나</sent>
+<sent type="main" lang="kor" page="19" n="13">ᄭᅵ로 혹 예셔 먹이기도 브졀업ᄉᆞᆫ 식귀 만코 오락가락ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="19" n="14">그 아ᄒᆡ들란 그 벼를 내게 ᄯᅵ허 두고</sent>
+<sent type="main" lang="kor" page="19" n="15">온 제란 먹이고 아니 온 제란 말면 엇덜고</sent>
+<sent type="main" lang="kor" page="19" n="16">아므리 드리ᄂᆞᆫ 냥으로 넉넉다 ᄒᆞᆯ 셰 업서 플ᄡᆞᆯ도 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="19" n="17">젼의 어드라 보ᄂᆡ노라 ᄒᆞ고 인마를 보ᄂᆡ니 </sent>
+<sent type="main" lang="kor" page="19" n="18">젼과도 다ᄅᆞ고</sent>
+<sent type="main" lang="kor" page="19" n="19">그런 민망 +</sent>
+</letter>
+
+<letter n="20" sender="배천조씨" writer="배천조씨" receiver="미상" year="1625~1683년">
+<sent type="main" lang="kor" page="20" n="01">졔믈</sent>
+<sent type="main" lang="kor" page="20" n="02">광어 둘 문어 네 가래 젼복 네 곳</sent>
+<sent type="main" lang="kor" page="20" n="03">졍과 항</sent>
+<sent type="main" lang="kor" page="20" n="04">게젓 열 건슈어 ᄒᆞ나 은구어 네</sent>
+<sent type="main" lang="kor" page="20" n="05">밤다식 셜흔 왜감ᄌᆞ 아홉</sent>
+<sent type="main" lang="kor" page="20" n="06">귤 여ᄃᆞᆲ 블근 감ᄌᆞ 닐곱</sent>
+<sent type="main" lang="kor" page="20" n="07">블근 감ᄌᆞ 닐곱으란 큰 ᄉᆞ당의 쳔신ᄒᆞᄋᆞᆸᄭᅦ 보ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="20" n="08">왜감ᄌᆞ 귤란 큰 졔예 ᄡᅳᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="20" n="09">더러란 차례예 ᄡᅳᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="20" n="10">밤다식도 차례예 ᄡᅳ와라</sent>
+</letter>
+
+<letter n="21" sender="배천조씨(어머니)" writer="배천조씨(어머니)" receiver="미상(아들)" year="1650~1682년">
+<sent type="envelop1-2" lang="kor" page="21" n="01">아긔게 답셔</sent>
+<sent type="envelop1-2" lang="kor" page="21" n="02">봉</sent>
+<sent type="main" lang="kor" page="21" n="03">고올 하인 오나늘 유무 보고</sent>
+<sent type="main" lang="kor" page="21" n="04">범첩ᄭᅩᆯ 아희ᄂᆞᆫ 어ᄂᆡ가 죽은고</sent>
+<sent type="main" lang="kor" page="21" n="05">슌인이ᄂᆞᆫ 아니 와시니 ᄌᆞ시 몰라 더옥 답답고</sent><!--'답답고'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="06">ᄒᆡᆼ혀 큰 아흰가 참혹ᄒᆞ기 ᄀᆞ이업서 아므라타 못ᄒᆞᆯ다</sent>
+<sent type="main" lang="kor" page="21" n="07">인마ᄂᆞᆫ 수이 보ᄂᆡ려 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="21" n="08">젼의ᄂᆞᆫ 보낼 계규 아니타가 급피 보내ᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="21" n="09">네 병이 더 듕ᄒᆞ니 그런ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="21" n="10">ᄌᆞ시 몰라 ᄆᆞᄋᆞᆷ이 아므라 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="21" n="11">초젼ᄭᅩᆯ로 드르니 둘재 아희라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="21" n="11">그대도록 신고ᄒᆞ여 그만치나 길러셔</sent>
+<sent type="main" lang="kor" page="21" n="12">그런 앗갑고 참혹ᄒᆞᆫ 일이 어ᄃᆡ 이시리</sent>
+<sent type="main" lang="kor" page="21" n="13">제 부모 졍ᄉᆞᄅᆞᆯ ᄉᆡᆼ각거든 더옥 ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="21" n="14">슌인이ᄂᆞᆫ 지금 아니 오니 고이ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="21" n="15">이 과ᄌᆞᆯ 됴티 아니나 보내노라</sent>
+<sent type="main" lang="kor" page="21" n="16">밧바 이만</sent>
+<sent type="main" lang="kor" page="21" n="17">뉵월 념삼일</sent>
+<sent type="main" lang="kor" page="21" n="18">모</sent>
+</letter>
+
+<letter n="22" sender="송병하" writer="송병하" receiver="미상" year="1687년">
+<sent type="main" lang="kor" page="22" n="01">그적긔 우죵이 가올 적 편지 알외ᄋᆞᆸ더니 보ᄋᆞᆸ신가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="22" n="02">그ᄉᆞ이 긔운이나 엇더ᄒᆞᄋᆞᆸ신잇가</sent>
+<sent type="main" lang="kor" page="22" n="03">장ᄉᆞ날이 졈졈 다ᄃᆞ라 오ᄋᆞᆸ시니</sent><!--'졈졈'에서 뒤에 오는 '졈'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="04">ᄌᆞᆨ히 새로이 망극ᄒᆞᄋᆞᆸ시랴</sent>
+<sent type="main" lang="kor" page="22" n="05">일시 블이ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="22" n="06">ᄉᆡᆼ은 ᄀᆞᆯ랴 입득을 ᄒᆞ오니 일시 밧브오니</sent>
+<sent type="main" lang="kor" page="22" n="07">이젼의 알외ᄋᆞᆸ던 말ᄉᆞᆷ ᄌᆞ셰 밧비 회보ᄒᆞᄋᆞᆸ쇼셔</sent>
+<sent type="main" lang="kor" page="22" n="08">맛ᄎᆞᆷ 블의예 뎐뎐 사ᄅᆞᆷ이 오매</sent><!--'뎐뎐'에서 뒤에 오는 '뎐'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="09">밧그로셔만 계요 뎍ᄉᆞ와 문안이나 아ᄋᆞᆸ고져 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="22" n="10">공ᄌᆔᄂᆞᆫ 하인을 브리왓ᄉᆞᆸ더니 못 도라왓ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="22" n="11">년ᄒᆞ여 긔운이나 부디 ᄒᆞᄋᆞᆸ심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="22" n="12">뎡묘 팔월 십팔일</sent>
+<sent type="main" lang="kor" page="22" n="13">ᄉᆡᆼ 송병하 샹셔</sent>
+</letter>
+
+<letter n="23" sender="안정나씨(어머니)" writer="안정나씨(어머니)" receiver="미상(아들)" year="1700년">
+<sent type="envelop1-2" lang="kor" page="23" n="01">흥경이게</sent>
+<sent type="envelop1-2" lang="kor" page="23" n="02">봉</sent>
+<sent type="main" lang="kor" page="23" n="03">유무 보고 길ᄒᆡ 뫼ᄋᆞᆸ고 됴히 가시니</sent>
+<sent type="main" lang="kor" page="23" n="04">깃브고 반겨 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="23" n="05">예ᄂᆞᆫ 그ᄉᆞ이ᄂᆞᆫ 됴히 잇노라</sent>
+<sent type="main" lang="kor" page="23" n="06">션산은 저ᄂᆞᆫ 이시냥으로 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="23" n="07">글 지을 동뫼 업고 벗이 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="23" n="08">막 공부ᄅᆞᆯ ᄒᆞ고져 ᄒᆞᄂᆞᆫ 아ᄒᆡ 다 허히 디낼 일이 민망ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="23" n="09">션산을 가셔 ᄒᆞᆫ두 ᄃᆞᆯ이나 가셔 공부ᄅᆞᆯ ᄒᆞ고 오라 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="23" n="10">고집피 ᄉᆞ양ᄒᆞ고 우리게ᄂᆞᆫ 든든ᄒᆞᄃᆡ</sent><!--'든든ᄒᆞᄃᆡ'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="11">공부ᄅᆞᆯ 못ᄒᆞ고 아ᄒᆡ 거시 벗 업시 혼자 이실 일이 안심티 아니ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="23" n="12">이런 더위예 ᄒᆞᆫ시도 그치디 아니ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="23" n="13">죵일ᄒᆞ여 글을 닑으니 긔특다</sent>
+<sent type="main" lang="kor" page="23" n="14">너ᄂᆞᆫ 글을 시작ᄒᆞ여 닑노라 말 듯고 깃거 답장을 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="23" n="15">브ᄃᆡ 브ᄌᆞ런이 닑ᄂᆞᆫ다 말이 내 귀예 오게 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="23" n="16">나ᄅᆞᆯ ᄡᅵᆷ증 나게 말고</sent>
+<sent type="main" lang="kor" page="23" n="17">아직 먼 ᄃᆡ 스승 구티 아닌 젼 일가의ᄂᆞᆫ 모안손 잇증이 될 거시니</sent>
+<sent type="main" lang="kor" page="23" n="18">내 처음 니ᄅᆞ던 대로</sent>
+<sent type="main" lang="kor" page="23" n="19">밤낫 모안손의게 동쳐ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="23" n="20">일둉 글 의논ᄒᆞ기ᄅᆞᆯ 그 의논대로 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="23" n="21">몬졔 못 보낸 됴ᄒᆡ 덩이 지은 것 ᄒᆞᆫ 고리 ᄧᅡᆨ 가니 ᄒᆞᆫᄃᆡ ᄠᅳ이게 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="23" n="22">몬졔 홍ᄌᆔ 김ᄃᆡᆨ 유무예</sent>
+<sent type="main" lang="kor" page="23" n="23">너ᄅᆞᆯ 글을 브ᄌᆞ런이 ᄒᆞ여 ᄎᆔᄒᆞᆨᄒᆞ기ᄅᆞᆯ 쳔만 ᄇᆞ라노라 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="23" n="24">오촌 족댱 ᄉᆞ이예 그러ᄒᆞ니 아니 고마오냐</sent>
+<sent type="main" lang="kor" page="23" n="25">그런 일노 ᄉᆡᆼ각ᄒᆞ여도 브ᄃᆡ ᄀᆡ과쳔션을 ᄒᆞ여야 올ᄒᆞ니라</sent>
+<sent type="main" lang="kor" page="23" n="26">이만 뎍으며 브ᄌᆞ런이 ᄒᆞ믈 슌슌 왕내거라 ᄒᆞ고</sent><!--'슌슌'에서 뒤에 오는 '슌'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="27">ᄎᆡᆨ 전수 ᄆᆞᆺᄂᆞᆫ 일도 긔별ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="23" n="28">ᄆᆞᄋᆞᆷ을 죠용히 ᄒᆞ여야</sent>
+<sent type="main" lang="kor" page="23" n="29">모쳐 간 고ᄃᆡ ᄒᆞᆫ낫 삼촌을 걱졍시기디 아닐 일도 ᄉᆡᆼ각ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="23" n="30">뫼ᄋᆞᆸ고 됴히 잇거라</sent>
+<sent type="main" lang="kor" page="23" n="31">경진 오월 념일</sent>
+<sent type="main" lang="kor" page="23" n="32">모</sent>
+</letter>
+
+<letter n="24" sender="안정나씨(어머니)" writer="안정나씨(어머니)" receiver="송요화(아들)" year="1708~1736년">
+<sent type="envelop1-2" lang="kor" page="24" n="01">인손 부의게</sent>
+<sent type="main" lang="kor" page="24" n="02">간 후 긔별 모ᄅᆞ니 엇디 득달ᄒᆞᆫ고</sent>
+<sent type="main" lang="kor" page="24" n="03">듀야 념녀ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="24" n="04">의외예 이쳔이 오나ᄂᆞᆯ 드르니</sent>
+<sent type="main" lang="kor" page="24" n="05">무ᄉᆞ히 득달ᄒᆞᆫ 긔별을 듯고 깃브기 ᄀᆞ이업ᄉᆞ나</sent>
+<sent type="main" lang="kor" page="24" n="06">어이 ᄒᆞᆫ ᄌᆞ 편지도 아냐시니</sent>
+<sent type="main" lang="kor" page="24" n="07">나도 너ᄅᆞᆯ ᄠᅥ나고 집안이 다 뷔ᄃᆞᆺ ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="24" n="08">섭섭 그 덧도 그리워 굿버ᄒᆞ던ᄃᆡ</sent><!--'섭섭'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="09">편지도 아냐시니 실로 섭섭기 ᄀᆞ이업고</sent><!--'섭섭기'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="10">졍이 업ᄉᆞᆫ ᄃᆞᆺ시브다</sent>
+<sent type="main" lang="kor" page="24" n="11">인손이 알코 파려ᄒᆞ엿다 ᄒᆞ니 념녀 ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="24" n="12">지위ᄒᆞ려 가니 어이 깃브ᄃᆡ</sent>
+<sent type="main" lang="kor" page="24" n="13">어이 ᄎᆞᆯ혀 ᄒᆞ며 지위 아니시나 어이ᄒᆞᆯ고 념녀ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24" n="14">네 어마님도 이제도 자리의 누어 채 셩티 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="24" n="15">네 형도 뎌리 알슬고 음식을 진 못 먹으니</sent>
+<sent type="main" lang="kor" page="24" n="16">날은 차ᄃᆡ 일 가지가지 졀박ᄒᆞ다</sent><!--'가지가지'에서 뒤에 오는 '가지'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="17">ᄒᆞᆯ 말 만흐ᄃᆡ 형도 와 이만 뎍노라</sent>
+<sent type="main" lang="kor" page="24" n="18">아마도 됴히 이셔 브ᄃᆡ ᄒᆞᆫ ᄌᆞᆯ만뎡 편지ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="24" n="19">구월 념칠일</sent>
+<sent type="main" lang="kor" page="24" n="20">한미</sent>
+</letter>
+
+<letter n="25" sender="안정나씨(아내)" writer="안정나씨(아내)" receiver="송병하(남편)" year="1668~1698년">
+<sent type="envelop1-2" lang="kor" page="25" n="01">답샹장</sent>
+<sent type="envelop1-2" lang="kor" page="25" n="02">근봉</sent>
+<sent type="main" lang="kor" page="25" n="03">요ᄉᆞ이 댱마 더위 하 괴롭ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="25" n="04">긔운이나 엇더ᄒᆞ오시니잇가 념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="25" n="05">예ᄂᆞᆫ 계요 대단ᄒᆞᆫ 일은 업시 디내오며</sent>
+<sent type="main" lang="kor" page="25" n="06">즈ᄌᆞᆯᄒᆞᆫ 댱마ᄅᆞᆯ 만나 병듕의 가지가지 괴롭ᄉᆞ오이다</sent><!--'가지가지'에서 뒤에 오는 '가지'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="07">거월 념후 김안음 ᄃᆡᆨ 사ᄅᆞᆷ 가올 적 </sent>
+<sent type="main" lang="kor" page="25" n="08">편지ᄒᆞ고 보낸 것들 가ᄉᆞᆸ던가 모ᄅᆞ와 ᄒᆞᄋᆞᆸ더이다</sent>
+<sent type="main" lang="kor" page="25" n="09">뎌적ᄞᅴ ᄎᆞᄡᅵ 오올 적 뎍ᄉᆞᆸ시니 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="25" n="10">대단ᄒᆞᆫ 연고ᄂᆞᆫ 업시 디내오시니 다ᄒᆡᆼᄒᆞ더이다</sent>
+<sent type="main" lang="kor" page="25" n="11">관ᄃᆡᄂᆞᆫ 아래 ᄒᆞᆯ 계교 못ᄒᆞ엿ᄂᆞᆫ가 시브오니 </sent>
+<sent type="main" lang="kor" page="25" n="12">어이ᄒᆞᆯ고 민망ᄒᆞ와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="25" n="13">ᄀᆞ을 ᄉᆞ이나 엇디ᄒᆞᆯ가 쳔쳔 됴토록 ᄉᆡᆼ각ᄒᆞ여 보사이다</sent><!--'쳔쳔'에서 뒤에 오는 '쳔'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="14">무명 관ᄃᆡᄂᆞᆫ 봉이 등짐이오</sent>
+<sent type="main" lang="kor" page="25" n="15">댱마도 것디 못ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="25" n="16">아직 법ᄉᆞ 오실 ᄯᅢ도 아니니 쳔쳔 보내리이다</sent><!--'쳔쳔'에서 뒤에 오는 '쳔'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="17">밋븐 왕ᄂᆡᄅᆞᆯ 대경과 아라 의논ᄒᆞ여 보리이다</sent>
+<sent type="main" lang="kor" page="25" n="18">이번 보내오신 계ᄌᆞᄡᅵ도 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="25" n="19">두 가지 다 그리 가오나 깃브와 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="25" n="20">나ᄂᆞᆫ 거월브터 왼편 녑피 올ᄒᆞᆫ편보다가ᄂᆞᆫ 더워</sent>
+<sent type="main" lang="kor" page="25" n="21">인셕이나 신 ᄉᆡᆼ원이나 증을 잡디 못ᄒᆞ여 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="25" n="22">그려ᄂᆞᆫ 여러 의원의게 무ᄅᆞ면 혹 나을가 ᄒᆞ더라 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="25" n="23">전 쥬뷔 한가히 잇고</sent>
+<sent type="main" lang="kor" page="25" n="24">셔울 ᄆᆡ양 잇ᄂᆞᆫ 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="kor" page="25" n="25">아ᄂᆞᆫ 사ᄅᆞᆷ이 만ᄒᆞᆯ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" lang="kor" page="25" n="26">여러 의원의게 무러도 병녹을 뎌거 보내오니</sent>
+<sent type="main" lang="kor" page="25" n="27">내일 삼촌 젼 쥬부ᄭᅴ도 뎐ᄒᆞᄋᆞᆸ쇼셔</sent>
+<sent type="main" lang="kor" page="25" n="28">이만 뎍ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="25" n="29">하 밧브와 아ᄒᆡ게 편지 못ᄒᆞ오니 섭섭ᄒᆞ오이다</sent><!--'섭섭ᄒᆞ오이다'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="30">이만 뎍ᄉᆞ오며 아마도 평안ᄒᆞ오쇼셔</sent>
+<sent type="main" lang="kor" page="25" n="31">칠월 초구일</sent>
+<sent type="main" lang="kor" page="25" n="32">나</sent>
+</letter>
+
+<letter n="26" sender="안정나씨(할머니)" writer="안정나씨(할머니)" receiver="미상(손자)*" year="1708~1736년">
+<sent type="envelop1-1" lang="kor" page="26" n="01">흥경의게</sent>
+<sent type="main" lang="kor" page="26" n="02">네 형 간 후 긔별도 심히 모ᄅᆞ니 답답ᄒᆞ다 </sent><!--'답답ᄒᆞ다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="03">네 형은 므ᄉᆞ히 가시며</sent>
+<sent type="main" lang="kor" page="26" n="04">너ᄒᆡ 대되 됴히들 잇ᄂᆞ다</sent>
+<sent type="main" lang="kor" page="26" n="05">념녀 브리디 못ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="26" n="06">네 형 가시니 든든이 디내다가 오게 되니</sent><!--'든든이'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="07">혼자셔들 어이 디낼고 ᄯᅩ 념녀로다</sent>
+<sent type="main" lang="kor" page="26" n="08">네 아자비 나라 병환으로 날마다 분조ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="26" n="09">오ᄂᆞᆯ 낙샹을 듕히 ᄒᆞ니 ᄆᆞ이 샹연ᄂᆞᆫ가 ᄀᆞᆸᄀᆞᆸ다</sent>
+<sent type="main" lang="kor" page="26" n="10">너ᄂᆞᆫ 언제 어이 볼고 그립기 ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="26" n="11">하 총망ᄒᆞ여 이만 뎍노라</sent>
+<sent type="main" lang="kor" page="26" n="12">브ᄃᆡ브ᄃᆡ 조심ᄒᆞ여 됴히 잇거라</sent><!--'브ᄃᆡ브ᄃᆡ'에서 뒤에 오는 '브ᄃᆡ'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="13">오월 망일</sent>
+<sent type="main" lang="kor" page="26" n="14">한미</sent>
+</letter>
+
+<letter n="27" sender="송요화(시아버지)" writer="송요화(시아버지)" receiver="여흥민씨(며느리)" year="1753년">
+<sent type="envelop1-1" lang="kor" page="27" n="01">홍쳔실ᄂᆡ 답셔</sent>
+<sent type="envelop1-1" lang="kor" page="27" n="02">[수결：堯] 봉</sent>
+<sent type="main" lang="kor" page="27" n="03">관인 오ᄂᆞᆫᄃᆡ 글시 보고 든든ᄒᆞ며</sent><!--'든든ᄒᆞ며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="04">그ᄉᆞ이 ᄒᆡ 밧ᄀᆞ여시니</sent>
+<sent type="main" lang="kor" page="27" n="05">대되 무ᄉᆞ히 지낸다</sent>
+<sent type="main" lang="kor" page="27" n="06">념녀 브리지 못ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="27" n="07">나ᄂᆞᆫ ᄒᆞᆫ가지로 지내나</sent>
+<sent type="main" lang="kor" page="27" n="08">새ᄒᆡ를 만나 두루 ᄉᆡᆼ각ᄒᆞ니 섭섭ᄒᆞ다</sent><!--'섭섭ᄒᆞ다'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="09">잠 뎍노라</sent>
+<sent type="main" lang="kor" page="27" n="10">계유 원월 삼일</sent>
+<sent type="main" lang="kor" page="27" n="11">구</sent>
+</letter>
+
+<letter n="28" sender="송요하(시아버지)" writer="송요하(시아버지)" receiver="여흥민씨(며느리)" year="1753년">
+<sent type="envelop1-1" lang="kor" page="28" n="01">홍쳔실ᄂᆡ</sent>
+<sent type="envelop1-1" lang="kor" page="28" n="02">[수결：堯] 봉</sent>
+<sent type="main" lang="kor" page="28" n="03">ᄒᆡᆼᄎᆞ 오ᄂᆞᆫ ᄃᆡ 글시 보고</sent>
+<sent type="main" lang="kor" page="28" n="04">무ᄉᆞᄒᆞᆫ 일 알고 든든ᄒᆞ며</sent><!--'든든ᄒᆞ며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="05">ᄒᆡᆼᄎᆞ도 무ᄉᆞ히 와시니 다ᄒᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="28" n="06">예도 ᄒᆞᆫ가지로 지낸다</sent>
+<sent type="main" lang="kor" page="28" n="07">야현 신집 편지도 보아시며</sent>
+<sent type="main" lang="kor" page="28" n="08">신집 사당도 바다 먹노라</sent>
+<sent type="main" lang="kor" page="28" n="09">희슴슴ᄒᆞ던 얼굴이 졈졈 나은 ᄃᆞᆺ 시브다</sent><!--'희슴슴ᄒᆞ던'에서 뒤에 오는 '슴'은 재점(〃)으로 표기되어 있음--><!--'졈졈'에서 뒤에 오는 '졈'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="10">답장 못ᄒᆞ니 젼ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="28" n="11">혼인은 졍ᄒᆞᆫ 대로 지내ᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="28" n="12">날 더워도 어렵거니와</sent>
+<sent type="main" lang="kor" page="28" n="13">범ᄇᆡᆨ을 엇지 미처 쥬변ᄒᆞᆯ고 념녀ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28" n="14">졔믈이 ᄆᆞ양 이리 아니 오기로</sent>
+<sent type="main" lang="kor" page="28" n="15">먼 ᄃᆡ 산소의 졀육 ᄀᆞ튼 거시나 괴게 ᄒᆞ여 보내노라 ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="28" n="16">ᄆᆞ이 군급ᄒᆞ다 ᄒᆞ니 장동ᄃᆞ려 닐너</sent>
+<sent type="main" lang="kor" page="28" n="17">이번 졔믈을 브ᄃᆡ 아ᄒᆡ란 날 일즉 들게 보내라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="28" n="18">보낸 건치 포육은 두고 먹노라</sent>
+<sent type="main" lang="kor" page="28" n="19">잠 뎍노라</sent>
+<sent type="main" lang="kor" page="28" n="20">모시ᄂᆞᆫ 홍역으로 나치 못ᄒᆞ여 극귀타 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="28" n="21">삼월 망간으로 사 보내게 ᄒᆞ여시니 늣지 아닐가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28" n="22">계유 이월 십구</sent>
+<sent type="main" lang="kor" page="28" n="23">구</sent>
+</letter>
+
+<letter n="29" sender="송요하(시아버지)" writer="송요하(시아버지)" receiver="여흥민씨(며느리)" year="1754년">
+<sent type="envelop1-1" lang="kor" page="29" n="01">홍쳔ᄃᆡᆨ 답셔</sent>
+<sent type="envelop1-1" lang="kor" page="29" n="02">[수결：堯] 봉</sent>
+<sent type="main" lang="kor" page="29" n="03">년ᄒᆞ여 글시 보고 든든ᄒᆞ며</sent><!--'든든ᄒᆞ며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="04">준뫼 보은 셔방 아ᄃᆞᆯ 됴 셔방 ᄒᆞᆫ가지로 셔울셔 ᄯᅥ낫노라 ᄒᆞᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="29" n="05">뎡동 편지ᄂᆞᆫ 못 맛다 왓다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="29" n="06">홍쳔은 낙샹 듕히 ᄒᆞ엿다 ᄒᆞ거늘</sent>
+<sent type="main" lang="kor" page="29" n="07">홍쳔은 편지 못ᄒᆞᆫ들</sent>
+<sent type="main" lang="kor" page="29" n="08">안희셔조차 아니ᄒᆞ랴 ᄒᆞ니 아니터라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="29" n="09">됴 셔방이나 맛다 온가 ᄒᆞ거늘</sent>
+<sent type="main" lang="kor" page="29" n="10">됴 셔방 어ᄃᆡ 가냐 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="11">오다가 다ᄅᆞᆫ ᄃᆡ로 가셔 오지 아녓다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="12">졀졀이 의심이나</sent><!--'졀졀이'에서 뒤에 오는 '졀'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="13">분명 듕히 샹ᄒᆞ여 안희셔도 편지ᄒᆞᆯ ᄉᆞ이 업서 그런가 시버</sent>
+<sent type="main" lang="kor" page="29" n="14">내 ᄆᆞᄋᆞᆷ 엇덜가 시브니</sent>
+<sent type="main" lang="kor" page="29" n="15">그리 ᄒᆞᆫ 오랜 후에야 됴 셔방 편지 젼쳬로 젼ᄒᆞ엿거늘 보니</sent>
+<sent type="main" lang="kor" page="29" n="16">보니 낙샹 말 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="17">죠 셔방 편지 써 준 후의 낙샹ᄒᆞ엿ᄂᆞᆫ가 시버 의려ᄒᆞ여 지내더니</sent>
+<sent type="main" lang="kor" page="29" n="18">어제 만호 본 휘야 제 글시 보고 대강 아라시나</sent>
+<sent type="main" lang="kor" page="29" n="19">ᄆᆞ이 샹ᄒᆞ여 그ᄯᅢᄀᆞ지 알터라 ᄒᆞ니 념녀 아모라타 업다</sent>
+<sent type="main" lang="kor" page="29" n="20">제 ᄭᅡᆫ을 모ᄅᆞ고 죵시 조심 아니키로 그러ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="21">이후 ᄯᅩ 그러키 괴이치 아닐 거시니</sent>
+<sent type="main" lang="kor" page="29" n="22">이왕 놀난 거슨 니ᄅᆞ지 말고 념녀 측냥업다</sent>
+<sent type="main" lang="kor" page="29" n="23">그이ᄂᆞᆫ 쳬ᄒᆞ고 ᄂᆡ외 편지예 아니키로 더 놀낫다</sent>
+<sent type="main" lang="kor" page="29" n="24">그 후 날포 되여시니 다시 어이 지내ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="29" n="25">뎐동 아ᄒᆡ 일은 차악ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="29" n="26">법동 상ᄉᆞ도 하 의외니</sent>
+<sent type="main" lang="kor" page="29" n="27">날포 될ᄉᆞ록 참혹ᄒᆞ기를 어이 다 뎍으리</sent>
+<sent type="main" lang="kor" page="29" n="28">나ᄂᆞᆫ 겨유 지내노라</sent>
+<sent type="main" lang="kor" page="29" n="29">승쳔의ᄃᆡ 다ᄅᆞᆫ 죵 보내려 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="29" n="30">ᄒᆞᆨ관셔 네 긔별ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="29" n="31">거먹이를 보내과져 ᄒᆞᆫ다 ᄒᆞ매 보내나</sent>
+<sent type="main" lang="kor" page="29" n="32">무어ᄉᆞᆯ ᄎᆔᄒᆞᆫ지 모ᄅᆞ거니와</sent>
+<sent type="main" lang="kor" page="29" n="33">네 긔별ᄒᆞᆫᄃᆡ 씨샹을 보내니 몰골이 더 업다 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="29" n="34"> 그 말은 올흐나 거먹 가든 무ᄉᆞᆫ 몰골 이실고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="29" n="35">무쥬ᄃᆡᆨ 쳔안 젼답 내 젼답 근쳐라 ᄒᆞ매</sent>
+<sent type="main" lang="kor" page="29" n="36">호부를 혜지 말고 사고져 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="37">갑시 그ᄯᅢ 긔별ᄒᆞᆫᄃᆡ 일ᄇᆡᆨ 몃 냥이라 ᄒᆞ여던고</sent>
+<sent type="main" lang="kor" page="29" n="38">져긔 다시 긔별ᄒᆞ기ᄂᆞᆫ 지리히 녀길 거시니</sent>
+<sent type="main" lang="kor" page="29" n="39">네 ᄉᆡᆼ각ᄒᆞ거든 긔별ᄒᆞ고 그 후 ᄑᆞ지 아녓ᄂᆞᆫ가 아라 보아라</sent>
+<sent type="main" lang="kor" page="29" n="40">젼답 수ᄂᆞᆫ 언마 되ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="29" n="41">그도 아라 승쳔 오ᄂᆞᆫ ᄃᆡ 긔별ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="29" n="42">삼월 졔ᄉᆞ의 쓰ᄋᆞᆸ게</sent>
+<sent type="main" lang="kor" page="29" n="43">승쳔 오ᄂᆞᆫ ᄃᆡ 황대고 사 보내되</sent>
+<sent type="main" lang="kor" page="29" n="44">갑슨 죠ᄒᆡ ᄑᆞ랏거든 그 돈의셔 써라</sent>
+<sent type="main" lang="kor" page="29" n="45">ᄀᆡᄉᆡᆨ 열 셤 다시 어드냐</sent>
+<sent type="main" lang="kor" page="29" n="46">삼월 찬가ᄂᆞᆫ 죠ᄒᆡ ᄑᆞᆫ 돈의셔 쓰라 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="29" n="47">죠ᄒᆡ 못 ᄑᆞ라시면 엇질고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="29" n="48">신집은 나앗다 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="29" n="49">만호의 말 드ᄅᆞ니 음식을 슬ᄒᆞ여 ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="50">그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="51">동복 ᄃᆡᆨ의 죠ᄒᆡ ᄑᆞᆫ 돈으로 갑하라</sent>
+<sent type="main" lang="kor" page="29" n="52">ᄌᆡ동이 신집 ᄒᆡ산 후ᄂᆞᆫ 이셔 블긴ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="53">은뇌네 올 제 ᄆᆞᆯ 두 발이만 ᄒᆞ면 오련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="29" n="54">과거 ᄯᅢ라 ᄆᆞᆯ 어들 길 업ᄉᆞ니 애ᄃᆞᆲ다</sent>
+<sent type="main" lang="kor" page="29" n="55">등하의 잠 뎍노라</sent>
+<sent type="main" lang="kor" page="29" n="56">갑 이월 념뉵</sent>
+<sent type="main" lang="kor" page="29" n="57">구</sent>
+</letter>
+
+<letter n="30" sender="송요화(시아버지)" writer="송요화(시아버지)" receiver="여흥민씨(며느리)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="30" n="01">보은실ᄂᆡ</sent>
+<sent type="envelop1-1" lang="kor" page="30" n="02">[수결：堯] 봉</sent>
+<sent type="main" lang="kor" page="30" n="03">년ᄒᆞ여 글시 보고 든든ᄒᆞ되</sent><!--'든든ᄒᆞ되'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="04">편지 쓰기 어려워 답장 못ᄒᆞ엿다</sent>
+<sent type="main" lang="kor" page="30" n="05">신집 ᄒᆡ산 무ᄉᆞ히 ᄒᆞ엿다 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="30" n="06">남녀 말 ᄂᆡ외 편지와 소로개 ᄒᆞᆫ 편지와 후의 오ᄂᆞᆫ 편지예도 다 아니ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="07">네 편지예 블ᄒᆡᆼ 듕 다ᄒᆡᆼ타만 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="30" n="08">남녀 간 병인을 나하ᄂᆞᆫ가 답답 념녀ᄒᆞ노라</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="09">신 셔방ᄭᅴ 거번 인ᄉᆞᆷ 언마 보내여시되 ᄃᆡ답 업다</sent>
+<sent type="main" lang="kor" page="30" n="10">여러 번 무ᄅᆞ니 나ᄂᆞᆫ 분명 젼ᄒᆞ엿더니 갓더냐</sent>
+<sent type="main" lang="kor" page="30" n="11">나ᄂᆞᆫ 겨유 지내며</sent>
+<sent type="main" lang="kor" page="30" n="12">셔울 잇기로 상복을 다 ᄒᆞ여시나 게셔ᄂᆞᆫ 엇지ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="30" n="13">내 관ᄃᆡ 서너 냥 ᄊᆞᆫᄃᆡ 팔 냥 주고 사시되 잘 삿다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="14">스므 냥 주고 사니도 잇다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="15">열석 냥식은 다들 주엇더라</sent>
+<sent type="main" lang="kor" page="30" n="16">내 길흔 ᄂᆡ월 초삼일 공졔 지내고 초ᄉᆞ일 가려 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="30" n="17">그날 츌ᄒᆡᆼ 죠치 아니ᄒᆞ니 초칠 ᄯᅥ날가 시브니</sent>
+<sent type="main" lang="kor" page="30" n="18">그 젼 지낼 도리 ᄯᆞᆨᄒᆞ다</sent>
+<sent type="main" lang="kor" page="30" n="19">ᄒᆡᆼ찬 년ᄒᆞ여 보낸 것 집의 이셔 죠히 먹엇다</sent>
+<sent type="main" lang="kor" page="30" n="20">무판 혹 ᄒᆞ거든 약포 ᄇᆞ삭ᄇᆞ삭ᄒᆞ게 ᄆᆞᆯ뇌여 죠금ᄒᆞ고 약산젹ᄒᆞ고</sent><!--'ᄇᆞ삭ᄇᆞ삭ᄒᆞ게'에서 뒤에 오는 'ᄇᆞ삭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="21">ᄉᆡᆼ치나 ᄃᆞᆰ이나 ᄶᆞ게 쵸ᄒᆞ여 보내되</sent>
+<sent type="main" lang="kor" page="30" n="22">ᄀᆞᄅᆞ 되게 말고 ᄌᆞᆯ게 ᄶᅳ저 쵸ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="23">샹슐이 다식 어렵지 아니커든 죠금 ᄒᆞ여 보내여라</sent>
+<sent type="main" lang="kor" page="30" n="24">밧긔 닐너 내 길 젼 문안 사ᄅᆞᆷ ᄒᆞᆫ 번 보내라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="25">그 편의 보내라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="26">삼월 뇨젼도 보내면 ᄒᆡᆼ냥ᄒᆞ려거니와</sent>
+<sent type="main" lang="kor" page="30" n="27">다만 츌쳐 업ᄉᆞᆫ 돈을 엇지 츄이ᄒᆞᆯᄀᆞ ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="30" n="28">ᄭᅮᆯ은 잇다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="29">ᄉᆈ 기름 이시면 이 져지 보내면 쵸 지어 가려 ᄒᆞᆫ다 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="30">실ᄒᆞᆫ ᄉᆞ령을 보내여 ᄇᆡᄒᆡᆼᄒᆞ게 ᄒᆞ라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="31">원미도 ᄒᆞ여 보내여라</sent>
+<sent type="main" lang="kor" page="30" n="32">보션도 기워 보내여라</sent>
+<sent type="main" lang="kor" page="30" n="33">마쳘 두부 보내라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="34">ᄒᆞᆨ관 년ᄒᆞ여 편지ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="30" n="35">써 주리 업서 답쟝 못ᄒᆞ고 괴알ᄂᆞᆫ다 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30" n="36">잠 뎍노라</sent>
+<sent type="main" lang="kor" page="30" n="37">뎡튝 이월 념ᄉᆞ</sent>
+<sent type="main" lang="kor" page="30" n="38">구</sent>
+</letter>
+
+<letter n="31" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1725년">
+<sent type="envelop1-2" lang="kor" page="31" n="01">장샹</sent>
+<sent type="main" lang="kor" page="31" n="02">죵들 도라오와ᄂᆞᆯ 의외 뎍ᄉᆞ오시니 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="31" n="03">문안을 듯ᄌᆞ오니 슉환이 복발ᄒᆞ여 신음 듕 디내오시고</sent>
+<sent type="main" lang="kor" page="31" n="04">어루신내겨오셔도 긔톄 ᄌᆞ로 미령ᄒᆞᄋᆞᆸ신가 시브오니</sent>
+<sent type="main" lang="kor" page="31" n="05">외오셔 념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="31" n="06">ᄒᆡᆼᄎᆞᄅᆞᆯ 엇디 ᄒᆞ오실고</sent>
+<sent type="main" lang="kor" page="31" n="07">다시 문안 모ᄅᆞ와 답답 념녀 ᄀᆞ이업ᄉᆞᆸᄂᆞ이다</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="08">문밧 손은 셔당의 가 잇ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="31" n="09">반찬 길히 어려워</sent>
+<sent type="main" lang="kor" page="31" n="10">음식지졀이 심히 서어ᄒᆞ오니 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="31" n="11">총총 잠 뎍ᄉᆞ오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="12">뫼ᄋᆞ오셔 ᄒᆡᆼᄎᆞ나 평안이 ᄒᆞ오실가 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="31" n="13">을ᄉᆞ 지월 초구일</sent>
+<sent type="main" lang="kor" page="31" n="14">복인 박</sent>
+<sent type="main" lang="kor" page="31" n="15">삼ᄉᆞ촌의 됴장 답장과 동ᄉᆡᆼ의 편지 보내ᄋᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="32" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1726년">
+<sent type="envelop1-2" lang="kor" page="32" n="01">답샹장</sent>
+<sent type="envelop1-2" lang="kor" page="32" n="02">근봉</sent>
+<sent type="main" lang="kor" page="32" n="03">져적 글월 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="32" n="04">그ᄯᅢ ᄒᆡᆼᄎᆞ 평안이 ᄒᆞ오시고 뫼ᄋᆞ오셔</sent>
+<sent type="main" lang="kor" page="32" n="05">긔운 평안ᄒᆞ오신 문안 아ᄋᆞᆸ고 깃ᄉᆞ와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="32" n="06">그 후 날포 되왓ᄉᆞ오니 년ᄒᆞ여 긔운 평안ᄒᆞ오시며</sent>
+<sent type="main" lang="kor" page="32" n="07">어마님 긔후나 엇더ᄒᆞ오시거뇨</sent>
+<sent type="main" lang="kor" page="32" n="08">다시 문안 모ᄅᆞ와 답답</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="09">복모 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="32" n="10">함양ᄃᆡᆨ 형님겨오셔ᄂᆞᆫ 수이 도라가오시ᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="32" n="11">외오셔나 허우록ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="32" n="12">예ᄂᆞᆫ 아직 무ᄉᆞᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="32" n="13">남포 편지도 왕ᄂᆡ예 뎐ᄒᆞ오려 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="32" n="14">ᄉᆞ연 총총 긋ᄌᆞ오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="15">내내 긔운 평안ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="16">병오 구월 회일 야</sent>
+<sent type="main" lang="kor" page="32" n="17">박</sent>
+<sent type="main" lang="kor" page="32" n="18">의복은 곳쳐 보내오며</sent>
+<sent type="main" lang="kor" page="32" n="19">ᄂᆞᆯ근 의복을 다 보내오시면</sent>
+<sent type="main" lang="kor" page="32" n="20">ᄯᅢ예 곳쳐 보내올가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="32" n="21">듕치막 져구리 바디 보션</sent>
+</letter>
+
+<letter n="33" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1727년">
+<sent type="envelop1-1" lang="kor" page="33" n="01">샹장</sent>
+<sent type="envelop1-1" lang="kor" page="33" n="02">근봉</sent>
+<sent type="main" lang="kor" page="33" n="03">일긔 이리 덥ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="33" n="04">길ᄒᆡ ᄒᆡᆼᄎᆞᄅᆞᆯ 엇디 ᄒᆞ신고</sent>
+<sent type="main" lang="kor" page="33" n="05">념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="33" n="05">ᄒᆞ마 득달ᄒᆞ여 겨오신가</sent>
+<sent type="main" lang="kor" page="33" n="06">어루신내 긔후ᄂᆞᆫ 엇더ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="33" n="07">다시 문안 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="33" n="08">복녀 ᄀᆞ이업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="33" n="09">예ᄂᆞᆫ 연고 업ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="33" n="10">ᄒᆡ괴 가디 아니ᄒᆞ오니 민망ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="33" n="11">임의 허락ᄒᆞ오신 길히오매</sent>
+<sent type="main" lang="kor" page="33" n="12">뉵월은 더 더울 ᄃᆞᆺ도 시브고</sent>
+<sent type="main" lang="kor" page="33" n="13">날도 구ᄌᆞᆯ ᄃᆞᆺ 시브와</sent>
+<sent type="main" lang="kor" page="33" n="14">이ᄃᆞᆯ 념ᄉᆞ일노 ᄯᅥ나랴 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="33" n="15">엇디 넉이실고 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="33" n="16">념치도 ᄉᆞᆼᄒᆞᆫ 줄 아오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="33" n="17">졔사ᄭᅴ 보용ᄒᆞᆯ ᄊᆞᆯ 도리ᄅᆞᆯ 닛디 아니ᄒᆞ오실가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="33" n="18">뎡미 오월 십팔일</sent>
+<sent type="main" lang="kor" page="33" n="19">박</sent>
+</letter>
+
+<letter n="34" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1735년">
+<sent type="envelop1-2" lang="kor" page="34" n="01">샹장</sent>
+<sent type="envelop1-2" lang="kor" page="34" n="02">근봉</sent>
+<sent type="main" lang="kor" page="34" n="03">기ᄃᆞ리올 ᄎᆞ 위봉 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="34" n="04">글월 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="34" n="05">년ᄒᆞ여 평안이 디내오시니 든든 다ᄒᆡᆼᄒᆞ오나</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="06">공슈 반찬이 으졋디 못ᄒᆞ올ᄃᆡ</sent>
+<sent type="main" lang="kor" page="34" n="07">오래 어이 견ᄃᆡ오실고 민망ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="34" n="08">예ᄂᆞᆫ 어르신내 긔후 년ᄒᆞ여 안녕ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="34" n="09">버디 대되 연고 업시 디내오니 다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="34" n="10">셔울 긔별은 듯ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="34" n="11">형님 긔온 더 못ᄒᆞ오신 일은 업ᄉᆞ오신가 시브오니 다ᄒᆡᆼᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="34" n="12">문의 대ᄉᆞ동 편지ᄂᆞᆫ 아니 왓ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="34" n="13">게나 왓ᄉᆞᆸᄂᆞᆫ가 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="14">보내오신 기ᄅᆞᆷ은 ᄌᆞ시 밧ᄌᆞ왓ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="34" n="15">게셔 오기ᄅᆞᆯ 기ᄃᆞ리고</sent>
+<sent type="main" lang="kor" page="34" n="16">예셔 반찬 사 드리ᄂᆞᆫ 일 업고</sent>
+<sent type="main" lang="kor" page="34" n="17">반찬으로 ᄀᆞᆫᄀᆞᆫᄒᆞ여 속앗ᄉᆞᆸᄂᆞ이다</sent><!--'ᄀᆞᆫᄀᆞᆫᄒᆞ여'에서 뒤에 오는 'ᄀᆞᆫ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="18">훗 왕내예 쳥어 드ᄅᆞᆷ이나 보내오실가 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="34" n="19">위봉 도라가오매 잠 뎍ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="34" n="20">내내 평안이 디내오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="21">남포ᄃᆡᆨ의 무명 보내여 겨오시니</sent>
+<sent type="main" lang="kor" page="34" n="22">실노실노 다ᄒᆡᆼ 깃브ᄋᆞᆸ기 ᄀᆞ이업ᄉᆞᆸ고</sent><!--'실노실노'에서 뒤에 오는 '실노'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="23">돈 훗 편읠난 브ᄃᆡ 어더 보내ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="34" n="24">하 ᄌᆞᆯ리이니 실노 ᄯᆞᆨᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="34" n="25">을묘 원월 념일일</sent>
+<sent type="main" lang="kor" page="34" n="26">박</sent>
+</letter>
+
+<letter n="35" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1734년*"> <!-- 한국학중앙연구원 편(2009a)에서는 작성 시기를 ‘1723~1736년’으로 추정하였다. 그러나 편지 내용 중 ‘국쳥’이 나오는 것으로 보아 송요화가 의금부도사에 임명된 1733년 이후에 작성된 것으로 보인다. 또 후손이 기록해 놓은 ‘六大祖密陽朴氏手札, 無年甲’을 참고하면 이 편지의 발신 시기는 甲寅年 곧, 1734년으로 추정할 수 있다.-->
+<sent type="envelop1-1" lang="kor" page="35" n="01">샹장</sent>
+<sent type="envelop1-1" lang="kor" page="35" n="02">근봉</sent>
+<sent type="main" lang="kor" page="35" n="03">죵들 오완 디 날포 되엿ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="35" n="04">그ᄉᆞ이 긔운이나 엇더ᄒᆞ오시며</sent>
+<sent type="main" lang="kor" page="35" n="05">습창 더 ᄒᆞ오시ᄂᆞᆫ 일이나 업ᄉᆞᆸᄂᆞᆫ가 모ᄅᆞ와 답답ᄒᆞ오며</sent><!--'답답ᄒᆞ오며'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35" n="06">국쳥도 파케 되엿다 ᄒᆞ오니 싀훤ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="35" n="07">그ᄉᆞ이 츌ᄉᆞ나 아니ᄒᆞ오신가</sent>
+<sent type="main" lang="kor" page="35" n="08">그도 모ᄅᆞ오니 답답ᄒᆞᄋᆞᆸ</sent><!--'답답ᄒᆞᄋᆞᆸ'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35" n="09">예ᄂᆞᆫ 어루신내 긔운은 여상ᄒᆞ오셔 디내오시니 다ᄒᆡᆼᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="35" n="10">김집 덕임 곳븟노 날로 셩치 못ᄒᆞ오니 민망 심난ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="35" n="11">곳블 도림들도 뉴다ᄅᆞ고</sent>
+<sent type="main" lang="kor" page="35" n="12">일긔도 겨ᄋᆞᆯ날 ᄀᆞᆺ디 아니ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="35" n="13">시졀이 엇디 되려 이러ᄒᆞ온고 시브와</sent>
+<sent type="main" lang="kor" page="35" n="14">듀야 ᄆᆞᄋᆞᆷ이 속그라ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="35" n="15">수일 젼 션ᄇᆡ 남진 가올 적 뎍엇ᄉᆞᆸ더니 보오신가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="35" n="16">샹현 드린 ᄭᅮᆯ 두 말</sent>
+<sent type="main" lang="kor" page="35" n="17">ᄒᆞᆫ 되 ᄂᆡ예 문의ᄃᆡᆨ</sent>
+<sent type="main" lang="kor" page="35" n="18">ᄒᆞᆫ 되 김집 되 가옷 ᄭᅮ어 쓴 ᄭᅮᆯ ᄒᆞᆫ 되 갑고</sent>
+<sent type="main" lang="kor" page="35" n="19">거긔 형님긔셔 당신 ᄭᅮᆯ의셔 졍과 지어 보내라 ᄒᆞ여 겨오시매</sent>
+<sent type="main" lang="kor" page="35" n="20">서 되 가옷 드려 지어 보내ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="35" n="21">ᄌᆡ말 넉 되 올너니</sent>
+<sent type="main" lang="kor" page="35" n="22">믁동집 ᄭᅮᆯ을 게셔 형님ᄭᅴ셔 써 겨오시다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="35" n="23">두 되 두 홉을 가져가오니</sent>
+<sent type="main" lang="kor" page="35" n="24">ᄌᆡ말 두 되가 되ᄋᆞᆸᄂᆞᆫ 줄 아오시게 긔별ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="35" n="25">엿 되 보내라 ᄒᆞ여 계셔도</sent>
+<sent type="main" lang="kor" page="35" n="26">믁동집 두 되 두 홉 가져가고</sent>
+<sent type="main" lang="kor" page="35" n="27">서 되 가옷 졍과 지은 ᄭᅮᆯ 져치니</sent>
+<sent type="main" lang="kor" page="35" n="28">서 홉이 남ᄉᆞ오매 못 보내ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="35" n="29">지리ᄒᆞ와 긋ᄌᆞᆸ</sent>
+<sent type="main" lang="kor" page="35" n="30">납월 초칠일</sent>
+<sent type="main" lang="kor" page="35" n="31">박</sent>
+</letter>
+
+<letter n="36" sender="밀양박씨(어머니)" writer="밀양박씨(어머니)" receiver="송익흠(아들)" year="1732년">
+<sent type="envelop1-2" lang="kor" page="36" n="01">뎡응 부친ᄭᅴ</sent>
+<sent type="main" lang="kor" page="36" n="02">쳥ᄌᆔ ᄒᆡᆼᄎᆞ 슈원으로 ᄒᆞ실 ᄯᅢ</sent>
+<sent type="main" lang="kor" page="36" n="03">거긔 됴장ᄒᆞ고 편지ᄒᆞ엿더니 본가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="36" n="04"> ᄒᆡᆼᄎᆞ 도라오시ᄃᆡ 유무도 못 어더 보니 섭섭 답답ᄒᆞ며</sent><!--'섭섭'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음--><!--'답답ᄒᆞ며'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="05">대강 드ᄅᆞ니 몸들은 무ᄉᆞᄒᆞ나</sent>
+<sent type="main" lang="kor" page="36" n="06">응ᄆᆡ 도로 알코 ᄐᆡ독으로 잔샹이 알ᄂᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="36" n="07">잔잉 념녀 ᄀᆞ이업ᄉᆞ며</sent>
+<sent type="main" lang="kor" page="36" n="08">요ᄉᆞ이나 나아 디내ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="36" n="09">게도 그리 블인타 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="36" n="10">대종도 사돈이 시령쳐로 알흐시다 ᄒᆞ니 놀납고</sent>
+<sent type="main" lang="kor" page="36" n="11">두로두로 답답ᄒᆞᆫ 념녀ᄃᆞᆯ 어이 다 뎍을고</sent><!--'두로두로'에서 뒤에 오는 '두로'는 재점(〃)으로 표기되어 있음--><!--'답답ᄒᆞᆫ'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="12">여긔ᄂᆞᆫ ᄒᆡᆼᄎᆞ도 평안이 드러오며</sent>
+<sent type="main" lang="kor" page="36" n="13">연고 업시 디내오시고</sent>
+<sent type="main" lang="kor" page="36" n="14">어루신내 긔후도 일양 안녕ᄒᆞ오시니 다ᄒᆡᆼ다ᄒᆡᆼ 츅슈츅슈ᄒᆞ오ᄃᆡ</sent><!--'다ᄒᆡᆼ다ᄒᆡᆼ'에서 뒤에 오는 '다ᄒᆡᆼ'은 재점(〃)으로 표기되어 있음--><!--'츅슈츅슈ᄒᆞ오ᄃᆡ'에서 뒤에 오는 '츅슈'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="15">니져 블안ᄒᆞ기 년쇽년쇽ᄒᆞ여 나니</sent><!--'년쇽년쇽ᄒᆞ여'에서 뒤에 오는 '년쇽'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="16">듀야 속그라ᄒᆞᆫ 근심을 어이 다 뎍을고</sent>
+<sent type="main" lang="kor" page="36" n="17">슈원도 ᄒᆡᆼᄎᆞ나 상ᄒᆡᆼ이나</sent>
+<sent type="main" lang="kor" page="36" n="18">무ᄉᆞ히 득달ᄒᆞ오신 일 깃브ᄃᆡ</sent>
+<sent type="main" lang="kor" page="36" n="19">허우록 ᄐᆞᆨᄐᆞᆨ 슬픈 심ᄉᆞᄃᆞᆯ이 됴릴ᄉᆞ록 ᄀᆞ이업고</sent><!--'ᄐᆞᆨᄐᆞᆨ'에서 뒤에 오는 'ᄐᆞᆨ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="20">형님 긔운이 엄엄ᄒᆞ오시다 ᄒᆞ니</sent><!--'엄엄ᄒᆞ오시다'에서 뒤에 오는 '엄'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="21">더옥 ᄀᆞᆸᄀᆞᆸ ᄯᆞᆨᄒᆞᆫ 념녀 ᄀᆞ이업ᄂᆡ</sent><!--'ᄀᆞᆸᄀᆞᆸ'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="22">게도 장ᄉᆡ나 어니 ᄭᅴ로 디내오시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="36" n="23">탕패ᄒᆞ신 형셰예 어이 셩양ᄒᆞ여 디내오시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="36" n="24">졍경들이 하 참혹ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="36" n="24">돌이 죠릴ᄉᆞ록 애ᄃᆞᆲ고</sent>
+<sent type="main" lang="kor" page="36" n="24">허우록 슬픈 심ᄉᆡ 아므라타 업서 ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="36" n="25">자내ᄂᆞᆫ 올녀ᄅᆞᆷ 게셔 날가 시브니</sent>
+<sent type="main" lang="kor" page="36" n="26">오래 못 보ᄂᆞᆫ 일은 섭섭ᄒᆞ나</sent><!--'섭섭ᄒᆞ나'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="27">이리 블안ᄒᆞᆫ 고ᄃᆡ 아니 보ᄂᆞᆫ 일 도로혀 깃브나</sent>
+<sent type="main" lang="kor" page="36" n="28">게도 형셰 ᄀᆞ이업ᄂᆞᆫᄃᆡ 엇디 디내ᄂᆞᆫ고 념녀 ᄀᆞ이업ᄂᆡ</sent>
+<sent type="main" lang="kor" page="36" n="29">김집은 엇디나 디ᄂᆡᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="36" n="30">졸연이 가셔 ᄃᆞᆯ포 시집사리 ᄒᆞᄂᆞᆫ 일 닛디 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="36" n="31">ᄇᆡᆨᄉᆡ 졀박졀박ᄒᆞᆫ가 시브니 더옥 브리들 못ᄒᆞ나</sent><!--'졀박졀박ᄒᆞᆫ가'에서 뒤에 오는 '졀박'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="32">ᄒᆞᆯ 일이 어이 이실고</sent>
+<sent type="main" lang="kor" page="36" n="33">져ᄯᅢ 어드러션디 편지ᄅᆞᆯ 어더 본 ᄃᆞᆺᄒᆞᄃᆡ 셩지디 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="36" n="34">이런 졍신이 어이 이실고</sent>
+<sent type="main" lang="kor" page="36" n="35">샤동 손 가매 잠 뎍으며</sent>
+<sent type="main" lang="kor" page="36" n="36">아마도 내내 평안이 디내고</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="37">아희 병 쾌히 나은 쇼식 듯기 ᄇᆞ라ᄂᆡ</sent>
+<sent type="main" lang="kor" page="36" n="38">소션 어들 도리 잇거든 ᄒᆞ나 어더 주고</sent>
+<sent type="main" lang="kor" page="36" n="39">동ᄉᆡᆼ 주새</sent>
+<sent type="main" lang="kor" page="36" n="40">윤오월 초오일</sent>
+</letter>
+
+<letter n="37" sender="밀양박씨(어머니)" writer="밀양박씨(어머니)" receiver="송익흠(아들)" year="1727~1736년">
+<sent type="envelop1-2" lang="kor" page="37" n="01">뎡응 부친 답장</sent>
+<sent type="main" lang="kor" page="37" n="02">그리 훌쳐 간 후 아ᄃᆞᆨ히 긔별을 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="37" n="02">듀야 답답 ᄉᆞ렴 무궁ᄒᆞ더니</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="03">의외 사ᄅᆞᆷ 오나ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="37" n="04">글시 보고 든든 반갑기 측냥업고</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="05">몸들이나 그만치나 무ᄉᆞ히 이시니</sent>
+<sent type="main" lang="kor" page="37" n="06">가지가지 싀훤 깃브기ᄅᆞᆯ 어이 다 뎍을고마ᄂᆞᆫ</sent><!--'가지가지'에서 뒤에 오는 '가지'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="07">어이 ᄆᆞ양 몸이 그리 무거워 디내ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="37" n="08">실노 ᄀᆞᆸᄀᆞᆸᄒᆞᆫ 일이로쇠</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞᆫ'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="09">음식이나 잘 먹ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="37" n="10">거쳐나 편코 게ᄂᆞᆫ 고단튼 아닌가 시브니</sent>
+<sent type="main" lang="kor" page="37" n="11">글이나 ᄒᆞ고 지기ᄅᆞᆯ 펴면 혹 나을넌가</sent>
+<sent type="main" lang="kor" page="37" n="12">외오 이시니 더옥 닛디 못ᄒᆞᆯ쇠</sent>
+<sent type="main" lang="kor" page="37" n="13">겨ᄋᆞᆯ은 게셔 나량으로 가시니</sent>
+<sent type="main" lang="kor" page="37" n="14">어이 오기ᄅᆞᆯ 일ᄏᆞᄅᆞᆯ고</sent>
+<sent type="main" lang="kor" page="37" n="15">브ᄃᆡ 조심조심ᄒᆞ여 됴히 잇기ᄅᆞᆯ ᄇᆞ라ᄂᆡ</sent><!--'조심조심ᄒᆞ여'에서 뒤에 오는 '조심'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="16">예도 어루신내 긔후도 안녕ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="37" n="17">대단 연고 업ᄉᆞ니 다ᄒᆡᆼᄒᆡ</sent>
+<sent type="main" lang="kor" page="37" n="18">쳥ᄌᆔ ᄒᆡᆼᄎᆞᄂᆞᆫ 엇그제야 ᄀᆞᆺ 드러 겨오시고</sent>
+<sent type="main" lang="kor" page="37" n="19">교관ᄃᆡᆨ은 몬져 오ᄂᆞᆯ 드러오고</sent>
+<sent type="main" lang="kor" page="37" n="20">형님겨오셔ᄂᆞᆫ 내월 초열흘긔 오오신다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="37" n="21">미리 든든키 ᄀᆞ이업ᄂᆡ</sent><!--'든든키'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="22">우리도 구일 시졔ᄉᆞ 디내오려 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="37" n="23">츄슈 못 미처ᄭᅩ 온갓 거시 어롱태 ᄀᆞᆺᄐᆞ니 심난심난ᄒᆡ</sent><!--'심난심난ᄒᆡ'에서 뒤에 오는 '심난'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="24">나ᄂᆞᆫ 치통도 날이 선선ᄒᆞ니 심코</sent><!--'선선ᄒᆞ니'에서 뒤에 오는 '선'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="25">두통 겸ᄒᆞ여 ᄆᆞ양 알흐니 괴로와 못 견ᄃᆡᆯ쇠</sent>
+<sent type="main" lang="kor" page="37" n="26">잇ᄂᆞᆫ 병이야 져년도 견ᄃᆡ여시니</sent>
+<sent type="main" lang="kor" page="37" n="27">올히라고 별양 더 못 견ᄃᆡᆯ 것 무엇 이실고 </sent>
+<sent type="main" lang="kor" page="37" n="28">하 념녀 마소</sent>
+<sent type="main" lang="kor" page="37" n="29">응이 말도 인영도 아녓ᄂᆡ</sent>
+<sent type="main" lang="kor" page="37" n="30">그거시 더 그리워 못 견ᄃᆡᆯ쇠</sent>
+<sent type="main" lang="kor" page="37" n="31">냥녈도 됴히 잇ᄂᆡ</sent>
+<sent type="main" lang="kor" page="37" n="32">등하□ □옥 이만 내□ 됴히됴히 잇□ ᄇᆞ라ᄂᆡ</sent><!--'됴히됴히'에서 뒤에 오는 '됴히'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="33">□□□□여□□□□더□□□□ᄂᆡ</sent>
+<sent type="main" lang="kor" page="37" n="34">팔월 념팔일</sent>
+<sent type="main" lang="kor" page="37" n="35">모</sent>
+</letter>
+
+<letter n="38" sender="밀양박씨(어머니)" writer="밀양박씨(어머니)" receiver="송익흠(아들)" year="1724~1736년">
+<sent type="envelop1-1" lang="kor" page="38" n="01">답장</sent>
+<sent type="envelop1-1" lang="kor" page="38" n="02">봉</sent>
+<sent type="envelop1-1" lang="kor" page="38" n="03">문밧</sent>
+<sent type="main" lang="kor" page="38" n="04">ᄒᆞᆫ 번 간 후ᄂᆞᆫ 일졀 긔별도 모ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="38" n="05">답답 념녀 무궁ᄒᆞ더니</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="06">뎍으니 보고 든든 반갑기 측냥업고</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="07">겸ᄒᆞ여 심ᄒᆞᆫ 댱마 더위예 ᄀᆡᆨ니의 몸이나 평안ᄒᆞᆫ 안부 알고</sent>
+<sent type="main" lang="kor" page="38" n="08">더옥 든든 깃브기 ᄀᆞ이ᄀᆞ이업서 ᄒᆞᄂᆡ</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음--><!--'ᄀᆞ이ᄀᆞ이업서'에서 뒤에 오는 'ᄀᆞ이'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="09">다만 날 덥기로 공부ᄂᆞᆫ 챡실치 못ᄒᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="38" n="10">그리ᄒᆞ여 어일고 시버 민망ᄒᆞ여 ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="38" n="11">나ᄌᆔ 문안도 일졀이 모ᄅᆞ니 답답기 어이 다 다 뎍을고</sent><!--'답답기'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="12">어마님겨ᄋᆞᆸ셔 셜샤 그저 그러ᄒᆞ오신가 시브니</sent>
+<sent type="main" lang="kor" page="38" n="13">실노 ᄀᆞᆸᄀᆞᆸᄒᆞ여 ᄒᆞᄂᆡ</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞ여'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="14">예ᄂᆞᆫ 대단 연고ᄂᆞᆫ 업ᄉᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="38" n="15">지리ᄒᆞᆫ 복통이 셜샤 겸ᄒᆞ여 즉금은 ᄀᆡᆼ긔ᄒᆞ기가 슬흐니</sent>
+<sent type="main" lang="kor" page="38" n="16">고단ᄒᆞ기야 ᄉᆞ셰 응당 ᄒᆞᆯ ᄯᆡ니</sent>
+<sent type="main" lang="kor" page="38" n="17">뎌ᄅᆞᆯ 어일고마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="38" n="18">병 ᄯᅥ날 제 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="38" n="19">알니 업고 답답 괴롭기ᄅᆞᆯ 다 못 뎍을ᄉᆡ</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="20">겨유 그리며 내내 평안히 디내기 쳔만 ᄇᆞ라ᄂᆡ</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="21">칠월 초칠일</sent>
+<sent type="main" lang="kor" page="38" n="22">모</sent>
+</letter>
+
+<letter n="39" sender="밀양박씨" writer="밀양박씨" receiver="미상" year="1723~1737년">
+<sent type="main" lang="kor" page="39" n="01">쳥ᄌᆔᄃᆡᆨ 형님</sent>
+<sent type="main" lang="kor" page="39" n="02">비쥬 거월 열잇틀ᄀᆞ디 ᄡᆞᆯ 두 말이나 될 ᄃᆞᆺ 시브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="39" n="03">임의 녜여 써시니</sent>
+<sent type="main" lang="kor" page="39" n="04">글난 혜디 말고 ᄇᆞ리더니 먹은 냥식이나 드려보내ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="39" n="05">이ᄃᆞᆯ 뇨ᄂᆞᆫ ᄎᆞ의 열닷 말 드려왓고</sent>
+<sent type="main" lang="kor" page="39" n="06">큰 슈만 열 말 가져오고</sent>
+<sent type="main" lang="kor" page="39" n="07">합 스믈닷 말 드럿ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="39" n="08">ᄑᆞᆺ 서 말 드렷더니</sent>
+<sent type="main" lang="kor" page="39" n="09">아홉 되 도로 내여 갓ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="39" n="10">삼일 차례 편ᄡᆞᆯ ᄒᆞᆫ 말 ᄑᆞᆺ 넉 되 ᄭᅮ어시니</sent>
+<sent type="main" lang="kor" page="39" n="11">글란 드려 보내ᄋᆞᆸ</sent>
+</letter>
+
+<letter n="40" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1723~1737년">
+<sent type="envelop1-2" lang="kor" page="40" n="01">샹장</sent>
+<sent type="main" lang="kor" page="40" n="02">뎍ᄉᆞ오시니 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="40" n="03">긔운 평안ᄒᆞ오시니 든든ᄒᆞ오며</sent><!--'든든ᄒᆞ오며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40" n="04">예ᄂᆞᆫ 년ᄒᆞ여 안녕ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="40" n="05">몬졔 ᄡᆞᆯ 여ᄃᆞᆲ 말도 ᄌᆞ시 밧ᄌᆞᆸ고</sent>
+<sent type="main" lang="kor" page="40" n="06">어제 반찬도 밧ᄌᆞ왓ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="40" n="07">남포야 혹 왕ᄂᆡ 잇ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="40" n="08">말ᄉᆞᆷ이 ᄂᆡ 어이 젼위ᄒᆞ여 가기ᄅᆞᆯ ᄇᆞ라ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="40" n="09">ᄭᅮᆯ은 말 엿 되ᄅᆞᆯ 가디고</sent>
+<sent type="main" lang="kor" page="40" n="10">닐곱 번 큰 졔ᄉᆞ와 여ᄉᆞᆺ 번 차례와</sent>
+<sent type="main" lang="kor" page="40" n="11">이월 ᄉᆡᆼ신 제와 그 몃 번을 ᄶᅥᆺ관ᄃᆡ ᄌᆞ랄가 시브ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="40" n="12">게셔 오셔도 근심을 하 계워 ᄒᆞ오시며</sent>
+<sent type="main" lang="kor" page="40" n="13">호말이라도 근심을 더러 드리ᄋᆞᆸ쟈 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="40" n="14">ᄉᆞᄉᆞ로이 돈 두 냥을 겨유유겨유 ᄭᅮᄂᆡ여 </sent><!--'ᄉᆞᄉᆞ로이'에서 뒤에 오는 'ᄉᆞ'는 재점(〃)으로 표기되어 있음--><!--'겨유유겨유'에서 뒤에 오는 '겨유'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40" n="15">ᄭᅮᆯ ᄒᆞᆫ 냥 ᄭᅢ ᄒᆞᆫ 냥을 ᄑᆞ랏ᄉᆞᆸ더니마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="40" n="16">그도 다 쓰이고 기ᄅᆞᆷ도 졀박ᄒᆞ고 +</sent>
+</letter>
+
+<letter n="41" sender="밀양박씨(올케)" writer="밀양박씨(올케)" receiver="은진송씨(시누이)" year="1727~1737년">
+<sent type="envelop1-2" lang="kor" page="41" n="01">답샹장</sent>
+<sent type="envelop1-2" lang="kor" page="41" n="02">근봉</sent>
+<sent type="main" lang="kor" page="41" n="03">ᄀᆞ므던 긋ᄐᆡ 비 하 옴ᄌᆞᆨᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="41" n="04">길히 막히와 답답ᄒᆞᄋᆞᆸ셔</sent><!--'답답ᄒᆞᄋᆞᆸ셔'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="05">글월 밧ᄌᆞ와 긔운 평안ᄒᆞ오신 문안 아ᄋᆞᆸ고 든든ᄒᆞ오며</sent><!--'든든ᄒᆞ오며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="06">예ᄂᆞᆫ 대단 연고 업고</sent>
+<sent type="main" lang="kor" page="41" n="07">어마님 긔운 안녕ᄒᆞ오시니 다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ오나 </sent><!--'다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ오나'에서 뒤에 오는 '다ᄒᆡᆼ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="08">뎡응 부 어제 밤브터 셜샤 긔운 잇ᄉᆞ오니 </sent>
+<sent type="main" lang="kor" page="41" n="09">대단튼 아니ᄒᆞ오나 싀오치면 어일고 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="10">길흔 가오시ᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="41" n="11">ᄆᆞ양 극열 극한의 길흘 ᄃᆞᆫ니오시니 실노 민망ᄒᆞᄋᆞᆸ </sent>
+<sent type="main" lang="kor" page="41" n="12">옷도 ᄂᆞᆯ근 거ᄉᆞ로 ᄆᆞ양 우리오니</sent>
+<sent type="main" lang="kor" page="41" n="13">사ᄅᆞᆷ도 난 디 오라면 늙거든</sent>
+<sent type="main" lang="kor" page="41" n="14">오시 ᄆᆞ양 새로 잇기 쉬올가 시브ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="15">챵옷 ᄒᆞ나흔 다 믈쇽 ᄯᅥ러져 ᄇᆞ리고</sent>
+<sent type="main" lang="kor" page="41" n="16">이 쟈ᄅᆞᆫ 거시 죠곰 셩ᄒᆞ여시매</sent>
+<sent type="main" lang="kor" page="41" n="17">겹바디 둘 단속ᄒᆞ고 ᄲᆞ라 보내오나 </sent>
+<sent type="main" lang="kor" page="41" n="18">일노 어이 견ᄃᆡ오실고 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="19">닙어 가신 젹삼 밧긔ᄂᆞᆫ 예 잇ᄉᆞᆫ 거ᄉᆞᆫ 다 ᄯᅥ러져 못 닙게 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="41" n="20">무명 젹삼 속것시나 보내오리잇가</sent>
+<sent type="main" lang="kor" page="41" n="21">옷 수들은 ᄯᆞ로 ᄇᆞᆯ긔 ᄒᆞ엿ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="22">찬합 보 보내ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="23">도포도 하 ᄀᆞ이업ᄉᆞᆫ 거□ 닙고 가시게 ᄒᆞ여시니 </sent>
+<sent type="main" lang="kor" page="41" n="24">아므리 ᄉᆡᆼ각ᄒᆞ여도 듀변ᄒᆞᆯ 도리 업고</sent>
+<sent type="main" lang="kor" page="41" n="25">주을도 하 드ᄅᆞ시니</sent>
+<sent type="main" lang="kor" page="41" n="26">아ᄌᆞ뷔 디긔여 가ᄂᆞᆫ 형셰과 다ᄅᆞ고</sent>
+<sent type="main" lang="kor" page="41" n="27">져믄 사ᄅᆞᆷ과도 다ᄅᆞᆫᄃᆡ </sent>
+<sent type="main" lang="kor" page="41" n="28">실노 ᄂᆞᆷ도 븟그럽ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="29">온갓 ᄆᆡᄉᆡ 내 능치 못ᄒᆞ고 용녈ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="41" n="30">쳐ᄌᆞ 소임을 못ᄒᆞ오니 내 죄ᄋᆞᆸ거니와</sent>
+<sent type="main" lang="kor" page="41" n="31">ᄂᆞᆷ이 다 홀아븨 형셰로 아오니</sent>
+<sent type="main" lang="kor" page="41" n="32">내 ᄆᆞᄋᆞᆷ도 역시 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="kor" page="41" n="33">참괴ᄒᆞᆫ ᄆᆞᄋᆞᆷ이 어이 업ᄉᆞᆯ가 시브ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="34">우연이 ᄌᆞᆫ 말이 되엿ᄉᆞ오니 미안ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="35">보션은 ᄂᆡ일 보ᄂᆡ오리이다</sent>
+<sent type="main" lang="kor" page="41" n="36">보내오신 것들은 다 ᄌᆞ시 밧ᄌᆞᆸ고</sent>
+<sent type="main" lang="kor" page="41" n="37">ᄉᆞ연도 ᄌᆞ시 보앗ᄉᆞᆸ </sent>
+<sent type="main" lang="kor" page="41" n="38">어마님긔 잡ᄉᆞ올 일 말ᄉᆞᆷ은 경셰ᄅᆞᆯ 닛ᄌᆞᆸ디 아니ᄒᆞ오려니와</sent>
+<sent type="main" lang="kor" page="41" n="39">몸이 ᄆᆞ양 셩치 못ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" lang="kor" page="41" n="40">죵죵 졍셩과 ᄀᆞᆺ디 못ᄒᆞ오니 죄탄ᄒᆞ오나</sent><!--'죵죵'에서 뒤에 오는 '죵'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="41">몸이 셩ᄒᆞᆫ 후야 어이 당부ᄅᆞᆯ 기ᄃᆞ리오리잇가</sent>
+<sent type="main" lang="kor" page="41" n="42">요ᄉᆞ이 반찬이 ᄯᆞᆨ이 업서 노친ᄂᆡ 진지도 ᄀᆞ이업고</sent>
+<sent type="main" lang="kor" page="41" n="43">졍현 대병지여의 고기 ᄭᅳᆺᄎᆞᆯ 못 어더먹여 소복ᄒᆞᆯ ᄭᅵᆯ히 업거든</sent>
+<sent type="main" lang="kor" page="41" n="44">돈 두로 ᄭᅮ어셔 ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="41" n="45">반찬도 싀훤코 □ 갑게 ᄒᆞ여시니 싀훤 깃브ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="41" n="46">□일 차례예 유쳥을 ᄭᅮ어 쓰오니</sent>
+<sent type="main" lang="kor" page="41" n="47">브ᄃᆡ 일난 갑게 ᄒᆞᄋᆞᆸ</sent>
+</letter>
+
+<letter n="1-1" sender="밀양박씨(올케)" writer="밀양박씨(올케)" receiver="은진송씨(시누이)" year="1727~1737년">
+<sent type="main" lang="kor" page="1-1" n="01">옷</sent>
+<sent type="main" lang="kor" page="1-1" n="02">ᄇᆞᆯ긔 가ᄂᆞᆫ 수 큰 챵옷 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="1-1" n="03">모시 겹바디 둘 뵈 단속것 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="1-1" n="04">게 간 거시 도포 ᄒᆞ나 큰 챵옷 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="1-1" n="05">석기 쇼겹옷 ᄒᆞ나 쇼챵옷 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="1-1" n="06">무명 겹바디 ᄒᆞ나 무명 겹옷 둘</sent>
+<sent type="main" lang="kor" page="1-1" n="07">뵈 젹삼 속것 각 ᄒᆞ나 도포 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="1-1" n="08">몬졔 옷 싸 간 보</sent>
+<sent type="main" lang="kor" page="1-1" n="09">문의ᄃᆡᆨ 보히니 브ᄃᆡ 보내ᄋᆞᆸ</sent>
+</letter>
+
+<letter n="1-2" sender="밀양박씨(올케)" writer="밀양박씨(올케)" receiver="은진송씨(시누이)" year="1723~1737년">
+<sent type="envelop1-1" lang="kor" page="1-2" n="01">아기시 젼 답샹셔</sent>
+<sent type="envelop1-1" lang="kor" page="1-2" n="02">근봉</sent>
+<sent type="main" lang="kor" page="1-2" n="03">열 번이나 전ᄌᆞ리ᄋᆞᆸ다가 이리 긔별ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="1-2" n="04">냥반도 실노 졀박ᄒᆞᄋᆞᆸ거니와</sent>
+<sent type="main" lang="kor" page="1-2" n="05">위션 죵이 더 참혹ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="1-2" n="06">유뎡 ᄀᆞᆺᄐᆞᆫ 거ᄉᆞᆫ 아조 아래ᄅᆞᆯ 감디 못ᄒᆞ고 기여</sent>
+<sent type="main" lang="kor" page="1-2" n="07">두년 소션의 ᄎᆞ마 ᄂᆞᆷ도 븟그럽ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="1-2" n="08">겟 형셰도 졀박ᄒᆞ여 ᄒᆞ오시려니와</sent>
+<sent type="main" lang="kor" page="1-2" n="09">죵들 녀ᄅᆞᆷ사리 ᄒᆞ여 닙히게 안음셔</sent>
+<sent type="main" lang="kor" page="1-2" n="10">오ᄂᆞᆫ 거ᄉᆞ로 ᄉᆡᆼ각ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="1-2" n="11">오뉵 년을 가디고 내 오ᄉᆞᆯ 다 버서 닙히고</sent>
+<sent type="main" lang="kor" page="1-2" n="12">이제ᄂᆞᆫ 궁진ᄒᆞ엿ᄉᆞ오니 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="1-2" n="13">남포</sent>
+</letter>
+
+<letter n="42" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1726년">
+<sent type="envelop1-1" lang="kor" page="42" n="01">답장샹</sent>
+<sent type="envelop1-1" lang="kor" page="42" n="02">근봉</sent>
+<sent type="main" lang="kor" page="42" n="03">하인 오와ᄂᆞᆯ 뎍ᄉᆞ오시니 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="42" n="04">긔운은 그만이나 평안ᄒᆞ오시니 깃브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="42" n="05">어마님겨ᄋᆞᆸ셔 셜샤로 오래 긔후 블평ᄒᆞ여 디내ᄋᆞᆸ시ᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="42" n="06">외오셔 놀랍ᄉᆞ온</sent>
+<sent type="main" lang="kor" page="42" n="07">복녀 일시도 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="42" n="08">다시 문안도 아올 길 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="42" n="09">더옥 답답 념녀 측냥업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="10">졔믈은 ᄌᆞ시 밧ᄌᆞ왓ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="42" n="11">실과도 어더 쓰ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="42" n="12">이곳은 복통이 장 긋디 아니ᄒᆞ고 수일은 극듕ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="42" n="13">즉금 져기 나아 디내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="42" n="14">총총 잠 뎍ᄉᆞ오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="15">아마도 어루신내 환휘 수이 쾌차ᄒᆞ오신 문안 듯ᄌᆞᆸ기ᄅᆞᆯ 쳔만 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="42" n="16">병오 오월 십삼일</sent>
+<sent type="main" lang="kor" page="42" n="17">긔복인 박</sent>
+</letter>
+
+<letter n="43" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1726년">
+<sent type="envelop1-2" lang="kor" page="43" n="01">장샹</sent>
+<sent type="envelop1-2" lang="kor" page="43" n="02">근봉</sent>
+<sent type="main" lang="kor" page="43" n="03">년ᄒᆞ여 일긔 사오납ᄉᆞ오납ᄉᆞ오니 뫼ᄋᆞ오셔 </sent>
+<sent type="main" lang="kor" page="43" n="04">긔운 평안ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="43" n="05">ᄒᆡᆼᄎᆞᄂᆞᆫ 어ᄂᆞ 긔 득달ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="43" n="06">다시 문안도 모ᄅᆞ오니 답답ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답ᄒᆞ와'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="43" n="07">준뫼셔 일 졔ᄉᆞᄅᆞᆯ 우리 집의셔 디내올 ᄎᆞ례라 ᄒᆞ고 의논이 나오매 아오시게</sent>
+<sent type="main" lang="kor" page="43" n="08">사ᄅᆞᆷ을 어더 급주ᄒᆞ여 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="43" n="09">총총 긋치오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="43" n="10">내내 긔운 평안ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="43" n="11">병오 구월 십뉵일</sent>
+<sent type="main" lang="kor" page="43" n="12">박</sent>
+<sent type="main" lang="kor" page="43" n="13">홍ᄌᆔ 김 셔방ᄃᆡᆨ 편 ᄇᆞᆯ셔 왓ᄉᆞᆸ던 거ᄉᆞᆯ 닛고 인제야 보내ᄋᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="44" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1723~1736년">
+<sent type="envelop1-1" lang="kor" page="44" n="01">샹장</sent>
+<sent type="envelop1-1" lang="kor" page="44" n="02">근봉</sent>
+<sent type="main" lang="kor" page="44" n="03">황달 긔운으로 편치 못ᄒᆞ오신 긔별 듯ᄌᆞ온 후</sent>
+<sent type="main" lang="kor" page="44" n="04">다시 긔별을 모ᄅᆞ와 듀야 답답</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="05">념녀 일시도 브리ᄋᆞᆸ디 못ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="44" n="06">하인 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="44" n="07">져기 우연ᄒᆞ오신 긔별을 듯ᄌᆞ오니 다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ오나</sent><!--'다ᄒᆡᆼ다ᄒᆡᆼᄒᆞ오나'에서 뒤에 오는 '다ᄒᆡᆼ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="08">채 낫도 못ᄒᆞ오신ᄃᆡ 치위 ᄒᆡᆼ녁을 엇디 ᄒᆞ오실고</sent>
+<sent type="main" lang="kor" page="44" n="09">념녀 ᄀᆞ이업ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="44" n="10">여긔도 어루신ᄂᆡ 긔후 년ᄒᆞ여 일양 디ᄂᆡ오시니</sent>
+<sent type="main" lang="kor" page="44" n="11">다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="44" n="12">문의 대동도 무ᄉᆞᄒᆞ온가 시브오니 깃브오며</sent>
+<sent type="main" lang="kor" page="44" n="13">바디ᄂᆞᆫ 둣거이 ᄒᆞ노라 ᄒᆞ엿더니마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="44" n="14">ᄌᆞᆷ이 자 그러ᄒᆞ온가 엷다 ᄒᆞ여 겨오시니</sent>
+<sent type="main" lang="kor" page="44" n="15">더 둣거이 드올 거ᄉᆞᆯ 애ᄃᆞᆲ기 ᄀᆞ이업ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="44" n="16">하인 셔셔 ᄌᆡ촉ᄒᆞᄋᆞᆸ기 겨유 잠 그리ᄋᆞᆸ</sent><!--'셔셔'에서 뒤에 오는 '셔'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="17">지월 념뉵일</sent>
+<sent type="main" lang="kor" page="44" n="18">박</sent>
+</letter>
+
+<letter n="45" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1727년">
+<sent type="envelop1-2" lang="kor" page="45" n="01">샹장</sent>
+<sent type="envelop1-2" lang="kor" page="45" n="02">근봉</sent>
+<sent type="main" lang="kor" page="45" n="03">신셰예 시하 긔운 평안ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="45" n="04">죵긔로 신고ᄒᆞ오시ᄂᆞᆫ 증졍은 새ᄒᆡ예나 쾌히 낫ᄌᆞ오신가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="45" n="05">예ᄂᆞᆫ 산소 졔ᄉᆞᄅᆞᆯ 평안이 디내오니 다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="45" n="06">ᄉᆞ연 총총ᄒᆞ와 긋ᄌᆞ오며</sent><!--'총총ᄒᆞ와'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="45" n="07">아마도 신원의 내내 긔운 평안ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="45" n="08">졍미 원월 초이일</sent>
+<sent type="main" lang="kor" page="45" n="09">박</sent>
+</letter>
+
+<letter n="46" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1725년">
+<sent type="envelop1-2" lang="kor" page="46" n="01">장샹</sent>
+<sent type="envelop1-2" lang="kor" page="46" n="02">근봉</sent>
+<sent type="main" lang="kor" page="46" n="03">죵들 도라오와ᄂᆞᆯ 뫼ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="46" n="04">ᄒᆡᆼᄎᆞ 평안이 득달ᄒᆞ오신 문안 아ᄋᆞᆸ고 든든ᄒᆞ오ᄃᆡ</sent><!--'든든ᄒᆞ오ᄃᆡ'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="05">다시 문안 모ᄅᆞ오니 답답 념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="06">아ᄌᆞ바님겨오셔ᄂᆞᆫ 나ᄌᆔ로 올마 겨오시다 ᄒᆞ오니 각별 깃브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="46" n="07">ᄯᅩ 엇디 ᄒᆡᆼᄎᆞ들을 ᄒᆞ오실고</sent>
+<sent type="main" lang="kor" page="46" n="08">념녀 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="46" n="09">총총 긋치오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="10">뫼ᄋᆞᆸ고 다시 ᄒᆡᆼᄎᆞ들 평안이 ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent> 
+<sent type="main" lang="kor" page="46" n="11">을ᄉᆞ 십월 념오일</sent>
+<sent type="main" lang="kor" page="46" n="12">박</sent>
+</letter>
+
+<letter n="47" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1723~1737년">
+<sent type="envelop1-2" lang="kor" page="47" n="01">답샹장</sent>
+<sent type="main" lang="kor" page="47" n="02">의외 뎍ᄉᆞ오시니 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="47" n="03">긔운 평안ᄒᆞ오신 문안 아ᄋᆞᆸ고 깃브오며</sent>
+<sent type="main" lang="kor" page="47" n="04">비 년ᄒᆞ여 이리 오오니</sent>
+<sent type="main" lang="kor" page="47" n="05">길흘 엇디 가오실고 념녀 브리ᄋᆞᆸ디 못ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="47" n="06">여긔 아희 병은 민망 졀박ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="47" n="07">어제브터 죠곰 나아</sent>
+<sent type="main" lang="kor" page="47" n="08">오ᄂᆞᆯ은 퍽이 낫ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="47" n="09">깃브기 ᄀᆞ이업ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="47" n="10">보내오신 것들은 다 ᄌᆞ시 밧ᄌᆞ왓ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="47" n="11">총총 잠 뎍ᄉᆞᆸ</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="47" n="12">즉일</sent>
+<sent type="main" lang="kor" page="47" n="13">박</sent>
+</letter>
+
+<letter n="48" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1727~1736년">
+<sent type="envelop1-1" lang="kor" page="48" n="01">년산 읍ᄂᆡ</sent>
+<sent type="envelop1-1" lang="kor" page="48" n="02">근봉 입납 본가 평셔</sent>
+<sent type="envelop1-1" lang="kor" page="48" n="03">송 ᄉᆡᆼ원 ᄒᆡᆼᄎᆞ</sent>
+<sent type="envelop1-2" lang="kor" page="48" n="04">답샹장</sent>
+<sent type="envelop1-2" lang="kor" page="48" n="05">근봉</sent>
+<sent type="main" lang="kor" page="48" n="06">날이 ᄎᆞ온ᄃᆡ 의복이 엷ᄉᆞ오니 념녀 깁ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="48" n="07">평안이 도라오오시니 든든ᄒᆞ오며</sent><!--'든든ᄒᆞ오며'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="08">뎍ᄉᆞ오시니도 밧ᄌᆞ와 보왓ᄉᆞᆸ</sent>
+<sent type="main" lang="kor" page="48" n="09">예ᄂᆞᆫ 어마님겨오셔 셜샤 긔운 겨오시니 민망ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="48" n="10">어제브터 낫ᄌᆞ오시니 다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="48" n="11">년어ᄂᆞᆫ 잡ᄉᆞ오려 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="48" n="12">졍현이ᄂᆞᆫ 유모 병들기로 졋 주려 잔잉ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="48" n="13">수일재 니러 먹이오니 깃브ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="48" n="14">며ᄂᆞ리 ᄉᆡᆼ일이 이 열여ᄃᆞ래날이라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="48" n="15">ᄒᆞᆫ 며ᄂᆞ리ᄅᆞᆯ 그저 두려 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="48" n="16">총총 잠 뎍ᄉᆞᆸᄂᆞ이다</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="17">즉일</sent>
+<sent type="main" lang="kor" page="48" n="18">박</sent>
+</letter>
+
+<letter n="49" sender="밀양박씨(아내)" writer="밀양박씨(아내)" receiver="송요화(남편)" year="1723~1737년">
+<sent type="envelop1-1" lang="kor" page="49" n="01">장샹</sent>
+<sent type="envelop1-1" lang="kor" page="49" n="02">근봉</sent>
+<sent type="envelop1-2" lang="kor" page="49" n="03">샹장</sent>
+<sent type="envelop1-2" lang="kor" page="49" n="04">근봉</sent>
+<sent type="main" lang="kor" page="49" n="05">어제 풍일이 심히 사오납ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="49" n="06">ᄲᅵ치오신 긔운 엇더ᄒᆞ오시니잇가</sent>
+<sent type="main" lang="kor" page="49" n="07">육혈은 다시 내오신 일이나 업ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="49" n="08">날로 긔별 모ᄅᆞ오니 답답 념녀 ᄀᆞ이업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="09">예ᄂᆞᆫ 어마님 긔운 일양 ᄒᆞᆫ가디오시니 다ᄒᆡᆼᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="49" n="10">셔울 긔별도 문 밧 손 무ᄉᆞ히 드러가고</sent>
+<sent type="main" lang="kor" page="49" n="11">게도 대되 무ᄉᆞᄒᆞ더라 ᄒᆞ오니 깃브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="49" n="12">쳥풍ᄃᆡᆨ 형님 ᄒᆡ소로 고극히 디내오신다 ᄒᆞ오니 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="49" n="13">인마 간다 ᄒᆞ오매 잠 뎍ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="49" n="14">즉일</sent>
+<sent type="main" lang="kor" page="49" n="15">박</sent>
+</letter>
+
+<letter n="50" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="50" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="50" n="02">[봉인] [수결：益] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="50" n="03">송촌 츌</sent>
+<sent type="main" lang="kor" page="50" n="04">아들 편지 몬져 드러갈ᄭᅡ ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="50" n="05">그ᄉᆞ이 어이 디내ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="50" n="06">예ᄂᆞᆫ 일양으로 디내고</sent>
+<sent type="main" lang="kor" page="50" n="06">오ᄂᆞᆯ 날 죠하 샹녜ᄅᆞᆯ 므ᄉᆞ히 디내고</sent>
+<sent type="main" lang="kor" page="50" n="07">ᄉᆞ우 봉안ᄒᆞᆯᄭᆞ지 므ᄉᆞ히 디내오니 다ᄒᆡᆼ키 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="50" n="08">아바님ᄭᅴ셔ᄂᆞᆫ 동지ᄒᆞ여 계시ᄂᆡ</sent>
+<sent type="main" lang="kor" page="50" n="09">은뇌도 벼ᄉᆞᆯᄒᆞ이라 ᄒᆞ여 계시ᄂᆡ</sent>
+<sent type="main" lang="kor" page="50" n="10">나ᄂᆞᆫ 망일 ᄯᅥ나가랴 ᄒᆞᄋᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="50" n="11">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="50" n="12">십삼일</sent>
+<sent type="main" lang="kor" page="50" n="13">익흠</sent>
+<sent type="main" lang="kor" page="50" n="14">신집 길 초팔일 진위ᄭᆞ지 므ᄉᆞ히 간 편지 보앗ᄉᆞᆸᄂᆡ</sent>
+</letter>
+
+<letter n="51" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1756년">
+<sent type="main" lang="kor" page="51" n="01">그ᄉᆞ이 어이 디내ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="51" n="02">사ᄅᆞᆷ이 올러니 오고 이시니</sent>
+<sent type="main" lang="kor" page="51" n="03">아니 답답 념녀 ᄀᆞ이업고</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="04">셔울 길 ᄒᆡᆼ찬도 낭패 되여 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="51" n="05">나ᄂᆞᆫ 신집 보내고 감영 와시나</sent>
+<sent type="main" lang="kor" page="51" n="06">슌ᄉᆞ가 파직 ᄎᆔ리ᄒᆞ니 섭섭기 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent><!--'섭섭기'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="07">새 감ᄉᆞ 난 쇼식은 미처 못 왓ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="51" n="08">신집은 아ᄒᆡ 다복 ᄯᅥ나지 아니랴 가ᄂᆡ</sent>
+<sent type="main" lang="kor" page="51" n="09">ᄯᆞᆫ 가마의 게셔 날 적쳐로 보내엿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="51" n="10">두 어르신ᄂᆡ 문묘 죵향 +</sent>
+</letter>
+
+<letter n="1-1" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1756년*">
+<sent type="main" lang="kor" page="1-1" n="01">+ 쳥을 나라히 듯ᄌᆞ와 계시외</sent>
+<sent type="main" lang="kor" page="1-1" n="02">나ᄂᆞᆫ ᄂᆡ일노 급히 ᄯᅥ나</sent>
+<sent type="main" lang="kor" page="1-1" n="03">회덕을 모ᄅᆡ 가셔</sent>
+<sent type="main" lang="kor" page="1-1" n="04">열흘날이야 환관ᄒᆞᆯᄭᅡ 시브외</sent>
+<sent type="main" lang="kor" page="1-1" n="05">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="1-1" n="06">초뉵 야</sent>
+<sent type="main" lang="kor" page="1-1" n="07">익흠</sent>
+</letter>
+
+<letter n="52" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1755~1757년*">
+<sent type="envelop1-1" lang="kor" page="52" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="52" n="02">[봉인] [수결：益] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="52" n="03">송촌 츌</sent>
+<sent type="main" lang="kor" page="52" n="04">년ᄒᆞ여 뎍으시니 므ᄉᆞᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="52" n="05">덧난 니각ᄒᆞᆫ 일 만ᄒᆡᆼᄒᆞ외</sent>
+<sent type="main" lang="kor" page="52" n="06">나ᄂᆞᆫ 비 맛고 졔ᄉᆞ 디내고 인ᄒᆞ여 맛고</sent>
+<sent type="main" lang="kor" page="52" n="07">이리 와셔 발인이 모ᄅᆡ시니</sent>
+<sent type="main" lang="kor" page="52" n="08">모ᄅᆡ야 ᄯᅥ나가긔 ᄒᆞ엿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="52" n="09">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="52" n="10">십뉵일</sent>
+<sent type="main" lang="kor" page="52" n="11">익흠</sent>
+</letter>
+
+<letter n="53" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1756년*">
+<sent type="envelop1-1" lang="kor" page="53" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="53" n="02">[봉인] [수결：益] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="53" n="03">송촌 츌</sent>
+<sent type="main" lang="kor" page="53" n="04">두 슌 뎍으시니 보고</sent>
+<sent type="main" lang="kor" page="53" n="05">만실 우환인가 시시브니 념녀 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="53" n="06">덧ᄲᅳᆫ 덧난은 낫다 ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="53" n="07">그밧 우환은 그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ온고</sent>
+<sent type="main" lang="kor" page="53" n="08">나ᄂᆞᆫ 그 풍셜의 겨유 오ᄂᆞᆯ이야 겨유 와시나</sent>
+<sent type="main" lang="kor" page="53" n="09">ᄂᆞ치 다 어이 샹ᄒᆞ엿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="53" n="10">십 ᄉᆞ이 죵향을 ᄒᆞᄋᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="53" n="11">그 젼 녜관이 ᄂᆞ려와 치졔ᄒᆞ오리라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="53" n="12">그 젼 도라가지 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="53" n="13">거긔 그 일이 민망ᄒᆞ외</sent>
+<sent type="main" lang="kor" page="53" n="14">신집 길노 더옥 념녀 측냥이 업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="53" n="15">ᄌᆞ부 김집 편지 미처 ᄃᆡ답 못ᄒᆞᄋᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="53" n="16">겨유 이만 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="53" n="17">초구일</sent>
+<sent type="main" lang="kor" page="53" n="18">익흠</sent>
+<sent type="main" lang="kor" page="53" n="19">슈의복 내 갈 제 그리 ᄒᆞ오리</sent>
+</letter>
+
+<letter n="54" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1755~1757년*">
+<sent type="envelop1-1" lang="kor" page="54" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="54" n="02">[봉인] [봉인]</sent>
+<sent type="envelop1-1" lang="kor" page="54" n="03">ᄒᆡᆼ듕 츌</sent>
+<sent type="main" lang="kor" page="54" n="04">그ᄉᆞ이 일양으로 디내ᄋᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="54" n="05">우리ᄂᆞᆫ 예ᄭᆞ지ᄂᆞᆫ 므ᄉᆞ히 와시나</sent>
+<sent type="main" lang="kor" page="54" n="06">풍셜은 이러ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="54" n="07">신집 ᄆᆡ이 치워ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="54" n="08">병날ᄭᅡ 민망ᄒᆞ외</sent>
+<sent type="main" lang="kor" page="54" n="09">셩일이 나ᄌᆡ 아모 거시나 먹이고</sent>
+<sent type="main" lang="kor" page="54" n="10">브ᄃᆡ 졍되이 ᄃᆡ졉ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="54" n="11">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="54" n="12">초삼일</sent>
+<sent type="main" lang="kor" page="54" n="13">익흠</sent>
+</letter>
+
+<letter n="55" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1726~1757년">
+<sent type="main" lang="kor" page="55" n="01">뫼ᄯᅩᆨ 가ᄂᆞᆫᄃᆡ 아ᄎᆞᆷ 편지ᄒᆞ엿더니 ᄯᅩ 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="55" n="02">갑동 아자비 병이 현마 위ᄐᆡᄒᆞ랴 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="55" n="03">오ᄂᆞᆯ 죵시 구치 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="55" n="04">뎌런 졍셩이 어ᄃᆡ 잇ᄉᆞ올ᄭᅩ 만이 업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="55" n="05">슉긔 ᄆᆞ음인들 외오셔 오ᄌᆞᆨᄒᆞ올ᄭᅡ</sent>
+<sent type="main" lang="kor" page="55" n="06">쟝슈 ᄎᆞᆯ혀 보내기의도 경업긔 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="55" n="07">그도 블ᄒᆡᆼᄒᆞ외</sent>
+<sent type="main" lang="kor" page="55" n="08">옷들 내히 내게ᄂᆞᆫ 아모것도 업서</sent>
+<sent type="main" lang="kor" page="55" n="09">댜근 져구리 내엿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="55" n="10">곡뒤을 혀니 알프니</sent>
+<sent type="main" lang="kor" page="55" n="11">곡뒤만 덥긔 조식으로 풍챠 ᄆᆡᆼ그라 보내ᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="55" n="12">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="55" n="13">ᄉᆞ월 초이일</sent>
+<sent type="main" lang="kor" page="55" n="14">익흠</sent>
+</letter>
+
+<letter n="56" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1726~1757년">
+<sent type="main" lang="kor" page="56" n="01">그ᄉᆞ이 뫼시고 어이 디내ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="56" n="02">아바님 긔운은 그ᄉᆞ이ᄂᆞᆫ 쾌히 낫ᄌᆞ오시온가</sent>
+<sent type="main" lang="kor" page="56" n="03">념녀 브리ᄋᆞᆸ디 못ᄒᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="56" n="04">나ᄂᆞᆫ 어제 아ᄎᆞᆷ 므ᄉᆞ히 드러왓ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="56" n="05">예ᄂᆞᆫ 평안ᄒᆞ오시ᄃᆡ</sent>
+<sent type="main" lang="kor" page="56" n="06">문의의 병이 지금 미류ᄒᆞ여 디낸다 ᄒᆞ니 민망ᄒᆞ외</sent><!--'문의의'에서 뒤에 오는 '의'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="07">새 산소 ᄡᅳᆯ ᄃᆡᄂᆞᆫ 십팔이 역ᄉᆞᄒᆞ여 보랴 ᄒᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="56" n="08">비 이리 오니 민망ᄒᆞ외</sent>
+<sent type="main" lang="kor" page="56" n="09">의복 브ᄃᆡ 수이 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="56" n="10">숑듀 오ᄂᆞᆫ 인편의 브티고 사 보내ᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="56" n="11">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="56" n="12">삼월 십오일</sent>
+<sent type="main" lang="kor" page="56" n="13">익흠</sent>
+</letter>
+
+<letter n="57" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1739년">
+<sent type="envelop1-2" lang="kor" page="57" n="01">답장샹</sent>
+<sent type="main" lang="kor" page="57" n="02">ᄉᆞ듕이 오나ᄂᆞᆯ 뎍으시니 보고 뫼ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="57" n="03">대단 연고 업시 디내시니 깃브기 ᄀᆞ이업ᄉᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="57" n="04">편지마다 겟 병 말 어이 ᄌᆞ시 아니 긔별ᄒᆞᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="57" n="05">아ᄌᆞ바님 병환은 그러구러 뎜뎜 더ᄒᆞ오신가 시브니</sent><!--'뎜뎜'에서 뒤에 오는 '뎜'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="06">념녀 측냥이 업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="57" n="07">예ᄂᆞᆫ 뎡응 회초간 알하 디내더니</sent>
+<sent type="main" lang="kor" page="57" n="08">초ᄉᆡᆼ 이후ᄂᆞᆫ 아딕 므ᄉᆞᄒᆞ외</sent>
+<sent type="main" lang="kor" page="57" n="09">ᄃᆞᆫ 거ᄉᆞᆯ 오래 아니 먹으니 그런디 모ᄅᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="57" n="10">건동 아ᄌᆞ마님 긔운이 ᄒᆡᆼᄎᆞᄒᆞ오실 가망이 업ᄉᆞ신 거ᄉᆞᆯ</sent>
+<sent type="main" lang="kor" page="57" n="11">아모죠로나 ᄂᆡ월 초ᄉᆡᆼ의 가랴 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="57" n="12">그제 뫼ᄋᆞᆸ고 가랴 ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="57" n="13">그ᄯᅢ 아ᄌᆞ마님 긔운이나</sent>
+<sent type="main" lang="kor" page="57" n="14">뎡응 병 일이나 다 모ᄅᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="57" n="15">창동 사ᄅᆞᆷ 도라갈 제 편지ᄒᆞ엿더니 보시온가</sent>
+<sent type="main" lang="kor" page="57" n="16">그리 일긋 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="57" n="17">두로막이가 두로 다 브죡ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="57" n="18">안ᄌᆞ면 념의들 못ᄒᆞ고 보션목지이 괴이ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="19">아마 겟 텬셩이오 내 팔ᄌᆞ니 ᄒᆞᆯ 일 업ᄉᆞᆸᄂᆡ ᄒᆞᄂᆞ니 </sent>
+<sent type="main" lang="kor" page="57" n="20">언마 더 드려 녜ᄉᆞ로이 ᄆᆡᆼ그올ᄭᅩ</sent>
+<sent type="main" lang="kor" page="57" n="21">최 셔방의게ᄂᆞᆫ 뎍은 것 보내여시되 시ᄒᆡᆼ 못ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="57" n="22">감영 편지ᄂᆞᆫ ᄇᆞᆯ셔 내 그리 초 잡아 노코 </sent>
+<sent type="main" lang="kor" page="57" n="23">도로 아니 보내노라 ᄒᆞᆫ 거시 갓던가 시브외</sent>
+<sent type="main" lang="kor" page="57" n="24">내 편지 답장ᄋᆡ 그 말 ᄇᆞᆯ셔 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="25">ᄃᆡ답 업ᄉᆞ니 게셔 ᄒᆞ여 브뎔업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="26">고쳐 ᄡᅥ셔 후편의 보내고</sent>
+<sent type="main" lang="kor" page="57" n="27">두 분 진봉 답장 밧ᄌᆞ와 보내ᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="57" n="28">대쵸 실나 조만 인마 ᄯᅩ 가려니와</sent>
+<sent type="main" lang="kor" page="57" n="29">아딕 디속 모ᄅᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="57" n="30">약계 댜로 보내니 뎐ᄒᆞᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="57" n="30">년ᄎᆞ부 올 제 대쵸 녀흔 댜로ᄂᆞᆫ 인마 갈 제 보내오니</sent>
+<sent type="main" lang="kor" page="57" n="31">뎌동 댜로ᄂᆞᆫ 몰내라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="57" n="32">보신 지 파 버슷 되 가ᄋᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="57" n="33">밧바 계유 이만 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="57" n="34">긔미 이월 십일일</sent><!--'십일일'에서 뒤에 오는 '일'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="35">익흠</sent>
+</letter>
+
+<letter n="58" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1748년">
+<sent type="main" lang="kor" page="58" n="01">츈복이 갈 적의 편지 보시온가</sent>
+<sent type="main" lang="kor" page="58" n="02">그ᄉᆞ이ᄂᆞᆫ 어이 디내ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="58" n="03">아히들은 그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ온고</sent>
+<sent type="main" lang="kor" page="58" n="04">념녀 브리디 못ᄒᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="58" n="05">의복들은 엇디ᄒᆞ엿ᄉᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="58" n="06">예ᄂᆞᆫ 일양으로 디내되</sent>
+<sent type="main" lang="kor" page="58" n="07">봉화 형님 대샹이 디나시니</sent>
+<sent type="main" lang="kor" page="58" n="08">심ᄉᆡ 더욱 ᄀᆞ이업ᄉᆞ외</sent>
+<sent type="main" lang="kor" page="58" n="09">치뎐은 초략히 ᄒᆞ여시나</sent>
+<sent type="main" lang="kor" page="58" n="10">돈 냥 남ᄌᆞᆨ이 드럿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="58" n="11">결관 니블의 둘 소옴 닛지 마ᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="58" n="12">졔ᄉᆞᄅᆞᆯ ᄯᅩ 못 참예ᄒᆞ니 ᄀᆞ이업ᄉᆞ외</sent>
+<sent type="main" lang="kor" page="58" n="13">반찬이 간초ᄒᆞ여 과연 어렵ᄉᆞ외</sent>
+<sent type="main" lang="kor" page="58" n="14">손 두어흔 ᄯᅥ나디 아니ᄒᆞᄋᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="58" n="15">뫼ᄯᅩᆨ 가니 잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="58" n="16">사직은 엇더ᄒᆞᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="58" n="17">무진 ᄉᆞ월 초일</sent>
+<sent type="main" lang="kor" page="58" n="18">익흠</sent>
+</letter>
+
+<letter n="59" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1755~1757년*"> <!-- 한국학중앙연구원 편(2009a)에서는 1725~1757년으로 추정하였으나 ‘환관ᄒᆞ긔’라는 표현으로 보아 송익흠이 현감을 하고 있을 때로 생각할 수 있다. 송익흠이 보은현감에 제수된 것이 1754년 12월 28일이므로 1755년 이후부터 송익흠이 죽은 1757년 사이에 작성된 편지로 추정된다.-->
+<sent type="envelop1-1" lang="kor" page="59" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="59" n="02">[봉인] [수결：益] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="59" n="03">송촌 츌</sent>
+<sent type="envelop1-2" lang="kor" page="59" n="04">보아 즉뎐</sent>
+<sent type="envelop1-2" lang="kor" page="59" n="05">ᄒᆡᆼ듕 츌</sent>
+<sent type="main" lang="kor" page="59" n="06">뎍으시니 일양 디내시ᄂᆞᆫ 줄 알고 깃브외</sent>
+<sent type="main" lang="kor" page="59" n="07">나ᄂᆞᆫ 오ᄂᆞᆯ 년가 자니</sent>
+<sent type="main" lang="kor" page="59" n="08">모ᄅᆡ야 환관ᄒᆞ긔 ᄒᆞ엿ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="59" n="09">보령 아자비 왓거든</sent>
+<sent type="main" lang="kor" page="59" n="10">션증 글 ᄀᆞᄅᆞ치라 ᄒᆞᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="59" n="11">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="59" n="12">념뉵일</sent>
+<sent type="main" lang="kor" page="59" n="13">익흠</sent>
+</letter>
+
+<letter n="60" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1726~1757년">
+<sent type="envelop1-2" lang="kor" page="60" n="01">션산 아ᄂᆡ 즉뎐</sent>
+<sent type="envelop1-2" lang="kor" page="60" n="02">[수결：益] 근봉</sent>
+<sent type="envelop1-2" lang="kor" page="60" n="03">국실 평셔</sent>
+<sent type="main" lang="kor" page="60" n="04">밧 편지 ᄡᅥ 맛졋더니</sent>
+<sent type="main" lang="kor" page="60" n="05">하인 오나ᄂᆞᆯ 뎍으시니 보고</sent>
+<sent type="main" lang="kor" page="60" n="06">아바님 ᄂᆞᆺᄎᆡ 거ᄉᆞᆫ 어이ᄒᆞ여 그러ᄒᆞ오시며</sent>
+<sent type="main" lang="kor" page="60" n="07">아히들 병이 아마 어린거ᄉᆞᆫ 위ᄐᆡᄒᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="60" n="08">이런 ᄀᆞᆸᄀᆞᆸᄒᆞᆫ 일 어ᄃᆡ 잇ᄉᆞ올ᄭᅩ</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞᆫ'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="60" n="09">니 ᄉᆡᆼ원이나 아모죠로나 오디 못ᄒᆞ올런가 </sent>
+<sent type="main" lang="kor" page="60" n="10">실노 ᄀᆞᆸᄀᆞᆸᄒᆞ외</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞ외'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="60" n="11">예ᄂᆞᆫ 일양으로 디내며</sent>
+<sent type="main" lang="kor" page="60" n="12">ᄂᆡ일 송촌으로 가셔 ᄌᆞ연 즉시 못 ᄯᅥ나</sent>
+<sent type="main" lang="kor" page="60" n="13">보ᄅᆞᆷ 졔ᄉᆞ 미처 드러갈ᄭᅡ 시브외</sent>
+<sent type="main" lang="kor" page="60" n="14">슉긔ᄂᆞᆫ ᄇᆞᆯ셔 갓ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="60" n="15">몬져 편지ᄒᆞ엿고 슈고ᄒᆞ여 이만 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="60" n="16">오월 초오일</sent>
+<sent type="main" lang="kor" page="60" n="17">익흠</sent>
+<sent type="main" lang="kor" page="60" n="18">예ᄂᆞᆫ 장일 비 아니 오고 어제 필역ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="60" n="19">오ᄂᆞᆯ 비가 예만 퍽 와시니 다ᄒᆡᆼᄒᆞ외</sent>
+</letter>
+
+<letter n="61" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1755~1757년">
+<sent type="envelop1-1" lang="kor" page="61" n="01">보아 즉뎐</sent>
+<sent type="envelop1-1" lang="kor" page="61" n="02">[수결：益] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="61" n="03">송촌 츌</sent>
+<sent type="main" lang="kor" page="61" n="04">뎍으시니 든든ᄒᆞ나</sent><!--'든든ᄒᆞ나'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="05">일양 그리 낫지 못ᄒᆞᆫ 일 념녀 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="61" n="06">예ᄂᆞᆫ 뫼시고 일양으로 디내ᄋᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="61" n="07">모ᄅᆡ ᄯᅥ나가랴 ᄒᆞ나 드러가든 못ᄒᆞᆯᄭᅡ 시브외</sent>
+<sent type="main" lang="kor" page="61" n="08">벼로 여긔 업서 답답ᄒᆞ외</sent><!--'답답ᄒᆞ외'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="09">그 벼로 보낼ᄭᅡ 시브거든 이번의 보내ᄋᆞᆸ소</sent>
+<sent type="main" lang="kor" page="61" n="10">아ᄌᆞ마님ᄭᅴ 이번 샹샤 못 알외오니 섭섭ᄒᆞ외</sent><!--'섭섭ᄒᆞ외'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="10">잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="61" n="10">념이일</sent>
+<sent type="main" lang="kor" page="61" n="10">익흠</sent>
+</letter>
+
+<letter n="62" sender="송익흠(남편)" writer="송익흠(남편)" receiver="여흥민씨(아내)" year="1725~1757년">
+<sent type="main" lang="kor" page="62" n="01">사ᄅᆞᆷ 오나ᄂᆞᆯ 뎍으시니 보고 든든ᄒᆞ나</sent><!--'든든ᄒᆞ나'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="02">병환이 엇더ᄒᆞ신고 몰라 답답ᄒᆞᆯᄭᅡ</sent><!--'답답ᄒᆞᆯᄭᅡ'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="03">ᄒᆞᆫ 길 념녀 ᄀᆞ이업ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="62" n="04">초오일 온 손은 편지만 예 두고</sent>
+<sent type="main" lang="kor" page="62" n="05">쳥ᄌᆔ로 갓다 ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="kor" page="62" n="06">어드로 간 줄 모ᄅᆞ올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="62" n="07">셔울 편지ᄂᆞᆫ 니동 편지 밧긔 본 일 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="62" n="08">숑현 편지 아니 와ᄉᆞᆸ던가</sent>
+<sent type="main" lang="kor" page="62" n="09">별노 밧븐 말 업ᄉᆞᆫᄃᆡ 어이 밧브닷 말인고 </sent>
+<sent type="main" lang="kor" page="62" n="10">괴이ᄒᆞ외 잠 뎍ᄉᆞᆸᄂᆡ</sent>
+<sent type="main" lang="kor" page="62" n="11">십일일</sent><!--'십일일'에서 뒤에 오는 '일'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="12">익흠</sent>
+</letter>
+
+<letter n="65" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1750년">
+<sent type="envelop1-1" lang="kor" page="65" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="65" n="02">근봉</sent>
+<sent type="main" lang="kor" page="65" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="65" n="04">밤ᄉᆞ이 긔후 엇디 ᄒᆡᆼᄎᆞᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="65" n="05">복념 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="65" n="06">오ᄂᆞᆯ은 바람이 사오납ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="65" n="07">더옥 념녀 아ᄆᆞ라타 업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="65" n="08">문안 하인 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="65" n="09">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="65" n="10">경오 삼월 초ᄉᆞ일</sent>
+<sent type="main" lang="kor" page="65" n="11">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="66" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="66" n="01">아바님 젼 샹답ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="66" n="02">근봉</sent>
+<sent type="main" lang="kor" page="66" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="66" n="04">년ᄒᆞ여 ᄒᆡᆼᄎᆞ 엇디ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="66" n="05">긔운 엇더ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="66" n="06">일긔ᄂᆞᆫ 공교로이 년ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="66" n="07">볏도 되 아니ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="66" n="08">바람긔 서ᄂᆞᆯᄒᆞ오니 츅슈ᄅᆞᆯ ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="66" n="09">졈졈 문안 아완 디 날포 되오니</sent><!--'졈졈'에서 뒤에 오는 '졈'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="10">복념 측냥업ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="66" n="11">회덕 겨오실 적은 ᄯᅥ나 디내ᄋᆞᆸᄂᆞᆫ 보람이 업ᄉᆞᆸ던가</sent>
+<sent type="main" lang="kor" page="66" n="12">ᄆᆞᄋᆞᆷ이 심히 혜혜 결연ᄒᆞ옴이 아므라타 업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'혜혜'에서 뒤에 오는 '혜'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="13">예ᄂᆞᆫ 대되 일양 디내ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="66" n="14">션증도 셜샤 더 ᄒᆞᄋᆞᆸ든 아니ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="66" n="15">날포 되어ᄉᆞᆸ더니 어제브터ᄂᆞᆫ 낫ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="66" n="16">깃브와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="66" n="17">셔울은 대되 므ᄉᆞ들 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="66" n="18">쥬인은 어ᄃᆡ나 ᄒᆞ온가</sent>
+<sent type="main" lang="kor" page="66" n="19">삼남 듕의 죠오ᄆᆞᆯ ᄇᆞ라오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="66" n="20">우리 ᄇᆞ라오ᄆᆡ 맛기가 쉽디 아니ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="66" n="21">ᄒᆡᆼ혀 먼니 ᄒᆞ오면</sent>
+<sent type="main" lang="kor" page="66" n="22">피ᄎᆞ 결연ᄒᆞ올 일 도로혀 념녀되ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="66" n="23">회덕도 무ᄉᆞᄒᆞ온가 시브오이다</sent>
+<sent type="main" lang="kor" page="66" n="24">경쥬인 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="66" n="25">내내 긔후 안녕ᄒᆞ오시ᄆᆞᆯ 츅슈ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="26">병ᄌᆞ 칠월 초삼일</sent>
+<sent type="main" lang="kor" page="66" n="27">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="67" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="67" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="67" n="02">근봉</sent>
+<sent type="main" lang="kor" page="67" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="67" n="04">하인 도라오와ᄂᆞᆯ 하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="67" n="05">든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="06">그 후 날포 되여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="07">그ᄉᆞ이 긔후 엇더ᄒᆞ오신 문안 모ᄅᆞ와</sent>
+<sent type="main" lang="kor" page="67" n="08">복념 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="67" n="09">예ᄂᆞᆫ 대되 일양 디내오며</sent>
+<sent type="main" lang="kor" page="67" n="10">ᄒᆡᆼᄎᆞᄂᆞᆫ 뎡ᄒᆞᆫ 날노 ᄯᅥ나오실가 든든ᄒᆞ와 ᄒᆞ오며</sent><!--'든든ᄒᆞ와'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="11">신집은 소복ᄒᆞᄋᆞᆸ고 ᄯᆞᆯ을 낫ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="12">더옥 무ᄉᆡᆨᄒᆞ와 ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="13">아ᄒᆡ도 잘 삼ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="14">념녀ᄒᆞ오시게 ᄒᆞ온 일 ᄀᆞ이업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="67" n="15">관ᄃᆡ과 도포ᄂᆞᆫ ᄒᆞ여 닙ᄉᆞ오신가 시브오니 깃브오며</sent>
+<sent type="main" lang="kor" page="67" n="16">예셔ᄂᆞᆫ 처음 긔별ᄒᆞ여 겨오시기</sent>
+<sent type="main" lang="kor" page="67" n="17">샹ᄌᆔ과 쳥ᄌᆔᄅᆞᆯ 브려ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="67" n="18">석 냥 자리예 닷 냥을 주고 사 와ᄉᆞᆸ기 </sent>
+<sent type="main" lang="kor" page="67" n="19">가ᄉᆞᆯ ᄡᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="67" n="20">관ᄃᆡ과 도포ᄀᆞᄋᆞᆷ은 사 두어ᄉᆞᆸ던 거ᄉᆞ로 ᄒᆞ여ᄉᆞᆸ기</sent>
+<sent type="main" lang="kor" page="67" n="21">돈이 덜 드러ᄉᆞ오나</sent>
+<sent type="main" lang="kor" page="67" n="22">그 ᄃᆡ예 여러 사람의 갓 ᄯᅴ로 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="67" n="23">덜 든 보람이 업ᄉᆞ오니 웃ᄌᆞ오며</sent>
+<sent type="main" lang="kor" page="67" n="24">ᄒᆡᆼ찬은 하교ᄒᆞ오신 대로 ᄒᆞ여 알외오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="25">요ᄉᆞ이 날포 되면 ᄶᅡ도 마시 변ᄒᆞ오니 </sent>
+<sent type="main" lang="kor" page="67" n="26">고쳐 너흐라 ᄒᆞ오실가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="67" n="27">국휼 후ᄂᆞᆫ 무판 아니ᄒᆞᄋᆞᆸ더니 겸ᄃᆡ겸ᄃᆡᄒᆞ여 ᄡᅳ오니</sent><!--'겸ᄃᆡ겸ᄃᆡᄒᆞ여'에서 뒤에 오는 '겸ᄃᆡ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="28">고기ᄅᆞᆯ 먹으며 다 됴화ᄒᆞ오니 웃ᄌᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="67" n="29">져ᄯᅢ 회덕셔 도적마ᄌᆞᆫ 거ᄉᆞᆯ</sent>
+<sent type="main" lang="kor" page="67" n="30">향이가 ᄒᆞ다 ᄒᆞ고 ᄡᅵ샹이가 여긔 이셔</sent>
+<sent type="main" lang="kor" page="67" n="31">져거시 젹실ᄒᆞ면 어ᄂᆡ ᄂᆞᆺᄎᆞ로 ᄃᆞᆫ니리 ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="67" n="32">한식의 회덕을 가ᄋᆞᆸ더니 합개 도주ᄒᆞ다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="33">향이ᄂᆞᆫ 죄 이리ᄒᆞ기 고이치 아니ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="34">ᄡᅵ샹 ᄠᆞ라 가ᄋᆞᆸᄂᆞᆫ 일 고이고이ᄒᆞ오며</sent><!--'고이고이ᄒᆞ오며'에서 뒤에 오는 '고이'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="35">아자비가 셔울 가셔 그 말ᄉᆞᆷ을 엿ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="36">아바님ᄭᅴ셔 그거시 향ᄋᆡ 일이 아니라 ᄡᅵ샹ᄋᆡ 일이니</sent>
+<sent type="main" lang="kor" page="67" n="37">가마니 두면 가셔 쳐치ᄒᆞ마 ᄒᆞ오시다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="67" n="38">흑ᄇᆡᆨ 간의 그리 아오시니</sent>
+<sent type="main" lang="kor" page="67" n="39">죽고 시브다 ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ더라 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="40">긔민이 ᄌᆞ봉이ᄂᆡ 뉴가 뎐ᄒᆞ온 말ᄉᆞᆷ이온가 시브오니 통분ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="67" n="41">그 ᄉᆞᆫ사 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="42">죵지 셩편ᄒᆞ리가 업ᄉᆞᆸᄂᆞᆫ 일 통분ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="67" n="43">하인 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="67" n="44">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="45">숑현셔 인ᄉᆞᆷ 오온 답장은 ᄒᆞ여ᄉᆞ오련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="67" n="46">하인이 가올ᄉᆡ 아니 보오리잇가</sent>
+<sent type="main" lang="kor" page="67" n="47">어ᄃᆡ 갓다가 가고 시븐 대로 가오니 통분ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="67" n="48">됴히 가치이고 맛고 ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="49">관겨이 아니 넉이오니 고이ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="67" n="50">태모 시급피 ᄡᅳ올 ᄃᆡ가 잇ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="51">어들 길히 업ᄉᆞ와</sent>
+<sent type="main" lang="kor" page="67" n="52">ᄒᆡ챵이 바다 오온 거ᄉᆞᆯ 더러 ᄡᅳ오나</sent>
+<sent type="main" lang="kor" page="67" n="53">엿ᄌᆞᆸ디 못ᄒᆞᄋᆞᆸ고 ᄡᅳ오니 념녀ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="67" n="54">뎡튝 삼월 초일일</sent>
+<sent type="main" lang="kor" page="67" n="55">ᄌᆞ부 ᄉᆞᆯ이</sent>
+<sent type="main" lang="kor" page="67" n="56">궤 ᄒᆞ나 약포 동봉 지령 산젹 병</sent>
+<sent type="main" lang="kor" page="67" n="57">ᄉᆡᆼ치 조린 탕 보션 봉</sent>
+</letter>
+
+<letter n="68" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="68" n="01">송촌</sent>
+<sent type="envelop1-1" lang="kor" page="68" n="02">근봉</sent>
+<sent type="envelop1-1" lang="kor" page="68" n="03">대ᄃᆡᆨ 입납 보은아ᄂᆡ ᄌᆞ부 ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="68" n="04">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="main" lang="kor" page="68" n="05">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="68" n="06">밤ᄉᆞ이 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="68" n="07">예ᄂᆞᆫ 대되 일양 디내오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="68" n="08">뎡열 복학 여러 직 알ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="68" n="09">길도 뎡ᄒᆞᆫ 대로 못 가올가 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="68" n="10">어제 쇠돌 가올 적 ᄉᆞᆯ이 알외와ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="68" n="11">감ᄒᆞ오신가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="68" n="12">눈은 허믈 업시 그러ᄒᆞ오니야 ᄌᆞᆨ히 흔ᄒᆞ오리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="68" n="13">거족으로 허믈 된 거ᄉᆞᆫ 소견의 보기 슬ᄉᆞᆸ디</sent>
+<sent type="main" lang="kor" page="68" n="14">ᄉᆞ마ᄉᆞ마ᄒᆞ온 념녀ᄂᆞᆫ 업ᄉᆞ오련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="68" n="15">ᄒᆞᆫ 눈이 안질만 엇ᄌᆞ온들</sent><sent type="main" lang="kor" page="68" n="16">노 못 보ᄋᆞᆸᄂᆞᆫ 사람이 되오니</sent>
+<sent type="main" lang="kor" page="68" n="17">일시라도 ᄀᆞᆸᄀᆞᆸᄒᆞ기 아니 듕난ᄒᆞ오니잇가 </sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞ기'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="18">길 니ᄋᆞᆸᄂᆞᆫ 념녀되ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="68" n="19">보령 아자비 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="68" n="20">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="21">폐ᄇᆡᆨ 모시 못 기ᄃᆞ려 답답ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--‘답답ᄒᆞ와'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="22">뎡튝 칠월 념일일</sent>
+<sent type="main" lang="kor" page="68" n="22">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="69" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="69" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="69" n="02">근봉</sent>
+<sent type="main" lang="kor" page="69" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="69" n="04">극한의 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="69" n="05">하인 도라오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="69" n="06">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="69" n="07">든든 못내 알외오ᄃᆡ</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69" n="08">ᄒᆡᆼᄎᆞ 믈니오신가 시브오니 섭섭</sent><!--'섭섭'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69" n="09">결연ᄒᆞ온 하졍이 아므라타 업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="69" n="10">예ᄂᆞᆫ 대되 일양 디내오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="69" n="11">한아비 지금 미류ᄒᆞ여 누어 디내오니</sent>
+<sent type="main" lang="kor" page="69" n="12">념녀롭ᄉᆞ오이다</sent>
+<sent type="main" lang="kor" page="69" n="13">하송ᄒᆞ오신 줌어니 밧ᄌᆞ와 션증 주ᄋᆞᆸ고 귀ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="69" n="14">대동 몬져 더러 간다 ᄒᆞ오매 잠 알외오며 </sent>
+<sent type="main" lang="kor" page="69" n="15">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69" n="16">병ᄌᆞ 납월 념이일</sent>
+<sent type="main" lang="kor" page="69" n="17">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="70" sender="여흥민씨(아내)" writer="여흥민씨(아내)" receiver="송익흠(남편)" year="1725~1757년">
+<sent type="main" lang="kor" page="70" n="01">오ᄂᆞᆯ은 믈이 얼고</sent>
+<sent type="main" lang="kor" page="70" n="02">날이 칩ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="70" n="03">년ᄒᆞ여 평안ᄒᆞ오신가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="70" n="04">바지가 못 미처 가셔</sent>
+<sent type="main" lang="kor" page="70" n="05">날이 이리 칩ᄉᆞ오니 더옥 념녀ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="70" n="06">예ᄂᆞᆫ 일양 디내ᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="70" n="07">하인 가오니 잠 뎍ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="70" n="08">내내 평안ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="70" n="09">새배 바지 보내노라 하인 브려ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="70" n="10">어ᄂᆡ ᄯᅢ 갓ᄉᆞᆸ던고 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" lang="kor" page="70" n="11">초구일</sent>
+<sent type="main" lang="kor" page="70" n="12">민</sent>
+</letter>
+
+<letter n="71" sender="여흥민씨(시어머니)" writer="여흥민씨(시어머니)" receiver="함양여씨(며느리)" year="1767년">
+<sent type="envelop1-2" lang="kor" page="71" n="01">션모</sent>
+<sent type="main" lang="kor" page="71" n="02">수일 뎐 쳥ᄌᆔ로 뎍엇더니</sent>
+<sent type="main" lang="kor" page="71" n="03">어ᄂᆡ 날이나 간가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="71" n="05">죵도 올 ᄃᆞᆺᄒᆞ되 긔쳑 업고</sent>
+<sent type="main" lang="kor" page="71" n="06">큰 비 오고 과히 츄긔 이시니</sent>
+<sent type="main" lang="kor" page="71" n="07">어이들 디내ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="71" n="08">념녀ᄅᆞᆯ 어이 다 뎍으리</sent>
+<sent type="main" lang="kor" page="71" n="09">새ᄃᆡᆨ 두둑ᄒᆞᆫ 옷도 아니ᄒᆞ여 닙어 탈난가 념녀 더ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="71" n="10">션증은 어ᄂᆡ 날이나 ᄯᅥ나ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="71" n="11">초칠팔일 간 올가 방 고치고 기ᄃᆞ리ᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="12">네 방ᄀᆞᆺ티 방 추오면 기ᄃᆞ리던 보람 업서 </sent>
+<sent type="main" lang="kor" page="71" n="13">다시 귀경은 못ᄒᆞᆯ가 서운ᄒᆞᆯ가 시브다</sent>
+<sent type="main" lang="kor" page="71" n="14">나ᄂᆞᆫ ᄒᆞᆫ가지로 이시ᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="15">김집 하 므셔이 패ᄒᆞ엿기</sent>
+<sent type="main" lang="kor" page="71" n="16">ᄃᆞ리고 잇쟈 ᄒᆞᆫ 역촐 가오니 든다며</sent>
+<sent type="main" lang="kor" page="71" n="17">모ᄅᆡ 형님 쇼식 이 길로 시방 간다</sent>
+<sent type="main" lang="kor" page="71" n="18">셔울은 싀ᄀᆞᆯ ᄂᆔ 아니 죠치 저 되니</sent>
+<sent type="main" lang="kor" page="71" n="19">션증 두둑ᄒᆞᆫ 오ᄉᆞᆫ 그저 보내여라</sent>
+<sent type="main" lang="kor" page="71" n="20">죵을 못ᄒᆞ고 누고 가나</sent>
+<sent type="main" lang="kor" page="71" n="21">내 시방 와 하 ᄌᆡ촉ᄒᆞ기 겨유겨유 호령ᄒᆞ여 안치고</sent><!--'겨유겨유'에서 뒤에 오는 '겨유'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="71" n="22">뎍기 아모 ᄃᆡ도 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="71" n="23">팔월 념ᄉᆞ ᄒᆞᆫ 쇼식 ᄇᆞ란다</sent>
+<sent type="main" lang="kor" page="71" n="24">윤월 념오일</sent>
+<sent type="main" lang="kor" page="71" n="25">싀모</sent>
+<sent type="main" lang="kor" page="71" n="26">민이가 제 어믜 편의 돈을 어더 보내랴 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="71" n="27">뎔어서 보내디 못ᄒᆞ여 하 ᄒᆞ니 내가 ᄡᅳ니</sent>
+<sent type="main" lang="kor" page="71" n="28">한아비긔 엿ᄌᆞᆸ고 브ᄃᆡ 어더 주쇼셔 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="71" n="29">ᄌᆞ셩이ᄅᆞᆯ 주어 달나 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="71" n="30">챡실이 너도 닐너라마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="71" n="29">ᄌᆞ셩 ᄡᅳ고 아니 주면 굼을가 블샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="71" n="30">팔월</sent>
+<sent type="main" lang="kor" page="71" n="31">념</sent>
+<sent type="main" lang="kor" page="71" n="32">사촌 안이니 미리 즉시 뎐ᄒᆞ라 ᄒᆞᆫ다</sent>
+</letter>
+
+<letter n="72" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="72" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="72" n="02">근봉</sent>
+<sent type="main" lang="kor" page="72" n="03">문안 알외ᄋᆞᆸ고 하인 도라오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="72" n="04">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고 든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="05">그 후 극한ᄋᆡ 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="72" n="06">ᄒᆡᆼᄎᆞᄂᆞᆫ 믈니오시니 섭섭ᄒᆞ오ᄃᆡ</sent><!--'섭섭ᄒᆞ오ᄃᆡ'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="07">거번 그 치위ᄂᆞᆫ 녜 업ᄉᆞ온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="72" n="08">아니 ᄯᅥ나오신 일 도로혀 다ᄒᆡᆼᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="72" n="09">동궁 역질 ᄒᆞ오신다 ᄒᆞ오니 </sent>
+<sent type="main" lang="kor" page="72" n="10">그ᄉᆞ이 엇디ᄒᆞ오시ᄂᆞᆫ고 념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="72" n="11">증이 슌ᄒᆞ오시다 ᄒᆞ오니 다ᄒᆡᆼᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="72" n="12">ᄎᆡᆨ녁은 밧ᄌᆞ와 다ᄒᆡᆼ 못내 알오며</sent>
+<sent type="main" lang="kor" page="72" n="13">젼약도 차례예 ᄡᅳ오려 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="72" n="14">강졍은 셔울은 엇디ᄒᆞᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="72" n="15">여러 고ᄃᆡ 긔별ᄒᆞ오ᄃᆡ ᄃᆡ답 업ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="72" n="16">이 법으로 ᄒᆞ여 보려 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="72" n="17">대동 편과 어제 문안 하인 가올 적 ᄉᆞᆯ이 알외와ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="72" n="18">감ᄒᆞ오신가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="72" n="19">신셰 편지ᄅᆞᆯ 보오니</sent>
+<sent type="main" lang="kor" page="72" n="20">여러 슌 ᄒᆞ엿노라 ᄒᆞ여ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="72" n="21">보ᄋᆞᆸ디 못ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="72" n="22">예셔도 여러 슌 ᄒᆞ여ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="72" n="23">ᄒᆞᆫ 번 보온 말ᄉᆞᆷ이 업ᄉᆞ오니 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="24">경쥬인 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="72" n="25">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="26">병ᄌᆞ 지월 념뉵일</sent>
+<sent type="main" lang="kor" page="72" n="27">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="73" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="73" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="73" n="02">근봉</sent>
+<sent type="main" lang="kor" page="73" n="03">문안 알외ᄋᆞᆸ고 하인 도라오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="73" n="04">긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고져 든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="05">예ᄂᆞᆫ 대되 일양 디내오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="73" n="06">신ᄋᆞ가 ᄐᆡ독이 이경티 아니ᄒᆞ오니 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="73" n="07">거번 사 보내오신 갑 돈 반 닛ᄌᆞᆸ고 아니 보내여ᄉᆞᆸ더니 보내오며</sent>
+<sent type="main" lang="kor" page="73" n="08">손들이 예 ᄡᅳᄋᆞᆸ게 죠흔 감 여라믄만 사고 시브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="73" n="09">그도 업ᄉᆞ올잇가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="73" n="10">거먹 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="73" n="11">내내 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ기 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="73" n="12">이 산과ᄂᆞᆫ 오ᄂᆞᆯ 왓ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="73" n="13">서리 마자ᄉᆞ오니 더 낫ᄉᆞ와도 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="73" n="14">뎡튝 구월 초이일</sent>
+<sent type="main" lang="kor" page="73" n="15">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="74" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="74" n="01">아바님 젼 상ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="74" n="02">근봉</sent>
+<sent type="main" lang="kor" page="74" n="03">문안 알외ᄋᆞᆸ고 하인 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="74" n="04">듯ᄌᆞ오니 긔운이 쾌복디 못ᄒᆞ오신가 시브오니</sent>
+<sent type="main" lang="kor" page="74" n="05">외오셔 복념 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="74" n="06">그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="74" n="07">여긔셔 가온 하인 도라오ᄋᆞᆸ기ᄅᆞᆯ 기ᄃᆞ리ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="74" n="08">답답ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답ᄒᆞ와'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="09">ᄒᆡᆼᄎᆞᄅᆞᆯ 초ᄉᆡᆼ으로 뎡ᄒᆞ오시다 ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="74" n="10">그ᄉᆞ이 날포 잇ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="74" n="11">싀훤이 낫ᄌᆞ오셔 오오시ᄆᆞᆯ 츅슈ᄒᆞ오며</sent><!--'오오시ᄆᆞᆯ'에서 뒤에 오는 '오'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="12">김집이 아ᄆᆞ려도 오올 거시니</sent>
+<sent type="main" lang="kor" page="74" n="13">ᄒᆞᆫ가지로 뫼ᄋᆞᆸ고 오오면 다ᄒᆡᆼᄒᆞ올가 시브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="74" n="14">그ᄉᆞ이 미처 왕복을 못ᄒᆞ올 일 답답ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답ᄒᆞ와'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="15">예ᄂᆞᆫ 대되 일양 디내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="74" n="16">하인 가오ᄃᆡ 총총 잠 알외오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="17">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="18">뎡튝 원월 념이일</sent>
+<sent type="main" lang="kor" page="74" n="19">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="75" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1730년">(1406)
+
+<sent type="envelop1-1" lang="kor" page="75" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="75" n="02">근봉</sent>
+<sent type="main" lang="kor" page="75" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="75" n="04">집죵 ᄒᆞ나 오온 후ᄂᆞᆫ 다시 긔운 엇더ᄒᆞ오신 문안 모ᄅᆞ와</sent>
+<sent type="main" lang="kor" page="75" n="04">하념 일시도 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="75" n="05">한마님 긔후ᄂᆞᆫ 엇더ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="75" n="06">동ᄂᆡ 블안ᄒᆞᄋᆞᆸ기ᄂᆞᆫ 엇더ᄒᆞ온고</sent>
+<sent type="main" lang="kor" page="75" n="07">가지가지 념녀 측냥 업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'가지가지'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="08">거월의 하답셔 밧ᄌᆞ와 보ᄋᆞᆸ고 든든 못내 알외옴</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="09">지금 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="75" n="10">쳔만 의외예 어대비 국휼이 나오시니</sent>
+<sent type="main" lang="kor" page="75" n="11">신민의 ᄆᆞᄋᆞᆷ의 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="75" n="12">ᄌᆞ부ᄂᆞᆫ 어린 것 ᄃᆞ리ᄋᆞᆸ고 무ᄉᆞᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="75" n="13">게도 학질이 흔ᄒᆞ온가 시브오니</sent>
+<sent type="main" lang="kor" page="75" n="14">가지가지 념녀 측냥업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'가지가지'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="15">ᄉᆞ령ᄃᆡᆨ 아ᄌᆞ마님 병환은 요ᄉᆞ이ᄂᆞᆫ 쾌히 낫ᄌᆞ오신가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="75" n="16">국휼노 ᄉᆞ가 졀ᄉᆞ들을 못 디내올 법 잇ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="75" n="17">예ᄂᆞᆫ 공관이ᄋᆞᆸ기 ᄌᆞ셔ᄒᆞ온 됴령이 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="75" n="18">게셔ᄂᆞᆫ 엇더ᄒᆞ오시ᄂᆞᆫ고 모ᄅᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다 알외옴</sent>
+<sent type="main" lang="kor" page="75" n="19">감ᄒᆞ오심 젓ᄉᆞ와 잠 알외오며</sent>
+<sent type="main" lang="kor" page="75" n="20">츄긔 퍽 잇ᄉᆞ오니 내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="21">쇼쥬 다ᄉᆞᆺ 복ᄌᆞ 알외ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="75" n="22">경슐 칠월 십칠일</sent>
+<sent type="main" lang="kor" page="75" n="23">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="76" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1735년">
+<sent type="envelop1-1" lang="kor" page="76" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="76" n="02">근봉</sent>
+<sent type="main" lang="kor" page="76" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="76" n="04">일긔 고ᄅᆞᄋᆞᆸ디 못ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="76" n="05">긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="76" n="06">두루 ᄒᆡᆼᄎᆞᄂᆞᆫ 어ᄂᆡ ᄭᅴ로 ᄒᆞ오시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="76" n="07">날포 ᄲᅵ치오실 일 하졍의 복념 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="76" n="08">회덕셔ᄂᆞᆫ 대되 안녕ᄒᆞ오신가</sent>
+<sent type="main" lang="kor" page="76" n="09">문안 모ᄅᆞ오니 념녀 ᄀᆞ이업ᄉᆞ ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="76" n="10">ᄌᆞ부ᄂᆞᆫ 아ᄒᆡ들ᄒᆞ고 무ᄉᆞᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="76" n="11">삼촌은 그믐날 하딕ᄒᆞᄋᆞᆸ고 가ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="76" n="12">하인 급피 간다 ᄒᆞ오니 잠 알ᄋᆡ외오며</sent>
+<sent type="main" lang="kor" page="76" n="13">내내 긔후 안녕ᄒᆞ오시ᄆᆞᆯ ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="14">을묘 삼월 초ᄉᆞ일</sent>
+<sent type="main" lang="kor" page="76" n="15">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="77" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1735년">
+<sent type="envelop1-1" lang="kor" page="77" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="77" n="02">근봉</sent>
+<sent type="main" lang="kor" page="77" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="77" n="04">일긔 퍽 덥ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="77" n="05">긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="77" n="06">회덕셔도 년ᄒᆞ여 문안 아오니</sent>
+<sent type="main" lang="kor" page="77" n="07">안녕ᄒᆞ오신가 시브오니 다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="77" n="08">ᄌᆞ부ᄂᆞᆫ 아ᄒᆡ들ᄒᆞ고 무ᄉᆞ히 잇ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="77" n="09">년ᄒᆞ여 ᄉᆞᆯ이 알외와ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="77" n="10">감ᄒᆞ오신가 모ᄅᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="77" n="11">회덕으로 잠 알외오며 </sent>
+<sent type="main" lang="kor" page="77" n="12">내내 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ기ᄅᆞᆯ ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="13">을묘 삼월 념삼일</sent>
+<sent type="main" lang="kor" page="77" n="14">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="78" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1736년">
+<sent type="envelop1-1" lang="kor" page="78" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="78" n="02">근봉</sent>
+<sent type="main" lang="kor" page="78" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="78" n="04">비 지리히 오ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="78" n="05">일긔 아니 곱ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="78" n="06">년ᄒᆞ여 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="78" n="07">그제 죵들 오와ᄂᆞᆯ 듯ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="78" n="08">긔후 일양 가감이 아니 겨오신가 시브오니</sent>
+<sent type="main" lang="kor" page="78" n="09">졀박 ᄀᆞᆸᄀᆞᆸᄒᆞ온 복념 일시도 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'ᄀᆞᆸᄀᆞᆸᄒᆞ온'에서 뒤에 오는 'ᄀᆞᆸ'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="78" n="10">한마님 긔후도 일양이오시고</sent>
+<sent type="main" lang="kor" page="78" n="11">건동 아ᄌᆞ마님겨오셔도 위연ᄒᆞ여 디내오시ᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="78" n="12">깃브와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="78" n="13">여긔ᄂᆞᆫ 덕임 요ᄉᆞ이ᄂᆞᆫ 알ᄉᆞᆸ기ᄂᆞᆫ 그쳐ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="78" n="14">하 패ᄒᆞ여ᄉᆞ오니 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="78" n="15">올도 거긔 슈가지ᄅᆞᆯ 아니 어더 드리ᄋᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="78" n="16">여긔도 아ᄌᆞ바님ᄭᅴ 밧긔 열닌 ᄃᆡ 업ᄉᆞᆸ기 </sent>
+<sent type="main" lang="kor" page="78" n="17">닐곱 나ᄎᆞᆯ 어더 보내오며</sent>
+<sent type="main" lang="kor" page="78" n="18">구젓도 죠고마치 잇ᄉᆞ오매 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="78" n="19">흥셕 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="78" n="20">내내 긔후 낫ᄌᆞ오시ᄆᆞᆯ 츅슈ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="78" n="20">병진 뉵월 념팔일</sent>
+<sent type="main" lang="kor" page="78" n="20">ᄌᆞ부 ᄉᆞᆯ이</sent>
+
+</letter>
+
+<letter n="79" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1736년">
+<sent type="envelop1-1" lang="kor" page="79" n="01">회덕</sent>
+<sent type="envelop1-1" lang="kor" page="79" n="02">대ᄃᆡᆨ 입납 보은아ᄂᆡ ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="79" n="03">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="79" n="04">근봉</sent>
+<sent type="main" lang="kor" page="79" n="05">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="79" n="06">수일 ᄉᆞ이 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="79" n="07">여긔ᄂᆞᆫ 어마님겨오셔 온뎡의 평안이 왕반ᄒᆞ오시니 다ᄒᆡᆼᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="79" n="08">손이 쉬이 드ᄋᆞᆸᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="79" n="09">엇디 ᄃᆡ졉ᄒᆞ오실고 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="79" n="10">숑이ᄂᆞᆫ 죵시 나디 아니ᄂᆞᆫ다 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="79" n="11">대여ᄉᆞᆫ 사ᄋᆞᆸ고 못 사ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="79" n="12">샹현 이셔 이일 쟝 보아 보내긔 분부 듯ᄌᆞ왓노라 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="79" n="13">혹 이후 쟝의나 나올가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="79" n="14">게젓 감 ᄀᆞᆺᄐᆞᆫ 거ᄉᆞᆫ 이번 보내ᄋᆞᆸ고 시브오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="79" n="15">ᄒᆡᆼᄎᆞ의 옷보 가지고 사ᄅᆞᆷ 밧비 가ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="79" n="16">게셔 사ᄅᆞᆷ 브리랴노라 ᄒᆞ오시더라 ᄒᆞ오니 </sent>
+<sent type="main" lang="kor" page="79" n="17">기ᄃᆞ리ᄋᆞᆸ고 아니 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="79" n="18">감ᄉᆞᄂᆞᆫ 여긔 쉬이 든다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="79" n="19">년ᄒᆞ여 큰 손을 엇디 격ᄉᆞ오실고 브리ᄋᆞᆸ디 못ᄒᆞ올소이다</sent>
+<sent type="main" lang="kor" page="79" n="20">하인 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="79" n="21">긔후 낫ᄌᆞ오신 문안 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="79" n="22">병진 구월 십일</sent>
+<sent type="main" lang="kor" page="79" n="23">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="80" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1740년">
+<sent type="envelop1-1" lang="kor" page="80" n="01">아바님 젼 답샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="80" n="02">근봉</sent>
+<sent type="main" lang="kor" page="80" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="80" n="04">만억 오와ᄂᆞᆯ 하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="80" n="05">일긔 년ᄒᆞ여 느습ᄒᆞ온ᄃᆡ</sent>
+‘<sent type="main" lang="kor" page="80" n="06">긔후 일양이오신가 시브오니</sent>
+<sent type="main" lang="kor" page="80" n="07">다ᄒᆡᆼ 못내 알외오며</sent>
+<sent type="main" lang="kor" page="80" n="08">년ᄒᆞ여 듯ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="80" n="09">창환이 가감이 아니 겨오시다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="80" n="10">듀야 외오셔 념녀 측냥업ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="80" n="11">구ᄐᆞ여 못ᄒᆞ오심이 아니 겨오신가 시브오니</sent>
+<sent type="main" lang="kor" page="80" n="12">오히려 깃브와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="80" n="13">ᄌᆞ부ᄂᆞᆫ 아ᄒᆡ들 ᄃᆞ리ᄋᆞᆸ고 됴히 잇ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="80" n="14">뎡응은 ᄯᅳᆷ질도 그치ᄋᆞᆸ고 ᄒᆞᆫ가지로 잇ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="80" n="15">녀안 아ᄌᆞ바님겨오셔 젼ᄌᆔᄅᆞᆯ ᄒᆞ오시니 깃브오며</sent>
+<sent type="main" lang="kor" page="80" n="16">요ᄉᆞ이ᄂᆞᆫ 시졀도 그만ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="80" n="17">졍ᄉᆞ도 년ᄒᆞ여 ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="80" n="18">의셩을 ᄀᆞᆫ다 ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" lang="kor" page="80" n="19">삼촌도 뉴의ᄅᆞᆯ ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="80" n="20">감ᄉᆡ 아니 ᄀᆞ라 주기 돌연 ᄀᆞᆯ 의ᄉᆡ 업다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="80" n="21">니군도 쟝 잇ᄉᆞ올 줄 모ᄅᆞ오며 쳐연ᄒᆞᄋᆞᆸ다가</sent>
+<sent type="main" lang="kor" page="80" n="22">엇더ᄒᆞ올 줄 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="80" n="23">ᄇᆞ라ᄋᆞᆸᄂᆞᆫ ᄯᅳᆺ과 다ᄅᆞ와</sent>
+<sent type="main" lang="kor" page="80" n="24">의지 업ᄉᆞᆫ 고ᄌᆞᆯ ᄒᆞ오실가 념녀되오며</sent>
+<sent type="main" lang="kor" page="80" n="25">ᄌᆞ부도 노젹은 고ᄌᆞᆫᄒᆞ셔셔</sent><!--'고ᄌᆞᆫᄒᆞ셔셔'에서 뒤에 오는 '셔'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="80" n="26">대ᄉᆞ 여러 고ᄌᆞᆯ 경영ᄒᆞ오시ᄂᆞᆫ 형셰온 줄을 여러 슌 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="80" n="27">당신도 아모 ᄃᆡ나 동복도 ᄒᆞᆫᄃᆡ 나 ᄒᆞ랴 ᄒᆞ오면</sent>
+<sent type="main" lang="kor" page="80" n="28">이리 쳐연ᄒᆞ여 ᄉᆞ오리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="80" n="29">맛당ᄒᆞ온 고지 아니ᄒᆞᄋᆞᆸᄂᆞᆫ 일 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="80" n="30">ᄭᅢᄂᆞᆫ 여ᄃᆞᆲ 말 오올너니</sent>
+<sent type="main" lang="kor" page="80" n="31">서 말 ᄯᅩ 왓다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="80" n="32">이제 닷 말 샹현의게 ᄎᆞᆺᄌᆞ오며 보내오실가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="80" n="33">소금도 ᄒᆞᆫ 냥만 ᄎᆞ자 ᄑᆞᆯ나 분부ᄒᆞ엿노라 ᄒᆞ여 겨오신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="80" n="34">석 냥 반을 ᄭᅢ 갑ᄉᆡ셔 ᄑᆞ라 주어ᄉᆞᆸ노라 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="80" n="35">슌홰ᄂᆞᆫ ᄒᆞᆫ 셤을 오히려 못 ᄃᆞ마노라 ᄒᆞ여ᄉᆞ오니 고이ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="80" n="36">알외올 말ᄉᆞᆷ 감ᄒᆞ오심 젓ᄉᆞ와 이만 알외오며</sent>
+<sent type="main" lang="kor" page="80" n="37">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="80" n="38">경신 뉵월 초일일</sent>
+<sent type="main" lang="kor" page="80" n="39">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="81" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1740년">
+<sent type="envelop1-1" lang="kor" page="81" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="81" n="02">근봉</sent>
+<sent type="main" lang="kor" page="81" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="81" n="04">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="81" n="05">댱마 지리ᄒᆞ온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="81" n="06">긔후 ᄒᆞᆫ가지오신 문안 아ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="81" n="07">든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="81" n="08">그 후 비 더 오오니</sent><!--'오오니'에서 뒤에 오는 '오'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="81" n="09">일긔도 아니 곱ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="81" n="10">아ᄎᆞᆷ뎌녁 하 칩ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="81" n="11">긔운이 엇더ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="81" n="12">더욱 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="81" n="13">예ᄂᆞᆫ 일긔가 이러ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" lang="kor" page="81" n="14">뎡응도 다리ᄅᆞᆯ 거북ᄒᆞ여 ᄒᆞ오니 민망ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="81" n="15">셔호셔ᄂᆞᆫ 아직 이 두어 ᄃᆞᆯ ᄂᆡᄂᆞᆫ 못 드오신다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="81" n="16">가지가지 형셰 민망ᄒᆞ와 들니오니</sent><!--'가지가지'에서 뒤에 오는 '가지'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="81" n="17">념녀 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="81" n="18">김ᄃᆡᆨ도 쉬이 숑도로 가랴 ᄒᆞ오니 섭섭도 ᄒᆞᄋᆞᆸ고</sent><!--'섭섭도'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="81" n="19">극열의 어린것들 ᄃᆞ리ᄋᆞᆸ고 엇디 가올고</sent>
+<sent type="main" lang="kor" page="81" n="20">념녀 브리ᄋᆞᆸ디 못ᄒᆞ올소이다</sent>
+<sent type="main" lang="kor" page="81" n="21">ᄭᅢᄂᆞᆫ 샹현이ᄃᆞ려 건동 ᄭᅢ 수대로 ᄑᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="81" n="22">ᄯᅩ 다ᄅᆞᆫ 돈을 슌홰 닷 말만 ᄑᆞ라 주라 ᄒᆞ여ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="81" n="23">건동 ᄭᅢ ᄆᆞ이 예셔 슌홰ᄅᆞᆯ 주엇노라</sent>
+<sent type="main" lang="kor" page="81" n="24">이번이야 ᄒᆞ여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="81" n="25">그런 고이ᄒᆞ온 일이 어이 잇ᄉᆞ오리잇가</sent>
+<sent type="main" lang="kor" page="81" n="26">소금 일이오나 아므리 ᄒᆞ온 줄을 모ᄅᆞ오니 통분ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="81" n="27">돈이 제게 잇ᄉᆞ올 거시오니</sent>
+<sent type="main" lang="kor" page="81" n="28">ᄑᆞ라 드리라 ᄒᆞ오실가 ᄒᆞᄋᆞᆸᄂᆞ이다 알외옴</sent>
+<sent type="main" lang="kor" page="81" n="29">감ᄒᆞ오심 젓ᄉᆞ와 이만 알외오며</sent>
+<sent type="main" lang="kor" page="81" n="30">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="81" n="31">경신 뉵월 십칠일</sent>
+<sent type="main" lang="kor" page="81" n="32">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="82" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1740년">
+<sent type="main" lang="kor" page="82" n="01">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="02">회마 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="82" n="03">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="04">든든 못ᄂᆡ 알외오ᄃᆡ</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="82" n="05">긔운 그만치나 낫ᄌᆞ오시다가</sent>
+<sent type="main" lang="kor" page="82" n="06">발 알ᄉᆞ오시ᄂᆞᆫ 증이 어이 그러ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="82" n="07">외오 잇ᄉᆞ와 졀박 념녀 일시도 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="82" n="08">아자비 오온 후ᄂᆞᆫ 문안 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="82" n="09">그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ오신고</sent>
+<sent type="main" lang="kor" page="82" n="10">다시 긔별 아올 도리 업ᄉᆞ오니 더옥 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="82" n="11">ᄌᆞ부ᄂᆞᆫ 무ᄉᆞ히 잇ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="82" n="12">뎡응은 얼굴은 요ᄉᆞ이ᄂᆞᆫ 육긔ᄂᆞᆫ 더 잇ᄉᆞᆸ고 범벅 긔운 낫ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="82" n="13">다리ᄅᆞᆯ 오뉵일 뎐 약간 알ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="14">드ᄃᆡ기ᄅᆞᆯ 더 거북ᄒᆞ여 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="82" n="15">더욱 민망ᄒᆞ오니이다</sent>
+<sent type="main" lang="kor" page="82" n="16">하셔 ᄉᆞ연은 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="17">ᄌᆞ부 등도 이리 되올 줄은 모ᄅᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="18">너모 피잔ᄒᆞ온 ᄃᆡᄅᆞᆯ 념녀ᄒᆞᄋᆞᆸ다가 이리 되여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="82" n="19">므ᄉᆞᆫ 말ᄉᆞᆷ을 알외오리잇가</sent>
+<sent type="main" lang="kor" page="82" n="20">이 도목의ᄂᆞᆫ 삼촌도 ᄌᆞ부의 ᄆᆞᄋᆞᆷ이나 다ᄅᆞ디 아니킈 아와</sent>
+<sent type="main" lang="kor" page="82" n="21">극진이 총ᄒᆞ여ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="82" n="22">ᄯᅩ ᄯᅳᆺ과 다ᄅᆞ오니 애ᄃᆞᆲᄉᆞᆸ기 측냥을 못ᄒᆞ올소이다</sent>
+<sent type="main" lang="kor" page="82" n="23">과ᄌᆞᆯ 밧ᄌᆞ와 아ᄒᆡ들 됴화ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="82" n="24">시딕ᄃᆡᆨ의셔 사ᄅᆞᆷ 가ᄋᆞᆸᄂᆞᆫ다 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="82" n="25">셔셔 ᄌᆡ촉ᄒᆞ오니 잠 알외오며</sent><!--'셔셔'에서 뒤에 오는 '셔'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="82" n="26">건동 문안도 어제 오ᄂᆞᆯ은 모ᄅᆞ오나</sent>
+<sent type="main" lang="kor" page="82" n="27">그제ᄂᆞᆫ 안녕ᄒᆞ오신 문안 아라ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="82" n="28">숑도 긔별도 오뉵일 뎐 듯ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="82" n="29">김ᄃᆡᆨ이 ᄑᆞᆯ을 브어 거북ᄒᆞ여라 ᄒᆞ여ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="82" n="30">ᄃᆡ단 연고ᄂᆞᆫ 업서라 ᄒᆞ여ᄉᆞᆸ더이다</sent>
+<sent type="main" lang="kor" page="82" n="31">동북ᄃᆡᆨ ᄒᆡᆼᄎᆡ 념일 가실 거시오니 다시 알외올가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="82" n="32">내내 긔운 안녕ᄒᆞ오시고</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="82" n="33">발 알ᄉᆞ오신던 종환 낫ᄌᆞ오심 츅슈츅슈ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'츅슈츅슈ᄒᆞᄋᆞᆸᄂᆞ이다'에서 뒤에 오는 '츅슈'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="82" n="34">경신 칠월 십이일</sent>
+<sent type="main" lang="kor" page="82" n="35">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="83" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1740년">
+<sent type="envelop1-1" lang="kor" page="83" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="83" n="02">근봉</sent>
+<sent type="main" lang="kor" page="83" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="83" n="04">날포 문안 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="83" n="05">답답 복념 ᄀᆞ이업ᄉᆞ올 ᄎᆞ</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="83" n="06">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="83" n="07">든든 못내 알외ᄃᆡ</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="83" n="08">긔운 여러 가지로 블평ᄒᆞ오심 외오셔</sent>
+<sent type="main" lang="kor" page="83" n="09">념녀 일시도 브리ᄋᆞᆸ디 못ᄒᆞ와 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="83" n="10">일긔 선선ᄒᆞᄋᆞᆸ기 긴ᄒᆞ오니</sent><!--'선선ᄒᆞᄋᆞᆸ기'에서 뒤에 오는 '선'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="83" n="11">그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞᄋᆞᆸ신고 </sent>
+<sent type="main" lang="kor" page="83" n="12">더옥 브리ᄋᆞᆸ디 못ᄒᆞ올소이다</sent>
+<sent type="main" lang="kor" page="83" n="13">ᄌᆞ부ᄂᆞᆫ 아ᄒᆡ들 ᄃᆞ리ᄋᆞᆸ고 므ᄉᆞᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="83" n="14">뎡응의 각통도 요ᄉᆞ이ᄂᆞᆫ 잠간 낫ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="83" n="15">일긔 ᄎᆞ기로 ᄌᆞ연 그러ᄒᆞ온가 시브오니 속그라ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="83" n="16">도림ᄀᆞᆺ치 곳블이 긴헐이 잇ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="83" n="16">동ᄉᆡᆼ의 아ᄃᆞᆯ이 십여 일이 되오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="83" n="17">병이 가ᄇᆡ얍디 아니ᄒᆞ오니 민망 졀박ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="83" n="18">아니 알ᄉᆞᆸᄂᆞᆫ 아ᄒᆡ들노 더욱 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="83" n="19">동북ᄃᆡᆨ ᄒᆡᆼᄎᆞᄋᆡ ᄉᆞᆯ이 알외와ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="83" n="20">비 년ᄒᆞ여 오와 오ᄂᆞᆯ이나 ᄯᅥ나신다 ᄒᆞ오니 </sent>
+<sent type="main" lang="kor" page="83" n="21">어ᄂᆡ 날이나 드러가실고 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="83" n="22">과ᄌᆞᆯ은 구ᄐᆞ여 저ᄒᆡᄅᆞᆯ 만히 먹어온 거시 아니오나</sent>
+<sent type="main" lang="kor" page="83" n="23">온 줄을 됴화ᄒᆞ온 말ᄉᆞᆷ이올소이다</sent>
+<sent type="main" lang="kor" page="83" n="24">알외옴 총망ᄒᆞ와 잠 알외오며</sent>
+<sent type="main" lang="kor" page="83" n="25">긔후 안녕ᄒᆞ오신 문안 듯ᄌᆞᆸ기ᄅᆞᆯ 츅슈츅슈ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="83" n="26">경신 칠월 념ᄉᆞ일</sent>
+<sent type="main" lang="kor" page="83" n="27">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="84" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1740년">
+<sent type="envelop1-1" lang="kor" page="84" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="84" n="02">근봉</sent>
+<sent type="main" lang="kor" page="84" n="03">문안 알외ᄋᆞᆸ고 ᄒᆡᆼᄎᆞ들 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="84" n="04">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="84" n="05">든든 반갑ᄉᆞ온 하졍이 ᄀᆞ이업ᄉᆞ오ᄃᆡ</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="06">여러 가지로 긔운 블평ᄒᆞ오시기 일양이오심 외요 잇ᄉᆞ와</sent>
+<sent type="main" lang="kor" page="84" n="07">더옥 념녀 일시도 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="84" n="08">일긔 선선ᄒᆞ오니 그ᄉᆞ이ᄂᆞᆫ 엇더ᄒᆞ오신고 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'총총ᄒᆞ여'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="09">ᄌᆞ부ᄂᆞᆫ 대단 우환 업시 디내오며</sent>
+<sent type="main" lang="kor" page="84" n="10">뎡응의 다리도 요ᄉᆞ이ᄂᆞᆫ 잠간 더 낫ᄉᆞ온 ᄃᆞᆺᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="84" n="11">덕셤 머리가 허오니</sent>
+<sent type="main" lang="kor" page="84" n="12">아ᄒᆡ 녜ᄉᆞ 병이오ᄃᆡ 주을드러 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="84" n="13">ᄌᆞ부ᄂᆞᆫ ᄂᆡ월 념오뉵일 간 길흘 ᄯᅥ나 가랴 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="84" n="14">인마 네흔 잇ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="84" n="15">게셔 ᄆᆞᆯ은 어렵ᄉᆞ올 거시오니</sent>
+<sent type="main" lang="kor" page="84" n="16">사ᄅᆞᆷ 대엿만 보내오시면 됴ᄉᆞ올가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="84" n="17">셔울은 거번 바람의 경긔 곡식 다 ᄇᆞ리ᄋᆞᆸ기</sent>
+<sent type="main" lang="kor" page="84" n="18">흉년 소동도 심ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="84" n="19">시가 수일 ᄂᆡ ᄂᆡ도이 ᄂᆞ리오니</sent>
+<sent type="main" lang="kor" page="84" n="20">그다히도 그러ᄒᆞ온가 념녀ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="84" n="21">송인명이 독ᄌᆞᄅᆞᆯ ᄆᆞ자 육독을 죽이오니</sent>
+<sent type="main" lang="kor" page="84" n="22">그런 참혹ᄒᆞᆫ 일이 업ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="84" n="23">니츈졔 집 관녜예 가 고기 먹고</sent>
+<sent type="main" lang="kor" page="84" n="24">하인 두어흔 게셔 죽ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="84" n="25">명ᄉᆞ 션ᄇᆡ 아홉이 그 독을 먹어 죽으니</sent>
+<sent type="main" lang="kor" page="84" n="26">반이 남다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="84" n="27">ᄉᆈ고기도 먹기 무셔온 ᄯᅢ올소이다</sent>
+<sent type="main" lang="kor" page="84" n="28">알외옴 감ᄒᆞ오심 젓ᄉᆞ와 이만 알외오며</sent>
+<sent type="main" lang="kor" page="84" n="29">일긔 졈졈 선선ᄒᆞ오니</sent><!--'졈졈'에서 뒤에 오는 '졈'은 재점(〃)으로 표기되어 있음--><!--'선선'에서 뒤에 오는 '선'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="30">내내 긔후 안녕ᄒᆞ오신 문안 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="31">츄셕 졔믈은 엇디 ᄎᆞ리ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="84" n="32">뷘 념녀만 브리ᄋᆞᆸ디 못ᄒᆞ올소이다</sent>
+<sent type="main" lang="kor" page="84" n="33">경신 팔월 십일</sent>
+<sent type="main" lang="kor" page="84" n="34">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="85" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1741년">
+<sent type="envelop1-1" lang="kor" page="85" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="85" n="02">근봉</sent>
+<sent type="main" lang="kor" page="85" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="85" n="04">ᄒᆡᆼᄎᆞ ᄯᅥ나오신 후ᄂᆞᆫ 문안을 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="85" n="05">일긔 사오납ᄉᆞ온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="85" n="06">년ᄒᆞ여 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="85" n="07">졔ᄉᆡ 날노 ᄀᆞ려 겨ᄋᆞ시니</sent>
+<sent type="main" lang="kor" page="85" n="08">새로이 망극ᄒᆞ오심 뵈옵ᄂᆞᆫ ᄃᆞᆺ 아ᄃᆞᆨ히 잇ᄉᆞ와</sent>
+<sent type="main" lang="kor" page="85" n="09">더옥 든든ᄒᆞ온 하졍이 측냥업ᄉᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'든든ᄒᆞ온'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="85" n="10">ᄌᆞ부ᄂᆞᆫ 병은 그ᄉᆞ이ᄂᆞᆫ 일양이ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="85" n="11">ᄒᆡ산도 아니ᄒᆞ오니 가지가지 민망ᄒᆞ오며</sent><!--'가지가지'에서 뒤에 오는 '가지'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="85" n="12">그 집 쥬인이 온다 ᄒᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="85" n="13">그 누의셔 역질이 핍근이 드온 줄 졔셔 알면 아니 오리라 ᄒᆞ오매</sent>
+<sent type="main" lang="kor" page="85" n="14">미더 잇ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="85" n="15">십삼일 뎌녁 ᄯᅢ 시방 드러온다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="85" n="16">혼자 가오심 잇ᄉᆞᆸ다가</sent>
+<sent type="main" lang="kor" page="85" n="17">다ᄅᆞᆫ ᄃᆡ 미처 쥬변ᄒᆞ올 도리ᄂᆞᆫ 업ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="85" n="18">시딕 ᄃᆡᆨ의도 미역들 두ᄋᆞᆸ고 시방 ᄃᆡ령 듕이온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="85" n="19">삼월 구긔도 잇ᄉᆞ올 ᄃᆞᆺ시브ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="85" n="20">셕용의 집의ᄂᆞᆫ 잠간이라 못 가올 연괴 잇ᄉᆞ오매</sent>
+<sent type="main" lang="kor" page="85" n="21">마디못ᄒᆞ와 궁동으로 오오나 말과쟈 ᄒᆞ오시더라 ᄒᆞᄋᆞᆸ던 거시오니</sent><!--'오오나'에서 뒤에 오는 '오'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="85" n="22">하교ᄅᆞᆯ 거ᄉᆞ리온가 블안 젓ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="85" n="23">ᄌᆞ부의 ᄯᅳᄌᆞᆫ 다 감감 집안 쉬ᄋᆞᆸ고</sent><!--'감감'에서 뒤에 오는 '감'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="85" n="24">방이 다ᄅᆞ오니 아이브터 샤외롭ᄉᆞ오미 업ᄉᆞᆸ던 거시오라</sent>
+<sent type="main" lang="kor" page="85" n="10">집이 하 됴ᄉᆞ오니 싀훤ᄒᆞ와 디내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="85" n="10">뎡응도 일양 무ᄉᆞ히 잇ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="85" n="10">김ᄃᆡᆨ도 평안ᄒᆞ오니 깃브오며</sent>
+<sent type="main" lang="kor" page="85" n="10">최 셔방은 무ᄉᆞ히 왓ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="85" n="10">온젼이 못ᄒᆞ여 왓ᄉᆞᆸᄂᆞᆫ가 시브오니 애ᄃᆞᆲᄉᆞ오이다</sent>
+<sent type="main" lang="kor" page="85" n="10">누고 간다 ᄒᆞ오매 잠 알외오며</sent>
+<sent type="main" lang="kor" page="85" n="10">내내 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ기 츅슈ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="85" n="10">신유 삼월 십뉵일</sent>
+<sent type="main" lang="kor" page="85" n="10">ᄌᆞ부 ᄉᆞᆯ이</sent>
+
+</letter>
+
+<letter n="86" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1752년">
+<sent type="envelop1-2" lang="kor" page="86" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="86" n="02">근봉</sent>
+<sent type="main" lang="kor" page="86" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="86" n="04">긔후 엇더ᄒᆞ오신 문안 날포 모ᄅᆞ오니</sent>
+<sent type="main" lang="kor" page="86" n="05">하졍의 답답 복념 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="86" n="06">셔울은 대되 일양 디내오며</sent>
+<sent type="main" lang="kor" page="86" n="07">년ᄒᆞ여 ᄉᆞᆯ이 알외와ᄉᆞᆸ더니 감ᄒᆞ오신가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="86" n="08">누고 간다 ᄒᆞ오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="86" n="09">내내 긔후 안녕ᄒᆞ오신 문안 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="86" n="10">임신 삼월 념구일</sent>
+<sent type="main" lang="kor" page="86" n="11">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="87" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1755년">
+<sent type="envelop1-1" lang="kor" page="87" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="87" n="02">근봉</sent>
+<sent type="main" lang="kor" page="87" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="87" n="04">슌ᄌᆡ 오와ᄂᆞᆯ 하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="87" n="05">든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="06">밤ᄉᆞ이 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="87" n="07">감ᄉᆞᄂᆞᆫ 어제 그리 왓ᄉᆞᆸ던가 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="87" n="08">예ᄂᆞᆫ 모ᄅᆡ 오ᄋᆞᆸᄂᆞᆫ가 시브오니</sent>
+<sent type="main" lang="kor" page="87" n="09">그 일과 샹치ᄒᆞ오니 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="10">게ᄂᆞᆫ 저ᄉᆞᆫ 마ᄎᆞᆷ 신집이 가져왓ᄉᆞ오나</sent>
+<sent type="main" lang="kor" page="87" n="11">ᄉᆡᆼ션 업ᄉᆞ온 고ᄃᆡ 게도 못 어더 ᄡᅳ오니</sent>
+<sent type="main" lang="kor" page="87" n="12">음식이나 밥이나 실은 ᄒᆞᆯ 거시 업서 졔육 밧 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="87" n="13">소견의 블ᄉᆞᄒᆞ올가 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="14">ᄌᆡ동이 와 ᄃᆞᆫ녀가고져 ᄒᆞ여ᄉᆞ오니 든든ᄒᆞ오나</sent><!--'든든ᄒᆞ오나'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="15">게 가 그 사람 긔요면</sent>
+<sent type="main" lang="kor" page="87" n="16">일시라도 헤헤ᄒᆞ기 더ᄒᆞ온 ᄃᆞᆺᄒᆞ올 일 미리 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent><!--'헤헤ᄒᆞ기'에서 뒤에 오는 '헤'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="17">ᄌᆞ부도 측냥ᄒᆞ온 후 즉시 가셔 뵈오려 ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="87" n="18">지금 쳔연ᄒᆞ오니 답답ᄒᆞ오며</sent><!--'답답ᄒᆞ오며'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="19">형님이 쉬이 가랴 ᄒᆞ오시니</sent>
+<sent type="main" lang="kor" page="87" n="20">ᄒᆞᆫ가지로 가쟈 ᄒᆞ여ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="87" n="21">인마 ᄒᆞᆫ ᄉᆈ 어렵ᄉᆞ오니 가신 후나 가올가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="87" n="22">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="23">촉 셋 알외ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="87" n="24">을ᄒᆡ 구월 초팔일</sent>
+<sent type="main" lang="kor" page="87" n="25">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="88" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1755년">
+<sent type="envelop1-1" lang="kor" page="88" n="01">아바님 젼 답샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="88" n="02">근봉</sent>
+<sent type="main" lang="kor" page="88" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="88" n="04">일긔 아니 곱ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="88" n="05">긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="88" n="06">어제 하인 가올 적 ᄉᆞᆯ이 알외와ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="88" n="07">감ᄒᆞ오신가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="88" n="08">예ᄂᆞᆫ 일양 디내오며</sent>
+<sent type="main" lang="kor" page="88" n="09">밧긔셔ᄂᆞᆫ 쳥ᄌᆔ 검시ᄒᆞ라 어제 갓ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="88" n="10">오ᄂᆞᆯ 오긔 ᄒᆞ엿다 ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="88" n="11">도쳐의 어즈럽다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="88" n="12">더옥 ᄒᆡᆼ역이 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="88" n="13">셰복이 왓다가 가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="88" n="14">긔후 안녕ᄒᆞ오신 문안 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="88" n="15">을ᄒᆡ 십월 십오일</sent>
+<sent type="main" lang="kor" page="88" n="16">ᄌᆞ부 ᄉᆞᆯ이</sent>
+<sent type="main" lang="kor" page="88" n="17">ᄉᆞᆯ믄 고기 죠곰 알외ᄋᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="89" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="89" n="01">아바님 젼 답샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="89" n="02">근봉</sent>
+<sent type="main" lang="kor" page="89" n="03">문안 알외ᄋᆞᆸ고 ᄇᆡᆨ이 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="89" n="04">하셔 밧ᄌᆞ와 든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="89" n="05">밤ᄉᆞ이 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="06">더옥 다ᄒᆡᆼᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="07">거먹 오올 적 하셔도 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="89" n="08">든든 못내 알외와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="89" n="09">예ᄂᆞᆫ 일양 디내ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="10">감ᄉᆞᄂᆞᆫ 어제 디나갓ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="89" n="11">보장 졔ᄉᆞᄅᆞᆯ 졔셔ᄒᆞ고 왓ᄉᆞᆸᄂᆞᆫ 거ᄉᆞᆯ 하인이 아니 가져왓ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="89" n="12">감ᄉᆞᄂᆞᆫ 보고 거ᄒᆡᆼ을 아니ᄒᆞᄂᆞᆫ가 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="89" n="13">호방을 곤댱 십 두 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="14">쵸긔 감당은 긔민 일품 섯트린다 ᄒᆞ고 쳐ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="89" n="15">즉시 드러와 ᄉᆞ장ᄒᆞ오니 도로 보내고</sent>
+<sent type="main" lang="kor" page="89" n="16">초인 드려보내여 시방 가랴 ᄒᆞ니 나와 보라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="89" n="17">졋갈 여러 말 ᄒᆞ여 ᄒᆞ시나 가 보아ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="89" n="18">엇더ᄒᆞ올런고 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="19">차담 약간 ᄒᆞ여ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="89" n="20">샹풍년ᄀᆞ의 원 아니 밧더라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="89" n="21">비쟝ᄀᆞ디 아니 밧아ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="89" n="22">원 아모것도 대단이 아니ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="23">미음을 먹ᄂᆞᆫ가 ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" lang="kor" page="89" n="24">미음과 너덧 가지 거ᄉᆞᆯ ᄒᆞ여ᄉᆞᆸ더니이다</sent>
+<sent type="main" lang="kor" page="89" n="25">ᄡᅵ샹은 가오니 길흔 어ᄂᆡ 날노 뎡ᄒᆞ온고</sent>
+<sent type="main" lang="kor" page="89" n="26">새암되이 심난심난ᄒᆞ고 내내 측냥치 못ᄒᆞ올소이다</sent><!--'심난심난ᄒᆞ고'에서 뒤에 오는 '심난'은 재점(〃)으로 표기되어 있음--><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="89" n="27">잠 알외오며 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="28">감ᄉᆡ 그젓긔 온다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="89" n="29">차담과 뎌녁밥 다 ᄒᆞ여ᄉᆞᆸ다가 브리ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="30">어제도 차담이나 것 여ᄉᆞᆺ 상 ᄒᆞ여ᄉᆞᆸ더니 브리오니</sent>
+<sent type="main" lang="kor" page="89" n="31">부비가 무수ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="89" n="32">진ᄌᆞ의도 역시 그러ᄒᆞᆫ가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="33">ᄂᆞᄆᆞᆯ 죠곰 건치 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="34">무명은 ᄌᆞ시 밧ᄌᆞ와 하교대로 ᄒᆞ오리이다</sent>
+<sent type="main" lang="kor" page="89" n="35">뎐후 구그리 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="89" n="36">몬져 거ᄉᆞᆫ 감ᄉᆞ 격기예 ᄡᅳᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="89" n="37">못내 알외와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="89" n="38">병ᄌᆞ ᄉᆞ월 십삼일</sent>
+<sent type="main" lang="kor" page="89" n="39">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="90" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1756년">
+<sent type="envelop1-1" lang="kor" page="90" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="90" n="02">근봉</sent>
+<sent type="main" lang="kor" page="90" n="03">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="90" n="04">두어 날 ᄉᆞ이 긔후 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="90" n="05">어제 던ᄌᆡᄂᆞᆫ 잘 잣ᄉᆞᆸ던가 ᄒᆞᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="90" n="06">예ᄂᆞᆫ 대되 일양 디내오며</sent>
+<sent type="main" lang="kor" page="90" n="07">밧긔셔ᄂᆞᆫ 오ᄂᆞᆯ 오리라 ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="90" n="08">아직 긔별을 모ᄅᆞ올소이다</sent>
+<sent type="main" lang="kor" page="90" n="09">셰만 도라가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="90" n="10">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="90" n="11">고기 두 근 양 서 근 보내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="90" n="12">병ᄌᆞ 오월 십일일</sent>
+<sent type="main" lang="kor" page="90" n="13">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="91" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="91" n="01">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-1" lang="kor" page="91" n="02">근봉</sent>
+<sent type="main" lang="kor" page="91" n="03">문안 알외ᄋᆞᆸ고 ᄇᆡᆨ이 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="91" n="04">긔운 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="91" n="05">든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="91" n="06">예ᄂᆞᆫ 대되 일양 디내ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="91" n="07">ᄌᆞ부의 병도 못ᄒᆞᄋᆞᆸᄂᆞᆫ 일 업ᄉᆞ오이다</sent>
+<sent type="main" lang="kor" page="91" n="08">ᄇᆡᆨ이 도라가오니 잠 알외오며</sent>
+<sent type="main" lang="kor" page="91" n="09">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="91" n="10">뎡튝 뉵월 념오일</sent>
+<sent type="main" lang="kor" page="91" n="11">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="92" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1757년">
+<sent type="envelop1-1" lang="kor" page="92" n="01">송촌</sent>
+<sent type="envelop1-1" lang="kor" page="92" n="02">[봉인] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="92" n="03">본ᄃᆡᆨ 입납 보은아ᄂᆡ ᄌᆞ부 ᄉᆞᆯ이</sent>
+<sent type="main" lang="kor" page="92" n="04">문안 알외ᄋᆞᆸ고 외간 오와ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="92" n="05">하셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="06">덥ᄉᆞᆸ기 심ᄒᆞ온ᄃᆡ 긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="07">든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="08">예ᄂᆞᆫ 일양 디내ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="09">ᄌᆞ부도 ᄒᆞᆫ가지로 나아 디내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="92" n="10">어ᄉᆞᄂᆞᆫ 어제 나ᄌᆡ 오와</sent>
+<sent type="main" lang="kor" page="92" n="11">낫것 대엿 가지ᄂᆞᆫ ᄒᆞ여 먹이ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="12">오ᄂᆞᆯ 조반 아젹밥 먹고 가련다 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="92" n="13">아모 반찬도 업ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="92" n="13">게 밧ᄌᆞ와 ᄡᅳᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="14">어란 젼복 다 겟 거ᄉᆞ로 다ᄒᆡᆼ이 ᄡᅳᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="92" n="15">죵은 사 오면 ᄌᆞᆨ히 됴ᄉᆞ오리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="92" n="16">요ᄉᆞ이ᄂᆞᆫ 밧긔셔ᄂᆞᆫ 더 가난ᄒᆞ여 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="92" n="17">ᄌᆞ부ᄂᆞᆫ 뎌년 글헛긔ᄂᆞᆫ 혹 ᄡᆞᆯ말식이나 모히ᄂᆞᆫ ᄃᆞᆯ이 오면</sent>
+<sent type="main" lang="kor" page="92" n="18">돈 냥이나 ᄆᆞᆫᄃᆞ라 ᄡᅳᄋᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="92" n="19">시방은 돈 ᄒᆞᆫ 냥 모히올 의ᄉᆡ 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="92" n="20">몬져 ᄎᆔ일 샹납의 블이나</sent>
+<sent type="main" lang="kor" page="92" n="21">돈 ᄒᆞᆫ 냥 ᄎᆔ이ᄒᆞ올 도리 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="92" n="22">보아 무던ᄒᆞ오면 더옥 답답ᄒᆞ오니</sent><!--'답답ᄒᆞ오니'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="23">ᄎᆞᆯ히 아니 오ᄋᆞᆸ기ᄅᆞᆯ 잘 ᄒᆞ여ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="92" n="24">돌중이 말ᄉᆞᆷ은 ᄌᆞ부도 하교ᄀᆞᆺ치 ᄒᆞᄋᆞᆸ고 </sent>
+<sent type="main" lang="kor" page="92" n="25">애ᄃᆞᆲ다 여러 번 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="92" n="26">아니 준 거시 아냐 주고 그만ᄒᆞᆫ 긴장ᄒᆞ옴이</sent>
+<sent type="main" lang="kor" page="92" n="27">막 농ᄉᆞᄒᆞ온 ᄯᅢ 제 사람 ᄀᆞᆺᄐᆞ면 번번 놀며 길냥 보내고</sent><!--'번번'에서 뒤에 오는 '번'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="28">번번 놀고 이시니 제 ᄌᆞ시 뮙다 ᄒᆞᄋᆞᆸ거ᄂᆞᆯ</sent><!--'번번'에서 뒤에 오는 '번'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="29">저ᄂᆞᆫ 뮈온들 샹젼은 야쇽히 ᄒᆞᄂᆞᆫ 거시 브졀업다</sent>
+<sent type="main" lang="kor" page="92" n="30">지금ᄀᆞ디 ᄆᆞ양 ᄒᆞᄋᆞᆸᄂᆞᆫ 말ᄉᆞᆷ이오며</sent>
+<sent type="main" lang="kor" page="92" n="31">쇠돌은 듕문간방이 바로 ᄒᆡᆼ낭 압피ᄋᆞᆸ기 아ᄒᆡ들이 드러ᄉᆞᆸᄭᅵ</sent>
+<sent type="main" lang="kor" page="92" n="32">브리ᄂᆞᆫ 죵과 겟 죵도 ᄒᆡᆼ낭 죵만 드러ᄉᆞᄋᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="92" n="33">쇠돌 드러와 잔다 ᄒᆞ고 거먹을 ᄭᅮ지젓ᄉᆞ오나</sent>
+<sent type="main" lang="kor" page="92" n="34">구ᄐᆞ여 그 죄로 치온 거시 아니오라</sent>
+<sent type="main" lang="kor" page="92" n="35">믈 깃ᄂᆞᆫ 무자히 차모ᄅᆞᆯ 노샹 샹통ᄒᆞ기 쳐ᄉᆞᆸᄂᆞ니이다</sent>
+<sent type="main" lang="kor" page="92" n="36">총총 잠 알외오며</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="37">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="38">뎡튝 칠월 념일</sent>
+<sent type="main" lang="kor" page="92" n="39">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="93" sender="여흥민씨(며느리)" writer="여흥민씨(며느리)" receiver="송요화(시아버지)" year="1725~1764년">
+<sent type="envelop1-1" lang="kor" page="93" n="01">송촌</sent>
+<sent type="envelop1-1" lang="kor" page="93" n="02">[봉인] 근봉</sent>
+<sent type="envelop1-1" lang="kor" page="93" n="03">본ᄃᆡᆨ 입납 ᄌᆞ부 ᄒᆡᆼ듕 ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="93" n="04">아바님 젼 샹ᄉᆞᆯ이</sent>
+<sent type="envelop1-2" lang="kor" page="93" n="05">근봉</sent>
+<sent type="main" lang="kor" page="93" n="06">문안 알외ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="93" n="07">긔후 안녕ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="93" n="08">ᄌᆞ부ᄂᆞᆫ 어제 ᄯᅥ나와 온쳔 와 자ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="93" n="09">시방 ᄯᅥ나 가랴 ᄒᆞ오니 든든ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'든든ᄒᆞᄋᆞᆸᄂᆞ이다'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="93" n="10">하인 몬져 드러가오니 잠 알외ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="93" n="11">ᄌᆞ부 ᄉᆞᆯ이</sent>
+</letter>
+
+<letter n="94" sender="여흥민씨(어머니)" writer="여흥민씨(어머니)" receiver="송기연(아들)" year="1727~1748년">
+<sent type="main" lang="kor" page="94" n="01">년ᄒᆞ여 글시 보고 무ᄉᆞᄒᆞ니 깃브나</sent>
+<sent type="main" lang="kor" page="94" n="02">우리ᄂᆞᆫ 계요 무ᄉᆞ히 와시되</sent>
+<sent type="main" lang="kor" page="94" n="03">강의 안질과 덕난 곳블노 심난타</sent>
+<sent type="main" lang="kor" page="94" n="04">어린 거ᄉᆞᆫ 내내 보채되</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="94" n="05">무ᄉᆞ히 닷가 갓옷 휘항 보내며</sent>
+<sent type="main" lang="kor" page="94" n="06">갓옷 도포 밋ᄒᆡᄂᆞᆫ 못 니블 거시오</sent>
+<sent type="main" lang="kor" page="94" n="07">도포 벗기도 고이ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="94" n="08">누의ᄃᆞ려 옷 ᄒᆞ나 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="94" n="09">옷 닙고 난이치면 설워</sent>
+<sent type="main" lang="kor" page="94" n="10">도포ᄅᆞᆯ 벗고 닙긔 ᄒᆞ엿다</sent>
+<sent type="main" lang="kor" page="94" n="11">내내 무ᄉᆞ히 오너라</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="92" n="12">념일</sent>
+<sent type="main" lang="kor" page="92" n="13">모</sent>
+</letter>
+
+<letter n="94-1" sender="여흥민씨(어머니)" writer="여흥민씨(어머니)" receiver="송기연(아들)" year="1727~1748년">
+<sent type="envelop1-1" lang="kor" page="94-1" n="01">뎡응</sent>
+<sent type="main" lang="kor" page="94-1" n="02">글시 보고 반기ᄃᆡ</sent>
+<sent type="main" lang="kor" page="94-1" n="03">네 ᄃᆡᆨ ᄯᅩ 알ᄂᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="94-1" n="04">놀납고 념녀 ᄀᆞ이업ᄉᆞ며</sent>
+<sent type="main" lang="kor" page="94-1" n="05">예도 뎌ᄯᅢ 오후 셩ᄒᆞᆫ ᄯᅢ</sent>
+<sent type="main" lang="kor" page="94-1" n="06">식 알ᄂᆞᆫ 도림 잇던 거시니 그 도림인가</sent>
+<sent type="main" lang="kor" page="94-1" n="07">다시 긔별 몰나 더옥 답답다</sent><!--'답답다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="94-1" n="08">유득은 무엇 어더 가냐</sent>
+<sent type="main" lang="kor" page="94-1" n="09">널노 ᄒᆞ여 더옥 념녀 근근 측냥치 못ᄒᆞᆯ다</sent><!--'근근'에서 뒤에 오는 '근'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="94-1" n="10">음식 ᄎᆞᆫ 것 먹디 말고 조심ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="94-1" n="11">지월 초삼일</sent>
+<sent type="main" lang="kor" page="94-1" n="12">모</sent>
+</letter>
+
+<letter n="95" sender="송기연(외조카)" writer="송기연(외조카)" receiver="미상(이모)" year="1747년">
+<sent type="envelop1-2" lang="kor" page="95" n="01">아ᄌᆞ마님 젼 샹셔</sent>
+<sent type="envelop1-2" lang="kor" page="95" n="02">근봉</sent>
+<sent type="envelop1-2" lang="kor" page="95" n="03">건너</sent>
+<sent type="main" lang="kor" page="95" n="04">겨을 일긔 아니 곱기 갈ᄉᆞ록 이샹ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="95" n="05">긔운 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="95" n="06">문안도 총총 모ᄅᆞ오니</sent><!--'총총'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="07">답답 념녀 아모라타 업ᄉᆞ와 ᄒᆞ오며</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="08">누의님은 엇디 브디ᄒᆞ여 디내시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="95" n="09">ᄉᆡᆼ각ᄒᆞ올ᄉᆞ록 가ᄉᆞᆷ 압프ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="95" n="10">만나보올 길도 업ᄉᆞ오니 더욱 ᄆᆞ음 굿부오이다</sent>
+<sent type="main" lang="kor" page="95" n="11">경챵은 병이나 업시 디내오며</sent>
+<sent type="main" lang="kor" page="95" n="12">글은 엇디 되엿ᄉᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="95" n="13">편디도 못 보오니 답답ᄒᆞ오이다</sent><!--'답답ᄒᆞ오이다'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="14">긔령셔ᄂᆞᆫ 의외예 영문의 욕을 보오시니</sent>
+<sent type="main" lang="kor" page="95" n="15">그런 통분통분ᄒᆞ온 일 어듸 잇ᄉᆞ오리잇가</sent><!--'통분통분ᄒᆞ온'에서 뒤에 오는 '통분'은 재점(〃〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="16">녕의예 샹의ᄒᆞ여 디내ᄋᆞᆸ다가</sent>
+<sent type="main" lang="kor" page="95" n="17">뎌리 급히 ᄯᅥ나오시니 더욱 섭섭 결연ᄒᆞ오이다</sent><!--'섭섭'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="18">하인 가오ᄃᆡ 총총ᄒᆞ와 잠 알외오며</sent><!--'총총ᄒᆞ와'에서 뒤에 오는 '총'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="95" n="19">이 ᄒᆡ 다 가ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="95" n="20">신셰예 긔후 만복ᄒᆞ오심 츅슈ᄒᆞᄋᆞᆸᄂᆞ□□</sent>
+<sent type="main" lang="kor" page="95" n="21">뎡묘 납월 이십일</sent>
+<sent type="main" lang="kor" page="95" n="22">이딜 송긔연 샹셔</sent>
+</letter>
+
+<letter n="96" sender="송기연(조카)" writer="송기연(조카)" receiver="은진송씨(고모)" year="1747년">
+<sent type="envelop1-2" lang="kor" page="96" n="01">아ᄌᆞ마님 젼 샹셔</sent>
+<sent type="envelop1-2" lang="kor" page="96" n="02">근봉</sent>
+<sent type="envelop1-2" lang="kor" page="96" n="03">호산</sent>
+<sent type="main" lang="kor" page="96" n="04">겨울 일긔 아니 곱기 하 이샹ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="96" n="05">긔운 엇더ᄒᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="96" n="06">문안도 하 죵죵 모로오니</sent><!--'죵죵'에서 뒤에 오는 '죵'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="96" n="07">답답 복모 브리ᄋᆞᆸ지 못ᄒᆞ와 ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--'답답'에서 뒤에 오는 '답'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="96" n="08">딜은 겨유 디내오나</sent>
+<sent type="main" lang="kor" page="96" n="09">요ᄉᆞ이 여긔 관ᄉᆞ 만하</sent>
+<sent type="main" lang="kor" page="96" n="10">한아바님겨오셔 집의 드오실 ᄯᅢ 젹ᄉᆞ오시니</sent>
+<sent type="main" lang="kor" page="96" n="11">치위예 ᄲᅵ치오시ᄂᆞᆫ 일 민망ᄒᆞ오이다</sent>
+<sent type="main" lang="kor" page="96" n="12">ᄀᆡ령셔ᄂᆞᆫ 의외예 욕을 보오시니</sent>
+<sent type="main" lang="kor" page="96" n="13">그러 통분통분ᄒᆞ온 일 어듸 잇ᄉᆞ오리잇가</sent><!--'통분통분ᄒᆞ온'에서 뒤에 오는 '통분'은 재점(〃〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="96" n="14">녕의예 샹의ᄒᆞ여 디내ᄋᆞᆸ다가</sent>
+<sent type="main" lang="kor" page="96" n="15">져리 급히 ᄯᅥ나오시니 더욱 섭섭 애ᄃᆞᆲᄉᆞ오이다</sent><!--'섭섭'에서 뒤에 오는 '섭'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="96" n="16">하인 셔울노 가오매 잠 알외오며</sent>
+<sent type="main" lang="kor" page="96" n="17">이ᄒᆡ 다 가ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="96" n="18">신셰예 긔운 만복ᄒᆞ오심 ᄇᆞ라ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="96" n="19">뎡묘 납월 이십일</sent>
+<sent type="main" lang="kor" page="96" n="20">ᄉᆡᆼ딜 송긔연 샹셔</sent>
+</letter>
+
+<letter n="97" sender="송기연(조카)" writer="송기연(조카)" receiver="미상(아주머니)" year="1727~1748년">
+<sent type="envelop1-2" lang="kor" page="97" n="01">아ᄌᆞ미 젼 답샹장</sent>
+<sent type="envelop1-2" lang="kor" page="97" n="02">[수결：起] 근봉</sent>
+<sent type="main" lang="kor" page="97" n="03">거번 젹ᄉᆞ오시니</sent>
+<sent type="main" lang="kor" page="97" n="04">다시 뵈온 듯 탐□□갑ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="97" n="05">그ᄯᅢ 평안히 디내오시니</sent>
+<sent type="main" lang="kor" page="97" n="06">든든□□ 보옴 못내 젹ᄉᆞ오며</sent><!--'든든□□'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="97" n="07">큰한아바님 병환 그리 대되 ᄒᆞ오시ᄂᆞᆫ 일 </sent>
+<sent type="main" lang="kor" page="97" n="08">민망 념녀 아므라타 업ᄉᆞ오이다</sent>
+<sent type="main" lang="kor" page="97" n="09">예도 한아바님 긔운 ᄀᆞᆨ금 못ᄒᆞ여 디내시고</sent>
+<sent type="main" lang="kor" page="97" n="10">대쇼 우환 ᄯᅥ날 ᄯᅢ 업ᄉᆞ오니 민망ᄒᆞᄋᆞᆸ오리</sent>
+</letter>
+
+<letter n="98" sender="송기연(아들)" writer="송기연(아들)" receiver="여흥민씨(어머니)" year="1748년">
+<sent type="envelop1-2" lang="kor" page="98" n="01">아ᄌᆞ마님 젼 답샹셔</sent>
+<sent type="envelop1-2" lang="kor" page="98" n="02">[수결：起] 근봉</sent>
+<sent type="main" lang="kor" page="98" n="03">큰한아바님 상ᄉᆞᄂᆞᆫ 통곡ᄒᆞ온 밧</sent>
+<sent type="main" lang="kor" page="98" n="04">무슨 말ᄉᆞᆷ을 알외오리잇가</sent>
+<sent type="main" lang="kor" page="98" n="05">쉬이 가ᄋᆞᆸ게 되어ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="98" n="06">다시 뵈올가 신긔히 너겨ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="98" n="07">그ᄉᆞ이 져리 되오실 줄</sent>
+<sent type="main" lang="kor" page="98" n="08">어이 ᄉᆡᆼ각ᄒᆞ여ᄉᆞ오리잇가</sent>
+<sent type="main" lang="kor" page="98" n="09">먼 길 ᄒᆡᆼ역ᄒᆞ오신 ᄭᅳᆺ희 ᄯᅩ ᄲᅵ치오시니</sent>
+<sent type="main" lang="kor" page="98" n="10">오ᄌᆞᆨ히 샹ᄒᆞ오시랴</sent>
+<sent type="main" lang="kor" page="98" n="11">뵈ᄋᆞᆸᄂᆞᆫ ᄃᆞᆺ 굿브온 념녀 아모라타 업ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="98" n="12">예ᄂᆞᆫ 한아바님겨오셔 마ᄎᆞᆷ ᄒᆡᆼᄎᆞ하여 겨오시다가</sent>
+<sent type="main" lang="kor" page="98" n="13">듕노의셔 문부ᄒᆞ오시니</sent>
+<sent type="main" lang="kor" page="98" n="14">졍경 더옥 가ᄉᆞᆷ 알프오이다</sent>
+<sent type="main" lang="kor" page="98" n="15">어제 하셔 밧ᄌᆞ 보ᄋᆞᆸ고 든든 못내 알외오며</sent><!--'든든'에서 뒤에 오는 '든'은 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="98" n="16">갓옷 와ᄉᆞ오니 보아 닙ᄉᆞᆸᄉᆞ이다</sent>
+<sent type="main" lang="kor" page="98" n="17">총망ᄒᆞ와 다 못 알외오며</sent>
+<sent type="main" lang="kor" page="98" n="18">내내 긔후 안녕ᄒᆞ오심 ᄇᆞ리ᄋᆞᆸᄂᆞ이다</sent><!--'내내'에서 뒤에 오는 '내'는 재점(〃)으로 표기되어 있음-->
+<sent type="main" lang="kor" page="98" n="19">무진 지월 념삼일</sent>
+<sent type="main" lang="kor" page="98" n="20">ᄌᆞ 긔연 샹셔</sent>
+</letter>
+</doc>
+

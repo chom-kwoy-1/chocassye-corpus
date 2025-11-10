@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title lang="kor">여흥민씨민영소가명성황후궁녀언간</title>
+<title lang="chi">驪興閔氏閔泳韶家明成皇后宮女諺簡</title>
+<sender>미상</sender><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<receiver>민영소</receiver><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<date>19세기(1883~1895)</date><!--전반적인 작성 시기.-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>조선시대 한글편지 판독자료집 3</title><!--추가 사항의 주석을 기입하는 자리.-->
+<pubPlace>역락</pubPlace>
+<publisher>한국학중앙연구원 어문생활사연구소 편</publisher>
+<date>2024-08-28</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>김준수</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+<!--sender는 '발신자', writer는 '작성자', receiver는 '수신자', year는 '발신 연도', envelop은 '봉투 유형'을 가리키는 속성 정보이다.-->
+<!--'발신자'와 '작성자'는 일반적으로는 동일하나 대필(代筆) 언간의 경우에는 상이하다. 후자의 경우 작성자(즉, 대필자)가 누구인지 분명하면 그것을 밝혀 적고, 분명하지 않으면 '대필자'로만 입력한다. 대필 여부가 의심되나 확실하지 않을 경우에는 writer를 '대필자?'로 입력한다.-->
+<!--'발신 연도'는 연(年) 단위까지만 입력하되, 정확한 연도를 밝힐 수 없는 편지는 '19세기 중반', '1851~1857년' 등과 같이 그 추정 시기를 입력한다.-->
+<!--봉투가 하나인 '단봉(單封)'은 다시 '별봉(別封, 별도로 만든 것)과  '자봉(自封, 내지가 봉투를 겸한 것)'으로 나뉜다. '별봉'은 envelop1-1로, '자봉'은 envelop1-2로 입력한다. 단봉을 다시 싼 '중봉(重封)'은 envelop2로 입력한다.-->
+<!--언간 자료의 특성상 개별 편지의 상황 정보는 추후 얼마든지 수정될 수 있다.-->
+
+<letter n="01" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문 아옵고 든든 츅슈ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">날포 봉셔 못 뵈와 궁궁ᄒᆞ옵더니</sent><!--‘궁궁’의 뒤에 오는 ‘궁’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">봉셔 보오니 든든 반갑ᄉᆞᆸ고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">어마님 졔졀 만안ᄒᆞ오신닛가</sent>
+<sent type="main" n="07">츙경이 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="08">그ᄉᆞ이 탄일과 경츅일의도 못 드러오시니</sent>
+<sent type="main" n="09">섭섭 층냥업ᄉᆞ와 지ᄂᆡᄉᆞ외다</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">ᄉᆡ달은 드러오실 듯ᄒᆞ오니</sent>
+<sent type="main" n="11">ᄉᆡ달이 어셔 가기을 주야 조이옴ᄂᆞ이다</sent>
+</letter>
+
+<letter n="02" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보ᄋᆞ옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며 어마님 졔졀 만강ᄒᆞ오신닛가</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">쟉야ᄂᆞᆫ 드러오와 겨신 거ᄉᆞᆯ 잠이 깁ᄉᆞ와</sent>
+<sent type="main" n="05">못 뵈와 셥셥히 지ᄂᆡᄉᆞ외다</sent><!--‘셥셥’의 뒤에 오는 ‘셥’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니이다</sent><!--‘안녕ᄒᆞ오시오니이다’에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="07">여긔셔도 잘 잇ᄉᆞᆸ고</sent>
+<sent type="main" n="08">츙경이 무탈ᄒᆞ온닛가</sent>
+</letter>
+
+<letter n="03" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">추셜노 블인ᄒᆞ오신 일 듯ᄉᆞ오니 답답ᄒᆞ옵고</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔셔는 냥뎐 문안 안녕ᄒᆞ오시니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">마마 졔졀 한가지로 지ᄂᆡ오시옵ᄂᆞ이다</sent><!--‘마마’의 뒤에 오는 ‘마’는 재점으로 표기되어 있음-->
+<sent type="main" n="07">여긔셔는 잘 잇ᄉᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="04" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">작일은 빗치오시고 밤 태평이 쥬무오신잇가</sent><!--‘’빗치오시고‘의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">여긔셔도 한가지옵ᄂᆞ이다</sent>
+<sent type="main" n="07">츙경 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="08">향ᄌᆞ 말ᄉᆞᆷᄒᆞ옵든 칼 말ᄉᆞᆷᄒᆞ와 겨신잇잇가</sent>
+<sent type="main" n="09">어마님 안녕ᄒᆞ오시고 쟉일은 놀나오샤</sent>
+<sent type="main" n="10">오ᄌᆞᆨ 경동되와 겨실잇가</sent>
+<sent type="main" n="11">추후 아옵고 일ᄏᆞᆺᄉᆞ와ᄉᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="05" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">블평지졀이 긴ᄒᆞ오신가 보오니</sent>
+<sent type="main" n="05">외오 답답ᄒᆞ옵기 측냥업ᄉᆞ오며</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="07">츅슈ᄒᆞ와 ᄒᆞ옵고</sent>
+<sent type="main" n="08">츙경이도 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="09">여긔셔는 셜후로 괴로이 지ᄂᆡ옵ᄂᆞ이다</sent>
+</letter>
+
+<letter n="06" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">비혈노 ᄃᆡ단ᄒᆞ오신 일 괴롭ᄉᆞ오시려 일ᄏᆞᆺᄉᆞ오며</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="06">츅슈ᄒᆞ와 ᄒᆞ옵고</sent>
+<sent type="main" n="07">여긔셔ᄂᆞᆫ ᄒᆡ소로 밤의 순뎐 자지 못ᄒᆞ와 괴롭ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" n="08">악가 녹지는 보아 겨실 듯ᄒᆞ외다</sent>
+</letter>
+
+<letter n="07" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">쟉일 봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="03">일긔 극심이 덥ᄉᆞ온ᄃᆡ</sent>
+<sent type="main" n="04">ᄒᆡᆼ녁의 오ᄌᆞᆨ 곤비ᄒᆞ오실잇가</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">듁동 오라바님 블의의 발ᄒᆡᆼᄒᆞ오니</sent>
+<sent type="main" n="07">답답ᄒᆞ온 듕 셥셥 층냥업ᄉᆞ옵고</sent><!--‘답답’의 뒤에 오는 ‘답답’은 재점으로 표기되어 있음--><!--‘셥셥’의 뒤에 오는 ‘셥’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">쟉일 총총ᄒᆞ와 이졔 ᄒᆞ옵ᄂᆞ이다</sent><!--‘총총’의 뒤에 오는 ‘총’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="08" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent><!--‘아옵고’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="03">든든ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 졔졀 만안ᄒᆞ오신잇가</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오신니</sent>
+<sent type="main" n="06">하졍의 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="07">츙경이 무탈ᄒᆞ온닛가</sent>
+</letter>
+
+<letter n="09" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 침슈 졔졀 만안ᄒᆞ오신닛가</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">듁동 오라바님 소식 듯ᄉᆞ오니</sent>
+<sent type="main" n="07">지졀 못지 안ᄉᆞ오신 일 흔츅ᄒᆞ온 듕</sent>
+<sent type="main" n="08">환국ᄒᆞ오시온 말ᄉᆞᆷ 듯ᄉᆞ오니</sent>
+<sent type="main" n="09">미리 든든 측냥업ᄉᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">튱경이 날포 셩치 못ᄒᆞ오니</sent>
+<sent type="main" n="11">외오 궁금 답답 층냥업ᄉᆞ외다</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="12">당장 보지 못ᄒᆞ오니 궁금ᄒᆞ외다</sent>
+</letter>
+
+<letter n="10" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님겨오샤 침수 졔졀 만안ᄒᆞ오신지 궁금ᄒᆞ옵고</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">듁동 오라바님 소식 듯ᄉᆞ오시니</sent>
+<sent type="main" n="07">평안ᄒᆞ오시다오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="08">튱경이 무탈ᄒᆞ오닛가</sent>
+<sent type="main" n="09">탕졔ᄂᆞᆫ 아직 맛ᄉᆞ오나</sent>
+<sent type="main" n="10">엇더ᄒᆞᆯ지 모루ᄀᆡᄉᆞ오이다</sent>
+</letter>
+
+<letter n="11" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 환후 ᄭᆡ긋지 못ᄒᆞ온신 일 동동ᄒᆞ옵고</sent><!--‘동동’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="06">츅슈ᄒᆞ옵고 튱경이 무탈ᄒᆞ온닛가</sent>
+</letter>
+
+<letter n="12" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ오며 여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">마마 환후 조곰 낫ᄉᆞ와 가오시니 츅슈츅슈ᄒᆞ옵고</sent><!--‘마마’의 뒤에 오는 ‘마’는 재점으로 표기되어 있음--><!--‘츅슈츅슈’의 뒤에 오는 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" n="04">다름 아니오라 탄일노 ᄒᆞ와 심녀되옵고</sent>
+<sent type="main" n="05">날은 졈졈 임박ᄒᆞ옵고 입이 쓰와</sent><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">말이 안 나옵고 만ᄉᆞ의 답답ᄒᆞ온 듕</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="07">ᄎᆞ지 초조 ᄎᆞᆨ급ᄒᆞ옵는 모양은 ᄎᆞ마 볼 슈 업ᄉᆞ온 듕</sent>
+<sent type="main" n="08">장ᄎᆞᆺ 그날 엇디 낫츨 들ᄂᆞᆫ지 미리 답답ᄒᆞ옵고</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음--><!--‘장ᄎᆞᆺ’의 앞에는 썼다가 지운 흔적이 있음--><!--‘들ᄂᆞᆫ지’의 ‘들’ 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="09">오뉵 년 ᄒᆞ옵든 터이오라 서운 셥셥ᄒᆞ와</sent><!--‘셥셥’의 뒤에 오는 ‘셥’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">지ᄂᆡᆯ 닐 약약 엇더타 ᄒᆞᆯ 슈 업ᄉᆞᆸ고 엇지ᄒᆞ옵다</sent><!--‘약약’의 뒤에 오는 ‘약’은 재점으로 표기되어 있음-->
+<sent type="main" n="11">이리 무셰ᄒᆞ게 된 일 ᄋᆡᄃᆞᆯᄉᆞᆸ고</sent>
+<sent type="main" n="12">의논ᄒᆞ와도 고독히 된 일 겸발ᄒᆞ와</sent>
+<sent type="main" n="13">ᄋᆡ달고 답답ᄒᆞ오이다</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="14">의논도 ᄒᆞᆯ ᄃᆡ 업ᄉᆞᆸ고 일일노 그ᄲᅮᆫ 아니오라</sent><!--‘일일’의 뒤에 오는 ‘일’은 재점으로 표기되어 있음-->
+<sent type="main" n="15">겸발ᄒᆞᄂᆞᆫ 닐 만흐나 어ᄂᆡ 누가 ᄋᆡ지듕지ᄒᆞᄂᆞᆫ 니 업ᄉᆞᆸ고</sent><!--‘ᄋᆡ지듕지ᄒᆞᄂᆞᆫ’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="16">말 ᄒᆞᆫ마ᄃᆡ 의논ᄒᆞᆯ ᄃᆡ 업ᄉᆞ올 닐과</sent><!--닐과 ^ 이런(뒷면)-->
+<sent type="main" n="17">이런 일을 당ᄒᆞ와도 삭막ᄒᆞ고 무셰ᄒᆞ니</sent>
+<sent type="main" n="18">냥친 일ᄌᆞᆨ 기셰ᄒᆞ시와 그리ᄒᆞ온가 보오니</sent>
+<sent type="main" n="19">어ᄂᆡ 누가 이런 ᄉᆞ졍 아오릿가 심난 쓸쓸ᄒᆞ오이다</sent><!--‘쓸쓸’의 뒤에 오는 ‘쓸’은 재점으로 표기되어 있음-->
+<sent type="main" n="20">남의 업시 동긔도 변변이 만티 안ᄉᆞᆸ고</sent><!--‘변변’의 뒤에 오는 ‘변’은 재점으로 표기되어 있음-->
+<sent type="main" n="21">듁동 오라바님 만ᄉᆞ 부운이시니</sent>
+<sent type="main" n="22">오라바님 밧 누구가 잇ᄉᆞᆸᄂᆞ잇가</sent>
+</letter>
+
+<letter n="13" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔는 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="05">여긔셔는 한가지로 지ᄂᆡ오며</sent>
+<sent type="main" n="06">일쵸 일 궤만 드려보ᄂᆡ시되</sent>
+<sent type="main" n="07">막초로 보ᄂᆡ옵소셔</sent>
+</letter>
+
+<letter n="14" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오시온 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님겨오ᄉᆞ 졔졀이 미령ᄒᆞ오시다오니 동동ᄒᆞ옵고</sent><!--‘어마님겨오ᄉᆞ’의 뒤에는 썼다가 지운 흔적이 있음--><!--‘동동’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오나</sent><!--‘마마’의 뒤에 오는 ‘마’는 재점으로 표기되어 있음-->
+<sent type="main" n="06">마마 감환으로 졍셩의 복모 브리옵디 못ᄒᆞ옵고</sent>
+<sent type="main" n="07">셔양ᄉᆞ 삼 필 셔양목 일 통만 드려보ᄂᆡ 쥬시고</sent>
+<sent type="main" n="08">ᄂᆡ ᄌᆞ쟝부티 무ᄉᆡᆨᄒᆞᆫ 것과 ᄯᅥ러진 거 고친 갑 쥬ᄀᆡᄉᆞ오니</sent>
+<sent type="main" n="09">여러 ᄃᆞᆯ이 되와ᄉᆞ오니</sent>
+<sent type="main" n="10">오ᄂᆞᆯ노 젼 ᄇᆡᆨ 냥만 넌지시 비ᄌᆞ ᄒᆞ여 드려보ᄂᆡ 쥬옵소셔</sent><!--‘넌지시’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="11">고간의셔 진분홍 가로 고혼 취월 가로ᄒᆞ고</sent>
+<sent type="main" n="12">보라로 다홍 가로 좀 서너 병 ᄉᆡᆨᄉᆡᆨ 주옵소셔</sent><!--‘ᄉᆡᆨᄉᆡᆨ’의 뒤에 오는 ‘ᄉᆡᆨᄉᆡᆨ’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="15" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔도 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="05">젼은 아직 두시면 ᄉᆡᆼ일 지ᄂᆡ고 긔별ᄒᆞ오리다</sent>
+<sent type="main" n="06">향ᄌᆞ의 고간의 주와쓰니가</sent>
+<sent type="main" n="07">이번은 달니 넌지시 쓰ᄀᆡᄉᆞ옵ᄂᆞ이다</sent><!--‘쓰ᄀᆡᄉᆞ옵ᄂᆞ이다’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="08">ᄉᆡᆼ일 되와도 모혀 못 지ᄂᆡᄂᆞᆫ 일</sent>
+<sent type="main" n="09">섭섭 층냥업ᄉᆞ외다</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="16" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">슈ᄎᆞ 봉셔 밧ᄌᆞ와</sent>
+<sent type="main" n="02">든든이 지ᄂᆡᄉᆞᆸ고</sent>
+<sent type="main" n="03">야간 긔후 태평ᄒᆞ오시온잇가</sent>
+<sent type="main" n="04">어마님겨오ᄉᆞ 셜후로 미령이 지ᄂᆡ오신다오니</sent>
+<sent type="main" n="05">외오 동동 브리옵디 못ᄒᆞ옵고</sent><!--‘동동’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">여긔셔는 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="07">고간의 ᄒᆡ삼 홍압 좀 더 드려보ᄂᆡ시고</sent>
+<sent type="main" n="08">쟝지 유지 모ᄌᆞ르오니 더 쥬시고</sent>
+<sent type="main" n="09">돈도 좀 슈히 쥬옵소셔</sent>
+<sent type="main" n="10">ᄎᆞ 살님 ᄒᆞ와 가오니가 감질날 젹 만ᄉᆞ오이다</sent>
+</letter>
+
+<letter n="17" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">어마님겨오ᄉᆞ 졔졀이 쳬슈와 셜후로 미령ᄒᆞ옵시다오니</sent>
+<sent type="main" n="04">외오 졍셩의 동동 브리옵디 못ᄒᆞ옵고</sent><!--‘동동’의 뒤에 오는 ‘동동’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">고간의 돈이 업ᄉᆞ와 ᄒᆞ오니</sent>
+<sent type="main" n="07">단오의 ᄃᆡ의ᄒᆞᄂᆞᆫᄃᆡ ᄌᆡ촉ᄒᆞ오니다</sent>
+<sent type="main" n="08">오ᄇᆡᆨ여슌삼 냥 위션 달나 ᄒᆞ옵ᄂᆞ이다</sent>
+<sent type="main" n="09">모긔가 심ᄒᆞ여 못 견ᄃᆡᄀᆡᄉᆞ오니</sent>
+<sent type="main" n="10">모긔쟝 좀 드려보ᄂᆡ 쥬오시고</sent>
+<sent type="main" n="11">이왕 말ᄉᆞᆷᄒᆞ옵든 과가 심인이 잇ᄯᆡ 잇ᄉᆞᆸ더니</sent>
+<sent type="main" n="12">오ᄂᆞᆯ 과가 난다오니 이왕 거연ᄒᆞ신 터이오니</sent><!--‘오ᄂᆞᆯ’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="13">셩명 ᄂᆡ보ᄂᆡ옵ᄂᆞ이다</sent>
+<sent type="main" n="14">ᄉᆞ 인의 성명이외다</sent>
+</letter>
+
+<letter n="18" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">셔셜노 블인ᄒᆞ오신 일 답답 측냥업ᄉᆞ오며</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔는 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="05">긔별ᄒᆞ오신 ᄉᆞ연은 뵈와ᄉᆞ오며</sent>
+<sent type="main" n="06">출쳐 아니 겨오신ᄃᆡ 근녁 드시긔 ᄒᆞ오니</sent>
+<sent type="main" n="07">다 답답ᄒᆞ옵고</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">여긔셔는 눈이 ᄃᆡ단ᄃᆡ단ᄒᆞ와 ᄯᅳᆯ 길 업ᄉᆞᆸ고</sent><!--‘ᄃᆡ단ᄃᆡ단’의 뒤에 오는 ‘ᄃᆡ단’은 재점으로 표기되어 있음--><!--‘업ᄉᆞᆸ고’의 ‘고’ 앞에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="09">밀ᄯᅥᆨ ᄀᆞᆺ튼 약 좀 지금지금 ᄒᆞ여 주옵소셔</sent><!--‘지금지금’의 뒤에 오는 ‘지금’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="19" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">어마님 졔졀이 좀 엇더ᄒᆞ오신지</sent>
+<sent type="main" n="04">외쳐 졍셩의 브리옵지 못ᄒᆞ옵고</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">젼은 긴급이 쓸 ᄃᆡ 잇ᄉᆞᆸ다고</sent>
+<sent type="main" n="07">육ᄇᆡᆨ 냥만 아모 돈이라도 드려보ᄂᆡ시옵소셔</sent>
+<sent type="main" n="08">션ᄌᆞ 미션 별션으로 죰 쥬옵소셔</sent><!--‘션ᄌᆞ’의 앞에는 썼다가 지운 흔적이 있음-->
+</letter>
+
+<letter n="20" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오시온 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">블인지졀 긴ᄒᆞ오신가 보오니 답답ᄒᆞ오며</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="06">츙경이 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="07">신ᄉᆡᆼ아도 잘 ᄌᆞ온 일 긔특ᄒᆞ옵고</sent><!--‘잘’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="08">여긔 씌인 ᄃᆡ로 명일 신조로 사 주옵소셔</sent>
+</letter>
+
+<letter n="21" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">종야 블인ᄒᆞ오신 일 외오 답답ᄒᆞ오며</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">어마님 졔졀 안녕ᄒᆞ오시오닛가</sent>
+<sent type="main" n="06">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="07">츅슈ᄒᆞ와 ᄒᆞ옵고</sent>
+<sent type="main" n="08">츙경이 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="09">여긔셔는 한가지옵고 빈혀 보아 겨신잇가</sent>
+<sent type="main" n="10">화복의 ᄭᅩ질 거시옵ᄂᆞ이다</sent>
+</letter>
+
+<letter n="22" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">어마님 졔졀 쾌ᄎᆞᄒᆞ오시온이잇가</sent>
+<sent type="main" n="04">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="05">비ᄂᆞᆫ 종시 싀훤티 못ᄒᆞ오시오니 답답ᄒᆞ오이다</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">여긔셔ᄂᆞᆫ 셔증으로 괴롭ᄉᆞ오이다</sent>
+<sent type="main" n="07">다름 아니오라 ᄉᆞ향이옵든지 ᄒᆞᆫ츙향이옵든지</sent>
+<sent type="main" n="08">향 좀 어더 쥬오시고</sent>
+<sent type="main" n="09">비취옥 빈혀 구키 어려시거든</sent>
+<sent type="main" n="10">ᄇᆡᆨ옥 ᄆᆡ화잠이라도 소소로 구ᄒᆞ와 쥬시고</sent><!--‘소소’의 뒤에 오는 ‘소’는 재점으로 표기되어 있음-->
+<sent type="main" n="11">산호 구이ᄀᆡ 광구ᄒᆞ와 속히 어더 쥬시기 ᄇᆞ라옵ᄂᆞ이다</sent>
+<sent type="main" n="12">탕졔ᄂᆞᆫ 그만 졍지ᄒᆞ옵소셔</sent>
+</letter>
+
+<letter n="23" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고져 ᄒᆞ오며</sent>
+<sent type="main" n="03">어마님 졔졀 좀 엇더ᄒᆞ오신닛가</sent>
+<sent type="main" n="04">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="05">향은 보아ᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" n="06">유모 어셔어셔 드려보ᄂᆡ시옵소셔</sent><!--‘어셔어셔’의 뒤에 오는 ‘어셔’는 재점으로 표기되어 있음--><!--‘드랴보ᄂᆡ시옵소셔’의 ‘시’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="07">ᄉᆞᄅᆞᆷ이 업ᄉᆞ오니</sent>
+<sent type="main" n="08">오ᄂᆞᆯ 시방시방 드려보ᄂᆡ 쥬옵소셔</sent><!--‘시방시방’의 뒤에 오는 ‘시방’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="24" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 졔졀 안녕ᄒᆞ오신잇가</sent>
+<sent type="main" n="05">여긔셔도 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">튱경이도 무탈ᄒᆞ온닛가</sent>
+<sent type="main" n="07">된 ᄉᆞᄂᆞᆫ 자셔이 보아ᄉᆞ오며</sent>
+<sent type="main" n="08">쟉일 과거 말ᄉᆞᆷᄒᆞ고 ᄉᆞ조 쓴 녹지 둘 나간 것</sent><!--‘말ᄉᆞᆷᄒᆞ고’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="09">부ᄃᆡ ᄒᆞ여 쥬시고</sent>
+<sent type="main" n="10">안 되면 셩명이라도 드려보ᄂᆡ시옵소셔</sent>
+</letter>
+
+<letter n="25" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고져 ᄒᆞ오며</sent>
+<sent type="main" n="03">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ와 ᄒᆞ옵고</sent>
+<sent type="main" n="04">작일 입송ᄒᆞ오신 거ᄉᆞᆫ ᄌᆞ시 보옵고</sent>
+<sent type="main" n="05">이 녹지 ᄌᆞ셔이 보오시고</sent>
+<sent type="main" n="06">이ᄃᆡ로 ᄒᆞ여 쥬옵소셔</sent>
+<sent type="main" n="07">향일 말ᄉᆞᆷᄒᆞ옵든 의장 참의 송은창이 일은 잇지 마옵소셔</sent>
+<sent type="main" n="08">변장 최ᄌᆡ텬 일도 ᄯᅩᄒᆞᆫ 엇디 되와ᄉᆞᆸᄂᆞ이가</sent>
+</letter>
+
+<letter n="26" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔도 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="05">일젼 드려보ᄂᆡ신 거ᄉᆞᆫ ᄌᆞ시 보아ᄉᆞ오며</sent>
+<sent type="main" n="06">이 녹지ᄂᆞᆫ 향ᄌᆞ 일후 ᄒᆞ여 쥬마 ᄒᆞ시든 과거오니</sent><!--‘향ᄌᆞ’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="07">ᄂᆡ일 금셩 젼 과거의 ᄒᆞ여 쥬시기 ᄇᆞ라옵ᄂᆞ이다</sent>
+</letter>
+
+<letter n="27" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="03">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="04">태평이 발ᄒᆡᆼᄒᆞ오사 수이 입셩ᄒᆞ시기 밋ᄉᆞᆸ고</sent>
+<sent type="main" n="05">무가 ᄉᆞ조 ᄂᆡ보여ᄉᆞᆸ더니 보아 겨실 듯ᄒᆞ옵고</sent>
+<sent type="main" n="06">부명 젹어도 관겨치 안타기</sent>
+<sent type="main" n="07">부명 젹어ᄉᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="28" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">현긔로 블평ᄒᆞ오신 일 외오 일ᄏᆞᆺᄉᆞ오며</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오신니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">츙경이 좀 엇더ᄒᆞ온닛가</sent>
+<sent type="main" n="07">향ᄌᆞ 말ᄉᆞᆷᄒᆞ옵든 관ᄌᆞ 좀 ᄂᆡ시고</sent>
+<sent type="main" n="08">긴히 셔간ᄒᆞ오ᄉᆞ 경상 감ᄉᆞ의긔 말ᄉᆞᆷᄒᆞ여</sent>
+<sent type="main" n="09">겨신잇가 수이 좀 ᄒᆞ여 주옵소셔</sent>
+</letter>
+
+<letter n="29" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 침슈 졔졀 만안ᄒᆞ오신닛가</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="06">츅슈츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘츅슈츅슈’의 뒤에 오는 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" n="07">쟉일 말ᄉᆞᆷᄒᆞ온 과거은 ᄒᆞ나토 범연티 안ᄉᆞ와</sent>
+<sent type="main" n="08">낙ᄌᆞ 업셔야 ᄉᆡᆼ광이오니</sent>
+<sent type="main" n="09">ᄒᆞ나 실긔 마시옵 방 나ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="10">ᄲᆞ지면 당초의 긔별도 아니신 줄노 아옵ᄂᆞ이다</sent>
+</letter>
+
+<letter n="30" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞᄋᆞ오신 문안 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 침슈 졔졀 안녕ᄒᆞ오신잇가</sent>
+<sent type="main" n="05">오ᄂᆞᆯ 쳔ᄇᆡᆨ 셰 ᄉᆡᆼ신 되오시니</sent><!--‘오ᄂᆞᆯ’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="06">외쳐셔 든든 츅슈ᄒᆞ와 ᄒᆞ옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="07">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오신이 츅슈ᄒᆞ와 ᄒᆞ옵고</sent>
+<sent type="main" n="08">작일 산디은 아바님 뫼실 산디온닛가</sent>
+<sent type="main" n="09">친히 보시니 합당티 못ᄒᆞ오시다오니 낭ᄑᆡ옵고</sent>
+<sent type="main" n="10">봉셔ᄂᆞᆫ 남은 ᄌᆡ조와 ᄉᆞ연이 그만이오니</sent>
+<sent type="main" n="11">모훈을 현져이이 ᄒᆞ시니</sent>
+<sent type="main" n="12">ᄌᆞ못 수괴ᄒᆞ온 듕 ᄌᆞ당감수오며</sent><!--‘ᄌᆞ당감수오며’의 ‘수’ 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="13">인ᄉᆞ은 노둔ᄒᆞ온ᄃᆡ 부졀업ᄉᆞᆫ ᄒᆡ만 가오니</sent>
+<sent type="main" n="14">븟그리오믈 층냥업ᄉᆞ옵ᄂᆞ이다</sent>
+<sent type="main" n="15">튱경이 무탈ᄒᆞ온닛가</sent>
+</letter>
+
+<letter n="31" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고 긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="02">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">쟉일은 의외 밧 ᄉᆡᆼ각디 못ᄒᆞ와ᄉᆞᆸ더니</sent>
+<sent type="main" n="04">마ᄎᆞᆷ 겨오ᄉᆞ 만나 뵈오니 반갑ᄉᆞᆸ고</sent>
+<sent type="main" n="05">든든 엇더타 이로 형언키 어렵ᄉᆞ오나 말ᄉᆞᆷ도 못옵고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">츈몽ᄀᆞᆺ티 뵈오니 봉셔로 ᄒᆞᄂᆞᆫ 것과ᄂᆞᆫ 팔결이와 너모 반갑ᄉᆞ오나</sent>
+<sent type="main" n="07">송셕원을 보오니 셕ᄉᆞᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ오니</sent>
+<sent type="main" n="08">감회ᄒᆞ옵기 비ᄒᆞᆯ 바을 모루오며</sent>
+<sent type="main" n="09">초목과 ᄇᆡᆨᄉᆞ의 구ᄒᆞᄃᆡ 도라가신 쳬용 못 뵈옵고</sent>
+<sent type="main" n="10">아ᄅᆞᆷ 안 겨오시고 황연이 빈집이니</sent>
+<sent type="main" n="11">ᄉᆡᆼ각ᄉᆞ록 감회ᄒᆞ옵고 반갑ᄉᆞ온 듕 덧업시 훌쳐 드러오오니</sent>
+<sent type="main" n="12">우금 눈의 션ᄒᆞ오이다</sent>
+<sent type="main" n="13">이졔 어나 ᄯᆡ나 뵈올지 이제 쥬년이 나마사오니</sent>
+<sent type="main" n="14">그ᄉᆞ이 인ᄉᆡᄅᆞᆯ 모로ᄀᆡᄉᆞ오이다</sent><!--모로ᄀᆡᄉᆞ오이다‘의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="15">어마님과 튱경 못 보고 오니 셥셥 졀통졀통ᄒᆞ오이다</sent><!--‘셥셥’의 뒤에 오는 ‘셥’은 재점으로 표기되어 있음--><!--‘졀통졀통’의 뒤에 오는 ‘졀통’은 재점으로 표기되어 있음-->
+<sent type="main" n="16">잠간이나 뵈니 도라가신 아바님 뵈니</sent>
+<sent type="main" n="17">나답지 안ᄉᆞ오이다</sent>
+<sent type="main" n="18">여긔셔ᄂᆞᆫ 동가 환궁 태평이 ᄒᆞ오시고 침수 안녕ᄒᆞ오시외다</sent>
+<sent type="main" n="19">의막만 보고 집은 볼고마ᄂᆞᆫ</sent>
+<sent type="main" n="20">오라바님 못 뵈옵ᄂᆞᆫ가 ᄒᆞ와드니 쳔만의 뵈오니</sent>
+<sent type="main" n="21">이로 형언키 어렵ᄉᆞ오이다</sent>
+<sent type="main" n="22">당쥬지 좀 주옵소셔</sent>
+</letter>
+
+<letter n="32" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="05">역젹 원슈 놈은 ᄒᆞ나라도 잡ᄉᆞ와</sent>
+<sent type="main" n="06">우흐로 분ᄒᆞ오심과 아ᄅᆡ로 우리 원슈ᄅᆞᆯ 일분이라로도 갑ᄉᆞ올 터이오나</sent><!--‘우흐로’의 ‘흐’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="07">ᄉᆞ흉을 마자 잡ᄉᆞᆸ기 ᄇᆞ라옵고</sent><!--‘ᄇᆞ라옵고’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="08">그놈이 지금것 잇던 쥴이 분ᄒᆞ오이다</sent>
+<sent type="main" n="09">듁동 오라바님 정녕이 환국ᄒᆞ오시오니</sent>
+<sent type="main" n="10">미리 든든 층냥업ᄉᆞᆸ고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="11">오ᄂᆞᆯ 젼역 강갑의 납ᄎᆡᄒᆞ오니</sent>
+<sent type="main" n="12">든든ᄒᆞ온 듕 감회ᄒᆞ옵기 비ᄒᆞᆯ ᄃᆡ 업ᄉᆞ오이다</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="33" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고</sent>
+<sent type="main" n="03">든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">어마님 안녕ᄒᆞ오시오닛가</sent>
+<sent type="main" n="05">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="06">강갑의 ᄃᆡᄉᆞᄂᆞᆫ 순셩ᄒᆞ옵고 잘 잣다 ᄒᆞ오시오니</sent>
+<sent type="main" n="07">든든ᄒᆞ온 듕 감회 층냥 비ᄒᆞᆯ ᄃᆡ 업ᄉᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">듁동 오라바님 젹실이 오ᄂᆞᆯ 나오신다오니</sent><!--‘오라바님’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="09">든 반갑ᄉᆞ외다</sent><!--‘든’은 ‘든든’에서 ‘든’이 누락된 것으로 보임-->
+</letter>
+
+<letter n="34" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보옵고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="03">어마님 미령 졔졀노 괴로이 지ᄂᆡ오시ᄂᆞᆫ 일 동동ᄒᆞ오이다</sent><!--‘동동’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="04">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="05">강갑이ᄂᆞᆫ 방방의 드러와 보오니</sent><!--‘방방’의 뒤에 오는 ‘방’은 재점으로 표기되어 있음-->
+<sent type="main" n="06">든든 깃분 즁 ᄉᆡ로이 심회를 지향 업ᄉᆞᆸ고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="07">촉쳐의 아바님 ᄉᆡᆼ각 안 나오릿가</sent><!--‘촉쳐의’의 앞에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="08">그러나 오ᄌᆞᆨ 심녀와 허비ᄒᆞ와 겨시려 일ᄏᆞᆺᄉᆞᆸ고</sent>
+<sent type="main" n="09">어ᄂᆞ덧 자라와 지금을 보오니 신통신통ᄒᆞ오이다</sent><!--‘신통신통’의 뒤에 오는 ‘신통’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">긴히 쓰ᄀᆡᄉᆞ니 젼 이ᄇᆡᆨ 냥만 명일 식젼의 보ᄂᆡ옵소셔</sent>
+</letter>
+
+<letter n="35" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 ᄇᆞᆺ쟈와 보옵고</sent>
+<sent type="main" n="02">긔후 ᄐᆡ평ᄒᆞ오시니 든 츅슈ᄒᆞ오며</sent><!--‘든’은 ‘든든’에서 ‘든’이 누락된 것으로 보임-->
+<sent type="main" n="03">여긔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="04">아바님겨오샤 졔졀 만강ᄒᆞ오시고</sent>
+<sent type="main" n="05">숑셔 권셔 ᄂᆞ려오셔는 보오며</sent>
+<sent type="main" n="06">어마님겨오셔ᄂᆞᆫ 미령 졔졀 동졍이 계시니 츅슈ᄒᆞ옵고</sent>
+<sent type="main" n="07">형님 병 동졍 잇ᄉᆞ오니 다ᄒᆡᆼᄒᆞ오이다</sent>
+<sent type="main" n="08">그ᄉᆞᄉᆞ이 회셔ᄒᆞ오련만</sent>
+<sent type="main" n="09">죠심되여 못 ᄒᆞ와ᄉᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="001" sender="발신자" writer="작성자" receiver="수신자" year="발신 연도">
+<sent type="main" n="01">봉셔 보옵고 든든ᄒᆞ오나</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="02">종시 ᄭᆡ긋지 못ᄒᆞ신 일 답답ᄒᆞ오이다</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">예ᄂᆞᆫ 대소됴 졔졀 만안ᄒᆞ오시니 경츅이오며</sent>
+<sent type="main" n="04">슈진궁 ᄉᆞ난 당ᄒᆞ의 김 샹궁이 녹지의 젹기을</sent>
+<sent type="main" n="05">뉴진ᄒᆞᆫ 최듀항이가 당ᄎᆞᆫᄃᆡ</sent>
+<sent type="main" n="06">변가가 노 ᄎᆞ지을 ᄭᅵ고 졔가 ᄲᆡ셔 가랴 ᄒᆞ니</sent>
+<sent type="main" n="07">뉴 최 이 인을 ᄎᆞ례가 갈 ᄎᆞ례니 가긔 ᄒᆞ라 ᄒᆞ기의</sent>
+<sent type="main" n="08">무지ᄒᆞᆫ 궁임 블너 말ᄒᆞ기</sent>
+<sent type="main" n="09">실키로 ᄎᆞ지의긔 말ᄒᆞ기을</sent><!--‘ᄎᆞ지의긔’의 ‘긔’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="10">뉴가 최가가 갈 ᄎᆞ례인ᄃᆡ 변가가 역니로 가긔다 ᄒᆞᆫ다니</sent>
+<sent type="main" n="11">뉴가 최가 변가 ᄒᆞᆯ 것 읍시 공졍이 ᄒᆞ라 ᄒᆞ엿더니</sent>
+<sent type="main" n="12">ᄎᆞ지 말이 녹지ᄃᆡ로 뉴가 최가가 가긔 ᄒᆞ엿ᄯᅡ ᄒᆞᆫ 거신ᄃᆡ</sent>
+<sent type="main" n="13">언졔는 졔가 가긔ᄯᅡ 녹지의 젹어 쳥ᄒᆞ고 언졔난</sent>
+</letter>
+
+<letter n="36" sender="미상" writer="미상" receiver="민영소" year="1883~1895">
+<sent type="main" n="01">봉셔 밧ᄌᆞ와 보ᄋᆞᆸ고</sent>
+<sent type="main" n="02">긔후 태평ᄒᆞ오신 일 아옵고 든든 츅슈ᄒᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="03">여긔셔ᄂᆞᆫ 냥뎐 문안 안녕ᄒᆞ오시오니</sent>
+<sent type="main" n="04">츅슈ᄒᆞ옵고 다름 아니오라</sent>
+<sent type="main" n="05">ᄉᆞ 오 삭 젼의 본겻 아ᄒᆡ 아지비 각시을 슈ᄇᆡᆨ 니 졍노의 슈로로 잇그러</sent>
+<sent type="main" n="06">동슈문 밧긔 무더ᄉᆞᆸ더니</sent>
+<sent type="main" n="07">ᄉᆡ 쳥딕이 이종덕이가 몃 십 년 버렷던 치표을 졔가 쓸 거시라 ᄒᆞ고</sent>
+<sent type="main" n="08">오라바님긔 엿ᄌᆞ와 무단이 ᄑᆡᄂᆡ라 ᄒᆞ시니</sent>
+<sent type="main" n="09">셜혹 그놈의 몃 십 장 무덤 쓴 ᄃᆡ을 파헷쳐스면</sent>
+<sent type="main" n="10">ᄉᆞ폐경듕을 의논ᄒᆞ시고 민간의 팔닌다 ᄒᆞ시려니와</sent>
+<sent type="main" n="11">치표직이도 업고 그 묘을 쓰노라고 산역을 비려도</sent>
+<sent type="main" n="12">사람 ᄒᆞᆫ 놈 드리미러 보ᄂᆞᆫ 놈 업다가</sent>
+<sent type="main" n="13">이졔 일 년이나 ᄒᆞᆫ 거ᄉᆞᆯ 그놈이 가장 졔 거시라 ᄒᆞ고</sent>
+<sent type="main" n="14">치표ᄒᆞᆫ 지 몃 십 년 된지도 아지 못ᄒᆞᄂᆞᆫ 놈이 이러틋 ᄒᆞ오니</sent>
+<sent type="main" n="15">그런 고이ᄒᆞᆫ 죽일 놈이 어ᄃᆡ 잇ᄉᆞ오며</sent>
+<sent type="main" n="16">나도 일변 다ᄒᆡᆼᄒᆞ온 거시 타 냥반과 달나</sent>
+<sent type="main" n="17">오라바님긔 걸녀ᄉᆞ온즉 잘 보아 일이 조킈 ᄒᆞ실 줄 아옵는ᄃᆡ</sent>
+<sent type="main" n="18">엇지면 오라바님겨오ᄉᆞ 쳥딕이 말을 드르시고</sent>
+<sent type="main" n="19">ᄂᆡ 압ᄒᆡ 슈족갓치 부리는 아ᄒᆡ 일가을 ᄑᆡᄂᆡ라 ᄒᆞ시니</sent>
+<sent type="main" n="20">실상 말이지 십여 년을 지친 ᄒᆞ나 더린 일 업시</sent>
+<sent type="main" n="21">압ᄒᆡ 아ᄒᆡ들노 셰월을 보ᄂᆡ는ᄃᆡ</sent>
+<sent type="main" n="22">쳥딕이ᄂᆞᆫ 누고요 나ᄂᆞᆫ 누구오닛가</sent>
+<sent type="main" n="23">집안의 어른이 아니 겨시고 아바님 아니 겨신 후</sent>
+<sent type="main" n="24">오라바님을 부형 버금으로 밋ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="25">엇져면 오라바님 손의 일을 못 펴고 도로혀 일을 만기시니</sent>
+<sent type="main" n="26">야숙ᄒᆞ여 못 살ᄀᆡᆺᄉᆞᆸᄂᆞ이다</sent>
+<sent type="main" n="27">쳥딕이 놈이 엇더킈 우람ᄒᆞ고 고이ᄒᆞᆫ 놈이기의</sent>
+<sent type="main" n="28">ᄂᆡ 압 사람과 결우러 드니 이는 나을 업시 녁이는 거시이니</sent>
+<sent type="main" n="29">아모리ᄒᆞ기로 오라바님 압 사람이 다 나을 업슈이 녁이ᄂᆞᆫ 일 ᄉᆡᆼ각ᄒᆞ면</sent>
+<sent type="main" n="30">그놈을 육포의 켜도 싀훤치 아니니 ᄲᆞᆯ니 ᄂᆡᄶᅩ치셔야지</sent>
+<sent type="main" n="31">만일 머무시면 나을 그놈만치도 모르시는 일이오니</sent>
+<sent type="main" n="32">이러ᄒᆞ고야 무셰ᄒᆞ여 셰상의 살 슈 업ᄉᆞ오니</sent>
+<sent type="main" n="33">ᄂᆡᄶᅩ치시고 회셔하옵소셔</sent>
+<sent type="main" n="34">산슈ᄂᆞᆫ ᄑᆡᄂᆡ지 못ᄒᆞᆯ 거시 산슈을 ᄑᆡ오면</sent>
+<sent type="main" n="35">ᄂᆡ가 그만 못ᄒᆞᆫ 것도 옵바긔 쳥ᄒᆞ오면 드르실 터의</sent>
+<sent type="main" n="36">이쳐럼 ᄒᆞ옵ᄂᆞᆫᄃᆡ ᄑᆡᄂᆡ시면 옵바 지상 나을 무셰이 녁이시고</sent>
+<sent type="main" n="37">소ᄃᆡᄒᆞ시면 화가 여ᄉᆡᆼ이라 진졍 야슉ᄒᆞ고 셜ᄉᆞ외다</sent>
+<sent type="main" n="38">산수ᄂᆞᆫ ᄑᆡ지 아니나 그리 아옵소셔</sent>
+</letter>
+
+</doc>
+

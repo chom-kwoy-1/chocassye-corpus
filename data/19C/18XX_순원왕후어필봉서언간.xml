@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title lang="kor">순원왕후어필봉서언간</title>
+<title lang="chi">純元王后御筆封書諺簡</title>
+<sender>순원왕후(재종누나)</sender><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<receiver>김홍근(재종동생), 김병덕(재종질)</receiver><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<date>1837-1855</date><!--전반적인 작성 시기.-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>조선시대 한글편지 판독자료집 3(현대에 출판된 역주서 내지 영인본을 저본으로 입력하였거나 참조한 경우 해당 도서명을 기입)</title><!--추가 사항의 주석을 기입하는 자리.-->
+<pubPlace>역락(현대의 책이라면 간행처)</pubPlace>
+<publisher>한국학중앙연구원 어문생활사연구소 편(현대의 책이라면 간행자, 편저자, 역주자)</publisher>
+<date>2013-06-28</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>김준수</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+<!--sender는 '발신자', writer는 '작성자', receiver는 '수신자', year는 '발신 연도', envelop은 '봉투 유형'을 가리키는 속성 정보이다.-->
+<!--'발신자'와 '작성자'는 일반적으로는 동일하나 대필(代筆) 언간의 경우에는 상이하다. 후자의 경우 작성자(즉, 대필자)가 누구인지 분명하면 그것을 밝혀 적고, 분명하지 않으면 '대필자'로만 입력한다. 대필 여부가 의심되나 확실하지 않을 경우에는 writer를 '대필자?'로 입력한다.--> 
+<!--'발신 연도'는 연(年) 단위까지만 입력하되, 정확한 연도를 밝힐 수 없는 편지는 '19세기 중반', '1851~1857년' 등과 같이 그 추정 시기를 입력한다.-->
+<!--봉투가 하나인 '단봉(單封)'은 다시 '별봉(別封, 별도로 만든 것)과  '자봉(自封, 내지가 봉투를 겸한 것)'으로 나뉜다. '별봉'은 envelop1-1로, '자봉'은 envelop2로 입력한다. 단봉을 다시 싼 '중봉(重封)'은 envelop2로 입력한다.-->
+<!--언간 자료의 특성상 개별 편지의 상황 정보는 추후 얼마든지 수정될 수 있다.-->
+
+<letter n="01" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop1-1" n="01">이문ᄂᆡ</sent>
+<sent type="main" n="02">ᄒᆞ엿ᄂᆡ</sent><!--순서상 두번째 언간에서 이어짐-->
+<sent type="main" n="03">이제ᄂᆞᆫ 무고지인이니 당ᄒᆞᆫ 국ᄉᆞ나 잘ᄒᆞ소</sent>
+<sent type="main" n="04">나도 거리길 거시 업셔</sent>
+<sent type="main" n="05">싀훤ᄒᆡ 막막 ᄀᆞᆸᄀᆞᆸ던 거ᄉᆞᆫ 나을 거시니</sent>
+<sent type="main" n="06">집의 드러와 안쳐시니 든든ᄒᆡ</sent><!--‘든든ᄒᆡ’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" n="07">내가 엇디 못되엿ᄂᆞᆫ디 졍신은 즉금 ᄒᆞᆫ 일을 즉지로 닛고</sent><!--‘즉금’은 우측 행간에 기입되어 있음-->
+<sent type="main" n="08">갑오년 후 브즈런이 구던 ᄆᆞᄋᆞᆷ이 삼분지 일도 못 남아시니</sent>
+<sent type="main" n="09">그ᄯᅢ로 즉금 비ᄒᆞ면 십 ᄇᆡ나 더ᄒᆞ여 올흘 일인ᄃᆡ</sent>
+<sent type="main" n="10">이러ᄒᆞ니 스ᄉᆞ로 그런 줄 아ᄃᆡ</sent>
+<sent type="main" n="11">그ᄯᅢ ᄀᆞᆺ디 못ᄒᆞ니 아니 고이ᄒᆞᆫ가</sent>
+<sent type="main" n="12">간ᄐᆡᆨ 단ᄌᆞ가 이십여 댱 드러와시니</sent>
+<sent type="main" n="13">뎨왕가 ᄇᆡ필이 응당 뎡ᄒᆞ니 이시려니와</sent>
+<sent type="main" n="14">시방브터 동동ᄒᆞ기 니를 것 업ᄂᆞᆫ 거시 쳐ᄌᆞᄂᆞᆫ 눈으로 보니 알녀니와</sent><!--‘동동ᄒᆞ기’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="15">ᄉᆞ돈 ᄌᆡ목이 극난ᄒᆞᆫ 거시 문ᄒᆞᆨ이나 잇고</sent>
+<sent type="main" n="16">심지나 튱후ᄒᆞ고 샹감을 잘 도아드릴 ᄌᆡ목이야 ᄒᆞᆯᄃᆡ</sent>
+<sent type="main" n="17">아모리 ᄒᆞ여도 ᄀᆞᆺ초 그 속을 알 길이 업스니</sent><!--‘ᄒᆞ여도’의 ‘도’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="18">이 ᄉᆡᆼ각을 ᄒᆞ면 속이 답답ᄒᆡ</sent><!--‘답답ᄒᆡ’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="19">내 ᄯᅳᆺ이 우리 김시와ᄂᆞᆫ 아니코져 ᄒᆞ미</sent>
+<sent type="main" n="20">두 후와 냥 도위가 분수의 과ᄒᆞᆫ 거시 두려워 슬흔 일이로세</sent><!--‘두려워’의 ‘려’는 우측 행간에 입력되어 있음--><!--‘두려워’에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="21">판셔ᄃᆞ려도 이 말 여러 번 ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="22">언마 셰월이 가 내년 츄동이 되게 ᄒᆞ엿ᄂᆞᆫ고</sent>
+<sent type="main" n="23">내 소견은 이번은 노쇼를 분별티 말고 ᄒᆞ고져 ᄒᆞ니 엇더ᄒᆞᆫ가 이ᄃᆡ 답ᄒᆞ소</sent>
+<sent type="main" n="24">밤이 죠용ᄒᆞ기 봉셔 ᄡᅳ더니 이 말ᄀᆞ디 ᄒᆞᆫᄃᆡ ᄡᅥᆺᄂᆡ 노라고 다 니졋ᄒᆞ며</sent>
+<sent type="main" n="25">쇼라고 사ᄅᆞᆷ마다 노만 못ᄒᆞᆯ가 디난 일노 #ᄎᆔ이ᄒᆞ여도</sent>
+<sent type="main" n="26">쇼가 감ᄉᆞ ᄒᆞ나토 엇더ᄒᆞᆫ 일이 업스니 아니 긔특들 ᄒᆞᆫ가</sent><!--‘감ᄉᆞ’의 ‘감’은 다른 글자 위에 덧쓰여 있음-->
+<sent type="main" n="27">ᄯᅩᆨᄯᅩᆨᄒᆞ니가 만흔가 시브니 그러ᄒᆞᆫ가</sent><!--‘ᄯᅩᆨᄯᅩᆨᄒᆞ니가’의 뒤에 오는 ‘ᄯᅩᆨ’은 재점으로 표기되어 있음-->
+<sent type="main" n="28">이 봉셔 보고 즉시 셰쵸ᄒᆞ소</sent>
+<sent type="main" n="29">나ᄂᆞᆫ 감ᄒᆡ가 오히려 쾌히 낫디 아니니 괴로와 디내ᄂᆡ</sent>
+</letter>
+
+<letter n="02" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop2" n="01">ᄉᆞ</sent>
+<sent type="envelop2" n="02">뎐동 샤랑</sent>
+<sent type="envelop1-1" n="03">판셔 입납</sent>
+<sent type="envelop1-1" n="04">근 봉</sent>
+<sent type="main" n="05">츈일 브됴ᄒᆞᆫᄃᆡ 그ᄉᆞ이 여긔뎌긔 노신ᄒᆞ여 디내여시니</sent>
+<sent type="main" n="06">졔졀이 평안ᄒᆞᆫ가 브리디 못ᄒᆞᄂᆡ 진강ᄀᆞ디 츠니</sent>
+<sent type="main" n="07">내 ᄆᆞᄋᆞᆷ 든든ᄒᆞ기 측냥업ᄉᆞᄃᆡ</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">긔유 이젼 녜일이 되고 변역ᄒᆞ여시니</sent>
+<sent type="main" n="09">감회 그음 업셔실 ᄃᆞᆺ 쳑감ᄒᆞ기 엇디 다 뎍을고</sent>
+<sent type="main" n="10">처음으로 뵈오니 용의ᄂᆞᆫ 엇더ᄒᆞ시며</sent>
+<sent type="main" n="11">강셩은은 ᄯᅩ 엇더ᄒᆞ시고 ᄃᆞᆫᄃᆞᆫᄒᆞ시던가</sent><!--‘ᄃᆞᆫᄃᆞᆫ’의 뒤에 오는 ‘ᄃᆞᆫ’은 재점으로 표기되어 있음-->
+<sent type="main" n="12">드러와시니 진강의 ᄃᆞᆫ니고 강ᄒᆞᆨ 말ᄉᆞᆷ을 ᄌᆞ로 ᄒᆞ소</sent>
+<sent type="main" n="13">아모리 질실ᄒᆞ셔도 츈츄가 아딕 아기ᄂᆡ오</sent>
+<sent type="main" n="14">보고 드른 것 업스니 므어ᄉᆞᆯ ᄇᆡ혼 거시 이실가</sent>
+<sent type="main" n="15">본고 이십ᄀᆞ디 ᄇᆞᆰ고 새면 작난이나 ᄒᆞ고</sent><!--작난이나 ^ ᄒᆞ고(뒷면)-->
+<sent type="main" n="16">져므도록 집안으로 ᄃᆞᆫ녀 ᄒᆡᆼ습이 되엿ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="17">급작져히 긔운을 주리고 글이나 닑으라 ᄒᆞ니</sent>
+<sent type="main" n="18">ᄀᆞᆸᄀᆞᆸ지 아닌 ᄯᅢ도 업디 아닐 거시니</sent>
+<sent type="main" n="19">내 역 일변 아쳐로온 ᄆᆞᄋᆞᆷ이 ᄯᅢᄯᅢ 나니</sent>
+<sent type="main" n="20">어ᄃᆡ 잘 ᄀᆞᄅᆞ치게 ᄒᆞ엿ᄂᆞᆫ가</sent>
+<sent type="main" n="21">이리ᄒᆞ여도 념녀요 져리ᄒᆞ여도 념녀니</sent>
+<sent type="main" n="22">심지가 굿디 못ᄒᆞ여 그런가</sent>
+<sent type="main" n="23">시븨 ᄌᆞᄂᆡ가 문ᄒᆞᆨ이 업셔 강관의 당티 아니타 ᄒᆞ기</sent>
+<sent type="main" n="24">ᄃᆡ답을 강관의 가ᄒᆞ기 ᄒᆞ여실라 ᄒᆞ고</sent>
+<sent type="main" n="25">시버도 ᄯᅩ 므어시라 ᄒᆞᆯ디 몰나 아 ᄒᆞ엿노라 ᄒᆞ시기 우셧ᄂᆡ</sent>
+<sent type="main" n="25">아모 말이라도 됴신이 ᄒᆞ거든 잘 ᄃᆡ답ᄒᆞ던디</sent>
+<sent type="main" n="26">죠금 잘 ᄃᆡ답디 못ᄒᆞ여도 흉보디 아닐 거시니</sent>
+<sent type="main" n="27">소견의 잇ᄂᆞᆫ ᄃᆡ로 ᄒᆞ쇼셔</sent>
+</letter>
+
+<letter n="03" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1846년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">ᄉᆞ 뎐동 샤랑</sent>
+<sent type="main" n="03">일긔 한난이 블일ᄒᆞ니 평안이 디내ᄂᆞᆫ가</sent>
+<sent type="main" n="04">요ᄉᆞ이 소문으로 드ᄅᆞ니</sent>
+<sent type="main" n="05">탈황증으로 괴로이 디낼 분 아니라 블평타 ᄒᆞ니</sent>
+<sent type="main" n="06">엇더ᄒᆞᆫ디 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="07">판셔ᄂᆞᆫ 우연ᄒᆞᆫ 병이 대단타 ᄒᆞ니</sent>
+<sent type="main" n="08">심혼이 산난ᄒᆞ여 아모라타 업시 디내더니</sent>
+<sent type="main" n="09">수일간은 져기 동졍이 잇다 ᄒᆞ니</sent>
+<sent type="main" n="10">만ᄒᆡᆼᄒᆞ나 소셰ᄒᆞ고</sent>
+<sent type="main" n="11">내 눈의 뵈여야 ᄆᆞᄋᆞᆷ을 노케 ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="12">알고 시븐 ᄉᆞ연도 잇고</sent>
+<sent type="main" n="13">그리 긴히 거북ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" n="14">념녀되여 ᄌᆞᆷ 뎍ᄂᆡ</sent>
+<sent type="main" n="15">셰ᄉᆡᆨ 다 그므러시니 흐ᄅᆞᄂᆞᆫ 믈 ᄀᆞᆺᄐᆞ야</sent><!--믈 ^ ᄀᆞᆺᄐᆞ야(뒷면)-->
+<sent type="main" n="16">칩기도 칩고 심ᄉᆞᄂᆞᆫ 쳑연ᄒᆡ</sent>
+<sent type="main" n="17">여러 집 과셰 평안이 ᄒᆞ고</sent>
+<sent type="main" n="18">태평이들 디내소</sent>
+</letter>
+
+<letter n="004" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1846년">
+<sent type="main" n="01">향ᄂᆡ 민달용의 일은 대강 아라시ᄃᆡ</sent>
+<sent type="main" n="02">ᄌᆞ셔히 듯디 못ᄒᆞ여시니</sent>
+<sent type="main" n="03">외됴 믈의가 원통타 ᄒᆞᄂᆞᆫ가</sent>
+<sent type="main" n="04">져리된 거시 가타 ᄒᆞᄂᆞᆫ가</sent>
+<sent type="main" n="05">고가셰신이 아조 망ᄒᆞᆫ 혐이니</sent>
+<sent type="main" n="06">바히 모ᄅᆞᄂᆞᆫ 집이라도 죄ᄂᆞᆫ 엇더ᄒᆞ던디</sent>
+<sent type="main" n="07">참측ᄒᆞᆯᄃᆡ 모모ᄒᆞ여 모ᄅᆞᄂᆞᆫ 터이 아니니</sent><!--‘모모’의 뒤에 오는 ‘모’는 재점으로 표기되어 있음-->
+<sent type="main" n="08">그러티 마더면 시븐 ᄆᆞᄋᆞᆷ이 잇더니</sent>
+<sent type="main" n="09">수쳐의셔 내게 봉셔ᄒᆞ며</sent>
+<sent type="main" n="10">이번 칭경 광탕지뎐을 ᄇᆞ란다 ᄒᆞ고</sent>
+<sent type="main" n="11">텬쳥ᄒᆞ시과져 ᄒᆞᆫ ᄉᆞ연이니</sent>
+<sent type="main" n="12">ᄌᆞᄂᆡ도 짐쟉ᄒᆞ려니와 내 말 셩ᄉᆞ도 될 줄 모ᄅᆞ고</sent><!--‘말’ 뒤에 글자를 썼다 지운 흔적이 있음-->
+<sent type="main" n="13">ᄯᅩᄂᆞᆫ 판셔나 내게 ᄒᆞ여 입 빈 줄 아ᄅᆞ실 거시니</sent>
+<sent type="main" n="14">그 일이 엇더ᄒᆞ며 판셔게 듯디 아니면</sent>
+<sent type="main" n="15">어ᄃᆡ로 드럿다 ᄒᆞ실가</sent>
+<sent type="main" n="16">본고 즉금 말고 셰알 동가런디 능ᄒᆡᆼ이런디 되실 ᄯᅢ</sent>
+<sent type="main" n="17">격ᄌᆡᆼ은 아니코 통곡ᄒᆞ거든</sent>
+<sent type="main" n="18">우흐로셔 므ᄅᆞ시면 원졍을 ᄒᆞ게시니</sent>
+<sent type="main" n="19">므ᄅᆞ시게 ᄒᆞ여 달나 ᄒᆞ고 됴뎡의셔 다 원통이 아라</sent>
+<sent type="main" n="20">원졍곳 ᄂᆞ리면 잘ᄒᆞ여 준다 ᄒᆞ여시니 실노 무죄ᄒᆞᆯ딘대</sent>
+<sent type="main" n="21">심슐이 됴티 못ᄒᆞ데 이제ᄂᆞᆫ 셰도가 달나지고 ᄋᆡᄆᆡᄒᆞ여</sent>
+<sent type="main" n="22">신셜이 되게 ᄒᆞ엿ᄂᆞᆫ가</sent>
+<sent type="main" n="23">이 봉셔와 조각 됴희가 ᄉᆡᆼ각이 궁진ᄒᆞ여</sent><!--‘와’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="24">안흐로 ᄒᆞᆫ 일이로ᄃᆡ</sent>
+<sent type="main" n="25">내 ᄉᆞ견은 ᄆᆞᄎᆞᆷ내 올흔 줄을 모ᄅᆞ기</sent>
+<sent type="main" n="26">판셔ᄃᆞ려도 옴기디 아니코 업시ᄒᆞ엿더니</sent>
+<sent type="main" n="27">즉금은 두 곳의셔 와시니</sent>
+<sent type="main" n="28">판셔ᄃᆞ려 믈졍도 과연 그러ᄒᆞ며</sent><!--‘물졍’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="29">그 일이 엇더ᄒᆞ리 믓고져 ᄒᆞᄃᆡ</sent>
+<sent type="main" n="30">드러오디 못ᄒᆞ니 므ᄅᆞᆯ 길 업셔 이리 뎍으니</sent>
+<sent type="main" n="31">그 일이 엇더ᄒᆞᆫ고 ᄌᆞᄂᆡ만 보고 옴기디 마소</sent>
+<sent type="main" n="32">셩ᄉᆞ도 못ᄒᆞ고 당쟈의게ᄂᆞᆫ ᄆᆞ이 브졀업ᄉᆞᆯ ᄃᆞᆺᄒᆞ니 이 말이로세</sent>
+<sent type="main" n="33">별입시ᄂᆞᆫ 댱 된다 ᄒᆞ니</sent>
+<sent type="main" n="34">극한의 죵일 밤ᄀᆞ디 디낼 ᄯᅢᄂᆞᆫ 실시도 여러 번 ᄒᆞ여실 거시니</sent>
+<sent type="main" n="35">답답ᄒᆞ고 공ᄉᆞ의 일분 나은 것도 업ᄉᆞ니</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="36">민망ᄒᆞ나 ᄒᆞᆯ 수 업ᄉᆞ니 엇디ᄒᆞᆯ가</sent>
+<sent type="main" n="37">본고 죵년ᄐᆞ록 소문 여간 드르나 듯고 보디 못ᄒᆞ던 일이 만코</sent>
+<sent type="main" n="38">ᄯᅩ 답답 민망ᄒᆞᆫ 말이야 ᄡᅥ 므엇ᄒᆞᆯ고</sent><!--‘ᄯᅩ’는 우측 행간에 기입되어 있음--><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="39">인심은 극악ᄒᆞ고 원망은 ᄡᅡ혀시니</sent>
+<sent type="main" n="40">엇디ᄒᆞᆯ디 긔긔괴괴ᄒᆞᆫ 소셜은 ᄭᅳᆫ히일 적이 업ᄉᆞ니</sent><!--‘긔긔괴괴’의 뒤에 오는 ‘긔’와 ‘괴’는 재점으로 표기되어 있음-->
+<sent type="main" n="41">심히 고이ᄒᆞ니 내 터ᄂᆞᆫ 시방 이 도라가ᄂᆞᆫ 거시 맛당맛당 됴흐나</sent><!--‘맛당맛당’의 뒤에 오는 ‘맛당’은 재점으로 표기되어 있음-->
+<sent type="main" n="42">임의로 ᄒᆞ디 못ᄒᆞ고 졀통ᄒᆡ 총위영으로 ᄇᆡᆨ셩이 더 살 길 업다 ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" n="43">대장은 다 드ᄅᆞᆯᄃᆡ 엇디ᄒᆞ여 ᄇᆞ려</sent>
+<sent type="main" n="44">두 녕부ᄉᆞᄂᆞᆫ 병이 고헐무샹타 ᄒᆞ니</sent><!--두 ^ 녕부ᄉᆞᄂᆞᆫ(뒷면)-->
+<sent type="main" n="45">우국지증인가 실권지병인가 엇더ᄒᆞ던디</sent>
+<sent type="main" n="46">이 사ᄅᆞᆷ은 샹감 셩덕이 해ᄂᆞᆫ 업ᄉᆞᆯ 줄노 알고</sent>
+<sent type="main" n="47">풍은 도라간 후이나 어릿스러운 ᄆᆞᄋᆞᆷ으로 더 살고져 ᄆᆞᄋᆞᆷ이 업디 아니터니</sent>
+<sent type="main" n="48">이러타 져러타 ᄒᆞ니 유병 후 보아실 거시니</sent>
+<sent type="main" n="49">증형이 엇더ᄒᆞ던가 유ᄉᆞ지심 무ᄉᆡᆼ지긔ᄒᆞ다 ᄒᆞ데</sent>
+</letter>
+
+<letter n="05" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병덕(재종질)" year="1849년">
+<sent type="envelop2" n="01">대교 즉뎐</sent>
+<sent type="envelop1-1" n="02">대교 즉뎐</sent>
+<sent type="envelop1-1" n="03">봉</sent>
+<sent type="main" n="04">네 어룬은 원노 한뎡의 평안이 회환 샹봉ᄒᆞ니</sent>
+<sent type="main" n="05">환텬희지ᄒᆞᆯ 거시니 싀훤 깃브기 측냥업다</sent>
+<sent type="main" n="06">이제야 네 아바지 ᄃᆞ리고 과셰 평안평안이 ᄒᆞ여라</sent><!--‘평안평안’의 뒤에 오는 ‘평안’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="06" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1853년">
+<sent type="envelop2" n="01">삼계동 대신</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="03">봉</sent>
+<sent type="main" n="04">금년 더위ᄂᆞᆫ 소무젼고ᄒᆞᆫ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="05">뉵십여 일 엇디 디내엿ᄂᆞᆫ디</sent>
+<sent type="main" n="06">일ᄏᆞ라 디내ᄂᆡ 여ᄅᆞᆷ 디낸 셔독이 채 ᄀᆞᄉᆡ도 못ᄒᆞ여</sent>
+<sent type="main" n="07">녕변 등뎡ᄒᆞ여시니 내내 평안이 득달ᄒᆞᆫ가</sent>
+<sent type="main" n="08">념 브리디 못ᄒᆞᄋᆞᆸ 녕변은 회갑이 되니</sent>
+<sent type="main" n="09">근항이 처음이니 흔귀 경ᄒᆡᆼᄒᆞ고</sent>
+<sent type="main" n="10">녕변으로 비릇ᄒᆞ여 다 희년을 디낼 거시니</sent>
+<sent type="main" n="11">든든 경희ᄒᆞ오이다</sent>
+<sent type="main" n="12">모히여 이락ᄒᆞ신 듕 일변 감구지회 새로오랴 일ᄏᆞᆺᄉᆞ오며</sent>
+<sent type="main" n="13">그ᄉᆞ이 녕변 공무의 번극이 업셔 안한ᄒᆞ고</sent>
+<sent type="main" n="14">년ᄉᆞ의도 걱졍이나 업ᄂᆞᆫ가 브리디 못ᄒᆞ며</sent>
+<sent type="main" n="15">더위 하 몹시 디내여 졍신이 모손ᄒᆞᆫ디</sent>
+<sent type="main" n="16">ᄉᆞ연 ᄎᆞ셔 업스니 짐쟉 보시ᄋᆞᆸ</sent>
+<sent type="main" n="17">가실 제도 편지 못ᄒᆞ엿기 ᄌᆞᆷ 뎍ᄉᆞᆸᄂᆞ이다</sent>
+</letter>
+
+<letter n="07" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1849년">
+<sent type="envelop2" n="01">뎐동</sent>
+<sent type="envelop1-1" n="02">판셔</sent>
+<sent type="main" n="03">운수를 므ᄅᆞ와 회환고토ᄒᆞ여</sent>
+<sent type="main" n="04">동긔 ᄌᆞ딜이 관낙ᄒᆞ여 디내니 이왕ᄉᆞᄂᆞᆫ 일댱츈몽이오</sent><!--‘디내니’의 ‘니’를 ‘이’로 고친 흔적이 있음-->
+<sent type="main" n="05">일가의 새로이 환흡ᄒᆞ미 측냥티 못ᄒᆞ니</sent>
+<sent type="main" n="06">감격ᄒᆞ미 엇더타 ᄒᆞᆯ 길 업ᄂᆡ</sent>
+<sent type="main" n="07">동란이 여츈ᄒᆞ더니 근일 졸연ᄒᆞᆫ 풍한이 극심ᄒᆞ여시니</sent>
+<sent type="main" n="08">무ᄉᆞ이 온 줄은 대강 아라시ᄃᆡ</sent>
+<sent type="main" n="09">원노 빙뎡의 엇디 오고 수일 쉬니</sent>
+<sent type="main" n="10">노독이나 아니 나고 평온ᄒᆞᆫ디 향념 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="11">이제ᄂᆞᆫ 걸닌 거시 트이고 아모 걱졍도 업ᄂᆞᆫ ᄃᆞᆺ</sent>
+<sent type="main" n="12">싀훤싀훤 깃븨 ᄌᆞᄂᆡ가 공명이 낫븐 것 업시</sent><!--‘싀훤싀훤’의 뒤에 오는 ‘싀훤’은 재점으로 표기되어 있음-->
+<sent type="main" n="13">다 ᄒᆞ여 보아시니 이제야 신션의 쳥복을 누리면 됴흐리</sent>
+<sent type="main" n="14">나믄 길은 혜아려 ᄒᆞ소 깃블 분이오</sent>
+<sent type="main" n="15">다ᄅᆞᆫ 말 업스니 환셰만길이 ᄒᆞ기 밋ᄂᆡ</sent>
+</letter>
+
+<letter n="08" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1855년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ 입납</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">ᄀᆡ츈 후 한온이 블일ᄒᆞ오니 긔력이 엇더ᄒᆞ신디</sent>
+<sent type="main" n="05">근일 휴손ᄒᆞ심도 겨실 ᄃᆞᆺ 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" n="06">삼위 쳔봉은 ᄒᆡ포 운운ᄒᆞᄂᆞᆫ 말이 잇ᄉᆞ오ᄃᆡ</sent><!--‘운운’의 뒤에 오는 ‘운’은 재점으로 표기되어 있음-->
+<sent type="main" n="07">막듕ᄎᆞ대ᄒᆞ오신 대ᄉᆞ오니 ᄒᆞᆫ 부인으로 결단ᄒᆞᆯ 이 아니니</sent>
+<sent type="main" n="08">은우 은통이 되여 디내더니</sent>
+<sent type="main" n="09">디난 일 다 ᄉᆡᆼ각ᄒᆞ면 놀납고 두려워</sent>
+<sent type="main" n="10">아모려도 ᄎᆞᆷ을 길 업셔 샹감긔 말ᄉᆞᆷᄒᆞ고</sent><!--‘긔’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="11">내 나히 졈졈 만하 가니</sent><!--‘가니’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="12">세 분을 평안ᄒᆞᆫ 길디를 어더 뫼시ᄂᆞᆫ 거ᄉᆞᆯ 보고</sent>
+<sent type="main" n="13">죽어야 ᄆᆞᄋᆞᆷ을 노켓노라 ᄒᆞ니</sent>
+<sent type="main" n="14">당신긔셔도 ᄉᆞ져의 겨실 제브터 흠쳐 겨시다 ᄒᆞ기</sent>
+<sent type="main" n="15">당신 ᄆᆞᄋᆞᆷ 우원이 ᄆᆞᄋᆞᆷ이 겨셔로라 ᄒᆞ시기 인ᄒᆞ여 결단ᄒᆞᆫ 일이로ᄃᆡ</sent>
+<sent type="main" n="16">그 이후로 일심이 동동 황숑ᄒᆞ기 ᄌᆞᆷ든 외의ᄂᆞᆫ 이 일분이시니</sent><!--뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="17">무샹 대길지디ᄅᆞᆯ 엇ᄌᆞ와 톄ᄇᆡᆨ이 안온ᄒᆞ시고</sent>
+<sent type="main" n="18">ᄌᆞ손이 면원ᄒᆞ며 억만년 태평 영댱ᄒᆞ신 ᄃᆡ를 엇ᄌᆞᆸ기 츅텬ᄒᆞᄋᆞᆸᄂᆞ이다</sent><!--영댱ᄒᆞ신 ^ ᄃᆡ를(앞면 상단)-->
+<sent type="main" n="19">아모 ᄯᅢ니 능디 뎡ᄒᆞᆯ 제 뉘 됴코져 ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ이 업스며</sent><!--업^스며(뒷면)-->
+<sent type="main" n="20">디ᄉᆞ들이라도 다 그러ᄒᆞ여ᄉᆞ오련마ᄂᆞᆫ</sent>
+<sent type="main" n="21">ᄆᆡ양 뫼신 후 그 뒤 오라디 아녀 이러타 져러타 ᄒᆞ오니</sent>
+<sent type="main" n="22">그도 인녁으로 못ᄒᆞ고 운수요 하ᄂᆞᆯ이니</sent><!--‘ᄒᆞ고’는 우측행에 기입되어 있음-->
+<sent type="main" n="23">누고를 탓ᄒᆞ며 누고ᄅᆞᆯ 원ᄒᆞᆯ가 보오니잇가</sent>
+<sent type="main" n="24">그져 셜울 분이오니</sent>
+<sent type="main" n="25">이번은 아모죠록 길샹지디를 졈복ᄒᆞ기를 츅텬 츅슈ᄒᆞ니</sent>
+<sent type="main" n="26">졔대신브터 일심으로 졍셩을 다ᄒᆞ여 ᄒᆞ시게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="27">후릉 희릉이 ᄆᆞ이 됴흐시다 ᄒᆞ고</sent>
+<sent type="main" n="28">챵능 국ᄂᆡᄂᆞᆫ 셋재 간다 디ᄉᆞ의 말도 드러ᄉᆞ오며</sent><!--‘챵능’의 뒤에는 썼다가 지운 흔적이 있음--><!--‘ᄂᆞᆫ’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="29">동팔능 봉표 터 듕 달마동이 ᄆᆞ이 됴타 ᄒᆞ고</sent>
+<sent type="main" n="30">다 니ᄅᆞᆫ다 말ᄉᆞᆷ이 ᄒᆡ포 잇ᄉᆞᆸ더이다</sent>
+<sent type="main" n="31">유릉골이라 ᄒᆞᄂᆞᆫ ᄃᆡᄂᆞᆫ 엇디ᄒᆞ여 그리 지명ᄒᆞ엿다 ᄒᆞᄋᆞᆸ더니잇가</sent>
+<sent type="main" n="32">왕대비뎐긔셔ᄂᆞᆫ 동팔능 국ᄂᆡ를 ᄇᆞ라시니</sent>
+<sent type="main" n="33">됴흔 ᄃᆡ곳 겨시면 ᄌᆞᆨ히 다ᄒᆡᆼᄒᆞ오리잇가</sent>
+<sent type="main" n="34">ᄉᆞ연 ᄀᆞ득ᄒᆞ나 다 못 뎍고 내 졍신이 샹년 여름만도 못ᄒᆞ더니</sent>
+<sent type="main" n="35">겨을 봄은 너모 고약히 되여 보쟐 거시 업스니 고이ᄒᆞ오이다</sent><!--고이ᄒᆞ오이다 ^ 샹의ᄂᆞᆫ(앞면 우측)-->
+<sent type="main" n="36">샹의ᄂᆞᆫ 달마동의 만히 겨시오니이다</sent>
+<sent type="main" n="37">ᄌᆞ손 손셰를 탹실이 보아 ᄒᆞᄋᆞᆸᄂᆞᆫ 거시 올ᄉᆞ오니이다</sent>
+<sent type="main" n="38">영묘 경모궁 혈손이 샹감이니 셩ᄌᆞ신손으로 니어 가시기를 츅텬ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="39">디ᄉᆞ들이 변변티 못ᄒᆞ다 ᄒᆞ니 뎨일 민망ᄒᆞ오이다</sent><!--‘변변’의 뒤에 오는 ‘변’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="09" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1855년">
+<sent type="main" n="01">안악의 상변 쳔만 의려 밧기니</sent>
+<sent type="main" n="02">오ᄌᆞᆨ 참셕비졀ᄒᆞ시랴 ᄒᆞᆯ 말이 업ᄉᆞᆸ고</sent>
+<sent type="main" n="03">경악ᄒᆞ고 위인이 앗갑고 블샹ᄒᆞ니</sent>
+<sent type="main" n="04">어인 일인디 지금 거즛말 ᄀᆞᆺᄐᆞ여 고이ᄒᆞ오이다</sent>
+<sent type="main" n="05">상ᄒᆡ 병 잇다 말은 듯디 못ᄒᆞ고 마시ᄂᆞᆫ 거시 과ᄒᆞ다 ᄒᆞᄃᆡ</sent>
+<sent type="main" n="06">뎌 지경이 될 줄은 몰나ᄉᆞᆸ더니이다</sent>
+<sent type="main" n="07">밥은 변변 먹디 아니코 그리 디내여시니</sent><!--‘변변’의 뒤에 오는 ‘변’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">스ᄉᆞ로 알며 져즌 일이니 졀통 애ᄃᆞᆲᄉᆞ오이다</sent>
+<sent type="main" n="09">ᄃᆞ리고 간 ᄎᆡᆨᄀᆡᆨ 져믄 손이라 ᄒᆞ니</sent>
+<sent type="main" n="10">큰일을 당ᄒᆞ여 초죵을 엇디ᄒᆞ여 엇디 디내며</sent>
+<sent type="main" n="11">형님 경샹 ᄎᆞᆷ아 ᄉᆡᆼ각디 못ᄒᆞ게ᄉᆞᆸᄂᆞ이다</sent><!--‘ᄎᆞᆷ아’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="12">딕각도 엇디 갓ᄂᆞᆫ디 블샹 닛디 못ᄒᆞ게ᄉᆞᆸ 응당 올나오며</sent>
+<sent type="main" n="13">바로 묘하로 가게시니 짐쟉의 하월 어ᄂᆞ 날이나 오게ᄉᆞᆸᄂᆞ니잇가</sent>
+<sent type="main" n="14">길ᄒᆡ셔 흉보ᄅᆞᆯ 드르시고 경참 비통ᄒᆞ여 겨실 거시오니</sent>
+<sent type="main" n="15">긔력도 손샹ᄒᆞ여 겨실 거시니 념녀 노히디 못ᄒᆞ오며</sent>
+<sent type="main" n="16">다ᄒᆡᆼ이 유치의 아ᄃᆞᆯ이 잇ᄂᆞᆫ 줄이 긔라도 만ᄒᆡᆼᄒᆞᄋᆞᆸ더이다</sent>
+</letter>
+
+<letter n="10" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병덕(재종질)" year="1849년">
+<sent type="envelop2" n="01">ᄃᆡ교</sent>
+<sent type="envelop1-1" n="02">ᄃᆡ교 즉뎐</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">네 부공은 은샤를 므ᄅᆞ와 오게 되니</sent>
+<sent type="main" n="05">즐겁기 비ᄒᆞᆯ ᄃᆡ 업슬 거시니</sent>
+<sent type="main" n="06">만ᄒᆡᆼᄒᆞ기 셔ᄉᆞ로 다 뎍으리</sent>
+<sent type="main" n="07">셩은 여텬ᄒᆞ시니 너ᄒᆡ들이 다 챡ᄒᆞ여</sent>
+<sent type="main" n="08">이 은덕을 보답ᄒᆞ여라</sent>
+<sent type="main" n="09">뎌ᄯᅢ 드ᄅᆞ니 토질노 ᄆᆞ이 셩티 아니케 디낸다 ᄒᆞ더니</sent>
+<sent type="main" n="10">그ᄉᆞ이 긔별 드ᄅᆞᆫ가 ᄒᆞᆫ다</sent>
+<sent type="main" n="11">오기 목젼의 잇고 일긔 봄날 ᄀᆞᆺᄐᆞ야</sent>
+<sent type="main" n="12">심ᄒᆞᆫ 치위 아니니 더옥 다ᄒᆡᆼ 깃브다</sent>
+<sent type="main" n="13">치하로 수항 뎍ᄂᆞᆫ다</sent>
+<sent type="main" n="14">너도 무ᄉᆞ이 디내ᄂᆞᆫ가 시브니 다ᄒᆡᆼᄒᆞ다</sent>
+</letter>
+
+<letter n="11" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1842~1850년">
+<sent type="envelop2" n="01">ᄉᆞ동 판셔</sent>
+<sent type="envelop1-1" n="02">판셔</sent>
+<sent type="envelop1-1" n="03">봉</sent>
+<sent type="main" n="04">일긔 극열ᄒᆞ니 이 동안은 엇디 디내ᄂᆞᆫ디</sent>
+<sent type="main" n="05">평안타ᄂᆞᆫ ᄒᆞᄃᆡ ᄆᆡ양 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="06">나ᄂᆞᆫ 근ᄂᆡ ᄌᆞ로 현긔 와 눕고만 시브니 괴로와ᄒᆞᄂᆡ</sent>
+<sent type="main" n="07">판셔긔 ᄒᆞᆫ ᄉᆞ연은 보고 낸들 그 일이 의외오</sent>
+<sent type="main" n="08">어쳑업ᄉᆞᆫ 줄 모ᄅᆞ디 아니나</sent>
+<sent type="main" n="09">이 ᄭᅳᆺ치 나시니 엇디ᄒᆞᄂᆞᆫ고</sent>
+<sent type="main" n="10">보고 ᄉᆞᄂᆞᆫ 브지어텬ᄒᆞ고</sent>
+<sent type="main" n="11">공은 아모 ᄯᅢ 가셔라도</sent>
+<sent type="main" n="12">사ᄅᆞᆷ의 셩이이면 엄쳑ᄒᆞ리 이실 거시니</sent><!--‘의 셩이’는 오른쪽 행간에 기입되어 있음-->
+<sent type="main" n="13">내 ᄆᆞᄋᆞᆷ은 조일 것도 업고 겁낼 것도 업ᄂᆡ</sent>
+<sent type="main" n="14">그러ᄒᆞᄃᆡ 엇더ᄒᆞ여 가 겨시니</sent>
+<sent type="main" n="15">아딕은 일이 급히 업ᄉᆞᆯ ᄃᆞᆺᄒᆡ</sent>
+<sent type="main" n="16">긔튝 년간 샹소와 그ᄯᅢ 말도 다 드러시ᄃᆡ</sent>
+<sent type="main" n="17">과연 그ᄯᅢᄂᆞᆫ 밋ᄂᆞᆫ 바 듕ᄒᆞ니 그리 유심ᄒᆞ디</sent>
+<sent type="main" n="18">아녀 그러ᄒᆞᆫ디 녁녁ᄒᆞᆫ ᄉᆡᆼ각이 업ᄉᆞ니</sent><!--‘녁녁’의 뒤에 오는 ‘녁’은 재점으로 표기되어 있음-->
+<sent type="main" n="19">졍신이 고이ᄒᆡ 집의 오라바님 아니 겨시고</sent>
+<sent type="main" n="20">대신 오라바님 아니 겨시니 이제야 ᄆᆞᄋᆞᆷ 펴고</sent>
+<sent type="main" n="21">나ᄂᆞᆫ ᄒᆞᆫ 늙은 형셰 업ᄂᆞᆫ 홀어미니</sent>
+<sent type="main" n="22">내 이리ᄒᆞᆫ들 뉘 므어시라 ᄒᆞ리 ᄒᆞ여</sent>
+<sent type="main" n="23">이리ᄒᆞ니 졀분ᄒᆞ기 측냥업ᄂᆡ</sent><!--측냥업ᄂᆡ ^ 만일(뒷면)-->
+<sent type="main" n="24">만일 슈작이 다시 잇거든 다시 말ᄒᆞ려 ᄒᆞᄂᆡ</sent>
+<sent type="main" n="25">회셔 말고 이런 휴지ᄂᆞᆫ 즉시 쇼화ᄒᆞ소</sent>
+</letter>
+
+<letter n="12" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1849년">
+<sent type="envelop2" n="01">판부ᄉᆞ</sent>
+<sent type="envelop1-1" n="02">판셔 ᄀᆡ탁</sent>
+<sent type="main" n="03">황궁이 브조ᄒᆞ여 대ᄒᆡᆼ왕이 신민을 ᄇᆞ리시니</sent>
+<sent type="main" n="04">이러ᄒᆞᆫ 화변은 왕텹의 소무ᄒᆞ니</sent>
+<sent type="main" n="05">망극 원통ᄒᆞᆷ과 그ᄯᅢ 경ᄉᆡᆨ이야 엇디 다 형언ᄒᆞ며</sent>
+<sent type="main" n="06">수계 뎌ᄉᆞ라도 두어 겨시면</sent>
+<sent type="main" n="07">이리 지원 극통이 덜ᄒᆞ여 겨실 거시니</sent>
+<sent type="main" n="08">날이 갈ᄉᆞ록 심신이 뎡티 못ᄒᆞ며</sent>
+<sent type="main" n="09">우리 슌묘 익묘 혈ᄆᆡᆨ이 ᄭᅳᆺ텨 겨시니</sent>
+<sent type="main" n="10">션대왕 지ᄌᆞ지인ᄒᆞ신 셩덕으로 뎌 챵텬이 ᄎᆞᆷ아</sent>
+<sent type="main" n="11">엇디 이러ᄐᆞᆺ 텬니 이실고 도모지 내 죄역 심듕ᄒᆞ여</sent>
+<sent type="main" n="12">이 고이ᄒᆞᆫ 날만 살니시고</sent>
+<sent type="main" n="13">ᄎᆞᆷ아ᄎᆞᆷ아 당티 못ᄒᆞᆯ 화고로ᄡᅥ ᄂᆞ리시니</sent><!--‘참아참아’의 뒤에 오는 ‘참아’는 재점으로 표기되어 있음-->
+<sent type="main" n="14">내가 엇디ᄒᆞ여 샹년의 죽디 못ᄒᆞ여ᄂᆞᆫ고</sent>
+<sent type="main" n="15">목셕 ᄀᆞᆺ튼 명을 ᄭᅳᆫ티 못ᄒᆞ고 명이 븟터시니</sent><!--‘명이’의 ‘명’은 다른 글자 위에 덧씀-->
+<sent type="main" n="16">종샤 부탁이 업스니 갓가운 혈ᄆᆡᆨ으로나 승통코져</sent>
+<sent type="main" n="17">신왕을 대통을 니으니 셜움 궁텬ᄒᆞ나</sent>
+<sent type="main" n="18">신민의 님ᄌᆞ가 이시니</sent>
+<sent type="main" n="19">일변은 경ᄒᆡᆼᄒᆞ고 텬셩이 슌실ᄒᆞ시고 극진이 어지러 뵈니</sent>
+<sent type="main" n="20">훈도곳 잘ᄒᆞ여시면 현군이 될 ᄃᆞᆺᄒᆞᄃᆡ</sent>
+<sent type="main" n="21">내가 무식 혼용ᄒᆞ니 셩ᄎᆔᄒᆞ기 어렵고</sent><!--‘여렵고’의 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="22">터이 즉금 집안 부ᄌᆞ분인ᄃᆡ</sent><!--부ᄌᆞ분^인ᄃᆡ(상단)-->
+<sent type="main" n="23">인긔가 그러ᄒᆞ려니 밋ᄂᆞᆫ ᄃᆞᆺ 마ᄂᆞᆫ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="24">듀야 심간의 열화가 오ᄅᆞ니 엇디ᄒᆞᆫ다 말인고</sent><!--오ᄅᆞ니 ^ 엇디ᄒᆞᆫ다(우단)-->
+<sent type="main" n="25">글도 ᄇᆡ혼 거시 업스니</sent>
+<sent type="main" n="26">ᄒᆞᆨ문이 이셔야 티졍이 나ᄂᆞᆫ 거시니</sent>
+<sent type="main" n="27">뉘가 ᄀᆞᄅᆞ치ᄂᆞᆫ고</sent>
+<sent type="main" n="28">화가여ᄉᆡᆼ으로 디내기ᄅᆞᆯ 보고 드ᄅᆞᆫ거시 업스니</sent>
+<sent type="main" n="29">ᄎᆡᆨ망ᄒᆞᆯ 길도 업고 속만 각ᄉᆡᆨ ᄉᆡᆼ각이 ᄭᅳᆯ흐니</sent>
+<sent type="main" n="30">내 근력은 공연이 진탈ᄒᆞ여 견ᄃᆡᆯ 길이 업스니</sent>
+<sent type="main" n="31">이러ᄒᆞᆫ 고이ᄒᆞᆫ 팔ᄌᆞ가 고금 텬하의 업ᄂᆞᆫ ᄃᆞᆺᄒᆡ</sent>
+<sent type="main" n="32">대ᄒᆡᆼ왕 텬ᄌᆞ가 총명 영예ᄒᆞ시고</sent>
+<sent type="main" n="33">ᄌᆞ인ᄒᆞ신 앗가온 품셩이 지원지원 망극망극 무ᄋᆡᄒᆞᆯ 분이로세</sent><!--‘지원지원’의 뒤에 오는 ‘지원’은 재점으로 표기되어 있음-->
+<sent type="main" n="34">갑오 화변은 지금 ᄉᆡᆼ각ᄒᆞ면 그ᄯᅢ 엇디ᄒᆞ여 셜워ᄒᆞ엿던고</sent><!--지^금(뒷면)-->
+<sent type="main" n="35">시븨 오라바님긔셔야 뉘가 업수이 보니가 이실가 본고</sent>
+<sent type="main" n="36">그러ᄒᆞ니 밋ᄂᆞᆫ ᄃᆡ가 잇더니</sent>
+<sent type="main" n="37">지금 당ᄒᆞ여ᄂᆞᆫ 누ᄅᆞᆯ 힘이 업스니</sent>
+<sent type="main" n="38">됴뎡 일이 므ᄉᆞᆫ ᄭᅩᆯ이 될디 모ᄅᆞ게 ᄒᆞ여시니</sent>
+<sent type="main" n="39">내가 업고져만 시븨 어즐 이만 긋티니</sent>
+<sent type="main" n="40">짐쟉 보소 휴지 쇼화ᄒᆞ소</sent>
+</letter>
+
+<letter n="13" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop2" n="01">판셔 ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="02">판셔 봉장</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">일긔 증습ᄒᆞ니 엇디 디내ᄂᆞᆫ디</sent>
+<sent type="main" n="05">일ᄏᆞᆺ더니 셔감을 대통ᄒᆞᆫ가 시브니 괴롭게 ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="06">일긔로 그러ᄒᆞᆫ디 잡병들이 만타 ᄒᆞ니</sent>
+<sent type="main" n="07">두루 방심티 못ᄒᆞ이ᄂᆡ</sent>
+<sent type="main" n="08">예ᄂᆞᆫ 셰월이 믈 ᄀᆞᆺᄐᆞ야 효뎡뎐 연ᄉᆞ가 디나시니</sent>
+<sent type="main" n="09">확연지통이 무ᄋᆡᄒᆞ니 오래 사랏다가</sent>
+<sent type="main" n="10">갓갓 경녁이 지졍의 ᄎᆞᆷ디 못ᄒᆞᆯ 일이니</sent><!--‘갓갓’의 뒤에 오는 ‘갓’은 재점으로 표기되어 있음-->
+<sent type="main" n="11">이 몸이 셰샹의 ᄉᆡᆼᄒᆞᆫ 줄이 쳔만 번 ᄒᆞᆫ이로세</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 큰 병은 업스나 극열 당ᄒᆞ여 곤곤ᄒᆞ기ᄂᆞᆫ 측냥업ᄂᆡ</sent><!--업^스나(상단)-->
+<sent type="main" n="13">입시의셔 보니 반갑기 측냥업스나</sent><!--‘반갑기’에는 썼다가 지운 흔적이 있음--><!--입시^의셔(우단)-->
+<sent type="main" n="14">ᄒᆞᆫᄆᆞᄃᆡ 말을 못 ᄒᆞ니 섭섭ᄒᆞ데</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+<sent type="main" n="15">대뎐의셔 셔톄감으로 밤의 긴ᄒᆞ시더니</sent>
+<sent type="main" n="16">샌 후ᄂᆞᆫ 신열도 덜ᄒᆞ시니 수이 나으시기 츅슈ᄒᆞᄂᆡ</sent>
+<sent type="main" n="17">이 봉셔 몃 날 별너 이제야 뎍ᄂᆡ</sent><!--봉셔 ^ 몃(뒷면)-->
+</letter>
+
+<letter n="14" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1842년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">판셔 ᄀᆡ람</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">드ᄅᆞ니 샹경타 ᄒᆞ니 든든ᄒᆞ나</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="05">ᄃᆞᆯ포 니졈으로 민망이 디내고</sent>
+<sent type="main" n="06">지금 소셩티 못ᄒᆞᆫ가 시븐ᄃᆡ</sent>
+<sent type="main" n="07">수일 풍한은 더ᄒᆞ여시니 엇디 오고</sent>
+<sent type="main" n="08">근녁 긔거가 엇더ᄒᆞᆫ디 념녀 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="09">봉딕 무탈이 ᄒᆞ고 승ᄌᆞᄒᆞ여 오니</sent>
+<sent type="main" n="10">인졍이 깃브다 ᄒᆞᆯ 거시오</sent>
+<sent type="main" n="11">샹니 수삼 ᄌᆡ의 형뎨 희우로 보면 됴흔 일일ᄃᆡ</sent>
+<sent type="main" n="12">오라바님 병환이 ᄀᆞᄇᆡ얍디 아니시다 ᄒᆞ니</sent>
+<sent type="main" n="13">드런 디ᄂᆞᆫ 오래려니와 ᄌᆞᆨ히 놀납고 민박ᄒᆞᆯ가</sent><!--‘오래려니와’의 ‘와’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="14">오라바님 병환은 아모려도 당신 탓 아니라 못 ᄒᆞᆯ 거시니</sent>
+<sent type="main" n="15">엇디 애ᄃᆞᆲ고 야쇽디가 아닐가 본가</sent>
+<sent type="main" n="16">방달 간 츌입도 못ᄒᆞ시며</sent>
+<sent type="main" n="17">면녜의 가시기 의ᄉᆞ 밧기오</sent>
+<sent type="main" n="18">즉금인들 의원도 널니 보실 길 업시 이십 니 밧긔 겨시니</sent>
+<sent type="main" n="19">아모리 ᄉᆡᆼ각ᄒᆞ여도 이상ᄒᆞᆫ 일이시니</sent>
+<sent type="main" n="20">샹임 면부ᄒᆞ시다 ᄒᆞ니</sent>
+<sent type="main" n="21">안한이 됴셥이나 ᄒᆞ며 나으시기 ᄇᆞ라ᄂᆡ</sent>
+<sent type="main" n="22">판관과 아ᄒᆡ들 애ᄡᅳᆯ 일 답답 민망ᄒᆞ니</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="23">ᄌᆞᄂᆡ 오기ᄅᆞᆯ 날마다 조엿더니</sent>
+<sent type="main" n="24">오니 그ᄂᆞᆫ 싀훤ᄒᆞ나 다시 의려 번난ᄒᆞ니 모ᄅᆞ게 ᄒᆞ엿ᄂᆡ</sent><!--의려 ^ 번난ᄒᆞ니(뒷면)-->
+<sent type="main" n="25">뵈오니 엇더ᄒᆞ시고 ᄌᆞᄂᆡ도 일일 삼십 니식 왓다 ᄒᆞ니</sent><!--‘일일’의 뒤에 오는 ‘일’은 재점으로 표기되어 있음-->
+<sent type="main" n="26">근녁이 여러 십 니 올 길 업셔 그러ᄒᆞ여실 거시니</sent>
+<sent type="main" n="27">엇더ᄒᆞᆫ고 굼거워 뎍으니 수이수이 쾌복ᄒᆞ기 밋ᄂᆡ</sent><!--‘수이수이’의 뒤에 오는 ‘수이’는 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="15" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1848년">
+<sent type="envelop2" n="01">봉셔 광양</sent>
+<sent type="envelop1-1" n="02">긔경 ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">ᄌᆡ작월 발뎡 시 노염이 더옥 극심ᄒᆞ니</sent>
+<sent type="main" n="05">근 쳔 니 원도의 엇디 작ᄒᆡᆼᄒᆞᆯ고</sent>
+<sent type="main" n="06">병듕이나 일념이 노히디 아니터니</sent>
+<sent type="main" n="07">무ᄉᆞ이 득달ᄒᆞ여 큰 탈은 업시 디낸다 ᄒᆞ니</sent>
+<sent type="main" n="08">블ᄒᆡᆼ 듕 다ᄒᆡᆼ이나 게 슈토가 노샹 됴티 못ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" n="09">본시 뎡고지증이 잇다 ᄒᆞ던ᄃᆡ 엇덜고 념이로세</sent>
+<sent type="main" n="10">댱셜ᄒᆞᄂᆡ 쥬년을 너머 근밀의 ᄌᆞ로 츄주ᄒᆞ니</sent>
+<sent type="main" n="11">아모리 근신ᄒᆞ여 디내더라 ᄒᆞ여도</sent>
+<sent type="main" n="12">ᄆᆡ양 ᄉᆞ려 업ᄉᆞᆯ 적이 이셔실고</sent>
+<sent type="main" n="13">의외 홀연 ᄃᆡᄉᆞ가 나다 말이 들니니</sent>
+<sent type="main" n="14">밋쳐 소ᄉᆞᄂᆞᆫ 듯디 못ᄒᆞ고 놀나오미 측냥티 못ᄒᆞ더니</sent>
+<sent type="main" n="15">ᄎᆞᄎᆞ 드ᄅᆞ며 응당 ᄒᆞ염ᄌᆞᆨᄒᆞᆫ 일노 비로셔시니</sent><!--‘ᄎᆞᄎᆞ’의 뒤에 오는 ‘ᄎᆞ’는 재점으로 표기되어 있음-->
+<sent type="main" n="16">놀납디 아닌 배 아니로ᄃᆡ 숨을 내쉬엿ᄂᆡ</sent>
+<sent type="main" n="17">관환의 잇ᄂᆞ니 시비 간 이 길이 쉬오니</sent>
+<sent type="main" n="18">쇽담의 코 아니 흘니고 유복ᄒᆞ면 됴타 말 ᄀᆞᆺᄐᆞ여</sent>
+<sent type="main" n="19">이런 ᄋᆡᆨ이 업시 디내면 샹하의 허믈이 업ᄉᆞᆫ 일이니</sent>
+<sent type="main" n="20">과연 됴흐ᄃᆡ 운ᄋᆡᆨ이오 관구ᄒᆞᆫ 일노 면티 못ᄒᆞ량이면</sent>
+<sent type="main" n="21">ᄌᆞᄂᆡ 이 길이 ᄌᆞᄂᆡ 일신의ᄂᆞᆫ 졍대ᄒᆞ며</sent><!--정대ᄒᆞ^며(상단)-->
+<sent type="main" n="22">항언 딕간이니 빗날 분이 아니라</sent>
+<sent type="main" n="23">일문의 광ᄎᆡ가 공연이 므ᄉᆞᆫ 일에 이러ᄒᆞᆯ가</sent><!--일^에(뒷면)-->
+<sent type="main" n="24">본고 남ᄌᆞ의 ᄉᆞ업이 이에셔 쾌대ᄒᆞᆫ 거시 업ᄉᆞᆯ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="25">ᄒᆞᆫ 번 투비 관겨ᄒᆞᆯ 거시 업ᄂᆞ니</sent>
+<sent type="main" n="26">이젼 그리 ᄃᆞᆫ닐 ᄯᅢ 므ᄉᆞᆫ 일에 걸닐가 념녀ᄒᆞ던 ᄆᆞᄋᆞᆷ으로ᄂᆞᆫ</sent>
+<sent type="main" n="27">요ᄉᆞ이ᄂᆞᆫ 도로혀 폐간이 펴이니</sent>
+<sent type="main" n="28">내 이 말을 박졀 무졍이 알넌디 모ᄅᆞᄃᆡ</sent>
+<sent type="main" n="29">혈심 튱곡으로 ᄒᆞᄂᆞᆫ 거시니</sent>
+<sent type="main" n="30">그리 알고 노호와 마소 ᄌᆞᄂᆡ 역ᄉᆞ로 ᄉᆡᆼ각ᄒᆞ여도</sent>
+<sent type="main" n="31">공명의 못 ᄒᆞ여 본 거시 거의 업고</sent>
+<sent type="main" n="32">ᄯᅩᄂᆞᆫ 셰샹 사ᄅᆞᆷ이 만만이 아든 아니코</sent><!--‘만만’의 뒤에 오는 ‘만’은 재점으로 표기되어 있음-->
+<sent type="main" n="33">무지ᄒᆞᆫ ᄇᆡᆨ셩ᄀᆞ디라도 훼언이 업셔시며</sent>
+<sent type="main" n="34">형은 대관을 디내시고 ᄌᆞ딜이 다 등과ᄒᆞ며</sent>
+<sent type="main" n="35">심지어 의식의 어려오미 잇ᄂᆞᆫ가</sent>
+<sent type="main" n="36">인ᄉᆞ가 이러ᄐᆞᆺ 극진ᄒᆞ니 엇디 ᄒᆞᆫ ᄯᅢ 계틱ᄒᆞ미 업ᄉᆞᆯ가 본가</sent>
+<sent type="main" n="37">어제날의 놉흔 쵸헌을 ᄐᆞ며 츄죵이 운집ᄒᆞ며</sent>
+<sent type="main" n="38">가로가 훤괄ᄒᆞ여 영요ᄒᆞ미 극ᄒᆞ나</sent>
+<sent type="main" n="39">벼ᄉᆞᆯ이 놉흘ᄉᆞ록 ᄎᆡᆨ망 듕ᄒᆞ고 오ᄂᆞᆯ은 낙쳑ᄒᆞ여 쇠잔ᄒᆞᆫ ᄃᆞᆺᄒᆞᄃᆡ</sent>
+<sent type="main" n="40">듕ᄒᆞᆫ 짐을 벗고 심긔 안한ᄒᆞ여 좌와긔동이 거리ᄭᅵᆯ 거시 업고</sent>
+<sent type="main" n="41">눈의 거치ᄂᆞᆫ 것과 귀에 거ᄉᆞ리ᄂᆞᆫ 말이 들니디 아니ᄒᆞ니</sent><!--들니^디(뒷면 상단)-->
+<sent type="main" n="42">신션이 아닌가 이런 일도 디내고 뎌런 일도 디내여 보니</sent><!--보니 ^ 조화의(뒷면 우측행)-->
+<sent type="main" n="43">조화의 헌ᄉᆞᄒᆞ믈 아라 이뎌가 다 ᄭᅮᆷ이니</sent>
+<sent type="main" n="44">도모지 ᄆᆞᄋᆞᆷ의 두디 마소 날마다 텬안을 우러러 디낸 일 ᄉᆡᆼ각ᄒᆞ여</sent><!--‘우러러’의 뒤에 오는 ‘러’는 재점으로 표기되어 있음-->
+<sent type="main" n="45">튱ᄋᆡᄒᆞᄂᆞᆫ ᄯᅳᆺ이 ᄒᆞᆫ갈ᄀᆞᆺ티 ᄒᆞ며</sent>
+<sent type="main" n="46">엄견을 므릅디 아닌 ᄯᅢ와 ᄀᆞᆺ티 ᄒᆞ여 심계 평탄이 디내면</sent>
+<sent type="main" n="47">부국ᄒᆞᆫ 죄 업ᄉᆞ니 신명이 도을 거시오</sent>
+<sent type="main" n="48">우리 샹감긔셔 셩심이 도ᄅᆞ혀시면 양츈이 도라와 여젼ᄒᆞᆯ 거시니</sent>
+<sent type="main" n="49">잇ᄂᆞᆫ 동안 병이나 나디 말고 평온이 디내소</sent>
+<sent type="main" n="50">그ᄉᆞ이 평문 드런 디 ᄯᅩ 날포 되니 침담지졀이 엇더ᄒᆞᆫ디</sent>
+<sent type="main" n="51">츄긔 졈긴ᄒᆞ니 굼거오며 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="52">ᄃᆡ교 간다 ᄒᆞ니 먼 길 짐치 념녀되나</sent>
+<sent type="main" n="53">일변 든든ᄒᆞᄃᆡ 주셔 오니 거류 냥졍이 그음업ᄉᆞᆯ 거시니</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="54">민망ᄒᆡ 나ᄂᆞᆫ 알키 골몰ᄒᆞ여 ᄯᅥ날 ᄯᅢ 봉셔 ᄒᆞᆫ 줄도 못ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="55">요ᄉᆞ이ᄂᆞᆫ 나이 디내ᄂᆡ ᄃᆡ교 간다 ᄒᆞ기 뎍으니</sent>
+<sent type="main" n="56">내내 무고 만듕ᄒᆞ기 밋ᄂᆡ ᄉᆞ찰궁위ᄒᆞ엿다 ᄒᆞ니</sent><!--‘내내’의 뒤에 오는 ‘내’는 재점으로 표기되어 있음-->
+<sent type="main" n="57">ᄌᆞᄂᆡ 샹ᄒᆡ 편지 ᄒᆞᆫ 댱이나 ᄒᆞ엿던가</sent>
+<sent type="main" n="58">서로 므ᄉᆞᆫ 셔찰 왕복이나 ᄒᆞᆫ 줄노 억탁으로 말ᄒᆞ여도</sent>
+<sent type="main" n="59">하 긔괴 괘심ᄒᆞ니 제가 ᄡᅳᆫ디 뉘가 ᄡᅳᆫ디 망측 인ᄉᆞ로세</sent>
+<sent type="main" n="60">이 말을 아니려다가 ᄡᅥᆺᄂᆡ 이 봉셔 쇼화ᄒᆞ소</sent><!--해당 부분은 한 행에 두 줄로 입력되어 있음-->
+<sent type="main" n="61">무신 팔월 념칠일</sent>
+</letter>
+
+<letter n="16" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병덕(재종질)" year="1848~1849년">
+<sent type="envelop2" n="01">ᄉᆞ동 졍승 ᄃᆡᆨ</sent>
+<sent type="envelop1-1" n="02">ᄃᆡ교 즉뎐</sent>
+<sent type="main" n="03">너ᄂᆞᆫ 가셔 수삭이나 잇ᄂᆞᆫ가 ᄒᆞ엿더니</sent>
+<sent type="main" n="04">장긔와 슈토 됴티 못ᄒᆞ여 념되여 올녀보낸가 시브니</sent>
+<sent type="main" n="05">ᄯᅥ나ᄂᆞᆫ 졍니 보ᄂᆞᆫ ᄃᆞᆺ 일ᄏᆞᆺᄂᆞᆫ다</sent>
+<sent type="main" n="06">네 어른은 큰 탈은 업ᄂᆞᆫ가 시브니</sent>
+<sent type="main" n="07">만ᄒᆡᆼ만ᄒᆡᆼᄒᆞ나 회셔ᄅᆞᆯ 보니 든든ᄒᆞᆫ 듕</sent><!--‘만ᄒᆡᆼ만ᄒᆡᆼ’의 뒤에 오는 ‘만ᄒᆡᆼ’과 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">일변 쳐창ᄒᆞᆫ 심회 아모라타 업다</sent>
+<sent type="main" n="09">머므ᄂᆞᆫ 집은 엇더ᄒᆞ고 므어ᄉᆞ로 날을 보내며</sent>
+<sent type="main" n="10">슈토 그리 고이ᄒᆞ니 본병이나 긴히 나디 아니ᄒᆞ엿더냐</sent>
+<sent type="main" n="11">내가 힘ᄡᅳᆯ 만ᄒᆞᆫ ᄯᅢ면 네 슉딜의 말을 기ᄃᆞ리디 아닐 거시니</sent><!--거시니 ^ 무ᄉᆞ무려ᄒᆞᆫ가(뒷면)-->
+<sent type="main" n="12">무ᄉᆞ무려ᄒᆞᆫ가 아든 마라</sent>
+<sent type="main" n="13">노독이나 업시 잘 디내ᄂᆞᆫ가 알고져 뎍ᄂᆞᆫ다</sent>
+</letter>
+
+<letter n="17" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1846년">
+<sent type="envelop2" n="01">뎐동 입납</sent>
+<sent type="envelop1-1" n="02">판셔 입납</sent>
+<sent type="main" n="03">마염이 심ᄒᆞ니 년ᄒᆞ여 빗치ᄂᆞᆫ 듕</sent>
+<sent type="main" n="04">엇디 디내ᄂᆞᆫ디 브리디 못ᄒᆞ며</sent>
+<sent type="main" n="05">내 이ᄯᅢ 심ᄉᆞᄂᆞᆫ 새로이 원통 망ᄋᆡᄒᆞ믄</sent>
+<sent type="main" n="06">일ᄏᆞᆺ디 말고 ᄒᆡ포 각ᄉᆡᆨ으로 운운턴 쳔능이 되시고</sent><!--‘운운’의 뒤에 오는 ‘운’은 재점으로 표기되어 있음-->
+<sent type="main" n="07">ᄌᆡ해ᄂᆞᆫ 젼 듯고 저히던 ᄉᆡᆼ각과 ᄉᆞ이 아조 업ᄂᆞᆫ 혐이니</sent>
+<sent type="main" n="08">망극 듕이나 만ᄒᆡᆼᄒᆞ기 므ᄉᆞᆫ 됴흔 일이나 잇ᄂᆞᆫ ᄃᆞᆺᄒᆡ</sent>
+<sent type="main" n="09">이 일의 그ᄉᆞ이 은근이 애ᄡᅳ고</sent>
+<sent type="main" n="10">ᄉᆞ려가 만턴 말이야 엇디 다 ᄒᆞᆯ고</sent>
+<sent type="main" n="11">남은 날이 젹으니 ᄉᆞ오 일 쳥명ᄒᆞ여</sent>
+<sent type="main" n="12">태평이 필ᄉᆞᄒᆞ기 ᄇᆞ라ᄂᆡ</sent>
+<sent type="main" n="13">이번 대뎐 효셩이 응당 그러ᄒᆞ시려니와</sent>
+<sent type="main" n="14">ᄆᆡᄉᆞ의 안흐로셔도 ᄒᆞ시ᄂᆞᆫ 일이 진효진셩ᄒᆞ시니</sent>
+<sent type="main" n="15">흠탄ᄒᆞ고 귓ᄌᆞᆸ고 ᄯᅩ 깃븐 듕도 일변 션대왕 초샹을 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" n="16">심ᄉᆞ 버히ᄂᆞᆫ ᄃᆞᆺ 형언티 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="17">슈여ᄒᆞ시ᄂᆞᆫ 일노 졍쳥ᄀᆞ디 되다 ᄒᆞ니</sent>
+<sent type="main" n="18">그 비답의ᄂᆞᆫ 엇디ᄒᆞ시던디</sent>
+<sent type="main" n="19">예셔 냥 ᄌᆞ뎐 용녀ᄒᆞ고 말나시기 아니노라 ᄒᆞ시면</sent>
+<sent type="main" n="20">슌편ᄒᆞ실ᄃᆡ 부ᄃᆡ 가셔셔 봉셔 보고 말녀노라 ᄒᆞ신다 ᄒᆞ니</sent><!--슌편^ᄒᆞ실ᄃᆡ(상단)--><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있음-->
+<sent type="main" n="21">엇디ᄒᆞ신 셩의신디 아디 못ᄒᆞ게 ᄒᆞ엿ᄂᆡ</sent><!--셩의신디 ^ 아디(우단)-->
+<sent type="main" n="22">그 일이 졍쳥ᄀᆞ디 되여실 제ᄂᆞᆫ 우리가 모ᄅᆞ디</sent>
+<sent type="main" n="23">아녀실ᄃᆡ 능소의 가신 후 봉셔로 마ᄅᆞ쇼셔 ᄒᆞ여</sent>
+<sent type="main" n="24">아니시ᄂᆞᆫ 일이 내 소견의ᄂᆞᆫ 셩의가 더 될디 모ᄅᆞ게 ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="25">그러ᄒᆞᄃᆡ 그리 작뎡ᄒᆞ여 겨시면 봉셔ᄂᆞᆫ 엇디ᄒᆞ고</sent>
+<sent type="main" n="26">뉘게로 뎐ᄒᆞ며 대뎐의 드리라 ᄒᆞᆯ고</sent><!--뎐ᄒᆞ^며(뒷면)-->
+<sent type="main" n="27">예셔 뎐키ᄂᆞᆫ 승뎐빗츠로 뎐ᄒᆞᆯ ᄃᆞᆺᄒᆞ니</sent><!--‘예셔 뎐키ᄂᆞᆫ’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="28">뉘게로 뎐ᄒᆞ라 ᄒᆞᆯ고 말이로세</sent><!--‘로 뎐ᄒᆞ라 ᄒᆞᆯ고’는 우측 행간에 기입되어 있음--><!--‘뉘게’ 뒤에는 썼다가 지운 흔적이 있음-->
+<sent type="main" n="29">판셔 봉셔 왓기 보니 ᄌᆞ가긔로 내가 봉셔ᄒᆞ여</sent><!--‘보니’의 ‘니’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="30">졔 대신의게 봉셔 ᄉᆞ의ᄅᆞᆯ 뎐ᄒᆞ라 ᄒᆞ여 겨시다 ᄒᆞ니</sent>
+<sent type="main" n="31">그 말ᄉᆞᆷ은 ᄯᅩ 엇디ᄒᆞ신 말ᄉᆞᆷ인고 다 ᄌᆞ시 알게 ᄒᆞ소</sent>
+<sent type="main" n="32">어제 와 겨실 제 슈여 말ᄒᆞ고</sent>
+<sent type="main" n="33">예셔 아조 작뎡ᄒᆞ여 아니시기로 ᄒᆞ쇼셔 ᄒᆞ니 못 ᄒᆞᆫ다 ᄒᆞ시기</sent><!--‘아니시기로’의 ‘기’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="34">그리면 엇디ᄒᆞ오리잇가 ᄒᆞᆫ즉 뎐동 판셔긔 다 ᄒᆞ여시니</sent>
+<sent type="main" n="35">므러 ᄒᆞ라시니 슈작이 이러ᄒᆞ시던가</sent>
+<sent type="main" n="36">ᄂᆡ일 가신 후 이리 왕복ᄒᆞᆯ 길 업스니 ᄌᆞ셔히 뎍소</sent>
+</letter>
+
+<letter n="18" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1856년">
+<sent type="envelop2" n="01">ᄉᆞ동</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">원노 ᄒᆡᆼ역을 평안이 ᄒᆞ여 겨시니 다ᄒᆡᆼᄒᆞᄃᆡ</sent>
+<sent type="main" n="05">회환 시ᄂᆞᆫ 신셕이 과량ᄒᆞ여시니</sent>
+<sent type="main" n="06">환뎨 후 노독 업시 톄력 강건ᄒᆞ신디 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" n="07">형뎨 ᄃᆞᆯ포 샹니지회로 만나</sent>
+<sent type="main" n="08">흐믓 든든ᄒᆞ심 오ᄌᆞᆨᄒᆞ여 겨시오리잇가</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="09">ᄯᅩ 쥬갑 경일의 가ᄂᆡ지인이 반이나 모히여</sent>
+<sent type="main" n="10">환ᄒᆡᆼ 비무ᄒᆞ여실 거시니</sent>
+<sent type="main" n="11">내 ᄆᆞᄋᆞᆷ도 든든 흔귀ᄒᆞ여 일ᄏᆞ라ᄉᆞ오며</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="12">딕각 언ᄂᆡ의 녕변 긔력 평안ᄒᆞ고 금년 ᄉᆡᆨᄉᆞ도 풍념ᄒᆞ여</sent>
+<sent type="main" n="13">아딕 걱졍 업더라 ᄒᆞ니 다ᄒᆡᆼ다ᄒᆡᆼ 깃브오이다</sent><!--‘다ᄒᆡᆼ다ᄒᆡᆼ’의 뒤에 오는 ‘다ᄒᆡᆼ’은 재점으로 표기되어 있음--><!--깃브오이다 ^ 일젼(상단)-->
+<sent type="main" n="14">일젼 일강의 드러와 겨실 ᄯᅢ 보니</sent>
+<sent type="main" n="15">신관이 향ᄂᆡ보다 ᄂᆡ도이 ᄭᆡ긋ᄒᆞ여 뵈시니</sent><!--‘ᄂᆡ도이’의 ‘ᄂᆡ’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="16">졍승들은 아모ᄃᆡ 츌입도 못ᄒᆞ니</sent><!--아모^ᄃᆡ(뒷면)-->
+<sent type="main" n="17">긔울타가 이번 ᄒᆡᆼᄎᆞ가 일낭긔쳥ᄒᆞᆫ ᄯᅢ</sent>
+<sent type="main" n="18">도로 강산 풍경을 완답ᄒᆞ시며 놀며 가시니</sent>
+<sent type="main" n="19">심계 할연ᄒᆞ며 거목의 쇄락ᄒᆞ여 나으신 ᄃᆞᆺ 깃브오이다</sent>
+<sent type="main" n="20">ᄂᆡᄒᆡᆼ 입경ᄒᆞ다 ᄒᆞ니 든든ᄒᆞ오이다</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="21">예ᄂᆞᆫ 일양 디내나 삼남 년ᄉᆞ 글너진 듕</sent>
+<sent type="main" n="22">녕남이 말 못 되다 ᄒᆞ니 민망 답답ᄒᆞ오이다</sent><!--뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="19" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1846년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">니판 즉납</sent>
+<sent type="main" n="03">봉셔ᄒᆞ와 ᄉᆞ연은 보아시니</sent>
+<sent type="main" n="04">이대로 ᄒᆞ려니와 공판의게 봉셔ᄒᆞ여</sent>
+<sent type="main" n="05">대신의게 들니ᄂᆞᆫ 거ᄉᆞᆫ 심히 셩실티 아니ᄒᆡ</sent>
+<sent type="main" n="06">당신긔 ᄒᆞ여시니 게 드ᄅᆞ시니만 못ᄒᆞᆯ ᄃᆞᆺᄒᆡ</sent>
+<sent type="main" n="07">이리ᄒᆞ시기 샹의로 나신가</sent>
+<sent type="main" n="08">ᄌᆞᄂᆡ도 그리ᄒᆞ시면 됴켓다 ᄒᆞ엿ᄂᆞᆫ가</sent>
+<sent type="main" n="09">그 됴건 득당ᄒᆞᆯ 줄 모ᄅᆞ게 ᄒᆞ엿ᄂᆡ</sent>
+<sent type="main" n="10">승지가 봉셔 가지고 가시면 졀노 아래로셔 알 일이 아닌가</sent>
+<sent type="main" n="11">뎡슌 왕후 고ᄉᆞᄂᆞᆫ 왕손 보라 가시ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="12">그리ᄒᆞ시다 ᄒᆞᄃᆡ 굿ᄐᆡ여 그런 일은 다 본바다 ᄒᆞ실가</sent>
+<sent type="main" n="13">곳텨 ᄡᅥ 제 보내려 ᄒᆞᄂᆡ 이리 ᄡᅳ더니</sent><!--보^내려(뒷면)-->
+<sent type="main" n="14">대비뎐의셔 봉셔 왓ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="15">녕부ᄉᆞ 말이 대뎐 슈여 일노 대신이 졍쳥ᄒᆞᄃᆡ 근허ᄒᆞ시니</sent><!--‘녕부ᄉᆞ 말이 대뎐 슈여 일노’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="16">이 만뎡 신뇨의 쵸박ᄒᆞᆫ 밧</sent>
+<sent type="main" n="17">이ᄯᅢ 극열의 최마로 죵일 슈여ᄒᆞ시ᄂᆞᆫ 거시</sent>
+<sent type="main" n="18">엇디 셩톄의 휴손티 아니ᄒᆞ실가 보오니잇가</sent>
+<sent type="main" n="19">시방 ᄉᆞ셰ᄂᆞᆫ 급박ᄒᆞ와</sent>
+<sent type="main" n="20">만일 동됴 구뎐 하교로 빈텽 대신의게 졔틱디 아니ᄒᆞ시면</sent>
+<sent type="main" n="21">효ᄉᆞ의 나ᄋᆞᆸ신 텬의를 도로혈 길이 업스니</sent>
+<sent type="main" n="22">쳐분ᄒᆞᄋᆞᆸ시면 만ᄒᆡᆼ이라 ᄒᆞ기 알외노라 ᄒᆞ여 겨시기</sent>
+<sent type="main" n="23">내가 대뎐의 봉셔ᄒᆞ여 마르시고</sent>
+<sent type="main" n="24">우리가 말나 ᄒᆞ며 못 ᄒᆞ노라 ᄒᆞ시고 허ᄒᆞ쇼셔 ᄒᆞ고</sent>
+<sent type="main" n="25">대비뎐의ᄂᆞᆫ 샹감 허락 바다</sent><!--‘대비뎐의ᄂᆞᆫ’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="26">빈텽의 낼 말을 녕부ᄉᆞ긔 아조 ᄡᅥ 보ᄂᆡ라 회답ᄒᆞ엿더니</sent>
+<sent type="main" n="27">ᄡᅥ 왓기 내여시니 보아실 ᄃᆞᆺᄒᆡ 이리ᄒᆞ시ᄂᆞᆫ 거시 슌편ᄒᆞ디</sent>
+<sent type="main" n="28">누일 아니 드르신 일을 우리가 어ᄃᆡ 가고 ᄌᆞᆷᄌᆞᆷ코 잇다가</sent><!--‘어ᄃᆡ 가고’는 우측 행간에 기입되어 있음--><!--‘ᄌᆞᆷᄌᆞᆷ코’의 뒤에 오는 ‘ᄌᆞᆷ’은 재점으로 표기되어 있음-->
+<sent type="main" n="29">가신 후 거동소로 비온 듕 보내ᄂᆞᆫ 일이 아니 괴이ᄒᆞᆯ가 본가</sent>
+<sent type="main" n="30">샹감긔 봉셔ᄒᆞ고 공판의게 봉셔ᄒᆞ여 대신ᄂᆡ게 포유ᄒᆞ라신 말</sent>
+<sent type="main" n="31">필경 대비뎐 모ᄅᆞ실 일 업기</sent>
+<sent type="main" n="32">ᄯᅡ로 ᄡᅥ 대비뎐만 보쇼셔 ᄒᆞ고 보내엿ᄂᆡ</sent>
+<sent type="main" n="33">범ᄉᆞ가 다 슌실ᄒᆞᆫ 거시 올흐니</sent>
+<sent type="main" n="34">긔이 못ᄒᆞ시기로 뎡ᄒᆞᆫ 밧 져리들 ᄒᆞᆯ 제 드르시디</sent><!--져^리들(상단)-->
+<sent type="main" n="35">그리ᄒᆞ실 이 아니로세</sent>
+<sent type="main" n="36">나ᄂᆞᆫ 본ᄃᆡ 질번기병이니 이러ᄒᆞᆫ가 시븨</sent>
+</letter>
+
+<letter n="20" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1855년">
+<sent type="envelop2" n="01">이문안</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ 입납</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">한온이 브뎍ᄒᆞᆫᄃᆡ 이ᄉᆞ이 톄졀이 만듕ᄒᆞ신디 브리옵디 못ᄒᆞ오며</sent>
+<sent type="main" n="05">근간은 하혈이 쾌ᄎᆞᄒᆞ시오니잇가</sent>
+<sent type="main" n="06">념녀 노히디 아니ᄒᆞ오며</sent>
+<sent type="main" n="07">녕변긔셔ᄂᆞᆫ 초ᄉᆡᆼ 샹경ᄒᆞ신가 보오니 든든ᄒᆞ시랴 깃브고</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">노력의 평안이 오며 일양 디내시ᄂᆞᆫ디 일ᄏᆞᆺᄌᆞ오며</sent>
+<sent type="main" n="09">셩쳔 아듕 평안ᄒᆞᆫ 안부 드르신가 ᄒᆞ오며</sent>
+<sent type="main" n="10">대ᄂᆡ셔ᄂᆞᆫ 안녕들 ᄒᆞ시니 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="11">나도 일양 디ᄂᆡ오며 딕각 어ᄂᆞ 날 온다 ᄒᆞᄋᆞᆸᄂᆞ니잇가</sent><!--ᄒᆞᄋᆞᆸᄂᆞ니잇가 ^ 옥동(좌단)-->
+<sent type="main" n="12">옥동 판셔의 일은 지금 허언인 ᄃᆞᆺ 허우룩 비감ᄒᆞ고</sent>
+<sent type="main" n="13">ᄃᆡ교ᄂᆞᆫ 엇더ᄒᆞᆫ디 모ᄅᆞᄃᆡ</sent>
+<sent type="main" n="14">질실 튱후키ᄂᆞᆫ 극진ᄒᆞ던 터이니</sent>
+<sent type="main" n="15">앗갑고 심히 서운ᄒᆞᄋᆞᆸ더이다</sent><!--서운ᄒᆞᄋᆞᆸ더이다 ^ 조하만의(뒷면)-->
+<sent type="main" n="16">조하만의 문집 일노 션ᄇᆡ들이 만히 샹소ᄒᆞ여시니</sent>
+<sent type="main" n="17">비답이 대신 소견은 엇더ᄒᆞᄋᆞᆸ더니잇가</sent>
+<sent type="main" n="18">다시ᄂᆞᆫ 말이 업슬ᄂᆞᆫ가 념이오며</sent>
+<sent type="main" n="19">녕변이 대국 소문이나 더러 드르시고</sent>
+<sent type="main" n="20">게 인심은 엇더ᄒᆞ더라 ᄒᆞᄋᆞᆸ더잇가</sent>
+<sent type="main" n="21">하 오래 봉셔도 못 ᄒᆞ여 섭섭ᄒᆞ기 ᄌᆞᆷ 뎍ᄉᆞᆸᄂᆞ이다</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="21" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병덕(재종질)" year="1855년">
+<sent type="envelop2" n="01">뎐동</sent>
+<sent type="envelop1-1" n="02">ᄃᆡ교 ᄀᆡ람</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">너ᄒᆡ 부공은 의외에 엄견을 므ᄅᆞ와</sent>
+<sent type="main" n="05">원니ᄒᆞᆫ 졍니 오ᄌᆞᆨᄒᆞ랴</sent>
+<sent type="main" n="06">내 ᄆᆞᄋᆞᆷ도 악연 헤헤ᄒᆞ여 지금 엇더타 못ᄒᆞᆫ다</sent>
+<sent type="main" n="07">발ᄒᆡᆼᄒᆞᆯ 제 노염이 극심ᄒᆞ니</sent>
+<sent type="main" n="08">념 노히디 못ᄒᆞ더니 평안이 득달ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" n="09">블ᄒᆡᆼ 듕 다ᄒᆡᆼ이나</sent>
+<sent type="main" n="10">슈토 됴티 못ᄒᆞ다 ᄒᆞ고 본질 이시니</sent>
+<sent type="main" n="11">ᄌᆞᆨ히 심우되랴 브리디 못ᄒᆞᆫ다</sent>
+<sent type="main" n="12">쥬샹긔셔 텬ᄌᆞ가 극히 어지시니</sent>
+<sent type="main" n="13">하 오래 두든 아니실 ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="14">공슌이 기ᄃᆞ리면 됴흔 ᄯᅢ가 이시리라</sent>
+<sent type="main" n="15">그ᄉᆞ이 ᄯᅩ 쇼식 드ᄅᆞᆫ가 ᄒᆞᆫ다</sent>
+<sent type="main" n="16">너ᄂᆞᆫ 엇디 디내ᄂᆞ니 블샹 닛디 못 ᄌᆞᆷ 뎍ᄂᆞᆫ다</sent>
+</letter>
+
+<letter n="22" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병덕(재종질)" year="1841년">
+<sent type="envelop2" n="01">병덕이</sent>
+<sent type="envelop1-1" n="02">봉</sent>
+<sent type="main" n="03">쳔만 몽ᄆᆡ 밧 듕졔ᄅᆞᆯ 만나니</sent>
+<sent type="main" n="04">뎍을 말이 업다</sent>
+<sent type="main" n="05">시일이 블뉴ᄒᆞ여 오ᄂᆞᆯ 셩복ᄀᆞ디 되시니</sent>
+<sent type="main" n="06">비운 통박ᄒᆞ기 새로오랴</sent>
+<sent type="main" n="07">챵확ᄒᆞ기 아모라타 업ᄉᆞ며</sent>
+<sent type="main" n="08">너ᄒᆡ 부친은 ᄃᆞᆯ포 니졈으로 쾌소티 못ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" n="09">공회지통을 만나 비ᄋᆡ 과졀ᄒᆞ여</sent>
+<sent type="main" n="10">디내ᄂᆞᆫ 일 ᄌᆞᆨ히 민답ᄒᆞ랴 브리디 못ᄒᆞᆫ다</sent>
+</letter>
+
+<letter n="23" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1853년">
+<sent type="envelop2" n="01">뎐동</sent>
+<sent type="envelop1-1" n="02">대신 ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">신셰의 긔운 평안ᄒᆞ신 일 알고져 ᄒᆞ오며</sent>
+<sent type="main" n="05">새ᄒᆡ의ᄂᆞᆫ 가국이 태평ᄒᆞ고 신민이 안락ᄒᆞ여</sent>
+<sent type="main" n="06">일호반졈 흠이 업셔 디낼 거시니 깃브오이다</sent>
+<sent type="main" n="07">대신긔셔도 강건 녁장ᄒᆞ여 슈고무강ᄒᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="08">올히 녕변 갑년이니 희귀ᄒᆞ시랴 든든ᄒᆞ오나</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+<sent type="main" n="09">요원이 디낼 일이 섭섭ᄒᆞ오이다</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">과셰 평안이 ᄒᆞ여 겨시다 ᄒᆞᄋᆞᆸ더니잇가</sent>
+<sent type="main" n="11">예ᄂᆞᆫ 샹후 태평ᄒᆞ시니 츅슈오며</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 큰 병은 업스나 졈졈 쇠로ᄒᆞ여 늙으니</sent><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" n="13">모양을 ᄒᆞᆫ 가지도 ᄲᅡ지디 아닌ᄂᆞᆫ 줄이 스ᄉᆞ로도 알니니</sent>
+<sent type="main" n="14">ᄎᆞᆷ아 긔괴 가쇼롭ᄉᆞ오이다</sent>
+<sent type="main" n="15">쇠ᄒᆞᆫ 소치로 겁은 졈졈 느러 가고</sent><!--겁^은(뒷면)--><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" n="16">소견은 졈졈 컴컴ᄒᆞ여</sent><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음--><!--‘컴컴’의 뒤에 오는 ‘컴’은 재점으로 표기되어 있음-->
+<sent type="main" n="17">각ᄉᆡᆨ 만흔 소셜 듯ᄂᆞᆫ ᄃᆡ로 은근이 애가 ᄡᅳ이니 ᄯᆞᆨᄒᆞ오이다</sent>
+<sent type="main" n="18">대신도 ᄌᆞ로 보디 못ᄒᆞ고 감ᄉᆞ도 보디 못ᄒᆞ니 막막ᄒᆞ오이다</sent><!--‘막막’의 뒤에 오는 ‘막’은 재점으로 표기되어 있음-->
+<sent type="main" n="19">ᄒᆡ 밧고여 이십 일이 되여시나 봉셔도 못 ᄒᆞ여ᄉᆞᆸ</sent>
+<sent type="main" n="20">견비통이 긴ᄒᆞ여 심히 괴롭ᄉᆞ오이다</sent>
+</letter>
+
+<letter n="24" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1855년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ 입납</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">환셰 평안이 ᄒᆞ시고 신졍 긔운 평온ᄒᆞ신디 알고져 ᄒᆞ오며</sent>
+<sent type="main" n="05">신셰 가국 평안ᄒᆞ여 년풍 민안ᄒᆞ고</sent>
+<sent type="main" n="06">금년은 방경이 이셔 국됴 억만년 반태지경을 옹츅ᄒᆞ오며</sent>
+<sent type="main" n="07">샹후 안강ᄒᆞ시고 나도 일양 디내ᄋᆞᆸᄂᆞ이다</sent>
+<sent type="main" n="08">뎌ᄯᅢ 드르니 승지 감긔 잇다 ᄒᆞ더니</sent>
+<sent type="main" n="09">이 ᄉᆞ이ᄂᆞᆫ 쾌차ᄒᆞ니잇가</sent>
+<sent type="main" n="10">집 대신이 혜경궁 마마 삼촌 린한의 말ᄉᆞᆷ ᄒᆞᆯ 거시니</sent><!--‘마마’의 뒤에 오는 ‘마’는 재점으로 표기되어 있음-->
+<sent type="main" n="11">심샹이 듯디 마르시고</sent>
+<sent type="main" n="12">ᄒᆡ포 골슈의 박힌 죄명을 신셜ᄒᆞ여 주면</sent><!--‘포’는 우측 행간 기입되어 있음-->
+<sent type="main" n="13">지원극통을 유명지간의 즐거워ᄒᆞᆯ 거시오</sent>
+<sent type="main" n="14">마마겨오샤도 열예 쾌할ᄒᆞ실 거시나</sent><!--‘마마’의 뒤에 오는 ‘마’는 재점으로 표기되어 있음-->
+<sent type="main" n="15">우리 집들의셔 이런 ᄉᆡᆼ각 아니면</sent><!--ᄉᆡᆼ^각(뒷면)-->
+<sent type="main" n="16">뉘가 손 븟치랴 ᄒᆞᆯ가 보오니잇가</sent>
+<sent type="main" n="17">진실노 죄가 이시면 엇디 용이히 이 ᄉᆡᆼ각이 잇ᄉᆞ오리잇가마ᄂᆞᆫ</sent>
+<sent type="main" n="18">이ᄂᆞᆫ 인졍 텬니 밧기오</sent>
+<sent type="main" n="19">졍묘겨오셔도 듕간은 만히 회오ᄒᆞ시ᄂᆞᆫ 셩념도 겨오시ᄃᆡ</sent>
+<sent type="main" n="20">ᄡᅥᆨ ᄒᆞ디 아니신 말ᄉᆞᆷ이올너이다</sent>
+<sent type="main" n="21">튜샹이 되시니 내 ᄆᆞᄋᆞᆷ이 심히 죄를 지은 ᄃᆞᆺ 감회 비원ᄒᆞᄋᆞᆸ더이</sent>
+</letter>
+
+<letter n="25" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop1-1" n="01">판셔 입납</sent>
+<sent type="main" n="02">드르니 어제 드러와 ᄃᆞᆫ녀나 가다 ᄒᆞ니</sent><!--‘ᄃᆞᆫ녀나’의 ‘나’는 다른 글자 위에 덧씀-->
+<sent type="main" n="03">ᄯᅩ 어ᄂᆞ ᄯᅢ나 드러와 이시랴 ᄒᆞᄂᆞᆫ가</sent>
+<sent type="main" n="04">내 ᄌᆞᄂᆡ를 집의 잇고져 ᄒᆞ미 비단 ᄉᆞ졍분 아니라</sent>
+<sent type="main" n="05">강연 츌입이나 ᄌᆞ로 ᄒᆞ여 ᄒᆞᆨ문의 유익고져 ᄒᆞ고</sent>
+<sent type="main" n="06">ᄌᆞᄂᆡ ᄆᆞᄋᆞᆷ인들 남이에셔 졍셩이 압셔지 뒤질 니ᄂᆞᆫ 업ᄉᆞᆯ 거시니</sent>
+<sent type="main" n="07">이를 ᄇᆞ라고 ᄯᅩᄂᆞᆫ 내 막막ᄒᆞ미 낫고져 ᄒᆞᆷ도 국ᄉᆞ를 위ᄒᆞ미러니</sent><!--‘막막’의 뒤에 오는 ‘막’은 재점으로 표기되어 있음-->
+<sent type="main" n="08">봉셔 ᄉᆞ연을 보니 내 ᄉᆡᆼ각과ᄂᆞᆫ 다ᄅᆞᆫ 거시</sent>
+<sent type="main" n="09">이왕 내 ᄒᆞᆫ 말은 그ᄯᅢ ᄉᆞ셰가 필경 엇디 될디 탁냥티 못ᄒᆞ여시니</sent>
+<sent type="main" n="10">당쟈 그ᄯᅢ ᄆᆞᄋᆞᆷ이 분명 됴티 아니키ᄂᆞᆫ 인졍의 당연ᄒᆞ니</sent>
+<sent type="main" n="11">므ᄉᆞᆫ 말도 ᄌᆞᄂᆡ를 위면ᄒᆞᆯ가 보며</sent>
+<sent type="main" n="12">ᄯᅩ 실노 위ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ으로 다시 관환의 분주ᄒᆞ기를 권ᄒᆞᆯ ᄯᅳᆺ이 업셔시나</sent>
+<sent type="main" n="13">이제 와 일이 망극히 환역ᄒᆞ여 바로 ᄀᆡ벽을 ᄒᆞ여시니</sent>
+<sent type="main" n="14">뎌 만고풍샹을 디내여</sent>
+<sent type="main" n="15">거의 촌동이나 다ᄅᆞᆷ업슨 샹감을 즉금 아딕 ᄎᆡᆨ망ᄒᆞᆯ 길이 업셔</sent>
+<sent type="main" n="16">국지안위가 날을 ᄎᆡᆨ망ᄒᆞᆯ 일이 아닌가</sent>
+<sent type="main" n="17">갑오년이 셜온 줄 아랏더니 예 비ᄒᆞ면 호ᄉᆞ니</sent>
+<sent type="main" n="18">그 형셰가 이러ᄒᆞ고 위험ᄒᆞᆫ ᄯᅢ 이ᄯᅢ ᄀᆞᆺᄐᆞᆫ ᄯᅢ 업셔시니</sent>
+<sent type="main" n="19">이러ᄒᆞᆫᄃᆡ 이런 용녈 혼잔ᄒᆞᆫ 내게 당ᄒᆞ기</sent>
+<sent type="main" n="20">하ᄂᆞᆯ ᄯᅳᆺ을 알 길이 업스ᄃᆡ 아모리도 ᄒᆞᆯ 수 업셔 담챡ᄒᆞ고</sent>
+<sent type="main" n="21">나시니 일분이라도 일에 낫고져 ᄒᆞᆯ 제 눌과 더브러 ᄒᆞᆯ가 본고</sent>
+<sent type="main" n="22">ᄌᆞᄂᆡ ᄒᆞᆨ식 ᄌᆡ조 업셔 내 말이 칭당티 아니타 ᄒᆞ여시나</sent>
+<sent type="main" n="23">칭당티 아닐디라도 내여셔ᄂᆞᆫ 낫고</sent>
+<sent type="main" n="24">판셔의 혼자 소견보다ᄂᆞᆫ 나을 거시니</sent>
+<sent type="main" n="25">그런 ᄉᆡᆼ각 ᄯᅳᆺ은 다시 내디 마소</sent>
+<sent type="main" n="26">아딕 일이 업ᄉᆞᆫ ᄃᆞᆺᄒᆞ나 ᄆᆡ양 일 업슬 줄 엇디 긔약ᄒᆞ며</sent>
+<sent type="main" n="27">아모리 되던디 관망ᄒᆞ고 ᄂᆞᆷ과 ᄀᆞᆺ티 안져시랴</sent>
+<sent type="main" n="28">쥬면이면 그ᄂᆞᆫ 대단이 그른 사ᄅᆞᆷ이니</sent>
+<sent type="main" n="29">즉금 모양이 것츤 아딕 변변ᄒᆞ나 속은 ᄡᅥᆨ은 나모가 되여시니</sent><!--‘변변’의 뒤에 오는 ‘변’은 재점으로 표기되어 있음-->
+<sent type="main" n="30">시시로 각ᄉᆡᆨ ᄉᆞ려가 요요ᄒᆞ여</sent><!--‘시시’의 뒤에 오는 ‘시’는 재점으로 표기되어 있음--><!--‘요요’의 뒤에 오는 ‘요’는 재점으로 표기되어 있음-->
+<sent type="main" n="31">망망대ᄒᆡ의 ᄒᆞᆫ 조각 널에 안즌 ᄃᆞᆺ 위ᄐᆡᄒᆞ니</sent><!--‘망망’의 뒤에 오는 ‘망’은 재점으로 표기되어 있음-->
+<sent type="main" n="32">이 말이 과ᄒᆞᆫ 말인가 아닌가</sent>
+<sent type="main" n="33">내 속의 잇ᄂᆞᆫ 말은 다 ᄒᆞ여시니 ᄉᆡᆼ각ᄒᆞ여 보고</sent>
+<sent type="main" n="34">죵형뎨 동심ᄒᆞ여 대쇼ᄉᆞ의 의논ᄒᆞ여</sent><!--‘형’은 우측 행간에 기입되어 있음-->
+<sent type="main" n="35">ᄆᆡᄉᆞ를 공뎡이 ᄒᆞ고 일이 업게 ᄒᆞ소</sent><!--‘이’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="36">대뎐이 슌실ᄒᆞ시니 그릇 돕ᄂᆞ니</sent>
+<sent type="main" n="37">업ᄉᆞ면 념녀 업시 챡ᄒᆞ실 거시니</sent>
+<sent type="main" n="38">이나 ᄇᆞ라ᄂᆞᆫ 바와 ᄀᆞᆺᄐᆞ야 타일 조종의 뵈올 ᄂᆞᆺ치 잇기를 츅슈ᄒᆞᄂᆡ</sent>
+<sent type="main" n="39">ᄉᆞ연 ᄀᆞ득ᄒᆞ나 다 못 뎍으니 ᄌᆞ셔 ᄉᆡᆼ각ᄒᆞ소</sent>
+</letter>
+
+<letter n="26" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop2" n="01">ᄉᆞ동 판셔</sent>
+<sent type="main" n="02">거일 답찰 보고 든든 반가오나</sent>
+<sent type="main" n="03">근일 풍셰 츈한이 무이동일이니</sent>
+<sent type="main" n="04">긔도 안듕ᄒᆞ며 침담지졀이 엇더ᄒᆞᆫ디</sent>
+<sent type="main" n="05">쇠병이 만흔가 시브니</sent>
+<sent type="main" n="06">년셰로도 쇠증이 바히 업든 아닐 거시니</sent>
+<sent type="main" n="07">향념 브리디 못ᄒᆞᄂᆡ</sent>
+<sent type="main" n="08">나ᄂᆞᆫ 요ᄉᆞ이야 ᄒᆡ소가 져기 낫게 디내ᄂᆡ 별지 보소</sent>
+</letter>
+
+<letter n="27" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1847년">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="main" n="02">뎌적 ᄆᆞ이 블평ᄒᆞ믄 나으나</sent>
+<sent type="main" n="03">댱 쳥명티 못ᄒᆞ여 디내ᄂᆞᆫ가 시브니</sent>
+<sent type="main" n="04">쇠년이 되여시니 그러도 ᄒᆞ고</sent>
+<sent type="main" n="05">ᄆᆞᄋᆞᆷ 평안ᄒᆞᆫ 거시 사ᄅᆞᆷ의게 읏듬인ᄃᆡ</sent>
+<sent type="main" n="06">공ᄉᆞ로 ᄯᅳᆺ과 ᄀᆞᆺ디 못ᄒᆞ니</sent>
+<sent type="main" n="07">그러ᄒᆞᆫ가 시브니 그리ᄒᆞ고 엇디ᄒᆞᆯ가 본가</sent>
+<sent type="main" n="08">아모리 민망ᄒᆞ여도 셰월이나 가기 기ᄃᆞ릴 밧 업ᄂᆞ니</sent>
+<sent type="main" n="09">ᄌᆞᄂᆡ 엇디ᄒᆞ면 됴흘 일을 날ᄃᆞ려 ᄀᆞᄅᆞ치라 말을 보니</sent>
+<sent type="main" n="10">도로혀 웃고 됴코 득당지ᄉᆞ가 이시면</sent>
+<sent type="main" n="11">내 얼연이 말ᄒᆞᆯ가 소견도 업ᄉᆞᆯ 분 아니라</sent>
+<sent type="main" n="12">하ᄂᆞᆯ이니 여ᄅᆞᆷ의 한ᄌᆡ 이셔 비 오고져 ᄒᆞ고</sent><!--‘ᄒᆞ고’의 ‘ᄒᆞ’는 다른 글자 위에 덧씀-->
+<sent type="main" n="13">슈ᄌᆡ 이셔 ᄒᆡ 나고져 ᄒᆞ여도 하ᄂᆞᆯ의 ᄒᆞ고져 ᄒᆞ시ᄂᆞᆫ ᄃᆡ로 ᄒᆞ고</sent>
+<sent type="main" n="14">인녁으로 ᄒᆞ디 못ᄒᆞᆷ과 ᄯᅩᆨᄀᆞᆺᄐᆞ니 민망ᄒᆞ여도 견ᄃᆡᆯ 거시오</sent>
+<sent type="main" n="15">ᄯᅩ 거ᄉᆞ리ᄂᆞᆫ 말은 이ᄯᅢ ᄒᆞ여 몸의 유익디 아니믄 블고ᄒᆞ고</sent>
+<sent type="main" n="16">우ᄒᆡ도 블긴ᄒᆞ고 가온ᄃᆡ로 ᄭᅥ리ᄂᆞᆫ 거시 분명 될 거시니</sent>
+<sent type="main" n="17">우ᄒᆡ 덕 되디 아닌 말ᄉᆞᆷ은 대쇼 간 말고</sent>
+<sent type="main" n="18">ᄒᆡᆼ혀도 ᄡᅳ이ᄂᆞᆫ 쟈의 져근 허믈이라도 ᄒᆞ디 마소</sent>
+<sent type="main" n="19">그ᄂᆞᆫ 급ᄒᆞᆫ 해가 이시리 됴흔 말ᄉᆞᆷ을 니아기처로 풍유ᄒᆞ여 드ᄅᆞ시게 ᄒᆞ면</sent>
+<sent type="main" n="20">듯기도 됴하ᄒᆞ실 거시오</sent>
+<sent type="main" n="21">말 들기 나으리 텬ᄌᆞ 총명ᄒᆞ시니</sent>
+<sent type="main" n="22">뎌도 됴하ᄒᆞ시ᄂᆞᆫ ᄯᅢ기 다 됴화 드ᄅᆞ시ᄂᆞᆫ ᄃᆞᆺᄒᆞ나</sent>
+<sent type="main" n="23">게도 ᄯᅩ 분간이 겨시고 인품 션악이 ᄆᆞᆰ아ᄒᆞ며</sent><!--‘ᄆᆞᆰ아ᄒᆞ며’의 ‘ᄆᆞᆰ’은 다른 글자 위에 덧씀-->
+<sent type="main" n="24">다 올흔 줄노 아니 아ᄅᆞ셔 내 ᄯᅳᆺ 밧노라 져리ᄒᆞᆫ다</sent>
+<sent type="main" n="25">이 ᄆᆞᄋᆞᆷ은 분명 겨시리 이ᄂᆞᆫ 보 두고 그러ᄒᆞ시니</sent>
+<sent type="main" n="26">허믈 뵈ᄋᆞᆸ디 말고 조심ᄒᆞ여 디내소</sent>
+<sent type="main" n="27">그 사ᄅᆞᆷ 기리ᄂᆞᆫ 말도 ᄒᆞ여 듯게 ᄒᆞ시ᄂᆞᆫ 것도 브졀업ᄉᆞ니</sent>
+<sent type="main" n="28">이 샹하의 쳠으로 아ᄅᆞ시리</sent><!--‘샹하의’의 ‘의’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="29">유시로브터 눈치와 샹담으로 넘거집 슈가 신통ᄒᆞ시나</sent>
+<sent type="main" n="30">ᄂᆡ판ᄒᆞ여 말ᄉᆞᆷ을 ᄡᅥᆨᄡᅥᆨ 못 ᄒᆞ시ᄂᆞ니</sent><!--‘말ᄉᆞᆷ을’의 ‘을’은 우측 행간에 기입되어 있음--><!--‘ᄡᅥᆨᄡᅥᆨ’의 뒤에 오는 ‘ᄡᅥᆨ’은 재점으로 표기되어 있음-->
+<sent type="main" n="31">잘만 도와 드려시면 일ᄃᆡ 명군 말은 드ᄅᆞ실 거시나</sent>
+<sent type="main" n="32">어려 겨실 적브터 니수의 ᄇᆞᆰ으시믄 타시 션됴 시의 업디 못ᄒᆞ리</sent>
+<sent type="main" n="33">그러나 이 압 ᄯᅩ 엇디 변ᄒᆞ실디 알ᄭᅩ ᄌᆞ고</sent>
+<sent type="main" n="34">뎨왕이 싀긔 업ᄉᆞ니 드므니 이도 죠곰 겨시니</sent>
+<sent type="main" n="35">가령 됴신의 집이라도 므어시 유여ᄒᆞ고 엇더ᄒᆞ다 ᄒᆞ면</sent>
+<sent type="main" n="36">귀존부가 쳔승이로ᄃᆡ 아쳐ᄒᆞ시ᄂᆞᆫ ᄆᆞᄃᆡ가 겨시니</sent>
+<sent type="main" n="37">다만 요ᄉᆞ이 입시ᄒᆞᄂᆞ니 잘ᄒᆞ여다가 먹어도 말ᄉᆞᆷ이 잘ᄒᆞᆫ다 ᄒᆞ시디</sent><!--‘요사이’의 ‘이’는 우측 행간에 입력되어 있음-->
+<sent type="main" n="38">당신긔셔 ᄒᆞ여 먹이ᄂᆞᆫ 것보다 나은가</sent>
+<sent type="main" n="39">이 ᄆᆞᄋᆞᆷ은 겨시리 ᄌᆞᄂᆡ 쥬년을 뵈와 오니</sent>
+<sent type="main" n="40">거의 다 아라시리 아딕은 됴뎡의 므ᄉᆞᆫ 일 이실가</sent><!--‘됴뎡의’는 다른 글자 위에 쓰여 있음-->
+<sent type="main" n="41">ᄇᆡᆨ셩이 평안티 못ᄒᆞᆯ가 이런 ᄆᆞᄋᆞᆷ은 아니 겨시고</sent>
+<sent type="main" n="42">외믈의 ᄯᅳᆺ이 겨시니 아모리 답답ᄒᆞ여 말고져 ᄒᆞ나</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="43">엇디 텬심이 도로혀기 젼은 ᄒᆞᆯ일업ᄂᆡ</sent>
+<sent type="main" n="44">뎨일 민망ᄒᆞᆫ 일이 ᄂᆡ외 엄격게 ᄒᆞ며</sent>
+<sent type="main" n="45">당신 진어ᄒᆞ시ᄂᆞᆫ 것 다쇼간 알 길이 업고</sent>
+<sent type="main" n="46">홀연이 과음ᄒᆞ신다 말이 외간ᄀᆞ디 쟈쟈ᄒᆞ여 안흐로 드러오니</sent><!--‘쟈쟈’의 뒤에 오는 ‘쟈’는 재점으로 표기되어 있음-->
+<sent type="main" n="47">못 잡ᄉᆞᆸᄂᆞᆫ 술을 엇디 일됴의 그리 과히 진어ᄒᆞ실가 본고</sent>
+<sent type="main" n="48">실샹 그러면 걱졍이오 쳬ᄒᆞᆫ다 ᄆᆡ양 ᄒᆞ시니 긔 념녀로세</sent>
+<sent type="main" n="49">금슬노 닐너도 아딕은 감감ᄒᆞ니 이슌 이제야 넘어 겨시니</sent><!--‘감감’의 뒤에 오는 ‘감’은 재점으로 표기되어 있음--><!--‘이제야’의 ‘제’는 다른 글자 위에 덧쓰여 있음-->
+<sent type="main" n="50">아기가 밧븐 거시 아니로ᄃᆡ 그져 사ᄅᆞᆷ과 다ᄅᆞ시니</sent>
+<sent type="main" n="51">기ᄃᆞ리ᄂᆞᆫ ᄆᆞᄋᆞᆷ이 밧븐 ᄃᆞᆺᄒᆞ니 어셔 졍궁의 탄휵을 ᄇᆞ라ᄃᆡ</sent>
+<sent type="main" n="52">졈은것들 이시니 엇더ᄒᆞᆯ넌디 그도 ᄎᆞ역 텬의니 엇디ᄒᆞᆯ고</sent>
+<sent type="main" n="53">아모 ᄃᆡ라도 튼튼이 나흐면 대ᄒᆡᆼ이게 ᄒᆞ엿ᄂᆡ</sent><!--‘튼튼’의 뒤에 오는 ‘튼’은 재점으로 표기되어 있음-->
+<sent type="main" n="54">ᄎᆞᄎᆞ ᄡᅳ노라니 번거ᄒᆞᆫ ᄉᆞ연이 만흐니</sent><!--‘ᄎᆞᄎᆞ’의 뒤에 오는 ‘ᄎᆞ’는 재점으로 표기되어 있음-->
+<sent type="main" n="55">젼후 이 휴지 압ᄒᆡ셔 살나 ᄇᆞ리소</sent>
+<sent type="main" n="56">녕부ᄉᆞᄂᆞᆫ 내 ᄆᆞᄋᆞᆷ과 ᄌᆞᄂᆡ ᄉᆡᆼ각이 ᄀᆞᆺᄐᆞ니 엇더턴디 살면 대ᄒᆡᆼ이오</sent>
+<sent type="main" n="57">업스면 블ᄒᆡᆼ이니 관계가 젹다 못ᄒᆡ</sent>
+<sent type="main" n="58">민달용의 말은 못 ᄒᆞᆯ 줄노 발셔 ᄒᆞ여 보내여시나</sent>
+<sent type="main" n="59">혹 ᄒᆞ여 보아 관겨티 아닐넌가</sent><!--‘아닐넌가’의 ‘넌’은 우측 행간에 입력되어 있음-->
+<sent type="main" n="60">그 ᄀᆞᆫ졀이 ᄇᆞ라ᄂᆞᆫ 거ᄉᆞᆯ ᄒᆞᆫ 휴지로 보고 ᄃᆡ답을 ᄒᆞᆫ가 ᄒᆞ여</sent>
+<sent type="main" n="61">ᄌᆞᄂᆡ 소견 듯쟈 ᄒᆞᆫ 말이러니</sent><!--‘ᄌᆞᄂᆡ’의 ‘ᄌᆞ’는 다른 글자 위에 덧쓰여 있음-->
+<sent type="main" n="62">ᄉᆞ의가 심히 졀당ᄒᆞ여 속이 싀훤ᄒᆞ여 ᄒᆞᄂᆡ</sent>
+<sent type="main" n="63">이만 긋치니 평안이 디내소</sent>
+<sent type="main" n="64">나ᄂᆞᆫ 엇디ᄒᆞᆫ ᄆᆞᄋᆞᆷ인디 인ᄉᆞ블셩인디</sent>
+<sent type="main" n="65">노호온 ᄆᆞᄋᆞᆷ과 남을 블워ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ이 아조 업ᄂᆞ니</sent>
+<sent type="main" n="66">ᄀᆞᆺᄐᆞ니 아니 고이ᄒᆞᆫ가 그러ᄒᆞ기 업수이ᄂᆞᆫ 아데</sent>
+<sent type="main" n="67">경우궁 가례 희년이 이 ᄒᆡ 이월 십이일이신ᄃᆡ</sent>
+<sent type="main" n="68">쟉헌녜ᄒᆞ신다 ᄒᆞ고 날ᄃᆞ려도 가랴ᄂᆞ냐 ᄒᆞ시고 가쟈 ᄒᆞ시나</sent>
+<sent type="main" n="69">집 우환으로 ᄆᆞᄋᆞᆷ 요요ᄒᆞ여 대풍의 토ᄉᆞ ᄀᆞᆺᄐᆞ니 나셜 ᄆᆞᄋᆞᆷ도 업고</sent><!--‘우환으로’의 ‘우’는 다른 글자 위에 덧쓰여 있음--><!--‘요요’는 다른 글자 위에 덧쓰여 있음-->
+<sent type="main" n="70">방달 간은 ᄃᆞᆫ니나 안고 닐기도 어려오니 뎡티 못ᄒᆞ엿ᄂᆡ</sent><!--‘닐기도’의 ‘도’는 우측 행간에 기입되어 있음-->
+</letter>
+
+<letter n="28" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1854년">
+<sent type="envelop2" n="01">니문ᄂᆡ</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ 입납</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">수일간 량의 우긴ᄒᆞ니</sent>
+<sent type="main" n="05">긔운 엇더ᄒᆞ신디 브리디 못ᄒᆞ오며</sent>
+<sent type="main" n="06">도뎡 집 상변은 쳔만 의외오니</sent>
+<sent type="main" n="07">경참 비셕ᄒᆞ심 오ᄌᆞᆨᄒᆞ시랴</sent>
+<sent type="main" n="08">참달ᄒᆞᆫ 밧 뎍을 말ᄉᆞᆷ이 업ᄉᆞ오이다</sent>
+<sent type="main" n="09">작셩 ᄆᆞ이 임젼 무던ᄒᆞ던가 보오니 더옥 앗갑고</sent>
+<sent type="main" n="10">대신 년셰 뉵슌이 거의신ᄃᆡ</sent>
+<sent type="main" n="11">도뎡이 편노 시하의 ᄂᆡ뎡이 공허ᄒᆞ니</sent>
+<sent type="main" n="12">이 압 현필 ᄎᆔ터라 ᄒᆞ고</sent>
+<sent type="main" n="13">도시 금은 망연 민망ᄒᆞᆯ ᄃᆞᆺ 답답ᄒᆞ오이다</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+</letter>
+
+<letter n="29" sender="순원왕후(재당고모)" writer="순원왕후(재당고모)" receiver="김병주(재종질)" year="1848년">
+<sent type="envelop2" n="01">뎐동 판셔</sent>
+<sent type="envelop1-1" n="02">범초 즉납</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">금년 여ᄅᆞᆷ ᄀᆞᆺᄐᆞᆫ 무젼 혹염이 업셔시니</sent>
+<sent type="main" n="05">엇디들 디내엿ᄂᆞ니</sent>
+<sent type="main" n="06">근일은 쳥냥ᄒᆞ니 여러 집 무고ᄒᆞ고</sent>
+<sent type="main" n="07">네 소솔도 잘 디내ᄂᆞᆫ디 브리디 못ᄒᆞᆫ다</sent>
+<sent type="main" n="08">네 삼촌 뎍거ᄂᆞᆫ 지금 의외 ᄭᅮᆷ ᄀᆞᆺᄐᆞ니 ᄒᆞᆯ 말이 업다</sent>
+<sent type="main" n="09">ᄌᆞ고로 공명ᄒᆞᄂᆞ니 시비 간 이런 일이 죵죵이오</sent><!--‘죵죵’의 뒤에 오는 ‘죵’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">만일 슈ᄋᆡᆨᄒᆞ여 면티 못ᄒᆞ량이면</sent>
+<sent type="main" n="11">올흔 일노 이리되ᄂᆞᆫ 거시 신인의 븟그러오미 업ᄉᆞᆯ 거시오</sent>
+<sent type="main" n="12">셰샹의셔 죄가 가타 ᄒᆞᄂᆞᆫ ᄃᆡ 비티 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" n="13">네희가 내 말을 박졀이 알 ᄃᆞᆺᄒᆞᄃᆡ</sent>
+<sent type="main" n="14">ᄆᆡ양 근밀의 츌입이 ᄌᆞ즈니 므ᄉᆞᆫ 탈이나 업ᄉᆞᆯ가</sent>
+<sent type="main" n="15">관심ᄒᆞ이던 ᄆᆞᄋᆞᆷ으로ᄂᆞᆫ 블ᄒᆡᆼ티 아니미 아니로ᄃᆡ</sent>
+<sent type="main" n="16">빗치 잇고 ᄆᆡ양 오래 두실 일은 아니 겨실 ᄃᆞᆺᄒᆞ여</sent><!--겨실 ^ ᄃᆞᆺᄒᆞ여(상단)-->
+<sent type="main" n="17">처음 놀납고 어히업던 ᄆᆞᄋᆞᆷ이 진졍ᄒᆞ이나</sent><!--‘어히’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="18">게 슈토 됴티 못ᄒᆞ다 ᄒᆞ니 념녀된다</sent><!--못ᄒᆞ다 ^ ᄒᆞ니(뒷면)-->
+<sent type="main" n="19">동ᄉᆡᆼ ᄌᆞ질 졍니야 그 측냥이 이실가 보냐</sent>
+<sent type="main" n="20">무판이 무모ᄒᆞᆫ 졍니 너모 슬허ᄒᆞᆯ ᄃᆞᆺ 블샹블샹 닛디 못ᄒᆞᆫ다</sent><!--‘블샹블샹’의 뒤에 오는 ‘블샹’은 재점으로 표기되어 있음-->
+<sent type="main" n="21">평안이 갓다 말은 드러시니 그ᄉᆞ이 ᄯᅩ 쇼식 드럿ᄂᆞ냐</sent>
+<sent type="main" n="22">평안이 디내기나 밋ᄂᆞᆫ다</sent>
+<sent type="main" n="23">허수 헤헤ᄒᆞ여 아모라타 업더라</sent><!--‘헤헤’의 뒤에 오는 ‘헤’는 재점으로 표기되어 있음-->
+<sent type="main" n="24">나ᄂᆞᆫ 지금 글시 ᄡᅳ려 ᄒᆞ면 안시 현황 고이ᄒᆞ여</sent>
+<sent type="main" n="25">일졀 편지도 못ᄒᆞ엿더니</sent>
+<sent type="main" n="26">오ᄂᆞᆯ이야 뎍ᄂᆞᆫ다 각 집 봉셔 뎐ᄒᆞ여라</sent>
+</letter>
+
+<letter n="030" sender="발신자" writer="작성자" receiver="수신자" year="발신 연도">
+<sent type="envelop2" n="01">봉셔</sent>
+<sent type="envelop1-1" n="02">판셔 ᄀᆡ람</sent>
+<sent type="envelop1-1" n="03">봉 봉</sent>
+<sent type="main" n="04">일한이 엄혹ᄒᆞ니 이ᄉᆞ이ᄂᆞᆫ 신질이 엇더ᄒᆞᆫ고</sent>
+<sent type="main" n="05">ᄌᆞ셔튼 못ᄒᆞᄃᆡ ᄒᆞᆫ가지오</sent>
+<sent type="main" n="06">ᄌᆞ로 톄ᄒᆞ여 민망ᄒᆞᆫ가 시브니</sent>
+<sent type="main" n="07">그만ᄒᆞ여도 나을ᄃᆡ ᄃᆞᆯ포 미류ᄒᆞ니</sent>
+<sent type="main" n="08">답답 념녀 노히디 아니ᄒᆞᄂᆡ 일월이 무졍ᄒᆞ여</sent><!--‘답답’의 뒤에 오는 ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" n="09">어ᄂᆞ덧 오라바님 발인이 되셔 지쇽 업ᄉᆞᆫ ᄒᆡᆼᄎᆞ시니</sent>
+<sent type="main" n="10">새로이 확연 통박ᄒᆞ기와 그러ᄐᆞᆺ 디내니</sent>
+<sent type="main" n="11">가도 못ᄒᆞ고 심ᄉᆞ 오ᄌᆞᆨᄒᆞᆯ가</sent>
+<sent type="main" n="12">내 ᄆᆞᄋᆞᆷ 비창 한심ᄒᆞ기 아모라타 업고</sent>
+<sent type="main" n="13">날은 이리 혹녈ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" n="14">여러 날 빙뎡 ᄒᆡᆼ상이 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="15">상인들과 판관은 엇디들 가ᄂᆞᆫ디</sent>
+<sent type="main" n="16">블샹 비려 무궁ᄒᆡ 큰집의셔도 삼상을 얼프시 ᄆᆞᆺ차</sent>
+<sent type="main" n="17">아조 깁고 먼 일이 되시니 통확ᄒᆞ기 측냥업고</sent><!--‘통확ᄒᆞ기’의 ‘확’은 고쳐 쓴 흔적이 있음-->
+<sent type="main" n="18">셰샹ᄉᆞ 다 일야 ᄭᅮᆷ이니</sent>
+<sent type="main" n="19">제겐들 언마 올 일 아니니 도모지 ᄉᆡᆼ각디 마쟈 ᄒᆞ여도</sent>
+<sent type="main" n="20">그ᄂᆞᆫ 잠간이오 쵹ᄉᆞ의 샹비티 아닌 일이 업스니</sent><!--쵹ᄉᆞ의 ^ 샹비티(뒷면)-->
+<sent type="main" n="21">고이ᄒᆞ여 ᄒᆞᄂᆡ 알픈ᄃᆡ 회셔 말고</sent>
+<sent type="main" n="22">병이나 쾌히 낫기 ᄇᆞ라ᄂᆡ</sent>
+</letter>
+
+<letter n="31" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1853년">
+<sent type="envelop2" n="01">양호</sent>
+<sent type="envelop1-1" n="02">판부ᄉᆞ 입납</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">동일이 과란ᄒᆞᆫ ᄯᅢ 만흐니 긔운 평안ᄒᆞ신디</sent>
+<sent type="main" n="05">드르니 뎌ᄯᅢᄂᆞᆫ 감긔와 인후로 블안이 디내신다 ᄒᆞ더니</sent>
+<sent type="main" n="06">일젼 의호의 드러와 겨시더라 ᄒᆞ니</sent>
+<sent type="main" n="07">실셥이나 아니 ᄒᆞ신디 브리디 못ᄒᆞ오며</sent>
+<sent type="main" n="08">향ᄂᆡᄂᆞᆫ 유의ᄒᆞ시던 일노 ᄅᆡ왕 쳔 니나 작ᄒᆡᆼᄒᆞ시다 ᄒᆞ니</sent>
+<sent type="main" n="09">슈고ᄒᆞᆫ 표나 이셔 여의 구득ᄒᆞ고</sent>
+<sent type="main" n="10">허ᄒᆡᆼ이나 아니ᄒᆞ여ᄉᆞᆸᄂᆞ니잇가 일ᄏᆞᆺᄉᆞ오며</sent>
+<sent type="main" n="11">녕변 도임 후 년ᄒᆞ여 평안ᄒᆞᆫ가 념이러니</sent>
+<sent type="main" n="12">졍언 샹경 편 드르니 무ᄉᆞᄒᆞᄃᆡ</sent>
+<sent type="main" n="13">졈졈 근력이 독노ᄒᆞ니 ᄀᆞᆺ더라 ᄒᆞ니</sent><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" n="14">근간 환갑이 쇼년들 ᄀᆞᆺᄐᆞᆫᄃᆡ 어이 그러ᄒᆞᆫ고 브리디 못ᄒᆞ오며</sent>
+<sent type="main" n="15">근일 내 결단ᄒᆞᆫ 일이 소위 셰도라 칭ᄒᆞᆫ 일이ᄃᆡ</sent>
+<sent type="main" n="16">가부도 뭇디 아니ᄒᆞ고 셔역도 어렵고 번다ᄒᆞ여</sent>
+<sent type="main" n="17">말도 못ᄒᆞ여ᄉᆞ오며 츈하 간 소문이 졈졈 됴티 아니ᄒᆞᆫᄃᆡ</sent><!--못ᄒᆞ^여ᄉᆞ오며(상단)--><!--‘졈졈’의 뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" n="18">무비희ᄅᆡ 관쟉븟치 긔괴ᄒᆞᆫ 험담이 무소브지ᄒᆞ니</sent><!--관쟉붓^치(뒷면)-->
+<sent type="main" n="19">일일마다 다 잘ᄒᆞ다 ᄒᆞ든 못ᄒᆞ여실디라도</sent><!--‘일일’의 뒤에 오는 ‘일’은 재점으로 표기되어 있음-->
+<sent type="main" n="20">다 여러 어룬의게 의논ᄒᆞ여 ᄒᆞ여실ᄃᆡ</sent>
+<sent type="main" n="21">그ᄉᆞ이 모ᄉᆞᄒᆞ고 공도ᄂᆞᆫ 젹고 ᄉᆞ졍이 만하 그러ᄒᆞ엿ᄂᆞᆫ디</sent>
+<sent type="main" n="22">그ᄂᆞᆫ 모로ᄃᆡ 엇더ᄒᆞ던디 년쳔ᄒᆞ여 더 업수이 아라</sent>
+<sent type="main" n="23">그런 ᄃᆞᆺ도 ᄒᆞ고 ᄯᅩᄂᆞᆫ 가례ᄀᆞ디 ᄒᆞ여 쥬년이 넘어시니</sent>
+<sent type="main" n="24">그 긔긔괴괴ᄒᆞᆫ 시비ᄅᆞᆯ 몽피ᄒᆞ고</sent><!--‘긔긔괴괴’의 뒤에 오는 ‘긔’와 ‘괴’는 재점으로 표기되어 있음-->
+<sent type="main" n="25">이실 묘리 업기 결단ᄒᆞ여 보아 드리라 ᄒᆞ여시ᄃᆡ</sent>
+<sent type="main" n="26">일변으로ᄂᆞᆫ 일심이 동동ᄒᆞ오이다 노셩ᄒᆞ니들이니</sent><!--‘동동’은 뒤에 오는 ‘동’은 재점으로 표기되어 있음-->
+<sent type="main" n="27">응당 조심ᄒᆞ여 ᄒᆞᆯ ᄃᆞᆺᄒᆞ나 ᄉᆞ려가 만하 이러ᄒᆞ외다</sent>
+<sent type="main" n="28">감ᄉᆞ 일도 나ᄂᆞᆫ 말고져 ᄒᆞᆫ 일이 엇디엇디ᄒᆞ여 그리되여시니</sent><!--‘엇디엇디’의 뒤에 오는 ‘엇디’는 재점으로 표기되어 있음-->
+<sent type="main" n="29">젼 감ᄉᆞ가 지켜도 나을ᄃᆡ</sent>
+<sent type="main" n="30">이ᄯᅢ 폐도극쳐ᄒᆞ여 인심은 볼 거시 업다 ᄒᆞᄂᆞᆫᄃᆡ 가셔 엇디 디낼고</sent>
+<sent type="main" n="31">민망 관녀 무궁ᄒᆞ오며 잘이나 디내기 조이오며</sent>
+<sent type="main" n="32">샹감긔셔ᄂᆞᆫ 근간은 글을 ᄆᆞᄋᆞᆷ 드려 닑으시고 문니도 나으시다 ᄒᆞ니</sent>
+<sent type="main" n="33">ᄒᆞᆨ문이나 잘ᄒᆞ며 만긔 총관이 광명ᄒᆞ며</sent>
+<sent type="main" n="34">이러타 져러타 시비 업고 태평 반셕 ᄀᆞᆺ기 듀야 옹츅ᄒᆞ오며</sent>
+<sent type="main" n="35">이 편지 몃 날 별너 평부 듯고 섭섭ᄒᆞᆫ 거시나 펴고져 뎍ᄉᆞᆸᄂᆞ이다</sent><!--‘섭섭’의 뒤에 오는 ‘섭’은 재점으로 표기되어 있음-->
+<sent type="main" n="36">이런 휴지ᄂᆞᆫ 업시 ᄒᆞ시ᄋᆞᆸ쇼셔</sent>
+<sent type="main" n="37">나ᄂᆞᆫ 큰 병은 업스나 댱 ᄉᆞ려가 만하 ᄯᆞᆨᄒᆞ외다</sent>
+</letter>
+
+<letter n="32" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1850년">
+<sent type="envelop2" n="01">뎐동</sent>
+<sent type="envelop1-1" n="02">판셔 ᄀᆡ탁</sent>
+<sent type="envelop1-1" n="03">근봉</sent>
+<sent type="main" n="04">일간 견비통 엇더ᄒᆞᆫ가 ᄆᆞ이 괴로올 거시니</sent>
+<sent type="main" n="05">브리디 못ᄒᆞᄂᆡ 덥게나 ᄒᆞ여 보소</sent>
+<sent type="main" n="06">일젼 회답은 다 ᄌᆞ셔히 보앗ᄂᆡ</sent>
+<sent type="main" n="07">이 초를 잡아시니 판셔긔도 보내려니와</sent>
+<sent type="main" n="08">므ᄉᆞᆫ 잘못 ᄡᅳᆫ 말이나 엇더ᄒᆞᆫ 말 잇거든 협셔ᄒᆞ여 곳텨 주소</sent>
+<sent type="main" n="09">ᄌᆞᄂᆡ도 ᄌᆞ셔히 보소</sent>
+<sent type="main" n="10">이거시 내 속의 잇ᄂᆞᆫ 말을 ᄯᅩᆨ ᄒᆞ여시니</sent>
+<sent type="main" n="11">졍니가 이러ᄒᆞ여야 올티 아니ᄒᆞ겟나</sent>
+<sent type="main" n="12">그ᄯᅢ 비ᄒᆞ여ᄂᆞᆫ 원통 ᄀᆞᆨ골ᄒᆞ기 엇디 이ᄯᅢ ᄀᆞᆺ틀가 본가</sent>
+<sent type="main" n="13">판셔ᄂᆞᆫ 이리 뎐교 ᄂᆞ리고</sent>
+<sent type="main" n="14">대신 입시 나죵 ᄒᆞᆯ 줄노 것집어 ᄉᆡᆼ각ᄒᆞ엿ᄂᆞᆫ가</sent>
+<sent type="main" n="15">보ᄃᆡ 듕ᄉᆞ톄오 소견이 젼후가 판이ᄒᆞ니</sent>
+<sent type="main" n="16">아모리 아ᄂᆞᆫ 일이라도 ᄂᆡᄃᆡᄒᆞ여 보고 ᄒᆞᄂᆞᆫ 거시 올키</sent>
+<sent type="main" n="17">그리ᄒᆞᆯ 줄노 ᄒᆞ엿ᄂᆡ 두 말 듕 보소</sent>
+</letter>
+
+<letter n="33" sender="순원왕후(재종누나)" writer="순원왕후(재종누나)" receiver="김흥근(재종동생)" year="1855년">
+<sent type="envelop2" n="01">뎐동 대신</sent>
+<sent type="envelop1-1" n="02">대신</sent>
+<sent type="main" n="03">근일 쳥화 됴균ᄒᆞ니 긔운 평안ᄒᆞ시고</sent>
+<sent type="main" n="04">침담지졀이 엇더ᄒᆞ신디 브리ᄋᆞᆸ디 못ᄒᆞ오며</sent>
+<sent type="main" n="05">녕변셔도 평안ᄒᆞ신디 노인이 공관이 어려올 ᄃᆞᆺ 일ᄏᆞᆺᄉᆞ오며</sent>
+<sent type="main" n="06">병시ᄂᆞᆫ 대과를 ᄒᆞ니 외오셔 긔희ᄒᆞ고</sent>
+<sent type="main" n="07">대신긔셔 깃거ᄒᆞ시랴 깃브ᄃᆡ</sent>
+<sent type="main" n="08">뉵죵형뎨 ᄲᅡ디니 업시 계화ᄅᆞᆯ 다 ᄭᅩ져시니</sent>
+<sent type="main" n="09">인인마다 흠션ᄒᆞᆯ 거시니</sent><!--‘인인’의 뒤에 오는 ‘인’은 재점으로 표기되어 있음-->
+<sent type="main" n="10">실노ᄂᆞᆫ 아모 ᄆᆞᄋᆞᆷ 업시 깃븐 줄은 아디 못ᄒᆞ고 블안ᄒᆞ오이다</sent>
+<sent type="main" n="11">영은 ᄌᆞ 병필의 과거도 의외니 션음으로 그러ᄒᆞᆫ가 보니</sent>
+<sent type="main" n="12">션음 밧은 후손들이 ᄯᅩ 슈국후은을 간폐의 삭여</sent>
+<sent type="main" n="13">대신들노브터 말관ᄀᆞ디라도 졍승은 졍승 직임을 잘ᄒᆞ고</sent><!--잘^ᄒᆞ고(상단)-->
+<sent type="main" n="14">판셔 참판은 그 직ᄉᆞᄅᆞᆯ 다ᄒᆞ고</sent>
+<sent type="main" n="15">하관의 잇ᄂᆞ 니ᄂᆞᆫ ᄯᅩ 그 직ᄎᆡᆨ을 잘ᄒᆞ여</sent><!--‘그’는 우측 행간에 기입되어 있음--><!--잘^ᄒᆞ여(우단)-->
+<sent type="main" n="16">감ᄉᆞ 슈령ᄀᆞ디라도 남 긔이고져 ᄒᆞᄂᆞᆫ 일 업스면</sent>
+<sent type="main" n="17">이거시 올흔 일이니</sent>
+<sent type="main" n="18">ᄌᆞ딜들 샹샹 경계ᄒᆞ여 귀 눈에 닉게 ᄒᆞᄋᆞᆸ 튱후 관인 ᄌᆞ혜 힘ᄡᅳ디</sent><!--‘샹샹’의 뒤에 오는 ‘샹’은 재점으로 표기되어 있음-->
+<sent type="main" n="19">ᄋᆡᆨ삭 블인은 ᄂᆞᆷ이 모ᄅᆞ리라 ᄒᆞ고도 아닐 거시</sent>
+<sent type="main" n="20">사ᄅᆞᆷ은 모ᄅᆞ나 하ᄂᆞᆯ은 ᄭᅦ 보시니 엇디 무셥디 아니ᄒᆞ오리잇가</sent><!--아니ᄒᆞ오^리잇가(뒷면)-->
+<sent type="main" n="21">조샹긔셔ᄂᆞᆫ 국가의셔 블망지혈튱으로 그 ᄌᆞ손 되ᄂᆞ니로 현발 탁용ᄒᆞ시거니</sent>
+<sent type="main" n="22">실즉 후손이야 므ᄉᆞᆫ 일ᄏᆞ랄 일이 업시 이런ᄐᆞ시 훤혁ᄒᆞ여</sent><!--‘이런ᄐᆞ시’의 ‘ᄐᆞ시’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="23">남이 ᄇᆞ라도 보디 못ᄒᆞᆯ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="24">블샹ᄒᆞ시믄 그ᄯᅢ 조샹이시고 훤혁ᄒᆞ기ᄂᆞᆫ 이ᄯᅢ 아닌가</sent>
+<sent type="main" n="25">하ᄂᆞᆯ이 넘ᄧᅵᆫ 거ᄉᆞᆫ 믜워ᄒᆞ시기ᄂᆞᆫ 반ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" n="26">그져 집안 아ᄒᆡ들 공검 근신ᄒᆞ기를 ᄇᆞ라ᄃᆡ</sent>
+<sent type="main" n="27">다 ᄆᆞᄋᆞᆷ대로 가ᄂᆞᆫ 일이 업스니</sent>
+<sent type="main" n="28">늠구ᄒᆞ기 측냥업ᄉᆞᆸ 편지 ᄡᅳ노라 ᄒᆞ니 댱황ᄒᆞᄃᆡ</sent>
+<sent type="main" n="29">내 ᄆᆞᄋᆞᆷ의 잇ᄂᆞᆫ 말을 오히려 다 ᄡᅳ디 못ᄒᆞᄋᆞᆸ</sent><!--‘오히려’는 우측 행간에 기입되어 있음-->
+<sent type="main" n="30">이제ᄂᆞᆫ 눈이 어두어지고 졍신이 흐릿흐릿ᄒᆞ여</sent><!--‘흐릿흐릿’의 뒤에 오는 ‘흐릿’은 재점으로 표기되어 있음-->
+<sent type="main" n="31">글ᄌᆞ도 되디 못ᄒᆞ고 ᄉᆞ연이 니어 되디 아니니</sent>
+<sent type="main" n="32">짐쟉ᄒᆞ여 보시ᄋᆞᆸ 병시ᄂᆞᆫ 약ᄒᆞ도 아니코</sent>
+<sent type="main" n="33">임젼ᄒᆞ여 뵈니 다ᄒᆡᆼᄒᆞᄋᆞᆸ더이다</sent>
+<sent type="main" n="34">어제 처음으로 영은을 보니</sent>
+<sent type="main" n="35">든든ᄒᆞᄃᆡ 그듕의도 조심ᄒᆞᄂᆞᆫ 심회가 만ᄉᆞᆸ더이다</sent><!--‘든든’의 뒤에 오는 ‘든’은 재점으로 표기되어 있음-->
+</letter>
+
+</doc>
+
