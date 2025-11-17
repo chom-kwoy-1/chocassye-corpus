@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">천의소감언해</title>
+<title lang="chi">闡義昭鑑諺解</title>
+<full_name>천의소감언해</full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<nikl_name>천의소감언해</nikl_name><!--국립국어원(NIKL) 국어 어원사전 편찬 일반서명-->
+<general_name>천의소감언해</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name></another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고] ;[디] ;[우] ;[이] ;[표];</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version></version>
+<volume n="2"/>
+<author>편저자: 김재로, 이천보, 조재호 등 / 집필자: 김정수</author><!-- 한국민족문화대백과사전의"천의소감언해" 항목 참고 -->
+<date>1756</date><!-- 간행 시기가 한국민족문화대백과사전"천의소감언해" 항목에서는 1756년(영조 32)임. 1755년은<천의소감>(한문본)이 간행된 연도임 -->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>闡義昭鑑諺解</title><!--목판본, 서울대 규장각한국학연구원 소장본-->
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1982</date><!--디지털한글박물관>한글 문헌 통합 정보>천의소감언해 항목 참조-->
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2016/02/10</date>
+<respStmt>
+<resp>입력자</resp><name>최진</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>황선엽</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/10/17</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정한데로</name>
+</respStmt>
+<item>언해 입력본 교정 및 한문 원문을 추가함.</item>
+<!--한문 원문은 한국고전종합DB의 입력본을 규장각 소장 <천의소감>(奎1177)과 대조하였음-->
+</revisionDesc>
+</teiHeader>
+
+<pages n="2:1a">
+<img n="2:1a">https://kohico.kr/_media/image/bookname/2:1a.jpg</img>
+<sent type="title" lang="chi" page="2:1a" n="1">闡義昭鑑 卷之二</sent>
+<sent type="title" lang="kor" page="2:1a" n="1">쳔의쇼감언ᄒᆡ 권지이</sent>
+<sent type="main" lang="chi" page="2:1a" n="2">四年【甲辰】八月【朔辛未】乙未，景廟昇遐。庚子，今上殿下嗣位。</sent>
+<!--한문 원문에는 '甲辰'이 권1의 '壬寅', '辛丑'과 같이 소제목처럼 쓰이고 있으나 여기서는 언해문의 형식에 맞추어 '【甲辰】'과 같이 협주로 처리함-->
+<sent type="main" lang="kor" page="2:1a" n="2">ᄉᆞ년 【갑진】 팔월 【삭 신미】 을미의 경ᄆᆈ 승하ᄒᆞ오시고 경ᄌᆞ의 금샹 뎐해 ᄉᆞ위ᄒᆞ오시다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:1a" n="3">九月，命竄議藥人李公胤。</sent>
+<sent type="main" lang="kor" page="2:1a" n="3">구월의 명ᄒᆞ오샤 의약인 니공윤을 귀향 보내오시다</sent>
+<sent type="main" lang="chi" page="2:1a" n="4">傳旨有曰：“義盈庫主簿李公胤本以狂妄之人，</sent>
+<sent type="main" lang="kor" page="2:1a" n="4">뎐지의 ᄀᆞᆯᄋᆞ샤ᄃᆡ 의영고 쥬부 니공윤이 본ᄃᆡ 미티고 망녕된 사ᄅᆞᆷ으로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="2:1a" n="5">每當入診，輒事傲慢。</sent>
+<sent type="main" lang="kor" page="2:1a" n="5">ᄆᆡ양 입진ᄒᆞ기ᄅᆞᆯ 당ᄒᆞ야 믄득 오만ᄒᆞ믈 일삼고</sent>
+<sent type="main" lang="chi" page="2:1a" n="6">今番玉候違豫之候，議藥論症之際，專不詳愼，以致症情之轉劇。</sent>
+<sent type="main" lang="kor" page="2:1a" n="6">금번 옥휘 위예ᄒᆞ오신 ᄯᅢ 의약 논증ᄒᆞ올 즈음의 뎐혀 샹신티 아니ᄒᆞ야 ᄡᅥ 증졍이 졈졈 듕ᄒᆞ오시기의 니ᄅᆞ고</sent>
+<sent type="main" lang="chi" page="2:1a-1b" n="7">及夫大漸之夕，憂遑焦迫，招問症候，則少無驚動底意，其言動擧止無非慢蹇駭悖之狀。</sent>
+<sent type="main" lang="kor" page="2:1a-1b" n="7">밋 대졈ᄒᆞ오신 져녁의 우황ᄒᆞ고 쵸박ᄒᆞ야 블너 증후ᄅᆞᆯ 뭇ᄌᆞ온즉 됴금도 경동ᄒᆞᄂᆞᆫ 의ᄉᆡ 업서 그 언동과 거지 무비 만건ᄒᆞ고 ᄒᆡ패ᄒᆞᆫ 형상이니</sent>
+<!--'됴금도'는 '됴곰도'의 탈획으로 보임-->
+<!--졈^ᄒᆞ-->
+</pages>
+
+<pages n="2:1b">
+<img n="2:1b">https://kohico.kr/_media/image/bookname/2:1b.jpg</img>
+<sent type="main" lang="chi" page="2:1b" n="1">如此悖慢無嚴之人，不可不重加懲治，爲先拿鞫嚴問，依律處斷。”</sent>
+<sent type="main" lang="kor" page="2:1b" n="1">이ᄀᆞᆺ티 패만 무엄ᄒᆞᆫ 사ᄅᆞᆷ을 가히 듕히 딩티ᄅᆞᆯ 더으디 아니티 못ᄒᆞᆯ 거시니 위션 나국 엄문ᄒᆞ야 의뉼 쳐단ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:1b" n="2">公胤原情，判付有曰：“渠之所爲，雖無臺啓，</sent>
+<sent type="main" lang="kor" page="2:1b" n="2">공윤이 원졍ᄒᆞ니 판부의 ᄀᆞᆯᄋᆞ샤ᄃᆡ 제 소위ᄂᆞᆫ 비록 ᄃᆡ계 업ᄉᆞ나</sent>
+<sent type="main" lang="chi" page="2:1b" n="3">伊日予亦親覩，則費辭發明，冀其倖免者，已極痛惡。</sent>
+<sent type="main" lang="kor" page="2:1b" n="3">그날 내 ᄯᅩᄒᆞᆫ 친히 보아신즉 비ᄉᆞ 발명ᄒᆞ야 그 ᄒᆡᆼ면ᄒᆞ기ᄅᆞᆯ ᄇᆞ라ᄂᆞᆫ 거시 이믜 극히 통악ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:1b-2a" n="4">自先朝議藥時，敢立己意</sent>
+<sent type="main" lang="kor" page="2:1b-2a" n="4">션됴 의약ᄒᆞ오실 ᄯᅢ로브터 감히 제 의견을 셰워</sent>
+<!--브^터-->
+</pages>
+
+<pages n="2:2a">
+<img n="2:2a">https://kohico.kr/_media/image/bookname/2:2a.jpg</img>
+<sent type="main" lang="chi" page="2:2a" n="1">症候添加之日，妄用攻劑者，緣何手而出乎？</sent>
+<sent type="main" lang="kor" page="2:2a" n="1">증휘 더ᄒᆞ오신 날의 망녕되이 공격ᄒᆞᄂᆞᆫ 약을 ᄡᅳ오미 뉘 손으로 인연ᄒᆞ여 낫ᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:2a" n="2">言念及此，不覺痛心。姑停刑推，更加嚴問。”</sent>
+<sent type="main" lang="kor" page="2:2a" n="2">ᄉᆡᆼ각이 이에 미ᄎᆞ매 ᄆᆞᄋᆞᆷ의 알프기ᄅᆞᆯ ᄭᆡᄃᆞᆺ디 못ᄒᆞᄂᆞ니 아딕 튜ᄅᆞᆯ 그티고 다시 엄문ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:2a" n="3">更推後，命島配。</sent>
+<sent type="main" lang="kor" page="2:2a" n="3">ᄀᆡᆼ튜ᄒᆞᆫ 후의 명ᄒᆞ오샤 졀도의 귀향 보내오시다</sent>
+<sent type="main" lang="chi" page="2:2a" n="4">其後憲府啓：“先王患候蓋非一時之症，</sent>
+<sent type="main" lang="kor" page="2:2a" n="4">그 후의 헌뷔 계ᄉᆞᄒᆞ되 션왕 환휘 대개 일시 증휘 아니오시니</sent>
+<sent type="main" lang="chi" page="2:2a" n="5">惟當以和平之劑，漸次調補，</sent>
+<sent type="main" lang="kor" page="2:2a" n="5">오딕 맛당히 화평ᄒᆞᆫ 약으로ᄡᅥ 졈ᄎᆞ로 됴보ᄒᆞ올 거시오</sent>
+<sent type="main" lang="chi" page="2:2a-2b" n="6">不可以攻伐之藥妄希捷效。</sent>
+<sent type="main" lang="kor" page="2:2a-2b" n="6">가히 공벌ᄒᆞᄂᆞᆫ 약으로ᄡᅥ 망녕되이 ᄲᆞᄅᆞᆫ 효험을 ᄇᆞ랄 거시 아니어ᄂᆞᆯ</sent>
+<!--아^니-->
+</pages>
+
+<pages n="2:2b">
+<img n="2:2b">https://kohico.kr/_media/image/bookname/2:2b.jpg</img>
+<sent type="main" lang="chi" page="2:2b" n="1">彼公胤者不思審愼之道，輕投峻烈之劑，</sent>
+<sent type="main" lang="kor" page="2:2b" n="1">뎌 공윤이 심신ᄒᆞᄂᆞᆫ 도리ᄅᆞᆯ ᄉᆡᆼ각디 아니ᄒᆞ고 가ᄇᆞ야이 쥰녈ᄒᆞᆫ 약을 나오니</sent>
+<sent type="main" lang="chi" page="2:2b" n="2">如承氣湯、龍薈丸等藥，藥性甚峻，</sent>
+<sent type="main" lang="kor" page="2:2b" n="2">승긔탕 룡회환 ᄀᆞᄐᆞᆫ 약이 약셩이 심히 쥰ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:2b" n="3">凡諸疾病不敢輕試，</sent>
+<sent type="main" lang="kor" page="2:2b" n="3">므릇 모든 병에 감히 가ᄇᆞ야이 시험티 못ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:2b" n="4">而公胤乃敢試之於至尊之病，以致胃氣先壞，</sent>
+<sent type="main" lang="kor" page="2:2b" n="4">공윤이 이에 감히 지존 병환의 시험ᄒᆞ야 ᄡᅥ 비위 긔운이 몬져 믄허디오시고</sent>
+<sent type="main" lang="chi" page="2:2b" n="5">眞元暗鑠，終貽臣民無窮之痛，</sent>
+<sent type="main" lang="kor" page="2:2b" n="5">진원이 ᄀᆞ마니 쇼샥ᄒᆞ오시기ᄅᆞᆯ 니뢰여 ᄆᆞᄎᆞᆷ내 신민의 무궁히 셜옴을 깃티오니</sent>
+<sent type="main" lang="chi" page="2:2b" n="6">其罪固不容誅。</sent>
+<sent type="main" lang="kor" page="2:2b" n="6">그 죄 진실로 버키ᄅᆞᆯ 용납디 못ᄒᆞ올 거시어ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:2b-3a" n="7">而其時廷臣惟恐延及於藥院諸臣，</sent>
+<sent type="main" lang="kor" page="2:2b-3a" n="7">그ᄯᅢ 뎡신이 오딕 약원 졔신의게 연급ᄒᆞᆯ가 저허ᄒᆞ야</sent>
+<!--허^ᄒᆞ-->
+</pages>
+
+<pages n="2:3a">
+<img n="2:3a">https://kohico.kr/_media/image/bookname/2:3a.jpg</img>
+<sent type="main" lang="chi" page="2:3a" n="1">不能據法爭執，尙逭刑章，</sent>
+<sent type="main" lang="kor" page="2:3a" n="1">능히 거법ᄒᆞ야 ᄌᆡᆼ집디 못ᄒᆞ야 오히려 형쟝을 도망ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="main" lang="chi" page="2:3a" n="2">其在國法，斷不可容貸。</sent>
+<sent type="main" lang="kor" page="2:3a" n="2">국법의 결단ᄒᆞ야 가히 용ᄃᆡ티 못ᄒᆞ올디라</sent>
+<sent type="main" lang="chi" page="2:3a" n="3">請絶島定配罪人李公胤，拿鞫嚴問，依律處斷。”</sent>
+<sent type="main" lang="kor" page="2:3a" n="3">쳥컨대 졀도뎡ᄇᆡ 죄인 니공윤을 나국 엄문ᄒᆞ야 의뉼 쳑단ᄒᆞ여디이다</sent>
+<sent type="anno" lang="chi" page="2:3a" n="4">此啓在乙巳正月。</sent>
+<sent type="anno" lang="kor" page="2:3a" n="4">이 계ᄉᆡ 을ᄉᆞ 졍월의 잇다</sent>
+<sent type="main2" lang="chi" page="2:3a" n="5">蓋景廟聖候違豫之中，自癸卯夏間，連進甘遂散、猪心湯、桃仁承氣湯，加靑黛。</sent>
+<sent type="main2" lang="kor" page="2:3a" n="5">대개 경묘 셩휘 위예ᄒᆞ오신 가온ᄃᆡ 계묘년 녀름으로브터 년ᄒᆞ야 감슈산과 뎨심탕과 도인승긔탕의 쳥ᄃᆡᄅᆞᆯ 더어 나오시더니</sent>
+<sent type="main2" lang="chi" page="2:3a-3b" n="6">六月患大腫，七月開膿，八月始平復，</sent>
+<sent type="main2" lang="kor" page="2:3a-3b" n="6">뉵월의 큰 죵환이 겨오셔 칠월의 ᄀᆡ롱ᄒᆞ오시고 팔월의 비로소 평복ᄒᆞ오시니</sent>
+<!--ᄒᆞ^오-->
+</pages>
+
+<pages n="2:3b">
+<img n="2:3b">https://kohico.kr/_media/image/bookname/2:3b.jpg</img>
+<sent type="main2" lang="chi" page="2:3b" n="1">其間連進牛黃、胎水、黃連等藥。</sent>
+<sent type="main2" lang="kor" page="2:3b" n="1">그ᄉᆞ이의 년ᄒᆞ야 우황과 ᄐᆡ슈와 황년 등 약을 나오시고</sent>
+<sent type="main2" lang="chi" page="2:3b" n="2">九月至十二月，復進桃仁承氣湯，且用當歸龍薈丸。</sent>
+<sent type="main2" lang="kor" page="2:3b" n="2">구월로 십이월의 니ᄅᆞ러 다시 도인승긔탕을 나오시고 ᄯᅩ 당귀뇽회환을 쓰오니</sent>
+<sent type="main2" lang="chi" page="2:3b" n="3">先是壬寅十二月，議用龍薈丸。</sent>
+<sent type="main2" lang="kor" page="2:3b" n="3">이에 몬뎌 임인년 십이월의 룡회환 쓰ᄋᆞᆸ기을 의논ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:3b" n="4">副提調任舜元陳疏力爭至云：</sent>
+<sent type="main2" lang="kor" page="2:3b" n="4">부뎨됴 임슌원이 샹소ᄅᆞᆯ 베퍼 힘ᄡᅥ ᄃᆞ토와 니ᄅᆞᄃᆡ</sent>
+<sent type="main2" lang="chi" page="2:3b" n="5">“通醫理者，莫不駭且怪曰‘積年宿火，必溫而散之，</sent>
+<sent type="main2" lang="kor" page="2:3b" n="5">의리ᄅᆞᆯ 통ᄒᆞᄂᆞᆫ 쟤 경ᄒᆡᄒᆞ고ᄯᅩ 괴이히 너기디 아니리 업서 ᄀᆞᆯ오ᄃᆡ 젹년 슉화ᄅᆞᆯ 반ᄃᆞ시 덥게 ᄒᆞ와 흣틀 거시니</sent>
+<sent type="main2" lang="chi" page="2:3b-4a" n="6">一有當溫而涼之，則眞元見損，下元虛冷，陽無止泊，上升爲熱’。</sent>
+<sent type="main2" lang="kor" page="2:3b-4a" n="6">ᄒᆞᆫ번 맛당히 데일 ᄃᆡ 서늘히 ᄒᆞ면 진원이 손ᄒᆞ고 하원이 허ᄅᆡᆼᄒᆞ야 양긔 지박ᄒᆞᆯ ᄃᆡ 업서 우흐로 올나 열이 된다 ᄒᆞ니</sent>
+<!--ᄒᆞ^고-->
+</pages>
+
+<pages n="2:4a">
+<img n="2:4a">https://kohico.kr/_media/image/bookname/2:4a.jpg</img>
+<sent type="main2" lang="chi" page="2:4a" n="1">今此龍薈丸諸料，無非通利之劑，</sent>
+<sent type="main2" lang="kor" page="2:4a" n="1">이제 이 룡회환 모든 ᄌᆡᄅᆈ 통니ᄒᆞᄂᆞᆫ 약이 아닌 거시 업ᄉᆞ오니</sent>
+<sent type="main2" lang="chi" page="2:4a" n="2">與溫而散之不啻相反”云。</sent>
+<sent type="main2" lang="kor" page="2:4a" n="2">데여 흣기로 더브러 론샹반ᄒᆞᆯ ᄲᅮᆫ이 아니라 ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:4a" n="3">提調李台佐陳章引咎，仍停進。其後終用之。</sent>
+<sent type="main2" lang="kor" page="2:4a" n="3">뎨됴 니ᄐᆡ좨 딘쟝ᄒᆞ야 인구ᄒᆞ고 인ᄒᆞ야 나오기ᄅᆞᆯ 그텻더니 그 후에 ᄆᆞᆺᄎᆞᆷ내 ᄡᅳ고</sent>
+<!--'니ᄐᆡ좨'의 '좨'는 '조ᅟᅤ'로 판독되나 앞서 '니ᄐᆡ좨'로 나온 적이 있으므로 수정하여 입력함-->
+<sent type="main2" lang="chi" page="2:4a" n="4">甲辰三月便道滑泄，</sent>
+<sent type="main2" lang="kor" page="2:4a" n="4">갑진 삼월의 변되 활셜ᄒᆞ오시고</sent>
+<sent type="main2" lang="chi" page="2:4a" n="5">四月以後連用柴平湯、涼膈散。</sent>
+<sent type="main2" lang="kor" page="2:4a" n="5">ᄉᆞ월 이후의 년ᄒᆞ야 싀평탕 냥격산을 ᄡᅳ고</sent>
+<sent type="main2" lang="chi" page="2:4a" n="6">七月以後患候漸重，水刺厭進，</sent>
+<sent type="main2" lang="kor" page="2:4a" n="6">칠월 이후의 환휘 졈졈 듕ᄒᆞ오셔 슈라 나오기ᄅᆞᆯ 슬희여 ᄒᆞ오시고</sent>
+</pages>
+
+<pages n="2:4b">
+<img n="2:4b">https://kohico.kr/_media/image/bookname/2:4b.jpg</img>
+<sent type="main2" lang="chi" page="2:4b" n="1"></sent>
+<sent type="main2" lang="kor" page="2:4b" n="1">寢睡不平，頭部微疼，又有寒熱之候，침ᄉᆔ 불평ᄒᆞ오시고 두뷔 미동ᄒᆞ오시고 ᄯᅩ 한열이 겨오셔</sent>
+<sent type="main2" lang="chi" page="2:4b" n="2">自八月初八日，藥院竝直用柴胡白虎湯。</sent>
+<sent type="main2" lang="kor" page="2:4b" n="2">팔월 초팔일노브터 약원이 병딕ᄒᆞ야 싀호ᄇᆡᆨ호탕을 ᄡᅳ고</sent>
+<sent type="main2" lang="chi" page="2:4b" n="3">十九日，用加味六君子湯，繼用粟米飮、紅蛤湯，</sent>
+<sent type="main2" lang="kor" page="2:4b" n="3">십구일의 가미뉵군ᄌᆞ탕을 ᄡᅳ고 니어 속미음 홍합탕을 ᄡᅳ오ᄃᆡ</sent>
+<sent type="main2" lang="chi" page="2:4b" n="4">而水刺厭進終未已。</sent>
+<sent type="main2" lang="kor" page="2:4b" n="4">슈라 나오기 슬ᄌᆞ오시미 ᄆᆞᆺᄎᆞᆷ내 마디 아니ᄒᆞ오시고</sent>
+<!--'ᄆᆞᆺᄎᆞᆷ내'에서 'ᄆᆞᆺ'의 'ᅟᆞ'가 탈획된 것으로 보임-->
+<sent type="main2" lang="chi" page="2:4b" n="5">二十三日，藥房移直廚院，用蔘煎一兩重。</sent>
+<sent type="main2" lang="kor" page="2:4b" n="5">이십삼일의 약방 이듀원의 이딕ᄒᆞ야 인ᄉᆞᆷ 일 냥듕을 달혀 ᄡᅳ고</sent>
+<sent type="main2" lang="chi" page="2:4b" n="6">二十四日，用二兩重，而竟未告效。</sent>
+<sent type="main2" lang="kor" page="2:4b" n="6">이십ᄉᆞ일의 이 냥듕을 ᄡᅳ오되 ᄆᆞᆺᄎᆞᆷ내 효험을 엇디 못ᄒᆞ오니</sent>
+<!--'ᄆᆞᆺᄎᆞᆷ내'에서 'ᄆᆞᆺ'의 'ᅟᆞ'가 탈획된 것으로 보임-->
+<sent type="main2" lang="chi" page="2:4b-5a" n="7">蓋甘遂散、承氣湯、龍薈丸、涼膈散、柴平ㆍ白虎湯，皆是苦寒瀉利之劑，</sent>
+<sent type="main2" lang="kor" page="2:4b-5a" n="7">대개 감슈산과 승긔탕과 뇽회환과 냥격산과 싀평 ᄇᆡᆨ호탕이 다 괴로이 ᄎᆞ고 흘티이ᄂᆞᆫ 약이라</sent>
+<!--과 ^ 싀-->
+</pages>
+
+<pages n="2:5a">
+<img n="2:5a">https://kohico.kr/_media/image/bookname/2:5a.jpg</img>
+<sent type="main2" lang="chi" page="2:5a" n="1">醫家未或輕試，而自公胤議藥以來所進無非此等藥。</sent>
+<sent type="main2" lang="kor" page="2:5a" n="1">의원이 가ᄇᆞ야이 시험티 못ᄒᆞ거ᄂᆞᆯ 공윤이 의약ᄒᆞ므로브터 ᄡᅥ 오매 나온 배 이런 약이 아닌 거시 업ᄂᆞᆫ디라</sent>
+<sent type="main2" lang="chi" page="2:5a" n="2">聖候沈篤之後，始用蔘補，而公胤猶不欲多用。</sent>
+<sent type="main2" lang="kor" page="2:5a" n="2">셩휘 팀독ᄒᆞ오신 후의 비로소 ᄉᆞᆷ보ᄅᆞᆯ ᄡᅳ오되 공윤이 오히려 만히 ᄡᅳ고뎌 아니ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:5a" n="3">嗚呼！公胤之罪上通于天矣。</sent>
+<sent type="main2" lang="kor" page="2:5a" n="3">오회라 공윤의 죄 우흐로 하ᄂᆞᆯ의 통ᄒᆞ도다</sent>
+<sent type="main2" lang="chi" page="2:5a" n="4">公胤於宗社神人托重之聖躬，妄用峻涼之劑，眞元因此損虛，</sent>
+<sent type="main2" lang="kor" page="2:5a" n="4">공윤이 종샤 신인 의탁 듕ᄒᆞ온 셩궁의 망녕도이 쥰냥ᄒᆞᆫ 약을 ᄡᅳ와 진원이 일노 인ᄒᆞ야 손허ᄒᆞ오시게 ᄒᆞ고</sent>
+<!--'진원이'의 '원'에서 'ᅟᅯ'는 'ᅟᅳᅥ'로 판독됨-->
+<sent type="main2" lang="chi" page="2:5a-5b" n="5">而蔘附溫補，力主防遏，必曰</sent>
+<sent type="main2" lang="kor" page="2:5a-5b" n="5">인ᄉᆞᆷ 부ᄌᆞ의 온보ᄒᆞ오믈 힘ᄡᅥ 쥬댱ᄒᆞ여 막아 반ᄃᆞ시 ᄀᆞᆯ오ᄃᆡ</sent>
+<!--ᄌᆞ^의-->
+</pages>
+
+<pages n="2:5b">
+<img n="2:5b">https://kohico.kr/_media/image/bookname/2:5b.jpg</img>
+<sent type="main2" lang="chi" page="2:5b" n="1">“吾藥進御後用蔘劑，則氣運通旋之道易塞”。</sent>
+<sent type="main2" lang="kor" page="2:5b" n="1">내 약을 진어ᄒᆞ오신 후의 ᄉᆞᆷ졔ᄅᆞᆯ ᄡᅳ면 긔운 통션ᄒᆞ오시ᄂᆞᆫ 길히 막히이기 쉽다 ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:5b" n="2">當桂枝麻黃湯進用時，今上殿下侍湯，下令曰：</sent>
+<sent type="main2" lang="kor" page="2:5b" n="2">계지마황탕 진용ᄒᆞ오실 ᄯᅢᄅᆞᆯ 당ᄒᆞ야 금샹 뎐해 시탕ᄒᆞ오샤 하령ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main2" lang="chi" page="2:5b" n="3">“此何等時耶？蔘劑奚謂不宜用？</sent>
+<sent type="main2" lang="kor" page="2:5b" n="3">이 엇던 ᄯᅢ뇨 ᄉᆞᆷ졔ᄅᆞᆯ 엇디ᄒᆞ여 ᄡᅳ디 못ᄒᆞ리라 ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main2" lang="chi" page="2:5b" n="4">人固有立己見處，</sent>
+<sent type="main2" lang="kor" page="2:5b" n="4">사ᄅᆞᆷ이 진실노 제 의견을 셰올 곳이 잇ᄂᆞ니</sent>
+<sent type="main2" lang="chi" page="2:5b" n="5">君父病患何等重大，而必欲立己見，使蔘劑不得用乎？</sent>
+<sent type="main2" lang="kor" page="2:5b" n="5">군부 병환이 엇디 듕대ᄒᆞ오시관ᄃᆡ 반ᄃᆞ시 제 의견을 셰워 ᄉᆞᆷ졔ᄅᆞᆯ ᄡᅳ디 못ᄒᆞ게 ᄒᆞᄂᆞᆫ다</sent>
+</pages>
+
+<pages n="2:6a">
+<img n="2:6a">https://kohico.kr/_media/image/bookname/2:6a.jpg</img>
+<sent type="main2" lang="chi" page="2:6a" n="1">桂枝麻黃湯無效，將如之何？”</sent>
+<sent type="main2" lang="kor" page="2:6a" n="1">계지마황탕이 효험이 업ᄉᆞ면 쟝ᄎᆞᆺ 엇디ᄒᆞ랴 ᄒᆞᄂᆞ뇨 ᄒᆞ오시다</sent>
+<sent type="main2" lang="chi" page="2:6a" n="2">桂麻湯進御後，上鼻衄少現。</sent>
+<sent type="main2" lang="kor" page="2:6a" n="2">계마탕 진어ᄒᆞ오신 후의 샹이 뉵혈이 됴곰 뵈오시니</sent>
+<sent type="main2" lang="chi" page="2:6a" n="3">藥院諸臣相顧曰：“公胤言得無驗乎？”</sent>
+<sent type="main2" lang="kor" page="2:6a" n="3">약원 졔신이 서로 도라보아 ᄀᆞᆯ오ᄃᆡ 공윤의 말이 아니 마잣ᄂᆞᆫ가</sent>
+<sent type="main2" lang="chi" page="2:6a" n="4">殿下問曰：“何謂也？”</sent>
+<sent type="main2" lang="kor" page="2:6a" n="4">뎐해 뭇ᄌᆞ와 ᄀᆞᆯ오샤ᄃᆡ 엇디 니ᄅᆞᆷ고</sent>
+<sent type="main2" lang="chi" page="2:6a" n="5">光佐對曰：“公胤言‘桂麻湯進御後，衄血必出而仍愈’云。</sent>
+<sent type="main2" lang="kor" page="2:6a" n="5">광좨 ᄃᆡ 왈 공윤이 니ᄅᆞ기ᄅᆞᆯ 계마탕 진어ᄒᆞ오신 후의 뉵혈이 반ᄃᆞ시 나고 인ᄒᆞ야 낫ᄌᆞ오시리라 ᄒᆞ더니</sent>
+<sent type="main2" lang="chi" page="2:6a" n="6">衄血現，故臣等云云矣。”</sent>
+<sent type="main2" lang="kor" page="2:6a" n="6">뉵혈이 뵈ᄂᆞᆫ 고로 신등이 니ᄅᆞᄂᆞ이다</sent>
+<sent type="main2" lang="chi" page="2:6a-6b" n="7">時聖候漸沈篤，殿下涕泣，下令曰：“急用蔘附，</sent>
+<sent type="main2" lang="kor" page="2:6a-6b" n="7">ᄯᅢ예 셩휘 졈졈 팀독ᄒᆞ오시니 뎐해 톄읍ᄒᆞ오시고 하령ᄒᆞ오샤 ᄀᆞᆯᄋᆞ샤ᄃᆡ 급히 ᄉᆞᆷ부ᄅᆞᆯ ᄡᅳ오라</sent>
+<!--톄^읍-->
+</pages>
+
+<pages n="2:6b">
+<img n="2:6b">https://kohico.kr/_media/image/bookname/2:6b.jpg</img>
+<sent type="main2" lang="chi" page="2:6b" n="1">予不知醫理，尙知蔘附力能回陽。昨日用而今日停，</sent>
+<sent type="main2" lang="kor" page="2:6b" n="1">내 의리ᄅᆞᆯ 아디 못ᄒᆞ되 오히려 ᄉᆞᆷ부 힘이 능히 양긔ᄅᆞᆯ 도로혀ᄂᆞᆫ 줄을 아니 어제 ᄡᅳ고 오ᄂᆞᆯ 긋티니</sent>
+<sent type="main2" lang="chi" page="2:6b" n="2">必以公胤言而不用矣。”</sent>
+<sent type="main2" lang="kor" page="2:6b" n="2">반ᄃᆞ시 공윤의 말노ᄡᅥ 아니 ᄡᅳᄂᆞᆫᄯᅩ다</sent>
+<!--'ᄡᅳᄂᆞᆫᄯᅩ다'의 'ᄯᅩ'는 '도'의 오각으로 보임-->
+<sent type="main2" lang="chi" page="2:6b" n="3">又涕泣，下令曰：“急用蔘附。”</sent>
+<sent type="main2" lang="kor" page="2:6b" n="3">ᄯᅩ 톄읍ᄒᆞ오시고 하령ᄒᆞ오샤 ᄀᆞᆯᄋᆞ샤ᄃᆡ 급히 ᄉᆞᆷ부ᄅᆞᆯ ᄡᅳ오라 ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:6b" n="4">按醫書用桂麻湯者，有出汗而愈，無出血而愈。</sent>
+<sent type="main2" lang="kor" page="2:6b" n="4">의셔의 계마탕을 ᄡᅳ면 ᄯᆞᆷ 나고 낫다 ᄒᆞ미 잇고 뉵혈ᄒᆞ고 낫다 ᄒᆞ미 업거ᄂᆞᆯ</sent>
+<sent type="main2" lang="chi" page="2:6b-7a" n="5">公胤乃敢創醫書所無之說，斥蔘附而進桂麻，</sent>
+<sent type="main2" lang="kor" page="2:6b-7a" n="5">공윤이 이에 감히 의셔의 업ᄉᆞᆫ 말을 창츌ᄒᆞ여 ᄉᆞᆷ부ᄅᆞᆯ 믈리티고 계마ᄅᆞᆯ 나오니</sent>
+<!--계^마-->
+</pages>
+
+<pages n="2:7a">
+<img n="2:7a">https://kohico.kr/_media/image/bookname/2:7a.jpg</img>
+<sent type="main2" lang="chi" page="2:7a" n="1">此固通天罔赦之罪也。</sent>
+<sent type="main2" lang="kor" page="2:7a" n="1">이 진실로 하ᄂᆞᆯ의 통ᄒᆞ야 샤티 못ᄒᆞᆯ 죄라</sent>
+<sent type="main2" lang="chi" page="2:7a" n="2">使公胤得參診議，恣意誤藥，</sent>
+<sent type="main2" lang="kor" page="2:7a" n="2">공윤으로 ᄒᆞ여곰 진의ᄒᆞᄂᆞᆫ ᄃᆡ 참예ᄒᆞ야 약 그ᄅᆞᆺᄒᆞ기ᄅᆞᆯ ᄆᆞᄋᆞᆷᄭᆞᆺ 방ᄌᆞ히 ᄒᆞ여시니</sent>
+<sent type="main2" lang="chi" page="2:7a" n="3">藥院之臣無所逭其罪矣。</sent>
+<sent type="main2" lang="kor" page="2:7a" n="3">약원지신이 그 죄ᄅᆞᆯ 도망티 못ᄒᆞ리로다</sent>
+<sent type="main2" lang="chi" page="2:7a" n="4">當是時，朝野臣庶，誰能知公胤誤藥之罪也？</sent>
+<sent type="main2" lang="kor" page="2:7a" n="4">이ᄯᅢᄅᆞᆯ 당ᄒᆞ야 됴야의 신민이 뉘 능히 공윤의 약 그ᄅᆞᆺᄒᆞᆫ 죄ᄅᆞᆯ 알니오</sent>
+<sent type="main2" lang="chi" page="2:7a" n="5">聖候沈篤，諱之秘之，使朝野不得知，</sent>
+<sent type="main2" lang="kor" page="2:7a" n="5">셩휘 팀독ᄒᆞ오시믈 긔이고 ᄀᆞᆷ초아 됴야로 ᄒᆞ여곰 시러곰 아디 못ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:7a" n="6">而況公胤用藥之誤，誰復得知乎？</sent>
+<sent type="main2" lang="kor" page="2:7a" n="6">ᄒᆞ믈며 공윤의 약 그ᄅᆞᆺ ᄡᅳ오믈 뉘 알니오</sent>
+<sent type="main2" lang="chi" page="2:7a-7b" n="7">思之及此，不覺憤惋而痛哭也。</sent>
+<sent type="main2" lang="kor" page="2:7a-7b" n="7">ᄉᆡᆼ각이 이에 밋ᄎᆞ매 분완ᄒᆞ야 통곡ᄒᆞ믈 ᄭᅢᄃᆞᆺ디 못ᄒᆞ리로다</sent>
+<!--디 ^ 못-->
+</pages>
+
+<pages n="2:7b">
+<img n="2:7b">https://kohico.kr/_media/image/bookname/2:7b.jpg</img>
+<sent type="main2" lang="chi" page="2:7b" n="1">惟我殿下不脫冠帶，一飯亦一飯，</sent>
+<sent type="main2" lang="kor" page="2:7b" n="1">오딕 우리 뎐해 관과 ᄯᅴᄅᆞᆯ 벗디 아니ᄒᆞ오시고 일반ᄒᆞ오시매 ᄯᅩᄒᆞᆫ 일반ᄒᆞ오시고</sent>
+<sent type="main2" lang="chi" page="2:7b" n="2">再飯亦再飯，若武王之侍疾，</sent>
+<sent type="main2" lang="kor" page="2:7b" n="2">ᄌᆡ반ᄒᆞ오시매 ᄯᅩᄒᆞᆫ ᄌᆡ반ᄒᆞ오샤 무왕의 시질ᄒᆞ오심ᄀᆞ티 ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:7b" n="3">凡厥臣民，孰敢不欽頌我殿下至孝至悌之盛德？</sent>
+<sent type="main2" lang="kor" page="2:7b" n="3">므릇 그 신민이 뉘 우리 뎐하 지효ᄒᆞ오시고 지뎨ᄒᆞ오신 셩덕을 흠숑티 아니ᄒᆞ리오</sent>
+<sent type="main2" lang="chi" page="2:7b" n="4">而聖候大漸之時，殿下涕泣，下令曰：</sent>
+<sent type="main2" lang="kor" page="2:7b" n="4">셩휘 대졈ᄒᆞ오실 ᄯᅢ예 뎐해 톄읍ᄒᆞ오시고 하령ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main2" lang="chi" page="2:7b-8a" n="5">“聖上於予，情是兄弟，義兼父子，而遽至於斯，</sent>
+<sent type="main2" lang="kor" page="2:7b-8a" n="5">셩샹이 내게 졍은 이 형뎨오시고 의ᄂᆞᆫ 부ᄌᆞᄅᆞᆯ 겸ᄒᆞ와 겨오시더니 믄득 이에 니ᄅᆞ러 겨오시니</sent>
+<!--러 ^ 겨-->
+</pages>
+
+<pages n="2:8a">
+<img n="2:8a">https://kohico.kr/_media/image/bookname/2:8a.jpg</img>
+<sent type="main2" lang="chi" page="2:8a" n="1">心神飛越，罔知所爲。祈禱雖過時，或冀萬一之效，廟社、山川祈禱，卽速擧行。”</sent>
+<sent type="main2" lang="kor" page="2:8a" n="1">심신이 비월ᄒᆞ야 망디 소위ᄒᆞ니 긔되 비록 과시ᄒᆞ여시나 혹 만일에 효험을 ᄇᆞ라도 묘샤 산쳔 긔도ᄅᆞᆯ ᄲᆞᆯ니 거ᄒᆡᆼᄒᆞ라 ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:8a" n="2">辭敎悲懇，可以感天地而格鬼神，</sent>
+<sent type="main2" lang="kor" page="2:8a" n="2">ᄉᆞᄀᆈ 슬프고 ᄀᆞᆫ졀ᄒᆞ오시미 가히 ᄡᅥ 텬디ᄅᆞᆯ 감동ᄒᆞ오시며 귀신을 격게 ᄒᆞ오시리니</sent>
+<sent type="main2" lang="chi" page="2:8a" n="3">夫爲人臣子而聽斯敎者，不知流涕，非忠信也，非孝子也。</sent>
+<sent type="main2" lang="kor" page="2:8a" n="3">사ᄅᆞᆷ의 신ᄌᆡ 되여 이 하교을 듯ᄂᆞᆫ 쟤 눈믈 흘릴 줄을 아디 못ᄒᆞ면 튱신이 아니오 효ᄌᆡ 아니라</sent>
+<sent type="main2" lang="chi" page="2:8a-8b" n="4">起居注書諸《日記》，則我殿下至孝至悌之盛德，可以昭垂百代之遠矣。</sent>
+<sent type="main2" lang="kor" page="2:8a-8b" n="4">긔 거쥐 일긔예 ᄡᅥ시니 우리 뎐하 지극히 효ᄒᆞ오심과 지극히 뎨ᄒᆞ오신 셩뎍을 가히 ᄡᅥ ᄇᆡᆨᄃᆡ의 먼 ᄃᆡ ᄇᆞᆯ키 드리오리로다</sent>
+<!--가^히-->
+</pages>
+
+<pages n="2:8b">
+<img n="2:8b">https://kohico.kr/_media/image/bookname/2:8b.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:8b" n="1">十一月，李巨源【副校理】請對言：</sent>
+<sent type="main" lang="kor" page="2:8b" n="1">십일월의 니거원이 【부교리】 쳥ᄃᆡᄒᆞ야 알외되</sent>
+<sent type="main" lang="chi" page="2:8b" n="2">“李義淵疏中所謂‘半夜蒼黃’，似指左議政柳鳳輝之疏語也；</sent>
+<sent type="main" lang="kor" page="2:8b" n="2">니의연의 샹소의 니론바 반야창황은 좌의졍 뉴봉회 샹소 말이오</sent>
+<sent type="main" lang="chi" page="2:8b" n="3">‘陰移天位’，卽故監司韓世良之疏語也。</sent>
+<sent type="main" lang="kor" page="2:8b" n="3">음이텬위ᄂᆞᆫ 고감ᄉᆞ 한셰량의 샹소 말을 ᄀᆞᄅᆞ티미라</sent>
+<sent type="main" lang="chi" page="2:8b" n="4">鳳輝疏意，不過以其時昌集輩擧措忙遽，實非重國本之體故也。</sent>
+<sent type="main" lang="kor" page="2:8b" n="4">봉휘 샹소 ᄯᅳᆺ이 블과 그ᄯᅢ 챵집ᄇᆡ의 거죄 망거ᄒᆞ야 실노 국본을 듕히 ᄒᆞᄂᆞᆫ ᄉᆞ톄 아닌 연고로ᄡᅥ ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="2:8b" n="5">雖卜相事體不可草草，至若國本之定，是何等重事，而昌集輩之擧措如此，</sent>
+<sent type="main" lang="kor" page="2:8b" n="5">비록 복샹ᄒᆞᄂᆞᆫ ᄉᆞ톄라도 가히 초초티 못ᄒᆞ려든 국본 뎡ᄒᆞ오미 이 엇던 듕ᄒᆞᆫ 일이완ᄃᆡ 챵집ᄇᆡ 거죄 이 ᄀᆞᄐᆞ니</sent>
+<sent type="main" lang="chi" page="2:8b-9a" n="6">鳳輝疏豈有他意哉？</sent>
+<sent type="main" lang="kor" page="2:8b-9a" n="6">봉휘 샹쇠 엇디 다른 ᄯᅳᆺ이 이시리잇가</sent>
+<!--휘 ^ 샹-->
+</pages>
+
+<pages n="2:9a">
+<img n="2:9a">https://kohico.kr/_media/image/bookname/2:9a.jpg</img>
+<sent type="main" lang="chi" page="2:9a" n="1">只論其事體卒遽而已。至於世良之疏，因趙聖復而發也。</sent>
+<sent type="main" lang="kor" page="2:9a" n="1">다만 그 ᄉᆞ톄 졸거호믈 의논ᄒᆞᆯ ᄯᆞᄅᆞᆷ이오 셰량의 샹소ᄂᆞᆫ 됴셩복의 일노 인ᄒᆞ야 나미라</sent>
+<sent type="main" lang="chi" page="2:9a" n="2">世良之疏，載在《日記》，一經睿覽，則自可知矣。</sent>
+<sent type="main" lang="kor" page="2:9a" n="2">셰량의 샹쇠 일긔예 실녀 잇ᄉᆞ오니 ᄒᆞᆫ 번 예람ᄒᆞ오시면 스ᄉᆞ로 가히 아ᄅᆞ시리이다</sent>
+<sent type="main" lang="chi" page="2:9a" n="3">義淵欲殿下以此爲世良之罪，</sent>
+<sent type="main" lang="kor" page="2:9a" n="3">의연이 뎐해 일노ᄡᅥ 셰량의 죄ᄅᆞᆯ 삼으시게 ᄒᆞ과뎌 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:9a" n="4">其心亦危險。‘北門潛入’云者，卽指故相臣趙泰耉自宣仁門請對事也。</sent>
+<sent type="main" lang="kor" page="2:9a" n="4">그 ᄆᆞᄋᆞᆷ이 ᄯᅩᄒᆞᆫ 위험ᄒᆞ고 북문 ᄌᆞᆷ입은 곳 고샹신 됴태구의 션인문으로브터 쳥ᄃᆡᄒᆞᆫ 일을 ᄀᆞᄅᆞ티미라</sent>
+<sent type="main" lang="chi" page="2:9a" n="5">其時大行大王御進修堂，</sent>
+<sent type="main" lang="kor" page="2:9a" n="5">그ᄯᅢ 대ᄒᆡᆼ 대왕이 진슈당의 어좌ᄒᆞ오와 겨오시니</sent>
+<sent type="main" lang="chi" page="2:9a-9b" n="6">泰耉由宣仁門取近而入，其所入對得請，乃是聽政還收。</sent>
+<sent type="main" lang="kor" page="2:9a-9b" n="6">태귀 션인문으로 갓갑기ᄅᆞᆯ ᄎᆔᄒᆞ야 드러갓ᄉᆞᆸ고 그 입ᄃᆡᄒᆞ야 득쳥ᄒᆞ온 배 이 텽졍을 환슈ᄒᆞ시게 ᄒᆞ미라</sent>
+<!--으^로-->
+</pages>
+
+<pages n="2:9b">
+<img n="2:9b">https://kohico.kr/_media/image/bookname/2:9b.jpg</img>
+<sent type="main" lang="chi" page="2:9b" n="1">擧國莫不以泰耉爲社稷臣，</sent>
+<sent type="main" lang="kor" page="2:9b" n="1">거국이 태구로ᄡᅥ 샤직신이라 아니리 업ᄉᆞ되</sent>
+<sent type="main" lang="chi" page="2:9b" n="2">而其時凶黨輩以入宣仁門，比之於神武門之夜開，至欲鞫問。</sent>
+<sent type="main" lang="kor" page="2:9b" n="2">그ᄯᅢ 흉당ᄇᆡ 션인문 들기로ᄡᅥ 신무문 밤의 열기의 비ᄒᆞ야 국문코뎌 ᄒᆞ기의 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="2:9b" n="3">今義淵疏語亦是一串貫來，豈不絶痛乎？</sent>
+<sent type="main" lang="kor" page="2:9b" n="3">이제 의연의 샹소 말이 ᄯᅩᄒᆞᆫ 일환관ᄅᆡᄒᆞ야시니 엇지 졀통티 아니ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:9b" n="4">至於‘禁庭蹀血’之云，卽指金一鏡敎文中語也。</sent>
+<sent type="main" lang="kor" page="2:9b" n="4">지어 금뎡텹혈은 곳 김일경의 교문 가온ᄃᆡ 말을 ᄀᆞᄅᆞ티미라</sent>
+<sent type="main" lang="chi" page="2:9b-10a" n="5">蓋頃年賊招中，有宮城陳兵之計，而非其黨類，則欲盡殺之，</sent>
+<sent type="main" lang="kor" page="2:9b-10a" n="5">대개 경년 적툐의 궁셩의 군ᄉᆞᄅᆞᆯ 베플 계ᄀᆈ 이셔 그 당ᄂᆔ 아니면 다 죽이고뎌 ᄒᆞ얏다 ᄒᆞᆫ 고로</sent>
+<!--고^뎌-->
+</pages>
+
+<pages n="2:10a">
+<img n="2:10a">https://kohico.kr/_media/image/bookname/2:10a.jpg</img>
+<sent type="main" lang="chi" page="2:10a" n="1">故有此‘蹀血禁庭’之語矣。司馬光論甘露之變，亦有‘蹀血禁塗’之語，</sent>
+<sent type="main" lang="kor" page="2:10a" n="1">텹혈금뎡이란 말이 잇ᄉᆞᆸ고 ᄉᆞ마광이 감노변을 의논ᄒᆞ매 ᄯᅩᄒᆞᆫ 텹혈금되란 말이 잇고</sent>
+<sent type="main" lang="chi" page="2:10a" n="2">且‘蹀血’多出於古文，如‘長安新蹀血’之類何限，而義淵必欲以此構陷。</sent>
+<sent type="main" lang="kor" page="2:10a" n="2">ᄯᅩ 텹혈이 녯글의 만히 나 댱안 신텹혈 ᄀᆞ튼 ᄂᆔ 언ᄆᆡᄋᆞᆸ관ᄃᆡ 의연이 반ᄃᆞ시 일노ᄡᅥ 구함코뎌 ᄒᆞ오니</sent>
+<sent type="main" lang="chi" page="2:10a" n="3">在昔柳子光以文字陷人，豈料聖明之世乃有此事也？</sent>
+<sent type="main" lang="kor" page="2:10a" n="3">녯 뉴ᄌᆞ광이 문ᄌᆞ로ᄡᅥ 사ᄅᆞᆷ을 구함ᄒᆞ얏더니 엇디 셩명지셰의 이 일이 이실 줄을 혜아렷ᄉᆞ오리잇가</sent>
+<sent type="main" lang="chi" page="2:10a" n="4">漢 景帝爲太子時，召衛綰。綰不往，</sent>
+<sent type="main" lang="kor" page="2:10a" n="4">한 경뎨 태ᄌᆞ 되여실 ᄯᅢ의 위관을 브ᄅᆞ되 관이 가디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:10a-10b" n="5">似涉慢蹇，而景帝由是愈重之，爲漢名臣。</sent>
+<sent type="main" lang="kor" page="2:10a-10b" n="5">만건ᄒᆞᆫ ᄃᆞᆺ시 보오되 경뎨 일노 말ᄆᆡ아마 더옥 듕히 너겨 한나라 명신이 되오니</sent>
+<!--라 ^ 명-->
+</pages>
+
+<pages n="2:10b">
+<img n="2:10b">https://kohico.kr/_media/image/bookname/2:10b.jpg</img>
+<sent type="main" lang="chi" page="2:10b" n="1">以此觀之，鳳輝等豈不爲殿下之忠臣乎？</sent>
+<sent type="main" lang="kor" page="2:10b" n="1">일로ᄡᅥ 보건대 봉휘 등이 엇디 뎐하의 튱신이 되디 아니ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:10b" n="2">此疏如此，若不明正其罪，則其爲貽累於聖德，何如耶？” 重言複言，徹夜力請。</sent>
+<sent type="main" lang="kor" page="2:10b" n="2">이 샹쇠 이 ᄀᆞᆺᄌᆞ오니 만일 그 죄ᄅᆞᆯ ᄇᆞᆯ키 바로게 아니ᄒᆞ오시면 그 셩덕의 이루ᄒᆞ오미 엇더ᄒᆞ오리잇가 ᄒᆞ야 듕언부언ᄒᆞ야 밤이 새도록 힘ᄡᅥ 쳥ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="2:10b" n="3">上以“予意已有所料，更勿煩陳”爲敎。</sent>
+<sent type="main" lang="kor" page="2:10b" n="3">샹이 ᄡᅥ 내 ᄯᅳᆺ이 이믜 혜아린 배 이시니 고텨 번거히 알외디 말나 하교ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:10b" n="4">巨源卽鏡黨也，</sent>
+<sent type="main" lang="kor" page="2:10b" n="4">거원은 곳 일경의 당이라</sent>
+<sent type="main" lang="chi" page="2:10b-11a" n="5">深夜求對，力護耉、輝、鏡、良，縱肆無畏。人皆憤之。</sent>
+<sent type="main" lang="kor" page="2:10b-11a" n="5">깁흔 밤의 구ᄃᆡᄒᆞ야 힘ᄡᅥ 태구 봉휘 일경 셰량을 영호ᄒᆞ야 방ᄌᆞᄒᆞ야 두리오미 업ᄉᆞ니 사ᄅᆞᆷ이 다 분ᄒᆞ야 ᄒᆞ더라</sent>
+<!--ᄅᆞᆷ^이-->
+</pages>
+
+<pages n="2:11a">
+<img n="2:11a">https://kohico.kr/_media/image/bookname/2:11a.jpg</img>
+<!--한문 원문에는 이 부분이 '○'으로 앞의 내용과 구분이 되어 있으나, 언해에는 '○'이 없이 공격으로 구분되어 있음-->
+<sent type="main" lang="chi" page="2:11a" n="1">備忘記有曰：“以一鏡事觀之，職在經幄，護黨如此，</sent>
+<sent type="main" lang="kor" page="2:11a" n="1">비망긔예 ᄀᆞᆯᄋᆞ샤ᄃᆡ 일경의 일노ᄡᅥ 보니 벼ᄉᆞᆯ이 경악의 이셔 당뉴 영호ᄒᆞ기ᄅᆞᆯ 이ᄀᆞ티 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:11a" n="2">此習不改，國將何似？</sent>
+<sent type="main" lang="kor" page="2:11a" n="2">이 습을 고티디 아니ᄒᆞ면 나라히 쟝ᄎᆞᆺ 엇더ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:11a" n="3">金東弼疏中‘衆口譁然，指爲狂怪’，</sent>
+<sent type="main" lang="kor" page="2:11a" n="3">김동필의 샹소 가온ᄃᆡ 여러 입이 화연ᄒᆞ야 ᄀᆞᄅᆞ텨 미티고 괴이타 ᄒᆞᆫ즉</sent>
+<sent type="main" lang="chi" page="2:11a" n="4">則獨於儒臣，未能聞知耶？宜遞其職，以示廓公言之路。”</sent>
+<sent type="main" lang="kor" page="2:11a" n="4">홀노 유신이 능히 듯고 아디 못ᄒᆞ얏ᄂᆞ냐 맛당히 그 벼ᄉᆞᆯ을 ᄀᆞ라 ᄡᅥ 공번된 말을 널니ᄂᆞᆫ 길흘 뵈리라 ᄒᆞ오시고</sent>
+<sent type="main" lang="chi" page="2:11a" n="5">又曰：“‘蹀血禁庭’、‘懷刃鍾巫’兩句語，《春秋》、《綱目》所書者何處？</sent>
+<sent type="main" lang="kor" page="2:11a" n="5">ᄯᅩ ᄀᆞᆯᄋᆞ샤ᄃᆡ 텹혈금뎡과 회인죵무 두 말이 츈츄와 강목의 ᄡᅳᆫ 배 엇더ᄒᆞᆫ 곳이며</sent>
+<sent type="main" lang="chi" page="2:11a-11b" n="6">其於大行朝盛德仁愛之事何？</sent>
+<sent type="main" lang="kor" page="2:11a-11b" n="6">그 대ᄒᆡᆼ됴 셩덕 인ᄋᆡᄒᆞ오신 일의 엇더ᄒᆞᆯ가 시브뇨</sent>
+<!--그 ^ 대-->
+</pages>
+
+<pages n="2:11b">
+<img n="2:11b">https://kohico.kr/_media/image/bookname/2:11b.jpg</img>
+<sent type="main" lang="chi" page="2:11b" n="1">昔孔子誅少正卯者，乃其嚴防微也。所爲如是狂悖，</sent>
+<sent type="main" lang="kor" page="2:11b" n="1">녯 공ᄌᆡ 쇼졍묘을 베히시니 방미ᄒᆞ기ᄅᆞᆯ 엄히 ᄒᆞ미라 ᄒᆞᄂᆞᆫ 배 이러ᄐᆞ시 광패ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:11b" n="2">諫臣之言又如是嚴截，而略無忌憚，不可仍置。”</sent>
+<sent type="main" lang="kor" page="2:11b" n="2">ᄃᆡ간의 말이 ᄯᅩ 이러ᄐᆞ시 엄졀ᄒᆞ되 됴금도 긔탄ᄒᆞ미 업ᄉᆞ니 가히 인ᄒᆞ야 두디 못ᄒᆞ리라 ᄒᆞ오시고</sent>
+<sent type="main" lang="chi" page="2:11b" n="3">遂下“巨源遞差，一鏡削黜”之命。</sent>
+<sent type="main" lang="kor" page="2:11b" n="3">드ᄃᆡ여 거원을 톄ᄎᆡᄒᆞ고 일경을 샥츌ᄒᆞᄂᆞᆫ 명을 ᄂᆞ리오시니</sent>
+<sent type="main" lang="chi" page="2:11b" n="4">政院【李重述、明誼】覆逆。批旨有“不悛救黨之習，</sent>
+<sent type="main" lang="kor" page="2:11b" n="4">졍원이 【니듕슐과 명의】 복역ᄒᆞᆫ대 비지의 당을 영구ᄒᆞᄂᆞᆫ 습을 고티디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:11b" n="5">良可駭也”之敎。</sent>
+<sent type="main" lang="kor" page="2:11b" n="5">진실노 가히 ᄒᆡ연ᄒᆞ다 ᄒᆞ오신 하ᄀᆈ 잇다</sent>
+<sent type="anno" lang="chi" page="2:11b" n="6">其後重述、明誼有削黜之命。</sent>
+<sent type="anno" lang="kor" page="2:11b" n="6">그 후의 즁슐 명의ᄂᆞᆫ 샥츌하오신 명이 잇고</sent>
+<sent type="anno" lang="chi" page="2:11b-12a" n="7">乙亥因臺啓重述追奪，巨源則絶島圍籬，</sent>
+<sent type="anno" lang="kor" page="2:11b-12a" n="7">을ᄒᆡ년의 ᄃᆡ계ᄅᆞᆯ 인ᄒᆞ야 듕슐은 튜탈ᄒᆞ고 거원은 졀도의 위리ᄒᆞ얏더니</sent>
+<!--ᄒᆡ^년-->
+</pages>
+
+<pages n="2:12a">
+<img n="2:12a">https://kohico.kr/_media/image/bookname/2:12a.jpg</img>
+<sent type="anno" lang="chi" page="2:12a" n="1">已而出致雲招，正法。</sent>
+<sent type="anno" lang="kor" page="2:12a" n="1">이윽고 티운의 툐ᄉᆞ의 나 정법ᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:12a" n="2">東學訓導李鳳鳴疏言：“恭惟我殿下卽三宗血脈，先朝同氣，</sent>
+<sent type="main" lang="kor" page="2:12a" n="2">동ᄒᆞᆨ 훈도 니봉명이 소ᄅᆞᆯ 올녀 니ᄅᆞ되 오딕 우리 뎐하겨오셔 삼종 혈ᄆᆡᆨ이오시고 션됴 동긔오시어ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:12a" n="3">泰耉先以‘冒嫌’等說，倡之前，</sent>
+<sent type="main" lang="kor" page="2:12a" n="3">태귀 몬뎌 모혐이란 말노ᄡᅥ 압ᄒᆡ 챵ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:12a" n="4">逮我殿下承聖旨位貳極，鳳輝繼以‘驚遑憂惑’等語，發於後。</sent>
+<sent type="main" lang="kor" page="2:12a" n="4">밋 우리 뎐하겨오셔 셩지ᄅᆞᆯ 밧ᄌᆞ오셔 이극의 위ᄒᆞ오시매 봉휘 니어 경황ᄒᆞ고 우혹ᄒᆞ단 말노ᄡᅥ 후에 발ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:12a" n="5">論厥凶逆，耉、輝爲魁，</sent>
+<sent type="main" lang="kor" page="2:12a" n="5">그 흉역을 의논ᄒᆞ매 구휘 괴ᄉᆔ 되고</sent>
+<!--'의논'의 '논'은 '는'으로 판독됨-->
+<sent type="main" lang="chi" page="2:12a" n="6">逆宦、妖婢表裏糾締，慘毒大禍，迫在呼吸，</sent>
+<sent type="main" lang="kor" page="2:12a" n="6">역환과 요비 표리로 톄결ᄒᆞ야 참독ᄒᆞᆫ대 홰 급박ᄒᆞ미 호흡의 이시니</sent>
+<sent type="main" lang="chi" page="2:12a-12b" n="7">非賴我大行王至情曲愛，</sent>
+<sent type="main" lang="kor" page="2:12a-12b" n="7">우리 대ᄒᆡᆼ 대왕 지극ᄒᆞ오신 졍과 곡진ᄒᆞ오신 우ᄋᆡᄅᆞᆯ 힘닙디 아니ᄒᆞ오면</sent>
+<!--'대ᄒᆡᆼ'은 '댸ᄒᆡᆼ'처럼 보이나 앞의 예들을 보아 '대ᄒᆡᆼ'이 맞음-->
+<!--리 ^ 대-->
+</pages>
+
+<pages n="2:12b">
+<img n="2:12b">https://kohico.kr/_media/image/bookname/2:12b.jpg</img>
+<sent type="main" lang="chi" page="2:12b" n="1">則殿下安保有是日乎？</sent>
+<sent type="main" lang="kor" page="2:12b" n="1">뎐해 엇디 이 날이 이시믈 보젼ᄒᆞ오시리잇가</sent>
+<sent type="main" lang="chi" page="2:12b" n="2">思之，不覺骨寒而膽慄也。</sent>
+<sent type="main" lang="kor" page="2:12b" n="2">ᄉᆡᆼ각ᄒᆞ매 ᄲᅨ ᄎᆞ고 담이 ᄯᅥᆯ니믈 ᄭᆡᄃᆞᆺ디 못ᄒᆞᆯ소이다</sent>
+<sent type="main" lang="chi" page="2:12b" n="3">至若一鏡，欲書厥罪，磬竹難盡。</sent>
+<sent type="main" lang="kor" page="2:12b" n="3">일경은 그 죄ᄅᆞᆯ ᄡᅳ고뎌 ᄒᆞ매 대ᄅᆞᆯ 다 베혀도 다ᄒᆞ기 어려오니</sent>
+<sent type="main" lang="chi" page="2:12b" n="4">特以其向來疏語與敎文事言之，一則曰‘懷刃鍾巫’，一則曰‘蹀血禁庭’。</sent>
+<sent type="main" lang="kor" page="2:12b" n="4">특별이 그 향ᄂᆡ 샹소 말과 교문 일노 닐너도 ᄒᆞ나흔 회인죵뮈라 ᄒᆞ고 ᄒᆞ나흔 텹혈금뎡이라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:12b" n="5">渠何敢引用此文字於代撰與封章，</sent>
+<sent type="main" lang="kor" page="2:12b" n="5">제 엇디 감히 이런 문ᄌᆞᄅᆞᆯ ᄃᆡ찬ᄒᆞᄂᆞᆫ 글과 소쟝의 인증ᄒᆞ여 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="2:12b-13a" n="6">陰斥顯逼於聖躬，慘誣亦及於先朝乎？</sent>
+<sent type="main" lang="kor" page="2:12b-13a" n="6">셩궁을 ᄀᆞ마니 침쳑ᄒᆞ며 현연히 무핍ᄒᆞ야 음참ᄒᆞᆫ 뮈 션도ᄭᅴ ᄯᅩᄒᆞᆫ 밋게 ᄒᆞ리잇가</sent>
+<!--음^참-->
+</pages>
+
+<pages n="2:13a">
+<img n="2:13a">https://kohico.kr/_media/image/bookname/2:13a.jpg</img>
+<sent type="main" lang="chi" page="2:13a" n="1">逆心賊腸，路人所知，</sent>
+<sent type="main" lang="kor" page="2:13a" n="1">역심 적댱은 길 사ᄅᆞᆷ의 아ᄂᆞᆫ 배라</sent>
+<sent type="main" lang="chi" page="2:13a" n="2">凡有血氣者，孰不欲臠其肉寢其皮？</sent>
+<sent type="main" lang="kor" page="2:13a" n="2">므릇 혈긔 잇ᄂᆞᆫ 쟤 뉘 그 고기ᄅᆞᆯ ᄧᅳᄌᆞ며 그 가족을 ᄭᆞᆯ고뎌 아니리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:13a" n="3">滿廷臣僚視以例語，恬不爲愕。</sent>
+<sent type="main" lang="kor" page="2:13a" n="3">됴뎡의 ᄀᆞ득ᄒᆞᆫ 신ᄂᆈ 녜ᄉᆞ 말노ᄡᅥ 보와 념연히 놀나디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:13a" n="4">此輩之忘殿下而護逆鏡之罪，可勝誅哉？”</sent>
+<sent type="main" lang="kor" page="2:13a" n="4">이 무리의 뎐하ᄅᆞᆯ 닛고 역경을 용호ᄒᆞᄂᆞᆫ 죄 가히 이긔여 베히리잇가</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:13a" n="5">李明彦【副司直】疏言：</sent>
+<sent type="main" lang="kor" page="2:13a" n="5">니명언이 【부ᄉᆞ딕】 소ᄅᆞᆯ 올녀 니ᄅᆞ되</sent>
+<sent type="main" lang="chi" page="2:13a" n="6">“自古凶逆之徒，欲行簒奪之謀者，必援引唐、虞，</sent>
+<sent type="main" lang="kor" page="2:13a" n="6">녜로부터 흉역의 무리 찬탈ᄒᆞᄂᆞᆫ ᄭᅬᄅᆞᆯ ᄒᆡᆼᄒᆞ고뎌 ᄒᆞ매 반ᄃᆞ시 당우ᄅᆞᆯ 인거ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:13a-13b" n="7">動稱伊、霍，勢成威立之後，終至簒奪乃已。</sent>
+<sent type="main" lang="kor" page="2:13a-13b" n="7">이곽을 일ᄏᆞ라 셰 일고 위엄이 션후의 ᄆᆞᄎᆞᆷ내 찬탈ᄒᆞ고 말기의 니ᄅᆞ니</sent>
+<!--의 ^ ᄆᆞ-->
+</pages>
+
+<pages n="2:13b">
+<img n="2:13b">https://kohico.kr/_media/image/bookname/2:13b.jpg</img>
+<sent type="main" lang="chi" page="2:13b" n="1">若漢之董卓，晉之桓溫，顧其意，何嘗在於獻、簡也哉？</sent>
+<sent type="main" lang="kor" page="2:13b" n="1">한나라 동탁과 진나라 환온이 그 ᄯᅳᆺ이 엇디 일즉 헌뎨와 간문뎨의게 이시리오</sent>
+<sent type="main" lang="chi" page="2:13b" n="2">向日頤命輩之心，本不在殿下，而實欲假殿下爲名。</sent>
+<sent type="main" lang="kor" page="2:13b" n="2">향일 이 명ᄇᆡ의 ᄆᆞᄋᆞᆷ이 본ᄃᆡ 뎐하ᄭᅴ 잇디 아니ᄒᆞ고 실노 뎐하ᄅᆞᆯ 비러 일홈호미니</sent>
+<sent type="main" lang="chi" page="2:13b" n="3">設令此輩果無異心於殿下，</sent>
+<sent type="main" lang="kor" page="2:13b" n="3">셜ᄉᆞ 이 무리로 ᄒᆞ여곰 뎐하ᄭᅴ 과연 다른 ᄆᆞᄋᆞᆷ이 업ᄉᆞᆯ디라도</sent>
+<sent type="main" lang="chi" page="2:13b" n="4">殿下於其時卒受此輩之援立，則以殿下動遵禮法，</sent>
+<sent type="main" lang="kor" page="2:13b" n="4">뎐해 그ᄯᅢ의 ᄆᆞᄎᆞᆷ내 이 무리 원닙ᄒᆞ믈 밧ᄌᆞ와시면 뎐해 움즉이오시매 녜법을 좃ᄌᆞ오시미</sent>
+<sent type="main" lang="chi" page="2:13b" n="5">超出百王之心，其果能安於此，</sent>
+<sent type="main" lang="kor" page="2:13b" n="5">ᄇᆡᆨ왕의 툐츌ᄒᆞ오신 ᄆᆞᄋᆞᆷ으로ᄡᅥ 과연 능히 여긔 평안ᄒᆞ오시며</sent>
+<sent type="main" lang="chi" page="2:13b-14a" n="6">而何以有辭於天下後世，</sent>
+<sent type="main" lang="kor" page="2:13b-14a" n="6">엇디 ᄡᅥ 텬하 후셰의 말이 잇ᄌᆞ오시며</sent>
+<!--'잇ᄌᆞ오시며'의 '오'는 '으'로 판독되나 문맥상이나 형태상 '오'의 탈획으로 보고 '오'로 입력함-->
+<!--셰^의-->
+</pages>
+
+<pages n="2:14a">
+<img n="2:14a">https://kohico.kr/_media/image/bookname/2:14a.jpg</img>
+<sent type="main" lang="chi" page="2:14a" n="1">天下後世其將謂殿下何如耶？</sent>
+<sent type="main" lang="kor" page="2:14a" n="1">텬하 후셰 그 쟝ᄎᆞ 뎐하ᄅᆞᆯ 엇더타 니ᄅᆞ오리잇가</sent>
+<sent type="main" lang="chi" page="2:14a" n="2">臣竊瞯殿下於嗣服之時，雖天人咸屬，繼序當立，</sent>
+<sent type="main" lang="kor" page="2:14a" n="2">신이 그윽이 보오니 뎐해 ᄉᆞ복ᄒᆞ오실 ᄯᅢ예 비록 텬인이 다 쇽ᄒᆞ고 계셰 응당 셔오실 거시로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:14a" n="3">而猶且涕泣固讓，哀動左右，不以大寶爲悅，</sent>
+<sent type="main" lang="kor" page="2:14a" n="3">오히려 ᄯᅩ 톄읍ᄒᆞ오시고 굿게 ᄉᆞ양ᄒᆞ오샤 슬프미 좌우ᄅᆞᆯ 동ᄒᆞ오샤 대보로ᄡᅥ 깃거 아니ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:14a" n="4">則豈嘗以凶徒之所擁立，有所假貸於此輩？</sent>
+<sent type="main" lang="kor" page="2:14a" n="4">엇디 일즉 흉도의 옹닙ᄒᆞ오신 바로ᄡᅥ 이 무리ᄅᆞᆯ 가ᄃᆡᄒᆞ오시리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:14a" n="5">而此輩敢以小人之腹，妄度聖人之心。</sent>
+<sent type="main" lang="kor" page="2:14a" n="5">이 무리 감히 쇼인지복으로ᄡᅥ 셩인지심을 망녕되이 혜아리오니</sent>
+<sent type="main" lang="chi" page="2:14a-14b" n="6">殿下於此，宜深加痛惡。”</sent>
+<sent type="main" lang="kor" page="2:14a-14b" n="6">뎐해 여긔 맛당히 깁히 통오ᄒᆞ오시믈 더ᄒᆞ오쇼셔 ᄒᆞ니</sent>
+<!--깁^히-->
+</pages>
+
+<pages n="2:14b">
+<img n="2:14b">https://kohico.kr/_media/image/bookname/2:14b.jpg</img>
+<sent type="main" lang="chi" page="2:14b" n="1">明彦疏所謂“其果能安於此”、“天下後世將謂何如”</sent>
+<sent type="main" lang="kor" page="2:14b" n="1">명언의 소에 니론바 그 과연 능히 여긔 평안ᄒᆞ오시리오 ᄒᆞ며 텬하 후셰 쟝ᄎᆞ 엇더타 니ᄅᆞ리잇고 말과</sent>
+<sent type="main" lang="chi" page="2:14b" n="2">及“援立”ㆍ“擁立”、“豈嘗假貸”等說，抑揚脅迫，陰凶獰悖，</sent>
+<sent type="main" lang="kor" page="2:14b" n="2">밋 원닙 옹닙과 긔샹가ᄃᆡ란 말들히 억양ᄒᆞ고 헙박ᄒᆞ야 음흉녕패ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:14b" n="3">其不臣之心，於此益彰露，</sent>
+<sent type="main" lang="kor" page="2:14b" n="3">그 불신지심이 여긔 더옥 드러낫ᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:14b" n="4">故相臣宋寅明之言，豈不信哉？</sent>
+<sent type="main" lang="kor" page="2:14b" n="4">고 샹신 송인명의 말이 엇디 밋브디 아니ᄒᆞ리오</sent>
+<sent type="anno" lang="chi" page="2:14b" n="5">自故至哉十二字，因上敎書之。</sent>
+<sent type="anno" lang="kor" page="2:14b" n="5">ᄌᆞ고지ᄌᆡ 십이 ᄌᆞᄂᆞᆫ 샹교로 인ᄒᆞ야 쓰ᄋᆞᆸ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:14b" n="6">備忘記：</sent>
+<sent type="main" lang="kor" page="2:14b" n="6">비망긔라</sent>
+<sent type="main" lang="chi" page="2:14b" n="7">“一鏡敎文之語，靜以思之，不覺心裂。</sent>
+<sent type="main" lang="kor" page="2:14b" n="7">일경의 교문 말을 고요히 ᄉᆡᆼ각ᄒᆞ매 ᄆᆞᄋᆞᆷ이 ᄶᅴ여디믈 ᄭᆡᄃᆞᆺ디 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:14b-15a" n="8">敢以不忍引之辭，肆然書之於代撰之中乎？</sent>
+<sent type="main" lang="kor" page="2:14b-15a" n="8">감히 ᄎᆞᆷ아 인증티 못ᄒᆞᆯ 말노ᄡᅥ ᄉᆞ연히 ᄃᆡ찬ᄒᆞᆫ 가온ᄃᆡ ᄡᅳ리오</sent>
+<!--노^ᄡᅥ-->
+</pages>
+
+<pages n="2:15a">
+<img n="2:15a">https://kohico.kr/_media/image/bookname/2:15a.jpg</img>
+<sent type="main" lang="chi" page="2:15a" n="1">叫號殯殿，寧欲溘然。</sent>
+<sent type="main" lang="kor" page="2:15a" n="1">빈뎐의 브ᄅᆞ디뎌 ᄎᆞᆯ하리 합연코뎌 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:15a" n="2">其在嚴懲惡之道，不可削黜而止。</sent>
+<sent type="main" lang="kor" page="2:15a" n="2">그 딩악을 엄히 ᄒᆞᄂᆞᆫ 도리 가히 샥튤의 그티디 못ᄒᆞᆯ디라</sent>
+<sent type="main" lang="chi" page="2:15a" n="3">絶島安置，當日內押送配所。”</sent>
+<sent type="main" lang="kor" page="2:15a" n="3">졀도의 안티ᄒᆞ고 당일 ᄂᆡ의 ᄇᆡ소로 압송ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:15a" n="4">其後又命栫棘。</sent>
+<sent type="main" lang="kor" page="2:15a" n="4">그 후의 ᄯᅩ 명ᄒᆞ오샤 쳔극ᄒᆞ시다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:15a" n="5">十二月，逆賊一鏡、虎龍始伏誅。</sent>
+<sent type="main" lang="kor" page="2:15a" n="5">십이월의 역적 일경 호룡이 비로소 복듀ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:15a" n="6">備忘記：</sent>
+<sent type="main" lang="kor" page="2:15a" n="6">비망긔라</sent>
+<sent type="main" lang="chi" page="2:15a" n="7">“噫！今日鞫問一鏡，奚但爲誣予而已哉？</sent>
+<sent type="main" lang="kor" page="2:15a" n="7">희라 오ᄂᆞᆯ날 일경을 국문ᄒᆞ미 엇디 다만 나ᄅᆞᆯ 무ᄒᆞ다 ᄒᆞᆯ ᄯᆞᄅᆞᆷ이리오</sent>
+<sent type="main" lang="chi" page="2:15a" n="8">其誣大行朝盛德而極矣，若不嚴鞫，則倫常從此滅矣。</sent>
+<sent type="main" lang="kor" page="2:15a" n="8">대ᄒᆡᆼ됴 셩덕을 무ᄒᆞ오미 극ᄒᆞ니 만일 엄히 국문티 아니ᄒᆞ면 뉸샹이 일노 조차 멸ᄒᆞ리니</sent>
+</pages>
+
+<pages n="2:15b">
+<img n="2:15b">https://kohico.kr/_media/image/bookname/2:15b.jpg</img>
+<sent type="main" lang="chi" page="2:15b" n="1">他日將何面見先王在天之靈乎？</sent>
+<sent type="main" lang="kor" page="2:15b" n="1">다른 날 쟝ᄎᆞᆺ 므ᄉᆞᆷ ᄂᆞᆺᄎᆞ로 션왕 ᄌᆡ텬ᄒᆞ오신 녕의 뵈오리오</sent>
+<sent type="main" lang="chi" page="2:15b" n="2">此非一時章奏間凶悖之說也，藏諸心而發諸口，</sent>
+<sent type="main" lang="kor" page="2:15b" n="2">이거시 일시 쟝주간의 흉패ᄒᆞᆫ 말이 아니라 ᄆᆞᄋᆞᆷ의 ᄀᆞᆷ초아 입에 발ᄒᆞ야시니</sent>
+<sent type="main" lang="chi" page="2:15b" n="3">其所用意明若觀火。此予所謂‘叫號殯殿，寧欲溘然’者也。</sent>
+<sent type="main" lang="kor" page="2:15b" n="3">그 용의ᄒᆞᆫ 배 명약관화ᄒᆞ니 이 내 니론바 빈뎐의 브ᄅᆞ디뎌 ᄎᆞᆯ하리 합연코뎌 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="2:15b" n="4">欲爲親問其心，而衰麻在身，故遂不得如意。</sent>
+<sent type="main" lang="kor" page="2:15b" n="4">친히 그 ᄆᆞᄋᆞᆷ을 뭇고뎌 ᄒᆞ되 최매 몸의 잇ᄂᆞᆫ 고로 시러곰 ᄯᅳᆺ과 ᄀᆞᆺ디 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:15b" n="5">其所嚴覈，不可少忽。</sent>
+<sent type="main" lang="kor" page="2:15b" n="5">그 엄ᄒᆡᆨᄒᆞᄂᆞᆫ 배 가히 됴곰도 만홀이 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="2:15b" n="6">向以義淵事觀之，供辭不過數句語，</sent>
+<sent type="main" lang="kor" page="2:15b" n="6">뎌 즈음ᄭᅴ 의연의 일노ᄡᅥ 보와도 공ᄉᆡ 불과 두어 귀 말인ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:15b-16a" n="7">而推案出納之際，自然遲滯，一鏡凶辭悖說，不見而可知。</sent>
+<sent type="main" lang="kor" page="2:15b-16a" n="7">튜안 츌납ᄒᆞᆯ 즈음의 ᄌᆞ연히 디톄ᄒᆞ니 일경의 흉ᄉᆞ와 패셜을 보디 아녀도 가히 알디라</sent>
+<!--히 ^ 디-->
+</pages>
+
+<pages n="2:16a">
+<img n="2:16a">https://kohico.kr/_media/image/bookname/2:16a.jpg</img>
+<sent type="main" lang="chi" page="2:16a" n="1">請刑之後，則異於常時，自本府爲之，而其所取招則不可不嚴，庭鞫爲之。”</sent>
+<sent type="main" lang="kor" page="2:16a" n="1">쳥형ᄒᆞᆫ 후ᄂᆞᆫ 샹시와 다르니 본부의셔 ᄒᆞ되 그 툐ᄉᆞ 밧기ᄅᆞᆯ 가히 엄히 아니티 못ᄒᆞᆯ 거시니 뎡국을 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:16a" n="2">問一鏡以：“所撰敎文中有曰‘抑何免禁庭之蹀血’，</sent>
+<sent type="main" lang="kor" page="2:16a" n="2">일경을 므ᄅᆞ되 지은바 교문의 ᄀᆞᆯ오ᄃᆡ 엇디 금뎡텹혈을 면ᄒᆞ리오 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:16a" n="3">疏辭中有曰‘有若魯之鍾巫’，又曰‘冀、顯未有鍾巫之犯’，</sent>
+<sent type="main" lang="kor" page="2:16a" n="3">소듕의 ᄀᆞᆯ오ᄃᆡ 노지죵무 ᄀᆞᆺ다 ᄒᆞ고 ᄯᅩ ᄀᆞᆯ오ᄃᆡ 긔현은 죵무의 범ᄒᆞ미 잇디 아니타 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:16a" n="4">敎文改付標處本文有曰‘幾乎蹈魯 翬 鍾巫之駭機，殆亦售趙高 沙丘之餘術’，</sent>
+<sent type="main" lang="kor" page="2:16a" n="4">교문 ᄀᆡ부 표ᄒᆞᆫ 본문의 ᄀᆞᆯ오ᄃᆡ 거의 노휘 죵무의 ᄒᆡ긔ᄅᆞᆯ ᄇᆞᆲ고 ᄯᅩ 됴고사구의 여슐을 발뵈다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:16a-16b" n="5">疏辭中又曰‘有若秦之斯、高’，</sent>
+<sent type="main" lang="kor" page="2:16a-16b" n="5">샹소의 ᄯᅩ ᄀᆞᆯ오ᄃᆡ 진ᄶᅥᆨ ᄉᆞ고 ᄀᆞᆺ다 ᄒᆞ니</sent>
+<!--ᄃᆡ ^ 진-->
+</pages>
+
+<pages n="2:16b">
+<img n="2:16b">https://kohico.kr/_media/image/bookname/2:16b.jpg</img>
+<sent type="main" lang="chi" page="2:16b" n="1">苟非藏諸心者積蓄不道，則發諸口者何至於此？”</sent>
+<sent type="main" lang="kor" page="2:16b" n="1">진실노 ᄆᆞᄋᆞᆷ의 ᄀᆞᆷ촌 부도ᄅᆞᆯ 젹츅디 아녀시면 입에 발ᄒᆞᆫ 쟤 엇디 이에 니ᄅᆞ리오 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:16b" n="2">一鏡一向抵賴，但曰：“惟在聖明生殺處分之如何。”</sent>
+<sent type="main" lang="kor" page="2:16b" n="2">일경이 일향 뎌뢰ᄒᆞ고 다만 니ᄅᆞ되 오딕 셩명겨오셔 ᄉᆡᆼ살 쳐분이 엇더ᄒᆞ오시매 잇다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:16b" n="3">鞫廳以其情狀痛惡請刑。連施刑訊。</sent>
+<sent type="main" lang="kor" page="2:16b" n="3">국텽이 그 졍상이 통악ᄒᆞ므로ᄡᅥ 쳥형ᄒᆞ야 년ᄒᆞ야 형신ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:16b" n="4">一鏡供辭凶悖，語犯不道。且曰：“朝家用法自有祖宗成憲，</sent>
+<sent type="main" lang="kor" page="2:16b" n="4">일경의 공ᄉᆡ 흉패ᄒᆞ야 말이 부도의 범ᄒᆞ고 ᄯᅩ ᄒᆞ되 됴가의 법 ᄡᅳ시미 조종됴 셩헌이 겨오시니</sent>
+<sent type="main" lang="chi" page="2:16b-17a" n="5">而殿下若欲快意，別施於法外，則非臣所敢知。”</sent>
+<sent type="main" lang="kor" page="2:16b-17a" n="5">뎐해 만일 ᄯᅳᆺ을 쾌히 ᄒᆞ오셔 법 밧긔 별노 베플고뎌 ᄒᆞ오시면 신의 감히 알 배 아니라 ᄒᆞ니</sent>
+<!--감^히-->
+</pages>
+
+<pages n="2:17a">
+<img n="2:17a">https://kohico.kr/_media/image/bookname/2:17a.jpg</img>
+<sent type="main" lang="chi" page="2:17a" n="1">親鞫一鏡。問以：“昨日更推供辭數行語，用意尤極叵測，</sent>
+<sent type="main" lang="kor" page="2:17a" n="1">일경을 친국ᄒᆞ오시고 믓ᄌᆞ오시되 작일 ᄀᆡᆼ튜공ᄉᆞ 두어 줄 말이 용의 더옥 파측ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:17a" n="2">凶心所在明若觀火，與向日睦虎龍之言隱爲表裏。其間情狀，一一直招。”</sent>
+<sent type="main" lang="kor" page="2:17a" n="2">흉심 소ᄌᆡ 명약관화ᄒᆞ니 향일 목호룡의 말노 더브러 은연히 표리되야시니 기간 졍상을 일일히 딕툐ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:17a" n="3">一鏡供益凶悖，有曰：“臣作此文三年矣。</sent>
+<sent type="main" lang="kor" page="2:17a" n="3">일경의 공ᄉᆡ 더옥 흉패ᄒᆞ고 ᄯᅩ ᄒᆞ되 신이 이 글 지언 디 삼 년이라</sent>
+<sent type="main" lang="chi" page="2:17a" n="4">若有國家或以爲嫌之說，則臣輒慨然曰‘世道狹窄，待春宮太薄’矣。”</sent>
+<!--'慨然'의 '慨'는 원문에는 좌변이 '忄'이 아니라 '阝'인데 한국고전종합DB의 수정에 따라 입력함--> 
+<sent type="main" lang="kor" page="2:17a" n="4">만일 나라히 혹 혐의ᄒᆞ오실가 말이 이시면 신이 믄득 개연ᄒᆞ야 니ᄅᆞ되 셰되 조바 츈궁 ᄃᆡ졉을 너므 박히 ᄒᆞᆫ다 ᄒᆞ얏ᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="2:17a" n="5">更推。</sent>
+<sent type="main" lang="kor" page="2:17a" n="5">ᄀᆡᆼ튜ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:17a-17b" n="6">是日，命鞫虎龍。問以：“汝變書及招辭俱極陰慘。‘敢知在邸時心事’等語，尤陰慘。</sent>
+<sent type="main" lang="kor" page="2:17a-17b" n="6">이날 명ᄒᆞ오샤 호룡을 국문ᄒᆞ오시되 네 변셔와 밋 툐ᄉᆡ 극히 음참ᄒᆞ고 감히 ᄌᆡ뎌시 심ᄉᆞᄅᆞᆯ 아노라 말이 더옥 음참ᄒᆞ더니</sent>
+<!--샤 ^ 호-->
+</pages>
+
+<pages n="2:17b">
+<img n="2:17b">https://kohico.kr/_media/image/bookname/2:17b.jpg</img>
+<sent type="main" lang="chi" page="2:17b" n="1">今以一鏡事觀之，與汝所言表裏相符。”</sent>
+<sent type="main" lang="kor" page="2:17b" n="1">이제 일경의 일노ᄡᅥ 보니 네 말노 더브러 표리 서로 맛ᄂᆞᆫ다 ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:17b" n="2">虎龍供“殿下有泰伯、仲雍之心，臣能明之，而一鏡敎文隱然侵犯殿下，</sent>
+<sent type="main" lang="kor" page="2:17b" n="2">호룡이 공ᄉᆞᄒᆞ되 뎐해 태ᄇᆡᆨ 듕옹의 ᄆᆞᄋᆞᆷ 겨오시믈 신이 능히 ᄇᆞᆯ키오ᄃᆡ 일경의 교문은 은연히 뎐하ᄅᆞᆯ 침범ᄒᆞ얏ᄉᆞ오니</sent>
+<sent type="main" lang="chi" page="2:17b" n="3">與臣相反”云。其言若與鏡有異，而意實相同，極爲凶狡。</sent>
+<sent type="main" lang="kor" page="2:17b" n="3">신으로 더브러 샹반ᄒᆞ오니이다 ᄒᆞ니 그 말이 일경으로 더브러 다른 ᄃᆞᆺᄒᆞ되 ᄯᅳᆺ이 서로 ᄀᆞᄐᆞ야 극히 흉교ᄒᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:17b-18a" n="4">更推虎龍以：“其時罪人等招及結案元無指斥之言，</sent>
+<sent type="main" lang="kor" page="2:17b-18a" n="4">호룡을 ᄀᆡᆼ튜ᄒᆞ되 그ᄯᅢ 죄인 등의 툐ᄉᆞ와 다믓 결안이 원간지쳑ᄒᆞᆫ 말이 업ᄉᆞᆫ즉</sent>
+<!--그^ᄯᅢ-->
+</pages>
+
+<pages n="2:18a">
+<img n="2:18a">https://kohico.kr/_media/image/bookname/2:18a.jpg</img>
+<sent type="main" lang="chi" page="2:18a" n="1">則汝之敢爲不道之說，明若觀火，一鏡敎文意亦相符，</sent>
+<sent type="main" lang="kor" page="2:18a" n="1">네 감히 부도의 말을 ᄒᆞ미 명약관화ᄒᆞ고 일경의 교문 ᄯᅳᆺ이 ᄯᅩᄒᆞᆫ 서로 ᄀᆞᄐᆞ니</sent>
+<sent type="main" lang="chi" page="2:18a" n="2">表裏之說，烏可免也？辛丑鏡疏與汝壬寅初招語意同，</sent>
+<sent type="main" lang="kor" page="2:18a" n="2">표리란 말을 엇디 가히 면ᄒᆞ며 신튝 경쇠 네 임인 첫 툐ᄉᆞ 말노 더브러 ᄯᅳᆺ이 ᄀᆞᄐᆞ니</sent>
+<sent type="main" lang="chi" page="2:18a" n="3">則其心相關，據此可知。”</sent>
+<sent type="main" lang="kor" page="2:18a" n="3">그 ᄆᆞᄋᆞᆷ이 샹관ᄒᆞ믈 일노 가히 알니로다</sent>
+<sent type="main" lang="chi" page="2:18a" n="4">連施刑，未幾虎龍物故。</sent>
+<sent type="main" lang="kor" page="2:18a" n="4">년ᄒᆞ야 시형ᄒᆞ야 오래디 아녀 호룡이 믈고ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:18a" n="5">引見鞫廳大臣以下，一鏡、虎龍竝以誣上不道正刑籍産。</sent>
+<sent type="main" lang="kor" page="2:18a" n="5">국텽 대신 이하ᄅᆞᆯ 인견ᄒᆞ오시고 일경 호룡을 다 무샹부도로 졍형ᄒᆞ고 젹산ᄒᆞ얏더니</sent>
+<sent type="main" lang="chi" page="2:18a-18b" n="6">因前獻納鄭宅河疏，</sent>
+<sent type="main" lang="kor" page="2:18a-18b" n="6">젼 헌납 뎡ᄐᆡᆨ하의 샹소ᄅᆞᆯ 인ᄒᆞ야</sent>
+<!--명^ᄒᆞ-->
+</pages>
+
+<pages n="2:18b">
+<img n="2:18b">https://kohico.kr/_media/image/bookname/2:18b.jpg</img>
+<sent type="main" lang="chi" page="2:18b" n="1">命虎龍特施懸街之律，收孥，破家瀦澤。</sent>
+<sent type="main" lang="kor" page="2:18b" n="1">명ᄒᆞ오샤 호룡을 특별이 현가ᄒᆞᄂᆞᆫ 뉼을 ᄡᅳ오시고 슈로ᄒᆞ고 파가 뎌ᄐᆡᆨᄒᆞ얏더니</sent>
+<sent type="main" lang="chi" page="2:18b" n="2">後又命削虎龍名於盟案。</sent>
+<sent type="main" lang="kor" page="2:18b" n="2">후의 ᄯᅩ 명ᄒᆞ오샤 호룡의 일홈을 ᄆᆡᆼ안의 샥ᄒᆞ오시고</sent>
+<sent type="main" lang="chi" page="2:18b" n="3">又因前都事柳應煥疏，一鏡亦命收孥，</sent>
+<sent type="main" lang="kor" page="2:18b" n="3">ᄯᅩ 젼 도ᄉᆞ 뉴응환의 샹소ᄅᆞᆯ 인ᄒᆞ야 일경을 ᄯᅩ 명ᄒᆞ오샤 슈로ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:18b" n="4">而其子特敎減死爲奴。其後鏡疏隨參諸賊命竝削黜。</sent>
+<sent type="main" lang="kor" page="2:18b" n="4">그 아ᄃᆞᆯ은 특교로 감ᄉᆞ위로ᄒᆞ고 그 후의 경소의 ᄯᆞ라 참예ᄒᆞᆫ 모든 역적을 다 샥츌ᄒᆞ얏더니</sent>
+<sent type="main" lang="chi" page="2:18b" n="5">後又命島配。</sent>
+<sent type="main" lang="kor" page="2:18b" n="5">후의 ᄯᅩ 명ᄒᆞ오샤 졀도 뎡ᄇᆡᄒᆞ오시다</sent>
+<sent type="main" lang="chi" page="2:18b-19a" n="6">今上元年【乙巳】正月，前都事柳應煥疏言：</sent>
+<!--한문 원문에는 '乙巳'가 '壬寅', '辛丑'과 같이 소제목처럼 쓰이고 있으나 여기서는 언해문의 형식에 맞추어 '【乙巳】'와 같이 협주로 처리함-->
+<sent type="main" lang="kor" page="2:18b-19a" n="6">금샹 원년 【을ᄉᆞ】 졍월의 젼 도ᄉᆞ 뉴응환이 샹소ᄒᆞ야 니ᄅᆞᄃᆡ</sent>
+<!--여기서부터 새 내용이 시작되는 부분인데 '○'로 구분하지 않고 줄바꿈으로 내용을 구분하고 있음-->
+<!--야 ^ 니-->
+</pages>
+
+<pages n="2:19a">
+<img n="2:19a">https://kohico.kr/_media/image/bookname/2:19a.jpg</img>
+<sent type="main" lang="chi" page="2:19a" n="1">“惟我先王不幸無嗣，殿下入陞儲位，</sent>
+<sent type="main" lang="kor" page="2:19a" n="1">오딕 우리 션왕겨오셔 불ᄒᆡᆼ 무ᄉᆞᄒᆞ오시매 뎐해 입승 져위ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:19a" n="2">一鏡之黨已有章、蔡逞毒之計，泰耉操切於前，</sent>
+<sent type="main" lang="kor" page="2:19a" n="2">일경의 당이 이믜 쟝돈 채경의 독을 브릴 계ᄀᆈ 이셔 태귀 압ᄒᆡ셔 조졀ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:19a" n="3">鳳輝指議於後，其懷異心於殿下，非一朝一夕之故。</sent>
+<sent type="main" lang="kor" page="2:19a" n="3">봉휘 뒤ᄒᆡ셔 ᄀᆞ르치고 의논ᄒᆞ야 뎐하ᄭᅴ 이심 품으미 일됴일셕의 연괴 아니라</sent>
+<sent type="main" lang="chi" page="2:19a" n="4">而及其冬，先王備忘及前後批旨，以患候有妨公務爲敎，</sent>
+<sent type="main" lang="kor" page="2:19a" n="4">밋 그 겨ᄋᆞᆯ의 션왕 비망과 밋 젼후 비지의 환휘 공무의 방해로오시므로ᄡᅥ 하교ᄒᆞ오샤</sent>
+<sent type="main" lang="chi" page="2:19a" n="5">欲使殿下代理。則群小闖起，</sent>
+<sent type="main" lang="kor" page="2:19a" n="5">뎐하로 ᄒᆞ여곰 ᄃᆡ리ᄒᆞ고뎌 ᄒᆞ오신즉 군ᄉᆈ 틈연히 니러나 니ᄅᆞ되</sent>
+<sent type="main" lang="chi" page="2:19a-19b" n="6">謂可以乘此機會逞其凶圖，倚閣備忘於一邊，</sent>
+<sent type="main" lang="kor" page="2:19a-19b" n="6">가히 이 긔회ᄅᆞᆯ 타 그 흉도ᄅᆞᆯ 발뵈리라 ᄒᆞ야 비망을 ᄒᆞᆫ 편의 지혀 ᄇᆞ리고</sent>
+<!--ᄅᆞᆯ ^ 발-->
+</pages>
+
+<pages n="2:19b">
+<img n="2:19b">https://kohico.kr/_media/image/bookname/2:19b.jpg</img>
+<sent type="main" lang="chi" page="2:19b" n="1">使世良繼以‘陰移天位’、‘末後一事’之說，日夜經營，只在於謀危殿下。</sent>
+<sent type="main" lang="kor" page="2:19b" n="1">셰량으로 ᄒᆞ여곰 음이텬위와 말후일ᄉᆡ란 말노ᄡᅥ 니어 일야의 경영ᄒᆞ미 다만 뎐하ᄅᆞᆯ 모위ᄒᆞ기예 이셔</sent>
+<sent type="main" lang="chi" page="2:19b" n="2">於是乎一鏡挺身而出，承受諸賊之謀，招引不逞之徒，</sent>
+<sent type="main" lang="kor" page="2:19b" n="2">이에 일경이 뎡신ᄒᆞ고 나 졔적의 ᄭᅬᄅᆞᆯ 밧고 불녕지도ᄅᆞᆯ 툐인ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:19b" n="3">自作窩主，投陳一疏，以冀、顯等語爲說，少無顧忌，</sent>
+<sent type="main" lang="kor" page="2:19b" n="3">스ᄉᆞ로 와ᄌᆔ 되여 ᄒᆞᆫ 샹소ᄅᆞᆯ 더뎌 긔현이란 말을 ᄒᆞ야 됴곰도 도라 긔탄ᄒᆞ미 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="2:19b" n="4">則‘蹀血’、‘懷刃’之誣，奚待敎文而知之乎？</sent>
+<sent type="main" lang="kor" page="2:19b" n="4">텹혈회인이란 뮈 엇디 교문을 기ᄃᆞ려 알니오</sent>
+<sent type="main" lang="chi" page="2:19b-20a" n="5">此疏後，不過一旬，尙儉之事出，則其締結同謀之狀，於此可知。</sent>
+<sent type="main" lang="kor" page="2:19b-20a" n="5">이 샹소 후 일슌이 디나디 못ᄒᆞ야 샹검의 일이 난즉 그 톄결ᄒᆞ야 동모ᄒᆞᆫ 형상이 이에 가히 알 거시오</sent>
+<!--에 ^ 가-->
+</pages>
+
+<pages n="2:20a">
+<img n="2:20a">https://kohico.kr/_media/image/bookname/2:20a.jpg</img>
+<sent type="main" lang="chi" page="2:20a" n="1">而鏡與諸臣相率入對，</sent>
+<sent type="main" lang="kor" page="2:20a" n="1">경이 졔신으로 더브러 서로 거ᄂᆞ려 입ᄃᆡᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:20a" n="2">力請尙儉之直斬，表裏相應之跡，尤益難掩。</sent>
+<sent type="main" lang="kor" page="2:20a" n="2">샹검을 바로 베히기ᄅᆞᆯ 힘ᄡᅥ 쳥ᄒᆞ야 표리샹응하ᄂᆞᆫ 자최 더옥 덥기 어렵고</sent>
+<sent type="main" lang="chi" page="2:20a" n="3">及白望招辭，果以一鏡締結行貨謀害兩殿之說現告，</sent>
+<sent type="main" lang="kor" page="2:20a" n="3">밋 ᄇᆡᆨ망의 툐ᄉᆡ 과연 일경의 톄결 ᄒᆡᆼ화ᄒᆞ야 냥뎐 모해ᄒᆞ단 말로ᄡᅥ 현고ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:20a" n="4">而一鏡暫時待命，旋卽自治其獄，竄逐言者，</sent>
+<sent type="main" lang="kor" page="2:20a" n="4">일경이 잠시ᄅᆞᆯ ᄃᆡ명하다가 두로혀 즉시 스ᄉᆞ로 그 옥을 다ᄉᆞ리고 말ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ을 찬튝ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:20a" n="5">古今天下寧有是哉？</sent>
+<sent type="main" lang="kor" page="2:20a" n="5">고금 텬하의 엇디 이러ᄒᆞ미 이시리오</sent>
+<sent type="main" lang="chi" page="2:20a" n="6">尙儉之計不成，謀危之跡已露，</sent>
+<sent type="main" lang="kor" page="2:20a" n="6">샹검의 계ᄀᆈ 이디 못ᄒᆞ고 모위ᄒᆞ던 자최 이믜 드러나되</sent>
+<sent type="main" lang="chi" page="2:20a-20b" n="7">而凶逆之心，猶未悛改，忿恨之志，弸積其中，觸處綻露，</sent>
+<sent type="main" lang="kor" page="2:20a-20b" n="7">흉역의 ᄆᆞᄋᆞᆷ을 오히려 고티디 못ᄒᆞ고 분ᄒᆞᆫᄒᆞᄂᆞᆫ ᄯᅳᆺ이 그 가온ᄃᆡ 붕젹ᄒᆞ매 쵹쳐의 탄로ᄒᆞ야</sent>
+<!--디 ^ 못-->
+</pages>
+
+<pages n="2:20b">
+<img n="2:20b">https://kohico.kr/_media/image/bookname/2:20b.jpg</img>
+<sent type="main" lang="chi" page="2:20b" n="1">不能自隱，陰凶之言、悖逆之說，發之於疏章，書之於敎文。</sent>
+<sent type="main" lang="kor" page="2:20b" n="1">능히 스ᄉᆞ로 숨기디 못ᄒᆞ야 음흉 패역ᄒᆞᆫ 말을 소쟝의 발ᄒᆞ고 교문의 ᄡᅳ니</sent>
+<sent type="main" lang="chi" page="2:20b" n="2">一鏡苟不設置陰機，將欲有爲，則其敢爲此乎？</sent>
+<sent type="main" lang="kor" page="2:20b" n="2">일경이 진실로 ᄀᆞ만ᄒᆞᆫ 긔틀을 베프러 쟝ᄎᆞᆺ ᄒᆞ고뎌 ᄒᆞ미 잇디 아니ᄒᆞ면 그 감히 이ᄅᆞᆯ ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:20b" n="3">殿下之保有今日，天也，非人也。念及於此，寧不怵然？</sent>
+<sent type="main" lang="kor" page="2:20b" n="3">뎐해 오ᄂᆞᆯ날 보젼ᄒᆞ시미 하ᄂᆞᆯ이오 인녁이 아니라 ᄉᆡᆼ각이 이예 밋츠매 엇디 츌연티 아니ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:20b" n="4">其疏曰‘懷刃夜半有若魯之鍾巫，食中行毒有若漢之冀、顯’，</sent>
+<sent type="main" lang="kor" page="2:20b" n="4">그 샹소의 ᄀᆞᆯ오되 회인야반은 노의 죵무 ᄀᆞᆺ고 식듕ᄒᆡᆼ독은 한의 긔현 ᄀᆞᆺ다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:20b-21a" n="5">又曰‘乘喪矯旨有若秦之斯、高’，</sent>
+<sent type="main" lang="kor" page="2:20b-21a" n="5">ᄯᅩ ᄀᆞᆯ오ᄃᆡ 승상교지ᄂᆞᆫ 진의 ᄉᆞ고 ᄀᆞᆺ다 ᄒᆞ고</sent>
+<!--진^의-->
+</pages>
+
+<pages n="2:21a">
+<img n="2:21a">https://kohico.kr/_media/image/bookname/2:21a.jpg</img>
+<sent type="main" lang="chi" page="2:21a" n="1">其敎文又稱冀、顯之奸。而前後文字凡三用冀、顯，猶恐其言之微而不顯，</sent>
+<sent type="main" lang="kor" page="2:21a" n="1">그 교문의 ᄯᅩ 긔현 간악을 일ᄏᆞ라 젼후 문ᄌᆞ의 므릇 세 번 긔현을 ᄡᅥ 오히려 그 말이 미ᄒᆞ야 나타나디 아닐가 저허ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:21a" n="2">又曰‘內圖霍顯之行盃’，結之以‘內屋戚聯’，</sent>
+<sent type="main" lang="kor" page="2:21a" n="2">ᄯᅩ ᄀᆞᆯ오ᄃᆡ ᄂᆡ도곽현지ᄒᆡᆼᄇᆡ라 ᄒᆞ고 ᄂᆡ옥쳑년으로ᄡᅥ ᄆᆡ즈니</sent>
+<sent type="main" lang="chi" page="2:21a" n="3">其指意所歸，豈但章、蔡輩誣宣仁而已哉？”</sent>
+<sent type="main" lang="kor" page="2:21a" n="3">그 지의 도라가ᄂᆞᆫ 배 엇디 쟝채ᄇᆡ의 션인을 무망ᄒᆞᆯ ᄯᆞᄅᆞᆷ이리잇고</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:21a" n="4">諫院啓：“李師尙以賊鏡之血黨，主張凶論，</sent>
+<sent type="main" lang="kor" page="2:21a" n="4">간원이 계ᄉᆞᄒᆞ되 니ᄉᆞ샹이 적경의 혈당으로ᄡᅥ 흉논을 쥬댱ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:21a" n="5">恣行胸臆，共濟其惡，戕害善類，</sent>
+<sent type="main" lang="kor" page="2:21a" n="5">흉억을 방ᄌᆞ이 ᄒᆡᆼᄒᆞ야 ᄒᆞᆫ가디로 그 사오나온 거ᄉᆞᆯ 일워 션뉴ᄅᆞᆯ 장해ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:21a-21b" n="6">其爲國人之所共憤，固已久矣。</sent>
+<sent type="main" lang="kor" page="2:21a-21b" n="6">그 국인의 ᄒᆞᆫ가디로 분ᄒᆞᆫ 배 되미 진실로 이믜 오랜디라</sent>
+<!--배 ^ 되-->
+</pages>
+
+<pages n="2:21b">
+<img n="2:21b">https://kohico.kr/_media/image/bookname/2:21b.jpg</img>
+<sent type="main" lang="chi" page="2:21b" n="1">而昨年疏中乃敢以肅廟朝諸臣比論於昏朝凶黨，</sent>
+<sent type="main" lang="kor" page="2:21b" n="1">작년 샹소 가온ᄃᆡ 이에 감히 슉묘됴 졔신으로ᄡᅥ 혼됴 흉당의게 비ᄒᆞ야 의논ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:21b" n="2">其用意之窮凶，遣辭之絶悖，可勝痛哉？</sent>
+<sent type="main" lang="kor" page="2:21b" n="2">그 용의의 궁흉ᄒᆞᆷ과 견ᄉᆞ의 졀패ᄒᆞᆷ이 가히 통분ᄒᆞ믈 이긔리잇가</sent>
+<sent type="main" lang="chi" page="2:21b" n="3">至於‘日後計得矣’云者，其心所在，尤極叵測。</sent>
+<sent type="main" lang="kor" page="2:21b" n="3">지어 일후계ᄅᆞᆯ 엇다 니ᄅᆞ믄 기심소ᄌᆡ 더옥 파측ᄒᆞ미 극ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:21b" n="4">此所以聖明洞燭其肝肺，姑施薄罰。而論其罪狀，萬萬痛惋，</sent>
+<sent type="main" lang="kor" page="2:21b" n="4">이 ᄡᅥ 셩명이 간폐ᄅᆞᆯ 통쵹ᄒᆞ오셔 아딕 박벌을 베프오신 배나 그 죄상을 의논ᄒᆞ면 만만 통완ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:21b" n="5">不可以削黜而懲其惡。</sent>
+<sent type="main" lang="kor" page="2:21b" n="5">가히 샥츌로ᄡᅥ 그 죄악을 딩티티 못ᄒᆞᆯ디라</sent>
+<sent type="main" lang="chi" page="2:21b" n="6">請李師尙絶島安置。”</sent>
+<sent type="main" lang="kor" page="2:21b" n="6">쳥컨대 니ᄉᆞ샹을 졀도 안티ᄒᆞ야디이다</sent>
+<sent type="main" lang="chi" page="2:21b-22a" n="7">上允之。</sent>
+<sent type="main" lang="kor" page="2:21b-22a" n="7">샹이 윤죵ᄒᆞ오시다</sent>
+<!--윤^죵-->
+</pages>
+
+<pages n="2:22a">
+<img n="2:22a">https://kohico.kr/_media/image/bookname/2:22a.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:22a" n="1">諫院又啓：“今我殿下以肅廟之子、大行大王之弟，</sent>
+<sent type="main" lang="kor" page="2:22a" n="1">간원이 ᄯᅩ 계ᄉᆞᄒᆞ되 우리 뎐하겨오셔 슉묘지ᄌᆡ오시고 대ᄒᆡᆼ 대왕지뎨오시므로ᄡᅥ</sent>
+<sent type="main" lang="chi" page="2:22a" n="2">光御大位，承祖宗之付托，叶臣民之愛戴，八域鼓舞，一國慶頌。</sent>
+<sent type="main" lang="kor" page="2:22a" n="2">대위ᄅᆞᆯ 광어ᄒᆞ오샤 조종 부탁을 밧ᄌᆞ오시고 신민의 ᄋᆡᄃᆡ을 마티오샤 팔역이 고무ᄒᆞ고 일국이 경숑ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:22a" n="3">今日北面於殿下者，孰敢有橫生異意於其間？</sent>
+<sent type="main" lang="kor" page="2:22a" n="3">오ᄂᆞᆯ날 뎐하ᄭᅴ 북면ᄒᆞᄂᆞᆫ 쟤 뉘 감히 다른 ᄯᅳᆺ을 그ᄉᆞ이의 내리 이시리잇고마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:22a" n="4">而李明彦乃敢以‘援立’、‘擁立’等語，肆然書之於章奏之間。</sent>
+<sent type="main" lang="kor" page="2:22a" n="4">니명언이 이에 감히 원닙 옹닙이란 말로ᄡᅥ 쟝주 ᄉᆞ이예 ᄉᆞ연히 ᄡᅳ니</sent>
+<sent type="main" lang="chi" page="2:22a-22b" n="5">蓋其凶計出於脅持君父，使不得措手。</sent>
+<sent type="main" lang="kor" page="2:22a-22b" n="5">대개 그 흉계 군부ᄅᆞᆯ 헙디ᄒᆞ야 ᄒᆞ여곰 조슈ᄅᆞᆯ 못ᄒᆞ오시게 ᄒᆞ므로 나시니</sent>
+<!--로 ^ 나-->
+</pages>
+
+<pages n="2:22b">
+<img n="2:22b">https://kohico.kr/_media/image/bookname/2:22b.jpg</img>
+<sent type="main" lang="chi" page="2:22b" n="1">少有臣子之心，則何敢若是其放肆無嚴耶？</sent>
+<sent type="main" lang="kor" page="2:22b" n="1">져기 신ᄌᆞ의 ᄆᆞᄋᆞᆷ이 이시면 엇디 감히 이러ᄐᆞ시 방ᄉᆞ 무엄ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:22b" n="2">如此凶悖之徒，不可一日置之輦轂之下。請李明彦絶島安置。”</sent>
+<sent type="main" lang="kor" page="2:22b" n="2">이런 흉패ᄒᆞᆫ 무리ᄅᆞᆯ 가히 ᄒᆞᄅᆞ도 년곡 아ᄅᆡ 두디 못ᄒᆞ올 거시니 쳥컨대 니명언을 졀도 안티ᄒᆞ여디이다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:22b" n="3">逆賊李天海伏誅。</sent>
+<sent type="main" lang="kor" page="2:22b" n="3">역적 니텬ᄒᆡ 복듀ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:22b" n="4">日前上幸懿陵，天海於駕前亂言。</sent>
+<sent type="main" lang="kor" page="2:22b" n="4">일젼의 샹이 의능에 ᄒᆡᆼᄒᆡᆼᄒᆞ오실ᄉᆡ 텬ᄒᆡ 가젼의셔 난언ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:22b" n="5">上親鞫。天海乃發陰慘不忍聞之凶言。</sent>
+<sent type="main" lang="kor" page="2:22b" n="5">샹이 친국ᄒᆞ오신대 텬ᄒᆡ 이에 음참ᄒᆞ야 ᄎᆞᆷ아 듯디 못ᄒᆞᆯ 흉언을 발ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:22b" n="6">累施刑訊，而竟不直告指嗾之人，遂正法。</sent>
+<sent type="main" lang="kor" page="2:22b" n="6">여러 번 형신ᄒᆞ되 ᄆᆞᄎᆞᆷ내 지주ᄒᆞᆫ 사ᄅᆞᆷ을 바로 고티 아니ᄒᆞ니 드ᄃᆡ여 졍법ᄒᆞ엿더니</sent>
+<sent type="main" lang="chi" page="2:22b-23a" n="7">其後戊申逆亂時，任環供云：“甲辰、乙巳年間，天海以凶言被誅，</sent>
+<sent type="main" lang="kor" page="2:22b-23a" n="7">그 후 무신 역난 ᄯᅢ예 임환의 공ᄉᆞ에ᄂᆞᆫ 닐오ᄃᆡ 갑진 을ᄉᆞ년간의 텬ᄒᆡ 흉언ᄒᆞ기로 복듀ᄒᆞ니</sent>
+<!--그 ^ 후-->
+</pages>
+
+<pages n="2:23a">
+<img n="2:23a">https://kohico.kr/_media/image/bookname/2:23a.jpg</img>
+<sent type="main" lang="chi" page="2:23a" n="1">此則有翼、維賢做出凶言而使之也。</sent>
+<sent type="main" lang="kor" page="2:23a" n="1">이ᄂᆞᆫ 유익 유현이 흉언을 주츌ᄒᆞ여 시기미라</sent>
+<sent type="main" lang="chi" page="2:23a" n="2">世弘、有翼內外相應後，始發此言，曰：</sent>
+<sent type="main" lang="kor" page="2:23a" n="2">셰홍 유익이 ᄂᆡ외로 서로 응ᄒᆞᆫ 후의 비로소 이 말을 발ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:23a" n="3">‘其時嗾天海凶言者，今有助矣。’</sent>
+<sent type="main" lang="kor" page="2:23a" n="3">그ᄯᅢ예 텬ᄒᆡᄅᆞᆯ 지주ᄒᆞ여 흉언ᄒᆞ미 이제 도음이 잇다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:23a" n="4">有翼則以爲‘維賢做出凶言，使播閭巷’，</sent>
+<sent type="main" lang="kor" page="2:23a" n="4">유익이 ᄡᅥ ᄒᆞ되 유현이 흉언을 주츌ᄒᆞ여 녀항의 뎐파ᄒᆞ다 ᄒᆞ고</sent>
+<!--'ᄒᆞ되'는 'ᄒᆞᄃᆡ'처럼 보이나 'ᄃᆡ'와 '되'의 자형을 비교한 것이나 뒤의 내용으로 보아 'ᄒᆞ되'의 탈획이므로 수정함-->
+<sent type="main" lang="chi" page="2:23a" n="5">世弘則以爲‘維賢之凶言，若早發覺，則當出大事，</sent>
+<sent type="main" lang="kor" page="2:23a" n="5">셰홍은 ᄒᆞ되 유현의 흉언이 만일 일즉이 발각ᄒᆞ던들 응당 큰일이 날 거시로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:23a-23b" n="6">而幸不發覺，可謂順成’。</sent>
+<sent type="main" lang="kor" page="2:23a-23b" n="6">다ᄒᆡᆼ이 발각디 아니ᄒᆞ여시니 가히 슌히 되다 니ᄅᆞ리로다 ᄒᆞ고</sent>
+<!--니 ^ 가-->
+</pages>
+
+<pages n="2:23b">
+<img n="2:23b">https://kohico.kr/_media/image/bookname/2:23b.jpg</img>
+<sent type="main" lang="chi" page="2:23b" n="1">有翼又言：‘維賢懷不軌之心，欲推戴密豐，</sent>
+<sent type="main" lang="kor" page="2:23b" n="1">유익이 ᄯᅩ ᄒᆞ되 유현이 불궤ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 품어 밀풍을 튜ᄃᆡ코뎌 ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:23b" n="2">作不忍聞之言，欲玷汚聖德，以煽動人心，成其逆事。’”</sent>
+<sent type="main" lang="kor" page="2:23b" n="2">ᄎᆞᆷ아 듯디 못ᄒᆞᆯ 말을 지어 셩덕을 졈오ᄒᆞ야 ᄡᅥ 인심을 션동ᄒᆞ여 그 역적의 일을 일우려 ᄒᆞᆫ다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:23b" n="3">又李師魯供云：“維賢以戚里可爲高官，</sent>
+<sent type="main" lang="kor" page="2:23b" n="3">ᄯᅩ 니ᄉᆞ노의 공ᄉᆞ의ᄂᆞᆫ 닐오ᄃᆡ 유현이 쳑니로ᄡᅥ 가히 놉흔 벼ᄉᆞᆯ을 ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="2:23b" n="4">非此時，宜不草草，故有此怨國之言。</sent>
+<sent type="main" lang="kor" page="2:23b" n="4">이ᄯᅢ 곳 아니면 응당 초초티 아닐 거시매 이 원국ᄒᆞᄂᆞᆫ 말이 잇다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:23b" n="5">有翼以爲：‘如此言助播之，則可以疑惑人心矣，</sent>
+<sent type="main" lang="kor" page="2:23b" n="5">유익이 ᄒᆞ되 이런 말을 도와 뎐파ᄒᆞ면 가히 인심을 의혹게 ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:23b-24a" n="6">傳播甚多，人心皆以爲然，成此事惟在人心。’</sent>
+<sent type="main" lang="kor" page="2:23b-24a" n="6">뎐파ᄒᆞ기ᄅᆞᆯ 심히 만히 ᄒᆞ면 인심이 다 그러히 너길 거시니 이 일을 일오기ᄂᆞᆫ 오딕 인심의 잇다 ᄒᆞ니</sent>
+<!--만^히-->
+</pages>
+
+<pages n="2:24a">
+<img n="2:24a">https://kohico.kr/_media/image/bookname/2:24a.jpg</img>
+<sent type="main" lang="chi" page="2:24a" n="1">附賊之類皆知凶言之無根無據，而牽於慾心，同此逆謀。”</sent>
+<sent type="main" lang="kor" page="2:24a" n="1">역적의게 붓좃ᄂᆞᆫ ᄂᆔ 다 흉언이 근본이 업고 의게 업ᄂᆞᆫ 줄을 아되 욕심의 잇글려 이 역모ᄅᆞᆯ ᄀᆞ티ᄒᆞ엿다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:24a" n="2">又李翼觀供云：“有翼初爲此凶言，</sent>
+<sent type="main" lang="kor" page="2:24a" n="2">ᄯᅩ 니익관의 공ᄉᆞ의ᄂᆞᆫ 니ᄅᆞ되 유익이 처음으로 이 흉언을 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:24a" n="3">而有翼聞於朴弼顯矣。天海初居生民洞，後移水閣橋，</sent>
+<sent type="main" lang="kor" page="2:24a" n="3">유익은 박필현의게 듯고 텬ᄒᆡᄂᆞᆫ 처음의 ᄉᆡᆼ민동셔 사다가 후의 슈각교의 올므니</sent>
+<sent type="main" lang="chi" page="2:24a" n="4">臣往來京中，天海爲主人。</sent>
+<sent type="main" lang="kor" page="2:24a" n="4">신이 경듕의 왕ᄂᆡᄒᆞᆯ 제 텬ᄒᆡ로 쥬인을 삼앗ᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:24a-24b" n="5">而臣要給栗斗，則天海來，故臣兄弟夜與天海爲此言。</sent>
+<sent type="main" lang="kor" page="2:24a-24b" n="5">신이 ᄉᆡᆼ뉼 말이나 주려 ᄒᆞ니 텬ᄒᆡ 왓거ᄂᆞᆯ 신의 형뎨 밤의 텬ᄒᆡ로 더브러 이 말을 ᄒᆞ고</sent>
+<!--뎨 ^ 밤-->
+</pages>
+
+<pages n="2:24b">
+<img n="2:24b">https://kohico.kr/_media/image/bookname/2:24b.jpg</img>
+<sent type="main" lang="chi" page="2:24b" n="1">天海素唐突，故臣果指使。而言根又出於李日佐。</sent>
+<sent type="main" lang="kor" page="2:24b" n="1">텬ᄒᆡ 본ᄃᆡ 당돌ᄒᆞᆫ 고로 신이 과연 ᄀᆞᄅᆞ텨 시기고 언근이 ᄯᅩ 니일좌의게 나시니</sent>
+<sent type="main" lang="chi" page="2:24b" n="2">日佐，弘澤之子，麟佐之族，居果川，入賊黨云。”</sent>
+<sent type="main" lang="kor" page="2:24b" n="2">일좌ᄂᆞᆫ 홍ᄐᆡᆨ의 아ᄃᆞᆯ이오 닌좌의 겨레로 과쳔의 이셔 적당의 드다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:24b" n="3">蓋有翼、弼顯敎誘維賢做出凶言，</sent>
+<sent type="main" lang="kor" page="2:24b" n="3">대개 유익 필현이 유현을 ᄀᆞᄅᆞ티고 다래여 흉언을 주츌ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:24b" n="4">又與翼觀兄弟、觀孝、世弘、日佐等傳播遠近。</sent>
+<sent type="main" lang="kor" page="2:24b" n="4">ᄯᅩ 익관의 형뎨와 관효 셰홍 일좌 등으로 더브러 원근에 뎐파ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:24b" n="5">翼觀又指嗾天海作變之狀，至是盡露。</sent>
+<sent type="main" lang="kor" page="2:24b" n="5">익관이 ᄯᅩ 텬ᄒᆡᄅᆞᆯ 지주ᄒᆞ야 작변ᄒᆞᆫ ᄉᆞ상이 이에 니ᄅᆞ러 다 드러나니</sent>
+<sent type="main" lang="chi" page="2:24b-25a" n="6">而有翼輩之必敎誘維賢做出凶言者，以維賢戚聯王室，</sent>
+<sent type="main" lang="kor" page="2:24b-25a" n="6">유익ᄇᆡ의 반ᄃᆞ시 유현을 ᄀᆞᄅᆞ티고 다래여 흉언을 주츌ᄒᆞ믄 유현이 왕실의 쳑년ᄒᆞ여시매</sent>
+<!--주^츌-->
+</pages>
+
+<pages n="2:25a">
+<img n="2:25a">https://kohico.kr/_media/image/bookname/2:25a.jpg</img>
+<sent type="main" lang="chi" page="2:25a" n="1">故欲藉其言而眩惑人聽也。</sent>
+<sent type="main" lang="kor" page="2:25a" n="1">그 말을 빙쟈ᄒᆞ야 사ᄅᆞᆷ의 듯ᄂᆞᆫ 거ᄉᆞᆯ 어리우고 의혹게 ᄒᆞ고뎌 ᄒᆞ미러라</sent>
+<sent type="main2" lang="chi" page="2:25a" n="2">噫嘻痛矣！天海凶言卽今年致雲之凶言也。</sent>
+<sent type="main2" lang="kor" page="2:25a" n="2">희희통의라 텬ᄒᆡ 흉언은 곳 금년 티운의 흉언이라</sent>
+<sent type="main2" lang="chi" page="2:25a" n="3">甲辰八月景廟違豫時，水刺厭進之候漸加，宮中悶迫。</sent>
+<sent type="main2" lang="kor" page="2:25a" n="3">갑진 팔월 경ᄆᆈ 위예ᄒᆞ오실 ᄯᅢ예 슈라 염진ᄒᆞ오시미 졈졈 더ᄒᆞ오시니 궁듕이 민박ᄒᆞ여 ᄒᆞ더니</sent>
+<sent type="main2" lang="chi" page="2:25a" n="4">二十日，御廚於水刺，供蟹醬，卽秋節新味，</sent>
+<sent type="main2" lang="kor" page="2:25a" n="4">이십일 어듀로셔 슈라의 ᄒᆡ쟝을 드리오니 곳 츄졀 신미라</sent>
+<sent type="main2" lang="chi" page="2:25a" n="5">故景廟以此多進水刺，伊時宮中皆歡喜。</sent>
+<sent type="main2" lang="kor" page="2:25a" n="5">경ᄆᆈ 일로ᄡᅥ 슈라ᄅᆞᆯ 만히 나와 겨오시니 그ᄯᅢ 궁듕이 다 깃거ᄒᆞ엿더니</sent>
+</pages>
+
+<pages n="2:25b">
+<img n="2:25b">https://kohico.kr/_media/image/bookname/2:25b.jpg</img>
+<sent type="main2" lang="chi" page="2:25b" n="1">其後過進之說，流傳於外間，</sent>
+<sent type="main2" lang="kor" page="2:25b" n="1">그 후에 과히 나오시단 말이 외간의 뉴뎐ᄒᆞ니</sent>
+<sent type="main2" lang="chi" page="2:25b" n="2">有翼、弼顯輩假此而做出窮凶叵測之言，</sent>
+<sent type="main2" lang="kor" page="2:25b" n="2">유익 필현ᄇᆡ 이ᄅᆞᆯ 비러 궁흉 파측ᄒᆞᆫ 말을 지어내여</sent>
+<sent type="main2" lang="chi" page="2:25b" n="3">陰嗾維賢而傳播之，要以合於賊鏡之凶言，</sent>
+<sent type="main2" lang="kor" page="2:25b" n="3">ᄀᆞ마니 유현을 지주ᄒᆞ야 뎐파ᄒᆞ야 ᄡᅥ 적경의 흉언의 합ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main2" lang="chi" page="2:25b" n="4">又誘天海作前古所無之變。</sent>
+<sent type="main2" lang="kor" page="2:25b" n="4">ᄯᅩ 텬ᄒᆡᄅᆞᆯ 다래여 젼고의 업ᄉᆞᆫ바 변을 지어내니</sent>
+<sent type="main2" lang="chi" page="2:25b" n="5">上聞此語，駭憤痛迫，有加於賊鏡之言。</sent>
+<sent type="main2" lang="kor" page="2:25b" n="5">샹이 이 말을 듯ᄌᆞ오시고 ᄒᆡ분 통박ᄒᆞ오시미 적경의 말의셔 더ᄒᆞ오샤</sent>
+<sent type="main2" lang="chi" page="2:25b" n="6">方鞫天海，夜深親問，</sent>
+<sent type="main2" lang="kor" page="2:25b" n="6">ᄇᆞ야흐로 텬ᄒᆡᄅᆞᆯ 국문ᄒᆞ오실ᄉᆡ 밤이 깁도록 친문ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:25b" n="7">都承旨固請還內，上曰：</sent>
+<sent type="main2" lang="kor" page="2:25b" n="7">도승지 환ᄂᆡᄒᆞ오시기ᄅᆞᆯ 구디 쳥ᄒᆞ온대 샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+</pages>
+
+<pages n="2:26a">
+<img n="2:26a">https://kohico.kr/_media/image/bookname/2:26a.jpg</img>
+<sent type="main2" lang="chi" page="2:26a" n="1">“其言逼於不敢言之地，爲人臣子者不可他顧也。”</sent>
+<sent type="main2" lang="kor" page="2:26a" n="1">그 말이 불감언지디에 핍ᄒᆞ여시니 신ᄌᆡ 되야 가히 다른 거ᄉᆞᆯ 도라보디 못ᄒᆞ리라 ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:26a" n="2">夫天海凶言，敢逼不敢言之地，</sent>
+<sent type="main2" lang="kor" page="2:26a" n="2">그 텬ᄒᆡ의 흉언이 불감언지디의 핍ᄒᆞ미라</sent>
+<sent type="main2" lang="chi" page="2:26a" n="3">至今年，致雲又襲天海之說，而至於蟹醬之說，雖以天海之凶逆，亦所不言。</sent>
+<sent type="main2" lang="kor" page="2:26a" n="3">금년의 니ᄅᆞ러 티운이 ᄯᅩ 텬ᄒᆡ의 말을 도습ᄒᆞ되 ᄒᆡ쟝 말은 비록 텬ᄒᆡ의 흉역으로도 ᄯᅩᄒᆞᆫ ᄒᆞ디 아닌 배라</sent>
+<sent type="main2" lang="chi" page="2:26a" n="4">噫嘻痛矣！寧復有如此凶誣哉？</sent>
+<sent type="main2" lang="kor" page="2:26a" n="4">희희통의라 엇디 다시 이러ᄐᆞᆺ ᄒᆞᆫ 흉뮈 이시리오</sent>
+<sent type="main2" lang="chi" page="2:26a" n="5">伊時東朝設有所送，此乃當然之常事，</sent>
+<sent type="main2" lang="kor" page="2:26a" n="5">그ᄯᅢ의 동ᄃᆈ 셜ᄉᆞ 보내오시미 겨오실디라도 이 당연ᄒᆞᆫ 녜ᄉᆞ일이어든</sent>
+<sent type="main2" lang="chi" page="2:26a-26b" n="6">況所進又是御廚所供者乎？</sent>
+<sent type="main2" lang="kor" page="2:26a-26b" n="6">ᄒᆞ믈며 진어ᄒᆞ오신 배 ᄯᅩ 어듀로셔 드리온 배라</sent>
+<!--온 ^ 배-->
+</pages>
+
+<pages n="2:26b">
+<img n="2:26b">https://kohico.kr/_media/image/bookname/2:26b.jpg</img>
+<sent type="main2" lang="chi" page="2:26b" n="1">惟我東朝止慈之心，動合天則，</sent>
+<sent type="main2" lang="kor" page="2:26b" n="1">오딕 우리 동ᄃᆈ 지ᄌᆞᄒᆞ오신 ᄆᆞᄋᆞᆷ이 동합텬측ᄒᆞ오샤</sent>
+<sent type="main2" lang="chi" page="2:26b" n="2">其所以眷愛我景廟與殿下者，發於深誠，</sent>
+<sent type="main2" lang="kor" page="2:26b" n="2">우리 경묘와 다못 뎐하 권ᄋᆡᄒᆞ오시미 심셩에 발ᄒᆞ오샤</sent>
+<sent type="main2" lang="chi" page="2:26b" n="3">盛美至善，眞可以比周 妊、姒。</sent>
+<sent type="main2" lang="kor" page="2:26b" n="3">셩미지션이 진짓 가히 쥿나라 임ᄉᆞ의 비ᄒᆞ올 거시오</sent>
+<sent type="main2" lang="chi" page="2:26b" n="4">惟我景廟，天性篤孝，粤自沖年，事我仁顯聖母，夙夜不離側。</sent>
+<sent type="main2" lang="kor" page="2:26b" n="4">우리 경묘겨오셔 텬셩이 독효ᄒᆞ오셔 튱년으로브터 우리 인현 셩모ᄅᆞᆯ 셤기오ᄃᆡ 슉야에 겻ᄐᆡ ᄯᅥ나디 아니ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:26b" n="5">聖母嘗深嘉愛而亟稱之。</sent>
+<sent type="main2" lang="kor" page="2:26b" n="5">셩뫼 샹ᄒᆡ 깁히 아ᄅᆞᆷ다이 너기오시고 ᄉᆞ랑ᄒᆞ오샤 ᄌᆞ조 일ᄏᆞᆺᄌᆞ오시고</sent>
+<sent type="main2" lang="chi" page="2:26b-27a" n="6">自壬午以後，則又以所事仁顯聖母者，事我慈聖，至誠承奉，</sent>
+<sent type="main2" lang="kor" page="2:26b-27a" n="6">임오 이후로브터 ᄯᅩ 인현 셩모 셤기오시던 바로ᄡᅥ 우리 ᄌᆞ셩을 셤기오샤 지셩으로 승봉ᄒᆞ오시매</sent>
+<!--기^오-->
+</pages>
+
+<pages n="2:27a">
+<img n="2:27a">https://kohico.kr/_media/image/bookname/2:27a.jpg</img>
+<sent type="main2" lang="chi" page="2:27a" n="1">愛敬兩盡，洞洞屬屬，晨夕不懈。</sent>
+<sent type="main2" lang="kor" page="2:27a" n="1">ᄋᆡ경이 다 극진ᄒᆞ오시고 동동쵹쵹ᄒᆞ오샤 신셕의 블ᄒᆡᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:27a" n="2">兩宮慈孝之盛德，宮中莫不感頌，</sent>
+<sent type="main2" lang="kor" page="2:27a" n="2">냥궁 ᄌᆞᄒᆞ오심과 효ᄒᆞ오신 셩덕을 궁듕이 뉘 아니 감숑ᄒᆞ리오</sent>
+<sent type="main2" lang="chi" page="2:27a" n="3">而惟彼梟獍之類，敢忍做作凶言，以售其逆謀。</sent>
+<sent type="main2" lang="kor" page="2:27a" n="3">오딕 뎌 효경의 ᄂᆔ 감히 ᄎᆞᆷ아 흉언을 지어내야 ᄡᅥ 그 역모을 발뵈니</sent>
+<sent type="main2" lang="chi" page="2:27a" n="4">蓋凶黨常以建儲代理之敎，皆出於我慈聖，</sent>
+<sent type="main2" lang="kor" page="2:27a" n="4">대개 흉당이 샹ᄒᆡ 건져 ᄃᆡ리 하ᄀᆈ 다 ᄌᆞ셩ᄭᅴ 나오시다 ᄒᆞ야</sent>
+<sent type="anno2" lang="chi" page="2:27a" n="5">代理之稟，有景廟下敎。</sent>
+<sent type="anno2" lang="kor" page="2:27a" n="5">ᄃᆡ리의 품ᄒᆞ올 제 경묘 하ᄀᆈ 겨오시다</sent>
+<sent type="main2" lang="chi" page="2:27a-27b" n="6">敢怨我慈聖，積懷凶逆不道之心，以至於此。</sent>
+<sent type="main2" lang="kor" page="2:27a-27b" n="6">감히 우리 ᄌᆞ셩을 원망ᄒᆞ여 흉역 부도ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 싸하 품어 ᄡᅥ 이에 니ᄅᆞ니</sent>
+<!--하 ^ 품-->
+</pages>
+
+<pages n="2:27b">
+<img n="2:27b">https://kohico.kr/_media/image/bookname/2:27b.jpg</img>
+<sent type="main2" lang="chi" page="2:27b" n="1">可勝痛哉！可勝痛哉！</sent>
+<sent type="main2" lang="kor" page="2:27b" n="1">가히 통분ᄒᆞ믈 이긔며 가히 통분ᄒᆞ믈 이긔랴</sent>
+<sent type="main2" lang="chi" page="2:27b" n="2">嗚呼！以我東朝至慈至愛之心，以我殿下至孝至悌之行，聞此凶言，</sent>
+<sent type="main2" lang="kor" page="2:27b" n="2">오회라 우리 동됴 지ᄌᆞ 지ᄋᆡᄒᆞ오신 ᄆᆞᄋᆞᆷ과 우리 뎐하 지효 지뎨ᄒᆞ오신 ᄒᆡᆼ으로ᄡᅥ 이 흉언을 듯ᄌᆞ오시매</sent>
+<sent type="main2" lang="chi" page="2:27b" n="3">其所以傷痛者，當復如何？</sent>
+<sent type="main2" lang="kor" page="2:27b" n="3">그 샹통ᄒᆞ오시ᄂᆞᆫ 배 맛당히 엇더ᄒᆞ오시리오</sent>
+<sent type="main2" lang="chi" page="2:27b" n="4">而我殿下以其語逼不敢言之地，故未忍形諸辭敎者久。</sent>
+<sent type="main2" lang="kor" page="2:27b" n="4">우리 뎐해 그 말이 블감언지디에 핍ᄒᆞ오므로ᄡᅥ ᄎᆞᆷ아 ᄉᆞ교의 형언티 못ᄒᆞ오시미 오래오시더니</sent>
+<sent type="main2" lang="chi" page="2:27b" n="5">自有致雲之後，聖意以爲必須明言事實，</sent>
+<sent type="main2" lang="kor" page="2:27b" n="5">티운이 이신 후로브터 셩의 ᄡᅥ ᄒᆞ오시되 반ᄃᆞ시 ᄇᆞᆯ키 ᄉᆞ실을 닐너 ᄡᅥ</sent>
+<sent type="main2" lang="chi" page="2:27b-28a" n="6">以破群凶做作之情狀，然後方可以盡於孝也，仍有下敎</sent>
+<sent type="main2" lang="kor" page="2:27b-28a" n="6">군흉의 주작ᄒᆞᆫ 졍상을 변파ᄒᆞᆫ 연후에야 바야흐로 효의 극진ᄒᆞ리라 ᄒᆞ오셔 인ᄒᆞ야 하ᄀᆈ 겨오시고</sent>
+<!--ᄒᆞᆫ ^ 졍-->
+</pages>
+
+<pages n="2:28a">
+<img n="2:28a">https://kohico.kr/_media/image/bookname/2:28a.jpg</img>
+<sent type="main2" lang="chi" page="2:28a" n="1">而嗚咽流涕，曰：“以予陞儲之故，而凶言逼於不敢言之地，此尤予之所傷痛也。”</sent>
+<sent type="main2" lang="kor" page="2:28a" n="1">오열 뉴톄ᄒᆞ오샤 ᄀᆞᆯᄋᆞ샤ᄃᆡ 내 져위예 오르므로ᄡᅥ 흉언이 블감언지디에 핍ᄒᆞ니 이 더옥 나의 샹통ᄒᆞᄂᆞᆫ 배라 ᄒᆞ오시니</sent>
+<sent type="main2" lang="chi" page="2:28a" n="2">諸臣莫不呑聲而抆淚矣。夫聞之至不忍</sent>
+<sent type="main2" lang="kor" page="2:28a" n="2">졔신이 ᄐᆞᆫ셩 문누티 아니리 업ᄉᆞ니 듯기ᄅᆞᆯ 지극히 ᄎᆞᆷ아 못ᄒᆞᆯ 거시로ᄃᆡ</sent>
+<sent type="main2" lang="chi" page="2:28a" n="3">而忍聞之，言之至不忍</sent>
+<sent type="main2" lang="kor" page="2:28a" n="3">ᄎᆞᆷ아 듯고 니ᄅᆞ기ᄅᆞᆯ 지극히 ᄎᆞᆷ아 못ᄒᆞᆯ 거시로되</sent>
+<sent type="main2" lang="chi" page="2:28a" n="4">而忍言之者，是乃痛迫不得已之情也。</sent>
+<sent type="main2" lang="kor" page="2:28a" n="4">ᄎᆞᆷ아 니ᄅᆞ믄 이ᄂᆞᆫ 통박ᄒᆞ야 시러곰 마디 못ᄒᆞᄂᆞᆫ ᄯᅳᆺ이니</sent>
+<sent type="main2" lang="chi" page="2:28a-28b" n="5">且彼賊黨則肆爲凶言，轉相譸張，</sent>
+<sent type="main2" lang="kor" page="2:28a-28b" n="5">ᄯᅩ 뎌 적당이 흉언을 방ᄉᆞ히 ᄒᆞ야 서로 구을너 주댱ᄒᆞ되</sent>
+<!--ᄉᆞ^히-->
+</pages>
+
+<pages n="2:28b">
+<img n="2:28b">https://kohico.kr/_media/image/bookname/2:28b.jpg</img>
+<sent type="main2" lang="chi" page="2:28b" n="1">而在廷之臣則以其不忍提起，而不復詳言劈破，</sent>
+<sent type="main2" lang="kor" page="2:28b" n="1">됴뎡의 잇ᄂᆞᆫ 신하ᄂᆞᆫ 그 ᄎᆞᆷ아 뎨긔티 못ᄒᆞ므로ᄡᅥ 다시 ᄌᆞ셔히 닐너 벽파티 못ᄒᆞ고</sent>
+<sent type="main2" lang="chi" page="2:28b" n="2">但曰“凶言”，則其於誅賊討罪之道，終有所不備。</sent>
+<sent type="main2" lang="kor" page="2:28b" n="2">다만 ᄀᆞᆯ오되 흉언이라 ᄒᆞ면 역적 베히고 죄악 딩토ᄒᆞᄂᆞᆫ 도리에 ᄆᆞᄎᆞᆷ내 ᄀᆞᆺ디 못ᄒᆞᆫ 배 잇ᄂᆞᆫ 고로</sent>
+<sent type="main2" lang="chi" page="2:28b" n="3">故今承聖敎而詳言痛辨之如此云。</sent>
+<sent type="main2" lang="kor" page="2:28b" n="3">이제 셩교ᄅᆞᆯ 밧ᄌᆞ와 ᄌᆞ셔히 닐러 통연히 변파ᄒᆞ기ᄅᆞᆯ 이ᄀᆞ티 ᄒᆞ노라</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:28b" n="4">諫院啓：“尹就商賦性陰慝，處事凶譎，貪淫驕縱，特其餘事。</sent>
+<sent type="main" lang="kor" page="2:28b" n="4">간원이 계ᄉᆞᄒᆞ되 윤ᄎᆔ샹이 부셩이 음특ᄒᆞ고 쳐ᄉᆡ 흉휼ᄒᆞ야 탐음ᄒᆞ고 교죵ᄒᆞ믄 특별이 그 여ᄉᆡ라</sent>
+<sent type="main" lang="chi" page="2:28b-29a" n="5">素與逆鏡結爲腹心，禍國</sent>
+<sent type="main" lang="kor" page="2:28b-29a" n="5">본ᄃᆡ 역경으로 더브러 ᄆᆡ자 복심이 되야 나라ᄒᆡ 홰 되고</sent>
+<!--자 ^ 복-->
+</pages>
+
+<pages n="2:29a">
+<img n="2:29a">https://kohico.kr/_media/image/bookname/2:29a.jpg</img>
+<sent type="main" lang="chi" page="2:29a" n="1">戕人之謀，無不陰助，實爲千人之所指。</sent>
+<sent type="main" lang="kor" page="2:29a" n="1">사ᄅᆞᆷ을 해ᄒᆞᄂᆞᆫ ᄭᅬᄅᆞᆯ ᄀᆞ마니 돕디 아니미 업서 실로 쳔 사ᄅᆞᆷ의 ᄀᆞᄅᆞ틴 배 된디라</sent>
+<sent type="main" lang="chi" page="2:29a" n="2">頃年名出白望之緊招，而綢繆情節，一未覈出，</sent>
+<sent type="main" lang="kor" page="2:29a" n="2">경년의 일홈이 ᄇᆡᆨ망의 긴ᄒᆞᆫ 툐ᄉᆞ의 나되 듀규ᄒᆞᆫ 졍졀을 ᄒᆞ나토 사ᄒᆡᆨᄒᆞ야 내디 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:29a" n="3">國人之憤痛，爲如何哉？</sent>
+<sent type="main" lang="kor" page="2:29a" n="3">국인의 분통ᄒᆞ미 엇더ᄒᆞ리잇고</sent>
+<sent type="main" lang="chi" page="2:29a" n="4">只以一事言之，當其被拿於鞫獄也。</sent>
+<sent type="main" lang="kor" page="2:29a" n="4">다만 ᄒᆞᆫ 일노ᄡᅥ 닐너도 그 국옥의 잡히일 ᄯᅢᄅᆞᆯ 당ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:29a" n="5">恚憤於捕校之依例催督，肆發憤罵之言，顯有拒逆之狀。</sent>
+<sent type="main" lang="kor" page="2:29a" n="5">포텽 장ᄀᆈ 의례ᄒᆞ야 ᄌᆡ촉ᄒᆞ믈 에분ᄒᆞ야 방ᄉᆞ히 분ᄒᆞ야 ᄭᅮ짓ᄂᆞᆫ 말을 발ᄒᆞ야 현연히 거역ᄒᆞᄂᆞᆫ 형상이 잇고</sent>
+<sent type="main" lang="chi" page="2:29a-29b" n="6">及其被釋之後，潛囑該廳之將，捕校兩人，一時汰去。</sent>
+<sent type="main" lang="kor" page="2:29a-29b" n="6">밋 그 노힌 후에 ᄀᆞ마니 ᄒᆡ텽 대쟝을 부쵹ᄒᆞ야 포교 냥인을 일시의 태거ᄒᆞ니</sent>
+<!--야 ^ 포-->
+</pages>
+
+<pages n="2:29b">
+<img n="2:29b">https://kohico.kr/_media/image/bookname/2:29b.jpg</img>
+<sent type="main" lang="chi" page="2:29b" n="1">渠雖凶頑，苟有一分臣節，安敢乃爾？</sent>
+<sent type="main" lang="kor" page="2:29b" n="1">제 비록 흉완ᄒᆞ나 진실로 일분 신졀이 이시면 엇디 감히 그러ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:29b" n="2">在渠罪犯，此猶細故，而亦可見縱恣無嚴之狀。</sent>
+<sent type="main" lang="kor" page="2:29b" n="2">제 죄범의 이셔ᄂᆞᆫ 이ᄂᆞᆫ 오히려 져근 연괴오되 ᄯᅩᄒᆞᆫ 가히 죵ᄌᆞ 무엄ᄒᆞᆫ 형상을 볼디라</sent>
+<sent type="main" lang="chi" page="2:29b" n="3">如此陰凶樂禍之人，不可置諸輦轂之下。</sent>
+<sent type="main" lang="kor" page="2:29b" n="3">이 ᄀᆞ튼 음흉ᄒᆞ고 낙화ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ을 가히 년곡 아ᄅᆡ 두디 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="2:29b" n="4">請行司直尹就商，極邊遠竄。”</sent>
+<sent type="main" lang="kor" page="2:29b" n="4">쳥컨대 ᄒᆡᆼᄉᆞ딕 윤ᄎᆔ샹을 극변원찬ᄒᆞ여디이다</sent>
+<sent type="main" lang="chi" page="2:29b" n="5">上允之。</sent>
+<sent type="main" lang="kor" page="2:29b" n="5">샹이 윤죵ᄒᆞ시다</sent>
+<sent type="main" lang="chi" page="2:29b" n="6">就商與鏡、儉內外締結，同一凶逆，</sent>
+<sent type="main" lang="kor" page="2:29b" n="6">ᄎᆔ샹이 경검으로 더브러 ᄂᆡ외 톄결ᄒᆞ야 ᄒᆞᆫ가디 흉역이어ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:29b" n="7">而只請遠配，可謂失刑。</sent>
+<sent type="main" lang="kor" page="2:29b" n="7">다만 원찬 청호미 가히 형벌을 일헛다 니ᄅᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:29b-30a" n="8">伊後被鞫，獰頑徑斃，逆種未芟，致有志、光哲之凶變。噫嘻痛矣！</sent>
+<sent type="main" lang="kor" page="2:29b-30a" n="8">그 후 국문ᄒᆞ매 녕완ᄒᆞ야 즈레 죽어 역적의 씨ᄅᆞᆯ 업시티 못ᄒᆞ야 지와 광텰의 흉변이 잇기ᄅᆞᆯ 니뢰니 희희통의로다</sent>
+<!--그 ^ 후-->
+</pages>
+
+<pages n="2:30a">
+<img n="2:30a">https://kohico.kr/_media/image/bookname/2:30a.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:30a" n="1">二月，諫院啓：“逆鏡辛丑之疏，實是爲人臣子之所不忍聞、所不忍言者，</sent>
+<sent type="main" lang="kor" page="2:30a" n="1">이월의 간원이 계ᄉᆞᄒᆞ되 역경의 신튝 샹쇠 진실노 신ᄌᆞ의 ᄎᆞᆷ아 듯디 못ᄒᆞ고 ᄎᆞᆷ아 니ᄅᆞ디 못ᄒᆞᆯ 배라</sent>
+<sent type="main" lang="chi" page="2:30a" n="2">而窮兇情節，未及究得，徑先置法，</sent>
+<sent type="main" lang="kor" page="2:30a" n="2">궁흉ᄒᆞᆫ 졍졀을 미처 구ᄒᆡᆨᄒᆞ야 엇디 못ᄒᆞ야 경션이 법의 두니</sent>
+<sent type="main" lang="chi" page="2:30a" n="3">神人之憤鬱，已不可言。</sent>
+<sent type="main" lang="kor" page="2:30a" n="3">신인의 분울ᄒᆞ미 이믜 가히 니ᄅᆞ디 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:30a" n="4">而至於疏下六人，旣與鏡賊同聲合辭，濟其凶逆，</sent>
+<sent type="main" lang="kor" page="2:30a" n="4">소하 뉵인의 니ᄅᆞ러ᄂᆞᆫ 이믜 경적으로 더브러 소ᄅᆡᄅᆞᆯ ᄀᆞ티ᄒᆞ고 말을 합ᄒᆞ야 그 흉역을 일워신즉</sent>
+<sent type="main" lang="chi" page="2:30a-30b" n="5">則初無首從之可分，</sent>
+<sent type="main" lang="kor" page="2:30a-30b" n="5">처음의 슈악과 헙죵을 가히 ᄂᆞᆫ홀 거시 업ᄉᆞ되</sent>
+<!--악^과-->
+</pages>
+
+<pages n="2:30b">
+<img n="2:30b">https://kohico.kr/_media/image/bookname/2:30b.jpg</img>
+<sent type="main" lang="chi" page="2:30b" n="1">而特以官秩之高下，名次有先後而已，</sent>
+<sent type="main" lang="kor" page="2:30b" n="1">특별이 관질의 놉고 ᄂᆞ즈므로ᄡᅥ 일홈 ᄎᆞ례 션휘 이시나</sent>
+<sent type="main" lang="chi" page="2:30b" n="2">究其心腸，則一而二，二而一者也。</sent>
+<sent type="main" lang="kor" page="2:30b" n="2">그 심댱을 궁구ᄒᆞ면 ᄒᆞ나히 둘히오 둘히 ᄒᆞ나히니</sent>
+<sent type="main" lang="chi" page="2:30b" n="3">鏡賊之勘以次律，已是失刑之大者，</sent>
+<!--한국고전종합DB에는 '鏡賊之窮兇情節以次律'로 되어 있으나 원문에 따라 '鏡賊之勘以次律'로 입력함-->
+<sent type="main" lang="kor" page="2:30b" n="3">경적을 ᄎᆞ뉼로ᄡᅥ 감단ᄒᆞ미 이믜 실형을 크게 ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="main" lang="chi" page="2:30b" n="4">況使六賊終逭天討，罰止竄配，</sent>
+<sent type="main" lang="kor" page="2:30b" n="4">ᄒᆞ믈며 여ᄉᆞᆺ 역적으로 ᄒᆞ여곰 ᄆᆞᄎᆞᆷ내 텬토ᄅᆞᆯ 도망ᄒᆞ여 벌이 찬ᄇᆡ의 긋티면</sent>
+<sent type="main" lang="chi" page="2:30b" n="5">則王綱何所扶植，凶徒何所懲畏乎？</sent>
+<sent type="main" lang="kor" page="2:30b" n="5">왕강을 엇디 부식ᄒᆞ며 흉되 엇디 딩외ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:30b" n="6">大論徑停，輿情益激。</sent>
+<sent type="main" lang="kor" page="2:30b" n="6">대론이 즈레 긋티매 예졍이 더옥 격ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:30b-31a" n="7">請逆鏡疏下六賊，亟命拿鞫嚴問，夬正王法。”</sent>
+<sent type="main" lang="kor" page="2:30b-31a" n="7">쳥컨대 역경의 소하 뉵적을 밧비 명ᄒᆞ오셔 나국 엄문ᄒᆞ야 쾌졍왕법ᄒᆞ여디이다</sent>
+<!--졍^왕-->
+</pages>
+
+<pages n="2:31a">
+<img n="2:31a">https://kohico.kr/_media/image/bookname/2:31a.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:31a" n="1">憲府啓：“向來鋒刃之慘毒，尙忍言哉？</sent>
+<sent type="main" lang="kor" page="2:31a" n="1">헌뷔 계ᄉᆞᄒᆞ되 향ᄂᆡ 봉인의 참독ᄒᆞ믈 오히려 ᄎᆞᆷ아 니ᄅᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:31a" n="2">權益寬以逆鏡之從弟，賦性狠毒，處心回邪，戕人</sent>
+<sent type="main" lang="kor" page="2:31a" n="2">권익관이 역경의 죵뎨로ᄡᅥ 부셩이 ᄒᆞᆫ독ᄒᆞ고 쳐심이 회샤ᄒᆞ야 사ᄅᆞᆷ을 장해ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:31a" n="3">禍國之事，無不密贊陰助，前後疏啓指意凶慘。</sent>
+<sent type="main" lang="kor" page="2:31a" n="3">나라ᄒᆡ 화 되게 ᄒᆞᄂᆞᆫ 일을 ᄀᆞ마니 돕디 아니미 업서 젼후 샹소와 계ᄉᆡ 지의흉참ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:31a" n="4">其所謂‘無俾易種’之說，必欲芟夷善類，無遺噍類而後已，</sent>
+<sent type="main" lang="kor" page="2:31a" n="4">그 니론바 무비역죵이란 말이 반ᄃᆞ시 션뉴ᄅᆞᆯ 업시 ᄒᆞ야 초뉴ᄅᆞᆯ 기티미 업게 ᄒᆞᆫ 후 말려 ᄒᆞ미니</sent>
+<sent type="main" lang="chi" page="2:31a" n="5">噫嘻慘矣！至若昨冬一疏，追提己巳之事，已極絶痛，</sent>
+<sent type="main" lang="kor" page="2:31a" n="5">희희라 참독ᄒᆞ도다 작동ᄒᆞᆫ 샹소의 니ᄅᆞ러ᄂᆞᆫ 긔ᄉᆞ 일을 조초 뎨긔ᄒᆞ미 이믜 극히 졀통ᄒᆞ야</sent>
+</pages>
+
+<pages n="2:31b">
+<img n="2:31b">https://kohico.kr/_media/image/bookname/2:31b.jpg</img>
+<sent type="main" lang="chi" page="2:31b" n="1">而遣辭措意，與‘門生’、‘國老’、‘擁立’、‘援立’等說，一串貫來。</sent>
+<sent type="main" lang="kor" page="2:31b" n="1">말ᄉᆞᆷ과 ᄯᅳᆺ이 문ᄉᆡᆼ 국노 옹닙 원닙 등 말로 더브러 일환관ᄅᆡᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:31b" n="2">其脅持聖躬、陰護逆鏡之狀，愈益彰露，</sent>
+<sent type="main" lang="kor" page="2:31b" n="2">그 셩궁을 헙디ᄒᆞ고 역경을 ᄀᆞ마니 영호ᄒᆞᆫ 형상이 더옥 챵노ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:31b" n="3">輿情憤惋，久而愈激。</sent>
+<sent type="main" lang="kor" page="2:31b" n="3">예졍이 분완ᄒᆞ야 오라매 더옥 격ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:31b" n="4">如此凶狠之人，不可置之輦轂之下，以貽國家之害。</sent>
+<sent type="main" lang="kor" page="2:31b" n="4">이 ᄀᆞ튼 흉ᄒᆞᆫ ᄒᆞᆫ 사ᄅᆞᆷ을 가히 년곡 하의 두어 ᄡᅥ 국가의 해ᄅᆞᆯ 기티디 못ᄒᆞ올 거시니</sent>
+<sent type="main" lang="chi" page="2:31b" n="5">請前大司諫權益寬，極邊遠竄。”</sent>
+<sent type="main" lang="kor" page="2:31b" n="5">쳥컨대 젼 대ᄉᆞ간 권익관이ᄅᆞᆯ 극변원찬ᄒᆞ여디이다</sent>
+<sent type="main" lang="chi" page="2:31b" n="6">上允之。</sent>
+<sent type="main" lang="kor" page="2:31b" n="6">샹이 윤죵ᄒᆞ시다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:31b" n="7">憲府啓：“訓鍊都正南泰徵陰鷙賊猾，</sent>
+<sent type="main" lang="kor" page="2:31b" n="7">헌뷔 계ᄉᆞᄒᆞ되 훈련 도졍 남태딩이 음지ᄒᆞ고 적활ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:31b-32a" n="8">衆惡俱備，締結逆宦，主張陰謀。久爲賊鏡之腹心，</sent>
+<sent type="main" lang="kor" page="2:31b-32a" n="8">모든 죄악이 다 ᄀᆞᆺ고 역환을 톄결ᄒᆞ야 ᄀᆞ만ᄒᆞᆫ ᄭᅬᄅᆞᆯ 쥬댱ᄒᆞ야 오래 적경의 복심이 되고</sent>
+<!--댱^ᄒᆞ-->
+</pages>
+
+<pages n="2:32a">
+<img n="2:32a">https://kohico.kr/_media/image/bookname/2:32a.jpg</img>
+<sent type="main" lang="chi" page="2:32a" n="1">首被凶黨之奬用，曾不踰年，自營將超至統帥，</sent>
+<sent type="main" lang="kor" page="2:32a" n="1">읏듬으로 흉댱의 쟝용ᄒᆞ믈 닙어 일즉 ᄒᆡ 넘디 못ᄒᆞ야 영쟝으로브터 ᄯᅱ오텨 통졔ᄉᆞ의 니ᄅᆞ고</sent>
+<sent type="main" lang="chi" page="2:32a" n="2">不久而入爲勳府有司堂上。</sent>
+<sent type="main" lang="kor" page="2:32a" n="2">오라디 아녀 드러와 통훈부 유ᄉᆞ 당샹을 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:32a" n="3">其暗中立功，與虎賊相爲表裏之狀，有不可掩。</sent>
+<sent type="main" lang="kor" page="2:32a" n="3">그 ᄀᆞ만ᄒᆞᆫ 가온ᄃᆡ 공을 셰워 호적으로 더브러 서로 표리된 형상이 가히 덥디 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:32a" n="4">前兵使朴纘新以賊鏡之爪牙，方在喪中，而換着軍服，</sent>
+<sent type="main" lang="kor" page="2:32a" n="4">젼 병ᄉᆞ 박찬신은 적경의 조아로ᄡᅥ ᄇᆞ야흐로 상듕의 이셔 군복을 밧고와 닙고</sent>
+<sent type="main" lang="chi" page="2:32a" n="5">暮夜往來，閃鑠倏忽，神鬼莫測。</sent>
+<sent type="main" lang="kor" page="2:32a" n="5">져문 밤의 왕ᄂᆡᄒᆞ야 셤샥훌홀호미 귀신이 측냥티 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:32a-32b" n="6">其陰凶情跡，路人皆疑與鏡、虎兩賊本是同惡，</sent>
+<sent type="main" lang="kor" page="2:32a-32b" n="6">그 음흉ᄒᆞᆫ 졍젹을 길 사ᄅᆞᆷ이 다 의심ᄒᆞ야 경호 냥 적으로 더브러 본ᄃᆡ 죄악이 ᄀᆞᆺ더니</sent>
+<!--심^ᄒᆞ-->
+</pages>
+
+<pages n="2:32b">
+<img n="2:32b">https://kohico.kr/_media/image/bookname/2:32b.jpg</img>
+<sent type="main" lang="chi" page="2:32b" n="1">而及夫兩賊伏法之後，益懷疑懼，聚首謀議，無所不爲。</sent>
+<sent type="main" lang="kor" page="2:32b" n="1">밋 냥 적이 복법ᄒᆞᆫ 후의 더옥 의심ᄒᆞ고 두리믈 품어 머리ᄅᆞᆯ 모화 모의ᄒᆞ야 아닛ᄂᆞᆫ 배 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="2:32b" n="2">決不可置之輦轂之下，以貽國家之憂。</sent>
+<sent type="main" lang="kor" page="2:32b" n="2">결단ᄒᆞ야 가히 년곡 아ᄅᆡ 두어 ᄡᅥ 국가의 근심을 기티디 못ᄒᆞ올 거시니</sent>
+<sent type="main" lang="chi" page="2:32b" n="3">請訓鍊都正南泰徵、前兵使朴纘新竝命極邊遠竄。”</sent>
+<sent type="main" lang="kor" page="2:32b" n="3">쳥컨대 훈련 도졍 남태딩과 젼 병ᄉᆞ 박찬신을 다 명ᄒᆞ오샤 극변원찬ᄒᆞ야디이다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:32b" n="4">憲府啓：“義禁府都事朴弼顯卽泰春之子也。</sent>
+<sent type="main" lang="kor" page="2:32b" n="4">헌뷔 계ᄉᆞᄒᆞ되 의금부 도ᄉᆞ 박필현은 곳 태츈의 아ᄃᆞᆯ이라</sent>
+<sent type="main" lang="chi" page="2:32b" n="5">泰春以凶溥之窩主，至被鞫廳之刑訊，</sent>
+<sent type="main" lang="kor" page="2:32b" n="5">태츈이 흉보의 와쥬로ᄡᅥ 국텽의 형신호믈 니버</sent>
+<sent type="main" lang="chi" page="2:32b-33a" n="6">倖逭王章，不齒人類。</sent>
+<sent type="main" lang="kor" page="2:32b-33a" n="6">요ᄒᆡᆼ이 왕댱의 도망ᄒᆞ야 사ᄅᆞᆷ뉴의 혜디 아니ᄒᆞ더니</sent>
+<!--사^ᄅᆞᆷ-->
+</pages>
+
+<pages n="2:33a">
+<img n="2:33a">https://kohico.kr/_media/image/bookname/2:33a.jpg</img>
+<sent type="main" lang="chi" page="2:33a" n="1">弼顯附麗凶黨，濫通仕籍，</sent>
+<sent type="main" lang="kor" page="2:33a" n="1">필현이 흉당의 븟조차 외람히 ᄉᆞ젹을 통ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:33a" n="2">逮叨本職，同僚羞與爲伍。</sent>
+<sent type="main" lang="kor" page="2:33a" n="2">밋 이 벼ᄉᆞᆯ을 ᄒᆞ매 동ᄂᆈ 더브러 ᄶᅡᆨᄒᆞ기ᄅᆞᆯ 븟그려 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:33a" n="3">且於昨冬賊鏡之拿來也，不有嚴命，</sent>
+<sent type="main" lang="kor" page="2:33a" n="3">ᄯᅩ 작동 적경을 나ᄅᆡᄒᆞᆯ 제 엄명을 혜디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:33a" n="4">一任稽滯，及至近畿，</sent>
+<sent type="main" lang="kor" page="2:33a" n="4">임의로 ᄒᆡ톄ᄒᆞ야 밋 근긔예 니르매</sent>
+<sent type="main" lang="chi" page="2:33a" n="5">賊鏡私黨之來見者，一不禁斷，顯有綢繆和應之跡。</sent>
+<sent type="main" lang="kor" page="2:33a" n="5">적경의 ᄉᆞᄉᆞ 당ᄂᆔ와 보ᄂᆞᆫ 쟈ᄅᆞᆯ ᄒᆞ나토 금단티 아니ᄒᆞ야 현연히 듀규ᄒᆞ고 화응ᄒᆞᆫ 자최 이시매</sent>
+<sent type="main" lang="chi" page="2:33a" n="6">物情駭憤，久而未已。</sent>
+<sent type="main" lang="kor" page="2:33a" n="6">믈졍이 ᄒᆡ분ᄒᆞ야 오라되 마디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:33a" n="7">如此之人，不可置之衣冠之列。</sent>
+<sent type="main" lang="kor" page="2:33a" n="7">이 ᄀᆞ튼 사ᄅᆞᆷ을 가히 의관지녈의 두디 못ᄒᆞ올 거시니</sent>
+<sent type="main" lang="chi" page="2:33a-33b" n="8">請義禁府都事朴弼顯削去仕版。”</sent>
+<sent type="main" lang="kor" page="2:33a-33b" n="8">쳥컨대 금부 도ᄉᆞ 박필현을 샥거 ᄉᆞ판ᄒᆞ여디이다</sent>
+<!--거 ^ ᄉᆞ-->
+</pages>
+
+<pages n="2:33b">
+<img n="2:33b">https://kohico.kr/_media/image/bookname/2:33b.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:33b" n="1">上引見判義禁閔鎭遠等。上曰：“何待昨日入覽推案招辭，然後知之也？</sent>
+<sent type="main" lang="kor" page="2:33b" n="1">샹이 판의금 민딘원 등을 인견ᄒᆞ오실ᄉᆡ 샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 엇디 어제 날 튜안 툐ᄉᆞᄅᆞᆯ 드려 보기ᄅᆞᆯ 기ᄃᆞ린 후 알리오</sent>
+<sent type="main" lang="chi" page="2:33b" n="2">一鏡之疏卽虎龍之變書也。</sent>
+<sent type="main" lang="kor" page="2:33b" n="2">일경의 샹소ᄂᆞᆫ 곳 호룡의 변셰라</sent>
+<sent type="main" lang="chi" page="2:33b" n="3">其陰凶指意，表裏相應，一串貫來，一鏡卽虎龍也，虎龍卽一鏡也。</sent>
+<sent type="main" lang="kor" page="2:33b" n="3">그 음흉ᄒᆞᆫ 지의 표리샹응ᄒᆞ고 일환관ᄅᆡᄒᆞ니 일경은 곳 호룡이오 호룡은 곳 일경이라</sent>
+<sent type="main" lang="chi" page="2:33b" n="4">昨日臺批中‘一而二，二而一’者，政謂此也。</sent>
+<sent type="main" lang="kor" page="2:33b" n="4">어제 날 ᄃᆡ간 비답 가온ᄃᆡ ᄒᆞ나히 둘히오 둘히 ᄒᆞ나히라 호미 졍히 이ᄅᆞᆯ 니ᄅᆞ미라</sent>
+<sent type="main" lang="chi" page="2:33b" n="5">向者親鞫時，竝鞫虎龍者亦以此也。</sent>
+<sent type="main" lang="kor" page="2:33b" n="5">뎌 적 친국ᄒᆞᆯ ᄯᅢ 호룡을 ᄒᆞᆫ가디로 국문ᄒᆞ미 ᄯᅩᄒᆞᆫ 일로ᄡᅥ ᄒᆞ미라</sent>
+<!--'친국ᄒᆞᆯ'에서 'ᄒᆞᆯ'의 'ᅟᆞ'가 탈획됨-->
+<sent type="main" lang="chi" page="2:33b-34a" n="6">以此觀之，豈無脈絡之相通乎？</sent>
+<sent type="main" lang="kor" page="2:33b-34a" n="6">일로ᄡᅥ 보면 엇디 ᄆᆡᆨ낙의 서로 통ᄒᆞ미 업ᄉᆞ리오</sent>
+<!--로 ^ 통-->
+</pages>
+
+<pages n="2:34a">
+<img n="2:34a">https://kohico.kr/_media/image/bookname/2:34a.jpg</img>
+<sent type="main" lang="chi" page="2:34a" n="1">向時事，外間亦必知之矣。</sent>
+<sent type="main" lang="kor" page="2:34a" n="1">뎌 ᄯᅢ 일은 외간도 ᄯᅩᄒᆞᆫ 반ᄃᆞ시 알디라</sent>
+<sent type="main" lang="chi" page="2:34a" n="2">當初虎龍之招出也，其爲驚心痛骨，尙忍言哉？</sent>
+<sent type="main" lang="kor" page="2:34a" n="2">당초 호룡의 툐ᄉᆡ 나매 그 경심 통골ᄒᆞ믈 오히려 ᄎᆞᆷ아 니ᄅᆞ랴</sent>
+<sent type="main" lang="chi" page="2:34a" n="3">以此初有引接宮僚之擧矣。渠之所言旣犯惡逆，</sent>
+<sent type="main" lang="kor" page="2:34a" n="3">일로ᄡᅥ 처음의 궁뇨ᄅᆞᆯ 인졉ᄒᆞᄂᆞᆫ 거죄 이시니 제 니론 배 이믜 악역을 범ᄒᆞ야시니</sent>
+<sent type="main" lang="chi" page="2:34a" n="4">則其在奉承大行朝德意之道，爲臣子者，豈可無痛懲之意乎？</sent>
+<sent type="main" lang="kor" page="2:34a" n="4">그 대ᄒᆡᆼ됴 덕의ᄅᆞᆯ 봉승ᄒᆞᄂᆞᆫ 도리의 신ᄌᆞ 된 쟤 엇디 가히 통딩ᄒᆞᆯ ᄯᅳᆺ이 업ᄉᆞ리오</sent>
+<sent type="main" lang="chi" page="2:34a" n="5">且生置虎龍，然後可尋其端緖，</sent>
+<sent type="main" lang="kor" page="2:34a" n="5">ᄯᅩ 호룡을 살나 둔 후의 가히 그 단셔ᄅᆞᆯ ᄎᆞ즐 거시로ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:34a" n="6">而頃者設鞫正刑，實出於迫不得已也。</sent>
+<sent type="main" lang="kor" page="2:34a" n="6">져 적 셜국 졍형ᄒᆞ미 실로 박부득이ᄒᆞᆫ ᄃᆡ 나미라</sent>
+<sent type="main" lang="chi" page="2:34a" n="7">以鞫案觀之，當初置而不書者，</sent>
+<sent type="main" lang="kor" page="2:34a" n="7">국안으로ᄡᅥ 보면 당초의 두고 ᄡᅳ디 아니ᄒᆞ믄</sent>
+<sent type="main" lang="chi" page="2:34a-34b" n="8">其時委官雖或意有所在，</sent>
+<sent type="main" lang="kor" page="2:34a-34b" n="8">그ᄯᅢ 위관이 비록 혹 ᄯᅳᆺ이 잇ᄂᆞᆫ 배 이시나</sent>
+<!--ᄯᅢ ^ 위-->
+</pages>
+
+<pages n="2:34b">
+<img n="2:34b">https://kohico.kr/_media/image/bookname/2:34b.jpg</img>
+<sent type="main" lang="chi" page="2:34b" n="1">而鞫獄事體至重，豈可以亂招而不書乎？</sent>
+<sent type="main" lang="kor" page="2:34b" n="1">국옥 ᄉᆞ톄 지듕ᄒᆞ니 엇디 가히 난ᄐᆈ라 ᄒᆞ야 ᄡᅥ ᄡᅳ디 아니ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2:34b" n="2">其招亦豈可謂亂招乎？</sent>
+<sent type="main" lang="kor" page="2:34b" n="2">그 툐ᄉᆞᄅᆞᆯ ᄯᅩ 엇디 가히 난ᄐᆈ라 니ᄅᆞ리오</sent>
+<sent type="main" lang="chi" page="2:34b" n="3">一鏡則暫時胥命，旋卽按獄，終至快於其心而後已。</sent>
+<sent type="main" lang="kor" page="2:34b" n="3">일경은 잠간 ᄃᆡ명ᄒᆞ고 즉시 도로 안옥ᄒᆞ야 ᄆᆞᄎᆞᆷ내 그 ᄆᆞᄋᆞᆷ이 쾌ᄒᆞᆫ 후 말기에 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="2:34b" n="4">若求其元惡，則豈有加於逆鏡、賊虎者耶？</sent>
+<sent type="main" lang="kor" page="2:34b" n="4">만일 그 원악을 구ᄒᆞ면 엇디 역경과 적호의 더ᄒᆞ니 이시리오</sent>
+<sent type="main" lang="chi" page="2:34b" n="5">向來人之所爲，只緣世道陷溺而至此也。</sent>
+<sent type="main" lang="kor" page="2:34b" n="5">향ᄂᆡ인의 소위 다만 셰되 함닉ᄒᆞ믈 인ᄒᆞ야 이에 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="2:34b" n="6">自古安有三年鞫獄乎？</sent>
+<sent type="main" lang="kor" page="2:34b" n="6">녜로븟터 엇디 삼 년 국옥이 이시리오</sent>
+<sent type="main" lang="chi" page="2:34b" n="7">蓋其意必欲盡殺一邊人而後已。</sent>
+<sent type="main" lang="kor" page="2:34b" n="7">대개 그 ᄯᅳᆺ이 반ᄃᆞ시 일변인을 다 죽인 후 말고뎌 ᄒᆞ미니</sent>
+</pages>
+
+<pages n="2:35a">
+<img n="2:35a">https://kohico.kr/_media/image/bookname/2:35a.jpg</img>
+<sent type="main" lang="chi" page="2:35a" n="1">向非大行朝至仁厚德，</sent>
+<sent type="main" lang="kor" page="2:35a" n="1">뎌 ᄯᅢ 대ᄒᆡᆼ됴 지인 후덕이 아니오시면</sent>
+<sent type="main" lang="chi" page="2:35a" n="2">則在庭之臣，其餘存者幾何？</sent>
+<sent type="main" lang="kor" page="2:35a" n="2">됴뎡의 잇ᄂᆞᆫ 신해 그나마 이시리언ᄆᆞ리오</sent>
+<sent type="main" lang="chi" page="2:35a" n="3">今若更設鞫獄，則實未知至於何境，將何以收殺乎？</sent>
+<sent type="main" lang="kor" page="2:35a" n="3">이제 만일 다시 국옥을 베플면 실노 어ᄂᆡ 디경의 니ᄅᆞᆯ 줄을 아디 못ᄒᆞ니 쟝ᄎᆞᆺ 엇디 ᄡᅥ 슈쇄ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:35a" n="4">初不設鞫則已，旣已設鞫，則事體重大，豈可中止乎？</sent>
+<sent type="main" lang="kor" page="2:35a" n="4">처음의 셜국을 아니면 말녀니와 이믜 셜국ᄒᆞ면 ᄉᆞ톄 듕대하니 엇디 가히 듕지ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:35a" n="5">以向來胥命之人觀之，其曰‘緩流’云者，此所謂彼善於此者也。</sent>
+<sent type="main" lang="kor" page="2:35a" n="5">향ᄂᆡ ᄃᆡ명ᄒᆞᆫ 사ᄅᆞᆷ으로ᄡᅥ 보와도 그 완ᄒᆞᆫ ᄂᆔ라 니ᄅᆞᄂᆞᆫ 쟤 이 니론바 뎨 이에셔 나으미라</sent>
+<sent type="main" lang="chi" page="2:35a" n="6">然則其時胥命，殊未可曉也。”</sent>
+<sent type="main" lang="kor" page="2:35a" n="6">그런즉 그ᄯᅢ ᄃᆡ명을 ᄌᆞ못 가히 아디 못ᄒᆞ리로다</sent>
+<sent type="main" lang="chi" page="2:35a-35b" n="7">鎭遠曰：“聖敎誠然矣。”</sent>
+<sent type="main" lang="kor" page="2:35a-35b" n="7">딘원이 ᄀᆞᆯ오ᄃᆡ 셩ᄀᆈ 진실로 그러ᄒᆞ이다</sent>
+<!--로 ^ 그-->
+</pages>
+
+<pages n="2:35b">
+<img n="2:35b">https://kohico.kr/_media/image/bookname/2:35b.jpg</img>
+<sent type="main" lang="chi" page="2:35b" n="1">上曰：“其中鄭宇寬、金昌道之招，豈有若此之招辭乎？</sent>
+<sent type="main" lang="kor" page="2:35b" n="1">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 그 가온ᄃᆡ 뎡우관 김챵도의 툐ᄉᆡ 엇디 이런 툐ᄉᆡ 이시리오</sent>
+<sent type="main" lang="chi" page="2:35b" n="2">雖出於朝紙者，初不掛眼矣。</sent>
+<sent type="main" lang="kor" page="2:35b" n="2">비록 됴지의 난 것도 처음의 눈의 거디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:35b" n="3">此蓋世道陷溺，人心晦塞，而乃至於此極也。</sent>
+<sent type="main" lang="kor" page="2:35b" n="3">이 대개 셰되 함닉ᄒᆞ고 인심이 회ᄉᆡᆨᄒᆞ야 이러ᄐᆞ시 극ᄒᆞ기에 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="2:35b" n="4">到今更起獄事，豈非重難乎？”</sent>
+<sent type="main" lang="kor" page="2:35b" n="4">이제 니ᄅᆞ러 다시 옥ᄉᆞᄅᆞᆯ 니ᄅᆞ혀미 엇디 듕난티 아니ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:35b" n="5">鎭遠曰：“聖敎恐有不然者矣。</sent>
+<sent type="main" lang="kor" page="2:35b" n="5">딘원이 ᄀᆞᆯ오ᄃᆡ 셩ᄀᆈ 저컨대 그러티 아니미 이실가 ᄒᆞᄋᆞᆸᄂᆞ니</sent>
+<sent type="main" lang="chi" page="2:35b" n="6">書曰‘天討有罪’。</sent>
+<sent type="main" lang="kor" page="2:35b" n="6">셔에 ᄀᆞᆯ오ᄃᆡ 텬토 유죄라 ᄒᆞ니</sent>
+<!--'ᄀᆞᆯ오ᄃᆡ'에서 'ᄃᆡ'의 'ᅟᆞ'가 탈획됨-->
+<sent type="main" lang="chi" page="2:35b" n="7">凡討罪之際，一循天理，</sent>
+<sent type="main" lang="kor" page="2:35b" n="7">무ᄅᆞᆺ 토죄ᄒᆞᆯ 즈음에 텬리ᄅᆞᆯ ᄒᆞᆫᄀᆞᆯᄀᆞ티 좃차</sent>
+<sent type="main" lang="chi" page="2:35b-36a" n="8">有罪者罪之，無罪者宥之。</sent>
+<sent type="main" lang="kor" page="2:35b-36a" n="8">죄 잇ᄂᆞ니ᄅᆞᆯ 죄주고 죄 업ᄂᆞ니ᄅᆞᆯ 샤ᄒᆞ되</sent>
+<!--ᄂᆞ^니-->
+</pages>
+
+<pages n="2:36a">
+<img n="2:36a">https://kohico.kr/_media/image/bookname/2:36a.jpg</img>
+<sent type="main" lang="chi" page="2:36a" n="1">而亦於罪之之中，或有一分可生之道，</sent>
+<sent type="main" lang="kor" page="2:36a" n="1">ᄯᅩᄒᆞᆫ 죄주ᄂᆞᆫ 가온ᄃᆡ 혹 일분 가히 살 도리 잇거든</sent>
+<sent type="main" lang="chi" page="2:36a" n="2">則固當付之生議矣。如是然後，</sent>
+<sent type="main" lang="kor" page="2:36a" n="2">맛당히 살 의논의 붓텨 이러ᄐᆞᆺ ᄒᆞᆫ 연후의야</sent>
+<sent type="main" lang="chi" page="2:36a" n="3">方可合於聖人好生之德。</sent>
+<sent type="main" lang="kor" page="2:36a" n="3">ᄇᆞ야흐로 가히 셩인 호ᄉᆡᆼᄒᆞ시ᄂᆞᆫ 덕에 합ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="2:36a" n="4">向來禍故之家，孰不刻骨痛心，</sent>
+<sent type="main" lang="kor" page="2:36a" n="4">향ᄂᆡ 화고 맛난 집이 뉘 ᄀᆞᆨ골 통심티 아니리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:36a" n="5">而此猶私家事。至於上躬亦不免誣逼，</sent>
+<sent type="main" lang="kor" page="2:36a" n="5">이ᄂᆞᆫ 오히려 ᄉᆞ가 일이어니와 샹궁의 니ᄅᆞ러도 ᄯᅩᄒᆞᆫ 무핍ᄒᆞ믈 면티 못ᄒᆞ오신즉</sent>
+<sent type="main" lang="chi" page="2:36a" n="6">則凡爲臣子者，莫不憤痛。</sent>
+<sent type="main" lang="kor" page="2:36a" n="6">무ᄅᆞᆺ 신ᄌᆞ 된 쟤 분통티 아니리 업ᄉᆞ니</sent>
+<!--'무ᄅᆞᆺ'에서 'ᄅᆞᆺ'의 'ᅟᆞ'가 탈획됨-->
+<sent type="main" lang="chi" page="2:36a" n="7">今若務快其心，大行懲討，則殺戮必過多矣。</sent>
+<sent type="main" lang="kor" page="2:36a" n="7">이제 만일 그 ᄆᆞᄋᆞᆷ의 쾌ᄒᆞ기ᄅᆞᆯ 힘ᄡᅥ 딩토ᄒᆞ기ᄅᆞᆯ 크게 ᄒᆡᆼᄒᆞᆫ즉 살뉵이 반ᄃᆞ시 과다ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="2:36a-36b" n="8">臣亦知聖明所慮實在於此。</sent>
+<sent type="main" lang="kor" page="2:36a-36b" n="8">신이 ᄯᅩᄒᆞᆫ 셩명의 념녀ᄒᆞ오시ᄂᆞᆫ 배 실로 여긔 잇ᄂᆞᆫ 줄을 아오니</sent>
+<!--셩^명-->
+</pages>
+
+<pages n="2:36b">
+<img n="2:36b">https://kohico.kr/_media/image/bookname/2:36b.jpg</img>
+<sent type="main" lang="chi" page="2:36b" n="1">臣等固宜仰體聖意，凡於推覈之道，務歸平允而已。</sent>
+<sent type="main" lang="kor" page="2:36b" n="1">신등이 맛당히 셩의ᄅᆞᆯ 앙례ᄒᆞ여 무ᄅᆞᆺ 튜ᄒᆡᆨᄒᆞᄂᆞᆫ 도리ᄅᆞᆯ 평윤ᄒᆞᆫ ᄃᆡ 도라가기ᄅᆞᆯ 힘ᄡᅳᆯ ᄯᆞᄅᆞᆷ이니</sent>
+<!--'무ᄅᆞᆺ'에서 'ᄅᆞᆺ'의 'ᅟᆞ'가 탈획됨-->
+<sent type="main" lang="chi" page="2:36b" n="2">何可徒事掩覆，不覈其逆情乎？</sent>
+<sent type="main" lang="kor" page="2:36b" n="2">엇디 가히 ᄒᆞᆫ갓 엄부ᄒᆞ기ᄅᆞᆯ 일사마 그 역졍을 구ᄒᆡᆨ디 아니ᄒᆞ리잇고</sent>
+<sent type="main" lang="chi" page="2:36b" n="3">獄體決不當如是矣。”</sent>
+<sent type="main" lang="kor" page="2:36b" n="3">옥톄 결단코 맛당히 이 ᄀᆞᆺ디 아니ᄒᆞ리이다</sent>
+<sent type="main" lang="chi" page="2:36b" n="4">上曰：“判金吾之言可謂知予意矣。</sent>
+<sent type="main" lang="kor" page="2:36b" n="4">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 판금오의 말이 가히 내 ᄯᅳᆺ을 안다 니ᄅᆞ리로다</sent>
+<sent type="main" lang="chi" page="2:36b" n="5">慘被其誣衊，則豈無積憤之心乎？</sent>
+<sent type="main" lang="kor" page="2:36b" n="5">그 무멸ᄒᆞ믈 참혹히 닙어신즉 엇디 젹분ᄒᆞᆫ ᄆᆞᄋᆞᆷ이 업ᄉᆞ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:36b-37a" n="6">若徒事快心，以至蔓延，</sent>
+<sent type="main" lang="kor" page="2:36b-37a" n="6">만일 ᄒᆞᆫ갓 ᄆᆞᄋᆞᆷ의 쾌ᄒᆞ기ᄅᆞᆯ 일삼아 ᄡᅥ 만연ᄒᆞ기에 니ᄅᆞᆫ즉</sent>
+<!--기^에-->
+</pages>
+
+<pages n="2:37a">
+<img n="2:37a">https://kohico.kr/_media/image/bookname/2:37a.jpg</img>
+<sent type="main" lang="chi" page="2:37a" n="1">則亦恐有玉石難辨之慮矣。”</sent>
+<sent type="main" lang="kor" page="2:37a" n="1">ᄯᅩᄒᆞᆫ 옥셕을 분변키 어려온 념녜 이실가 저허ᄒᆞ노라</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:37a" n="2">知經筵閔鎭遠袖箚言：“粤若我大行大王，臣於昔者，六年春坊，侍講最久，</sent>
+<sent type="main" lang="kor" page="2:37a" n="2">디경연 민딘원이 슈차ᄒᆞ야 알외되 우리 대ᄒᆡᆼ 대왕ᄭᅴ 신이 녯 ᄯᅢ 뉵 년 츈방의 시강ᄒᆞ기ᄅᆞᆯ ᄀᆞ장 오래와</sent>
+<sent type="main" lang="chi" page="2:37a" n="3">伏見仁慈明睿，溫粹和易，</sent>
+<sent type="main" lang="kor" page="2:37a" n="3">업듸여 보ᄋᆞᆸ건대 인ᄌᆞᄒᆞ오시고 명예ᄒᆞ오시고 온슈ᄒᆞ오시고 화이ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:37a" n="4">誠是不世出之英姿也。加以學問夙成，行誼純篤。</sent>
+<sent type="main" lang="kor" page="2:37a" n="4">진실로 불셰츌ᄒᆞ오신 영ᄌᆡ오시고 더옥 ᄒᆞᆨ문이 슉셩ᄒᆞ시고 ᄒᆡᆼ의 슌독ᄒᆞ오셔</sent>
+<sent type="main" lang="chi" page="2:37a" n="5">辛巳仁顯王后之上賓也，哭泣之聲，聞者莫不墮淚，</sent>
+<sent type="main" lang="kor" page="2:37a" n="5">신ᄉᆞ년 인현 왕후 샹빈ᄒᆞ오신 제 곡읍ᄒᆞ시ᄂᆞᆫ 소ᄅᆡᄅᆞᆯ 듯ᄂᆞᆫ 쟤 눈믈을 ᄯᅥ릐티디 아니리 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="2:37a-37b" n="6">其能纘肅廟之業，</sent>
+<sent type="main" lang="kor" page="2:37a-37b" n="6">그 능히 슉묘 덕업을 니으시고</sent>
+<!--능^히-->
+</pages>
+
+<pages n="2:37b">
+<img n="2:37b">https://kohico.kr/_media/image/bookname/2:37b.jpg</img>
+<sent type="main" lang="chi" page="2:37b" n="1">光肅廟之烈者，可必於他日矣。</sent>
+<sent type="main" lang="kor" page="2:37b" n="1">슉묘 공녈을 빗나게 ᄒᆞ시미 가히 다ᄅᆞᆫ 날의 긔필ᄒᆞ올 거시오되</sent>
+<sent type="main" lang="chi" page="2:37b" n="2">不幸中年以後，疢疾乘之，</sent>
+<sent type="main" lang="kor" page="2:37b" n="2">불ᄒᆡᆼ이 듕년 이후의 신질이 겨오시니</sent>
+<sent type="main" lang="chi" page="2:37b" n="3">外庭諸臣，咸懷憂懼，思至誠夾輔，</sent>
+<sent type="main" lang="kor" page="2:37b" n="3">외뎡의 모든 신해 다 우구ᄒᆞ믈 품어 지셩으로 협보ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2:37b" n="4">隨事匡救，以俟早晩平復之慶矣。</sent>
+<sent type="main" lang="kor" page="2:37b" n="4">일을 ᄯᆞ라 광구ᄒᆞ기ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ여 조만의 평복ᄒᆞ오실 경ᄉᆞᄅᆞᆯ 기ᄃᆞ리더니</sent>
+<sent type="main" lang="chi" page="2:37b" n="5">先王自量證患之難强，有妨於酬應萬機，</sent>
+<sent type="main" lang="kor" page="2:37b" n="5">션왕이 스ᄉᆞ로 증환이 강잉키 어려오샤 만긔 슈응ᄒᆞ시기의 방해로오시믈 혜아리오셔</sent>
+<sent type="main" lang="chi" page="2:37b-38a" n="6">托殿下以儲嗣之重，仍命代理庶務，</sent>
+<sent type="main" lang="kor" page="2:37b-38a" n="6">뎐하ᄭᅴ 져ᄉᆞ의 듕ᄒᆞ므로ᄡᅥ 부탁ᄒᆞ오시고 인ᄒᆞ야 셔무 ᄃᆡ리ᄒᆞ오시기ᄅᆞᆯ 명ᄒᆞ오시니</sent>
+<!--기^ᄅᆞᆯ-->
+</pages>
+
+<pages n="2:38a">
+<img n="2:38a">https://kohico.kr/_media/image/bookname/2:38a.jpg</img>
+<sent type="main" lang="chi" page="2:38a" n="1">諸臣憂傷哀痛不忍奉承者，蓋亦有日矣。</sent>
+<sent type="main" lang="kor" page="2:38a" n="1">모든 신해 우샹ᄒᆞ고 ᄋᆡ통ᄒᆞ여 ᄎᆞᆷ아 봉승티 못ᄒᆞ오미 ᄯᅩᄒᆞᆫ 여러 날이올러니</sent>
+<sent type="main" lang="chi" page="2:38a" n="2">及其有‘世弟可乎，左右可乎’之敎，則旨意愈益懇切，聖慮愈益深遠。</sent>
+<sent type="main" lang="kor" page="2:38a" n="2">밋 셰뎨 가ᄒᆞ냐 좌위 가ᄒᆞ냐 ᄒᆞ오신 하ᄀᆈ 겨오신즉 지의 더옥 ᄀᆞᆫ졀ᄒᆞ시고 셩녜 더옥 심원ᄒᆞ오시거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:38a" n="3">而一種諸人，自生疑㥘，恐其不利於己。</sent>
+<sent type="main" lang="kor" page="2:38a" n="3">일죵 모든 사ᄅᆞᆷ이 스ᄉᆞ로 겁을 내여 그 몸의 니티 아니ᄒᆞᆯ가 저허ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:38a" n="4">趙泰耉不有請竄之臺啓，率其徒黨，冒入闕門，不由政院，</sent>
+<sent type="main" lang="kor" page="2:38a" n="4">됴태구ᄂᆞᆫ 쳥찬ᄒᆞᄂᆞᆫ ᄃᆡ계ᄅᆞᆯ 혜디 아니ᄒᆞ고 그 도당을 거ᄂᆞ리고 궐문에 무롭ᄡᅥ 드러가 졍원으로 말ᄆᆡ암디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:38a-38b" n="5">直蒙賜對，而輒皆以宗社將亡爲言。</sent>
+<sent type="main" lang="kor" page="2:38a-38b" n="5">바로 ᄉᆞᄃᆡ을 닙어 믄득 다 종섀 쟝ᄎᆞᆺ 망ᄒᆞ므로ᄡᅥ 말을 ᄒᆞ니 신이 아디 못거이다</sent>
+<!--'쟝ᄎᆞᆺ'에서 'ᄎᆞᆺ'의 'ᅟᆞ'가 탈획됨-->
+<!--섀 ^ 쟝-->
+</pages>
+
+<pages n="2:38b">
+<img n="2:38b">https://kohico.kr/_media/image/bookname/2:38b.jpg</img>
+<sent type="main" lang="chi" page="2:38b" n="1">臣未知左右用事則宗社可安，殿下代理則宗社將亡者，是果何說？</sent>
+<sent type="main" lang="kor" page="2:38b" n="1">좌위 용ᄉᆞᄒᆞ면 종섀 가히 편안ᄒᆞ고 뎐해 ᄃᆡ리ᄒᆞ오시면 종섀 쟝ᄎᆞᆺ 망ᄒᆞ리라 ᄒᆞ미 이 과연 엇딘 말이온디</sent>
+<sent type="main" lang="chi" page="2:38b" n="2">夫疾病之來，聖賢之所不免，顧何損於聖德？</sent>
+<sent type="main" lang="kor" page="2:38b" n="2">질병지ᄂᆡ는 셩현도 면티 못ᄒᆞᄂᆞᆫ 배오니 도라보건대 므어시 셩덕의 손ᄒᆞ오리잇가마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:38b" n="3">而一隊群奸曲諱先王之有疾，</sent>
+<sent type="main" lang="kor" page="2:38b" n="3">일ᄃᆡ 군간이 션왕의 병환 겨오시믈 곡히 휘ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:38b" n="4">陰以自脫其欺蔽無嚴之跡，</sent>
+<sent type="main" lang="kor" page="2:38b" n="4">ᄀᆞ마니 ᄡᅥ 그 긔폐ᄒᆞ고 무엄ᄒᆞᆫ 자최ᄅᆞᆯ 스ᄉᆞ로 버스려 ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:38b" n="5">不恤其上加玷累，寧不痛心？</sent>
+<sent type="main" lang="kor" page="2:38b" n="5">그 우흐로 졈뉘 더으믈 도라보디 아니ᄒᆞ오니 엇디 통심티 아니ᄒᆞ오리잇가</sent>
+<!--'우흐로'의 '로'는 '르'로 판독되지만 탈획된 것으로 보고 '로'로 입력함-->
+<sent type="main" lang="chi" page="2:38b-39a" n="6">兇徒於肅廟則直斥其大處分，謂由於積年沈痼之疾，</sent>
+<sent type="main" lang="kor" page="2:38b-39a" n="6">흉되 슉묘ᄭᅴᄂᆞᆫ 대쳐분을 바로 지쳑ᄒᆞ여 니ᄅᆞ되 젹년 팀고ᄒᆞ오신 병환으로 말믜암앗다 ᄒᆞ야</sent>
+<!--되 ^ 슉-->
+</pages>
+
+<pages n="2:39a">
+<img n="2:39a">https://kohico.kr/_media/image/bookname/2:39a.jpg</img>
+<sent type="main" lang="chi" page="2:39a" n="1">而恣意誣毁，不少顧忌；</sent>
+<sent type="main" lang="kor" page="2:39a" n="1">방ᄌᆞ히 무훼ᄒᆞ야 됴곰도 도라 긔탄티 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:39a" n="2">於先王則祕諱疾患，設爲禁防，</sent>
+<sent type="main" lang="kor" page="2:39a" n="2">션왕ᄭᅴᄂᆞᆫ 질환을 비휘ᄒᆞ야 금방을 ᄆᆡᆫᄃᆞ라</sent>
+<sent type="main" lang="chi" page="2:39a" n="3">言或及此，輒指爲逆。</sent>
+<sent type="main" lang="kor" page="2:39a" n="3">말이 혹 이예 밋ᄎᆞ면 믄득 ᄀᆞᄅᆞ텨 역이라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:39a" n="4">必也明言‘先王以仁孝聰睿之姿，不幸有無妄之疾，爲小人所障蔽。</sent>
+<sent type="main" lang="kor" page="2:39a" n="4">반ᄃᆞ시 션왕이 인효 총예ᄒᆞ오신 ᄌᆞ질로ᄡᅥ 블ᄒᆡᆼ이 무망에 병환이 겨오샤 쇼인의 ᄀᆞ리온 배 되샤</sent>
+<sent type="main" lang="chi" page="2:39a" n="5">數年之間，變易肅廟之舊政者，一出於群邪之眩亂’。</sent>
+<sent type="main" lang="kor" page="2:39a" n="5">수년 ᄉᆞ이의 슉묘 녯 졍ᄉᆞ 변역ᄒᆞᆫ 쟤 ᄒᆞᆫᄀᆞᆯᄀᆞ티 군샤의 현난ᄒᆞ므로 나믈 ᄇᆞᆯ키 니ᄅᆞᆫ 연후에야</sent>
+<sent type="main" lang="chi" page="2:39a-39b" n="6">然後始可解中外之惑，釋後世之疑，</sent>
+<sent type="main" lang="kor" page="2:39a-39b" n="6">비로소 가히 듕외의 의혹ᄒᆞ믈 플고 후셰의 의심을 노흘 거시오</sent>
+<!--비^로-->
+</pages>
+
+<pages n="2:39b">
+<img n="2:39b">https://kohico.kr/_media/image/bookname/2:39b.jpg</img>
+<sent type="main" lang="chi" page="2:39b" n="1">而先王本然之懿德，乃得如日月之昭揭矣。</sent>
+<sent type="main" lang="kor" page="2:39b" n="1">션왕의 본연ᄒᆞ신 아ᄅᆞᆷ다온 덕이 이예 시러곰 일월의 쇼게ᄒᆞᆷ ᄀᆞᄐᆞ시리이다</sent>
+<sent type="main" lang="chi" page="2:39b" n="2">殿下近年以來，險阻艱難，亦旣備嘗之矣。</sent>
+<sent type="main" lang="kor" page="2:39b" n="2">뎐해 근년 이ᄅᆡ로 험조간난을 ᄯᅩᄒᆞᆫ 이믜 ᄀᆞ초 디내오신디라</sent>
+<sent type="main" lang="chi" page="2:39b" n="3">自在潛邸，已遭橫逆之言</sent>
+<sent type="main" lang="kor" page="2:39b" n="3">ᄌᆞᆷ뎌의 겨오실 제로브터 이믜 횡역의 말을 맛나오시고</sent>
+<sent type="anno" lang="chi" page="2:39b" n="4">指泰耉箚</sent>
+<sent type="anno" lang="kor" page="2:39b" n="4">태구의 차ᄌᆞᄅᆞᆯ ᄀᆞᄅᆞ티미라</sent>
+<sent type="main" lang="chi" page="2:39b" n="5">及進儲位，又遭鳳輝之沮遏、世良之凶言，</sent>
+<sent type="main" lang="kor" page="2:39b" n="5">밋 져위예 나오시매 ᄯᅩ 봉휘의 져알ᄒᆞᆷ과 셰량의 흉언을 만나오시고</sent>
+<sent type="main" lang="chi" page="2:39b" n="6">繼以有尙儉之謀害、鏡ㆍ虎之構誣，</sent>
+<sent type="main" lang="kor" page="2:39b" n="6">니어 샹검의 모해ᄒᆞᆷ과 경호의 구무ᄒᆞ미 잇고</sent>
+<sent type="main" lang="chi" page="2:39b-40a" n="7">其他危動不安之端，不止一二，</sent>
+<sent type="main" lang="kor" page="2:39b-40a" n="7">그 다른 위동블안지단이 ᄒᆞ나둘ᄲᅮᆫ이 아니오니</sent>
+<!--이 ^ 아-->
+</pages>
+
+<pages n="2:40a">
+<img n="2:40a">https://kohico.kr/_media/image/bookname/2:40a.jpg</img>
+<sent type="main" lang="chi" page="2:40a" n="1">此輩皆宗社之罪人也。”</sent>
+<sent type="main" lang="kor" page="2:40a" n="1">이 무리ᄂᆞᆫ 다 종샤의 죄인이니이다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:40a" n="2">三月，上引見諸臣。</sent>
+<sent type="main" lang="kor" page="2:40a" n="2">삼월에 샹이 졔신을 인견ᄒᆞ실ᄉᆡ</sent>
+<sent type="anno" lang="chi" page="2:40a" n="3">是日，有四大臣伸冤復官之命。</sent>
+<sent type="anno" lang="kor" page="2:40a" n="3">이날 ᄉᆞ대신 신원 복관ᄒᆞ오시ᄂᆞᆫ 명이 겨오시다</sent>
+<sent type="main" lang="chi" page="2:40a" n="4">上曰：“向來所謂廢立、簒逆云者，推而言之，至及於何地耶？</sent>
+<sent type="main" lang="kor" page="2:40a" n="4">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 향ᄂᆡ 니ᄅᆞᆫ바 폐닙 찬역이라 ᄒᆞᆫ 거시 미뢰여 니ᄅᆞ면 어ᄂᆞ ᄯᅡᄒᆡ 밋ᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:40a" n="5">自不覺其上逼於不敢言之地矣。</sent>
+<sent type="main" lang="kor" page="2:40a" n="5">스ᄉᆞ로 그 우흐로 블감언지디예 핍ᄒᆞ믈 ᄭᆡᄃᆞᆺ디 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:40a" n="6">大抵朝象之岐貳，在先朝不至若此之甚。</sent>
+<sent type="main" lang="kor" page="2:40a" n="6">대뎌 됴샹의 갈니 이미 션됴에ᄂᆞᆫ 이ᄀᆞ티 심ᄒᆞ기의 니ᄅᆞ디 아녓더니</sent>
+<sent type="main" lang="chi" page="2:40a" n="7">始以斯文事，先王之處分至嚴，形諸文字，垂之簡冊，</sent>
+<sent type="main" lang="kor" page="2:40a" n="7">비로소 ᄉᆞ문 일로ᄡᅥ 션왕 쳐분이 지엄ᄒᆞ오샤 문ᄶᆞ의 형용ᄒᆞ여 간ᄎᆡᆨ의 드리오시고</sent>
+<sent type="main" lang="chi" page="2:40a-40b" n="8">且於大行朝疏批，極其嚴明。</sent>
+<sent type="main" lang="kor" page="2:40a-40b" n="8">ᄯᅩ 대ᄒᆡᆼ됴 소비의 극히 엄명ᄒᆞ오시니</sent>
+<!--극^히-->
+</pages>
+
+<pages n="2:40b">
+<img n="2:40b">https://kohico.kr/_media/image/bookname/2:40b.jpg</img>
+<sent type="main" lang="chi" page="2:40b" n="1">故一邊之人擧懷怵畏之心，乘機而發，盡驅諸臣於惡逆之科，</sent>
+<sent type="main" lang="kor" page="2:40b" n="1">일변지인이 다 저허ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ을 품엇다가 긔회ᄅᆞᆯ 타 졔신을 다 악역지과로 모니</sent>
+<sent type="main" lang="chi" page="2:40b" n="2">苟究其所以然，則果由於何地耶？</sent>
+<sent type="main" lang="kor" page="2:40b" n="2">진실로 그러ᄒᆞᆫ 바ᄅᆞᆯ 궁구하면 과언 어ᄂᆞ ᄯᅡ흐로 말믜암앗ᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:40b" n="3">其時之人疑惑層生，若論其心之所在，</sent>
+<sent type="main" lang="kor" page="2:40b" n="3">그ᄯᅢ 사ᄅᆞᆷ이 의혹이 층ᄉᆡᆼᄒᆞ니 만일 그 ᄆᆞᄋᆞᆷ 잇ᄂᆞᆫ 바ᄅᆞᆯ 의논ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="2:40b" n="4">則必欲網打一邊之人，然後使不得措手耳。</sent>
+<sent type="main" lang="kor" page="2:40b" n="4">반ᄃᆞ시 일변지인을 망타ᄒᆞᆫ 후에 ᄒᆞ여곰 조슈티 못ᄒᆞ과뎌 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="2:40b" n="5">合啓，大行大王連不允從，且於向者取見鞫案，</sent>
+<sent type="main" lang="kor" page="2:40b" n="5">합계ᄅᆞᆯ 대ᄒᆡᆼ 대왕이 년ᄒᆞ여 윤죵티 아니ᄒᆞ오시고 ᄯᅩ 향쟈의 국안을 보니</sent>
+<sent type="main" lang="chi" page="2:40b" n="6">賓廳二品以上之請對也，亦不允許。</sent>
+<sent type="main" lang="kor" page="2:40b" n="6">빈텽 이품 이샹 쳥ᄃᆡ예 ᄯᅩᄒᆞᆫ 윤허티 아니ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:40b-41a" n="7">大行朝靳兪之盛意，從可見矣。</sent>
+<sent type="main" lang="kor" page="2:40b-41a" n="7">대ᄒᆡᆼ됴 근유ᄒᆞ오신 셩의ᄅᆞᆯ 조차 가히 보올디라</sent>
+<!--근^유-->
+</pages>
+
+<pages n="2:41a">
+<img n="2:41a">https://kohico.kr/_media/image/bookname/2:41a.jpg</img>
+<sent type="main" lang="chi" page="2:41a" n="1">一鏡辛丑疏與虎龍變書，節節相符，</sent>
+<sent type="main" lang="kor" page="2:41a" n="1">일경의 신튝 쇠 호룡의 변셔로 더브러 졀졀히 서로 마자</sent>
+<sent type="main" lang="chi" page="2:41a" n="2">其和應之狀，不言可知，</sent>
+<sent type="main" lang="kor" page="2:41a" n="2">그 화응ᄒᆞᆫ 형상을 니ᄅᆞ디 아녀도 가히 알 거시오</sent>
+<sent type="main" lang="chi" page="2:41a" n="3">且虎龍變書出於何時乎？</sent>
+<sent type="main" lang="kor" page="2:41a" n="3">ᄯᅩ 호룡의 변셰 어ᄂᆞ ᄯᅢ예 낫ᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:41a" n="4">若欲明言，事甚怪駭，故不言之。”</sent>
+<sent type="main" lang="kor" page="2:41a" n="4">만일 ᄇᆞᆯ키 니ᄅᆞ고뎌 ᄒᆞᆯ딘대 일이 심히 의ᄒᆡᄒᆞ매 니ᄅᆞ디 아니ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="2:41a" n="5">禮曹判書閔鎭遠曰：“冊封先來出來後，變書卽出矣。”</sent>
+<sent type="main" lang="kor" page="2:41a" n="5">녜조 판셔 민딘원이 ᄀᆞᆯ오되 ᄎᆡᆨ봉 션ᄅᆡ 나온 후의 변셰 즉시 낫ᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="2:41a" n="6">上曰：“予於其時，得見變書，毛骨俱竦。</sent>
+<sent type="main" lang="kor" page="2:41a" n="6">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 내 그ᄯᅢ의 변셔ᄅᆞᆯ 어더 보고 모골이 다 숫그러 ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:41a-41b" n="7">半夜蒼黃之中，引接宮僚，蓋以此也。</sent>
+<sent type="main" lang="kor" page="2:41a-41b" n="7">반야 창황지듕의 궁뇨ᄅᆞᆯ 인접ᄒᆞ미 대개 일로ᄡᅦ라</sent>
+<!--ᄡᅦ^라-->
+</pages>
+
+<pages n="2:41b">
+<img n="2:41b">https://kohico.kr/_media/image/bookname/2:41b.jpg</img>
+<sent type="main" lang="chi" page="2:41b" n="1">其時推案雖曰拔去凶言，</sent>
+<sent type="main" lang="kor" page="2:41b" n="1">그ᄯᅢ 튜안의 비록 ᄀᆞᆯ오되 흉언을 발거ᄒᆞ노라 ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="2:41b" n="2">若深思之，至於何境耶？”</sent>
+<sent type="main" lang="kor" page="2:41b" n="2">만일 깁히 ᄉᆡᆼ각ᄒᆞ면 어ᄂᆞ 디경의 니ᄅᆞᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:41b" n="3">右議政鄭澔曰：“爲國之道，辨邪正，明是非，</sent>
+<sent type="main" lang="kor" page="2:41b" n="3">우의졍 뎡회 ᄀᆞᆯ오되 위국지되 샤졍을 분변ᄒᆞ고 시비ᄅᆞᆯ ᄇᆞᆯ킨 후에</sent>
+<sent type="main" lang="chi" page="2:41b" n="4">然後罪者罪之，則人心自服矣。”</sent>
+<sent type="main" lang="kor" page="2:41b" n="4">죄쟈ᄅᆞᆯ 죄지ᄒᆞ면 인심이 ᄌᆞ복ᄒᆞᄂᆞ니이다</sent>
+<sent type="main" lang="chi" page="2:41b" n="5">上曰：“大臣之言是矣。”</sent>
+<sent type="main" lang="kor" page="2:41b" n="5">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 대신의 말이 올토다</sent>
+<sent type="main" lang="chi" page="2:41b" n="6">鎭遠曰：“顯忠懲惡之道，有國以來，不可偏廢者也。</sent>
+<sent type="main" lang="kor" page="2:41b" n="6">딘원이 ᄀᆞᆯ오되 튱셩을 나타내고 죄악을 딩계ᄒᆞᄂᆞᆫ 되 나라히 이셔 ᄡᅥ 오므로 가히 편폐티 못ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="2:41b" n="7">效忠者褒之，有罪者討之，然後紀綱振肅，人心感服。</sent>
+<sent type="main" lang="kor" page="2:41b" n="7">효튱ᄒᆞ니ᄅᆞᆯ 포쟝ᄒᆞ고 유죄ᄒᆞ니ᄅᆞᆯ 딩토ᄒᆞᆫ 후의야 긔강이 진슉ᄒᆞ고 인심이 감복ᄒᆞ리니</sent>
+</pages>
+
+<pages n="2:42a">
+<img n="2:42a">https://kohico.kr/_media/image/bookname/2:42a.jpg</img>
+<sent type="main" lang="chi" page="2:42a" n="1">今若以前日殺戮一切爲戒，不論罪之輕重，</sent>
+<sent type="main" lang="kor" page="2:42a" n="1">이제 만일 젼일 살뉵으로ᄡᅥ 일졀히 경계ᄒᆞ여 죄의 경듕을 의논티 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:42a" n="2">疑之以報復，只施寬容之典，</sent>
+<sent type="main" lang="kor" page="2:42a" n="2">보복으로ᄡᅥ 의심ᄒᆞ야 다만 관용ᄒᆞᆫ 법뎐을 베픈즉</sent>
+<sent type="main" lang="chi" page="2:42a" n="3">則犯罪者非但不知感激天意，</sent>
+<sent type="main" lang="kor" page="2:42a" n="3">죄예 범ᄒᆞᆫ 쟤 텬의ᄅᆞᆯ 감격ᄒᆞᆯ 줄을 아디 못ᄒᆞᆯ ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="chi" page="2:42a" n="4">抑恐反以爲吾無所犯也。</sent>
+<sent type="main" lang="kor" page="2:42a" n="4">믄득 도로혀 ᄡᅥ ᄒᆞ되 내 범ᄒᆞᆫ 배 업노라 ᄒᆞᆯ가 저허ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="2:42a" n="5">如是而國可爲國乎？”</sent>
+<sent type="main" lang="kor" page="2:42a" n="5">이러ᄐᆞᆺ ᄒᆞ고 나라히 가히 나라히 되리잇가</sent>
+<sent type="main" lang="chi" page="2:42a" n="6">吏曹判書李宜顯繼陳如鎭遠言。</sent>
+<sent type="main" lang="kor" page="2:42a" n="6">니조 판셔 니의현이 니어 딘원의 말 ᄀᆞᆺ티 알외다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:42a" n="7">憲府啓：“今此六賊旣與逆鏡同罪，</sent>
+<sent type="main" lang="kor" page="2:42a" n="7">헌뷔 계ᄉᆞᄒᆞ되 이제 이 뉵적이 이믜 역경으로 더브러 죄 ᄀᆞᆺ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:42a-42b" n="8">而殿下只誅逆鏡，姑貸六賊，</sent>
+<sent type="main" lang="kor" page="2:42a-42b" n="8">뎐해 다만 역경을 베히시고 뉵적은 아딕 용ᄃᆡᄒᆞ시니</sent>
+<!--적^은-->
+</pages>
+
+<pages n="2:42b">
+<img n="2:42b">https://kohico.kr/_media/image/bookname/2:42b.jpg</img>
+<sent type="main" lang="chi" page="2:42b" n="1">實非爲宗社嚴懲討之義。</sent>
+<sent type="main" lang="kor" page="2:42b" n="1">실로 종샤ᄅᆞᆯ 위ᄒᆞ여 딩토ᄅᆞᆯ 엄히 ᄒᆞ시ᄂᆞᆫ 의 아니라</sent>
+<sent type="main" lang="chi" page="2:42b" n="2">夫六賊之罪，非特構諸臣也，乃所以誣殿下也，誣東朝也。</sent>
+<sent type="main" lang="kor" page="2:42b" n="2">뉵적의 죄ᄂᆞᆫ ᄒᆞᆫ갓 졔신을 구함ᄒᆞᆯ ᄲᅮᆫ 아니라 이에 뎐하ᄅᆞᆯ 무ᄒᆞ고 동됴ᄅᆞᆯ 무ᄒᆞ온 배니</sent>
+<sent type="main" lang="chi" page="2:42b" n="3">爲此疏者，爲逆而已，在必討而已。</sent>
+<sent type="main" lang="kor" page="2:42b" n="3">이 샹소ᄒᆞᆫ 쟈ᄂᆞᆫ 역이 되야 이믜 반ᄃᆞ시 딩토ᄒᆞ기의 이ᄉᆞᆯ ᄯᆞᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="2:42b" n="4">且凡以疏章得罪者，只罪疏頭，蓋可施之於微眚薄過，</sent>
+<sent type="main" lang="kor" page="2:42b" n="4">무ᄅᆞᆺ 소쟝으로ᄡᅥ 죄 엇ᄂᆞᆫ 쟤 다만 소두ᄅᆞᆯ 죄주믄 대개 가히 져근 죄와 야론 허믈의 베플 거시오</sent>
+<sent type="main" lang="chi" page="2:42b" n="5">而不可施之於犯逆之人也。</sent>
+<sent type="main" lang="kor" page="2:42b" n="5">가히 범역ᄒᆞᆫ 사ᄅᆞᆷ의게 베프디 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="2:42b-43a" n="6">況六賊攘臂擔當者，蓋知與儉賊和應約束，萬無一失故也。</sent>
+<sent type="main" lang="kor" page="2:42b-43a" n="6">ᄒᆞ믈며 뉵적의 양비 담당ᄒᆞ미 대개 검적으로 더브러 화응 약속ᄒᆞ야 만무일실ᄒᆞᆯ 줄을 알미라</sent>
+<!--ᄒᆞ^야-->
+</pages>
+
+<pages n="2:43a">
+<img n="2:43a">https://kohico.kr/_media/image/bookname/2:43a.jpg</img>
+<sent type="main" lang="chi" page="2:43a" n="1">若此者，亦可以漫然隨參無知妄作論之乎？</sent>
+<sent type="main" lang="kor" page="2:43a" n="1">이 ᄀᆞ튼 쟈ᄅᆞᆯ ᄯᅩᄒᆞᆫ 가히 범연히 슈참ᄒᆞ고 무디망작ᄒᆞ므로ᄡᅥ 의논ᄒᆞ리잇가</sent>
+<sent type="main" lang="chi" page="2:43a" n="2">三尺至嚴，決不可容貸。</sent>
+<sent type="main" lang="kor" page="2:43a" n="2">삼쳑이 지엄ᄒᆞ야 결단코 가히 용ᄃᆡ티 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="2:43a" n="3">請逆鏡疏下六賊亟命拿鞫嚴問，夬正王法。”</sent>
+<sent type="main" lang="kor" page="2:43a" n="3">쳥컨대 역경의 소하 뉵적을 ᄲᆞᆯ니 명ᄒᆞ오셔 나국 엄문ᄒᆞ야 쾌졍왕법ᄒᆞ여디이다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:43a" n="4">鞫孫荊佐。</sent>
+<sent type="main" lang="kor" page="2:43a" n="4">손형좌ᄅᆞᆯ 국문ᄒᆞ다</sent>
+<sent type="anno" lang="chi" page="2:43a" n="5">三月，始鞫虎龍、兄時龍。四月，特敎鞫荊佐。荊佐，內侍也。</sent>
+<sent type="anno" lang="kor" page="2:43a" n="5">삼월에 호룡의 형 시룡을 비로소 국문ᄒᆞ고 ᄉᆞ월의 특교로 형좌ᄅᆞᆯ 국문ᄒᆞ시니 형좌ᄂᆞᆫ ᄂᆡ시라</sent>
+<sent type="main" lang="chi" page="2:43a" n="6">傳敎有曰：“汝與知妖儉之事，以辛丑所爲觀之，明若觀火，</sent>
+<sent type="main" lang="kor" page="2:43a" n="6">뎐교의 ᄀᆞᆯᄋᆞ샤ᄃᆡ 네 요검의 일을 참예ᄒᆞ여 알미 신튝의 ᄒᆞ던 바로 보와도 명약관화ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:43a-43b" n="7">卽今群心拂鬱，乃由於奸狀之未破。</sent>
+<sent type="main" lang="kor" page="2:43a-43b" n="7">즉금 군심의 블울ᄒᆞ미 이에 간상을 ᄭᅢ티디 못ᄒᆞ므로 말믜아마시니</sent>
+<!--에 ^ 간-->
+</pages>
+
+<pages n="2:43b">
+<img n="2:43b">https://kohico.kr/_media/image/bookname/2:43b.jpg</img>
+<sent type="main" lang="chi" page="2:43b" n="1">今之推問於汝者，欲知顚末，明其處分之意。</sent>
+<sent type="main" lang="kor" page="2:43b" n="1">이제 네게 튜문ᄒᆞ믄 뎐말을 아라 그 쳐분을 ᄇᆞᆯ키고뎌 ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="2:43b" n="2">其間事狀，從實直招事，嚴問。”</sent>
+<sent type="main" lang="kor" page="2:43b" n="2">기간 ᄉᆞ상을 죵실 직툐ᄒᆞᆯ 일로 엄문ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:43b" n="3">刑荊佐，荊佐供：“尙儉與妖惡內人必貞締結做言，</sent>
+<sent type="main" lang="kor" page="2:43b" n="3">형좌ᄅᆞᆯ 형튜ᄒᆞ니 공ᄉᆞᄒᆞ되 샹검이 요악ᄒᆞᆫ ᄂᆡ인 필뎡으로 더브러 톄결ᄒᆞ여 말을 지어 ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="2:43b" n="4">以爲‘闕中有狐，着白簇道里往來’，</sent>
+<sent type="main" lang="kor" page="2:43b" n="4">궐듕의 여이 이셔 흰 죡도리 ᄡᅳ고 왕ᄂᆡᄒᆞᆫ다 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:43b" n="5">托以捉狐多設機罟。</sent>
+<sent type="main" lang="kor" page="2:43b" n="5">여ᄋᆞ 잡기ᄅᆞᆯ 팅탁ᄒᆞ야 긔계와 그믈을 만히 베플고</sent>
+<sent type="main" lang="chi" page="2:43b" n="6">淸暉門乃東宮問安往來之路也。</sent>
+<sent type="main" lang="kor" page="2:43b" n="6">쳥휘문은 동궁 문안 왕ᄂᆡᄒᆞ오시ᄂᆞᆫ 길히라</sent>
+<sent type="main" lang="chi" page="2:43b-44a" n="7">尙儉欲阻遏問安之路，以圖陰凶之事，</sent>
+<sent type="main" lang="kor" page="2:43b-44a" n="7">샹검이 문안ᄒᆞ오시ᄂᆞᆫ 길흘 막아 음흉ᄒᆞᆫ 일을 도모코뎌 ᄒᆞ니</sent>
+<!--코^뎌-->
+</pages>
+
+<pages n="2:44a">
+<img n="2:44a">https://kohico.kr/_media/image/bookname/2:44a.jpg</img>
+<sent type="main" lang="chi" page="2:44a" n="1">蓋換局之計也。</sent>
+<sent type="main" lang="kor" page="2:44a" n="1">대개 환국ᄒᆞ려 ᄒᆞᄂᆞᆫ 계ᄀᆈ라</sent>
+<sent type="main" lang="chi" page="2:44a" n="2">渠之所爲，或恐東宮有所親覩，至有壅遏之擧，</sent>
+<sent type="main" lang="kor" page="2:44a" n="2">제 ᄒᆞᄂᆞᆫ 바ᄅᆞᆯ 혹 동궁이 친히 보오실가 저허 막ᄂᆞᆫ 거죄 잇기의 니ᄅᆞ니</sent>
+<sent type="main" lang="chi" page="2:44a" n="3">其謀害情跡，推此可知。</sent>
+<sent type="main" lang="kor" page="2:44a" n="3">그 모해ᄒᆞᄂᆞᆫ 졍젹은 이ᄅᆞᆯ 튜이ᄒᆞ여 가히 알디라</sent>
+<sent type="main" lang="chi" page="2:44a" n="4">其時換局由於一鏡之疏，</sent>
+<sent type="main" lang="kor" page="2:44a" n="4">그ᄯᅢ 환국은 일경의 샹소로 말믜아마시니</sent>
+<sent type="main" lang="chi" page="2:44a" n="5">彼此和應之狀，人皆言之矣。” </sent>
+<sent type="main" lang="kor" page="2:44a" n="5">피ᄎᆞ 화응ᄒᆞᆫ 형상은 사ᄅᆞᆷ마다 다 니ᄅᆞᄂᆞ니이다</sent>
+<sent type="main" lang="chi" page="2:44a" n="6">加刑，荊佐供：“臣於尙儉至秘至密之情節，雖未能的知，</sent>
+<sent type="main" lang="kor" page="2:44a" n="6">가형ᄒᆞ니 형좨 공ᄉᆞᄒᆞ되 신이 샹검의 지극히 비밀ᄒᆞᆫ 졍졀은 비록 능히 뎍실히 아디 못ᄒᆞ오나</sent>
+<sent type="main" lang="chi" page="2:44a-44b" n="7">其時每見尙儉持兩頭筆作書，而或眞書寫之，或諺書寫之，</sent>
+<sent type="main" lang="kor" page="2:44a-44b" n="7">그ᄯᅢ ᄆᆡ양 보오면 샹검이 냥두필을 가디고 글을 ᄡᅳ되 혹 진셔로도 ᄡᅳ고 혹 언문으로도 ᄡᅳ다가</sent>
+<!--다^가-->
+</pages>
+
+<pages n="2:44b">
+<img n="2:44b">https://kohico.kr/_media/image/bookname/2:44b.jpg</img>
+<sent type="main" lang="chi" page="2:44b" n="1">見人則驚捲其紙而深藏之。頻頻徘徊於內門帳下，</sent>
+<sent type="main" lang="kor" page="2:44b" n="1">사ᄅᆞᆷ을 보면 놀나 그 죠희ᄅᆞᆯ 거두텨 깁히 ᄀᆞᆷ초고 ᄌᆞ로 안문 댱 아ᄅᆡ ᄇᆡ회ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="2:44b" n="2">或逢親密內人，則顯有授書相通之跡，</sent>
+<sent type="main" lang="kor" page="2:44b" n="2">혹 친밀ᄒᆞᆫ ᄂᆡ인을 맛나면 현연히 글을 주어 서로 통ᄒᆞᄂᆞᆫ 자최 이시니</sent>
+<sent type="main" lang="chi" page="2:44b" n="3">內人乃是必貞。其親密隱秘之狀，闕內諸宦之所共知。</sent>
+<sent type="main" lang="kor" page="2:44b" n="3">ᄂᆡ인은 이필뎡이오 그 친밀 은비ᄒᆞᆫ 졍상은 궐ᄂᆡ 모든 환시 ᄒᆞᆫ가디로 아ᄂᆞᆫ 배오</sent>
+<sent type="main" lang="chi" page="2:44b" n="4">尙儉自兒時受學於渠家隔墻沈成川【卽益昌】家，情好極密。</sent>
+<sent type="main" lang="kor" page="2:44b" n="4">샹검이 ᄋᆞ시로브터 제집 격댱 심셩쳔【심익챵】의 집의 가 글을 ᄇᆡ화 졍회 극히 친밀ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:44b" n="5">聞一鏡往來沈家，與尙儉時常聚會，</sent>
+<sent type="main" lang="kor" page="2:44b" n="5">드ᄅᆞ니 일경이 심가의 집의 왕ᄂᆡᄒᆞ여 샹검으로 더브러 샹ᄒᆡ 모히니</sent>
+<sent type="main" lang="chi" page="2:44b" n="6">尙儉所爲，皆受其指揮矣。”</sent>
+<sent type="main" lang="kor" page="2:44b" n="6">샹검의 ᄒᆞᄂᆞᆫ 배 다 그 지휘ᄅᆞᆯ 바닷다 ᄒᆞ터이다</sent>
+<!--'ᄒᆞ터이다'에서 '터'는 '더'의 오각으로 보임-->
+<sent type="anno" lang="chi" page="2:44b-45a" n="7">荊佐納招後，命島配。</sent>
+<sent type="anno" lang="kor" page="2:44b-45a" n="7">형좨 납쵸ᄒᆞᆫ 후의 명ᄒᆞ오샤 도ᄇᆡᄒᆞ다</sent>
+<!--좨 ^ 납-->
+</pages>
+
+<pages n="2:45a">
+<img n="2:45a">https://kohico.kr/_media/image/bookname/2:45a.jpg</img>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:45a" n="1">鞫金吾胥隷。</sent>
+<sent type="main" lang="kor" page="2:45a" n="1">금오 셔예ᄅᆞᆯ 국문ᄒᆞ다</sent>
+<sent type="anno" lang="chi" page="2:45a" n="2">書吏李晩俊ㆍ張翊漢、羅將吳弼周ㆍ朴時雄ㆍ鄭起萬也。四月，因臺啓鞫問。</sent>
+<sent type="anno" lang="kor" page="2:45a" n="2">셔리 니만듄 댱익한과 나쟝이 오필쥬 박시웅 뎡긔만이라 ᄉᆞ월의 ᄃᆡ계ᄅᆞᆯ 인ᄒᆞ여 국문ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:45a" n="3">憲府啓：“壬寅誣獄之百般粧撰一例虛僞者，卽聖明之所洞燭也。</sent>
+<sent type="main" lang="kor" page="2:45a" n="3">헌뷔 계ᄉᆞᄒᆞ되 임인년 무옥을 ᄇᆡᆨ반 장찬ᄒᆞ고 일녜 허위ᄒᆞᆫ 줄은 곳 셩명겨오셔 통쵹ᄒᆞ시ᄂᆞᆫ 배라</sent>
+<sent type="main" lang="chi" page="2:45a" n="4">其中所謂承服者，或誘以如是納供則可生之意，</sent>
+<sent type="main" lang="kor" page="2:45a" n="4">그 가온ᄃᆡ 니론바 승복ᄒᆞᆫ 쟤 혹 이러ᄐᆞ시 공ᄉᆞᄒᆞ면 가히 살니라 ᄒᆞ고 다래여</sent>
+<sent type="main" lang="chi" page="2:45a" n="5">納供後，仍作結案者有之；</sent>
+<sent type="main" lang="kor" page="2:45a" n="5">공ᄉᆞᄅᆞᆯ 바든 후 인ᄒᆞ여 결안을 ᄆᆡᆫ든 것도 잇고</sent>
+<sent type="main" lang="chi" page="2:45a" n="6">或旣書承服招辭，卷其上端，不令罪人知之，勒令着名，作爲結案者有之；</sent>
+<sent type="main" lang="kor" page="2:45a" n="6">혹 이믜 승복 툐ᄉᆞᄅᆞᆯ ᄡᅥ 그 웃머리ᄅᆞᆯ 거더 죄인으로 ᄒᆞ여곰 아디 못ᄒᆞ게 ᄒᆞ고 억늑ᄒᆞ야 일홈 바다 결안을 ᄆᆡᆫ든 것도 잇고</sent>
+<sent type="main" lang="chi" page="2:45a-45b" n="7">或以承服議啓，而物故啓隨上者有之；</sent>
+<sent type="main" lang="kor" page="2:45a-45b" n="7">혹 승복ᄒᆞᄂᆞᆫ 양으로ᄡᅥ 의계ᄒᆞ고 물고 계ᄉᆞᄅᆞᆯ 즉시 올닌 것도 잇고 </sent>
+<!--혹 ^ 승-->
+</pages>
+
+<pages n="2:45b">
+<img n="2:45b">https://kohico.kr/_media/image/bookname/2:45b.jpg</img>
+<sent type="main" lang="chi" page="2:45b" n="1">或以他罪人拿來間停刑爲啓，而旋以承服結案書出者有之；</sent>
+<sent type="main" lang="kor" page="2:45b" n="1">혹 다ᄅᆞᆫ 죄인 나ᄅᆡ간 뎡형ᄒᆞ므로 계ᄉᆞᄒᆞ고 즉시 승복 결안으로 ᄡᅥ낸 것도 잇고</sent>
+<sent type="main" lang="chi" page="2:45b" n="2">或已被十餘次刑，全無知覺，</sent>
+<sent type="main" lang="kor" page="2:45b" n="2">혹 이믜 십여 ᄎᆞ 형튜ᄒᆞ여 젼혀 디각이 업ᄉᆞ되</sent>
+<sent type="main" lang="chi" page="2:45b" n="3">而若其所謂承服之招，則縷縷詳悉，決非垂死人之言者有之。</sent>
+<sent type="main" lang="kor" page="2:45b" n="3">소위 승복ᄒᆞᆫ 툐ᄉᆞᄂᆞᆫ 누누히 ᄌᆞ셔ᄒᆞ야 결단코 죽어가ᄂᆞᆫ 사ᄅᆞᆷ의 말 ᄀᆞᆺ디 아닌 말도 이시니</sent>
+<sent type="main" lang="chi" page="2:45b" n="4">凡此數款，極涉殊常，中外疑惑，至今未已。</sent>
+<sent type="main" lang="kor" page="2:45b" n="4">무릇 이 두어 가디 극히 슈샹ᄒᆞ여 듕외예 의혹이 지금 마디 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:45b" n="5">誣告情節，今方究問，</sent>
+<sent type="main" lang="kor" page="2:45b" n="5">무고ᄒᆞᆫ 졍졀을 이제 ᄇᆞ야흐로 구문ᄒᆞᆫ즉</sent>
+<sent type="main" lang="chi" page="2:45b-46a" n="6">則此等敎誘粧撰之跡，亦不可不明覈。</sent>
+<sent type="main" lang="kor" page="2:45b-46a" n="6">이런 교유 장찬ᄒᆞᆫ 자최ᄅᆞᆯ ᄯᅩᄒᆞᆫ 가히 명ᄒᆡᆨ디 아니티 못ᄒᆞ리니</sent>
+<!--아^니-->
+</pages>
+
+<pages n="2:46a">
+<img n="2:46a">https://kohico.kr/_media/image/bookname/2:46a.jpg</img>
+<sent type="main" lang="chi" page="2:46a" n="1">請令鞫廳摘發其可疑者，</sent>
+<sent type="main" lang="kor" page="2:46a" n="1">쳥컨대 국텽으로 ᄒᆞ여곰 그 가히 의심된 쟈ᄅᆞᆯ 뎍발ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:46a" n="2">考其日子，其日執事書吏、羅將，竝嚴問得情。”</sent>
+<sent type="main" lang="kor" page="2:46a" n="2">그 일ᄌᆞᄅᆞᆯ 샹고ᄒᆞ야 그날 집ᄉᆞ 셔리 나쟝을 다 엄문 득졍ᄒᆞ여디이다</sent>
+<sent type="main" lang="chi" page="2:46a" n="3">李晩俊供：“承服議啓而物故啓隨上者，張世相也。</sent>
+<sent type="main" lang="kor" page="2:46a" n="3">니만듄이 공ᄉᆞᄒᆞ되 승복으로 의계ᄒᆞ고 물고 계ᄉᆞ 즉시 올닌 쟈ᄂᆞᆫ 댱셰샹이니</sent>
+<sent type="main" lang="chi" page="2:46a" n="4">世相累受刑，精神慌亂，問目累問，</sent>
+<sent type="main" lang="kor" page="2:46a" n="4">셰샹이 여러 번 슈형ᄒᆞ야 졍신이 황난ᄒᆞ여 문목을 여러 번 무ᄅᆞ되</sent>
+<sent type="main" lang="chi" page="2:46a" n="5">而終不能仰對，喉間僅作遲晩之語，</sent>
+<sent type="main" lang="kor" page="2:46a" n="5">죵시 능히 ᄃᆡ답디 못ᄒᆞ고 목 안의 겨유 디만이란 말을 ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="2:46a" n="6">故以問目及遲晩二字，作爲主意，以成招辭。</sent>
+<sent type="main" lang="kor" page="2:46a" n="6">문목과 밋 디만 두 ᄌᆞ로ᄡᅥ 쥬의ᄅᆞᆯ 삼아 툐ᄉᆞᄅᆞᆯ 일오고</sent>
+<sent type="main" lang="chi" page="2:46a-46b" n="7">他罪人拿來間停刑爲啓，</sent>
+<sent type="main" lang="kor" page="2:46a-46b" n="7">다ᄅᆞᆫ 죄인 나ᄅᆡᄒᆞᆯ ᄉᆞ이의 뎡형 계ᄉᆞᄒᆞ고</sent>
+<!--형 ^ 계-->
+</pages>
+
+<pages n="2:46b">
+<img n="2:46b">https://kohico.kr/_media/image/bookname/2:46b.jpg</img>
+<sent type="main" lang="chi" page="2:46b" n="1">而旋以承服結案書出者，李宇恒也。</sent>
+<sent type="main" lang="kor" page="2:46b" n="1">즉시 승복 결안으로ᄡᅥ ᄡᅥ낸 쟈ᄂᆞᆫ 니우ᄒᆞᆼ이니</sent>
+<sent type="main" lang="chi" page="2:46b" n="2">其時他罪人未及拿來前，病勢危重，慮其徑斃，卽爲遲晩取招，</sent>
+<sent type="main" lang="kor" page="2:46b" n="2">그ᄯᅢ 다른 죄인을 미처 나ᄅᆡ티 못ᄒᆞᆫ 젼의 병셰 위듕ᄒᆞ매 경폐ᄒᆞᆯ가 념녀ᄒᆞ여 즉시 디만 ᄎᆔ툐ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="2:46b" n="3">而罪人氣息奄奄，不能成言，</sent>
+<sent type="main" lang="kor" page="2:46b" n="3">죄인의 긔식이 엄엄ᄒᆞ여 능히 말을 일오디 못ᄒᆞ매</sent>
+<sent type="main" lang="chi" page="2:46b" n="4">亦以問目及遲晩二字，作爲招辭，未及結案而物故矣。”</sent>
+<sent type="main" lang="kor" page="2:46b" n="4">ᄯᅩᄒᆞᆫ 문목과 밋 디만 두 ᄌᆞ로ᄡᅥ 툐ᄉᆞᄅᆞᆯ 삼고 미처 결안 밧디 못ᄒᆞ여 물고ᄒᆞ엿ᄂᆞ니이다</sent>
+<sent type="anno" lang="chi" page="2:46b" n="5">晩俊直招，故放諸胥隷。</sent>
+<sent type="anno" lang="kor" page="2:46b" n="5">만듄이 직툐ᄒᆞᄂᆞᆫ 고로 모든 셔예ᄅᆞᆯ 방송ᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:46b" n="6">鞫徐斗昌。</sent>
+<sent type="main" lang="kor" page="2:46b" n="6">셔두챵을 국문ᄒᆞ다</sent>
+<sent type="anno" lang="chi" page="2:46b" n="7">四月，因臺啓鞫問。</sent>
+<sent type="anno" lang="kor" page="2:46b" n="7">ᄉᆞ월의 ᄃᆡ계ᄅᆞᆯ 인ᄒᆞ여 국문ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:46b" n="8">憲府啓：“妖巫之子徐斗昌，卽賊商之傔從，必貞之至親也。</sent>
+<sent type="main" lang="kor" page="2:46b" n="8">헌뷔 계ᄉᆞᄒᆞ되 요무의 아ᄃᆞᆯ 셔두챵은 적샹의 겸죵이오 필뎡의 지친이라</sent>
+<sent type="main" lang="chi" page="2:46b-47a" n="9">向來凶黨之締結宦妾，恣行凶謀，</sent>
+<sent type="main" lang="kor" page="2:46b-47a" n="9">향ᄂᆡ의 흉당이 환쳡을 톄결ᄒᆞ야 흉모ᄅᆞᆯ 방ᄌᆞ히 ᄒᆡᆼᄒᆞᆯᄉᆡ</sent>
+<!--ᄂᆡ^의-->
+</pages>
+
+<pages n="2:47a">
+<img n="2:47a">https://kohico.kr/_media/image/bookname/2:47a.jpg</img>
+<sent type="main" lang="chi" page="2:47a" n="1">斗昌母子實爲其蹊逕，</sent>
+<sent type="main" lang="kor" page="2:47a" n="1">두챵의 모ᄌᆡ 실로 그 계경이 되여</sent>
+<sent type="main" lang="chi" page="2:47a" n="2">內外和應之陰凶情節，畢露於宇寬之招。</sent>
+<sent type="main" lang="kor" page="2:47a" n="2">ᄂᆡ외로 화응ᄒᆞ던 음흉 졍졀이 우관의 툐ᄉᆞ의 다 드러나고</sent>
+<sent type="main" lang="chi" page="2:47a" n="3">而賊商就拿之後，亦不敢諱其帶率之狀，</sent>
+<sent type="main" lang="kor" page="2:47a" n="3">적샹이 ᄎᆔ나ᄒᆞᆫ 후에 ᄯᅩᄒᆞᆫ 감히 그 ᄃᆡ솔인 줄을 은휘티 못ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:47a" n="4">則究覈斗昌，獄體當然。</sent>
+<sent type="main" lang="kor" page="2:47a" n="4">두챵을 구ᄒᆡᆨᄒᆞ미 옥톄에 당연ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:47a" n="5">而其時乍逮卽釋，端緖未露，</sent>
+<sent type="main" lang="kor" page="2:47a" n="5">그ᄯᅢ예 잠간 가텨 즉시 노히매 단졔 드러나디 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:47a" n="6">輿情憤惋，久而愈激。</sent>
+<sent type="main" lang="kor" page="2:47a" n="6">예졍이 분완ᄒᆞ여 오래도록 더옥 격ᄒᆞ오니</sent>
+<sent type="main" lang="chi" page="2:47a" n="7">請斗昌亟令拿覈。”</sent>
+<sent type="main" lang="kor" page="2:47a" n="7">쳥컨대 두챵을 ᄲᆞᆯ니 나ᄒᆡᆨᄒᆞ여디이다</sent>
+<sent type="main" lang="chi" page="2:47a" n="8">累加刑訊，杖斃。</sent>
+<sent type="main" lang="kor" page="2:47a" n="8">여러 번 형신ᄒᆞ여 댱폐ᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:47a-47b" n="9">鞫沈廷玉。廷玉，益昌之子，</sent>
+<sent type="main" lang="kor" page="2:47a-47b" n="9">심뎡옥을 국문ᄒᆞ니 뎡옥은 익챵의 아ᄃᆞᆯ이라</sent>
+<!--옥^은-->
+</pages>
+
+<pages n="2:47b">
+<img n="2:47b">https://kohico.kr/_media/image/bookname/2:47b.jpg</img>
+<sent type="main" lang="chi" page="2:47b" n="1">時益昌已死，因臺啓問廷玉。【四月】</sent>
+<sent type="main" lang="kor" page="2:47b" n="1">ᄯᅢ예 익챵이 이믜 죽어시매 ᄃᆡ계ᄅᆞᆯ 인ᄒᆞ야 뎡옥을 뭇다 【ᄉᆞ월】</sent>
+<sent type="main" lang="chi" page="2:47b" n="2">廷玉供：“臣與元徽爲異姓再從，</sent>
+<sent type="main" lang="kor" page="2:47b" n="2">뎡옥이 공ᄉᆞᄒᆞ되 신이 원휘로 더브러 이셩 ᄌᆡ죵이오니</sent>
+<sent type="main" lang="chi" page="2:47b" n="3">不可謂不知。一鏡卽臣前母之從弟。</sent>
+<sent type="main" lang="kor" page="2:47b" n="3">가히 아디 못ᄒᆞ노라 니ᄅᆞ디 못ᄒᆞᆯ 거시오 일경은 곳 신의 젼모의 죵뎨라</sent>
+<sent type="main" lang="chi" page="2:47b" n="4">一鏡少時追遊臣父，</sent>
+<sent type="main" lang="kor" page="2:47b" n="4">일경이 쇼시에 신의 부ᄅᆞᆯ 조차 노랏ᄉᆞ오나</sent>
+<sent type="main" lang="chi" page="2:47b" n="5">而所謂凶謀及辛丑十二月初六日擇日之說，臣不知矣。” </sent>
+<sent type="main" lang="kor" page="2:47b" n="5">니론바 흉ᄒᆞᆫ ᄭᅬ와 밋 신튝년 십이월 초뉵일에 ᄐᆡᆨ일ᄒᆞ단 말은 신이 아디 못ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="chi" page="2:47b" n="6">刑訊，廷玉供：“妖儉是寧邊人也。一鏡、元徽皆經寧邊府使，</sent>
+<sent type="main" lang="kor" page="2:47b" n="6">형신ᄒᆞ니 뎡옥이 공ᄉᆞᄒᆞ되 요검은 녕변 사ᄅᆞᆷ이오 일경과 원휘 다 녕변 부ᄉᆞᄅᆞᆯ 디내엿ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="2:47b-48a" n="7">故與妖儉情密者久。</sent>
+<sent type="main" lang="kor" page="2:47b-48a" n="7">요검으로 더브러 졍밀ᄒᆞ미 오래고</sent>
+<!--검^으-->
+</pages>
+
+<pages n="2:48a">
+<img n="2:48a">https://kohico.kr/_media/image/bookname/2:48a.jpg</img>
+<sent type="main" lang="chi" page="2:48a" n="1">辛丑七月晦間夜三更許，尙儉家忽映火光，有開大門聲，</sent>
+<sent type="main" lang="kor" page="2:48a" n="1">신튝 칠월 회간 밤 삼경냥의 샹검의 집의 홀연 블빗치 비최고 대문 여ᄂᆞᆫ 소ᄅᆡ 잇더니</sent>
+<sent type="main" lang="chi" page="2:48a" n="2">追後聞之，則一鏡來也。</sent>
+<sent type="main" lang="kor" page="2:48a" n="2">튜후ᄒᆞ여 드ᄅᆞ니 일경이 왓더라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:48a" n="3">蓋一鏡之如是往來，非止一再矣。”</sent>
+<sent type="main" lang="kor" page="2:48a" n="3">대개 일경이 이텨로 왕ᄂᆡᄒᆞ기 ᄒᆞᆫ두 번이 아니니이다</sent>
+<sent type="main" lang="chi" page="2:48a" n="4">加刑，廷玉供：“臣問尙儉曰：‘金參議卽朝士，何故來耶？’</sent>
+<sent type="main" lang="kor" page="2:48a" n="4">가형ᄒᆞ니 뎡옥이 공ᄉᆞᄒᆞ되 신이 샹검ᄃᆞ려 므ᄅᆞᄃᆡ 김 참의ᄂᆞᆫ 됴ᄉᆡ라 무ᄉᆞᆷ 연고로 오ᄂᆞ뇨 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:48a" n="5">尙儉曰：‘金參議言：「吾方欲應旨陳疏，批答何以則速下？</sent>
+<sent type="main" lang="kor" page="2:48a" n="5">샹검이 ᄀᆞᆯ오되 김 참의 니ᄅᆞ되 내 ᄇᆞ야흐로 응지ᄒᆞ여 딘소코뎌 ᄒᆞ니 비답을 엇디ᄒᆞ면 ᄲᆞᆯ니 ᄂᆞ리게 ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="2:48a-48b" n="6">若遲下則事無益矣。」</sent>
+<sent type="main" lang="kor" page="2:48a-48b" n="6">만일 더듸 ᄂᆞ린즉 일이 무익ᄒᆞ리라 ᄒᆞ거ᄂᆞᆯ</sent>
+<!--익^ᄒᆞ-->
+</pages>
+
+<pages n="2:48b">
+<img n="2:48b">https://kohico.kr/_media/image/bookname/2:48b.jpg</img>
+<sent type="main" lang="chi" page="2:48b" n="1">吾曰「城主分付如此，若預知疏入時，</sent>
+<sent type="main" lang="kor" page="2:48b" n="1">내 ᄀᆞᆯ오되 셩쥬 분뷔 이러ᄒᆞ니 만일 샹소 들 ᄯᅢᄅᆞᆯ 미리 알게 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="2:48b" n="2">則出納之際，當有周旋之道」云矣。’</sent>
+<sent type="main" lang="kor" page="2:48b" n="2">츌납ᄒᆞᆯ 즈음에 맛당히 쥬션ᄒᆞᆯ 도리 이시리라 닐럿노라 ᄒᆞ더이다</sent>
+<sent type="main" lang="chi" page="2:48b" n="3">元徽以平兵下直時，臣問：</sent>
+<sent type="main" lang="kor" page="2:48b" n="3">원휘 평안 병ᄉᆞ로ᄡᅥ 하딕ᄒᆞᆯ ᄯᅢ예 신이 므ᄅᆞ되</sent>
+<sent type="main" lang="chi" page="2:48b" n="4">‘前所欲爲者，今乃爲之，果好乎？’</sent>
+<sent type="main" lang="kor" page="2:48b" n="4">젼의 ᄒᆞ고뎌 ᄒᆞ던 바ᄅᆞᆯ 이제 ᄒᆞ니 과연 됴흐냐</sent>
+<sent type="main" lang="chi" page="2:48b" n="5">徽曰：‘好矣。’ 仍曰：‘一鏡輩當局，欲蕩平天下，</sent>
+<sent type="main" lang="kor" page="2:48b" n="5">휘 ᄀᆞᆯ오되 됴해라 ᄒᆞ고 인ᄒᆞ여 ᄀᆞᆯ오되 일경ᄇᆡ 당국ᄒᆞ면 텬하ᄅᆞᆯ 탕평코뎌 ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:48b" n="6">所謂蕩平，欲盡殺老論，專用南、少矣。’</sent>
+<sent type="main" lang="kor" page="2:48b" n="6">니론바 탕평은 노론을 다 죽이고 남인 쇼론을 젼혀 ᄡᅳ고뎌 호미오</sent>
+<sent type="main" lang="chi" page="2:48b-49a" n="7">元一瑞與尙儉交結往來之狀，人孰不知？</sent>
+<sent type="main" lang="kor" page="2:48b-49a" n="7">원일셰 샹검으로 더브러 교결 왕ᄂᆡᄒᆞᄂᆞᆫ 졍상은 사ᄅᆞᆷ이 뉘 아디 못ᄒᆞ리잇고</sent>
+<!--상^은-->
+</pages>
+
+<pages n="2:49a">
+<img n="2:49a">https://kohico.kr/_media/image/bookname/2:49a.jpg</img>
+<sent type="main" lang="chi" page="2:49a" n="1">尙儉家有客，每夜來到，臣問尙儉，則曰：</sent>
+<sent type="main" lang="kor" page="2:49a" n="1">샹검의 집의 손이 이셔 ᄆᆡ양 밤의 오거ᄂᆞᆯ 신이 샹검ᄃᆞ려 무ᄅᆞᆫ즉 ᄀᆞᆯ오되</sent>
+<sent type="main" lang="chi" page="2:49a" n="2">‘元徽、尹就商、睦天任、元一瑞往來謀議，而換局後，就商爲訓將，</sent>
+<sent type="main" lang="kor" page="2:49a" n="2">원휘 윤ᄎᆔ샹 목텬임 원일셰 왕ᄂᆡᄒᆞ여 모의ᄒᆞ되 환국 후에 ᄎᆔ샹은 훈쟝을 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:49a" n="3">元徽爲平兵，睦天任速爲陞遷，且復其祖官爵等事。’</sent>
+<sent type="main" lang="kor" page="2:49a" n="3">원휘ᄂᆞᆫ 평안 병ᄉᆞᄅᆞᆯ ᄒᆞ고 목텬임은 즉시 승쳔ᄒᆞ고 ᄯᅩ 제 한아비 복관쟉ᄒᆞᆯ 일이라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:49a" n="4">此乃辛丑至月後臘月初間事也。”</sent>
+<sent type="main" lang="kor" page="2:49a" n="4">이거시 신튝 지월 휘오 납월 초간 일이로소이다</sent>
+<sent type="main" lang="chi" page="2:49a" n="5">因廷玉招問廷玉弟廷紳，更推廷玉。</sent>
+<sent type="main" lang="kor" page="2:49a" n="5">뎡옥의 툐ᄉᆞ로 인ᄒᆞ여 그 아ᄋᆞ 뎡신을 국문ᄒᆞ고 뎡옥을 ᄀᆡᆼ튜ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:49a-49b" n="6">廷玉供：“辛丑至月晦臘月初，臣謂尙儉曰：</sent>
+<sent type="main" lang="kor" page="2:49a-49b" n="6">공ᄉᆞᄒᆞ되 신튝 지월 금음ᄭᅴ 납월 초ᄉᆡᆼ의 신이 샹검ᄃᆞ려 닐너 ᄀᆞᆯ오되</sent>
+<!--검^ᄃᆞ-->
+</pages>
+
+<pages n="2:49b">
+<img n="2:49b">https://kohico.kr/_media/image/bookname/2:49b.jpg</img>
+<sent type="main" lang="chi" page="2:49b" n="1">‘就商、徽等所圖之事，旣是重大，</sent>
+<sent type="main" lang="kor" page="2:49b" n="1">ᄎᆔ샹과 원휘 등 도모ᄒᆞᄂᆞᆫ 일이 이믜 듕대ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:49b" n="2">所與同議者，必不止四五人，汝須言之。’</sent>
+<sent type="main" lang="kor" page="2:49b" n="2">더브러 ᄒᆞᆫ가디로 의논ᄒᆞᄂᆞᆫ 밧 쟤 반ᄃᆞ시 ᄉᆞ오 인ᄲᅮᆫ이 아니리니 네 모로미 니ᄅᆞ라</sent>
+<sent type="main" lang="chi" page="2:49b" n="3">尙儉曰：‘金參議言圖得疏批之外，疏下六人，必須竝卽除職之意，縷縷懇托矣。’”</sent>
+<sent type="main" lang="kor" page="2:49b" n="3">샹검이 ᄀᆞᆯ오되 김 참의 니ᄅᆞ되 소비도 득ᄒᆞᆯ 밧긔 소하 뉵 인을 반ᄃᆞ시 다 즉시 벼ᄉᆞᆯᄒᆞ일 ᄯᅳᆺ으로 누누히 ᄀᆞᆫ탁ᄒᆞ더라 ᄒᆞ더이다</sent>
+<sent type="main" lang="chi" page="2:49b" n="4">將加刑，廷玉供：“辛丑九月間，一鏡以書邀臣，</sent>
+<sent type="main" lang="kor" page="2:49b" n="4">쟝ᄎᆞᆺ 가형ᄒᆞᆯᄉᆡ 뎡옥이 공ᄉᆞᄒᆞ되 신튝 구월 ᄉᆞ이예 일경이 글로ᄡᅥ 신을 쳥ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:49b" n="5">其後數日，臣果與尙儉偕到一鏡家。</sent>
+<sent type="main" lang="kor" page="2:49b" n="5">그 후 두어 날 만의 신이 과연 샹검으로 더브러 일경의 집의 ᄒᆞᆫ가디로 가오니</sent>
+<sent type="main" lang="chi" page="2:49b-50a" n="6">一鏡曰：‘以吾之文，製疏以進，</sent>
+<sent type="main" lang="kor" page="2:49b-50a" n="6">일경이 ᄀᆞᆯ오ᄃᆡ 내 글로ᄡᅥ 샹소ᄅᆞᆯ 지어 밧티고</sent>
+<!--일^경-->
+</pages>
+
+<pages n="2:50a">
+<img n="2:50a">https://kohico.kr/_media/image/bookname/2:50a.jpg</img>
+<sent type="main" lang="chi" page="2:50a" n="1">而少有尙儉之周旋，則豈有不成之事乎？’</sent>
+<sent type="main" lang="kor" page="2:50a" n="1">샹검의 쥬션ᄒᆞ미 져기 이ᄉᆞ면 엇디 일오디 못ᄒᆞᆯ 일이 이ᄉᆞ리오 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:50a" n="2">臣與尙儉笑曰：‘令監之言皆好矣。’</sent>
+<sent type="main" lang="kor" page="2:50a" n="2">신이 샹검으로 더브러 우어 ᄀᆞᆯ오ᄃᆡ 녕감 말이 다 됴타 ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:50a" n="3">其後臣與尙儉偕往一鏡家爲三矣，</sent>
+<sent type="main" lang="kor" page="2:50a" n="3">그 후에 신이 샹검으로 더브러 일경의 집의 ᄒᆞᆫ가디로 가기 세 번이오</sent>
+<sent type="main" lang="chi" page="2:50a" n="4">一鏡來尙儉家累矣。</sent>
+<sent type="main" lang="kor" page="2:50a" n="4">일경이 샹검의 집의 오기ᄂᆞᆫ 여러 번이오</sent>
+<sent type="main" lang="chi" page="2:50a" n="5">臣與一鏡同會尙儉家爲一矣，</sent>
+<sent type="main" lang="kor" page="2:50a" n="5">신이 일경으로 더브러 샹검의 집의 ᄒᆞᆫ가디로 모히기ᄂᆞᆫ ᄒᆞᆫ 번이오</sent>
+<sent type="main" lang="chi" page="2:50a" n="6">一鏡之來訪臣家亦一矣。</sent>
+<sent type="main" lang="kor" page="2:50a" n="6">일경이 신의 집의 ᄎᆞᆺ기도 ᄯᅩ ᄒᆞᆫ 번이오니</sent>
+<sent type="main" lang="chi" page="2:50a-50b" n="7">前後聚會謀議皆是疏批速下，</sent>
+<sent type="main" lang="kor" page="2:50a-50b" n="7">젼후의 뫼혀 모의ᄒᆞ기ᄂᆞᆫ 다 소비ᄅᆞᆯ 쉬이 ᄂᆞ리오고</sent>
+<!--ᄂᆞ^리-->
+</pages>
+
+<pages n="2:50b">
+<img n="2:50b">https://kohico.kr/_media/image/bookname/2:50b.jpg</img>
+<sent type="main" lang="chi" page="2:50b" n="1">換局速成之事而已。</sent>
+<sent type="main" lang="kor" page="2:50b" n="1">환국을 쉬이 일오게 ᄒᆞᆯ 일 ᄯᆞᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="2:50b" n="2">一鏡之疏乃其肯綮，</sent>
+<sent type="main" lang="kor" page="2:50b" n="2">일경의 샹소ᄂᆞᆫ 이에 그 긍경이오</sent>
+<sent type="main" lang="chi" page="2:50b" n="3">而在內主張圖出疏批者，尙儉也。</sent>
+<sent type="main" lang="kor" page="2:50b" n="3">안ᄒᆡ 이셔 쥬댱ᄒᆞ야 소비ᄅᆞᆯ 도츌ᄒᆞ니ᄂᆞᆫ 샹검이오</sent>
+<sent type="main" lang="chi" page="2:50b" n="4">凡老論疏章，欲爲從中沮遏，</sent>
+<sent type="main" lang="kor" page="2:50b" n="4">무ᄅᆞᆺ 노론의 소쟝을 죵듕ᄒᆞ여 막고뎌 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:50b" n="5">而主張此事者，有道也。”</sent>
+<sent type="main" lang="kor" page="2:50b" n="5">이 일 쥬댱ᄒᆞᄂᆞ니ᄂᆞᆫ 유되니이다</sent>
+<sent type="main" lang="chi" page="2:50b" n="6">加刑，廷玉供：“辛丑十月初二日夜初昏，臣往尙儉家，</sent>
+<sent type="main" lang="kor" page="2:50b" n="6">가형ᄒᆞ니 뎡옥이 공ᄉᆞᄒᆞ되 신튝 십월 초이일 초혼에 신이 샹검의 집의 가니</sent>
+<sent type="main" lang="chi" page="2:50b" n="7">尙儉方與一人坐於門左邊軒上，密密相語。</sent>
+<sent type="main" lang="kor" page="2:50b" n="7">샹검이 ᄇᆞ야흐로 ᄒᆞᆫ 사ᄅᆞᆷ으로 더브러 문 좌편 마루의 안자 밀밀히 서로 말ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:50b" n="8">臣曰：‘汝與誰相語，至夜深耶？’</sent>
+<sent type="main" lang="kor" page="2:50b" n="8">신이 ᄀᆞᆯ오ᄃᆡ 네 눌로 더브러 밤드도록 서로 말ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="chi" page="2:50b-51a" n="9">尙儉曰：‘吾與前所云尹先達【蓋以隱語指就商】相語矣。’</sent>
+<sent type="main" lang="kor" page="2:50b-51a" n="9">샹검이 ᄀᆞᆯ오ᄃᆡ 내 젼에 니ᄅᆞ던바 윤 션달【대개 은어로ᄡᅥ ᄎᆔ샹을 ᄀᆞᄅᆞ티미라】로 더브러 서로 말ᄒᆞ노라</sent>
+<!--ᄃᆡ ^ 내-->
+</pages>
+
+<pages n="2:51a">
+<img n="2:51a">https://kohico.kr/_media/image/bookname/2:51a.jpg</img>
+<sent type="main" lang="chi" page="2:51a" n="1">就商先去，臣遂起來。</sent>
+<sent type="main" lang="kor" page="2:51a" n="1">ᄎᆔ샹이 몬뎌 가고 신이 드ᄃᆡ여 니러 오니</sent>
+<sent type="main" lang="chi" page="2:51a" n="2">尙儉以切勿宣泄之意，握手申戒矣。”</sent>
+<sent type="main" lang="kor" page="2:51a" n="2">샹검이 일졀 누셜티 말 ᄯᅳᆺ으로 손을 잡고 신신히 당부ᄒᆞ더이다</sent>
+<sent type="main" lang="chi" page="2:51a" n="3">後命廷玉減死島配，廷紳定配。</sent>
+<sent type="main" lang="kor" page="2:51a" n="3">후에 명ᄒᆞ오샤 뎡옥은 감ᄉᆞ 도ᄇᆡᄒᆞ고 뎡신은 뎡ᄇᆡᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:51a" n="4">鞫尹就商。【五月】鞫廳啓：</sent>
+<sent type="main" lang="kor" page="2:51a" n="4">윤ᄎᆔ샹을 국문ᄒᆞᆯᄉᆡ 【오월】 국텽이 계ᄉᆞᄒᆞ되</sent>
+<sent type="main" lang="chi" page="2:51a" n="5">“罪人尹就商之招因巫女締結石烈一款，以宇寬之其時誣服爲自明之端，</sent>
+<sent type="main" lang="kor" page="2:51a" n="5">죄인 윤ᄎᆔ샹의 툐ᄉᆞ의 무녀ᄅᆞᆯ 인ᄒᆞ여 셕녈 톄결ᄒᆞᆫ 일관은 우관의 그ᄯᅢ 무복으로ᄡᅥ ᄌᆞ명ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="2:51a" n="6">其言不足取信。</sent>
+<sent type="main" lang="kor" page="2:51a" n="6">그 말을 죡히 ᄎᆔ신티 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:51a-51b" n="7">尙儉家往來聚會事，縷縷發明，別無指的。</sent>
+<sent type="main" lang="kor" page="2:51a-51b" n="7">샹검의 집의 왕ᄂᆡ ᄎᆔ회ᄒᆞ던 일은 누누히 발명ᄒᆞ나 별로 지뎍ᄒᆞ미 업고</sent>
+<!--일^은-->
+</pages>
+
+<pages n="2:51b">
+<img n="2:51b">https://kohico.kr/_media/image/bookname/2:51b.jpg</img>
+<sent type="main" lang="chi" page="2:51b" n="1">其所以爲緊證者，以病廢出入爲言，</sent>
+<sent type="main" lang="kor" page="2:51b" n="1">그 ᄡᅥ 긴증을 삼으미 병폐 츌입으로 말을 ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="2:51b" n="2">而辛丑以後，累年從仕，出入無碍，則病廢云者全不成說。</sent>
+<sent type="main" lang="kor" page="2:51b" n="2">신튝 이후에 여러 ᄒᆡ 벼ᄉᆞᆯᄒᆞ여 츌입에 방애ᄒᆞ미 업ᄉᆞᆫ즉 병폐라 니ᄅᆞ미 젼혀 말이 되디 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:51b" n="3">且明白發告者，廷玉，而不請與廷玉面質，</sent>
+<sent type="main" lang="kor" page="2:51b" n="3">ᄯᅩ 명ᄇᆡᆨ히 고ᄒᆞᆫ 쟤 뎡옥이여ᄂᆞᆯ 뎡옥으로 더브러 면질ᄒᆞ기ᄅᆞᆯ 쳥티 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:51b" n="4">欲與廷玉之諸弟對辨者，必知其敎誘變辭之曲折，</sent>
+<sent type="main" lang="kor" page="2:51b" n="4">뎡옥의 모든 아ᄋᆞ로 더브러 ᄃᆡ변코뎌 ᄒᆞ미 반ᄃᆞ시 교유ᄒᆞ야 변ᄉᆞᄒᆞᆫ 곡졀을 알고</sent>
+<sent type="anno" lang="chi" page="2:51b" n="5">而【時廷紳書通廷玉，使之變辭。】</sent>
+<sent type="anno" lang="kor" page="2:51b" n="5">ᄯᅢ예 뎡신이 편지로 뎡옥의게 통ᄒᆞ여 ᄒᆞ여곰 변ᄉᆞᄒᆞ라 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:51b-52a" n="6">爲此圖脫之計。請以此發問目，更推。”</sent>
+<sent type="main" lang="kor" page="2:51b-52a" n="6">일로 도모ᄒᆞ여 버서날 계교ᄅᆞᆯ ᄒᆞ니 쳥컨대 일로ᄡᅥ 문목을 내여 ᄀᆡᆼ튜ᄒᆞ야디이다</sent>
+<!--여 ^ ᄀᆡᆼ-->
+</pages>
+
+<pages n="2:52a">
+<img n="2:52a">https://kohico.kr/_media/image/bookname/2:52a.jpg</img>
+<sent type="main" lang="chi" page="2:52a" n="1">傳敎有曰：“觀此所供，其爲自明，都不成說。</sent>
+<sent type="main" lang="kor" page="2:52a" n="1">뎐교의 ᄀᆞᆯᄋᆞ샤ᄃᆡ 이 공ᄉᆞᄒᆞᆫ 바ᄅᆞᆯ 보니 그 ᄌᆞ명ᄒᆞ미 다 말이 되디 못ᄒᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:52a" n="2">廷玉之初問也，不擧某人之名，</sent>
+<sent type="main" lang="kor" page="2:52a" n="2">뎡옥을 처음 무ᄅᆞᆯ 제 아모 사ᄅᆞᆷ의 일홈도 거더디 아니ᄒᆞ여셔</sent>
+<sent type="main" lang="chi" page="2:52a" n="3">而渠自納供數人，而就商之名亦在其中。</sent>
+<sent type="main" lang="kor" page="2:52a" n="3">제 스ᄉᆞ로 두어 사ᄅᆞᆷ을 납공ᄒᆞᆫ 듸 ᄎᆔ샹의 일홈이 ᄯᅩᄒᆞᆫ 그듕의 잇고</sent>
+<sent type="main" lang="chi" page="2:52a" n="4">以伊時事言之，其所脈絡與逆鏡相符，</sent>
+<sent type="main" lang="kor" page="2:52a" n="4">그ᄯᅢ 일로ᄡᅥ 닐러도 그 ᄆᆡᆨ낙이 역경으로 더브러 서로 부합ᄒᆞ거ᄂᆞᆯ</sent>
+<!--'더브리'의 '리'는 문맥과 한자 '與'를 언해한 것이므로 '러'의 탈획이 확실하여 '더브러'로 수정함-->
+<sent type="main" lang="chi" page="2:52a" n="5">而今乃不知妖儉之在於何洞、門在何處之說，極涉凶狡。</sent>
+<sent type="main" lang="kor" page="2:52a" n="5">이제 요검이 어ᄂᆡ 골 이시며 문이 어ᄂᆡ 곳 잇ᄂᆞᆫ 줄을 아디 못ᄒᆞ노란 말이 극히 흉교ᄒᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:52a-52b" n="6">渠以世祿之臣，身居將臣，不思報國之道，</sent>
+<sent type="main" lang="kor" page="2:52a-52b" n="6">제 셰록지신으로 몸이 쟝신의 이셔 나라 갑흘 도리ᄅᆞᆯ ᄉᆡᆼ각디 아니ᄒᆞ고</sent>
+<!--ᄉᆡᆼ^각-->
+</pages>
+
+<pages n="2:52b">
+<img n="2:52b">https://kohico.kr/_media/image/bookname/2:52b.jpg</img>
+<sent type="main" lang="chi" page="2:52b" n="1">敢生患得之計，與一小豎綢繆謀議。</sent>
+<sent type="main" lang="kor" page="2:52b" n="1">감히 환득ᄒᆞᆯ 계교ᄅᆞᆯ 내여 ᄒᆞᆫ 쇼슈로 더브러 쥬규히 모의ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:52b" n="2">患得之心，推之於大聖人斷案如何？</sent>
+<sent type="main" lang="kor" page="2:52b" n="2">환득ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ을 대셩인 단안에 미뢰면 엇더ᄒᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:52b" n="3">此正是可忍之類也。</sent>
+<sent type="main" lang="kor" page="2:52b" n="3">이 졍히 이ᄅᆞᆯ 가히 ᄎᆞᆷ아 ᄒᆞᆯ ᄂᆔ니</sent>
+<sent type="main" lang="chi" page="2:52b" n="4">今以推問於渠者絶痛，表裏綢繆之狀與國朝所無之事，</sent>
+<sent type="main" lang="kor" page="2:52b" n="4">이제 제게 튜문호미 표리 쥬규ᄒᆞᆫ 졍상과 국됴의 업ᄂᆞᆫ바 일을 졀통히 너기미니</sent>
+<sent type="main" lang="chi" page="2:52b" n="5">不待究問，而直爲正法，渠何冤屈？</sent>
+<sent type="main" lang="kor" page="2:52b" n="5">구문을 기ᄃᆞ리디 아니ᄒᆞ고 바로 졍법ᄒᆞ나 제 엇디 원굴ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:52b" n="6">若復牢諱，不爲吐實，則三尺之法，不用於就商，而復用於何人乎？</sent>
+<sent type="main" lang="kor" page="2:52b" n="6">만일 다시 뇌휘ᄒᆞ고 토실ᄒᆞ디 아니ᄒᆞ면 삼쳑법을 ᄎᆔ샹의게 ᄡᅳ디 아니ᄒᆞ고 다시 엇더ᄒᆞᆫ 사ᄅᆞᆷ의게 ᄡᅳ리오</sent>
+<sent type="main" lang="chi" page="2:52b-53a" n="7">嚴加盤問。而廷玉之只言往來之人，</sent>
+<sent type="main" lang="kor" page="2:52b-53a" n="7">엄히 반문ᄒᆞ기ᄅᆞᆯ 더ᄒᆞ되 뎡옥은 다만 왕ᄂᆡᄒᆞᆫ 사ᄅᆞᆷ만 니ᄅᆞ고</sent>
+<!--ᄒᆞ^되-->
+</pages>
+
+<pages n="2:53a">
+<img n="2:53a">https://kohico.kr/_media/image/bookname/2:53a.jpg</img>
+<sent type="main" lang="chi" page="2:53a" n="1">而與渠綢繆之狀，不爲吐實，果如啓辭，</sent>
+<sent type="main" lang="kor" page="2:53a" n="1">저와 쥬규ᄒᆞᆫ 졍상은 토실티 아니ᄒᆞ미 과연 계ᄉᆞ ᄀᆞᄐᆞ니</sent>
+<sent type="main" lang="chi" page="2:53a" n="2">更爲嚴問，而若不直招，則更加嚴訊事，分付。”</sent>
+<sent type="main" lang="kor" page="2:53a" n="2">다시 엄문ᄒᆞ되 만일 딕툐티 아니커든 다시 엄신ᄒᆞᆯ 줄을 분부ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:53a" n="3">更推就商，廷玉、就商面質。</sent>
+<sent type="main" lang="kor" page="2:53a" n="3">ᄎᆔ샹을 ᄀᆡᆼ튜ᄒᆞ고 뎡옥 ᄎᆔ샹이 면질ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="2:53a" n="4">鞫廳議啓就商請刑推。答曰：“依啓。</sent>
+<sent type="main" lang="kor" page="2:53a" n="4">국텽이 의계ᄒᆞ여 ᄎᆔ샹을 형튜ᄒᆞ믈 쳥ᄒᆞᆫ대 답 왈 의계ᄒᆞ라 ᄒᆞ오시고</sent>
+<sent type="main" lang="chi" page="2:53a" n="5">就商以白首武弁，累經將任，</sent>
+<sent type="main" lang="kor" page="2:53a" n="5">ᄎᆔ샹이 ᄇᆡᆨ슈 무변으로ᄡᅥ 여러 번 쟝임을 디내고</sent>
+<sent type="main" lang="chi" page="2:53a" n="6">又至正卿，則於分足矣。</sent>
+<sent type="main" lang="kor" page="2:53a" n="6">ᄯᅩ 졍경에 니ᄅᆞᆫ즉 분에 죡ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:53a" n="7">有何不足之心，而忘國恩之難酬，</sent>
+<sent type="main" lang="kor" page="2:53a" n="7">므ᄉᆞᆷ 부죡ᄒᆞᆫ ᄆᆞᄋᆞᆷ이 이셔 나라 은혜 갑기 어려온 줄을 닛고</sent>
+<sent type="main" lang="chi" page="2:53a-53b" n="8">生患失之鄙志，暗附逆鏡，</sent>
+<sent type="main" lang="kor" page="2:53a-53b" n="8">환실ᄒᆞᄂᆞᆫ 더러온 ᄯᅳᆺ을 내여 역경의게 ᄀᆞ마니 붓좃고</sent>
+<!--ᄯᅳᆺ^을-->
+</pages>
+
+<pages n="2:53b">
+<img n="2:53b">https://kohico.kr/_media/image/bookname/2:53b.jpg</img>
+<sent type="main" lang="chi" page="2:53b" n="1">潛結妖儉，起無前之變怪，亂國家之三尺？</sent>
+<sent type="main" lang="kor" page="2:53b" n="1">요검을 ᄀᆞ마니 톄결ᄒᆞ여 무젼ᄒᆞᆫ 변괴을 니르혀 국가에 삼쳑을 어즈러이니</sent>
+<sent type="main" lang="chi" page="2:53b" n="2">其心如此，甚事不做？</sent>
+<sent type="main" lang="kor" page="2:53b" n="2">그 ᄆᆞᄋᆞᆷ이 이러ᄐᆞᆺ ᄒᆞ고 무ᄉᆞᆷ 일을 짓디 못ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:53b" n="3">何待面質而後可知逆節，</sent>
+<sent type="main" lang="kor" page="2:53b" n="3">엇디 면질을 기ᄃᆞ린 후에 역졀을 가히 알니오</sent>
+<sent type="main" lang="chi" page="2:53b" n="4">而日昨下敎，蓋出曲恕，則嚴問之下，終不吐實。</sent>
+<sent type="main" lang="kor" page="2:53b" n="4">일작 하교ᄂᆞᆫ 대개 곡진히 용셔ᄒᆞ기로 낫거ᄂᆞᆯ 엄문지하의 죵시 토실티 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:53b" n="5">今於廷玉以目覩爲說，則非比所聞者，而尙不吐實。</sent>
+<sent type="main" lang="kor" page="2:53b" n="5">이제 뎡옥이 눈으로 보앗노라 말을 ᄒᆞᆫ즉 소문에 비티 못ᄒᆞ려든 오히려 토실티 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:53b-54a" n="6">若不嚴處，則無以懲亂賊，亦何防後弊乎？</sent>
+<sent type="main" lang="kor" page="2:53b-54a" n="6">만일 엄쳐티 아니ᄒᆞ면 난적을 딩계티 못ᄒᆞᆯ 거시오 ᄯᅩ 엇디 후폐ᄅᆞᆯ 막으리오</sent>
+<!--디 ^ 후-->
+</pages>
+
+<pages n="2:54a">
+<img n="2:54a">https://kohico.kr/_media/image/bookname/2:54a.jpg</img>
+<sent type="main" lang="chi" page="2:54a" n="1">各別嚴刑，期於取服。”</sent>
+<sent type="main" lang="kor" page="2:54a" n="1">각별이 엄형ᄒᆞ여 긔어ᄎᆔ복ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:54a" n="2">累加刑訊，尋物故。</sent>
+<sent type="main" lang="kor" page="2:54a" n="2">여러 번 형신ᄒᆞ야 물고ᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:54a" n="3">兩司啓：“世良辛丑之疏，逆心彰著。</sent>
+<sent type="main" lang="kor" page="2:54a" n="3">냥ᄉᆡ 계ᄉᆞᄒᆞ되 셰량의 신튝년 샹소ᄂᆞᆫ 역심이 챵져ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:54a" n="4">其所謂‘天無二日’、‘陰移天位’等說，窮凶絶慝，肆然誣逼於不敢言之地，</sent>
+<sent type="main" lang="kor" page="2:54a" n="4">그 니론바 텬무이일 음이텬위란 말이 궁흉 졀특ᄒᆞ야 ᄉᆞ연히 불감언지디의 무핍ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:54a" n="5">實與鏡、虎兩賊根株相連，脈絡相貫，通天之罪，本無異同。</sent>
+<sent type="main" lang="kor" page="2:54a" n="5">실로 경호 냥적으로 더브러 근ᄃᆔ 서로 년ᄒᆞ고 ᄆᆡᆨ낙이 서로 ᄭᅦ여 통텬ᄒᆞᆫ 죄 본ᄃᆡ 이동이 업ᄉᆞ되</sent>
+<sent type="main" lang="chi" page="2:54a" n="6">而莫施兩觀之誅，遽斃牖戶之下，神人之憤，庸有極哉？</sent>
+<sent type="main" lang="kor" page="2:54a" n="6">냥관의 베히믈 베프디 못ᄒᆞ여 믄득 유하의 죽으니 신인의 분이 엇디 극ᄒᆞ미 이시리잇고</sent>
+<sent type="main" lang="chi" page="2:54a-54b" n="7">今雖不能肆其尸於市朝，若其孥籍一款，係是當施之律，</sent>
+<sent type="main" lang="kor" page="2:54a-54b" n="7">이제 비록 그 죽엄을 시됴의 버리디 못ᄒᆞ여시나 노젹일관은 맛당히 베플 뉼이니</sent>
+<!--됴^의-->
+</pages>
+
+<pages n="2:54b">
+<img n="2:54b">https://kohico.kr/_media/image/bookname/2:54b.jpg</img>
+<sent type="main" lang="chi" page="2:54b" n="1">斷不可以其身之已骨而廢之。</sent>
+<sent type="main" lang="kor" page="2:54b" n="1">그 몸이 이믜 죽으므로ᄡᅥ 폐티 못ᄒᆞᆯ디라</sent>
+<sent type="main" lang="chi" page="2:54b" n="2">請命有司亟行世良孥籍之典，以伸王法。”</sent>
+<sent type="main" lang="kor" page="2:54b" n="2">쳥컨대 유ᄉᆞᄅᆞᆯ 명ᄒᆞ샤 셰량의 노젹ᄒᆞᄂᆞᆫ 법을 ᄲᆞᆯ니 ᄒᆡᆼᄒᆞ야 ᄡᅥ 왕법을 펴오쇼셔</sent>
+<!--'ᄲᆞᆯ니'의 '니'는 '나'처럼 보이나 '니'로 수정함-->
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:54b" n="3">備忘記：</sent>
+<sent type="main" lang="kor" page="2:54b" n="3">비망긔라</sent>
+<sent type="main" lang="chi" page="2:54b" n="4">“噫！昔年先朝處分至嚴且明，</sent>
+<sent type="main" lang="kor" page="2:54b" n="4">희라 셕년 션됴 쳐분이 지극히 엄ᄒᆞ고 ᄯᅩ ᄇᆞᆯ그시미</sent>
+<sent type="main" lang="chi" page="2:54b" n="5">而大行朝繼述之意，藹然於絲綸之間，</sent>
+<sent type="main" lang="kor" page="2:54b" n="5">대ᄒᆡᆼ됴 계슐ᄒᆞ오시ᄂᆞᆫ ᄯᅳᆺ이 ᄉᆞ륜 ᄉᆞ이에 애연ᄒᆞ오시되</sent>
+<sent type="main" lang="chi" page="2:54b" n="6">而逞憾之輩恣意網打，構誣大臣、廷臣於惡逆之科。</sent>
+<sent type="main" lang="kor" page="2:54b" n="6">녕감ᄒᆞᄂᆞᆫ 무리 ᄯᅳᆺ을 방ᄌᆞ히 망타ᄒᆞ야 대신 뎡신을 악역과에 구무ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:54b" n="7">噫嘻痛矣！黨錮害人，何代無之，</sent>
+<sent type="main" lang="kor" page="2:54b" n="7">희희통의라 당괴 해인ᄒᆞ미 어ᄂᆡ ᄃᆡ예 업ᄉᆞ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:54b-55a" n="8">而未有如此輩之毒手。</sent>
+<sent type="main" lang="kor" page="2:54b-55a" n="8">ᄎᆞᄇᆡ 독슈 ᄀᆞᄐᆞ니 잇디 아니ᄒᆞ니</sent>
+<!--ᄎᆞ^ᄇᆡ-->
+</pages>
+
+<pages n="2:55a">
+<img n="2:55a">https://kohico.kr/_media/image/bookname/2:55a.jpg</img>
+<sent type="main" lang="chi" page="2:55a" n="1">若非大行朝至仁盛德，則於廷臣，保生者其幾人耶？</sent>
+<sent type="main" lang="kor" page="2:55a" n="1">만일 대ᄒᆡᆼ됴 지인 셩덕이 아니오시면 됴뎡 신해 보젼ᄒᆞ야 살 니 그 몃 사ᄅᆞᆷ이리오</sent>
+<sent type="main" lang="chi" page="2:55a" n="2">逆鏡倡之於先爲前鋒，賊虎應之於後爲聲援。</sent>
+<sent type="main" lang="kor" page="2:55a" n="2">역경은 몬뎌 챵ᄒᆞ야 젼봉이 되고 적호ᄂᆞᆫ 뒤ᄒᆡ 응ᄒᆞ야 셩원이 되고</sent>
+<sent type="main" lang="chi" page="2:55a" n="3">其間十一人事發啓者，乃鏡、虎之掎角也，至於妖儉，是鏡、虎之爪牙也。</sent>
+<sent type="main" lang="kor" page="2:55a" n="3">그ᄉᆞ이 열ᄒᆞᆫ 사ᄅᆞᆷ의 일을 발계호믄 이에 경호의 긔각이오 요검의 니ᄅᆞ러ᄂᆞᆫ 이 경호의 조애라</sent>
+<sent type="main" lang="chi" page="2:55a" n="4">上賴祖宗朝默佑，又被大行朝至友至愛之盛意，纔除妖惡。</sent>
+<sent type="main" lang="kor" page="2:55a" n="4">우흐로 조종됴 믁우ᄒᆞ시믈 힘닙고 ᄯᅩ 대ᄒᆡᆼ됴 지우 지ᄋᆡᄒᆞ오신 셩의ᄅᆞᆯ 닙어 계유 요악을 뎨거ᄒᆞ매</sent>
+<sent type="main" lang="chi" page="2:55a-55b" n="5">一種狠毒之輩大生疑㥘，陰使虎賊遽上變辭後，</sent>
+<sent type="main" lang="kor" page="2:55a-55b" n="5">일죵 ᄒᆞᆫ독지ᄇᆡ 크게 의겁을 내여 ᄀᆞ마니 호적으로 ᄒᆞ여곰 믄득 변ᄉᆞᄅᆞᆯ 올닌 후의</sent>
+<!--'ᄒᆞᆫ독지ᄇᆡ'의 'ᄒᆞᆫ'의 'ᅟᆞ'가 탈획되어 있음-->
+<!--ᄒᆞ^여-->
+</pages>
+
+<pages n="2:55b">
+<img n="2:55b">https://kohico.kr/_media/image/bookname/2:55b.jpg</img>
+<sent type="main" lang="chi" page="2:55b" n="1">鍛鍊獄事，恣行誅戮，世間天下豈有閱歲鞫獄者哉？</sent>
+<sent type="main" lang="kor" page="2:55b" n="1">옥ᄉᆞᄅᆞᆯ 단련ᄒᆞ야 듀륙을 방ᄌᆞ히 ᄒᆡᆼᄒᆞ니 셰간 텬하의 엇디 ᄒᆡ 디나ᄂᆞᆫ 국옥이 이시리오</sent>
+<sent type="main" lang="chi" page="2:55b" n="2">吁亦慘矣！</sent>
+<sent type="main" lang="kor" page="2:55b" n="2">슬프고 ᄯᅩᄒᆞᆫ 참혹ᄒᆞ도다</sent>
+<sent type="main" lang="chi" page="2:55b" n="3">非大行朝欽恤寬大之盛澤，則其將快心而盡戮，奚至於兩年而已哉？</sent>
+<sent type="main" lang="kor" page="2:55b" n="3">대ᄒᆡᆼ됴 흠휼 관대ᄒᆞ오신 셩ᄐᆡᆨ이 아니오시면 그 쟝ᄎᆞᆺ ᄆᆞᄋᆞᆷ에 쾌히 다 죽이리니 엇디 두 ᄒᆡ의 니ᄅᆞᆯ ᄯᆞᄅᆞᆷ이리오</sent>
+<sent type="main" lang="chi" page="2:55b" n="4">旣曰‘搢紳疏’，則何只七人？</sent>
+<sent type="main" lang="kor" page="2:55b" n="4">이믜 ᄀᆞᆯ오되 진신쇠라 ᄒᆞᆫ즉 엇디 다만 닐곱 사ᄅᆞᆷ이며</sent>
+<sent type="main" lang="chi" page="2:55b" n="5">疏中所論與賊虎之言，何爲其相符耶？</sent>
+<sent type="main" lang="kor" page="2:55b" n="5">소듕의 의논ᄒᆞᆫ배 적호의 말로 더브러 엇디 서로 맛ᄂᆞ뇨</sent>
+<sent type="main" lang="chi" page="2:55b-56a" n="6">指謂此疏曰‘爲世弟者’，乃妖儉從中之說也，</sent>
+<sent type="main" lang="kor" page="2:55b-56a" n="6">이 샹소ᄅᆞᆯ ᄀᆞᄅᆞ텨 닐너 ᄀᆞᆯ오되 셰뎨ᄅᆞᆯ 위ᄒᆞ다 ᄒᆞ믄 요검의 죵듕ᄒᆞ야 ᄒᆞᄂᆞᆫ 말이니</sent>
+<!--ᄒᆞ^ᄂᆞᆫ-->
+</pages>
+
+<pages n="2:56a">
+<img n="2:56a">https://kohico.kr/_media/image/bookname/2:56a.jpg</img>
+<sent type="main" lang="chi" page="2:56a" n="1">故是予所以請其奸惡之罪於大行朝矣。</sent>
+<sent type="main" lang="kor" page="2:56a" n="1">이 나의 ᄡᅥ 간악ᄒᆞᆫ 죄ᄅᆞᆯ 대ᄒᆡᆼ됴의 쳥ᄒᆞᆫ 배라</sent>
+<sent type="main" lang="chi" page="2:56a" n="2">由此觀之，表裏相符，明若觀火。</sent>
+<sent type="main" lang="kor" page="2:56a" n="2">일로 말믜아마 보건대 표리 샹부ᄒᆞ미 명약관화ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:56a" n="3">噫嘻！四大臣以爲國之忠，慘被其誣，</sent>
+<sent type="main" lang="kor" page="2:56a" n="3">희희라 ᄉᆞ대신이 나라 위ᄒᆞᆫ 튱셩으로ᄡᅥ 그 무함ᄒᆞ믈 참혹히 닙어시매</sent>
+<sent type="main" lang="chi" page="2:56a" n="4">於今彰大行朝德意，伸大臣之冤枉。</sent>
+<sent type="main" lang="kor" page="2:56a" n="4">이제 대ᄒᆡᆼ됴 덕의ᄅᆞᆯ 챵명ᄒᆞ여 대신의 원왕ᄒᆞᆫ 거ᄉᆞᆯ 펴고</sent>
+<sent type="main" lang="chi" page="2:56a" n="5">其所誣陷諸人，竄而殛之，未爲不可，</sent>
+<sent type="main" lang="kor" page="2:56a" n="5">그 무함ᄒᆞᆫ 졔인은 찬ᄒᆞ고 극ᄒᆞ미 가티 아니티 아니ᄒᆞ되</sent>
+<sent type="main" lang="chi" page="2:56a" n="6">而予不深治者，亦有意見。</sent>
+<sent type="main" lang="kor" page="2:56a" n="6">내 깁히 다ᄉᆞ리디 아니ᄒᆞ믄 ᄯᅩᄒᆞᆫ 의견이 이시나</sent>
+<sent type="main" lang="chi" page="2:56a" n="7">然明其是非，乃人主之所管也。</sent>
+<sent type="main" lang="kor" page="2:56a" n="7">그러나 그 시비ᄅᆞᆯ ᄇᆞᆯ키기ᄂᆞᆫ 인쥬의 맛든 배라</sent>
+<sent type="main" lang="chi" page="2:56a-56b" n="8">尤不可不使中外曉然知向日奸凶誤國之事，</sent>
+<sent type="main" lang="kor" page="2:56a-56b" n="8">더옥 가히 듕외로 ᄒᆞ여곰 효연히 향일의 간흉의 오국ᄒᆞᆫ 일이</sent>
+<!--간^흉-->
+</pages>
+
+<pages n="2:56b">
+<img n="2:56b">https://kohico.kr/_media/image/bookname/2:56b.jpg</img>
+<sent type="main" lang="chi" page="2:56b" n="1">少無貽累於大行朝盛德矣。</sent>
+<sent type="main" lang="kor" page="2:56b" n="1">됴금도 대ᄒᆡᆼ됴 셩덕에 이누ᄒᆞ미 업ᄉᆞ믈 알게 아니티 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:56b" n="2">至於誣服而成其奸凶之計者，斷不假貸，</sent>
+<sent type="main" lang="kor" page="2:56b" n="2">무복ᄒᆞ야 그 간흉의 계교ᄅᆞᆯ 니뢰게 ᄒᆞ니ᄂᆞᆫ 단연히 가ᄃᆡ티 아니ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:56b" n="3">使圖生陷人者懲畏而戒焉。</sent>
+<sent type="main" lang="kor" page="2:56b" n="3">도ᄉᆡᆼ 함인ᄒᆞᄂᆞᆫ 쟈로 ᄒᆞ여곰 딩외ᄒᆞ야 경계케 ᄒᆞ리니</sent>
+<sent type="main" lang="chi" page="2:56b" n="4">咨爾喉舌之臣，承此予意，其令館閣之臣作文頒示，</sent>
+<sent type="main" lang="kor" page="2:56b" n="4">ᄌᆞ홉다 너 후셜의 신하ᄂᆞᆫ 나의 ᄯᅳᆺ을 니어 관각지신으로 ᄒᆞ여곰 글을 지어 반시ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:56b" n="5">咸使中外洞然知處分。”</sent>
+<sent type="main" lang="kor" page="2:56b" n="5">다 듕외로 ᄒᆞ여곰 통연히 쳐분을 알게 ᄒᆞ라</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:56b" n="6">上命疏決誣獄。右議政閔鎭遠、判義禁洪致中入侍。</sent>
+<sent type="main" lang="kor" page="2:56b" n="6">샹이 명ᄒᆞ오셔 무옥을 소결ᄒᆞ실ᄉᆡ 우의졍 민딘원과 판의금 홍티듕이 입시ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:56b-57a" n="7">上曰：“今日備忘，已言其大槪矣。</sent>
+<sent type="main" lang="kor" page="2:56b-57a" n="7">샹이 ᄀᆞᆯᄋᆞ샤ᄃᆡ 오ᄂᆞᆯ날 비망에 이믜 그 대개ᄅᆞᆯ 닐넛거니와</sent>
+<!--ᄀᆞᆯ^ᄋᆞ-->
+</pages>
+
+<pages n="2:57a">
+<img n="2:57a">https://kohico.kr/_media/image/bookname/2:57a.jpg</img>
+<sent type="main" lang="chi" page="2:57a" n="1">虎龍上變後，有引見宮僚事矣，</sent>
+<sent type="main" lang="kor" page="2:57a" n="1">호룡이 샹변ᄒᆞᆫ 후에 궁뇨ᄅᆞᆯ 인견ᄒᆞᆫ 일이 잇더니</sent>
+<sent type="main" lang="chi" page="2:57a" n="2">其後凶言，多不忍聞。</sent>
+<sent type="main" lang="kor" page="2:57a" n="2">그 후 흉언을 ᄎᆞᆷ아 듯디 못ᄒᆞᆯ 거시 만흐니</sent>
+<sent type="main" lang="chi" page="2:57a" n="3">雖匹夫猶不忍以汚辱加於其身，</sent>
+<sent type="main" lang="kor" page="2:57a" n="3">비록 필뷔라도 오히려 ᄎᆞᆷ아 오욕으로ᄡᅥ 그 몸에 더ᄒᆞ디 못ᄒᆞ려든</sent>
+<sent type="main" lang="chi" page="2:57a" n="4">況予受先朝遺體，其何忍當此汚衊之名乎？</sent>
+<sent type="main" lang="kor" page="2:57a" n="4">ᄒᆞ믈며 내 션됴 유톄ᄅᆞᆯ 밧ᄌᆞ와 그 엇디 ᄎᆞᆷ아 이 오멸ᄒᆞᆫ 일홈을 당ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:57a" n="5">黨論何代無之，而萬古天下豈有如壬寅事者乎？</sent>
+<sent type="main" lang="kor" page="2:57a" n="5">당논이 어ᄂᆡ ᄃᆡ예 업ᄉᆞ리오마ᄂᆞᆫ 만고텬하의 엇디 임인 일 ᄀᆞᄐᆞ니 이시며</sent>
+<sent type="main" lang="chi" page="2:57a-57b" n="6">如非大行王至仁盛德，今日廷臣豈有得全者？</sent>
+<sent type="main" lang="kor" page="2:57a-57b" n="6">만일 대ᄒᆡᆼ왕 지인 셩덕이 아니오시면 오ᄂᆞᆯ날 뎡신이 엇디 시러곰 온젼ᄒᆞᆯ 쟤 이시리오</sent>
+<!--시^리-->
+</pages>
+
+<pages n="2:57b">
+<img n="2:57b">https://kohico.kr/_media/image/bookname/2:57b.jpg</img>
+<sent type="main" lang="chi" page="2:57b" n="1">虎賊變書中，乃曰‘洗東宮難洗之誣’，</sent>
+<sent type="main" lang="kor" page="2:57b" n="1">호적의 변셔 가온ᄃᆡ 이에 ᄀᆞᆯ오ᄃᆡ 동궁 ᄡᅵᆺ기 어려온 무ᄅᆞᆯ ᄡᅵᆺ노라 ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="2:57b" n="2">而實則渠以難洗之名加之於予也。</sent>
+<sent type="main" lang="kor" page="2:57b" n="2">실인즉 제 ᄡᅵᆺ기 어려온 일홈으로ᄡᅥ 내게 더ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:57b" n="3">其時予則自劃，曾有上書，而宮僚亦不見矣。</sent>
+<sent type="main" lang="kor" page="2:57b" n="3">그ᄯᅢ예 내 ᄌᆞ획ᄒᆞ여 일즉 샹셔ᄒᆞ미 이시나 궁ᄂᆈ ᄯᅩᄒᆞᆫ 보디 못ᄒᆞ얏ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="2:57b" n="4">賊虎旣加予以陰凶之言，</sent>
+<sent type="main" lang="kor" page="2:57b" n="4">적회 이믜 음흉ᄒᆞᆫ 말로ᄡᅥ 내게 더ᄒᆞᆫ즉</sent>
+<sent type="main" lang="chi" page="2:57b" n="5">則按獄之臣請治可也，</sent>
+<sent type="main" lang="kor" page="2:57b" n="5">안옥ᄒᆞᄂᆞᆫ 신해 다ᄉᆞ리믈 쳥ᄒᆞ미 가커ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:57b" n="6">而只以拔去此一段爲請。</sent>
+<sent type="main" lang="kor" page="2:57b" n="6">다만 이 일단을 발거ᄒᆞ므로ᄡᅥ 쳥ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:57b" n="7">拔去云者，外爲好言，而其計尤巧，</sent>
+<sent type="main" lang="kor" page="2:57b" n="7">발거라 니ᄅᆞᆫ 쟈ᄂᆞᆫ 밧그로 됴흔 말을 ᄒᆞ나 그 계ᄀᆈ 더옥 공교ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:57b" n="8">豈非絶痛之甚者乎？</sent>
+<sent type="main" lang="kor" page="2:57b" n="8">엇디 졀통ᄒᆞ미 심티 아니리오</sent>
+<sent type="main" lang="chi" page="2:57b-58a" n="9">如欲究問，則獄事不成，</sent>
+<sent type="main" lang="kor" page="2:57b-58a" n="9">만일 구문코뎌 ᄒᆞᆫ즉 옥ᄉᆡ 이디 못ᄒᆞᆯ 거시매</sent>
+<!--ᄉᆡ ^ 이-->
+</pages>
+
+<pages n="2:58a">
+<img n="2:58a">https://kohico.kr/_media/image/bookname/2:58a.jpg</img>
+<sent type="main" lang="chi" page="2:58a" n="1">故只請拔去，其可忍此哉？</sent>
+<sent type="main" lang="kor" page="2:58a" n="1">다만 발거ᄅᆞᆯ 쳥ᄒᆞ니 그 가히 이ᄅᆞᆯ ᄎᆞᆷ아 ᄒᆞ랴</sent>
+<sent type="main" lang="chi" page="2:58a" n="2">予於昨年已言之矣。雖史冊上有如此說，則予不欲見，</sent>
+<sent type="main" lang="kor" page="2:58a" n="2">내 작년의 이믜 닐넛거니와 비록 ᄉᆞᄎᆡᆨ샹이라도 이런 말이 이시면 내 보고뎌 아니ᄒᆞ더니</sent>
+<sent type="main" lang="chi" page="2:58a" n="3">豈意於予身，反受此罔測之誣乎？</sent>
+<sent type="main" lang="kor" page="2:58a" n="3">엇디 내 몸의 도로혀 이런 망측ᄒᆞᆫ 무ᄅᆞᆯ 바들 줄을 ᄯᅳᆺᄒᆞ여시리오</sent>
+<sent type="main" lang="chi" page="2:58a" n="4">鏡之辛丑疏與虎變書一也。</sent>
+<sent type="main" lang="kor" page="2:58a" n="4">경적의 신튝 쇠 호적의 변셔로 더브러 ᄒᆞᆫ가디라</sent>
+<sent type="main" lang="chi" page="2:58a" n="5">‘搢紳疏’云者，滿朝同參之謂也，只止七人，而謂之搢紳疏何也？</sent>
+<sent type="main" lang="kor" page="2:58a" n="5">진신 쇠란 말은 만ᄃᆈ 동참ᄒᆞ믈 니ᄅᆞ미어ᄂᆞᆯ 다만 칠인에 그텨 진신 쇠라 니ᄅᆞ믄 엇디오</sent>
+<sent type="main" lang="chi" page="2:58a" n="6">彼中亦豈無知其凶慘者？</sent>
+<sent type="main" lang="kor" page="2:58a" n="6">뎌 듕의 ᄯᅩᄒᆞᆫ 엇디 그 흉참ᄒᆞᆫ 줄을 아ᄂᆞ니 업ᄉᆞ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:58a-58b" n="7">怵於鏡之威勢，無一人言者，寧不痛哉？</sent>
+<sent type="main" lang="kor" page="2:58a-58b" n="7">경의 위셰ᄅᆞᆯ 무셔워ᄒᆞ야 ᄒᆞᆫ 사ᄅᆞᆷ도 말ᄒᆞ리 업ᄉᆞ니 엇디 통분티 아니리오</sent>
+<!--ᄒᆞᆫ ^ 사-->
+</pages>
+
+<pages n="2:58b">
+<img n="2:58b">https://kohico.kr/_media/image/bookname/2:58b.jpg</img>
+<sent type="main" lang="chi" page="2:58b" n="1">以鏡疏謂之爲東宮疏者，卽妖儉幻弄之說也。此予之所以請其罪於大行朝者也，</sent>
+<sent type="main" lang="kor" page="2:58b" n="1">경소로ᄡᅥ 동궁 위ᄒᆞᆫ 샹쇠라 니ᄅᆞ믄 곳 요검의 환롱ᄒᆞᄂᆞᆫ 말이니 이 내 ᄡᅥ 그 죄ᄅᆞᆯ 대ᄒᆡᆼ됴의 쳥ᄒᆞᆫ 배라</sent>
+<sent type="main" lang="chi" page="2:58b" n="2">如非大行王友愛，則何能有今日？</sent>
+<sent type="main" lang="kor" page="2:58b" n="2">만일 대ᄒᆡᆼ왕 우ᄋᆡᄒᆞ오시미 아니면 엇디 능히 오ᄂᆞᆯ날이 이시리오</sent>
+<sent type="main" lang="chi" page="2:58b" n="3">儉事不成，變書乃出，一邊廷臣盡欲屠戮而後已，</sent>
+<sent type="main" lang="kor" page="2:58b" n="3">검의 일이 이로디 못ᄒᆞ매 변셰 이예 나 일변 뎡신을 다 도륙ᄒᆞᆫ 후 말고뎌 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:58b" n="4">慘矣！三手中所謂劍者，豈可以此謂之逆乎？</sent>
+<sent type="main" lang="kor" page="2:58b" n="4">참혹ᄒᆞ도다 삼슈 듕의 니ᄅᆞᆫ바 칼은 엇디 가히 일로ᄡᅥ 역이라 니ᄅᆞ리오</sent>
+<sent type="main" lang="chi" page="2:58b-59a" n="5">頃閱推案，見贈劍條，固已疑矣，</sent>
+<sent type="main" lang="kor" page="2:58b-59a" n="5">뎌제 튜안을 피열ᄒᆞ다가 칼 준 됴건을 보고 진실로 이믜 의심ᄒᆞ엿더니</sent>
+<!--더^니-->
+</pages>
+
+<pages n="2:59a">
+<img n="2:59a">https://kohico.kr/_media/image/bookname/2:59a.jpg</img>
+<sent type="main" lang="chi" page="2:59a" n="1">今聞大臣之言，誠可笑也。</sent>
+<sent type="main" lang="kor" page="2:59a" n="1">이제 대신의 말을 드ᄅᆞ니 진실로 가쇼롭도다</sent>
+<sent type="main" lang="chi" page="2:59a" n="2">人之相贈以劍者多矣，此不過龍澤偶以劍贈白望，而虎龍仍以湊成者也。</sent>
+<sent type="main" lang="kor" page="2:59a" n="2">사ᄅᆞᆷ이 칼로ᄡᅥ 서로 주ᄂᆞ니 만흐니 이 불과 룡ᄐᆡᆨ이 우연히 칼로ᄡᅥ ᄇᆡᆨ망을 주매 호룡이 인ᄒᆞ여 주셩ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="2:59a" n="3">以此言之，劍之一說已落空矣。</sent>
+<sent type="main" lang="kor" page="2:59a" n="3">일로ᄡᅥ 니ᄅᆞ면 칼 ᄒᆞᆫ 말이 임의 낙공ᄒᆞ엿고</sent>
+<sent type="main" lang="chi" page="2:59a" n="4">以藥言之，爽實尤甚。</sent>
+<sent type="main" lang="kor" page="2:59a" n="4">약으로ᄡᅥ 니ᄅᆞ면 상실ᄒᆞ미 더옥 심ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:59a" n="5">至於池烈，先朝老尙宮也。</sent>
+<sent type="main" lang="kor" page="2:59a" n="5">디렬의 니ᄅᆞ러ᄂᆞᆫ 션됴 노샹궁이라</sent>
+<sent type="main" lang="chi" page="2:59a" n="6">渠以老宮人，有何希冀，而乃爲逆耶？</sent>
+<sent type="main" lang="kor" page="2:59a" n="6">제 늘근 궁인으로ᄡᅥ 므ᄉᆞᆷ ᄇᆞ라ᄂᆞᆫ 거시 이셔 이예 역을 ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:59a" n="7">適爲虎所知，故引以爲證耳。</sent>
+<sent type="main" lang="kor" page="2:59a" n="7">마츰 호적의 아ᄂᆞᆫ 배 된 고로 인ᄒᆞ여 ᄡᅥ 증거ᄅᆞᆯ 삼으미라</sent>
+<sent type="main" lang="chi" page="2:59a" n="8">渠安敢乘喪矯詔耶？</sent>
+<sent type="main" lang="kor" page="2:59a" n="8">제 엇디 감히 승상ᄒᆞ여 교됴ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:59a-59b" n="9">渠之爲人，予知之，決非爲逆之人。且其時已死，</sent>
+<sent type="main" lang="kor" page="2:59a-59b" n="9">제 위인을 내 아니 결단코 역적ᄒᆞᆯ 사ᄅᆞᆷ이 아니오 ᄯᅩ 그ᄯᅢ예 이믜 죽어시니</sent>
+<!--위^인-->
+</pages>
+
+<pages n="2:59b">
+<img n="2:59b">https://kohico.kr/_media/image/bookname/2:59b.jpg</img>
+<sent type="main" lang="chi" page="2:59b" n="1">旣骨之後，雖欲爲逆得乎？</sent>
+<sent type="main" lang="kor" page="2:59b" n="1">이믜 ᄲᅧ 된 후에 비록 역적을 ᄒᆞ고뎌 ᄒᆞᆫ들 어드랴</sent>
+<sent type="main" lang="chi" page="2:59b" n="2">宮城扈衛之說，以物議觀之，已知其誣，</sent>
+<sent type="main" lang="kor" page="2:59b" n="2">궁셩 호위 말은 물의로ᄡᅥ 보아도 이믜 그 무망ᄒᆞᆫ 줄을 아더니</sent>
+<sent type="main" lang="chi" page="2:59b" n="3">今又聞之，益知其妄矣。</sent>
+<sent type="main" lang="kor" page="2:59b" n="3">이제 ᄯᅩ 드ᄅᆞ니 더옥 그 허망ᄒᆞᆫ 줄을 알노다</sent>
+<sent type="main" lang="chi" page="2:59b" n="4">至若誣告者，承望風旨，妄希生全，</sent>
+<sent type="main" lang="kor" page="2:59b" n="4">무고ᄒᆞᆫ 쟤 풍지ᄅᆞᆯ 승망ᄒᆞ여 망녕도이 살기ᄅᆞᆯ ᄇᆞ라</sent>
+<sent type="main" lang="chi" page="2:59b" n="5">專欲歸罪於諸臣，而以爲自脫之計，</sent>
+<sent type="main" lang="kor" page="2:59b" n="5">젼혀 죄ᄅᆞᆯ 졔신의게 도라 보내여 ᄡᅥ 스ᄉᆞ로 버슬 계교ᄅᆞᆯ ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:59b" n="6">其情態絶痛矣。”</sent>
+<sent type="main" lang="kor" page="2:59b" n="6">그 졍ᄐᆡ 졀통ᄒᆞ도다</sent>
+<sent type="main" lang="chi" page="2:59b" n="7">鎭遠曰：“壬寅獄事，旣知其構誣陷害，</sent>
+<sent type="main" lang="kor" page="2:59b" n="7">딘원이 ᄀᆞᆯ오ᄃᆡ 임인 옥ᄉᆡ 이믜 그 구무ᄒᆞ야 함해ᄒᆞ믈 아온즉</sent>
+<sent type="main" lang="chi" page="2:59b-60a" n="8">則削勳一節不可已。</sent>
+<sent type="main" lang="kor" page="2:59b-60a" n="8">샥훈일졀은 가히 마디 못ᄒᆞᆯ 거시오</sent>
+<!--히 ^ 마-->
+</pages>
+
+<pages n="2:60a">
+<img n="2:60a">https://kohico.kr/_media/image/bookname/2:60a.jpg</img>
+<sent type="main" lang="chi" page="2:60a" n="1">雖以虎龍單錄，不成錄勳貌樣，而不可仍存也。”</sent>
+<sent type="main" lang="kor" page="2:60a" n="1">비록 호룡의 단녹ᄒᆞ므로ᄡᅥ 녹훈 모양이 되디 못ᄒᆞ여시나 가히 인ᄒᆞ여 두디 못ᄒᆞ리이다</sent>
+<sent type="main" lang="chi" page="2:60a" n="2">上允之曰：“反案後，削勳一節，次第事也。”</sent>
+<sent type="main" lang="kor" page="2:60a" n="2">샹이 윤죵ᄒᆞ샤 ᄀᆞᆯᄋᆞ샤ᄃᆡ 번안 후 샥훈일졀은 ᄎᆞ뎨ᄉᆡ라 ᄒᆞ오시다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:60a" n="3">憲臣筵請就商子志絶島安置，有曰：</sent>
+<sent type="main" lang="kor" page="2:60a" n="3">헌신이 연듕의셔 ᄎᆔ샹의 아ᄃᆞᆯ 지ᄅᆞᆯ 졀도안치ᄒᆞ믈 쳥ᄒᆞ여 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="2:60a" n="4">“以‘父子竝竄不忍’爲敎，此甚不然。</sent>
+<sent type="main" lang="kor" page="2:60a" n="4">부ᄌᆡ 병찬ᄒᆞ미 ᄎᆞᆷ아 못ᄒᆞ므로ᄡᅥ 하교ᄒᆞ오시나 이ᄂᆞᆫ 그러티 아니ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:60a" n="5">此漢陰凶之狀已陳於啓辭。</sent>
+<sent type="main" lang="kor" page="2:60a" n="5">ᄎᆞ한의 음흉ᄒᆞᆫ 졍상은 이믜 계ᄉᆞ의 베퍼ᄉᆞᆸ고</sent>
+<sent type="main" lang="chi" page="2:60a" n="6">渠以其父之獨子，棄其父於謫所，忙急上來，</sent>
+<sent type="main" lang="kor" page="2:60a" n="6">제 그 아븨 독ᄌᆞ로 제 아비ᄅᆞᆯ 뎍소의 ᄇᆞ리고 망급히 올나오니</sent>
+<sent type="main" lang="chi" page="2:60a-60b" n="7">其罪旣大。來後出沒閃忽，</sent>
+<sent type="main" lang="kor" page="2:60a-60b" n="7">그 죄 이믜 크고 온후의 츌몰이 셤홀ᄒᆞ고</sent>
+<!--이^믜-->
+</pages>
+
+<pages n="2:60b">
+<img n="2:60b">https://kohico.kr/_media/image/bookname/2:60b.jpg</img>
+<sent type="main" lang="chi" page="2:60b" n="1">蹤跡詭秘，人心危懼，國言喧藉，實是國家之憂。</sent>
+<sent type="main" lang="kor" page="2:60b" n="1">죵젹이 궤비ᄒᆞ야 인심이 위구ᄒᆞ고 국언이 훤쟈ᄒᆞ니 실로 국가의 근심이라</sent>
+<sent type="main" lang="chi" page="2:60b" n="2">安置之請，恐不可不從矣。”</sent>
+<sent type="main" lang="kor" page="2:60b" n="2">안치의 쳥을 가히 좃디 아니티 못ᄒᆞ시리이다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:60b" n="3">五月，諫院啓請師尙亟正邦刑。</sent>
+<sent type="main" lang="kor" page="2:60b" n="3">오월의 간원이 계ᄉᆞᄒᆞ야 ᄉᆞ샹을 극졍방형을 쳥ᄒᆞ다</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:60b" n="4">七月，傳旨：“安置罪人師尙，拔身之初，已爲名義之罪人。</sent>
+<sent type="main" lang="kor" page="2:60b" n="4">칠월의 뎐지ᄒᆞ오샤ᄃᆡ 안치 죄인 ᄉᆞ샹이 발신지초에 이믜 명의예 죄인이 되고</sent>
+<sent type="main" lang="chi" page="2:60b" n="5">立朝以後，專事凶譎之伎倆，唆嗾凶溥，倖漏罪網，</sent>
+<sent type="main" lang="kor" page="2:60b" n="5">닙됴ᄒᆞᆫ 후에 젼혀 흉휼ᄒᆞᆫ 기량을 일삼아 흉ᄒᆞᆫ 님보ᄅᆞᆯ 지주ᄒᆞ여 죄망에 요ᄒᆡᆼ 버서나고</sent>
+<sent type="main" lang="chi" page="2:60b" n="6">鴆殺林演，圖絶禍根。</sent>
+<sent type="main" lang="kor" page="2:60b" n="6">님연을 딤살ᄒᆞ야 화근을 도모ᄒᆞ야 ᄭᅳᆫ흐며</sent>
+<sent type="main" lang="chi" page="2:60b-61a" n="7">先場代製， 竊占兩子之科名，</sent>
+<sent type="main" lang="kor" page="2:60b-61a" n="7">댱듕 글을 몬뎌 ᄃᆡ작ᄒᆞ야 두 아ᄃᆞᆯ의 과명을 ᄀᆞ마니 졈득ᄒᆞ고</sent>
+<!--듕 ^ 글-->
+</pages>
+
+<pages n="2:61a">
+<img n="2:61a">https://kohico.kr/_media/image/bookname/2:61a.jpg</img>
+<sent type="main" lang="chi" page="2:61a" n="1">密地經營，久主凶黨之陰謀，</sent>
+<sent type="main" lang="kor" page="2:61a" n="1">밀디의 경영ᄒᆞ여 흉당의 음모ᄅᆞᆯ 오래 쥬당ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:61a" n="2">其處心行事，何莫非窮凶極惡，而此於渠，猶是薄物細故。</sent>
+<sent type="main" lang="kor" page="2:61a" n="2">그쳐 심ᄒᆡᆼᄉᆡ 어ᄂᆡ 거시 궁흉극악디 아니ᄒᆞ리오마ᄂᆞᆫ 이ᄂᆞᆫ 제게 오히려 박믈셰괴라</sent>
+<sent type="main" lang="chi" page="2:61a" n="3">試以其最難容貸者言之，厥有三大罪焉。</sent>
+<sent type="main" lang="kor" page="2:61a" n="3">시험ᄒᆞ야 그 ᄀᆞ장 용ᄃᆡ키 어려온 쟈로ᄡᅥ 니ᄅᆞᆯ딘대 세 가디 큰 죄 이시니</sent>
+<sent type="main" lang="chi" page="2:61a" n="4">曾按嶺臬，政當廚院移直之日，肆爲宴飮張樂之戲，</sent>
+<sent type="main" lang="kor" page="2:61a" n="4">일즉 녕얼에 안졀ᄒᆞ야 졍히 듀원이 이딕ᄒᆞᄂᆞᆫ 날을 당ᄒᆞ여 연음 댱악ᄒᆞᄂᆞᆫ 노름을 방ᄌᆞ히 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:61a" n="5">臺章峻發，罪名狼藉。惟我聖考深惡</sent>
+<sent type="main" lang="kor" page="2:61a" n="5">ᄃᆡ쟝이 쥰발ᄒᆞ야 죄명이 낭쟈ᄒᆞ거ᄂᆞᆯ 우리 셩괴 깁히 아텨ᄒᆞ오샤</sent>
+<sent type="main" lang="chi" page="2:61a-61b" n="6">久錮，終不收錄，</sent>
+<sent type="main" lang="kor" page="2:61a-61b" n="6">오래 금고ᄒᆞ고 ᄆᆞᄎᆞᆷ내 슈록디 아니ᄒᆞ오시니</sent>
+<!--고^ᄒᆞ-->
+</pages>
+
+<pages n="2:61b">
+<img n="2:61b">https://kohico.kr/_media/image/bookname/2:61b.jpg</img>
+<sent type="main" lang="chi" page="2:61b" n="1">慍懟之志，實深於此。</sent>
+<sent type="main" lang="kor" page="2:61b" n="1">온ᄃᆡᄒᆞᄂᆞᆫ ᄯᅳᆺ이 실로 여긔 깁헛더니</sent>
+<sent type="main" lang="chi" page="2:61b" n="2">及其兩子賊科之特命削去也，</sent>
+<sent type="main" lang="kor" page="2:61b" n="2">밋 그 냥 ᄌᆞ의 적과ᄅᆞᆯ 특명으로 샥거ᄒᆞ오시매</sent>
+<sent type="main" lang="chi" page="2:61b" n="3">怨毒之心，尤益次骨，挾贊群凶，</sent>
+<sent type="main" lang="kor" page="2:61b" n="3">원독ᄒᆞᆫ ᄆᆞᄋᆞᆷ이 더옥 ᄎᆞ골ᄒᆞ야 군흉을 협찬ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:61b" n="4">作爲囮主，吠日射天之計，無不攘臂擔當。</sent>
+<sent type="main" lang="kor" page="2:61b" n="4">와ᄌᆔ 되여 폐일셕텬ᄒᆞᄂᆞᆫ 계교ᄅᆞᆯ ᄑᆞᆯ을 ᄲᅩᆷ내여 담당티 아니미 업고</sent>
+<sent type="main" lang="chi" page="2:61b" n="5">頃年一疏，至擧昏朝之時，敢擬寧考之聖世：其罪一也。</sent>
+<sent type="main" lang="kor" page="2:61b" n="5">경년 ᄒᆞᆫ 샹쇠 혼됴 ᄯᅢᄅᆞᆯ 드러 녕고 셩셰의 감히 비의ᄒᆞ니 그 죄 ᄒᆞ나히오</sent>
+<sent type="main" lang="chi" page="2:61b" n="6">白望之上變，實告謀害國本之賊，</sent>
+<sent type="main" lang="kor" page="2:61b" n="6">ᄇᆡᆨ망의 샹변은 실로 국본 모해ᄒᆞᄂᆞᆫ 역적을 고ᄒᆞ미어ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:61b" n="7">而不待鞫究，</sent>
+<sent type="main" lang="kor" page="2:61b" n="7">국문ᄒᆞ야 구ᄒᆡᆨ을 기ᄃᆞ리디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:61b-62a" n="8">挺身入對，狙擊請覈之老臣，以絶保護東宮之路，</sent>
+<sent type="main" lang="kor" page="2:61b-62a" n="8">뎡신 입ᄃᆡᄒᆞ야 구ᄒᆡᆨ 졍ᄒᆞᄂᆞᆫ 노신을 져격ᄒᆞ여 ᄡᅥ 동궁 보호ᄒᆞᄂᆞᆫ 길흘 ᄭᅳᆫ코</sent>
+<!--노^신-->
+</pages>
+
+<pages n="2:62a">
+<img n="2:62a">https://kohico.kr/_media/image/bookname/2:62a.jpg</img>
+<sent type="main" lang="chi" page="2:62a" n="1">聲援待命之群孼，終售撲殺告者之謀：此其罪二也。</sent>
+<sent type="main" lang="kor" page="2:62a" n="1">ᄃᆡ명ᄒᆞᄂᆞᆫ 군얼의 셩원이 되야 ᄆᆞᄎᆞᆷ내 고쟈ᄅᆞᆯ 박살ᄒᆞᄂᆞᆫ ᄭᅬᄅᆞᆯ 발뵈니 그 죄 둘히오</sent>
+<sent type="main" lang="chi" page="2:62a" n="2">向者大臣之聯箚，不過請遵丁酉之舊例，</sent>
+<sent type="main" lang="kor" page="2:62a" n="2">향쟈 대신의 년차ᄂᆞᆫ 불과 뎡유 구례 좃기ᄅᆞᆯ 쳥호미니</sent>
+<sent type="main" lang="chi" page="2:62a" n="3">則苟有一分臣子之心者，宜無異視於前後，</sent>
+<sent type="main" lang="kor" page="2:62a" n="3">진실로 일분 신ᄌᆞ의 ᄆᆞᄋᆞᆷ이 잇ᄂᆞᆫ 쟤면 맛당히 젼후ᄅᆞᆯ 달니 보디 못ᄒᆞᆯ 거시어ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:62a" n="4">而至謂之簒奪凶逆，必加以慘刑極律。</sent>
+<sent type="main" lang="kor" page="2:62a" n="4">찬탈 흉역이라 닐너 반ᄃᆞ시 참혹ᄒᆞᆫ 형벌과 극ᄒᆞᆫ 뉼로ᄡᅥ 더ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:62a" n="5">此其意豈但在於諸大臣？</sent>
+<sent type="main" lang="kor" page="2:62a" n="5">그 ᄯᅳᆺ이 엇디 다만 모든 대신의게 이실 ᄲᅮᆫ이리오</sent>
+<sent type="main" lang="chi" page="2:62a" n="6">而況其在外而未入也，以先除大臣</sent>
+<sent type="main" lang="kor" page="2:62a" n="6">ᄒᆞ믈며 그 밧긔 이셔 드러오디 아녀신 제 몬뎌 대신을 뎨거ᄒᆞ고</sent>
+</pages>
+
+<pages n="2:62b">
+<img n="2:62b">https://kohico.kr/_media/image/bookname/2:62b.jpg</img>
+<sent type="main" lang="chi" page="2:62b" n="1">不可遺一之說，貽書賊鏡，大播都下。</sent>
+<sent type="main" lang="kor" page="2:62b" n="1">ᄒᆞ나흘 유루티 말난 말로ᄡᅥ 글을 적경의게 기텨 크게 도하의 뎐파ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:62b" n="2">旣有先除之謀，則後所欲爲者，灼然可知。</sent>
+<sent type="main" lang="kor" page="2:62b" n="2">이믜 몬뎨 뎨거ᄒᆞᆯ ᄭᅬᄅᆞᆯ 두어신즉 후의 ᄒᆞ고뎌 ᄒᆞᄂᆞᆫ 바ᄂᆞᆫ 쟉연히 가히 알디라</sent>
+<sent type="main" lang="chi" page="2:62b" n="3">宗社之得有今日，豈非天歟：此其罪三也。</sent>
+<sent type="main" lang="kor" page="2:62b" n="3">종샤의 시러곰 오ᄂᆞᆯ날이 이시미 엇디 하ᄂᆞᆯ이 아니리오 그 죄 세히니</sent>
+<sent type="main" lang="chi" page="2:62b" n="4">爲人臣而有一於此，固難一刻容息於覆載之間，況有此三大罪乎？</sent>
+<sent type="main" lang="kor" page="2:62b" n="4">인신이 되야 여긔 ᄒᆞ나히 이셔도 진실로 일ᄀᆞᆨ을 부ᄌᆡ ᄉᆞ이의 용식ᄒᆞ기 어렵거든 ᄒᆞ믈며 이 삼 대죄 이시미며</sent>
+<sent type="main" lang="chi" page="2:62b" n="5">又況與賊鏡，身二而卽一心腸，</sent>
+<sent type="main" lang="kor" page="2:62b" n="5">ᄯᅩ ᄒᆞ믈며 적경으로 더브러 몸이 둘히나 심댱은 ᄒᆞ나히오</sent>
+<sent type="main" lang="chi" page="2:62b-63a" n="6">姓異而便同兄弟，一動一靜，無不相關，</sent>
+<sent type="main" lang="kor" page="2:62b-63a" n="6">셩이 다르나 믄득 형뎨 ᄀᆞᄐᆡ여 일동일졍이 서로 관계티 아니미 업고</sent>
+<!--서^로-->
+</pages>
+
+<pages n="2:63a">
+<img n="2:63a">https://kohico.kr/_media/image/bookname/2:63a.jpg</img>
+<sent type="main" lang="chi" page="2:63a" n="1">片言半辭，無不同響，而賊鏡所製敎文，無非師尙之所與知。</sent>
+<sent type="main" lang="kor" page="2:63a" n="1">편언 반ᄉᆡ 서로 향응티 아니미 업서 적경의 지은바 교문이 무비ᄉᆞ샹의 참예ᄒᆞ여 아ᄂᆞᆫ 배니</sent>
+<sent type="main" lang="chi" page="2:63a" n="2">賊鏡招中，或者之或，賣友之友，蓋指此等人者，明若觀火。</sent>
+<sent type="main" lang="kor" page="2:63a" n="2">적경의 툐ᄉᆞ 가온ᄃᆡ 혹쟤란 혹 ᄧᆞ와 매우란 우 ᄧᆡ 대개 ᄎᆞ등인을 ᄀᆞᄅᆞ티미 명약관화ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:63a" n="3">逆鏡旣伏王法，則此賊豈有獨逭之理乎？</sent>
+<sent type="main" lang="kor" page="2:63a" n="3">역경이 이믜 왕법에 업듼즉 ᄎᆞ적이 엇디 홀노 도망ᄒᆞᆯ 니 이시리오</sent>
+<sent type="main" lang="chi" page="2:63a" n="4">神人共憤，擧國同仇，</sent>
+<sent type="main" lang="kor" page="2:63a" n="4">신인이 ᄒᆞᆫ가디로 분ᄒᆞ고 거국이 ᄒᆞᆫ가디로 원슈로와 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:63a" n="5">不可以絶島安置，而懲其貫盈之罪。</sent>
+<sent type="main" lang="kor" page="2:63a" n="5">가히 졀도안치로ᄡᅥ 그 관영ᄒᆞᆫ 죄ᄅᆞᆯ 딩티티 못ᄒᆞᆯ디라</sent>
+<sent type="main" lang="chi" page="2:63a-63b" n="6">大抵論罪之道，得其端緖，始乃鞫問，</sent>
+<sent type="main" lang="kor" page="2:63a-63b" n="6">대뎌 죄ᄅᆞᆯ 의논ᄒᆞᄂᆞᆫ 도리 그 단셔ᄅᆞᆯ 엇고 비로소 국문ᄒᆞ고</sent>
+<!--국^문-->
+</pages>
+
+<pages n="2:63b">
+<img n="2:63b">https://kohico.kr/_media/image/bookname/2:63b.jpg</img>
+<sent type="main" lang="chi" page="2:63b" n="1">而鞫廳之規，必待面質更推後，乃爲加刑，實出於審愼之道也。</sent>
+<sent type="main" lang="kor" page="2:63b" n="1">국텽 규귀 반ᄃᆞ시 면질 ᄀᆡᆼ튜ᄅᆞᆯ 기ᄃᆞ린 후의 이에 가형ᄒᆞ미 실로 심신ᄒᆞᄂᆞᆫ 도로 나미라</sent>
+<sent type="main" lang="chi" page="2:63b" n="2">先除大臣之語，雖極凶慘，此乃私家文字，</sent>
+<sent type="main" lang="kor" page="2:63b" n="2">몬뎌 대신을 뎨거ᄒᆞ쟌 말이 비록 극히 흉참ᄒᆞ나 이ᄂᆞᆫ 이에 ᄉᆞ가 문ᄧᆡ니</sent>
+<sent type="main" lang="chi" page="2:63b" n="3">則不可以是直用一律矣。</sent>
+<sent type="main" lang="kor" page="2:63b" n="3">가히 일로ᄡᅥ 바로 일뉼은 ᄡᅳ디 아니커니와</sent>
+<sent type="main" lang="chi" page="2:63b" n="4">至於其子削科事，乃是先朝特敎，</sent>
+<sent type="main" lang="kor" page="2:63b" n="4">그 아ᄃᆞᆯ 샥과ᄒᆞᆫ 일에 니ᄅᆞ러ᄂᆞᆫ 이 션됴 특ᄀᆈ오신즉</sent>
+<sent type="main" lang="chi" page="2:63b" n="5">則渠等復科之後，揚揚自得，縱恣無忌，</sent>
+<sent type="main" lang="kor" page="2:63b" n="5">저희 무리 복과ᄒᆞᆫ 후의 양양ᄌᆞ득ᄒᆞ야 방ᄌᆞ히 긔탄ᄒᆞ미 업ᄉᆞ니</sent>
+<sent type="main" lang="chi" page="2:63b" n="6">未復科之時，其心可知矣。</sent>
+<sent type="main" lang="kor" page="2:63b" n="6">복과티 못ᄒᆞᆫ ᄯᅢ예 그 ᄆᆞᄋᆞᆷ을 가히 알 거시오</sent>
+<sent type="main" lang="chi" page="2:63b-64a" n="7">且取考《政院日記》，則其疏意，向與逆鏡無異。</sent>
+<sent type="main" lang="kor" page="2:63b-64a" n="7">ᄯᅩ 졍원일긔ᄅᆞᆯ 샹고ᄒᆞᆫ즉 그 샹소 의향이 역경으로 더브러 다르미 업ᄉᆞᆫ디라</sent>
+<!--르^미-->
+</pages>
+
+<pages n="2:64a">
+<img n="2:64a">https://kohico.kr/_media/image/bookname/2:64a.jpg</img>
+<sent type="main" lang="chi" page="2:64a" n="1">逆鏡正法之後，渠作哀冊文，</sent>
+<sent type="main" lang="kor" page="2:64a" n="1">역경을 졍법ᄒᆞᆫ 후에 제 ᄋᆡᄎᆡᆨ문을 지을ᄉᆡ</sent>
+<sent type="main" lang="chi" page="2:64a" n="2">若有一分嚴畏之意，則何敢用如許文字乎？</sent>
+<sent type="main" lang="kor" page="2:64a" n="2">만일 일분 엄외ᄒᆞᆫ ᄯᅳᆺ이 이시면 엇디 감히 이러ᄐᆞᆺ ᄒᆞᆫ 문ᄌᆞᄅᆞᆯ ᄡᅳ며</sent>
+<sent type="main" lang="chi" page="2:64a" n="3">其後更爲付標以入，</sent>
+<sent type="main" lang="kor" page="2:64a" n="3">그 후의 고텨 부표ᄒᆞ여 ᄡᅥ 드리니</sent>
+<sent type="anno" lang="chi" page="2:64a" n="4">本文‘莽、卓旣誅’，改以‘凶徒就戮’。</sent>
+<sent type="anno" lang="kor" page="2:64a" n="4">본문에 망탁긔듀라 ᄒᆞ엿다가 흉도ᄎᆔ륙으로ᄡᅥ 고티다</sent>
+<sent type="main" lang="chi" page="2:64a" n="5">尤可見其意之凶慘也。</sent>
+<sent type="main" lang="kor" page="2:64a" n="5">더옥 그 ᄯᅳᆺ이 흉참ᄒᆞ믈 가히 볼디라</sent>
+<sent type="main" lang="chi" page="2:64a" n="6">先朝曾有師尙用意不正之敎，予於今日，有所愴感處矣。</sent>
+<sent type="main" lang="kor" page="2:64a" n="6">션됴의 일즉 ᄉᆞ샹의 용의 부졍타 ᄒᆞ오신 하ᄀᆈ 겨오시매 내 오ᄂᆞᆯ날 창감ᄒᆞᆫ 곳이 잇노라</sent>
+<sent type="main" lang="chi" page="2:64a" n="7">近來黨習益痼，而未有如一鏡、師尙之甚者也。</sent>
+<sent type="main" lang="kor" page="2:64a" n="7">근ᄅᆡ의 당습이 더옥 심ᄒᆞ나 일경 ᄉᆞ샹ᄀᆞ티 심ᄒᆞᆫ 쟤 잇디 아니ᄒᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:64a-64b" n="8">一鏡旣已見誅，而師尙不爲正法，則後世必無懲畏之道，</sent>
+<sent type="main" lang="kor" page="2:64a-64b" n="8">일경을 이믜 베히고 ᄉᆞ샹을 졍법디 아니ᄒᆞᆫ즉 후셰예 반ᄃᆞ시 딩외ᄒᆞᆯ 도리 업ᄉᆞ리니</sent>
+<!--시 ^ 딩-->
+</pages>
+
+<pages n="2:64b">
+<img n="2:64b">https://kohico.kr/_media/image/bookname/2:64b.jpg</img>
+<sent type="main" lang="chi" page="2:64b" n="1">處絞，其子獻章極邊定配。”</sent>
+<sent type="main" lang="kor" page="2:64b" n="1">쳐교ᄒᆞ고 그 아ᄃᆞᆯ 헌쟝을 극변 뎡ᄇᆡᄒᆞ라</sent>
+<mark type="section_begin">○</mark>
+<sent type="main" lang="chi" page="2:64b" n="2">八月，頒敎中外大小臣僚、耆老、軍民、閑良等。</sent>
+<sent type="main" lang="kor" page="2:64b" n="2">팔월의 듕외 대쇼 신뇨 기로 군민 한냥 등의게 반교ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="2:64b" n="3">“王若曰：嗚呼！向年之事，尙復忍言之哉？</sent>
+<sent type="main" lang="kor" page="2:64b" n="3">왕 약왈 오회라 향년 일을 오히려 다시 ᄎᆞᆷ아 니ᄅᆞ랴</sent>
+<sent type="main" lang="chi" page="2:64b" n="4">奸凶堵立，謀計憯巧，構成大獄，草薙士類，</sent>
+<sent type="main" lang="kor" page="2:64b" n="4">간흉이 둘너 셔고 모계 ᄎᆞᆷ독ᄒᆞ고 공교ᄒᆞ여 대옥을 얼거 일워 ᄉᆞ류ᄅᆞᆯ 풀 ᄲᅧᄐᆞᆺ ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:64b" n="5">苟求其心之所抵，蓋不但止於是而已，</sent>
+<sent type="main" lang="kor" page="2:64b" n="5">진실로 그 ᄆᆞᄋᆞᆷ의 닷ᄂᆞᆫ 바ᄅᆞᆯ 구ᄒᆞ면 대개 다만 이에 그티디 아닐 ᄯᆞᄅᆞᆷ이라</sent>
+<sent type="main" lang="chi" page="2:64b" n="6">至今思之，寢夢猶驚。</sent>
+<sent type="main" lang="kor" page="2:64b" n="6">이제 니르도록 ᄉᆡᆼ각ᄒᆞ면 침몽이 오히려 놀나온디라</sent>
+<sent type="main" lang="chi" page="2:64b-65a" n="7">今當維新之日，公議幸已快伸，</sent>
+<sent type="main" lang="kor" page="2:64b-65a" n="7">이제 유신ᄒᆞᆫ 날을 당ᄒᆞ여 공의 다ᄒᆡᆼ이 쾌히 펴시매</sent>
+<!--펴^시-->
+</pages>
+
+<pages n="2:65a">
+<img n="2:65a">https://kohico.kr/_media/image/bookname/2:65a.jpg</img>
+<sent type="main" lang="chi" page="2:65a" n="1">玆將前後事端，洞溯源委，以布諭于有衆，</sent>
+<sent type="main" lang="kor" page="2:65a" n="1">이에 젼후 ᄉᆞ단을 가뎌 원위ᄅᆞᆯ 통연히 거스려 ᄡᅥ 모든 사ᄅᆞᆷ의게 펴 니ᄅᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="2:65a" n="2">其尙明聽之無譁。洪惟</sent>
+<sent type="main" lang="kor" page="2:65a" n="2">그 거의 ᄇᆞᆯ키 드러 둘레디 말나 크게 ᄉᆡᆼ각ᄒᆞ오니</sent>
+<sent type="main" lang="chi" page="2:65a" n="3">我肅宗大王，仁明剛大，天命自度，</sent>
+<sent type="main" lang="kor" page="2:65a" n="3">우리 슉죵 대왕겨오셔 인명ᄒᆞ오시고 강대ᄒᆞ오셔 텬명으로 ᄌᆞ도ᄒᆞ오샤</sent>
+<sent type="main" lang="chi" page="2:65a" n="4">其於斯文之事、倫義之重，尤兢兢致意。</sent>
+<sent type="main" lang="kor" page="2:65a" n="4">그 ᄉᆞ문의 일과 뉸의의 듕ᄒᆞᆫ 듸 더옥 긍긍히 ᄯᅳᆺ을 니뢰오시니</sent>
+<sent type="main" lang="chi" page="2:65a" n="5">肆辛巳、丙申兩處分，至正至嚴，</sent>
+<sent type="main" lang="kor" page="2:65a" n="5">이러므로 신ᄉᆞ 병신 두 쳐분이 지극히 바로시고 지극히 엄ᄒᆞ샤</sent>
+<sent type="main" lang="chi" page="2:65a" n="6">可以建天地而不悖矣。</sent>
+<sent type="main" lang="kor" page="2:65a" n="6">가히 ᄡᅥ 텬디의 셰워도 어긔디 아닐디라</sent>
+<sent type="main" lang="chi" page="2:65a-65b" n="7">而惟彼凶黨之心，與此背戾，固已有素，</sent>
+<sent type="main" lang="kor" page="2:65a-65b" n="7">뎌 흉당의 ᄆᆞᄋᆞᆷ이 일노 더브러 등디고 거스리미 진실로 이믜 본ᄃᆡ 이신즉</sent>
+<!--이^믜-->
+</pages>
+
+<pages n="2:65b">
+<img n="2:65b">https://kohico.kr/_media/image/bookname/2:65b.jpg</img>
+<sent type="main" lang="chi" page="2:65b" n="1">則安得無怵畏疑駴之意耶？</sent>
+<sent type="main" lang="kor" page="2:65b" n="1">엇디 시러곰 저허ᄒᆞ고 의심ᄒᆞᄂᆞᆫ ᄯᅳᆺ이 업ᄉᆞ리오</sent>
+<sent type="main" lang="chi" page="2:65b" n="2">蓄憾積怨，思欲一逞，而未有會也。</sent>
+<sent type="main" lang="kor" page="2:65b" n="2">온감을 져츅ᄒᆞ고 원망을 싸하 ᄒᆞᆫ번 발뵈고뎌 ᄒᆞ기ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ되 긔회 잇디 아니터니</sent>
+<sent type="main" lang="chi" page="2:65b" n="3">先王初年，儲位見虛，人心靡依，付托無所，</sent>
+<sent type="main" lang="kor" page="2:65b" n="3">션왕 초년의 져위 뷔여 인심이 의지ᄒᆞᆯ ᄃᆡ 업고 부탁이 곳이 업ᄉᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:65b" n="4">深惟宗社之重，爰策眇末之身。</sent>
+<sent type="main" lang="kor" page="2:65b" n="4">깁히 종샤의 듕ᄒᆞ믈 ᄉᆡᆼ각ᄒᆞ오셔 이에 묘말ᄒᆞᆫ 몸을 ᄎᆡᆨ봉ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:65b" n="5">奸黨乘此時，肆其凶圖。冒嫌之言，爲其張本，</sent>
+<sent type="main" lang="kor" page="2:65b" n="5">간당이 이ᄯᅢᄅᆞᆯ 타 그 흉도ᄅᆞᆯ 방ᄌᆞ히 ᄒᆞ야 모혐이란 말이 그 댱본이 되고</sent>
+<sent type="main" lang="chi" page="2:65b" n="6">疑惑之說，繼又危動，</sent>
+<sent type="main" lang="kor" page="2:65b" n="6">의혹ᄒᆞᆫ단 말이 니어 ᄯᅩ 위ᄐᆡ히 요동ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:65b-66a" n="7">與夫夜半叩閤、北門潛入之事，其意至凶，其計至密。</sent>
+<sent type="main" lang="kor" page="2:65b-66a" n="7">다믓 야반의 고합ᄒᆞᆷ과 북문에 ᄌᆞᆷ입ᄒᆞᄂᆞᆫ 일이 그 ᄯᅳᆺ이 지극히 흉ᄒᆞ고 그 계ᄀᆈ 지극히 교밀ᄒᆞ며</sent>
+<!--ᄌᆞᆷ^입-->
+</pages>
+
+<pages n="2:66a">
+<img n="2:66a">https://kohico.kr/_media/image/bookname/2:66a.jpg</img>
+<sent type="main" lang="chi" page="2:66a" n="1">而至於天無二日之語、陰移天位之云，尤極慘毒，有不忍見。</sent>
+<sent type="main" lang="kor" page="2:66a" n="1">지어 텬무이일이란 말과 음이텬위라 니ᄅᆞ미 더옥 극히 참독ᄒᆞ여 ᄎᆞᆷ아 보디 못ᄒᆞᆯ너니</sent>
+<sent type="main" lang="chi" page="2:66a" n="2">卒之逆鏡驅率六賊，</sent>
+<sent type="main" lang="kor" page="2:66a" n="2">ᄆᆞᄎᆞᆷ내 역경이 뉵적을 모라 거ᄂᆞ리고</sent>
+<sent type="main" lang="chi" page="2:66a" n="3">倡上凶疏，作前茅於外；</sent>
+<sent type="main" lang="kor" page="2:66a" n="3">슈챵ᄒᆞ여 흉소ᄅᆞᆯ 올녀 밧긔셔 젼봉이 되고</sent>
+<sent type="main" lang="chi" page="2:66a" n="4">妖儉以鏡爪翼，陰斡密機，爲蟊蠹於內，</sent>
+<sent type="main" lang="kor" page="2:66a" n="4">요검이경의 조아와 우익으로ᄡᅥ ᄀᆞ만ᄒᆞᆫ 긔틀을 알션ᄒᆞ야 안ᄒᆡ셔 좀이 되니</sent>
+<sent type="main" lang="chi" page="2:66a" n="5">表裏煽俑，禍迫頃刻。</sent>
+<sent type="main" lang="kor" page="2:66a" n="5">것과 안흐로 션난ᄒᆞ고 작용ᄒᆞ여 홰 경ᄀᆞᆨ에 박급ᄒᆞ얏더니</sent>
+<sent type="main" lang="chi" page="2:66a" n="6">幸賴先大王友悌篤至，</sent>
+<sent type="main" lang="kor" page="2:66a" n="6">다ᄒᆡᆼ이 션대왕겨오셔 우뎨독지ᄒᆞ오시믈 힘닙ᄌᆞ와</sent>
+<!--'션대왕겨오셔'의 '션'은 '선'처럼 보이나 탈획이므로 '션'으로 입력함-->
+<sent type="main" lang="chi" page="2:66a-66b" n="7">不得逞志，儉旋就戮。</sent>
+<sent type="main" lang="kor" page="2:66a-66b" n="7">시러곰 제 ᄯᅳᆺ을 펴디 못ᄒᆞ야 검이 즉시 죽기에 나아가니</sent>
+<!--ᄯᅳᆺ^을-->
+</pages>
+
+<pages n="2:66b">
+<img n="2:66b">https://kohico.kr/_media/image/bookname/2:66b.jpg</img>
+<sent type="main" lang="chi" page="2:66b" n="1">自是之後，凶逆之儔，大生疑㥘，爲計日深，</sent>
+<sent type="main" lang="kor" page="2:66b" n="1">이 후로브터 흉역의 무리 크게 의겁을 내여 계교호미 날로 깁허</sent>
+<sent type="main" lang="chi" page="2:66b" n="2">遂乃唆嗾虎賊，亟上變書。書中誣及予身，</sent>
+<sent type="main" lang="kor" page="2:66b" n="2">드ᄃᆡ여 이에 호적을 지주ᄒᆞ야 ᄲᆞᆯ리 변셔ᄅᆞᆯ 올녀 그 셔듕에 무ᄒᆞ미 내 몸에 미ᄎᆞ되</sent>
+<sent type="main" lang="chi" page="2:66b" n="3">語極陰慝，旨意所注，路人亦知。</sent>
+<sent type="main" lang="kor" page="2:66b" n="3">말이 극히 음특ᄒᆞ야 지의 잇ᄂᆞᆫ 바ᄅᆞᆯ 노인도 ᄯᅩᄒᆞᆫ 알 ᄭᅥ시오</sent>
+<sent type="main" lang="chi" page="2:66b" n="4">且其上變，不先不後，必於使价竣還之翌日，</sent>
+<sent type="main" lang="kor" page="2:66b" n="4">ᄯᅩᄒᆞᆫ 샹변이 블션블후ᄒᆞ야 반ᄃᆞ시 ᄉᆞ신이 쥰ᄉᆞᄒᆞᆫ 긔별 도라온 이튼날에 ᄒᆞᆫ즉</sent>
+<sent type="main" lang="chi" page="2:66b" n="5">則渠輩肝腑，於此益復呈露難掩矣。</sent>
+<sent type="main" lang="kor" page="2:66b" n="5">저희 무리 간뷔 이에 더옥 드러나 ᄀᆞ리오기 어렵고</sent>
+<sent type="main" lang="chi" page="2:66b" n="6">獄事纔起，庭鞫有命，</sent>
+<sent type="main" lang="kor" page="2:66b" n="6">옥ᄉᆡ ᄀᆞᆺ 니러나 뎡국이 명이 겨오신즉</sent>
+<sent type="main" lang="chi" page="2:66b-67a" n="7">則慮其奸情之易透，</sent>
+<sent type="main" lang="kor" page="2:66b-67a" n="7">그 간정이 드러나미 쉬올가 념녀ᄒᆞ야</sent>
+<!--러^나-->
+</pages>
+
+<pages n="2:67a">
+<img n="2:67a">https://kohico.kr/_media/image/bookname/2:67a.jpg</img>
+<sent type="main" lang="chi" page="2:67a" n="1">汲汲求對，移鞫於本府，</sent>
+<sent type="main" lang="kor" page="2:67a" n="1">급급히 쳥ᄃᆡᄒᆞ야 국텽을 본부로 옴겨</sent>
+<sent type="main" lang="chi" page="2:67a" n="2">操縱伸縮，惟意所欲，</sent>
+<sent type="main" lang="kor" page="2:67a" n="2">쥐고 노코 펴고 주리기ᄅᆞᆯ 오직 ᄯᅳᆺ에 ᄒᆞ고 시븐 대로 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="2:67a" n="3">而又請勿問勿書，置予於黯黮之中，</sent>
+<sent type="main" lang="kor" page="2:67a" n="3">ᄯᅩ 뭇디 말고 ᄡᅳ디 말기로 쳥ᄒᆞ야 나ᄅᆞᆯ 암담디듕의 두고</sent>
+<sent type="main" lang="chi" page="2:67a" n="4">仍復刱出三手之說。</sent>
+<sent type="main" lang="kor" page="2:67a" n="4">인ᄒᆞ여 다시 삼ᄉᆔ란 말을 창츌ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:67a" n="5">所謂三手，一則劍，一則藥，一則乘喪矯旨也。</sent>
+<sent type="main" lang="kor" page="2:67a" n="5">소위 삼슈ᄂᆞᆫ ᄒᆞ나흔 칼이오 ᄒᆞ나흔 약이오 ᄒᆞ나흔 승샹교지ᄒᆞ다 호미라</sent>
+<sent type="main" lang="chi" page="2:67a" n="6">劍則不過折澁之常刃，謂之匕首，萬不近似。</sent>
+<sent type="main" lang="kor" page="2:67a" n="6">칼인즉 블과 브러디고 봄의 ᄡᅳᆫ 샹칼이어ᄂᆞᆯ 비슈로 니ᄅᆞ미 만블근ᄉᆞᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:67a" n="7">藥則其謂買之者姓字違反，用之者日月錯盩，</sent>
+<sent type="main" lang="kor" page="2:67a" n="7">약인즉 그 사다 ᄒᆞᄂᆞ니 셩 ᄧᆡ 어긋나고 ᄡᅳ다 호미 일월이 틀니며</sent>
+<!--'ᄧᆡ'는 'ᄧᅵ'로 되어 있으나 한문을 참조하여 수정함-->
+<sent type="main" lang="chi" page="2:67a-67b" n="8">至於矯旨云者，以出森爲忠兵，</sent>
+<sent type="main" lang="kor" page="2:67a-67b" n="8">교지ᄒᆞ다 니ᄅᆞ믄 ᄉᆞᆷ을 내여 보내여 튱쳥 병ᄉᆞ ᄒᆞ이므로ᄡᅥ</sent>
+<!--니^ᄅᆞ-->
+</pages>
+
+<pages n="2:67b">
+<img n="2:67b">https://kohico.kr/_media/image/bookname/2:67b.jpg</img>
+<sent type="main" lang="chi" page="2:67b" n="1">作一大關棙，而代授者又擬出外，</sent>
+<sent type="main" lang="kor" page="2:67b" n="1">ᄒᆞᆫ 큰 긔관을 삼으나 ᄃᆡ신ᄒᆞ야 ᄒᆞ니도 ᄯᅩ 밧긔 내여 보내기에 의망ᄒᆞᆫ즉</sent>
+<sent type="main" lang="chi" page="2:67b" n="2">則其言自歸破綻。</sent>
+<sent type="main" lang="kor" page="2:67b" n="2">그 말이 스ᄉᆞ로 파탄ᄒᆞ기에 도라가고</sent>
+<sent type="main" lang="chi" page="2:67b" n="3">又做宮城扈衛之說，作一肯綮，</sent>
+<sent type="main" lang="kor" page="2:67b" n="3">ᄯᅩ 궁셩 호위란 말을 주츌ᄒᆞ야 ᄒᆞᆫ 긍경을 삼으나</sent>
+<sent type="main" lang="chi" page="2:67b" n="4">而其謂同議之大臣，實已出疆有月，</sent>
+<sent type="main" lang="kor" page="2:67b" n="4">그 니론 의논을 ᄒᆞᆫ가디로 ᄒᆞ엿다 ᄒᆞᄂᆞᆫ 대신이 실로 이믜 츌강ᄒᆞ미 ᄃᆞᆯ포 되여신즉</sent>
+<sent type="main" lang="chi" page="2:67b" n="5">則構虛捏無之狀，於此益自彰著。</sent>
+<sent type="main" lang="kor" page="2:67b" n="5">허ᄒᆞᆫ 거슬 얽고 업ᄂᆞᆫ 거슬 ᄭᅮ민 졍상이 이예 더옥 스ᄉᆞ로 챵져ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:67b" n="6">彼輩所指而爲逆者，輒稱三手，而惟此三事，率皆無所着落，</sent>
+<sent type="main" lang="kor" page="2:67b" n="6">피ᄇᆡ ᄀᆞᄅᆞ텨 역이라 ᄒᆞᄂᆞᆫ 배 믄득 삼슈ᄅᆞᆯ 일ᄏᆞᄅᆞ되 이 세 일이 다 챡낙이 업고</sent>
+<sent type="main" lang="chi" page="2:67b-68a" n="7">其稱承款者，又多强押於死後。</sent>
+<sent type="main" lang="kor" page="2:67b-68a" n="7">그 승관이라 일ᄏᆞᆺᄂᆞᆫ 쟤 ᄯᅩ 죽은 후의 위력으로 일홈 둔 거시 만흐니</sent>
+<!--승^관-->
+</pages>
+
+<pages n="2:68a">
+<img n="2:68a">https://kohico.kr/_media/image/bookname/2:68a.jpg</img>
+<sent type="main" lang="chi" page="2:68a" n="1">自古以來，亂獄何限，而豈有如許虛罔之獄事乎？</sent>
+<sent type="main" lang="kor" page="2:68a" n="1">녜로브터 ᄡᅥ 오므로 난옥이 언ᄆᆞ나 ᄒᆞ리오마ᄂᆞᆫ 엇디 이러ᄒᆞᆫ 허망ᄒᆞᆫ 옥ᄉᆡ 이시리오</sent>
+<sent type="main" lang="chi" page="2:68a" n="2">嗚呼！四大臣以可先朝舊德，不顧一身之死生，</sent>
+<sent type="main" lang="kor" page="2:68a" n="2">오회라 ᄉᆞ대신이 션됴 구덕으로ᄡᅥ 일신의 ᄉᆞᄉᆡᆼ을 도라보디 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:68a" n="3">惟務徇國而盡忠。臨危定策，丹衷炳然，</sent>
+<sent type="main" lang="kor" page="2:68a" n="3">오딕 나라흘 조차 튱셩 다ᄒᆞ믈 ᄒᆡᆷᄡᅥ 위ᄐᆡᄒᆞᆫ ᄃᆡ 님ᄒᆞ여 뎡ᄎᆡᆨᄒᆞ여 단튱이 병연ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:68a" n="4">此可與伏節死義者比論。</sent>
+<sent type="main" lang="kor" page="2:68a" n="4">이 가히 복졀ᄉᆞ의로 더브러 비ᄒᆞ여 의논ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="chi" page="2:68a" n="5">至若枉罹慘酷秉志不變者，</sent>
+<sent type="main" lang="kor" page="2:68a" n="5">원왕히 참혹ᄒᆞᆫ ᄃᆡ 걸녀 ᄯᅳᆺ을 자바 변티 아닛ᄂᆞ니의 니ᄅᆞ러ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="2:68a-68b" n="6">亦皆貞亮忠純之臣，</sent>
+<sent type="main" lang="kor" page="2:68a-68b" n="6">이 ᄯᅩᄒᆞᆫ 다 뎡냥ᄒᆞ고 튱슌ᄒᆞᆫ 신해어ᄂᆞᆯ</sent>
+<!--고 ^ 튱-->
+</pages>
+
+<pages n="2:68b">
+<img n="2:68b">https://kohico.kr/_media/image/bookname/2:68b.jpg</img>
+<sent type="main" lang="chi" page="2:68b" n="1">而備加淫刑，次第殄戮，天下寧有是耶？</sent>
+<sent type="main" lang="kor" page="2:68b" n="1">음형을 더어 ᄎᆞ뎨로 진멸ᄒᆞ여 죽이니 텬하의 엇디 이런 일이 이시리오</sent>
+<sent type="main" lang="chi" page="2:68b" n="2">尤可痛者，稱以討逆，</sent>
+<sent type="main" lang="kor" page="2:68b" n="2">더옥 가히 통분ᄒᆞᆫ 쟈ᄂᆞᆫ 토역이라 ᄡᅥ 일ᄏᆞᆺ고</sent>
+<sent type="main" lang="chi" page="2:68b" n="3">至錄虎賊於勳籍，强要千乘之尊，乃與賤隷同歃盟盤之血，</sent>
+<sent type="main" lang="kor" page="2:68b" n="3">호적을 훈젹에 올녀 쳔승지존으로 쳔예로 더브러 ᄆᆡᆼ반에 피ᄅᆞᆯ ᄒᆞᆫ가디로 ᄯᅵ 그시게 ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="2:68b" n="4">侮弄君父，矯誣上穹，略無所顧憚。</sent>
+<sent type="main" lang="kor" page="2:68b" n="4">군부ᄅᆞᆯ 모롱ᄒᆞ고 하ᄂᆞᆯ을 교무ᄒᆞ여 됴곰도 도라보아 긔탄ᄒᆞᆫ 배 업고</sent>
+<sent type="main" lang="chi" page="2:68b" n="5">至於逆鏡所撰文字中‘鍾巫’、‘蹀血’等語，愈益凶慘，</sent>
+<sent type="main" lang="kor" page="2:68b" n="5">역경의 지은 문ᄌᆞ 듕 죵무 텹혈 등 말의 니ᄅᆞ러ᄂᆞᆫ 더옥 흉참ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:68b" n="6">悖逆絶理，窮凶極惡，胡至於此？</sent>
+<sent type="main" lang="kor" page="2:68b" n="6">패역 졀니ᄒᆞ고 궁흉극악ᄒᆞ미 엇디 이에 니ᄅᆞ리오</sent>
+<sent type="main" lang="chi" page="2:68b-69a" n="7">蓋其設心造意，實在於捏成罔測之案，</sent>
+<sent type="main" lang="kor" page="2:68b-69a" n="7">대개 그 셜심과 조의 실로 망측지안을 얼거 일워</sent>
+<!--의 ^ 실-->
+</pages>
+
+<pages n="2:69a">
+<img n="2:69a">https://kohico.kr/_media/image/bookname/2:69a.jpg</img>
+<sent type="main" lang="chi" page="2:69a" n="1">盡殺保護諸臣，因以作上侵之階，</sent>
+<sent type="main" lang="kor" page="2:69a" n="1">보호 졔신을 다 죽여 인ᄒᆞ여 ᄡᅥ 우흐로 침핍ᄒᆞᆯ 계뎨ᄅᆞᆯ ᄆᆡᆫ드라 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="2:69a" n="2">以快售其原初陰計。</sent>
+<sent type="main" lang="kor" page="2:69a" n="2">그 처음 음흉ᄒᆞᆫ 계교ᄅᆞᆯ 쾌히 발뵈기의 잇고</sent>
+<sent type="main" lang="chi" page="2:69a" n="3">而乃若‘門生’、‘國老’之喩，其意指悖慢，尤非臣子所敢言者。</sent>
+<sent type="main" lang="kor" page="2:69a" n="3">문ᄉᆡᆼ 국뇌라 ᄒᆞᆫ 비유ᄂᆞᆫ 그 ᄯᅳᆺ이 ᄀᆞᄅᆞ티미 패만ᄒᆞ야 더옥 신ᄌᆞ의 감히 니ᄅᆞᆯ 배 아니라</sent>
+<sent type="main" lang="chi" page="2:69a" n="4">嗚呼！大舜處畎畝之中，有成邑成都之效，</sent>
+<sent type="main" lang="kor" page="2:69a" n="4">오회라 대슌이 견묘 가온ᄃᆡ 쳐ᄒᆞ샤 고을이 일고 도읍이 이ᄂᆞᆫ 효험이 겨시니</sent>
+<sent type="main" lang="chi" page="2:69a" n="5">孚應之不忒，有如是夫！</sent>
+<sent type="main" lang="kor" page="2:69a" n="5">부응의 어긔디 아니ᄒᆞ미 이러ᄐᆞᆺ ᄒᆞ미 잇거ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="2:69a" n="6">而顧予平日素蔑自修之工，德不足見孚，</sent>
+<sent type="main" lang="kor" page="2:69a" n="6">도라보건대 내 평일의 본ᄃᆡ 스ᄉᆞ로 닥ᄂᆞᆫ 공뷔 업서 덕이 죡히 부감티 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:69a-69b" n="7">誠未能有格，以致狼心未悛，</sent>
+<sent type="main" lang="kor" page="2:69a-69b" n="7">졍셩이 능히 격ᄒᆞ미 잇디 못ᄒᆞ야 ᄡᅥ 싀랑의 ᄆᆞᄋᆞᆷ을 고티디 못ᄒᆞ고</sent>
+<!--격^ᄒᆞ-->
+</pages>
+
+<pages n="2:69b">
+<img n="2:69b">https://kohico.kr/_media/image/bookname/2:69b.jpg</img>
+<sent type="main" lang="chi" page="2:69b" n="1">蛇舌愈閃，終底於忠賢騈命，</sent>
+<sent type="main" lang="kor" page="2:69b" n="1">ᄇᆡ야믜 혜 더옥 번드기믈 니뢰혀 ᄆᆞᄎᆞᆷ내 튱현이 병명ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:69b" n="2">國脈斲盡，剪焉有傾覆之勢，</sent>
+<sent type="main" lang="kor" page="2:69b" n="2">국ᄆᆡᆨ이 쵹진ᄒᆞ기의 니ᄅᆞ러 젼언히 경복ᄒᆞᆯ 셰 잇고</sent>
+<sent type="main" lang="chi" page="2:69b" n="3">予身亦在朝夕危懔之境。</sent>
+<sent type="main" lang="kor" page="2:69b" n="3">내 몸이 ᄯᅩᄒᆞᆫ 됴셕 위름ᄒᆞᆫ 디경의 이시니</sent>
+<sent type="main" lang="chi" page="2:69b" n="4">向微我祖宗默佑於上，</sent>
+<sent type="main" lang="kor" page="2:69b" n="4">뎌 즈음ᄭᅴ 우리 조종이 우희셔 ᄀᆞ마니 도오시고</sent>
+<sent type="main" lang="chi" page="2:69b" n="5">先大王至仁盛德，有以全安而扶翼之，則予安得有今日乎？</sent>
+<sent type="main" lang="kor" page="2:69b" n="5">션대왕 지인 셩덕이 젼안ᄒᆞ시고 부익ᄒᆞ시미 아닌즉 내 엇디 시러곰 오ᄂᆞᆯ날이 이시리오</sent>
+<sent type="main" lang="chi" page="2:69b" n="6">原始而論之，</sent>
+<sent type="main" lang="kor" page="2:69b" n="6">처음을 근본ᄒᆞ야 의논ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="2:69b-70a" n="7">惟此一種奸凶之輩，俱以肅廟大正斯文後</sent>
+<sent type="main" lang="kor" page="2:69b-70a" n="7">오딕 이 일죵 간흉ᄒᆞᆫ 무리 다 슉묘겨오셔 ᄉᆞ문을 크게 졍ᄒᆞ오신 후의</sent>
+<!--신 ^ 후-->
+</pages>
+
+<pages n="2:70a">
+<img n="2:70a">https://kohico.kr/_media/image/bookname/2:70a.jpg</img>
+<sent type="main" lang="chi" page="2:70a" n="1">棄斥之人，百計凌逼於不敢言之地，</sent>
+<sent type="main" lang="kor" page="2:70a" n="1">기쳑ᄒᆞ인 사ᄅᆞᆷ으로ᄡᅥ 블감언ᄌᆡ디의 ᄇᆡᆨ계로 능핍ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:70a" n="2">必使社稷顚危，以洩宿怨。</sent>
+<sent type="main" lang="kor" page="2:70a" n="2">반ᄃᆞ시 샤직으로 ᄒᆞ여곰 뎐위케 ᄒᆞ야 ᄡᅥ 슉원을 플려 ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="chi" page="2:70a" n="3">故其日夜所經營，惟在此耳，</sent>
+<sent type="main" lang="kor" page="2:70a" n="3">그 일야 경영ᄒᆞᄂᆞᆫ 배 오딕 이에 잇ᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="2:70a" n="4">罪惡之貫盈，實前史所未見也。</sent>
+<sent type="main" lang="kor" page="2:70a" n="4">죄악의 관영ᄒᆞ미 실로 젼ᄉᆞ의 보디 못ᄒᆞᆫ 배라</sent>
+<sent type="main" lang="chi" page="2:70a" n="5">嗚呼！惟我先大王慈仁，愛人好生之意，</sent>
+<sent type="main" lang="kor" page="2:70a" n="5">오회라 오딕 우리 션대왕겨오셔 ᄌᆞ인ᄒᆞ오시고 사ᄅᆞᆷ을 ᄉᆞ랑ᄒᆞ오샤 호ᄉᆡᆼᄒᆞ시ᄂᆞᆫ ᄯᅳᆺ이</sent>
+<sent type="main" lang="chi" page="2:70a" n="6">藹然於絲綸之間，</sent>
+<sent type="main" lang="kor" page="2:70a" n="6">ᄉᆞ륜 ᄉᆞ이의 애연ᄒᆞ오시니</sent>
+<sent type="main" lang="chi" page="2:70a" n="7">當兩大臣之被極禍也，卽降還收之音，</sent>
+<sent type="main" lang="kor" page="2:70a" n="7">냥 대신이 극화 닙기ᄅᆞᆯ 당ᄒᆞ야 즉시 환슈ᄒᆞ오시ᄂᆞᆫ 덕음을 ᄂᆞ리오시고</sent>
+<sent type="main" lang="chi" page="2:70a-70b" n="8">間以災咎，頻命疏放，</sent>
+<sent type="main" lang="kor" page="2:70a-70b" n="8">ᄉᆞ이의 ᄌᆡ구로ᄡᅥ ᄌᆞ로 명ᄒᆞ오샤 소방ᄒᆞ라 ᄒᆞ오시니</sent>
+<!--ᄒᆞ^오-->
+</pages>
+
+<pages n="2:70b">
+<img n="2:70b">https://kohico.kr/_media/image/bookname/2:70b.jpg</img>
+<sent type="main" lang="chi" page="2:70b" n="1">聖意所在，卽此可見。</sent>
+<sent type="main" lang="kor" page="2:70b" n="1">셩의 소ᄌᆡ 여긔 가히 보올디라</sent>
+<sent type="main" lang="chi" page="2:70b" n="2">向來禍變，雖靡所不有，豈以此貽累我聖德也？</sent>
+<sent type="main" lang="kor" page="2:70b" n="2">향ᄂᆡ 화변이 비록 잇디 아닌 배 업ᄉᆞ나 엇디 일로ᄡᅥ 우리 셩덕에 이루ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="2:70b" n="3">肆予追先王遺意，旣命</sent>
+<sent type="main" lang="kor" page="2:70b" n="3">이러모로 내 션왕 유의ᄅᆞᆯ ᄯᆞ라 즉시 명ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="2:70b" n="4">伸故相臣金昌集、李頤命、趙泰采、李健命之冤，復其官爵，賜以美諡，</sent>
+<sent type="main" lang="kor" page="2:70b" n="4">고 샹신 김챵집 니이명 됴태ᄎᆡ 니건명의 원억ᄒᆞ믈 신셜ᄒᆞ야 그 관쟉을 복ᄒᆞ고 아ᄅᆞᆷ다온 시호로ᄡᅥ 주며</sent>
+<sent type="main" lang="chi" page="2:70b" n="5">李晩成、洪啓迪、金雲澤、金民澤、金濟謙、趙聖復、李弘述、尹慤、白時耉、李尙□、金時泰等，還其職牒，贈爵秩。</sent>
+<sent type="main" lang="kor" page="2:70b" n="5">니만셩 홍계뎍 김운ᄐᆡᆨ 김민ᄐᆡᆨ 김졔겸 됴셩복 니홍슐 윤각 ᄇᆡᆨ시구 니샹집 김시태 등을 그 직텹을 주고 쟉질을 튜증ᄒᆞ며</sent>
+<!--'니샹집'의 '집'에 해당하는 한자는 좌변 '香'과 우변 '集'이 합쳐진 자이나 해당 한자가 존재하지 않아 '□'로 표시하였음-->
+<sent type="main" lang="chi" page="2:70b-71a" n="6">逆賊金一鏡、睦虎龍等，竝依法正刑，</sent>
+<sent type="main" lang="kor" page="2:70b-71a" n="6">역적 김일경 목호룡 등은 아오로 의법 졍형ᄒᆞ고</sent>
+<!--은 ^ 아-->
+</pages>
+
+<pages n="2:71a">
+<img n="2:71a">https://kohico.kr/_media/image/bookname/2:71a.jpg</img>
+<sent type="main" lang="chi" page="2:71a" n="1">李師尙姑從末減之律，參酌處絞，</sent>
+<sent type="main" lang="kor" page="2:71a" n="1">니ᄉᆞ샹은 아딕 말감ᄒᆞᄂᆞᆫ 뉼을 조차 참쟉 쳐교ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="2:71a" n="2">革罷扶社功臣，收其錄券。</sent>
+<sent type="main" lang="kor" page="2:71a" n="2">부샤공신을 혁파ᄒᆞ야 그 녹권을 거두고</sent>
+<sent type="main" lang="chi" page="2:71a" n="3">其餘凶賊，或竄或黜或囚鞫。</sent>
+<sent type="main" lang="kor" page="2:71a" n="3">그 나믄 흉적은 혹 원찬ᄒᆞ고 혹 문츌ᄒᆞ고 혹 가도와 국문ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="2:71a" n="4">誅討之典，雖姑稽於今日，順逆之辨，庶少慰於神人。</sent>
+<sent type="main" lang="kor" page="2:71a" n="4">듀토ᄒᆞᄂᆞᆫ 법이 비록 아딕 오ᄂᆞᆯ날 더듸나 슌역의 분변은 거의 져기 신인을 위로ᄒᆞᆯ디라</sent>
+<sent type="main" lang="chi" page="2:71a" n="5">方當蕩廓之餘，可無播告之脩。</sent>
+<sent type="main" lang="kor" page="2:71a" n="5">ᄇᆞ야흐로 탕확ᄒᆞᆫ ᄭᅳᆺᄎᆞᆯ 당ᄒᆞ야 가히 파고ᄅᆞᆯ 길게 호미 업ᄉᆞ리오</sent>
+<sent type="main" lang="chi" page="2:71a" n="6">咨爾中外臣庶，咸知予意，斥邪佑正，</sent>
+<sent type="main" lang="kor" page="2:71a" n="6">ᄌᆞ홉다 너 듕외 신셔ᄂᆞᆫ 다 내 ᄯᅳᆺ을 알아 샤특ᄒᆞ믈 ᄇᆡ쳑ᄒᆞ고 바로믈 도와</sent>
+<sent type="main" lang="chi" page="2:71a-71b" n="7">永肩乃心，以保乂于邦家。</sent>
+<sent type="main" lang="kor" page="2:71a-71b" n="7">기리 네 ᄆᆞᄋᆞᆷ을 견ᄒᆞ야 ᄡᅥ 방가ᄅᆞᆯ 보예ᄒᆞ라</sent>
+<!--보^예-->
+</pages>
+
+<pages n="2:71b">
+<img n="2:71b">https://kohico.kr/_media/image/bookname/2:71b.jpg</img>
+<sent type="main" lang="chi" page="2:71b" n="1">於戲！伸冤討罪，遹循天理之公，</sent>
+<sent type="main" lang="kor" page="2:71b" n="1">오회라 원억ᄒᆞ믈 펴고 죄ᄅᆞᆯ 텨 진실로 텬리의 공번되믈 좃고</sent>
+<sent type="main" lang="chi" page="2:71b" n="2">開國承家，永絶小人之禍，故玆敎示，想宜知悉。”</sent>
+<sent type="main" lang="kor" page="2:71b" n="2">나라흘 열고 집을 니으매 기리 쇼인의 화ᄅᆞᆯ ᄭᅳᆺᄎᆞᆯ 거시매 고ᄌᆞ 교시ᄒᆞ니 샹의 디실ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="2:71b" n="3">大提學李宜顯所製也。</sent>
+<sent type="main" lang="kor" page="2:71b" n="3">대뎨ᄒᆞᆨ 니의현의 지은 배러라</sent>
+<sent type="title" lang="chi" page="2:71b" n="4">闡義昭鑑 卷之二</sent>
+<sent type="title" lang="kor" page="2:71b" n="4">쳔의쇼감언ᄒᆡ 권지이</sent>
+<!--title: 제목, title2: 제목, main: 본문(한 단 내림), anno: 본문의 협주, main2: 본문2(두 단 내림), anno2: 본문2의 협주-->
+</pages>
+
+</doc>
+

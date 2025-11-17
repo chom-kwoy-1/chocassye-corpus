@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">한청문감</title>
+<title lang="chi">漢淸文鑑</title>
+<full_name>한청문감</full_name>
+<nikl_name>한청문감</nikl_name>
+<general_name>한청문감</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>프랑스MF본</version>
+<volume n="15"/>
+<author></author>
+<date>18세기후기</date><!--1778?-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title></title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/11</date>
+<respStmt>
+<resp>입력자</resp><name>장린</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>허인영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<!--K#한국어(일부에만 이 표시)-->
+<!--한어표제어가 없는 경우: C#Ø(일부에만 이 표시)-->
+<!-- －－: 해당 부분의 앞뒤에 \로 표시-->
+<!-- 추가 설명: ~-->
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/18세기후기_한청문감/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="01">漢淸文鑑卷十五</sent>
+<sent type="title2" lang="chi" page="01a" n="02">天文類 一則</sent>
+<sent type="main" lang="chi" page="01a" n="03">司命</sent>
+<sent type="main" lang="kor" page="01a" n="03">三台上星</sent>
+<sent type="main" lang="chi" page="01a" n="04">司中</sent>
+<sent type="main" lang="kor" page="01a" n="04">三台中星</sent>
+<sent type="main" lang="chi" page="01a" n="05">司祿</sent>
+<sent type="main" lang="kor" page="01a" n="05">三台下星</sent>
+<sent type="main" lang="chi" page="01a" n="06">析木津</sent>
+<sent type="main" lang="kor" page="01a" n="06">銀河津</sent>
+<sent type="main" lang="chi" page="01a" n="07">閶闔風</sent>
+<sent type="main" lang="kor" page="01a" n="07">ᄀᆞᄋᆞᆯ에 브ᄂᆞᆫ ᄇᆞ람</sent>
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/18세기후기_한청문감/01b.jpg</img>
+<sent type="title2" lang="chi" page="01b" n="01">時令類 二則</sent>
+<sent type="main" lang="chi" page="01b" n="02">困敦</sent>
+<sent type="main" lang="kor" page="01b" n="02">子</sent>
+<sent type="main" lang="chi" page="01b" n="03">赤奮若</sent>
+<sent type="main" lang="kor" page="01b" n="03">丑</sent>
+<sent type="main" lang="chi" page="01b" n="04">攝提格</sent>
+<sent type="main" lang="kor" page="01b" n="04">寅</sent>
+<sent type="main" lang="chi" page="01b" n="05">單閼</sent>
+<sent type="main" lang="kor" page="01b" n="05">卯</sent>
+<sent type="main" lang="chi" page="01b" n="06">執徐</sent>
+<sent type="main" lang="kor" page="01b" n="06">辰</sent>
+<sent type="main" lang="chi" page="01b" n="07">大荒落</sent>
+<sent type="main" lang="kor" page="01b" n="07">巳</sent>
+<sent type="main" lang="chi" page="01b" n="08">敦牂</sent>
+<sent type="main" lang="kor" page="01b" n="08">午</sent>
+<sent type="main" lang="chi" page="01b" n="09">協洽</sent>
+<sent type="main" lang="kor" page="01b" n="09">未</sent><!--協^洽-->
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/18세기후기_한청문감/02a.jpg</img>
+<sent type="main" lang="chi" page="02a" n="01">涒灘</sent>
+<sent type="main" lang="kor" page="02a" n="01">申</sent>
+<sent type="main" lang="chi" page="02a" n="02">作噩</sent>
+<sent type="main" lang="kor" page="02a" n="02">酉</sent>
+<sent type="main" lang="chi" page="02a" n="03">閼茂</sent>
+<sent type="main" lang="kor" page="02a" n="03">戌</sent>
+<sent type="main" lang="chi" page="02a" n="04">大淵獻</sent>
+<sent type="main" lang="kor" page="02a" n="04">亥</sent>
+<sent type="main" lang="chi" page="02a" n="05">辜</sent>
+<sent type="main" lang="kor" page="02a" n="05">十一月</sent>
+<sent type="main" lang="chi" page="02a" n="06">荼</sent>
+<sent type="main" lang="kor" page="02a" n="06">十二月</sent>
+<sent type="main" lang="chi" page="02a" n="07">陬</sent>
+<sent type="main" lang="kor" page="02a" n="07">正月</sent>
+<sent type="main" lang="chi" page="02a" n="08">如</sent>
+<sent type="main" lang="kor" page="02a" n="08">二月</sent>
+<sent type="main" lang="chi" page="02a" n="09">寎</sent>
+<sent type="main" lang="kor" page="02a" n="09">三月</sent>
+<sent type="main" lang="chi" page="02a" n="10">余</sent>
+<sent type="main" lang="kor" page="02a" n="10">四月</sent>
+<sent type="main" lang="chi" page="02a" n="11">皐</sent>
+<sent type="main" lang="kor" page="02a" n="11">五月</sent>
+<sent type="main" lang="chi" page="02a" n="12">且</sent>
+<sent type="main" lang="kor" page="02a" n="12">六月</sent>
+<sent type="main" lang="chi" page="02a" n="13">相</sent>
+<sent type="main" lang="kor" page="02a" n="13">七月</sent>
+<sent type="main" lang="chi" page="02a" n="14">壯</sent>
+<sent type="main" lang="kor" page="02a" n="14">八月</sent>
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/18세기후기_한청문감/02b.jpg</img>
+<sent type="main" lang="chi" page="02b" n="01">元</sent>
+<sent type="main" lang="kor" page="02b" n="01">九月</sent>
+<sent type="main" lang="chi" page="02b" n="02">陽</sent>
+<sent type="main" lang="kor" page="02b" n="02">十月</sent>
+<sent type="main" lang="chi" page="02b" n="03">要安日</sent>
+<sent type="main" lang="kor" page="02b" n="03">凡單月內自寅至未六日雙月內自申至丑六日爲要安日</sent><!--'要安日'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="02b" n="04">玉宇日</sent>
+<sent type="main" lang="kor" page="02b" n="04">凡單月內自卯至申六日雙月內自酉至寅六日爲玉宇日</sent><!--'玉宇日'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="02b" n="05">益後日</sent>
+<sent type="main" lang="kor" page="02b" n="05">凡單月內自子至巳六日雙月內自午至亥六日爲益後日</sent><!--'益後日'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/18세기후기_한청문감/03a.jpg</img>
+<sent type="main" lang="chi" page="03a" n="01">續世日</sent>
+<sent type="main" lang="kor" page="03a" n="01">凡單月內自丑至午六日雙月內自未至子六日爲續世日</sent><!--'續世日'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="03a" n="02">六儀日</sent>
+<sent type="main" lang="kor" page="03a" n="02">自正月辰日逆數至臘月巳日爲六儀日</sent><!--'六儀日'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="03a" n="03">不將日</sent>
+<sent type="main" lang="kor" page="03a" n="03">陰陽不相合之日</sent>
+<sent type="main" lang="chi" page="03a" n="04">鳴吠日</sent>
+<sent type="main" lang="kor" page="03a" n="04">戊午戊申日外午申酉日</sent>
+<sent type="main" lang="chi" page="03a" n="05">專日</sent>
+<sent type="main" lang="kor" page="03a" n="05">五行相合之日</sent>
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/18세기후기_한청문감/03b.jpg</img>
+<sent type="main" lang="chi" page="03b" n="01">寶日</sent>
+<sent type="main" lang="kor" page="03b" n="01">干生支之日</sent>
+<sent type="main" lang="chi" page="03b" n="02">義日</sent>
+<sent type="main" lang="kor" page="03b" n="02">支生干之日</sent>
+<sent type="main" lang="chi" page="03b" n="03">制日</sent>
+<sent type="main" lang="kor" page="03b" n="03">干克支之日</sent>
+<sent type="main" lang="chi" page="03b" n="04">伐日</sent>
+<sent type="main" lang="kor" page="03b" n="04">支克干之日</sent>
+<sent type="main" lang="chi" page="03b" n="05">上朔日</sent>
+<sent type="main" lang="kor" page="03b" n="05">陰陽德俱窮日</sent>
+<sent type="title2" lang="chi" page="03b" n="06">地與類 二則</sent>
+<sent type="main" lang="chi" page="03b" n="07">黑龍潭</sent>
+<sent type="main" lang="kor" page="03b" n="07">在都城西北</sent>
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/18세기후기_한청문감/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="01">土門江</sent>
+<sent type="main" lang="kor" page="04a" n="01">在瀋陽永吉州 ○ 俗呼 豆滿江</sent>
+<sent type="main" lang="chi" page="04a" n="02">嫩江</sent>
+<sent type="main" lang="kor" page="04a" n="02">瀋陽所屬</sent>
+<sent type="main" lang="chi" page="04a" n="03">瀋河</sent>
+<sent type="main" lang="kor" page="04a" n="03">在瀋陽承德縣</sent>
+<sent type="main" lang="chi" page="04a" n="04">木査河</sent>
+<sent type="main" lang="kor" page="04a" n="04">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="04a" n="05">梁水河</sent>
+<sent type="main" lang="kor" page="04a" n="05">瀋陽所屬</sent>
+<sent type="main" lang="chi" page="04a" n="06">湄沱河</sent>
+<sent type="main" lang="kor" page="04a" n="06">瀋陽所屬</sent>
+<sent type="main" lang="chi" page="04a" n="07">句驪河</sent>
+<sent type="main" lang="kor" page="04a" n="07">在瀋陽承德縣</sent>
+<sent type="main" lang="chi" page="04a" n="08">溜馬汀</sent>
+<sent type="main" lang="kor" page="04a" n="08">瀋陽所屬</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/18세기후기_한청문감/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="01">墨井</sent>
+<sent type="main" lang="kor" page="04b" n="01">井有黑石故名焉</sent>
+<sent type="main" lang="chi" page="04b" n="02">景山</sent>
+<sent type="main" lang="kor" page="04b" n="02">在紫禁城內北</sent>
+<sent type="main" lang="chi" page="04b" n="03">輝山</sent>
+<sent type="main" lang="kor" page="04b" n="03">在瀋陽承德縣</sent>
+<sent type="main" lang="chi" page="04b" n="04">南雙山</sent>
+<sent type="main" lang="kor" page="04b" n="04">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="04b" n="05">東水山</sent>
+<sent type="main" lang="kor" page="04b" n="05">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="04b" n="06">泉山</sent>
+<sent type="main" lang="kor" page="04b" n="06">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="04b" n="07">平頂山</sent>
+<sent type="main" lang="kor" page="04b" n="07">在瀋陽海城縣 ○ 一名浴盆山 ○ 又唐望山</sent>
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/18세기후기_한청문감/05a.jpg</img>
+<sent type="main" lang="chi" page="05a" n="01">車駕山</sent>
+<sent type="main" lang="kor" page="05a" n="01">平頂山之一名唐太宗駐蹕於此山故名焉</sent>
+<sent type="main" lang="chi" page="05a" n="02">降龍山</sent>
+<sent type="main" lang="kor" page="05a" n="02">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="05a" n="03">白平山</sent>
+<sent type="main" lang="kor" page="05a" n="03">在瀋陽邊外</sent>
+<sent type="main" lang="chi" page="05a" n="04">繡嶺</sent>
+<sent type="main" lang="kor" page="05a" n="04">在瀋陽海城縣</sent>
+<sent type="main" lang="chi" page="05a" n="05">鐵嶺</sent>
+<sent type="main" lang="kor" page="05a" n="05">在瀋陽遼陽州內</sent>
+<sent type="main" lang="chi" page="05a" n="06">石門嶺</sent>
+<sent type="main" lang="kor" page="05a" n="06">在瀋陽開平縣</sent>
+<sent type="main" lang="chi" page="05a" n="07">興隆嶺</sent>
+<sent type="main" lang="kor" page="05a" n="07">在瀋陽承德縣</sent><!--隆^嶺-->
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/18세기후기_한청문감/05b.jpg</img>
+<sent type="main" lang="chi" page="05b" n="01">縷堤</sent>
+<sent type="main" lang="kor" page="05b" n="01">좁은 방츅</sent>
+<sent type="main" lang="chi" page="05b" n="02">遙堤</sent>
+<sent type="main" lang="kor" page="05b" n="02">멀리 싼 방츅</sent>
+<sent type="main" lang="chi" page="05b" n="03">月堤</sent>
+<sent type="main" lang="kor" page="05b" n="03">半月形으로 싼 방츅</sent>
+<sent type="main" lang="chi" page="05b" n="04">滾水壩</sent>
+<sent type="main" lang="kor" page="05b" n="04">믈 가감ᄒᆞᄂᆞᆫ 언</sent>
+<sent type="main" lang="chi" page="05b" n="05">束水壩</sent>
+<sent type="main" lang="kor" page="05b" n="05">믈 급히 흐르게 ᄒᆞᆫ 언</sent>
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/18세기후기_한청문감/06a.jpg</img>
+<sent type="main" lang="chi" page="06a" n="01">竹絡壩</sent>
+<sent type="main" lang="kor" page="06a" n="01">쾅지에 돌 담아 막은 언</sent>
+<sent type="main" lang="chi" page="06a" n="02">亂石壩</sent>
+<sent type="main" lang="kor" page="06a" n="02">잡돌로 ᄊᆞᆫ 언</sent>
+<sent type="main" lang="chi" page="06a" n="03">魚鱗壩</sent>
+<sent type="main" lang="kor" page="06a" n="03">고기 비ᄂᆞᆯᄀᆞᆺ치 ᄊᆞᆫ 언</sent>
+<sent type="main" lang="chi" page="06a" n="04">龍門壩</sent>
+<sent type="main" lang="kor" page="06a" n="04">어귀 튼 언</sent>
+<sent type="main" lang="chi" page="06a" n="05">磯嘴掃</sent>
+<sent type="main" lang="kor" page="06a" n="05">믈에 ᄑᆡ이지 아니케 노흔 것</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/18세기후기_한청문감/06b.jpg</img>
+<sent type="title2" lang="chi" page="06b" n="01">古大臣官員類 一則</sent>
+<sent type="main" lang="chi" page="06b" n="02">諸侯</sent>
+<sent type="main" lang="kor" page="06b" n="02">諸侯</sent><!--'諸侯'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="03">冢宰</sent>
+<sent type="main" lang="kor" page="06b" n="03">冢宰</sent><!--'冢宰'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="04">司徒</sent>
+<sent type="main" lang="kor" page="06b" n="04">司徒</sent><!--'司徒'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="05">宗伯</sent>
+<sent type="main" lang="kor" page="06b" n="05">宗伯</sent><!--'宗伯'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="06">司馬</sent>
+<sent type="main" lang="kor" page="06b" n="06">司馬</sent><!--'司馬'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="07">司寇</sent>
+<sent type="main" lang="kor" page="06b" n="07">司寇</sent><!--'司寇'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="06b" n="08">士師</sent>
+<sent type="main" lang="kor" page="06b" n="08">士師</sent><!--'士師'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/18세기후기_한청문감/07a.jpg</img>
+<sent type="main" lang="chi" page="07a" n="01">司空</sent>
+<sent type="main" lang="kor" page="07a" n="01">司空</sent><!--'司空'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="02">相</sent>
+<sent type="main" lang="kor" page="07a" n="02">相</sent><!--'相'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="03">陪臣</sent>
+<sent type="main" lang="kor" page="07a" n="03">陪臣</sent><!--'陪臣'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="04">令尹</sent>
+<sent type="main" lang="kor" page="07a" n="04">令尹</sent><!--'令尹'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="05">大夫</sent>
+<sent type="main" lang="kor" page="07a" n="05">大夫</sent><!--'大夫'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="06">士</sent>
+<sent type="main" lang="kor" page="07a" n="06">士</sent><!--'士'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="07">太史</sent>
+<sent type="main" lang="kor" page="07a" n="07">太史</sent><!--'太史'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07a" n="08">內史</sent>
+<sent type="main" lang="kor" page="07a" n="08">內史</sent><!--'內史'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/18세기후기_한청문감/07b.jpg</img>
+<sent type="main" lang="chi" page="07b" n="01">行人</sent>
+<sent type="main" lang="kor" page="07b" n="01">行人</sent><!--'行人'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07b" n="02">封人</sent>
+<sent type="main" lang="kor" page="07b" n="02">封人</sent><!--'封人'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07b" n="03">宰</sent>
+<sent type="main" lang="kor" page="07b" n="03">宰</sent><!--'宰'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07b" n="04">委吏</sent>
+<sent type="main" lang="kor" page="07b" n="04">委吏</sent><!--'委吏'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07b" n="05">乘田</sent>
+<sent type="main" lang="kor" page="07b" n="05">乘田</sent><!--'乘田'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="07b" n="06">遒人</sent>
+<sent type="main" lang="kor" page="07b" n="06">敎習民庶之人</sent>
+<sent type="main" lang="chi" page="07b" n="07">家臣</sent>
+<sent type="main" lang="kor" page="07b" n="07">家臣</sent><!--'家臣'은 반복 부호로 표기되어 있음-->
+<sent type="title2" lang="chi" page="07b" n="08">古祭器類 一則</sent>
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/18세기후기_한청문감/08a.jpg</img>
+<sent type="main" lang="chi" page="08a" n="01">靑璋</sent>
+<sent type="main" lang="kor" page="08a" n="01">古祭幣色靑制如玉符</sent>
+<sent type="main" lang="chi" page="08a" n="02">瑚</sent>
+<sent type="main" lang="kor" page="08a" n="02">古之祭器盛黍稷者夏曰瑚</sent><!--'瑚'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08a" n="03">璉</sent>
+<sent type="main" lang="kor" page="08a" n="03">古之祭器盛稻禾者商曰璉</sent><!--'璉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08a" n="04">鼎</sent>
+<sent type="main" lang="kor" page="08a" n="04">古之調五味之寶器</sent>
+<sent type="main" lang="chi" page="08a" n="05">鼐</sent>
+<sent type="main" lang="kor" page="08a" n="05">鼎之大者</sent>
+<sent type="title2" lang="chi" page="08a" n="06">古冠冕類 三則</sent>
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/18세기후기_한청문감/08b.jpg</img>
+<sent type="main" lang="chi" page="08b" n="01">冕</sent>
+<sent type="main" lang="kor" page="08b" n="01">冕以旒之多少分品級</sent><!--'冕'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08b" n="02">十二旒冕</sent>
+<sent type="main" lang="kor" page="08b" n="02">十二旒冕 ○ 有九七五三旒冕</sent><!--'十二旒冕'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08b" n="03">麻冕</sent>
+<sent type="main" lang="kor" page="08b" n="03">麻冕</sent><!--'麻冕'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08b" n="04">冔</sent>
+<sent type="main" lang="kor" page="08b" n="04">商人祭冠</sent>
+<sent type="main" lang="chi" page="08b" n="05">收</sent>
+<sent type="main" lang="kor" page="08b" n="05">夏人祭冠</sent>
+<sent type="main" lang="chi" page="08b" n="06">冠</sent>
+<sent type="main" lang="kor" page="08b" n="06">冠</sent><!--'冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08b" n="07">梁冠</sent>
+<sent type="main" lang="kor" page="08b" n="07">梁冠以梁之多少分品級</sent><!--'梁冠'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/18세기후기_한청문감/09a.jpg</img>
+<sent type="main" lang="chi" page="09a" n="01">七梁冠</sent>
+<sent type="main" lang="kor" page="09a" n="01">七梁冠 ○ 有六五四三二一梁冠</sent><!--'七梁冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09a" n="02">九龍四鳳冠</sent>
+<sent type="main" lang="kor" page="09a" n="02">古皇后之冠</sent>
+<sent type="main" lang="chi" page="09a" n="03">通天冠</sent>
+<sent type="main" lang="kor" page="09a" n="03">通天冠</sent><!--'通天冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09a" n="04">平天冠</sent>
+<sent type="main" lang="kor" page="09a" n="04">平天冠</sent><!--'平天冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09a" n="05">遠遊冠</sent>
+<sent type="main" lang="kor" page="09a" n="05">遠遊冠</sent><!--'遠遊冠'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/18세기후기_한청문감/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="01">獬豸冠</sent>
+<sent type="main" lang="kor" page="09b" n="01">御史所着 ○ 一名法冠</sent>
+<sent type="main" lang="chi" page="09b" n="02">進賢冠</sent>
+<sent type="main" lang="kor" page="09b" n="02">進賢冠</sent><!--'進賢冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09b" n="03">貂蟬冠</sent>
+<sent type="main" lang="kor" page="09b" n="03">貂蟬冠</sent><!--'貂蟬冠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09b" n="04">鶡冠</sent>
+<sent type="main" lang="kor" page="09b" n="04">勇夫所着</sent>
+<sent type="main" lang="chi" page="09b" n="05">鷸冠</sent>
+<sent type="main" lang="kor" page="09b" n="05">太史所着</sent>
+<sent type="main" lang="chi" page="09b" n="06">建華冠</sent>
+<sent type="main" lang="kor" page="09b" n="06">舞童所着</sent>
+<sent type="main" lang="chi" page="09b" n="07">方山冠</sent>
+<sent type="main" lang="kor" page="09b" n="07">樂工所着</sent><!--方^山-->
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/18세기후기_한청문감/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="01">巧士冠</sent>
+<sent type="main" lang="kor" page="10a" n="01">校尉所着</sent>
+<sent type="main" lang="chi" page="10a" n="02">弁</sent>
+<sent type="main" lang="kor" page="10a" n="02">弁</sent><!--'弁'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10a" n="03">爵弁</sent>
+<sent type="main" lang="kor" page="10a" n="03">似冠而無旒</sent>
+<sent type="main" lang="chi" page="10a" n="04">皮弁</sent>
+<sent type="main" lang="kor" page="10a" n="04">皮弁</sent><!--'皮弁'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10a" n="05">委貌</sent>
+<sent type="main" lang="kor" page="10a" n="05">周之禮冠</sent>
+<sent type="main" lang="chi" page="10a" n="06">毋追</sent>
+<sent type="main" lang="kor" page="10a" n="06">夏之禮冠</sent>
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/18세기후기_한청문감/10b.jpg</img>
+<sent type="main" lang="chi" page="10b" n="01">幞頭</sent>
+<sent type="main" lang="kor" page="10b" n="01">幞頭</sent><!--'幞頭'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="02">紗帽</sent>
+<sent type="main" lang="kor" page="10b" n="02">紗帽</sent><!--'紗帽'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="03">巾</sent>
+<sent type="main" lang="kor" page="10b" n="03">巾</sent><!--'巾'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="04">加籠巾</sent>
+<sent type="main" lang="kor" page="10b" n="04">平頂건</sent>
+<sent type="main" lang="chi" page="10b" n="05">儒巾</sent>
+<sent type="main" lang="kor" page="10b" n="05">儒巾</sent><!--'儒巾'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="06">綸巾</sent>
+<sent type="main" lang="kor" page="10b" n="06">綸巾</sent><!--'綸巾'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="07">幅巾</sent>
+<sent type="main" lang="kor" page="10b" n="07">幅巾</sent><!--'幅巾'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="10b" n="08">方巾</sent>
+<sent type="main" lang="kor" page="10b" n="08">四方之巾</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/18세기후기_한청문감/11a.jpg</img>
+<sent type="main" lang="chi" page="11a" n="01">治五巾</sent>
+<sent type="main" lang="kor" page="11a" n="01">士之所着</sent>
+<sent type="main" lang="chi" page="11a" n="02">吏巾</sent>
+<sent type="main" lang="kor" page="11a" n="02">兩傍有小翅者</sent>
+<sent type="main" lang="chi" page="11a" n="03">早隸巾</sent>
+<sent type="main" lang="kor" page="11a" n="03">巾之後面以絲垂者</sent>
+<sent type="main" lang="chi" page="11a" n="04">幘</sent>
+<sent type="main" lang="kor" page="11a" n="04">幘</sent><!--'幘'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="11a" n="05">絳幘</sent>
+<sent type="main" lang="kor" page="11a" n="05">絳幘</sent><!--'絳幘'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="11a" n="06">帢</sent>
+<sent type="main" lang="kor" page="11a" n="06">깁으로 ᄆᆡᆫ든 건</sent>
+<sent type="main" lang="chi" page="11a" n="07">臺笠</sent>
+<sent type="main" lang="kor" page="11a" n="07">臺笠</sent><!--'臺笠'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/18세기후기_한청문감/11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="01">緇撮</sent>
+<sent type="main" lang="kor" page="11b" n="01">츼포 건</sent>
+<sent type="main" lang="chi" page="11b" n="02">接罹</sent>
+<sent type="main" lang="kor" page="11b" n="02">接罹</sent><!--'接罹'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="11b" n="03">垂旒</sent>
+<sent type="main" lang="kor" page="11b" n="03">冕旒</sent>
+<sent type="main" lang="chi" page="11b" n="04">黈纊</sent>
+<sent type="main" lang="kor" page="11b" n="04">관 좌우 드림</sent>
+<sent type="main" lang="chi" page="11b" n="05">紗帽翅</sent>
+<sent type="main" lang="kor" page="11b" n="05">사모 ᄲᅮᆯ</sent>
+<sent type="main" lang="chi" page="11b" n="06">簪纓</sent>
+<sent type="main" lang="kor" page="11b" n="06">簪纓</sent><!--'簪纓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="11b" n="07">金璫</sent>
+<sent type="main" lang="kor" page="11b" n="07">冠에 金鈴</sent>
+<sent type="main" lang="chi" page="11b" n="08">網巾</sent>
+<sent type="main" lang="kor" page="11b" n="08">網巾</sent><!--'網巾'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/18세기후기_한청문감/12a.jpg</img>
+<sent type="title2" lang="chi" page="12a" n="01">古刑罰類 一則</sent>
+<sent type="main" lang="chi" page="12a" n="02">髡</sent>
+<sent type="main" lang="kor" page="12a" n="02">마리 털 버히다</sent>
+<sent type="main" lang="chi" page="12a" n="03">刵</sent>
+<sent type="main" lang="kor" page="12a" n="03">귀 버히다</sent>
+<sent type="main" lang="chi" page="12a" n="04">劓</sent>
+<sent type="main" lang="kor" page="12a" n="04">코 버히다</sent>
+<sent type="main" lang="chi" page="12a" n="05">刖</sent>
+<sent type="main" lang="kor" page="12a" n="05">무롭 버히다</sent>
+<sent type="main" lang="chi" page="12a" n="06">剕</sent>
+<sent type="main" lang="kor" page="12a" n="06">발 버히다</sent>
+<sent type="main" lang="chi" page="12a" n="07">宮</sent>
+<sent type="main" lang="kor" page="12a" n="07">불 석이다</sent>
+<sent type="title2" lang="chi" page="12a" n="08">樂類 一則</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/18세기후기_한청문감/12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="01">海上蟠桃之章</sent>
+<sent type="main" lang="kor" page="12b" n="01">皇太后尊號時作</sent>
+<sent type="main" lang="chi" page="12b" n="02">萬象淸寧之章</sent>
+<sent type="main" lang="kor" page="12b" n="02">大宴進饍作</sent>
+<sent type="main" lang="chi" page="12b" n="03">海宇昇平日之章</sent>
+<sent type="main" lang="kor" page="12b" n="03">大宴進茶作</sent>
+<sent type="main" lang="chi" page="12b" n="04">玉殿雲開之章</sent>
+<sent type="main" lang="kor" page="12b" n="04">大宴進酒作</sent>
+<sent type="main" lang="chi" page="12b" n="05">火樹星橋之章</sent>
+<sent type="main" lang="kor" page="12b" n="05">上元觀燈作</sent><!--星^橋-->
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/18세기후기_한청문감/13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="01">風和日麗之章</sent>
+<sent type="main" lang="kor" page="13a" n="01">親耕後進饍作</sent>
+<sent type="main" lang="chi" page="13a" n="02">喜春光之章</sent>
+<sent type="main" lang="kor" page="13a" n="02">親耕後進茶作</sent>
+<sent type="main" lang="chi" page="13a" n="03">雲和迭奏之章</sent>
+<sent type="main" lang="kor" page="13a" n="03">親耕後進酒作</sent>
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/18세기후기_한청문감/13b.jpg</img>
+<sent type="main" lang="chi" page="13b" n="01">玉殿延英之章</sent>
+<sent type="main" lang="kor" page="13b" n="01">臨雍進饍作</sent>
+<sent type="main" lang="chi" page="13b" n="02">文物京華盛之章</sent>
+<sent type="main" lang="kor" page="13b" n="02">臨雍進茶作</sent>
+<sent type="main" lang="chi" page="13b" n="03">延閣雲濃之章</sent>
+<sent type="main" lang="kor" page="13b" n="03">臨雍進酒作</sent>
+<sent type="main" lang="chi" page="13b" n="04">日麗中天之章</sent>
+<sent type="main" lang="kor" page="13b" n="04">奏捷進饍作</sent>
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/18세기후기_한청문감/14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="01">景運乾坤泰之章</sent>
+<sent type="main" lang="kor" page="14a" n="01">奏捷進茶作</sent>
+<sent type="main" lang="chi" page="14a" n="02">聖德誕敷之章</sent>
+<sent type="main" lang="kor" page="14a" n="02">奏捷進酒作</sent>
+<sent type="main" lang="chi" page="14a" n="03">壯軍容之章</sent>
+<sent type="main" lang="kor" page="14a" n="03">大閱出宮作</sent>
+<sent type="main" lang="chi" page="14a" n="04">鬯皇威之章</sent>
+<sent type="main" lang="kor" page="14a" n="04">大閱回宮作</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/18세기후기_한청문감/14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="01">洙泗發源長之章</sent>
+<sent type="main" lang="kor" page="14b" n="01">禮部述聖之宴作</sent>
+<sent type="main" lang="chi" page="14b" n="02">啓天門之章</sent>
+<sent type="main" lang="kor" page="14b" n="02">禮部新進士宴作</sent>
+<sent type="main" lang="chi" page="14b" n="03">和氣洽之章</sent>
+<sent type="main" lang="kor" page="14b" n="03">兵部新進士宴作</sent>
+<sent type="main" lang="chi" page="14b" n="04">南陔章</sent>
+<sent type="main" lang="kor" page="14b" n="04">順天府鄕飮作</sent>
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/18세기후기_한청문감/15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="01">由庚章</sent>
+<sent type="main" lang="kor" page="15a" n="01">鄕飮作</sent>
+<sent type="title2" lang="chi" page="15a" n="02">軍器類 一則</sent>
+<sent type="main" lang="chi" page="15a" n="03">烏號弓</sent>
+<sent type="main" lang="kor" page="15a" n="03">古之良弓</sent>
+<sent type="main" lang="chi" page="15a" n="04">忘歸箭</sent>
+<sent type="main" lang="kor" page="15a" n="04">古之良箭</sent>
+<sent type="main" lang="chi" page="15a" n="05">子母砲</sent>
+<sent type="main" lang="kor" page="15a" n="05">子母砲</sent><!--'子母砲'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/18세기후기_한청문감/15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="01">火門</sent>
+<sent type="main" lang="kor" page="15b" n="01">화포 구무</sent>
+<sent type="main" lang="chi" page="15b" n="02">星表</sent>
+<sent type="main" lang="kor" page="15b" n="02">ᄆᆞᆰ은 쇠</sent>
+<sent type="main" lang="chi" page="15b" n="03">子</sent>
+<sent type="main" lang="kor" page="15b" n="03">화포 속에 ᄭᅵ오ᄂᆞᆫ 쇠 통</sent>
+<sent type="title2" lang="chi" page="15b" n="04">神類 三則</sent>
+<sent type="main" lang="chi" page="15b" n="05">値日神</sent>
+<sent type="main" lang="kor" page="15b" n="05">値日神</sent><!--'値日神'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/18세기후기_한청문감/16a.jpg</img>
+<sent type="main" lang="chi" page="16a" n="01">建</sent>
+<sent type="main" lang="kor" page="16a" n="01">建</sent><!--'建'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16a" n="02">除</sent>
+<sent type="main" lang="kor" page="16a" n="02">除</sent><!--'除'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16a" n="03">滿</sent>
+<sent type="main" lang="kor" page="16a" n="03">滿</sent><!--'滿'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16a" n="04">平</sent>
+<sent type="main" lang="kor" page="16a" n="04">平</sent><!--'平'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16a" n="05">定</sent>
+<sent type="main" lang="kor" page="16a" n="05">定</sent><!--'定'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16a" n="06">執</sent>
+<sent type="main" lang="kor" page="16a" n="06">執</sent><!--'執'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/18세기후기_한청문감/16b.jpg</img>
+<sent type="main" lang="chi" page="16b" n="01">破</sent>
+<sent type="main" lang="kor" page="16b" n="01">破</sent><!--'破'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16b" n="02">危</sent>
+<sent type="main" lang="kor" page="16b" n="02">危</sent><!--'危'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16b" n="03">成</sent>
+<sent type="main" lang="kor" page="16b" n="03">成</sent><!--'成'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16b" n="04">收</sent>
+<sent type="main" lang="kor" page="16b" n="04">收</sent><!--'收'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16b" n="05">開</sent>
+<sent type="main" lang="kor" page="16b" n="05">開</sent><!--'開'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="16b" n="06">閉</sent>
+<sent type="main" lang="kor" page="16b" n="06">閉</sent><!--'閉'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/18세기후기_한청문감/17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">年神</sent>
+<sent type="main" lang="kor" page="17a" n="01">年神</sent><!--'年神'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="02">太歲</sent>
+<sent type="main" lang="kor" page="17a" n="02">太歲</sent><!--'太歲'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="03">歲破</sent>
+<sent type="main" lang="kor" page="17a" n="03">歲破</sent><!--'歲破'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="04">大耗</sent>
+<sent type="main" lang="kor" page="17a" n="04">大耗</sent><!--'大耗'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="05">大將軍</sent>
+<sent type="main" lang="kor" page="17a" n="05">大將軍</sent><!--'大將軍'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="06">劫煞</sent>
+<sent type="main" lang="kor" page="17a" n="06">劫煞</sent><!--'劫煞'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17a" n="07">災煞</sent>
+<sent type="main" lang="kor" page="17a" n="07">災煞</sent><!--'災煞'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/18세기후기_한청문감/17b.jpg</img>
+<sent type="main" lang="chi" page="17b" n="01">歲煞</sent>
+<sent type="main" lang="kor" page="17b" n="01">歲煞</sent><!--'歲煞'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17b" n="02">伏兵</sent>
+<sent type="main" lang="kor" page="17b" n="02">伏兵</sent><!--'伏兵'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17b" n="03">大禍</sent>
+<sent type="main" lang="kor" page="17b" n="03">大禍</sent><!--'大禍'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17b" n="04">大煞</sent>
+<sent type="main" lang="kor" page="17b" n="04">大煞</sent><!--'大煞'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17b" n="05">歲刑</sent>
+<sent type="main" lang="kor" page="17b" n="05">歲刑</sent><!--'歲刑'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="17b" n="06">奏書</sent>
+<sent type="main" lang="kor" page="17b" n="06">奏書</sent><!--'奏書'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/18세기후기_한청문감/18a.jpg</img>
+<sent type="main" lang="chi" page="18a" n="01">博士</sent>
+<sent type="main" lang="kor" page="18a" n="01">博士</sent><!--'博士'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="02">力士</sent>
+<sent type="main" lang="kor" page="18a" n="02">力士</sent><!--'力士'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="03">蠶室</sent>
+<sent type="main" lang="kor" page="18a" n="03">蠶室</sent><!--'蠶室'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="04">蠶宮</sent>
+<sent type="main" lang="kor" page="18a" n="04">蠶宮</sent><!--'蠶宮'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="05">蠶命</sent>
+<sent type="main" lang="kor" page="18a" n="05">蠶命</sent><!--'蠶命'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="06">喪門</sent>
+<sent type="main" lang="kor" page="18a" n="06">喪門</sent><!--'喪門'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18a" n="07">太陰</sent>
+<sent type="main" lang="kor" page="18a" n="07">太陰</sent><!--'太陰'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/18세기후기_한청문감/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="01">吊客</sent>
+<sent type="main" lang="kor" page="18b" n="01">吊客</sent><!--'吊客'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="02">官符</sent>
+<sent type="main" lang="kor" page="18b" n="02">官符</sent><!--'官符'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="03">畜官</sent>
+<sent type="main" lang="kor" page="18b" n="03">畜官</sent><!--'畜官'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="04">白虎</sent>
+<sent type="main" lang="kor" page="18b" n="04">白虎</sent><!--'白虎'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="05">病符</sent>
+<sent type="main" lang="kor" page="18b" n="05">病符</sent><!--'病符'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="06">死符</sent>
+<sent type="main" lang="kor" page="18b" n="06">死符</sent><!--'死符'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="18b" n="07">小耗</sent>
+<sent type="main" lang="kor" page="18b" n="07">小耗</sent><!--'小耗'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/18세기후기_한청문감/19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="01">黃幡</sent>
+<sent type="main" lang="kor" page="19a" n="01">黃幡</sent><!--'黃幡'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="02">豹尾</sent>
+<sent type="main" lang="kor" page="19a" n="02">豹尾</sent><!--'豹尾'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="03">飛廉</sent>
+<sent type="main" lang="kor" page="19a" n="03">飛廉</sent><!--'飛廉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="04">五鬼</sent>
+<sent type="main" lang="kor" page="19a" n="04">五鬼</sent><!--'五鬼'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="05">金神</sent>
+<sent type="main" lang="kor" page="19a" n="05">金神</sent><!--'金神'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="06">破敗五鬼</sent>
+<sent type="main" lang="kor" page="19a" n="06">破敗五鬼</sent><!--'破敗五鬼'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="07">朱雀</sent>
+<sent type="main" lang="kor" page="19a" n="07">朱雀</sent><!--'朱雀'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="19a" n="08">靑龍</sent>
+<sent type="main" lang="kor" page="19a" n="08">靑龍</sent><!--'靑龍'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/18세기후기_한청문감/19b.jpg</img>
+<sent type="title2" lang="chi" page="19b" n="01">衡量類 一則</sent>
+<sent type="main" lang="chi" page="19b" n="02">糢糊</sent>
+<sent type="main" lang="kor" page="19b" n="02">漠之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="03">逡巡</sent>
+<sent type="main" lang="kor" page="19b" n="03">糢糊之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="04">須臾</sent>
+<sent type="main" lang="kor" page="19b" n="04">逡巡之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="05">瞬息</sent>
+<sent type="main" lang="kor" page="19b" n="05">湏曳之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="06">彈指</sent>
+<sent type="main" lang="kor" page="19b" n="06">瞬息之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="07">刹那</sent>
+<sent type="main" lang="kor" page="19b" n="07">彈指之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="08">六德</sent>
+<sent type="main" lang="kor" page="19b" n="08">刹那之十分一</sent>
+<sent type="main" lang="chi" page="19b" n="09">虛空</sent>
+<sent type="main" lang="kor" page="19b" n="09">六德之十分一</sent>
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/18세기후기_한청문감/20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="01">淸淨</sent>
+<sent type="main" lang="kor" page="20a" n="01">虛空之十分一</sent>
+<sent type="title2" lang="chi" page="20a" n="02">貨財類 一則</sent>
+<sent type="main" lang="chi" page="20a" n="03">白玉</sent>
+<sent type="main" lang="kor" page="20a" n="03">白玉</sent><!--'白玉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="20a" n="04">靑玉</sent>
+<sent type="main" lang="kor" page="20a" n="04">靑玉</sent><!--'靑玉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="20a" n="05">碧玉</sent>
+<sent type="main" lang="kor" page="20a" n="05">碧玉</sent><!--'碧玉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="20a" n="06">黑玉</sent>
+<sent type="main" lang="kor" page="20a" n="06">黑玉</sent><!--'黑玉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="20a" n="07">瓊</sent>
+<sent type="main" lang="kor" page="20a" n="07">玉之無瑕者</sent>
+<sent type="main" lang="chi" page="20a" n="08">瑤</sent>
+<sent type="main" lang="kor" page="20a" n="08">玉之光潤者</sent>
+<sent type="main" lang="chi" page="20a" n="09">珵</sent>
+<sent type="main" lang="kor" page="20a" n="09">佩玉名</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/18세기후기_한청문감/20b.jpg</img>
+<sent type="main" lang="chi" page="20b" n="01">珩</sent>
+<sent type="main" lang="kor" page="20b" n="01">佩首橫玉</sent>
+<sent type="main" lang="chi" page="20b" n="02">石□砂</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="20b" n="02">其色有黑白斑用於藥餌染色采畵</sent>
+<sent type="main" lang="chi" page="20b" n="03">鹽□砂</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="20b" n="03">形色如塩用於鑄銅</sent>
+<sent type="main" lang="chi" page="20b" n="04">黑□砂</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="20b" n="04">色黑用於鑄銅</sent>
+<sent type="main" lang="chi" page="20b" n="05">金花皮</sent>
+<sent type="main" lang="kor" page="20b" n="05">금ㅅ 곳 노흔 가족</sent>
+<sent type="title2" lang="chi" page="20b" n="06">餑餑類 一則</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/18세기후기_한청문감/21a.jpg</img>
+<sent type="main" lang="chi" page="21a" n="01">芝麻焦餠</sent>
+<sent type="main" lang="kor" page="21a" n="01">ᄎᆞᆷᄭᅢ 뭇쳐 지진 ᄯᅥᆨ</sent>
+<sent type="main" lang="chi" page="21a" n="02">鷄蛋焦餠</sent>
+<sent type="main" lang="kor" page="21a" n="02">ᄃᆞᆰ의 알 석거 지진 ᄯᅥᆨ</sent>
+<sent type="main" lang="chi" page="21a" n="03">葡萄糖纏</sent>
+<sent type="main" lang="kor" page="21a" n="03">ᄭᅢ 뭇친 포도 빗 산ᄌᆞ</sent>
+<sent type="main" lang="chi" page="21a" n="04">白糖纏</sent>
+<sent type="main" lang="kor" page="21a" n="04">ᄭᅢ 뭇친 흰 산ᄌᆞ</sent>
+<sent type="main" lang="chi" page="21a" n="05">胡麻油</sent>
+<sent type="main" lang="kor" page="21a" n="05">검은 ᄎᆞᆷᄭᅢ 기름</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/18세기후기_한청문감/21b.jpg</img>
+<sent type="title2" lang="chi" page="21b" n="01">異樣果品類 四則</sent>
+<sent type="main" lang="chi" page="21b" n="02">天仙果</sent>
+<sent type="main" lang="kor" page="21b" n="02">葉如龍眼而不開花實如櫻桃而味甘</sent>
+<sent type="main" lang="chi" page="21b" n="03">龍荔</sent>
+<sent type="main" lang="kor" page="21b" n="03">産於交趾葉似龍眼瑕荔芰其實不可生食</sent>
+<sent type="main" lang="chi" page="21b" n="04">石栗</sent>
+<sent type="main" lang="kor" page="21b" n="04">産於交趾味似胡桃三年一實</sent>
+<sent type="main" lang="chi" page="21b" n="05">蕃柿</sent>
+<sent type="main" lang="kor" page="21b" n="05">産於土蕃莖如黃芩葉如艾花如石榴</sent>
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/18세기후기_한청문감/22a.jpg</img>
+<sent type="main" lang="chi" page="22a" n="01">椑柿</sent>
+<sent type="main" lang="kor" page="22a" n="01">大如杏味甘可食</sent>
+<sent type="main" lang="chi" page="22a" n="02">蔓胡桃</sent>
+<sent type="main" lang="kor" page="22a" n="02">蔓生形似蛤味如胡桃</sent>
+<sent type="main" lang="chi" page="22a" n="03">梅桃</sent>
+<sent type="main" lang="kor" page="22a" n="03">産於福建實大三寸拌蜜而食</sent>
+<sent type="main" lang="chi" page="22a" n="04">石瓜</sent>
+<sent type="main" lang="kor" page="22a" n="04">産於峨嵋山形如瓜能治心疼</sent>
+<sent type="main" lang="chi" page="22a" n="05">海梅</sent>
+<sent type="main" lang="kor" page="22a" n="05">冬華而實大如櫻桃</sent>
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/18세기후기_한청문감/22b.jpg</img>
+<sent type="main" lang="chi" page="22b" n="01">無子綠葡萄</sent>
+<sent type="main" lang="kor" page="22b" n="01">씨 업ᄉᆞᆫ 프른 포도</sent>
+<sent type="main" lang="chi" page="22b" n="02">波羅蜜</sent>
+<sent type="main" lang="kor" page="22b" n="02">産於交趾樹不高而圍大葉黑潤潔實大於冬瓜殼有軟刺</sent>
+<sent type="main" lang="chi" page="22b" n="03">如何樹實</sent>
+<sent type="main" lang="kor" page="22b" n="03">三百年一花九百年一實花紅葉黃鐵刀開之味酸葦刀開之味辣食者爲仙</sent>
+<sent type="main" lang="chi" page="22b" n="04">波斯棗</sent>
+<sent type="main" lang="kor" page="22b" n="04">産於波斯國樹甚高大葉不淍落實二寸味甘可食</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/18세기후기_한청문감/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="01">不周山果</sent>
+<sent type="main" lang="kor" page="23a" n="01">産於不周山花黃實似棗可以救飢</sent>
+<sent type="main" lang="chi" page="23a" n="02">樝</sent>
+<sent type="main" lang="kor" page="23a" n="02">如木瓜而小味酸澁色微黃~一名木桃</sent>
+<sent type="main" lang="chi" page="23a" n="03">榠樝</sent>
+<sent type="main" lang="kor" page="23a" n="03">木瓜之大者</sent>
+<sent type="main" lang="chi" page="23a" n="04">平仲</sent>
+<sent type="main" lang="kor" page="23a" n="04">食此實者爲仙</sent>
+<sent type="main" lang="chi" page="23a" n="05">仙樹實</sent>
+<sent type="main" lang="kor" page="23a" n="05">産於祁連山實似棗剖以竹刀則甘剖以鐵刀則苦剖以木刀則酸剖以葦刀則辛 ○ 一名四味果</sent>
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/18세기후기_한청문감/23b.jpg</img>
+<sent type="main" lang="chi" page="23b" n="01">榲桲</sent>
+<sent type="main" lang="kor" page="23b" n="01">似樝而小味甘香皮有毛 ○ 産於北土</sent>
+<sent type="main" lang="chi" page="23b" n="02">枳柤</sent>
+<sent type="main" lang="kor" page="23b" n="02">樹高大實着枝梢形如鷄爪味甘如飴 ○ 南人號爲木蜜</sent>
+<sent type="main" lang="chi" page="23b" n="03">優曇鉢</sent>
+<sent type="main" lang="kor" page="23b" n="03">無花果 別名</sent>
+<sent type="main" lang="chi" page="23b" n="04">侯騷</sent>
+<sent type="main" lang="kor" page="23b" n="04">蔓生實如鷄卵味甘寒解酒</sent>
+<sent type="main" lang="chi" page="23b" n="05">千歲子</sent>
+<sent type="main" lang="kor" page="23b" n="05">蔓生子在樹底一苞二百顆味如栗 ○ 産於交趾</sent>
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/18세기후기_한청문감/24a.jpg</img>
+<sent type="main" lang="chi" page="24a" n="01">餘甘子</sent>
+<sent type="main" lang="kor" page="24a" n="01">産於廣東花黃實似李核有六七楞味先苦後甘</sent>
+<sent type="main" lang="chi" page="24a" n="02">人面子</sent>
+<sent type="main" lang="kor" page="24a" n="02">似櫻桃樹其實蜜漬可食其核兩邊如人面口臭皆具 ○ 産於南海</sent>
+<sent type="main" lang="chi" page="24a" n="03">繫彌子</sent>
+<sent type="main" lang="kor" page="24a" n="03">狀圓而細如軟棗其味先苦後甘</sent>
+<sent type="main" lang="chi" page="24a" n="04">都咸子</sent>
+<sent type="main" lang="kor" page="24a" n="04">産於日南國實大如指長三寸色黑晒而釀酒味甘美</sent>
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/18세기후기_한청문감/24b.jpg</img>
+<sent type="main" lang="chi" page="24b" n="01">夫編子</sent>
+<sent type="main" lang="kor" page="24b" n="01">産於交趾開花仍連結子入鷄魚羹中味美</sent>
+<sent type="main" lang="chi" page="24b" n="02">都桷子</sent>
+<sent type="main" lang="kor" page="24b" n="02">産於廣南樹高丈餘實大如鷄邜味味酸</sent>
+<sent type="main" lang="chi" page="24b" n="03">韶子</sent>
+<sent type="main" lang="kor" page="24b" n="03">葉赤實大如栗有刺破其皮內有肉如猪肪味甘酸 ○ 産於嶺南</sent>
+</pages>
+
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/18세기후기_한청문감/25a.jpg</img>
+<sent type="main" lang="chi" page="25a" n="01">白緣子</sent>
+<sent type="main" lang="kor" page="25a" n="01">甘味美於胡桃 ○ 産於交趾</sent>
+<sent type="main" lang="chi" page="25a" n="02">都念子</sent>
+<sent type="main" lang="kor" page="25a" n="02">色紫無核而海南無紅柹故其俗號爲紅柹味甚甘軟</sent>
+<sent type="main" lang="chi" page="25a" n="03">探子</sent>
+<sent type="main" lang="kor" page="25a" n="03">産於南方實如梨冬熟味酸</sent>
+<sent type="main" lang="chi" page="25a" n="04">櫓罟子</sent>
+<sent type="main" lang="kor" page="25a" n="04">冬實夏熟實有數十房每房有縫剖而食之則味甘 ○ 産於廣西</sent>
+<sent type="main" lang="chi" page="25a" n="05">羅晃子</sent>
+<sent type="main" lang="kor" page="25a" n="05">狀如橄欖其皮七層 ○ 産於廣西</sent>
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/18세기후기_한청문감/25b.jpg</img>
+<sent type="main" lang="chi" page="25b" n="01">黃皮子</sent>
+<sent type="main" lang="kor" page="25b" n="01">狀如小棗色黃 ○ 産於廣西</sent>
+<sent type="main" lang="chi" page="25b" n="02">無患子</sent>
+<sent type="main" lang="kor" page="25b" n="02">葉如柳菿生實如彈丸其核可作數珠炒食則味似榛子 ○ 一名菩提又名鬼見愁</sent>
+<sent type="main" lang="chi" page="25b" n="03">五斂子</sent>
+<sent type="main" lang="kor" page="25b" n="03">大如木瓜色靑黃有五楞皮肉脆軟味酸漬蜜而食 ○ 産於閩越號陽桃</sent>
+<sent type="main" lang="chi" page="25b" n="04">㯆樹子</sent>
+<sent type="main" lang="kor" page="25b" n="04">如桃實長寸餘塩淹則味酸 ○ 産於交趾</sent>
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/18세기후기_한청문감/26a.jpg</img>
+<sent type="title2" lang="chi" page="26a" n="01">樹木類 二則</sent>
+<sent type="main" lang="chi" page="26a" n="02">頳桐</sent>
+<sent type="main" lang="kor" page="26a" n="02">生于嶺南葉如桐花與枝皆紅</sent>
+<sent type="main" lang="chi" page="26a" n="03">刺桐</sent>
+<sent type="main" lang="kor" page="26a" n="03">葉如桐花大如掌枝幹有刺 ○ 生于嶺南</sent>
+<sent type="main" lang="chi" page="26a" n="04">海桐</sent>
+<sent type="main" lang="kor" page="26a" n="04">生於林邑形如松實如栗而有三楞</sent>
+<sent type="main" lang="chi" page="26a" n="05">臭桐</sent>
+<sent type="main" lang="kor" page="26a" n="05">桐類葉大如掌三楞不凋其臭惡</sent>
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/18세기후기_한청문감/26b.jpg</img>
+<sent type="main" lang="chi" page="26b" n="01">桋</sent>
+<sent type="main" lang="kor" page="26b" n="01">葉細而歧銳皮理錯戾叢生山谷</sent>
+<sent type="main" lang="chi" page="26b" n="02">水冬靑</sent>
+<sent type="main" lang="kor" page="26b" n="02">生于水邊似冬靑而葉細</sent>
+<sent type="main" lang="chi" page="26b" n="03">虎刺</sent>
+<sent type="main" lang="kor" page="26b" n="03">生于四川花黃穗如杏花而小</sent>
+<sent type="main" lang="chi" page="26b" n="04">□羅樹</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="26b" n="04">生于峩嵋山葉似黃檗皮白而潔鳥不止蟲不生</sent>
+<sent type="main" lang="chi" page="26b" n="05">賣子樹</sent>
+<sent type="main" lang="kor" page="26b" n="05">生于瓊州葉如柹隨花便結子如椒目在花瓣</sent>
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/18세기후기_한청문감/27a.jpg</img>
+<sent type="main" lang="chi" page="27a" n="01">大空木</sent>
+<sent type="main" lang="kor" page="27a" n="01">葉似楮而圓皮色微赤 ○ 生于襄州</sent>
+<sent type="main" lang="chi" page="27a" n="02">蒲葵</sent>
+<sent type="main" lang="kor" page="27a" n="02">葉似椶可造扇子凉帽</sent>
+<sent type="main" lang="chi" page="27a" n="03">楷木</sent>
+<sent type="main" lang="kor" page="27a" n="03">生于孔子塚上枝踈而不屈</sent>
+<sent type="main" lang="chi" page="27a" n="04">模木</sent>
+<sent type="main" lang="kor" page="27a" n="04">生于周公塚上其葉春靑夏赤秋白冬黑得四時之正色</sent>
+</pages>
+
+<pages n="27b">
+<img n="27b">https://kohico.kr/_media/image/18세기후기_한청문감/27b.jpg</img>
+<sent type="main" lang="chi" page="27b" n="01">靈壽木</sent>
+<sent type="main" lang="kor" page="27b" n="01">似竹有莭自合杖制高八九尺 ○ 生于劍南·扶老杖</sent>
+<sent type="main" lang="chi" page="27b" n="02">不凋木</sent>
+<sent type="main" lang="kor" page="27b" n="02">葉似槐莖赤有毛如棠梨四時不凋 ○ 生于太白山</sent>
+<sent type="main" lang="chi" page="27b" n="03">不灰木</sent>
+<sent type="main" lang="kor" page="27b" n="03">生于南洋外山燒而不灰</sent>
+<sent type="main" lang="chi" page="27b" n="04">橦木</sent>
+<sent type="main" lang="kor" page="27b" n="04">生于四川花似棉可織布</sent>
+</pages>
+
+<pages n="28a">
+<img n="28a">https://kohico.kr/_media/image/18세기후기_한청문감/28a.jpg</img>
+<sent type="main" lang="chi" page="28a" n="01">槲木</sent>
+<sent type="main" lang="kor" page="28a" n="01">葉與花似栗實如柞櫟之類</sent>
+<sent type="main" lang="chi" page="28a" n="02">杻木</sent>
+<sent type="main" lang="kor" page="28a" n="02">似棣而皮赤葉如杏而長幹枝俱曲</sent>
+<sent type="main" lang="chi" page="28a" n="03">櫧木</sent>
+<sent type="main" lang="kor" page="28a" n="03">生于山谷花白葉似栗核似杏</sent>
+<sent type="main" lang="chi" page="28a" n="04">櫟木</sent>
+<sent type="main" lang="kor" page="28a" n="04">花黃核似荔芰</sent>
+<sent type="main" lang="chi" page="28a" n="05">綟木</sent>
+<sent type="main" lang="kor" page="28a" n="05">生于林澤山谷木理側戾故名</sent>
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/18세기후기_한청문감/28b.jpg</img>
+<sent type="main" lang="chi" page="28b" n="01">黃櫨木</sent>
+<sent type="main" lang="kor" page="28b" n="01">生於四川幹黃葉圓可染黃</sent>
+<sent type="main" lang="chi" page="28b" n="02">□木</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="28b" n="02">皮麤理澁不可造器</sent>
+<sent type="title2" lang="chi" page="28b" n="03">異木類 一則</sent>
+<sent type="main" lang="chi" page="28b" n="04">瑞木</sent>
+<sent type="main" lang="kor" page="28b" n="04">木理有天下太平四字</sent>
+<sent type="main" lang="chi" page="28b" n="05">冥靈木</sent>
+<sent type="main" lang="kor" page="28b" n="05">五百歲爲春五百歲爲秋</sent>
+<sent type="main" lang="chi" page="28b" n="06">旃檀香木</sent>
+<sent type="main" lang="kor" page="28b" n="06">生于雲南廣東等處卽赤檀</sent>
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/18세기후기_한청문감/29a.jpg</img>
+<sent type="main" lang="chi" page="29a" n="01">龍腦香木</sent>
+<sent type="main" lang="kor" page="29a" n="01">生于波斯國葉圓而無花與實樹根乾脂爲龍腦香</sent>
+<sent type="main" lang="chi" page="29a" n="02">安息香木</sent>
+<sent type="main" lang="kor" page="29a" n="02">生于波斯國皮色黃黑葉有四角刻其樹皮其膠如飴是爲安息香</sent>
+<sent type="main" lang="chi" page="29a" n="03">必栗香</sent>
+<sent type="main" lang="kor" page="29a" n="03">生于高山中爲書軸則無蠹損</sent>
+<sent type="main" lang="chi" page="29a" n="04">三珠樹</sent>
+<sent type="main" lang="kor" page="29a" n="04">葉似眞珠</sent><!--三^珠-->
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/18세기후기_한청문감/29b.jpg</img>
+<sent type="main" lang="chi" page="29b" n="01">貝多樹</sent>
+<sent type="main" lang="kor" page="29b" n="01">生于西域於葉書佛經能過五六百年</sent>
+<sent type="main" lang="chi" page="29b" n="02">琪樹</sent>
+<sent type="main" lang="kor" page="29b" n="02">形如垂楊其實如靑珠三年後始紅</sent>
+<sent type="main" lang="chi" page="29b" n="03">返魂木</sent>
+<sent type="main" lang="kor" page="29b" n="03">生于西海狀如楓栢香聞百里凡有疫死者燒豆子大熏之則活</sent>
+<sent type="main" lang="chi" page="29b" n="04">枎木</sent>
+<sent type="main" lang="kor" page="29b" n="04">生于暘谷實葉似桑高數千丈圍數千抱一根生二枝</sent>
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/18세기후기_한청문감/30a.jpg</img>
+<sent type="main" lang="chi" page="30a" n="01">黃葛</sent>
+<sent type="main" lang="kor" page="30a" n="01">生于峩嵋山兩樹必相對而生可覆百餘人</sent>
+<sent type="title2" lang="chi" page="30a" n="02">花類 一則</sent>
+<sent type="main" lang="chi" page="30a" n="03">籃菊花</sent>
+<sent type="main" lang="kor" page="30a" n="03">花靑而蘂黃</sent>
+<sent type="main" lang="chi" page="30a" n="04">西番葵花</sent>
+<sent type="main" lang="kor" page="30a" n="04">莖似竹花如楪而色黃</sent>
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/18세기후기_한청문감/30b.jpg</img>
+<sent type="main" lang="chi" page="30b" n="01">□祇花</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="30b" n="01">葉似蒜而長蘂有黃紅兩色</sent>
+<sent type="main" lang="chi" page="30b" n="02">曼陀羅花</sent>
+<sent type="main" lang="kor" page="30b" n="02">莖靑花白朝開夕合</sent>
+<sent type="title2" lang="chi" page="30b" n="03">異花類 四則</sent>
+<sent type="main" lang="chi" page="30b" n="04">萬年花</sent>
+<sent type="main" lang="kor" page="30b" n="04">色淺紅一枝結百朶雖久萎遇水如新</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/18세기후기_한청문감/31a.jpg</img>
+<sent type="main" lang="chi" page="31a" n="01">金蓮花</sent>
+<sent type="main" lang="kor" page="31a" n="01">生於口外花如蓮色黃七瓣</sent>
+<sent type="main" lang="chi" page="31a" n="02">茈碧花</sent>
+<sent type="main" lang="kor" page="31a" n="02">似蓮花生於水中其枝晝浮夜沈</sent>
+<sent type="main" lang="chi" page="31a" n="03">九花樹花</sent>
+<sent type="main" lang="kor" page="31a" n="03">生於南嶽嚴冬猶花</sent>
+<sent type="main" lang="chi" page="31a" n="04">萬蓮花</sent>
+<sent type="main" lang="kor" page="31a" n="04">葉似鳥翼花有紅靑兩色紅有紫點靑有紅點</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/18세기후기_한청문감/31b.jpg</img>
+<sent type="main" lang="chi" page="31b" n="01">優鉢曇花</sent>
+<sent type="main" lang="kor" page="31b" n="01">産於波斯國色美可愛</sent>
+<sent type="main" lang="chi" page="31b" n="02">迎輦花</sent>
+<sent type="main" lang="kor" page="31b" n="02">色紫蘂白葉圓而稍長襲衣有香揷於輦路</sent>
+<sent type="main" lang="chi" page="31b" n="03">金步搖花</sent>
+<sent type="main" lang="kor" page="31b" n="03">花有四瓣而雙開無風自動</sent>
+<sent type="main" lang="chi" page="31b" n="04">靈壽花</sent>
+<sent type="main" lang="kor" page="31b" n="04">生於湖廣色紅春秋俱花</sent>
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/18세기후기_한청문감/32a.jpg</img>
+<sent type="main" lang="chi" page="32a" n="01">無憂花</sent>
+<sent type="main" lang="kor" page="32a" n="01">婦人擦過則始開</sent>
+<sent type="main" lang="chi" page="32a" n="02">木蓮花</sent>
+<sent type="main" lang="kor" page="32a" n="02">莖與花似蓮</sent>
+<sent type="main" lang="chi" page="32a" n="03">石蓮花</sent>
+<sent type="main" lang="kor" page="32a" n="03">生於石似木蓮而色白有香</sent>
+<sent type="main" lang="chi" page="32a" n="04">太平瑞聖花</sent>
+<sent type="main" lang="kor" page="32a" n="04">莖無芽高一丈秋始華其色或紅或白如雲彩</sent>
+<sent type="main" lang="chi" page="32a" n="05">七寶花</sent>
+<sent type="main" lang="kor" page="32a" n="05">花映似寶石枝葉如蟬花</sent>
+</pages>
+
+<pages n="32b">
+<img n="32b">https://kohico.kr/_media/image/18세기후기_한청문감/32b.jpg</img>
+<sent type="main" lang="chi" page="32b" n="01">蟬花</sent>
+<sent type="main" lang="kor" page="32b" n="01">花似蟬而其色或靑或黃</sent>
+<sent type="main" lang="chi" page="32b" n="02">上元紅花</sent>
+<sent type="main" lang="kor" page="32b" n="02">色紅上元開</sent>
+<sent type="main" lang="chi" page="32b" n="03">泡花</sent>
+<sent type="main" lang="kor" page="32b" n="03">如山茶花蘂白而圓大如珠三月始開</sent>
+<sent type="main" lang="chi" page="32b" n="04">望仙花</sent>
+<sent type="main" lang="kor" page="32b" n="04">花色姸美春開秋謝</sent>
+<sent type="main" lang="chi" page="32b" n="05">金莖花</sent>
+<sent type="main" lang="kor" page="32b" n="05">花如蝴蝶碎則如金</sent>
+</pages>
+
+<pages n="33a">
+<img n="33a">https://kohico.kr/_media/image/18세기후기_한청문감/33a.jpg</img>
+<sent type="main" lang="chi" page="33a" n="01">傲雲花</sent>
+<sent type="main" lang="kor" page="33a" n="01">似蓮夏開至秋猶香莖高接雲</sent>
+<sent type="main" lang="chi" page="33a" n="02">山𨥁花</sent>
+<sent type="main" lang="kor" page="33a" n="02">莖細狀如金釵</sent>
+<sent type="main" lang="chi" page="33a" n="03">蠟瓣花</sent>
+<sent type="main" lang="kor" page="33a" n="03">莖大於掌花有五瓣下垂而開色黃</sent>
+<sent type="main" lang="chi" page="33a" n="04">美人菊</sent>
+<sent type="main" lang="kor" page="33a" n="04">似菊花而單葉有紫白兩色</sent>
+<sent type="main" lang="chi" page="33a" n="05">長樂花</sent>
+<sent type="main" lang="kor" page="33a" n="05">花紫久而不謝經霜愈新</sent>
+</pages>
+
+<pages n="33b">
+<img n="33b">https://kohico.kr/_media/image/18세기후기_한청문감/33b.jpg</img>
+<sent type="main" lang="chi" page="33b" n="01">杏香花</sent>
+<sent type="main" lang="kor" page="33b" n="01">似杏花而有香</sent>
+<sent type="main" lang="chi" page="33b" n="02">玉燭花</sent>
+<sent type="main" lang="kor" page="33b" n="02">叢生色紅夕開有香</sent>
+<sent type="main" lang="chi" page="33b" n="03">萬蝶花</sent>
+<sent type="main" lang="kor" page="33b" n="03">色白朶蜜瓣似蝶翅</sent>
+<sent type="main" lang="chi" page="33b" n="04">珍珠花</sent>
+<sent type="main" lang="kor" page="33b" n="04">色白朶如珠</sent>
+<sent type="main" lang="chi" page="33b" n="05">鷹爪花</sent>
+<sent type="main" lang="kor" page="33b" n="05">花瓣似鷹爪</sent>
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/18세기후기_한청문감/34a.jpg</img>
+<sent type="main" lang="chi" page="34a" n="01">滿堂春</sent>
+<sent type="main" lang="kor" page="34a" n="01">有各色甚姸</sent>
+<sent type="main" lang="chi" page="34a" n="02">壽春花</sent>
+<sent type="main" lang="kor" page="34a" n="02">色白葉靑四時不謝夏則尤香</sent>
+<sent type="title2" lang="chi" page="34a" n="03">鳥類 一則</sent>
+<sent type="main" lang="chi" page="34a" n="04">鶠</sent>
+<sent type="main" lang="kor" page="34a" n="04">鳳之別名</sent>
+<sent type="main" lang="chi" page="34a" n="05">鶤鷄</sent>
+<sent type="main" lang="kor" page="34a" n="05">鳳之別名</sent><!--영인본에서 '上同'으로 표기되어 있음-->
+<sent type="main" lang="chi" page="34a" n="06">瑞鶠</sent>
+<sent type="main" lang="kor" page="34a" n="06">鳳之別名見則太平之兆</sent>
+<sent type="main" lang="chi" page="34a" n="07">發明</sent>
+<sent type="main" lang="kor" page="34a" n="07">東方之鳳</sent>
+</pages>
+
+<pages n="34b">
+<img n="34b">https://kohico.kr/_media/image/18세기후기_한청문감/34b.jpg</img>
+<sent type="main" lang="chi" page="34b" n="01">焦明</sent>
+<sent type="main" lang="kor" page="34b" n="01">南方之鳳</sent>
+<sent type="main" lang="chi" page="34b" n="02">肅霜</sent>
+<sent type="main" lang="kor" page="34b" n="02">西方之鳳</sent>
+<sent type="main" lang="chi" page="34b" n="03">幽昌</sent>
+<sent type="main" lang="kor" page="34b" n="03">北方之鳳</sent>
+<sent type="main" lang="chi" page="34b" n="04">玉雀</sent>
+<sent type="main" lang="kor" page="34b" n="04">中央之鳳</sent>
+<sent type="main" lang="chi" page="34b" n="05">鸛鶴</sent>
+<sent type="main" lang="kor" page="34b" n="05">鸛之別名類鶴</sent>
+<sent type="main" lang="chi" page="34b" n="06">文禽</sent>
+<sent type="main" lang="kor" page="34b" n="06">孔雀一名</sent>
+<sent type="main" lang="chi" page="34b" n="07">舂鉏</sent>
+<sent type="main" lang="kor" page="34b" n="07">白鷺棲止水渚俯仰其頸如鉏田形故名</sent>
+<sent type="main" lang="chi" page="34b" n="08">截雨</sent>
+<sent type="main" lang="kor" page="34b" n="08">此鳥見則雨止</sent>
+<sent type="main" lang="chi" page="34b" n="09">鷺鶿</sent>
+<sent type="main" lang="kor" page="34b" n="09">白鷺之頂有垂絲者</sent>
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/18세기후기_한청문감/35a.jpg</img>
+<sent type="main" lang="chi" page="35a" n="01">雪客</sent>
+<sent type="main" lang="kor" page="35a" n="01">白鷺之最白者</sent>
+<sent type="main" lang="chi" page="35a" n="02">霜信</sent>
+<sent type="main" lang="kor" page="35a" n="02">此鴈至而霜降</sent>
+<sent type="main" lang="chi" page="35a" n="03">鵜鶘</sent>
+<sent type="main" lang="kor" page="35a" n="03">淘河之別名</sent>
+<sent type="main" lang="chi" page="35a" n="04">鷲</sent>
+<sent type="main" lang="kor" page="35a" n="04">수리</sent>
+<sent type="main" lang="chi" page="35a" n="05">風伯</sent>
+<sent type="main" lang="kor" page="35a" n="05">越人見此鳥高飛則風起</sent>
+<sent type="main" lang="chi" page="35a" n="06">題鵳</sent>
+<sent type="main" lang="kor" page="35a" n="06">似鳶而小</sent>
+</pages>
+
+<pages n="35b">
+<img n="35b">https://kohico.kr/_media/image/18세기후기_한청문감/35b.jpg</img>
+<sent type="main" lang="chi" page="35b" n="01">瞭</sent>
+<sent type="main" lang="kor" page="35b" n="01">𪀚兒之別名能遠視</sent>
+<sent type="main" lang="chi" page="35b" n="02">土梟</sent>
+<sent type="main" lang="kor" page="35b" n="02">梟類</sent>
+<sent type="main" lang="chi" page="35b" n="03">水烏</sent>
+<sent type="main" lang="kor" page="35b" n="03">鷺鶿之別名色黑久則變爲白</sent>
+<sent type="main" lang="chi" page="35b" n="04">信鳥</sent>
+<sent type="main" lang="kor" page="35b" n="04">隨潮汐而飛</sent>
+<sent type="main" lang="chi" page="35b" n="05">寶鴨</sent>
+<sent type="main" lang="kor" page="35b" n="05">類鴨而小有丹頂</sent>
+<sent type="main" lang="chi" page="35b" n="06">冠鳥</sent>
+<sent type="main" lang="kor" page="35b" n="06">練雀之別名</sent>
+<sent type="main" lang="chi" page="35b" n="07">孝烏</sent>
+<sent type="main" lang="kor" page="35b" n="07">卽慈鳥能反哺</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/18세기후기_한청문감/36a.jpg</img>
+<sent type="title2" lang="chi" page="36a" n="01">雀類 一則</sent>
+<sent type="main" lang="chi" page="36a" n="02">鶝□</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="36a" n="02">비비새</sent>
+<sent type="main" lang="chi" page="36a" n="03">倉庚</sent>
+<sent type="main" lang="kor" page="36a" n="03">鶯之別名</sent>
+<sent type="main" lang="chi" page="36a" n="04">黃鳥</sent>
+<sent type="main" lang="kor" page="36a" n="04">關西之人號鶯爲黃鳥</sent><!--'黃鳥'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36a" n="05">覺</sent>
+<sent type="main" lang="kor" page="36a" n="05">類鷓鴣早鳴則晴夕鳴則雨亦知來事</sent>
+<sent type="main" lang="chi" page="36a" n="06">杜鵑</sent>
+<sent type="main" lang="kor" page="36a" n="06">子規之別名必向北而鳴</sent>
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/18세기후기_한청문감/36b.jpg</img>
+<sent type="main" lang="chi" page="36b" n="01">杜宇</sent>
+<sent type="main" lang="kor" page="36b" n="01">子規之別名必向北而鳴</sent><!--영인본에서 '上同'으로 표기되어 있음-->
+<sent type="title2" lang="chi" page="36b" n="02">獸類 一則</sent>
+<sent type="main" lang="chi" page="36b" n="03">神羊</sent>
+<sent type="main" lang="kor" page="36b" n="03">獬豸之別名</sent>
+<sent type="main" lang="chi" page="36b" n="04">天祿</sent>
+<sent type="main" lang="kor" page="36b" n="04">天鹿之別名</sent>
+<sent type="main" lang="chi" page="36b" n="05">狒狒</sent>
+<sent type="main" lang="kor" page="36b" n="05">似人而披□迅走唇長見人則笑唇蔽其目爲人所戮其血宜染紅</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="chi" page="36b" n="06">□□</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="kor" page="36b" n="06">似人而披□迅走唇長見人則笑唇蔽其目爲人所戮其血宜染紅</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="chi" page="36b" n="07">梟羊</sent>
+<sent type="main" lang="kor" page="36b" n="07">似人而披□迅走唇長見人則笑唇蔽其目爲人所戮其血宜染紅</sent><!--해당 글자는 입력이 되지 않음-->
+<sent type="main" lang="chi" page="36b" n="08">貙</sent>
+<sent type="main" lang="kor" page="36b" n="08">五爪之虎</sent>
+<sent type="main" lang="chi" page="36b" n="09">猱</sent>
+<sent type="main" lang="kor" page="36b" n="09">猴類善升木</sent>
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/18세기후기_한청문감/37a.jpg</img>
+<sent type="main" lang="chi" page="37a" n="01">玃父</sent>
+<sent type="main" lang="kor" page="37a" n="01">猴類善顧視</sent>
+<sent type="title2" lang="chi" page="37a" n="02">異獸類 一則</sent>
+<sent type="main" lang="chi" page="37a" n="03">虁</sent>
+<sent type="main" lang="kor" page="37a" n="03">産於東海山谷似牛而無角一足聲如霹靂</sent>
+<sent type="main" lang="chi" page="37a" n="04">一角獸</sent>
+<sent type="main" lang="kor" page="37a" n="04">天下爲一則此獸出</sent>
+<sent type="main" lang="chi" page="37a" n="05">獍</sent>
+<sent type="main" lang="kor" page="37a" n="05">似豹而小生而食其母</sent>
+<sent type="main" lang="chi" page="37a" n="06">猶豫</sent>
+<sent type="main" lang="kor" page="37a" n="06">似麅足捷而多疑</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/18세기후기_한청문감/37b.jpg</img>
+<sent type="title2" lang="chi" page="37b" n="01">諸畜類 一則</sent>
+<sent type="main" lang="chi" page="37b" n="02">獒</sent>
+<sent type="main" lang="kor" page="37b" n="02">犬之四尺者</sent>
+<sent type="main" lang="chi" page="37b" n="03">女奴</sent>
+<sent type="main" lang="kor" page="37b" n="03">貓之別名</sent>
+<sent type="main" lang="chi" page="37b" n="04">鳳頭鵞</sent>
+<sent type="main" lang="kor" page="37b" n="04">鵞之有冠者</sent>
+<sent type="main" lang="chi" page="37b" n="05">鶩</sent>
+<sent type="main" lang="kor" page="37b" n="05">鴨之別名</sent>
+<sent type="main" lang="chi" page="37b" n="06">會稭公</sent>
+<sent type="main" lang="kor" page="37b" n="06">雞之別名</sent>
+<sent type="main" lang="chi" page="37b" n="07">長尾鷄</sent>
+<sent type="main" lang="kor" page="37b" n="07">高麗鷄</sent>
+<sent type="main" lang="chi" page="37b" n="08">僆</sent>
+<sent type="main" lang="kor" page="37b" n="08">鷄雛之稚長者</sent>
+<sent type="main" lang="chi" page="37b" n="09">衛</sent>
+<sent type="main" lang="kor" page="37b" n="09">驢之別名</sent>
+</pages>
+
+<pages n="38a">
+<img n="38a">https://kohico.kr/_media/image/18세기후기_한청문감/38a.jpg</img>
+<sent type="main" lang="chi" page="38a" n="01">蹇</sent>
+<sent type="main" lang="kor" page="38a" n="01">驢之別名</sent>
+<sent type="main" lang="chi" page="38a" n="02">鵌</sent>
+<sent type="main" lang="kor" page="38a" n="02">雛鷄</sent>
+</pages>
+</doc>
+

@@ -1,0 +1,2883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">한청문감</title>
+<title lang="chi">漢淸文鑑</title>
+<full_name>한청문감</full_name>
+<nikl_name>한청문감</nikl_name>
+<general_name>한청문감</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>프랑스MF본</version>
+<volume n="8"/>
+<author></author>
+<date>18세기후기</date><!--1778?-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title></title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/11</date>
+<respStmt>
+<resp>입력자</resp><name>하정훈</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>허인영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<!--K#한국어(일부에만 이 표시)-->
+<!--한어표제어가 없는 경우: C#Ø(일부에만 이 표시)-->
+<!-- －－: 해당 부분의 앞뒤에 \로 표시-->
+<!-- 추가 설명: ~-->
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/18세기후기_한청문감/01a.jpg</img>
+<sent type="main" lang="chi" page="01a" n="01">病</sent>
+<sent type="main" lang="kor" page="01a" n="02">病</sent><!--‘病’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01a" n="03">有病的</sent>
+<sent type="main" lang="kor" page="01a" n="04">병 잇ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="01a" n="05">病了</sent>
+<sent type="main" lang="kor" page="01a" n="06">병 알타</sent>
+<sent type="main" lang="chi" page="01a" n="07">成了病</sent>
+<sent type="main" lang="kor" page="01a" n="08">병 되다</sent>
+<sent type="main" lang="chi" page="01a" n="09">總不離病</sent>
+<sent type="main" lang="kor" page="01a" n="10">병에 ᄡᆞ이다</sent>
+<sent type="main" lang="chi" page="01a" n="11">肯病</sent>
+<sent type="main" lang="kor" page="01a" n="12">병쟉이</sent>
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/18세기후기_한청문감/01b.jpg</img>
+<sent type="main" lang="chi" page="01b" n="01">勞病</sent>
+<sent type="main" lang="kor" page="01b" n="02">로심병</sent>
+<sent type="main" lang="chi" page="01b" n="03">疝氣</sent>
+<sent type="main" lang="kor" page="01b" n="04">산증</sent>
+<sent type="main" lang="chi" page="01b" n="05">痞疾</sent>
+<sent type="main" lang="kor" page="01b" n="06">痞疾</sent><!--‘痞疾’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="07">吼病</sent>
+<sent type="main" lang="kor" page="01b" n="08">咳喘</sent>
+<sent type="main" lang="chi" page="01b" n="09">瘟疫</sent>
+<sent type="main" lang="kor" page="01b" n="10">염병</sent>
+<sent type="main" lang="chi" page="01b" n="11">熱症</sent>
+<sent type="main" lang="kor" page="01b" n="12">傷寒</sent>
+<sent type="main" lang="chi" page="01b" n="13">瘧疾</sent>
+<sent type="main" lang="kor" page="01b" n="14">瘧疾</sent><!--‘瘧疾’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="15">痢疾</sent>
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/18세기후기_한청문감/02a.jpg</img>
+<sent type="main" lang="kor" page="02a" n="00">痢疾</sent><!--‘痢疾’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="02a" n="01">瀉肚</sent>
+<sent type="main" lang="kor" page="02a" n="02">셜샤ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02a" n="03">水瀉</sent>
+<sent type="main" lang="kor" page="02a" n="04">水泄ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02a" n="05">下墜</sent>
+<sent type="main" lang="kor" page="02a" n="06">후즁ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02a" n="07">瘋了</sent>
+<sent type="main" lang="kor" page="02a" n="08">미치다</sent>
+<sent type="main" lang="chi" page="02a" n="09">中了邪</sent>
+<sent type="main" lang="kor" page="02a" n="10">샤 들리다</sent>
+<sent type="main" lang="chi" page="02a" n="11">羊叫瘋</sent>
+<sent type="main" lang="kor" page="02a" n="12">간질</sent>
+<sent type="main" lang="chi" page="02a" n="13">噎膈</sent>
+<sent type="main" lang="kor" page="02a" n="14">목몐 증</sent>
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/18세기후기_한청문감/02b.jpg</img>
+<sent type="main" lang="chi" page="02b" n="01">癱瘓</sent>
+<sent type="main" lang="kor" page="02b" n="02">슈죡 느러진 병</sent>
+<sent type="main" lang="chi" page="02b" n="03">起鬼風疙疸</sent>
+<sent type="main" lang="kor" page="02b" n="04">두드럭이 나다</sent>
+<sent type="main" lang="chi" page="02b" n="05">狐臊</sent>
+<sent type="main" lang="kor" page="02b" n="06">암ᄂᆡ</sent>
+<sent type="main" lang="chi" page="02b" n="07">中風</sent>
+<sent type="main" lang="kor" page="02b" n="08">中風ᄒᆞ다</sent><!--‘中風’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="02b" n="09">痰火病</sent>
+<sent type="main" lang="kor" page="02b" n="10">痰火病</sent><!--‘痰火病’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="02b" n="11">感冒</sent>
+<sent type="main" lang="kor" page="02b" n="12">感冒ᄒᆞ다</sent><!--‘感冒’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="02b" n="13">傷風</sent>
+<sent type="main" lang="kor" page="02b" n="14">곳블 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02b" n="15">寒筋</sent>
+<sent type="main" lang="kor" page="02b" n="16">몸 으스스ᄒᆞ다</sent>
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/18세기후기_한청문감/03a.jpg</img>
+<sent type="main" lang="chi" page="03a" n="01">不爽快</sent>
+<sent type="main" lang="kor" page="03a" n="02">몸 셩치 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03a" n="03">小兒病</sent>
+<sent type="main" lang="kor" page="03a" n="04">아ᄒᆡ 병</sent>
+<sent type="main" lang="chi" page="03a" n="05">小兒發賴</sent>
+<sent type="main" lang="kor" page="03a" n="06">아ᄒᆡ 몸 덥고 보채다</sent>
+<sent type="main" lang="chi" page="03a" n="07">小兒驚痄</sent>
+<sent type="main" lang="kor" page="03a" n="08">아ᄒᆡ ᄭᆞᆷ즉ᄭᆞᆷ즉 놀라다</sent>
+<sent type="main" lang="chi" page="03a" n="09">殘疾</sent>
+<sent type="main" lang="kor" page="03a" n="10">殘疾</sent><!--‘殘疾’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03a" n="11">虛弱</sent>
+<sent type="main" lang="kor" page="03a" n="12">虛弱</sent><!--‘虛弱’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03a" n="13">喘</sent>
+<sent type="main" lang="kor" page="03a" n="14">숨ᄎᆞ다</sent>
+<sent type="main" lang="chi" page="03a" n="15">胸膈發脹</sent>
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/18세기후기_한청문감/03b.jpg</img>
+<sent type="main" lang="kor" page="03b" n="01">가ᄉᆞᆷ 챵만ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03b" n="02">膨脹</sent>
+<sent type="main" lang="kor" page="03b" n="03">챵ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03b" n="04">膨悶</sent>
+<sent type="main" lang="kor" page="03b" n="05">번만ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03b" n="06">惡心</sent>
+<sent type="main" lang="kor" page="03b" n="07">아닉ᄭᅩᆸ다</sent>
+<sent type="main" lang="chi" page="03b" n="08">乾噦</sent>
+<sent type="main" lang="kor" page="03b" n="09">헷구역 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="03b" n="10">只管惡心</sent>
+<sent type="main" lang="kor" page="03b" n="11">그저 아니ᄭᅩᆸ다</sent>
+<sent type="main" lang="chi" page="03b" n="12">作酸</sent>
+<sent type="main" lang="kor" page="03b" n="13">ᄉᆡᆫ 목 ᄭᅩᆸ다</sent>
+<sent type="main" lang="chi" page="03b" n="14">漾</sent>
+<sent type="main" lang="kor" page="03b" n="15">토랏다</sent>
+<sent type="main" lang="chi" page="03b" n="16">嘔逆</sent>
+<sent type="main" lang="kor" page="03b" n="17">嘔逆ᄒᆞ다</sent><!--‘嘔逆’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/18세기후기_한청문감/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="01">嘔吐</sent>
+<sent type="main" lang="kor" page="04a" n="02">嘔吐ᄒᆞ다</sent><!--‘嘔吐’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="04a" n="03">咳嗽</sent>
+<sent type="main" lang="kor" page="04a" n="04">咳嗽ᄒᆞ다</sent><!--‘咳嗽’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="04a" n="05">乾嗽</sent>
+<sent type="main" lang="kor" page="04a" n="06">ᄇᆞ튼 기춤 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04a" n="07">打嚔噴</sent>
+<sent type="main" lang="kor" page="04a" n="08">ᄌᆞ츼옴 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04a" n="09">打飽膈</sent>
+<sent type="main" lang="kor" page="04a" n="10">트림ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04a" n="11">氣逆連打膈</sent>
+<sent type="main" lang="kor" page="04a" n="12">피기ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04a" n="13">氣結脹滿</sent>
+<sent type="main" lang="kor" page="04a" n="14">긔운 ᄆᆡ쳐 챵만ᄒᆞ다</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/18세기후기_한청문감/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="01">疼痛</sent>
+<sent type="main" lang="kor" page="04b" n="02">알프다</sent>
+<sent type="main" lang="chi" page="04b" n="03">頭疼</sent>
+<sent type="main" lang="kor" page="04b" n="04">마리 알타</sent>
+<sent type="main" lang="chi" page="04b" n="05">頭暈</sent>
+<sent type="main" lang="kor" page="04b" n="06">마리 어즐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04b" n="07">眩暈</sent>
+<sent type="main" lang="kor" page="04b" n="08">어즐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04b" n="09">眼生花</sent>
+<sent type="main" lang="kor" page="04b" n="10">눈에 아즈랑이 나다</sent>
+<sent type="main" lang="chi" page="04b" n="11">眼疼</sent>
+<sent type="main" lang="kor" page="04b" n="12">눈 알타</sent>
+<sent type="main" lang="chi" page="04b" n="13">眼迷了</sent>
+<sent type="main" lang="kor" page="04b" n="14">눈에 몬ᄌᆡ 드다</sent>
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/18세기후기_한청문감/05a.jpg</img>
+<sent type="main" lang="chi" page="05a" n="01">眼札着疼</sent>
+<sent type="main" lang="kor" page="05a" n="02">눈 쓔시ᄃᆞ시 알타</sent>
+<sent type="main" lang="chi" page="05a" n="03">眼磨着疼</sent>
+<sent type="main" lang="kor" page="05a" n="04">눈 부븨ᄃᆞ시 알타</sent>
+<sent type="main" lang="chi" page="05a" n="05">心口疼</sent>
+<sent type="main" lang="kor" page="05a" n="06">가ᄉᆞᆷ 알타</sent>
+<sent type="main" lang="chi" page="05a" n="07">心跳</sent>
+<sent type="main" lang="kor" page="05a" n="08">가ᄉᆞᆷ 도곤도곤ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="05a" n="09">腹痛</sent>
+<sent type="main" lang="kor" page="05a" n="10">ᄇᆡ 알타</sent>
+<sent type="main" lang="chi" page="05a" n="11">腹鳴</sent>
+<sent type="main" lang="kor" page="05a" n="12">ᄇᆡ 우다</sent>
+<sent type="main" lang="chi" page="05a" n="13">腰閃了</sent>
+<sent type="main" lang="kor" page="05a" n="14">허리 ᄀᆞ뭇다</sent>
+<sent type="main" lang="chi" page="05a" n="15">腰扭了</sent>
+<sent type="main" lang="kor" page="05a" n="16">허리 싀근싀근ᄒᆞ다</sent>
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/18세기후기_한청문감/05b.jpg</img>
+<sent type="main" lang="chi" page="05b" n="01">岔氣疼</sent>
+<sent type="main" lang="kor" page="05b" n="02">긔운 벗쳐 알타</sent>
+<sent type="main" lang="chi" page="05b" n="03">落枕</sent>
+<sent type="main" lang="kor" page="05b" n="04">직항증</sent>
+<sent type="main" lang="chi" page="05b" n="05">手足村了</sent>
+<sent type="main" lang="kor" page="05b" n="06">손발 졉질니다</sent>
+<sent type="main" lang="chi" page="05b" n="07">酸疼</sent>
+<sent type="main" lang="kor" page="05b" n="08">싀근싀근ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="05b" n="09">疼的着不得手</sent>
+<sent type="main" lang="kor" page="05b" n="10">알하 손 다히지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="05b" n="11">疼</sent>
+<sent type="main" lang="kor" page="05b" n="12">ᄡᅳᆯ알히다</sent>
+<sent type="main" lang="chi" page="05b" n="13">燙的疼</sent>
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/18세기후기_한청문감/06a.jpg</img>
+<sent type="main" lang="kor" page="06a" n="01">데여 ᄡᅳᆯ알히다</sent>
+<sent type="main" lang="chi" page="06a" n="02">破處疼</sent>
+<sent type="main" lang="kor" page="06a" n="03">버서져 ᄡᅳᆯ알히다</sent>
+<sent type="main" lang="chi" page="06a" n="04">螫的疼</sent>
+<sent type="main" lang="kor" page="06a" n="05">버레예 ᄡᅬ여 알타</sent>
+<sent type="main" lang="chi" page="06a" n="06">骨節疼</sent>
+<sent type="main" lang="kor" page="06a" n="07">골졀 알타</sent>
+<sent type="main" lang="chi" page="06a" n="08">刺骨疼</sent>
+<sent type="main" lang="kor" page="06a" n="09">ᄲᅧ 쓔셔 아프다</sent>
+<sent type="main" lang="chi" page="06a" n="10">徹骨疼</sent>
+<sent type="main" lang="kor" page="06a" n="11">ᄲᅧᄭᆞ지 ᄉᆞ못 알타</sent>
+<sent type="main" lang="chi" page="06a" n="12">跳膿疼</sent>
+<sent type="main" lang="kor" page="06a" n="13">골마 쓔시ᄃᆞ시 알타</sent>
+<sent type="main" lang="chi" page="06a" n="14">心裏發燒</sent>
+<sent type="main" lang="kor" page="06a" n="15">속 달호이다</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/18세기후기_한청문감/06b.jpg</img>
+<sent type="main" lang="chi" page="06b" n="01">躁熱</sent>
+<sent type="main" lang="kor" page="06b" n="02">번열ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="06b" n="03">煩躁</sent>
+<sent type="main" lang="kor" page="06b" n="04">煩躁ᄒᆞ다</sent><!--‘煩躁’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="06b" n="05">出疹子</sent>
+<sent type="main" lang="kor" page="06b" n="06">되야기 나다</sent>
+<sent type="main" lang="chi" page="06b" n="07">打顫</sent>
+<sent type="main" lang="kor" page="06b" n="08">ᄯᅥ다</sent>
+<sent type="main" lang="chi" page="06b" n="09">肉跳</sent>
+<sent type="main" lang="kor" page="06b" n="10">ᄉᆞᆯ ᄯᅥᆯ니다</sent>
+<sent type="main" lang="chi" page="06b" n="11">顫搖</sent>
+<sent type="main" lang="kor" page="06b" n="12">ᄆᆡ이 ᄯᅥ다</sent>
+<sent type="main" lang="chi" page="06b" n="13">軟弱無力</sent>
+<sent type="main" lang="kor" page="06b" n="14">병약ᄒᆞ여 긔운 업다</sent>
+<sent type="main" lang="chi" page="06b" n="15">冒風</sent>
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/18세기후기_한청문감/07a.jpg</img>
+<sent type="main" lang="kor" page="07a" n="01">감긔 겨시다</sent>
+<sent type="main" lang="chi" page="07a" n="02">手足抽搐</sent>
+<sent type="main" lang="kor" page="07a" n="03">손발 켜이다</sent>
+<sent type="main" lang="chi" page="07a" n="04">發麻</sent>
+<sent type="main" lang="kor" page="07a" n="05">저리다</sent>
+<sent type="main" lang="chi" page="07a" n="06">微麻</sent>
+<sent type="main" lang="kor" page="07a" n="07">져기 저리다</sent>
+<sent type="main" lang="chi" page="07a" n="08">木了</sent>
+<sent type="main" lang="kor" page="07a" n="09">어리다</sent>
+<sent type="main" lang="chi" page="07a" n="10">倦軟</sent>
+<sent type="main" lang="kor" page="07a" n="11">뇌곤ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="07a" n="12">哼哼</sent>
+<sent type="main" lang="kor" page="07a" n="13">呻吟ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="07a" n="14">疼的出聲</sent>
+<sent type="main" lang="kor" page="07a" n="15">알하 소ᄅᆡ ᄒᆞ다</sent>
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/18세기후기_한청문감/07b.jpg</img>
+<sent type="main" lang="chi" page="07b" n="01">喊叫</sent>
+<sent type="main" lang="kor" page="07b" n="02">소ᄅᆡ 지르다</sent>
+<sent type="main" lang="chi" page="07b" n="03">暴疼</sent>
+<sent type="main" lang="kor" page="07b" n="04">급히 알타</sent>
+<sent type="main" lang="chi" page="07b" n="05">落炕</sent>
+<sent type="main" lang="kor" page="07b" n="06">몸져눕다</sent>
+<sent type="main" lang="chi" page="07b" n="07">皮裡抽肉</sent>
+<sent type="main" lang="kor" page="07b" n="08">시드다</sent>
+<sent type="main" lang="chi" page="07b" n="09">瘦乾</sent>
+<sent type="main" lang="kor" page="07b" n="10">쳑골ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="07b" n="11">病重落</sent>
+<sent type="main" lang="kor" page="07b" n="12">병 다시 나다</sent>
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/18세기후기_한청문감/08a.jpg</img>
+<sent type="main" lang="chi" page="08a" n="01">病反復</sent>
+<sent type="main" lang="kor" page="08a" n="02">병 나아 가다가 다시 알타</sent>
+<sent type="main" lang="chi" page="08a" n="03">久病不見好</sent>
+<sent type="main" lang="kor" page="08a" n="04">병 오ᄅᆡ다</sent>
+<sent type="main" lang="chi" page="08a" n="05">病深了</sent>
+<sent type="main" lang="kor" page="08a" n="06">병 깁다</sent>
+<sent type="main" lang="chi" page="08a" n="07">添病</sent>
+<sent type="main" lang="kor" page="08a" n="08">병 더치다</sent>
+<sent type="main" lang="chi" page="08a" n="09">病倒</sent>
+<sent type="main" lang="kor" page="08a" n="10">병 듕ᄒᆞ여 움즉이지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08a" n="11">不省人事</sent>
+<sent type="main" lang="kor" page="08a" n="12">不省人事ᄒᆞ다</sent><!--‘不省人事’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08a" n="13">病重</sent>
+<sent type="main" lang="kor" page="08a" n="14">병 즁ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08a" n="15">掙命</sent>
+<sent type="main" lang="kor" page="08a-08b" n="16">숨 모호다</sent><!--모^호디-->
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/18세기후기_한청문감/08b.jpg</img>
+<sent type="main" lang="chi" page="08b" n="01">捯氣</sent>
+<sent type="main" lang="kor" page="08b" n="02">肩息ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08b" n="03">昏迷</sent>
+<sent type="main" lang="kor" page="08b" n="04">昏迷ᄒᆞ다</sent><!--‘昏迷’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08b" n="05">頭碰暈</sent>
+<sent type="main" lang="kor" page="08b" n="06">막히다</sent>
+<sent type="main" lang="chi" page="08b" n="07">發昏</sent>
+<sent type="main" lang="kor" page="08b" n="08">혼졀ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08b" n="09">昏沈</sent>
+<sent type="main" lang="kor" page="08b" n="10">昏沈ᄒᆞ다</sent><!--‘昏沈’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08b" n="11">恍忽</sent>
+<sent type="main" lang="kor" page="08b" n="12">恍惚</sent><!--‘恍惚’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08b" n="13">牙關張不開</sent>
+<sent type="main" lang="kor" page="08b" n="14">아귀 버리지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08b-09a" n="15">牙關緊了</sent><!--牙關緊^了-->
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/18세기후기_한청문감/09a.jpg</img>
+<sent type="main" lang="kor" page="09a" n="01">아귀 벗벗ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="09a" n="02">失音</sent>
+<sent type="main" lang="kor" page="09a" n="03">병 즁ᄒᆞ여 말 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="09a" n="04">瘡</sent>
+<sent type="main" lang="kor" page="09a" n="05">창질</sent>
+<sent type="main" lang="chi" page="09a" n="06">生瘡</sent>
+<sent type="main" lang="kor" page="09a" n="07">창질 나다</sent>
+<sent type="main" lang="chi" page="09a" n="08">禿瘡</sent>
+<sent type="main" lang="kor" page="09a" n="09">마리 믜ᄂᆞᆫ 창질</sent>
+<sent type="main" lang="chi" page="09a" n="10">黃水瘡</sent>
+<sent type="main" lang="kor" page="09a" n="11">진믈 무더 허ᄂᆞᆫ 창질</sent>
+<sent type="main" lang="chi" page="09a" n="12">鼠瘡</sent>
+<sent type="main" lang="kor" page="09a" n="13">련쥬창</sent>
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/18세기후기_한청문감/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="01">楊梅瘡</sent>
+<sent type="main" lang="kor" page="09b" n="02">당옴</sent>
+<sent type="main" lang="chi" page="09b" n="03">天疱瘡</sent>
+<sent type="main" lang="chi" page="09b" n="04">撘背</sent>
+<sent type="main" lang="kor" page="09b" n="05">등창</sent>
+<sent type="main" lang="chi" page="09b" n="06">疔</sent>
+<sent type="main" lang="kor" page="09b" n="07">졍죵</sent>
+<sent type="main" lang="chi" page="09b" n="08">癰疽</sent>
+<sent type="main" lang="kor" page="09b" n="09">죵긔</sent>
+<sent type="main" lang="chi" page="09b" n="10">癤子</sent>
+<sent type="main" lang="kor" page="09b" n="11">브으름</sent>
+<sent type="main" lang="chi" page="09b" n="12">乳蛾</sent>
+<sent type="main" lang="kor" page="09b" n="13">인후에 蛾 나다</sent>
+<sent type="main" lang="chi" page="09b" n="14">熱疙疸</sent>
+<sent type="main" lang="kor" page="09b" n="15">여드름</sent>
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/18세기후기_한청문감/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="01">疥</sent>
+<sent type="main" lang="kor" page="10a" n="02">옴</sent>
+<sent type="main" lang="chi" page="10a" n="03">癬</sent>
+<sent type="main" lang="kor" page="10a" n="04">버즘</sent>
+<sent type="main" lang="chi" page="10a" n="05">疿子</sent>
+<sent type="main" lang="kor" page="10a" n="06">ᄯᆞᆷᄯᅬ</sent>
+<sent type="main" lang="chi" page="10a" n="07">紅點瘡</sent>
+<sent type="main" lang="kor" page="10a" n="08">홍진</sent>
+<sent type="main" lang="chi" page="10a" n="09">馬嚼瘡</sent>
+<sent type="main" lang="kor" page="10a" n="10">입 아귀 헌 것</sent>
+<sent type="main" lang="chi" page="10a" n="11">口瘡</sent>
+<sent type="main" lang="kor" page="10a" n="12">口瘡</sent><!--‘口瘡’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="10a" n="13">生口瘡</sent>
+<sent type="main" lang="kor" page="10a" n="14">구창 나다</sent>
+<sent type="main" lang="chi" page="10a" n="15">鹻脣</sent>
+<sent type="main" lang="kor" page="10a" n="16">슌죵</sent>
+<sent type="main" lang="chi" page="10a" n="17">馬牙子</sent>
+<sent type="main" lang="kor" page="10a" n="18">아ᄒᆡ 니 ᄯᅩᆼ</sent>
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/18세기후기_한청문감/10b.jpg</img>
+<sent type="main" lang="chi" page="10b" n="01">針眼</sent>
+<sent type="main" lang="kor" page="10b" n="02">ᄃᆞ라치</sent>
+<sent type="main" lang="chi" page="10b" n="03">生耳疷</sent>
+<sent type="main" lang="kor" page="10b" n="04">귀졋 나다</sent>
+<sent type="main" lang="chi" page="10b" n="05">惡指</sent>
+<sent type="main" lang="kor" page="10b" n="06">ᄉᆡᆼᄒᆞᆫ 손 알타</sent>
+<sent type="main" lang="chi" page="10b" n="07">痔瘡</sent>
+<sent type="main" lang="kor" page="10b" n="08">치질</sent>
+<sent type="main" lang="chi" page="10b" n="09">漏瘡</sent>
+<sent type="main" lang="kor" page="10b" n="10">漏瘡</sent><!--‘漏瘡’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="10b" n="11">瘊子</sent>
+<sent type="main" lang="kor" page="10b" n="12">ᄉᆞᆯ에 박인 못</sent>
+<sent type="main" lang="chi" page="10b" n="13">鷄眼</sent>
+<sent type="main" lang="kor" page="10b" n="14">틔눈</sent>
+<sent type="main" lang="chi" page="10b-11a" n="15">肯套的瘡</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/18세기후기_한청문감/11a.jpg</img>
+<sent type="main" lang="kor" page="11a" n="01">음죵</sent>
+<sent type="main" lang="chi" page="11a" n="02">往裡套</sent>
+<sent type="main" lang="kor" page="11a" n="03">안흐로 곰다</sent>
+<sent type="main" lang="chi" page="11a" n="04">瘡興了</sent>
+<sent type="main" lang="kor" page="11a" n="05">죵긔 셩ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="11a" n="06">會膿了</sent>
+<sent type="main" lang="kor" page="11a" n="07">곰다</sent>
+<sent type="main" lang="chi" page="11a" n="08">瘡破了</sent>
+<sent type="main" lang="kor" page="11a" n="09">죵긔 터지다</sent>
+<sent type="main" lang="chi" page="11a" n="10">膿</sent>
+<sent type="main" lang="kor" page="11a" n="11">고롬</sent>
+<sent type="main" lang="chi" page="11a" n="12">出頭</sent>
+<sent type="main" lang="kor" page="11a" n="13">부리 지다</sent>
+<sent type="main" lang="chi" page="11a" n="14">淸膿</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/18세기후기_한청문감/11b.jpg</img>
+<sent type="main" lang="kor" page="11a" n="01">ᄆᆞᆰ은 고롬</sent>
+<sent type="main" lang="chi" page="11b" n="02">黃水</sent>
+<sent type="main" lang="kor" page="11b" n="03">진믈</sent>
+<sent type="main" lang="chi" page="11b" n="04">膿冒出</sent>
+<sent type="main" lang="kor" page="11b" n="05">고롬 소사나다</sent>
+<sent type="main" lang="chi" page="11b" n="06">流膿水</sent>
+<sent type="main" lang="kor" page="11b" n="07">고롬 흘으다</sent>
+<sent type="main" lang="chi" page="11b" n="08">收口</sent>
+<sent type="main" lang="kor" page="11b" n="09">암그다</sent>
+<sent type="main" lang="chi" page="11b" n="10">瘡疤發殭</sent>
+<sent type="main" lang="kor" page="11b" n="11">암근 곳 ᄃᆞᆫᄃᆞᆫᄒᆞ다</sent>
+<sent type="main" lang="chi" page="11b" n="12">瘡痂</sent>
+<sent type="main" lang="kor" page="11b" n="13">더덩이</sent>
+<sent type="main" lang="chi" page="11b" n="14">瘡底盤</sent>
+<sent type="main" lang="kor" page="11b" n="15">창질 자리</sent>
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/18세기후기_한청문감/12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="01">瘡疤</sent>
+<sent type="main" lang="kor" page="12a" n="02">죵긔 허물</sent>
+<sent type="main" lang="chi" page="12a" n="03">花兒</sent>
+<sent type="main" lang="kor" page="12a" n="04">역질 과립</sent>
+<sent type="main" lang="chi" page="12a" n="05">痘前發賴</sent>
+<sent type="main" lang="kor" page="12a" n="06">발반 젼에 알타</sent>
+<sent type="main" lang="chi" page="12a" n="07">見苗</sent>
+<sent type="main" lang="kor" page="12a" n="08">삭 뵈다</sent>
+<sent type="main" lang="chi" page="12a" n="09">出花</sent>
+<sent type="main" lang="kor" page="12a" n="10">역질 돗다</sent>
+<sent type="main" lang="chi" page="12a" n="11">出盖痘疹</sent>
+<sent type="main" lang="kor" page="12a" n="12">홍진 나다</sent>
+<sent type="main" lang="chi" page="12a" n="13">花兒多</sent>
+<sent type="main" lang="kor" page="12a" n="14">과립 만타</sent>
+<sent type="main" lang="chi" page="12a" n="15">花兒窮</sent>
+<sent type="main" lang="kor" page="12a" n="16">과립 만치 아니타</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/18세기후기_한청문감/12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="01">花兒少</sent>
+<sent type="main" lang="kor" page="12b" n="02">과립 젹다</sent>
+<sent type="main" lang="chi" page="12b" n="03">花兒稀</sent>
+<sent type="main" lang="kor" page="12b" n="04">과립 드무다</sent>
+<sent type="main" lang="chi" page="12b" n="05">花兒密</sent>
+<sent type="main" lang="kor" page="12b" n="06">과립 ᄇᆡᆨᄇᆡᆨᄒᆞ다</sent>
+<sent type="main" lang="chi" page="12b" n="07">灌漿</sent>
+<sent type="main" lang="kor" page="12b" n="08">관롱ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="12b" n="09">花兒回動</sent>
+<sent type="main" lang="kor" page="12b" n="10">도셔다</sent>
+<sent type="main" lang="chi" page="12b" n="11">落痂</sent>
+<sent type="main" lang="kor" page="12b" n="12">落痂ᄒᆞ다</sent><!--‘落痂’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="13">痘毒</sent>
+<sent type="main" lang="kor" page="12b" n="14">痘毒</sent><!--‘痘毒’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="15">痘後瘡毒</sent>
+<sent type="main" lang="kor" page="12b" n="16">痘後瘡毒</sent><!--‘痘後瘡毒’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/18세기후기_한청문감/13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="01">水痘</sent>
+<sent type="main" lang="kor" page="13a" n="02">ᄯᅳ리</sent>
+<sent type="main" lang="chi" page="13a" n="03">腫</sent>
+<sent type="main" lang="kor" page="13a" n="04">붓다</sent>
+<sent type="main" lang="chi" page="13a" n="05">宣腫</sent>
+<sent type="main" lang="kor" page="13a" n="06">ᄆᆡ이 붓다</sent>
+<sent type="main" lang="chi" page="13a" n="07">腫脹</sent>
+<sent type="main" lang="kor" page="13a" n="08">부어오르다</sent>
+<sent type="main" lang="chi" page="13a" n="09">面目腫</sent>
+<sent type="main" lang="kor" page="13a" n="10">面目 붓다</sent>
+<sent type="main" lang="chi" page="13a" n="11">癢癢</sent>
+<sent type="main" lang="kor" page="13a" n="12">ᄀᆞ렵다</sent>
+<sent type="main" lang="chi" page="13a" n="13">很癢癢</sent>
+<sent type="main" lang="kor" page="13a" n="14">견ᄃᆡ지 못ᄒᆞ게 ᄀᆞ렵다</sent>
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/18세기후기_한청문감/13b.jpg</img>
+<sent type="main" lang="chi" page="13b" n="01">皴</sent>
+<sent type="main" lang="kor" page="13b" n="02">트다</sent>
+<sent type="main" lang="chi" page="13b" n="03">膙子</sent>
+<sent type="main" lang="kor" page="13b" n="04">덕근 것</sent>
+<sent type="main" lang="chi" page="13b" n="05">起膙子</sent>
+<sent type="main" lang="kor" page="13b" n="06">덕다</sent>
+<sent type="main" lang="chi" page="13b" n="07">生了瘰癧</sent>
+<sent type="main" lang="kor" page="13b" n="08">련쥬창 나다</sent>
+<sent type="main" lang="chi" page="13b" n="09">乳結</sent>
+<sent type="main" lang="kor" page="13b" n="10">졋망올 나다</sent>
+<sent type="main" lang="chi" page="13b" n="11">起燎漿泡</sent>
+<sent type="main" lang="kor" page="13b" n="12">브프러 버서지다</sent>
+<sent type="main" lang="chi" page="13b" n="13">燙了</sent>
+<sent type="main" lang="kor" page="13b" n="14">데다</sent>
+<sent type="main" lang="chi" page="13b" n="15">燙出燎泡</sent>
+<sent type="main" lang="kor" page="13b" n="16">더여 브프다</sent>
+<sent type="main" lang="chi" page="13b" n="17">泡</sent>
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/18세기후기_한청문감/14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="01">紅腫</sent>
+<sent type="main" lang="kor" page="14a" n="02">븕은 발 셔다</sent>
+<sent type="main" lang="chi" page="14a" n="03">腫消了</sent>
+<sent type="main" lang="kor" page="14a" n="04">죵긔 주저안ㅅ다</sent>
+<sent type="main" lang="chi" page="14a" n="05">傷</sent>
+<sent type="main" lang="kor" page="14a" n="06">다치다</sent>
+<sent type="main" lang="chi" page="14a" n="07">傷口</sent>
+<sent type="main" lang="kor" page="14a" n="08">다친 ᄃᆡ</sent>
+<sent type="main" lang="chi" page="14a" n="09">劃破</sent>
+<sent type="main" lang="kor" page="14a" n="10">ᄂᆞᆯ에 버히다</sent>
+<sent type="main" lang="chi" page="14a" n="11">𠟂傷</sent>
+<sent type="main" lang="kor" page="14a" n="12">ᄉᆞᆯ 버서지다</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/18세기후기_한청문감/14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="01">碾傷</sent>
+<sent type="main" lang="kor" page="14b" n="02">ᄀᆡ가여 버서지다</sent>
+<sent type="main" lang="chi" page="14b" n="03">擦破</sent>
+<sent type="main" lang="kor" page="14b" n="04">긁쳐 ᄯᅥ러지다</sent>
+<sent type="main" lang="chi" page="14b" n="05">劃傷</sent>
+<sent type="main" lang="kor" page="14b" n="06">긁히다</sent>
+<sent type="main" lang="chi" page="14b" n="07">靑傷</sent>
+<sent type="main" lang="kor" page="14b" n="08">다쳐 푸르다</sent>
+<sent type="main" lang="chi" page="14b" n="09">血蔭</sent>
+<sent type="main" lang="kor" page="14b" n="10">피 지다</sent>
+<sent type="main" lang="chi" page="14b" n="11">鞭棍傷痕</sent>
+<sent type="main" lang="kor" page="14b" n="12">ᄆᆡᆺ 자곡</sent>
+<sent type="main" lang="chi" page="14b" n="13">痕跡</sent>
+<sent type="main" lang="kor" page="14b" n="14">痕迹</sent><!--‘痕迹’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="14b" n="15">刺</sent>
+<sent type="main" lang="kor" page="14b" n="16">가싀</sent>
+<sent type="main" lang="chi" page="14b" n="17">刺扎</sent>
+<sent type="main" lang="kor" page="14b" n="18">가싀 질리다</sent>
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/18세기후기_한청문감/15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="01">傷痕復犯</sent>
+<sent type="main" lang="kor" page="15a" n="02">샹ᄒᆞᆫ ᄃᆡ 복발ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="15a" n="03">殘疾</sent>
+<sent type="main" lang="kor" page="15a" n="04">殘疾</sent><!--‘殘疾’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15a" n="05">禿子</sent>
+<sent type="main" lang="kor" page="15a" n="06">믠마리</sent>
+<sent type="main" lang="chi" page="15a" n="07">瓢兒禿</sent>
+<sent type="main" lang="kor" page="15a" n="08">죡박ᄀᆞ치 믠 마리</sent>
+<sent type="main" lang="chi" page="15a" n="09">瞎</sent>
+<sent type="main" lang="kor" page="15a" n="10">눈 머다</sent>
+<sent type="main" lang="chi" page="15a" n="11">瞎子</sent>
+<sent type="main" lang="kor" page="15a" n="12">쇼경</sent>
+<sent type="main" lang="chi" page="15a" n="13">扎瞎了</sent>
+<sent type="main" lang="kor" page="15a-15b" n="14">다쳐 눈 머다</sent><!--머^다-->
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/18세기후기_한청문감/15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="01">失明</sent>
+<sent type="main" lang="kor" page="15b" n="02">눈 못 보다</sent>
+<sent type="main" lang="chi" page="15b" n="03">瘸一足</sent>
+<sent type="main" lang="kor" page="15b" n="04">ᄒᆞᆫ 다리 저다</sent>
+<sent type="main" lang="chi" page="15b" n="05">眇一目</sent>
+<sent type="main" lang="kor" page="15b" n="06">ᄒᆞᆫ 눈 머다</sent>
+<sent type="main" lang="chi" page="15b" n="07">蘿葡花</sent>
+<sent type="main" lang="kor" page="15b" n="08">눈에 알 직힌 것</sent>
+<sent type="main" lang="chi" page="15b" n="09">翳朦</sent>
+<sent type="main" lang="kor" page="15b" n="10">예ᄆᆡᆨ ᄭᅵ이다</sent>
+<sent type="main" lang="chi" page="15b" n="11">聾子</sent>
+<sent type="main" lang="kor" page="15b" n="12">귀먹어리</sent>
+<sent type="main" lang="chi" page="15b" n="13">聾子打岔</sent>
+<sent type="main" lang="kor" page="15b" n="14">귀 먹어 두렷두렷ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="15b" n="15">啞吧</sent>
+<sent type="main" lang="kor" page="15b" n="16">벙어리</sent>
+<sent type="main" lang="chi" page="15b-16a" n="17">不出聲啞吧</sent><!--不出聲啞^吧-->
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/18세기후기_한청문감/16a.jpg</img>
+<sent type="main" lang="kor" page="16a" n="01">소ᄅᆡ 못 ᄒᆞᄂᆞᆫ 벙어리</sent>
+<sent type="main" lang="chi" page="16a" n="02">結吧</sent>
+<sent type="main" lang="kor" page="16a" n="03">더두어리</sent>
+<sent type="main" lang="chi" page="16a" n="04">豁脣</sent>
+<sent type="main" lang="kor" page="16a" n="05">언쳥이</sent>
+<sent type="main" lang="chi" page="16a" n="06">豁牙</sent>
+<sent type="main" lang="kor" page="16a" n="07">니 ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="16a" n="08">糟鼻</sent>
+<sent type="main" lang="kor" page="16a" n="09">쥬부코</sent>
+<sent type="main" lang="chi" page="16a" n="10">癭袋</sent>
+<sent type="main" lang="kor" page="16a" n="11">혹</sent>
+<sent type="main" lang="chi" page="16a" n="12">歪脖</sent>
+<sent type="main" lang="kor" page="16a" n="13">목 기우다</sent>
+<sent type="main" lang="chi" page="16a" n="14">鷄胸</sent>
+<sent type="main" lang="kor" page="16a" n="15">곱쟝이</sent>
+<sent type="main" lang="chi" page="16a" n="16">羅鍋</sent>
+<sent type="main" lang="kor" page="16a" n="17">허리 굽은 이</sent>
+<sent type="main" lang="chi" page="16a-16b" n="18">一邊歪</sent><!--一^邊歪-->
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/18세기후기_한청문감/16b.jpg</img>
+<sent type="main" lang="kor" page="16b" n="01">ᄒᆞᆫ 편 기우다</sent>
+<sent type="main" lang="chi" page="16b" n="02">一順歪</sent>
+<sent type="main" lang="kor" page="16b" n="03">ᄒᆞᆫ 편으로 기우다</sent>
+<sent type="main" lang="chi" page="16b" n="04">歪指</sent>
+<sent type="main" lang="kor" page="16b" n="05">손가락 비우다</sent>
+<sent type="main" lang="chi" page="16b" n="06">蹩手</sent>
+<sent type="main" lang="kor" page="16b" n="07">손가락 펴지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="16b" n="08">努結</sent>
+<sent type="main" lang="kor" page="16b" n="09">엇게 내미다</sent>
+<sent type="main" lang="chi" page="16b" n="10">疙疸[月+畺]住了</sent>
+<sent type="main" lang="kor" page="16b" n="11">허믈 두두러지다</sent>
+<sent type="main" lang="chi" page="16b" n="12">瘸子</sent>
+<sent type="main" lang="kor" page="16b" n="13">저ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="16b" n="14">羅圈腿</sent>
+<sent type="main" lang="kor" page="16b" n="15">안ㅅ쟝 죠아리</sent>
+<sent type="main" lang="chi" page="16b" n="16">撇脚</sent>
+<sent type="main" lang="kor" page="16b" n="17">밧쟝 죠아리</sent>
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/18세기후기_한청문감/17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">拘攣</sent>
+<sent type="main" lang="kor" page="17a" n="02">굴신을 임의로 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17a" n="03">手足不得力</sent>
+<sent type="main" lang="kor" page="17a" n="04">슈죡 무긔ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17a" n="05">喉鼻緊塞</sent>
+<sent type="main" lang="kor" page="17a" n="06">코 ᄶᅵᆼᄶᅵᆼᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17a" n="07">僣</sent>
+<sent type="main" lang="kor" page="17a" n="08">참람ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17a" n="09">越分的</sent>
+<sent type="main" lang="kor" page="17a" n="10">분에 넘게 구ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="17a" n="11">越分</sent>
+<sent type="main" lang="kor" page="17a" n="12">분에 넘게 구다</sent>
+<sent type="main" lang="chi" page="17a" n="13">傲慢</sent>
+<sent type="main" lang="kor" page="17a" n="14">傲慢ᄒᆞ다</sent><!--‘傲慢’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/18세기후기_한청문감/17b.jpg</img>
+<sent type="main" lang="chi" page="17b" n="01">作怪</sent>
+<sent type="main" lang="kor" page="17b" n="02">괴이ᄒᆞ다 ○ 又 방ᄌᆞᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="03">過踰</sent>
+<sent type="main" lang="kor" page="17b" n="04">과람ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="05">太過</sent>
+<sent type="main" lang="kor" page="17b" n="06">太過</sent><!--‘太過’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="17b" n="07">用度張大</sent>
+<sent type="main" lang="kor" page="17b" n="08">쓰기 과ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="09">奢費</sent>
+<sent type="main" lang="kor" page="17b" n="10">샤치ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="11">奢費人</sent>
+<sent type="main" lang="kor" page="17b" n="12">샤치ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="17b" n="13">耗費</sent>
+<sent type="main" lang="kor" page="17b" n="14">허비ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="15">費用</sent>
+<sent type="main" lang="kor" page="17b" n="16">허비</sent>
+<sent type="main" lang="chi" page="17b" n="17">遭蹋</sent>
+<sent type="main" lang="kor" page="17b" n="18">害人利已之稱</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/18세기후기_한청문감/18a.jpg</img>
+<sent type="main" lang="chi" page="18a" n="01">淫</sent>
+<sent type="main" lang="kor" page="18a" n="02">음난</sent>
+<sent type="main" lang="chi" page="18a" n="03">貪淫</sent>
+<sent type="main" lang="kor" page="18a" n="04">貪淫ᄒᆞ다</sent><!--‘貪淫’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="05">貪黷</sent>
+<sent type="main" lang="kor" page="18a" n="06">貪黷ᄒᆞ다</sent><!--‘貪黷’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="07">煩瀆</sent>
+<sent type="main" lang="kor" page="18a" n="08">煩瀆</sent><!--‘煩瀆’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="09">黏㧓</sent>
+<sent type="main" lang="kor" page="18a" n="10">사ᄅᆞᆷ 시ᄃᆞᆯ이ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="18a" n="11">貪溺</sent>
+<sent type="main" lang="kor" page="18a" n="12">貪溺ᄒᆞ다</sent><!--‘貪溺’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="13">慣了</sent>
+<sent type="main" lang="kor" page="18a" n="14">慣熟ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18a" n="15">下流了</sent>
+<sent type="main" lang="kor" page="18a" n="16">流蕩忌返之稱</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/18세기후기_한청문감/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="01">沈湎了</sent>
+<sent type="main" lang="kor" page="18b" n="02">술에 젓다</sent>
+<sent type="main" lang="chi" page="18b" n="03">陷溺了</sent>
+<sent type="main" lang="kor" page="18b" n="04">陷溺ᄒᆞ다</sent><!--‘陷溺’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18b" n="05">好極了</sent>
+<sent type="main" lang="kor" page="18b" n="06">극히 죠하ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18b" n="07">好</sent>
+<sent type="main" lang="kor" page="18b" n="08">죠하ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18b" n="09">困于酒</sent>
+<sent type="main" lang="kor" page="18b" n="10">술에 곤ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18b" n="11">發浪</sent>
+<sent type="main" lang="kor" page="18b" n="12">즐게 구다</sent>
+<sent type="main" lang="chi" page="18b" n="13">行淫蕩</sent>
+<sent type="main" lang="kor" page="18b" n="14">음탕ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18b" n="15">俏浪</sent>
+<sent type="main" lang="kor" page="18b" n="16">교ᄐᆡ</sent>
+<sent type="main" lang="chi" page="18b" n="17">粧俏</sent>
+<sent type="main" lang="kor" page="18b" n="18">교ᄐᆡᄒᆞ다</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/18세기후기_한청문감/19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="01">賣俏</sent>
+<sent type="main" lang="kor" page="19a" n="02">ᄂᆞᆷ의게 고온 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19a" n="03">引誘</sent>
+<sent type="main" lang="kor" page="19a" n="04">유인ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19a" n="05">調戱</sent>
+<sent type="main" lang="kor" page="19a" n="06">調戱ᄒᆞ다</sent><!--‘調戱’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19a" n="07">唱淫曲</sent>
+<sent type="main" lang="kor" page="19a" n="08">淫曲 부르다</sent>
+<sent type="main" lang="chi" page="19a" n="09">嫌疑</sent>
+<sent type="main" lang="kor" page="19a" n="10">嫌疑</sent><!--‘嫌疑’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19a" n="11">猜疑</sent>
+<sent type="main" lang="kor" page="19a" n="12">猜疑ᄒᆞ다</sent><!--‘猜疑’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19a" n="13">含糊</sent>
+<sent type="main" lang="kor" page="19a" n="14">흐리멍덩ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19a" n="15">荒唐</sent>
+<sent type="main" lang="kor" page="19a" n="16">荒唐</sent><!--‘荒唐’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/18세기후기_한청문감/19b.jpg</img>
+<sent type="main" lang="chi" page="19b" n="01">不定</sent>
+<sent type="main" lang="kor" page="19b" n="02">졍치 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19b" n="03">飜覆</sent>
+<sent type="main" lang="kor" page="19b" n="04">飜覆ᄒᆞ다</sent><!--‘飜覆’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19b" n="05">猜想</sent>
+<sent type="main" lang="kor" page="19b" n="06">짐쟉ᄒᆞ여 ᄉᆡᆼ각ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19b" n="07">不妥當</sent>
+<sent type="main" lang="kor" page="19b" n="08">ᄐᆡ당치 아니케 너기다</sent>
+<sent type="main" lang="chi" page="19b" n="09">猶豫</sent>
+<sent type="main" lang="kor" page="19b" n="10">猶豫ᄒᆞ다</sent><!--‘猶豫’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19b" n="11">遲疑不決</sent>
+<sent type="main" lang="kor" page="19b" n="12">의심ᄒᆞ여 결단치 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="19b" n="13">疑惑</sent>
+<sent type="main" lang="kor" page="19b" n="14">疑惑다</sent><!--‘疑惑’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19b" n="15">遲疑</sent>
+<sent type="main" lang="kor" page="19b" n="16">遲疑ᄒᆞ다</sent><!--‘遲疑’가 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/18세기후기_한청문감/20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="01">游移</sent>
+<sent type="main" lang="kor" page="20a" n="02">ᄀᆞᆯ리여 결단 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20a" n="03">無定向</sent>
+<sent type="main" lang="kor" page="20a" n="04">定準 없다</sent>
+<sent type="main" lang="chi" page="20a" n="05">三心二意</sent>
+<sent type="main" lang="kor" page="20a" n="06">이리 ᄒᆞ락 져리 ᄒᆞ락 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20a" n="07">滯礙</sent>
+<sent type="main" lang="kor" page="20a" n="08">ᄋᆡ쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20a" n="09">無定準</sent>
+<sent type="main" lang="kor" page="20a" n="10">이리토 져리토 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20a" n="11">想是</sent>
+<sent type="main" lang="kor" page="20a" n="12">ᄉᆡᆼ각건대</sent>
+<sent type="main" lang="chi" page="20a" n="13">或是</sent>
+<sent type="main" lang="kor" page="20a" n="14">혹 그런가</sent>
+<sent type="main" lang="chi" page="20a" n="15">或者</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/18세기후기_한청문감/20b.jpg</img>
+<sent type="main" lang="kor" page="20b" n="01">或者</sent><!--‘或者’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="20b" n="02">莫不是</sent>
+<sent type="main" lang="kor" page="20b" n="03">아니 그런가 ○ 又 아지 못게라</sent>
+<sent type="main" lang="chi" page="20b" n="04">好像是</sent>
+<sent type="main" lang="kor" page="20b" n="05">맛치 이것</sent>
+<sent type="main" lang="chi" page="20b" n="06">想是呢</sent>
+<sent type="main" lang="kor" page="20b" n="07">ᄒᆞ여시리라</sent>
+<sent type="main" lang="chi" page="20b" n="08">若是</sent>
+<sent type="main" lang="kor" page="20b" n="09">만일</sent>
+<sent type="main" lang="chi" page="20b" n="10">怎麽樣呢</sent>
+<sent type="main" lang="kor" page="20b" n="11">엇지ᄒᆞ엿ᄂᆞ니</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/18세기후기_한청문감/21a.jpg</img>
+<sent type="main" lang="chi" page="21a" n="01">驕傲</sent>
+<sent type="main" lang="kor" page="21a" n="02">교만ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="21a" n="03">揑大款</sent>
+<sent type="main" lang="kor" page="21a" n="04">서ᄌᆡᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="21a" n="05">佯佯不睬</sent>
+<sent type="main" lang="kor" page="21a" n="06">못 보ᄂᆞᆫ 쳬 못 듯ᄂᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="21a" n="07">藐視</sent>
+<sent type="main" lang="kor" page="21a" n="08">貓視ᄒᆞ다</sent><!--‘貓視’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="21a" n="09">不理</sent>
+<sent type="main" lang="kor" page="21a" n="10">긔수치 아니타</sent>
+<sent type="main" lang="chi" page="21a" n="11">毫不理人</sent>
+<sent type="main" lang="kor" page="21a" n="12">죠곰도 긔수치 아니타</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/18세기후기_한청문감/21b.jpg</img>
+<sent type="main" lang="chi" page="21b" n="01">總不籌數</sent>
+<sent type="main" lang="kor" page="21b" n="02">아조 혜지 아니타</sent>
+<sent type="main" lang="chi" page="21b" n="03">冷淡</sent>
+<sent type="main" lang="kor" page="21b" n="04">冷淡ᄒᆞ다</sent><!--‘’冷淡이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="21b" n="05">罷鬆</sent>
+<sent type="main" lang="kor" page="21b" n="06">졍 업ᄉᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="21b" n="07">寡情</sent>
+<sent type="main" lang="kor" page="21b" n="08">사ᄅᆞᆷ의게 졍 업시 구다</sent>
+<sent type="main" lang="chi" page="21b" n="09">生分</sent>
+<sent type="main" lang="kor" page="21b" n="10">서오ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="21b" n="11">容不下</sent>
+<sent type="main" lang="kor" page="21b" n="12">용납지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="21b" n="13">矜誇</sent>
+<sent type="main" lang="kor" page="21b" n="14">쟈랑ᄒᆞ다</sent>
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/18세기후기_한청문감/22a.jpg</img>
+<sent type="main" lang="chi" page="22a" n="01">誇張人</sent>
+<sent type="main" lang="kor" page="22a" n="02">과쟝ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="22a" n="03">逞能</sent>
+<sent type="main" lang="kor" page="22a" n="04">능ᄒᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="22a" n="05">逞强</sent>
+<sent type="main" lang="kor" page="22a" n="06">강ᄒᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="22a" n="07">胡誇張</sent>
+<sent type="main" lang="kor" page="22a" n="08">간대로 과쟝ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="22a" n="09">怪樣</sent>
+<sent type="main" lang="kor" page="22a" n="10">셰 쓰다</sent>
+<sent type="main" lang="chi" page="22a" n="11">抗越</sent>
+<sent type="main" lang="kor" page="22a" n="12">ᄌᆞ긍ᄒᆞ고 범람ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="22a" n="13">充能的人</sent>
+<sent type="main" lang="kor" page="22a" n="14">능한 쳬ᄒᆞᄂᆞᆫ 이</sent>
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/18세기후기_한청문감/22b.jpg</img>
+<sent type="main" lang="chi" page="22b" n="01">昻然</sent>
+<sent type="main" lang="kor" page="22b" n="02">昻然ᄒᆞ다</sent><!--‘昻然’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22b" n="03">挺胸自大</sent>
+<sent type="main" lang="kor" page="22b" n="04">가ᄉᆞᆷ 내밀고 큰 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="22b" n="05">心肥</sent>
+<sent type="main" lang="kor" page="22b" n="06">속 ᄇᆡᆫ 이</sent>
+<sent type="main" lang="chi" page="22b" n="07">驕縱</sent>
+<sent type="main" lang="kor" page="22b" n="08">驕縱ᄒᆞ다</sent><!--‘驕縱’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22b" n="09">粧模作樣</sent>
+<sent type="main" lang="kor" page="22b" n="10">모양 짓다</sent>
+<sent type="main" lang="chi" page="22b" n="11">豪强</sent>
+<sent type="main" lang="kor" page="22b" n="12">毫强ᄒᆞ다</sent><!--‘毫强’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22b" n="13">强梁</sent>
+<sent type="main" lang="kor" page="22b" n="14">强粱</sent><!--‘强粱’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22b" n="15">好修容止</sent>
+<sent type="main" lang="kor" page="22b" n="16">뱌오 다듬ᄂᆞᆫ 이</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/18세기후기_한청문감/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="01">粧飾</sent>
+<sent type="main" lang="kor" page="23a" n="02">것 ᄭᅮ미다</sent>
+<sent type="main" lang="chi" page="23a" n="03">張狂</sent>
+<sent type="main" lang="kor" page="23a" n="04">광패히 구다</sent>
+<sent type="main" lang="chi" page="23a" n="05">輕狂</sent>
+<sent type="main" lang="kor" page="23a" n="06">輕狂ᄒᆞ다</sent><!--‘輕狂’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23a" n="07">好修飾</sent>
+<sent type="main" lang="kor" page="23a" n="08">잘 비오ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="23a" n="09">擧止輕浮</sent>
+<sent type="main" lang="kor" page="23a" n="10">擧止輕浮ᄒᆞ다</sent><!--‘擧止輕浮’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23a" n="11">擧止不定</sent>
+<sent type="main" lang="kor" page="23a" n="12">擧止不定ᄒᆞ다</sent><!--‘擧止不定’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/18세기후기_한청문감/23b.jpg</img>
+<sent type="main" lang="chi" page="23b" n="01">寒賤</sent>
+<sent type="main" lang="kor" page="23b" n="02">寒賤ᄒᆞ다</sent><!--‘寒賤’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23b" n="03">閃灼</sent>
+<sent type="main" lang="kor" page="23b" n="04">擧止閃忽ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="23b" n="05">肯驚慌</sent>
+<sent type="main" lang="kor" page="23b" n="06">경망이 놀나다</sent>
+<sent type="main" lang="chi" page="23b" n="07">輕佻</sent>
+<sent type="main" lang="kor" page="23b" n="08">輕佻ᄒᆞ다</sent><!--‘輕佻’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23b" n="09">輕飄</sent>
+<sent type="main" lang="kor" page="23b" n="10">輕飄</sent><!--‘輕飄’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23b" n="11">輕躁</sent>
+<sent type="main" lang="kor" page="23b" n="12">輕躁</sent><!--‘輕躁’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23b" n="13">虛飄</sent>
+<sent type="main" lang="kor" page="23b" n="14">허경ᄒᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="23b" n="15">無坐性</sent>
+<sent type="main" lang="kor" page="23b" n="16">진득지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="23b" n="17">迂浮</sent>
+<sent type="main" lang="kor" page="23b" n="18">오활ᄒᆞᆫ 이</sent>
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/18세기후기_한청문감/24a.jpg</img>
+<sent type="main" lang="chi" page="24a" n="01">無耐性</sent>
+<sent type="main" lang="kor" page="24a" n="02">견ᄃᆡᆯ 샹 업ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="24a" n="03">婦女輕薄</sent>
+<sent type="main" lang="kor" page="24a" n="04">婦女輕薄</sent><!--‘婦女輕薄’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24a" n="05">抽抽搭搭</sent>
+<sent type="main" lang="kor" page="24a" n="06">ᄭᆞᆷ즉ᄭᆞᆷ즉</sent>
+<sent type="main" lang="chi" page="24a" n="07">跳跳蹋蹋</sent>
+<sent type="main" lang="kor" page="24a" n="08">달막달막</sent>
+<sent type="main" lang="chi" page="24a" n="09">不穩重</sent>
+<sent type="main" lang="kor" page="24a" n="10">진즁치 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="24a" n="11">枓枓擻擻</sent>
+<sent type="main" lang="kor" page="24a" n="12">ᄯᅥ쥬어리다</sent>
+<sent type="main" lang="chi" page="24a" n="13">賊眉鼠眼</sent>
+<sent type="main" lang="kor" page="24a" n="14">기웃기웃</sent>
+<sent type="main" lang="chi" page="24a-24b" n="15">恍惚不定</sent><!--恍惚不^定-->
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/18세기후기_한청문감/24b.jpg</img>
+<sent type="main" lang="kor" page="24b" n="01">恍惚不定</sent><!--‘恍惚不定’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="02">反覆無常</sent>
+<sent type="main" lang="kor" page="24b" n="03">反覆無常</sent><!--‘反覆無常’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="04">輕擧妄動</sent>
+<sent type="main" lang="kor" page="24b" n="05">輕擧妄動</sent><!--‘輕擧妄動’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="06">東張西望</sent>
+<sent type="main" lang="kor" page="24b" n="07">이리져리 보다</sent>
+<sent type="main" lang="chi" page="24b" n="08">狂妄</sent>
+<sent type="main" lang="kor" page="24b" n="09">狂妄ᄒᆞ다</sent><!--‘狂妄’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="10">醉鬧</sent>
+<sent type="main" lang="kor" page="24b" n="11">쥬졍ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="24b" n="12">攀高</sent>
+<sent type="main" lang="kor" page="24b" n="13">분에 넘게 구다</sent>
+<sent type="main" lang="chi" page="24b" n="14">好攬事</sent>
+<sent type="main" lang="kor" page="24b" n="15">일에 부듸치ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="24b" n="16">冒瀆</sent>
+<sent type="main" lang="kor" page="24b" n="17">冒瀆</sent><!--‘冒瀆’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/18세기후기_한청문감/25a.jpg</img>
+<sent type="main" lang="chi" page="25a" n="01">膽大</sent>
+<sent type="main" lang="kor" page="25a" n="02">膽大ᄒᆞ다</sent><!--‘膽大’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="25a" n="03">說話冒撞</sent>
+<sent type="main" lang="kor" page="25a" n="04">말 불ᄯᅮᆼᄒᆞ다</sent>
+<sent type="main" lang="chi" page="25a" n="05">强嘴</sent>
+<sent type="main" lang="kor" page="25a" n="06">부리 세다</sent>
+<sent type="main" lang="chi" page="25a" n="07">言語粗魯</sent>
+<sent type="main" lang="kor" page="25a" n="08">言語粗魯ᄒᆞ다</sent><!--‘言語粗魯’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="25a" n="09">亂言人</sent>
+<sent type="main" lang="kor" page="25a" n="10">말 혜아리지 아니ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="25a" n="11">嘴快人</sent>
+<sent type="main" lang="kor" page="25a" n="12">부리 ᄌᆡᆫ 이</sent>
+<sent type="main" lang="chi" page="25a" n="13">冒失人</sent>
+<sent type="main" lang="kor" page="25a" n="14">젼도ᄒᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="25a-25b" n="15">[言+匋]氣</sent><!--[言+匋]^氣-->
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/18세기후기_한청문감/25b.jpg</img>
+<sent type="main" lang="kor" page="25b" n="01">ᄀᆞ래다</sent>
+<sent type="main" lang="chi" page="25b" n="02">難纏</sent>
+<sent type="main" lang="kor" page="25b" n="03">싯귀ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="25b" n="04">作怪</sent>
+<sent type="main" lang="kor" page="25b" n="05">요긔로이 구다</sent>
+<sent type="main" lang="chi" page="25b" n="06">用强</sent>
+<sent type="main" lang="kor" page="25b" n="07">강악히 구다</sent>
+<sent type="main" lang="chi" page="25b" n="08">强粱</sent>
+<sent type="main" lang="kor" page="25b" n="09">악 쓰다</sent>
+<sent type="main" lang="chi" page="25b" n="10">使强</sent>
+<sent type="main" lang="kor" page="25b" n="11">강악 부리다</sent>
+<sent type="main" lang="chi" page="25b" n="12">領頭人</sent>
+<sent type="main" lang="kor" page="25b" n="13">위두ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="25b" n="14">任性</sent>
+<sent type="main" lang="kor" page="25b-26a" n="15">임의대로 ᄒᆞ다</sent><!--임의^대로-->
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/18세기후기_한청문감/26a.jpg</img>
+<sent type="main" lang="chi" page="26a" n="01">作威</sent>
+<sent type="main" lang="kor" page="26a" n="02">作威ᄒᆞ다</sent><!--‘作威’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26a" n="03">發豪橫</sent>
+<sent type="main" lang="kor" page="26a" n="04">호긔 부려 작란ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="26a" n="05">欺凌</sent>
+<sent type="main" lang="kor" page="26a" n="06">업슈이너기다</sent>
+<sent type="main" lang="chi" page="26a" n="07">壓派</sent>
+<sent type="main" lang="kor" page="26a" n="08">억지로 ᄒᆞ다 ○ 又 핍박ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="26a" n="09">逼勒</sent>
+<sent type="main" lang="kor" page="26a" n="10">헙륵ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="26a" n="11">訛詐</sent>
+<sent type="main" lang="kor" page="26a" n="12">저히다</sent>
+<sent type="main" lang="chi" page="26a" n="13">訛頭</sent>
+<sent type="main" lang="kor" page="26a" n="14">저히ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="26a" n="15">覇佔</sent>
+<sent type="main" lang="kor" page="26a" n="16">억지 내다</sent>
+<sent type="main" lang="chi" page="26a" n="17">自專</sent>
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/18세기후기_한청문감/26b.jpg</img>
+<sent type="main" lang="chi" page="26b" n="01">不由人主張</sent>
+<sent type="main" lang="kor" page="26b" n="02">혼자 쥬쟝ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="26b" n="03">越分專行</sent>
+<sent type="main" lang="kor" page="26b" n="04">임의로 ᄌᆞ젼ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="26b" n="05">自專ᄒᆞ다</sent><!--‘自專’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26b" n="06">庸懦</sent>
+<sent type="main" lang="kor" page="26b" n="07">庸懦ᄒᆞᆫ 이</sent><!--‘庸懦’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26b" n="08">無能耐</sent>
+<sent type="main" lang="kor" page="26b" n="09">무능ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="26b" n="10">駑鈍</sent>
+<sent type="main" lang="kor" page="26b" n="11">駑鈍</sent><!--‘駑鈍’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26b" n="12">庸劣</sent>
+<sent type="main" lang="kor" page="26b" n="13">庸劣ᄒᆞ다</sent><!--‘庸劣’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/18세기후기_한청문감/27a.jpg</img>
+<sent type="main" lang="chi" page="27a" n="01">獃獃的</sent>
+<sent type="main" lang="kor" page="27a" n="02">어린 형상</sent>
+<sent type="main" lang="chi" page="27a" n="03">發獃</sent>
+<sent type="main" lang="kor" page="27a" n="04">어린 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="27a" n="05">畏避</sent>
+<sent type="main" lang="kor" page="27a" n="06">두려 피ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="27a" n="07">欲逢迎又畏懼</sent>
+<sent type="main" lang="kor" page="27a" n="08">아쳠코져 ᄒᆞ되 두려 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="27a" n="09">暗窺</sent>
+<sent type="main" lang="kor" page="27a" n="10">기웃거리다</sent>
+<sent type="main" lang="chi" page="27a" n="11">畏縮</sent>
+<sent type="main" lang="kor" page="27a" n="12">畏縮ᄒᆞ다</sent><!--‘畏縮’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="27a" n="13">忐忑</sent>
+<sent type="main" lang="chi" page="27a" n="14">無心緖</sent>
+<sent type="main" lang="kor" page="27a" n="15">혼망ᄒᆞᆫ 이</sent>
+</pages>
+
+<pages n="27b">
+<img n="27b">https://kohico.kr/_media/image/18세기후기_한청문감/27b.jpg</img>
+<sent type="main" lang="chi" page="27b" n="01">畏首畏尾</sent>
+<sent type="main" lang="kor" page="27b" n="02">畏首畏尾</sent><!--‘畏首畏尾’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="27b" n="03">獃頭獃腦</sent>
+<sent type="main" lang="kor" page="27b" n="04">어릿어릿</sent>
+<sent type="main" lang="chi" page="27b" n="05">隨衆</sent>
+<sent type="main" lang="kor" page="27b" n="06">ᄂᆞᆷ ᄯᆞ롸 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="27b" n="07">無精打彩</sent>
+<sent type="main" lang="kor" page="27b" n="08">졍신업서 흐리다</sent>
+<sent type="main" lang="chi" page="27b" n="09">癱軟</sent>
+<sent type="main" lang="kor" page="27b" n="10">늘은ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="27b" n="11">軟</sent>
+<sent type="main" lang="kor" page="27b" n="12">물으다</sent>
+<sent type="main" lang="chi" page="27b" n="13">不骨立</sent>
+<sent type="main" lang="kor" page="27b" n="14">풀ᄭᅴ 업다</sent>
+<sent type="main" lang="chi" page="27b-28a" n="15">柔弱人</sent><!--柔弱^人-->
+</pages>
+
+<pages n="28a">
+<img n="28a">https://kohico.kr/_media/image/18세기후기_한청문감/28a.jpg</img>
+<sent type="main" lang="kor" page="28a" n="01">연약ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="28a" n="02">心活</sent>
+<sent type="main" lang="kor" page="28a" n="03">ᄆᆞᄋᆞᆷ 연약ᄒᆞ여 뎡치 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28a" n="04">發怔</sent>
+<sent type="main" lang="kor" page="28a" n="05">심신 無定ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28a" n="06">碌碌庸人</sent>
+<sent type="main" lang="kor" page="28a" n="07">碌碌庸人</sent><!--‘碌碌庸人’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="28a" n="08">𤨏屑</sent>
+<sent type="main" lang="kor" page="28a" n="09">𤨏屑</sent><!--‘𤨏屑’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="28a" n="10">懦弱</sent>
+<sent type="main" lang="kor" page="28a" n="11">懦弱</sent><!--‘懦弱’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="28a" n="12">不及</sent>
+<sent type="main" lang="kor" page="28a" n="13">ᄂᆞᆷ만 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28a" n="14">遲慢</sent>
+<sent type="main" lang="kor" page="28a" n="15">遲慢</sent><!--‘遲慢’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/18세기후기_한청문감/28b.jpg</img>
+<sent type="main" lang="chi" page="28b" n="01">匾淺</sent>
+<sent type="main" lang="kor" page="28b" n="02">ᄆᆞᄋᆞᆷ 좁다</sent>
+<sent type="main" lang="chi" page="28b" n="03">平常</sent>
+<sent type="main" lang="kor" page="28b" n="04">녜ᄉᆞ</sent>
+<sent type="main" lang="chi" page="28b" n="05">委隨人</sent>
+<sent type="main" lang="kor" page="28b" n="06">일에 뒤지ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="28b" n="07">委隨</sent>
+<sent type="main" lang="kor" page="28b" n="08">므루 좃다</sent>
+<sent type="main" lang="chi" page="28b" n="09">拙笨</sent>
+<sent type="main" lang="kor" page="28b" n="10">골 ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="28b" n="11">不耐勞</sent>
+<sent type="main" lang="kor" page="28b" n="12">슈고 견ᄃᆡ지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28b" n="13">折了銳氣</sent>
+<sent type="main" lang="kor" page="28b" n="14">예긔 ᄭᅥᆨ기이다</sent>
+<sent type="main" lang="chi" page="28b" n="15">無主張</sent>
+<sent type="main" lang="kor" page="28b" n="16">쥬쟝 업다</sent>
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/18세기후기_한청문감/29a.jpg</img>
+<sent type="main" lang="chi" page="29a" n="01">無內囊</sent>
+<sent type="main" lang="kor" page="29a" n="02">안ᄶᅩᆼ 업다</sent>
+<sent type="main" lang="chi" page="29a" n="03">無能</sent>
+<sent type="main" lang="kor" page="29a" n="04">無能ᄒᆞ다</sent><!--‘無能’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="29a" n="05">忘性</sent>
+<sent type="main" lang="kor" page="29a" n="06">니ᄌᆞᆷ 헐ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="29a" n="07">肯忘</sent>
+<sent type="main" lang="kor" page="29a" n="08">니ᄌᆞᆷ 헐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29a" n="09">無記性</sent>
+<sent type="main" lang="chi" page="29a" n="10">忘</sent>
+<sent type="main" lang="kor" page="29a" n="11">닛다</sent>
+<sent type="main" lang="chi" page="29a" n="12">全然忘了</sent>
+<sent type="main" lang="kor" page="29a" n="13">아조 닛다</sent>
+<sent type="main" lang="chi" page="29a" n="14">把拮</sent>
+<sent type="main" lang="kor" page="29a" n="15">일에 망급히 구다</sent>
+<sent type="main" lang="chi" page="29a" n="16">扯鋸兒</sent>
+<sent type="main" lang="kor" page="29a" n="17">일에 믕긋믕긋ᄒᆞ다</sent>
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/18세기후기_한청문감/29b.jpg</img>
+<sent type="main" lang="chi" page="29b" n="01">强扎掙</sent>
+<sent type="main" lang="kor" page="29b" n="02">일 계워ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="03">靠人做事</sent>
+<sent type="main" lang="kor" page="29b" n="04">ᄂᆞᆷ의게 의지ᄒᆞ여 일ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="05">不能事</sent>
+<sent type="main" lang="kor" page="29b" n="06">일 능치 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="07">愚</sent>
+<sent type="main" lang="kor" page="29b" n="08">미련ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="29b" n="09">行事愚</sent>
+<sent type="main" lang="kor" page="29b" n="10">일에 미련ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="11">說話愚</sent>
+<sent type="main" lang="kor" page="29b" n="12">말에 미련ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="13">懵懂</sent>
+<sent type="main" lang="kor" page="29b" n="14">懵懂ᄒᆞ다</sent><!--‘懵懂’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/18세기후기_한청문감/30a.jpg</img>
+<sent type="main" lang="chi" page="30a" n="01">眼拙</sent>
+<sent type="main" lang="kor" page="30a" n="02">눈 무되다</sent>
+<sent type="main" lang="chi" page="30a" n="03">憨人</sent>
+<sent type="main" lang="kor" page="30a" n="04">실업슨 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="30a" n="05">傻子</sent>
+<sent type="main" lang="kor" page="30a" n="06">어린 이</sent>
+<sent type="main" lang="chi" page="30a" n="07">愚蒙</sent>
+<sent type="main" lang="kor" page="30a" n="08">愚蒙</sent><!--‘愚蒙’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30a" n="09">糊塗</sent>
+<sent type="main" lang="kor" page="30a" n="10">흐리다</sent>
+<sent type="main" lang="chi" page="30a" n="11">糊塗人</sent>
+<sent type="main" lang="kor" page="30a" n="12">흐린 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="30a" n="13">迷透了</sent>
+<sent type="main" lang="kor" page="30a" n="14">열ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="30a" n="15">昏暗</sent>
+<sent type="main" lang="kor" page="30a" n="16">昏暗ᄒᆞ다</sent><!--‘昏暗’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30a" n="17">暗昧</sent>
+<sent type="main" lang="kor" page="30a" n="18">暗昧</sent><!--‘暗昧’가 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/18세기후기_한청문감/30b.jpg</img>
+<sent type="main" lang="chi" page="30b" n="01">渾</sent>
+<sent type="main" lang="kor" page="30b" n="02">속 ᄇᆞᆰ지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="30b" n="03">無眼識</sent>
+<sent type="main" lang="kor" page="30b" n="04">눈츼 업다</sent>
+<sent type="main" lang="chi" page="30b" n="05">無知識</sent>
+<sent type="main" lang="kor" page="30b" n="06">지식 업다</sent>
+<sent type="main" lang="chi" page="30b" n="07">不懂脈</sent>
+<sent type="main" lang="kor" page="30b" n="08">일 묘ᄆᆡᆨ 모로다</sent>
+<sent type="main" lang="chi" page="30b" n="09">不了亮</sent>
+<sent type="main" lang="kor" page="30b" n="10">ᄇᆞᆰ지 못ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="30b" n="11">獃</sent>
+<sent type="main" lang="kor" page="30b" n="12">어림장이</sent>
+<sent type="main" lang="chi" page="30b" n="13">言語遲鈍</sent>
+<sent type="main" lang="kor" page="30b" n="14">말 둔ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="30b" n="15">傻公子</sent>
+<sent type="main" lang="kor" page="30b" n="16">어린 公子</sent>
+<sent type="main" lang="chi" page="30b" n="17">獃蠢</sent>
+<sent type="main" lang="kor" page="30b" n="18">어리다</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/18세기후기_한청문감/31a.jpg</img>
+<sent type="main" lang="chi" page="31a" n="01">肯說獃話</sent>
+<sent type="main" lang="kor" page="31a" n="02">어린 말 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="31a" n="03">妄談人</sent>
+<sent type="main" lang="kor" page="31a" n="04">망녕되이 말ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="31a" n="05">過</sent>
+<sent type="main" lang="kor" page="31a" n="06">허믈</sent>
+<sent type="main" lang="chi" page="31a" n="07">過誤</sent>
+<sent type="main" lang="kor" page="31a" n="08">過誤ᄒᆞ다</sent><!--‘過誤’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31a" n="09">錯了些</sent>
+<sent type="main" lang="kor" page="31a" n="10">죠곰 그릇ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="31a" n="11">錯</sent>
+<sent type="main" lang="kor" page="31a" n="12">그릇ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="31a" n="13">認錯了</sent>
+<sent type="main" lang="kor" page="31a" n="14">사ᄅᆞᆷ 그릇 아다</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/18세기후기_한청문감/31b.jpg</img>
+<sent type="main" lang="chi" page="31b" n="01">舛錯</sent>
+<sent type="main" lang="kor" page="31b" n="02">舛錯</sent><!--‘舛錯’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="03">差錯</sent>
+<sent type="main" lang="kor" page="31b" n="04">差錯ᄒᆞ다</sent><!--‘差錯’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="05">遺漏</sent>
+<sent type="main" lang="kor" page="31b" n="06">遺漏ᄒᆞ다</sent><!--‘遺漏’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="07">失</sent>
+<sent type="main" lang="kor" page="31b" n="08">過失之失</sent><!--마지막 ‘失’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="09">微失</sent>
+<sent type="main" lang="kor" page="31b" n="10">微失</sent><!--‘微失’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="11">失錯</sent>
+<sent type="main" lang="kor" page="31b" n="12">失錯ᄒᆞ다</sent><!--‘失錯’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="13">習染</sent>
+<sent type="main" lang="kor" page="31b" n="14">무드다</sent>
+<sent type="main" lang="chi" page="31b" n="15">累</sent>
+<sent type="main" lang="kor" page="31b" n="16">連累</sent><!--‘累’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="31b" n="17">玷</sent>
+<sent type="main" lang="kor" page="31b" n="18">瑕疵</sent>
+<sent type="main" lang="chi" page="31b-32a" n="19">牽累</sent><!--牽^累-->
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/18세기후기_한청문감/32a.jpg</img>
+<sent type="main" lang="kor" page="32a" n="01">牽累</sent><!--‘牽累’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="32a" n="02">疵病</sent>
+<sent type="main" lang="kor" page="32a" n="03">병통</sent>
+<sent type="main" lang="chi" page="32a" n="04">敗壞</sent>
+<sent type="main" lang="kor" page="32a" n="05">敗壞ᄒᆞ다</sent><!--‘敗壞’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="32a" n="06">羞耻</sent>
+<sent type="main" lang="kor" page="32a" n="07">붓그림</sent>
+<sent type="main" lang="chi" page="32a" n="08">有羞耻</sent>
+<sent type="main" lang="kor" page="32a" n="09">붓그림 ᄐᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="32a" n="10">肯害羞</sent>
+<sent type="main" lang="chi" page="32a" n="11">婦女面覥</sent>
+<sent type="main" lang="kor" page="32a" n="12">계집 싀스러워 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="32a" n="13">羞</sent>
+<sent type="main" lang="kor" page="32a" n="14">붓그리다</sent>
+</pages>
+
+<pages n="32b">
+<img n="32b">https://kohico.kr/_media/image/18세기후기_한청문감/32b.jpg</img>
+<sent type="main" lang="chi" page="32b" n="01">慚愧</sent>
+<sent type="main" lang="kor" page="32b" n="02">慚愧</sent><!--‘慚愧’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="32b" n="03">愧</sent>
+<sent type="main" lang="kor" page="32b" n="04">참괴ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="32b" n="05">羞愧</sent>
+<sent type="main" lang="kor" page="32b" n="06">羞愧ᄒᆞ다</sent><!--‘羞愧’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="32b" n="07">沒趣</sent>
+<sent type="main" lang="kor" page="32b" n="08">ᄎᆔ미 업다</sent>
+<sent type="main" lang="chi" page="32b" n="09">做難</sent>
+<sent type="main" lang="kor" page="32b" n="10">어려워ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="32b" n="11">愧見</sent>
+<sent type="main" lang="kor" page="32b" n="12">보기 붓그럽다</sent>
+<sent type="main" lang="chi" page="32b" n="13">羞的面紅</sent>
+<sent type="main" lang="kor" page="32b" n="14">붓그려 얼굴 븕다</sent>
+<sent type="main" lang="chi" page="32b" n="15">臉微紅</sent>
+<sent type="main" lang="kor" page="32b-33a" n="16">ᄂᆞᆺ 븕히다</sent><!--븕^히다-->
+</pages>
+
+<pages n="33a">
+<img n="33a">https://kohico.kr/_media/image/18세기후기_한청문감/33a.jpg</img>
+<sent type="main" lang="chi" page="33a" n="01">丢臉</sent>
+<sent type="main" lang="kor" page="33a" n="02">붓그려 외면ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33a" n="03">沒意思</sent>
+<sent type="main" lang="kor" page="33a" n="04">의ᄉᆞ 업다</sent>
+<sent type="main" lang="chi" page="33a" n="05">羞的無言</sent>
+<sent type="main" lang="kor" page="33a" n="06">붓그려 ᄌᆞᆷᄌᆞᆷᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33a" n="07">黙然沒趣</sent>
+<sent type="main" lang="kor" page="33a" n="08">무료ᄒᆞ여 소ᄅᆡ 업다</sent>
+<sent type="main" lang="chi" page="33a" n="09">臉厚</sent>
+<sent type="main" lang="kor" page="33a" n="10">안후ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33a" n="11">皮臉</sent>
+<sent type="main" lang="kor" page="33a" n="12">ᄂᆞᆺ 가족 둣겁다</sent>
+<sent type="main" lang="chi" page="33a" n="13">臉憨</sent>
+<sent type="main" lang="kor" page="33a" n="14">ᄂᆞᆺ 펀펀ᄒᆞ다</sent>
+</pages>
+
+<pages n="33b">
+<img n="33b">https://kohico.kr/_media/image/18세기후기_한청문감/33b.jpg</img>
+<sent type="main" lang="chi" page="33b" n="01">恬不知耻</sent>
+<sent type="main" lang="kor" page="33b" n="02">ᄂᆞᆺ치 둣거워 모로ᄂᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33b" n="03">給沒臉</sent>
+<sent type="main" lang="kor" page="33b" n="04">ᄂᆞᆺ 업시 붓그럽게 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33b" n="05">暴躁</sent>
+<sent type="main" lang="kor" page="33b" n="06">셩ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="33b" n="07">性緊</sent>
+<sent type="main" lang="kor" page="33b" n="08">셩급ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33b" n="09">急迫</sent>
+<sent type="main" lang="kor" page="33b" n="10">셩ᄆᆞᆯ라 급ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33b" n="11">粗急</sent>
+<sent type="main" lang="kor" page="33b" n="12">粗急ᄒᆞ다</sent><!--‘粗急’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="33b" n="13">窄迫</sent>
+<sent type="main" lang="kor" page="33b" n="14">조ᄇᆡᄋᆞᆸ다</sent>
+<sent type="main" lang="chi" page="33b" n="15">急躁</sent>
+<sent type="main" lang="kor" page="33b" n="16">急躁ᄒᆞ다</sent><!--‘急躁’가 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/18세기후기_한청문감/34a.jpg</img>
+<sent type="main" lang="chi" page="34a" n="01">激烈</sent>
+<sent type="main" lang="kor" page="34a" n="02">激烈ᄒᆞ다</sent><!--‘’激烈이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="03">暴怒</sent>
+<sent type="main" lang="kor" page="34a" n="04">급히 셩내다</sent>
+<sent type="main" lang="chi" page="34a" n="05">嚷鬧</sent>
+<sent type="main" lang="kor" page="34a" n="06">요란ᄶᅵ다</sent>
+<sent type="main" lang="chi" page="34a" n="07">暗怒</sent>
+<sent type="main" lang="kor" page="34a" n="08">속으로 셩내다</sent>
+<sent type="main" lang="chi" page="34a" n="09">懣氣人</sent>
+<sent type="main" lang="kor" page="34a" n="10">ᄌᆞᆷᄌᆞᆷᄒᆞ고 셩낸 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="11">暴</sent>
+<sent type="main" lang="kor" page="34a" n="12">포학ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="34a" n="13">倔强</sent>
+<sent type="main" lang="kor" page="34a" n="14">倔强ᄒᆞ다</sent><!--‘倔强’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="15">暴戾</sent>
+<sent type="main" lang="kor" page="34a" n="16">暴戾ᄒᆞ다</sent><!--‘暴戾’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="17">狠</sent>
+<sent type="main" lang="kor" page="34a" n="18">모지다</sent>
+<sent type="main" lang="chi" page="34a" n="19">躁</sent>
+<sent type="main" lang="kor" page="34a" n="20">경조ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="34a-34b" n="21">利害</sent><!--利^害-->
+</pages>
+
+<pages n="34b">
+<img n="34b">https://kohico.kr/_media/image/18세기후기_한청문감/34b.jpg</img>
+<sent type="main" lang="kor" page="34b" n="01">악독ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="34b" n="02">酷苛</sent>
+<sent type="main" lang="kor" page="34b" n="03">酷苛ᄒᆞ다</sent><!--‘酷苛’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34b" n="04">言語尖利</sent>
+<sent type="main" lang="kor" page="34b" n="05">말 ᄉᆞᆫᄯᅳᆨᄉᆞᆫᄯᅳᆨᄒᆞ다</sent>
+<sent type="main" lang="chi" page="34b" n="06">粗魯</sent>
+<sent type="main" lang="kor" page="34b" n="07">粗魯ᄒᆞ다</sent><!--‘粗魯’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34b" n="08">潑婦</sent>
+<sent type="main" lang="kor" page="34b" n="09">사오나온 겨집</sent>
+<sent type="main" lang="chi" page="34b" n="10">惹不得</sent>
+<sent type="main" lang="kor" page="34b" n="11">붓졉 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="34b" n="12">懶</sent>
+<sent type="main" lang="kor" page="34b" n="13">게으름</sent>
+<sent type="main" lang="chi" page="34b" n="14">懶惰</sent>
+<sent type="main" lang="kor" page="34b" n="15">懶惰ᄒᆞ다</sent><!--‘懶惰’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34b" n="16">倦</sent>
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/18세기후기_한청문감/35a.jpg</img>
+<sent type="main" lang="chi" page="35a" n="01">發怵</sent>
+<sent type="main" lang="kor" page="35a" n="02">ᄭᅥ리다</sent>
+<sent type="main" lang="chi" page="35a" n="03">厭煩</sent>
+<sent type="main" lang="kor" page="35a" n="04">일에 슬희여 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="35a" n="05">躱事</sent>
+<sent type="main" lang="kor" page="35a" n="06">일 피ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="35a" n="07">脫滑</sent>
+<sent type="main" lang="kor" page="35a" n="08">일에 버서나다</sent>
+<sent type="main" lang="chi" page="35a" n="09">慣脫滑的人</sent>
+<sent type="main" lang="kor" page="35a" n="10">일 피ᄒᆞ기 닉은 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35a" n="11">滑透了的</sent>
+<sent type="main" lang="kor" page="35a" n="12">온갓 일에 피ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="35a" n="13">不肯用力</sent>
+<sent type="main" lang="kor" page="35a" n="14">일 힘쓰지 아니타</sent>
+<sent type="main" lang="chi" page="35a" n="15">躱避</sent>
+<sent type="main" lang="kor" page="35a" n="16">通稱 피ᄒᆞ다</sent>
+</pages>
+
+<pages n="35b">
+<img n="35b">https://kohico.kr/_media/image/18세기후기_한청문감/35b.jpg</img>
+<sent type="main" lang="chi" page="35b" n="01">推辭</sent>
+<sent type="main" lang="kor" page="35b" n="02">推辭ᄒᆞ다</sent><!--‘推辭’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="35b" n="03">退縮人</sent>
+<sent type="main" lang="kor" page="35b" n="04">퇴츅ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35b" n="05">退後</sent>
+<sent type="main" lang="kor" page="35b" n="06">무루 좃다</sent>
+<sent type="main" lang="chi" page="35b" n="07">推托</sent>
+<sent type="main" lang="kor" page="35b" n="08">推托ᄒᆞ다</sent><!--‘推托’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="35b" n="09">借端</sent>
+<sent type="main" lang="kor" page="35b" n="10">다른 일로 핑계ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="35b" n="11">事前着急</sent>
+<sent type="main" lang="kor" page="35b" n="12">일에 미리 챡급히 구다</sent>
+<sent type="main" lang="chi" page="35b" n="13">支吾</sent>
+<sent type="main" lang="kor" page="35b" n="14">이리져리</sent>
+<sent type="main" lang="chi" page="35b" n="15">罷緩</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/18세기후기_한청문감/36a.jpg</img>
+<sent type="main" lang="kor" page="36a" n="01">질긔다</sent>
+<sent type="main" lang="chi" page="36a" n="02">奸滑</sent>
+<sent type="main" lang="kor" page="36a" n="03">奸滑ᄒᆞᆫ 이</sent><!--‘奸滑’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36a" n="04">怠慢</sent>
+<sent type="main" lang="kor" page="36a" n="05">怠慢ᄒᆞ다</sent><!--‘怠慢’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36a" n="06">沒理會</sent>
+<sent type="main" lang="kor" page="36a" n="07">료량ᄒᆞᆷ이 업다</sent>
+<sent type="main" lang="chi" page="36a" n="08">沒留神</sent>
+<sent type="main" lang="kor" page="36a" n="09">졍신 두지 아니타</sent>
+<sent type="main" lang="chi" page="36a" n="10">不覺</sent>
+<sent type="main" lang="kor" page="36a" n="11">얼런 덧</sent>
+<sent type="main" lang="chi" page="36a" n="12">苟且</sent>
+<sent type="main" lang="kor" page="36a" n="13">苟且</sent><!--‘苟且’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36a-36b" n="14">潦草</sent><!--潦^草-->
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/18세기후기_한청문감/36b.jpg</img>
+<sent type="main" lang="kor" page="36b" n="01">초초ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="36b" n="02">浮泛</sent>
+<sent type="main" lang="kor" page="36b" n="03">아모리나 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="36b" n="04">邋忽</sent>
+<sent type="main" lang="kor" page="36b" n="05">게으르고 소활ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="36b" n="06">行動迂疎</sent>
+<sent type="main" lang="kor" page="36b" n="07">行動迂疎ᄒᆞ다</sent><!--‘行動迂疎’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36b" n="08">草率</sent>
+<sent type="main" lang="kor" page="36b" n="09">草率ᄒᆞ다</sent><!--‘草率’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36b" n="10">粗俗</sent>
+<sent type="main" lang="kor" page="36b" n="11">粗俗ᄒᆞ다</sent><!--‘粗俗’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="36b" n="12">婦人懶散</sent>
+<sent type="main" lang="kor" page="36b" n="13">계집이 게으르고 오활ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="36b" n="14">迂濶</sent>
+<sent type="main" lang="kor" page="36b" n="15">迂濶ᄒᆞ다</sent><!--‘迂濶’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/18세기후기_한청문감/37a.jpg</img>
+<sent type="main" lang="chi" page="37a" n="01">疎略</sent>
+<sent type="main" lang="kor" page="37a" n="02">疎略</sent><!--‘疎略’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="37a" n="03">大方模</sent>
+<sent type="main" lang="kor" page="37a" n="04">대범ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="37a" n="05">忽略</sent>
+<sent type="main" lang="kor" page="37a" n="06">忽略</sent><!--‘忽略’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="37a" n="07">擧動懶散</sent>
+<sent type="main" lang="kor" page="37a" n="08">擧動懶散</sent><!--‘擧動懶散’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="37a" n="09">鬆解</sent>
+<sent type="main" lang="kor" page="37a" n="10">일에 푸러지다</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/18세기후기_한청문감/37b.jpg</img>
+<sent type="main" lang="chi" page="37b" n="01">虛假</sent>
+<sent type="main" lang="kor" page="37b" n="02">거즛</sent>
+<sent type="main" lang="chi" page="37b" n="03">略虛假</sent>
+<sent type="main" lang="kor" page="37b" n="04">젹이 거즛</sent>
+<sent type="main" lang="chi" page="37b" n="05">哄</sent>
+<sent type="main" lang="kor" page="37b" n="06">소기다</sent>
+<sent type="main" lang="chi" page="37b" n="07">明明的哄</sent>
+<sent type="main" lang="kor" page="37b" n="08">ᄇᆡᆨ디에 소기다</sent>
+<sent type="main" lang="chi" page="37b" n="09">混撒謊</sent>
+<sent type="main" lang="kor" page="37b" n="10">샹업시 헷말ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="37b" n="11">善哄人的</sent>
+<sent type="main" lang="kor" page="37b" n="12">사ᄅᆞᆷ 소기기 잘 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="37b" n="13">假粧老實</sent>
+<sent type="main" lang="kor" page="37b" n="14">노실ᄒᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="37b" n="15">信口撒謊</sent>
+<sent type="main" lang="kor" page="37b" n="16">입에 나ᄂᆞᆫ 대로 거즛말ᄒᆞ다</sent>
+</pages>
+
+<pages n="38a">
+<img n="38a">https://kohico.kr/_media/image/18세기후기_한청문감/38a.jpg</img>
+<sent type="main" lang="chi" page="38a" n="01">虛詞假作</sent>
+<sent type="main" lang="kor" page="38a" n="02">븬말로 가작ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="38a" n="03">粧假</sent>
+<sent type="main" lang="kor" page="38a" n="04">거즛 ᄭᅮ미다</sent>
+<sent type="main" lang="chi" page="38a" n="05">愚弄</sent>
+<sent type="main" lang="kor" page="38a" n="06">愚弄ᄒᆞ다</sent><!--‘愚弄’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="38a" n="07">誇張人</sent>
+<sent type="main" lang="kor" page="38a" n="08">과쟝ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="38a" n="09">言過其實</sent>
+<sent type="main" lang="kor" page="38a" n="10">言過其實</sent><!--‘言過其實’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="38a" n="11">慣欺騙的</sent>
+<sent type="main" lang="kor" page="38a" n="12">소기기 닉게 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="38a" n="13">欺詐</sent>
+<sent type="main" lang="kor" page="38a" n="14">두루다 ○ 又 ᄭᅬ와 소기다</sent>
+<sent type="main" lang="chi" page="38a" n="15">暗欺哄</sent>
+<sent type="main" lang="kor" page="38a-38b" n="16">ᄀᆞ만이 소기다</sent><!--ᄀᆞ만^이-->
+</pages>
+
+<pages n="38b">
+<img n="38b">https://kohico.kr/_media/image/18세기후기_한청문감/38b.jpg</img>
+<sent type="main" lang="chi" page="38b" n="01">騙</sent>
+<sent type="main" lang="kor" page="38b" n="02">후리다</sent>
+<sent type="main" lang="chi" page="38b" n="03">明知故問</sent>
+<sent type="main" lang="kor" page="38b" n="04">알며 짐즛 뭇다</sent>
+<sent type="main" lang="chi" page="38b" n="05">哄誘</sent>
+<sent type="main" lang="kor" page="38b" n="06">ᄭᅬ오다</sent>
+<sent type="main" lang="chi" page="38b" n="07">誘</sent>
+<sent type="main" lang="kor" page="38b" n="08">유인</sent>
+<sent type="main" lang="chi" page="38b" n="09">圈套</sent>
+<sent type="main" lang="kor" page="38b" n="10">후림</sent>
+<sent type="main" lang="chi" page="38b" n="11">設圈套</sent>
+<sent type="main" lang="kor" page="38b" n="12">후림질ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="38b" n="13">惑</sent>
+<sent type="main" lang="kor" page="38b" n="14">迷惑</sent><!--‘惑’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="38b" n="15">誘哄</sent>
+<sent type="main" lang="kor" page="38b" n="16">후려 넛타</sent>
+</pages>
+
+<pages n="39a">
+<img n="39a">https://kohico.kr/_media/image/18세기후기_한청문감/39a.jpg</img>
+<sent type="main" lang="chi" page="39a" n="01">奸</sent>
+<sent type="main" lang="kor" page="39a" n="02">간사</sent>
+<sent type="main" lang="chi" page="39a" n="03">奸計</sent>
+<sent type="main" lang="kor" page="39a" n="04">奸計</sent><!--‘奸計’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="39a" n="05">誆哄</sent>
+<sent type="main" lang="kor" page="39a" n="06">ᄭᅬ와 소기다</sent>
+<sent type="main" lang="chi" page="39a" n="07">慣使奸計</sent>
+<sent type="main" lang="kor" page="39a" n="08">간계 닉게 부리ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="39a" n="09">用計</sent>
+<sent type="main" lang="kor" page="39a" n="10">ᄭᅬᄡᅳ다</sent>
+<sent type="main" lang="chi" page="39a" n="11">局騙</sent>
+<sent type="main" lang="kor" page="39a" n="12">設計ᄒᆞ여 속이ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="39a" n="13">狡詐</sent>
+<sent type="main" lang="kor" page="39a" n="14">狡詐</sent><!--‘狡詐’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="39a" n="15">巧</sent>
+<sent type="main" lang="kor" page="39a" n="16">공교</sent>
+</pages>
+
+<pages n="39b">
+<img n="39b">https://kohico.kr/_media/image/18세기후기_한청문감/39b.jpg</img>
+<sent type="main" lang="chi" page="39b" n="01">舞文</sent>
+<sent type="main" lang="kor" page="39b" n="02">글로 모함ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="39b" n="03">陰險</sent>
+<sent type="main" lang="kor" page="39b" n="04">陰險</sent><!--‘陰險’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="39b" n="05">反覆人</sent>
+<sent type="main" lang="kor" page="39b" n="06">反覆人</sent><!--‘反覆人’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="39b" n="07">改嘴</sent>
+<sent type="main" lang="kor" page="39b" n="08">변ᄉᆞᄒᆞ다</sent>
+<sent type="main" lang="chi" page="39b" n="09">飜悔</sent>
+<sent type="main" lang="kor" page="39b" n="10">뉘웃처 변ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="39b" n="11">食言</sent>
+<sent type="main" lang="kor" page="39b" n="12">食言ᄒᆞ다</sent><!--‘食言’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="39b" n="13">油滑</sent>
+<sent type="main" lang="kor" page="39b" n="14">ᄭᅬ 만타</sent>
+<sent type="main" lang="chi" page="39b" n="15">慣隄防</sent>
+<sent type="main" lang="kor" page="39b" n="16">방챠 잘 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="39b" n="17">狡猾</sent>
+<sent type="main" lang="kor" page="39b" n="18">狡猾</sent><!--‘狡猾’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="40a">
+<img n="40a">https://kohico.kr/_media/image/18세기후기_한청문감/40a.jpg</img>
+<sent type="main" lang="chi" page="40a" n="01">行邪</sent>
+<sent type="main" lang="kor" page="40a" n="02">샤곡ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="40a" n="03">歪</sent>
+<sent type="main" lang="kor" page="40a" n="04">틀리다</sent>
+<sent type="main" lang="chi" page="40a" n="05">偏僻</sent>
+<sent type="main" lang="kor" page="40a" n="06">偏僻ᄒᆞ다</sent><!--‘偏僻’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40a" n="07">刻薄</sent>
+<sent type="main" lang="kor" page="40a" n="08">刻薄</sent><!--‘刻薄’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40a" n="09">偏護</sent>
+<sent type="main" lang="kor" page="40a" n="10">역드다</sent>
+<sent type="main" lang="chi" page="40a" n="11">讒</sent>
+<sent type="main" lang="kor" page="40a" n="12">ᄎᆞᆷ소</sent>
+<sent type="main" lang="chi" page="40a" n="13">挑唆</sent>
+<sent type="main" lang="kor" page="40a" n="14">하쇽거리다</sent>
+<sent type="main" lang="chi" page="40a-40b" n="15">劃鼻子的人</sent><!--劃鼻子^的人-->
+</pages>
+
+<pages n="40b">
+<img n="40b">https://kohico.kr/_media/image/18세기후기_한청문감/40b.jpg</img>
+<sent type="main" lang="kor" page="40b" n="01">코ㅅ즛 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="40b" n="02">劃鼻子</sent>
+<sent type="main" lang="kor" page="40b" n="03">코ㅅ즛 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="40b" n="04">毁謗</sent>
+<sent type="main" lang="kor" page="40b" n="05">毁謗ᄒᆞ다</sent><!--‘毁謗’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40b" n="06">誣害</sent>
+<sent type="main" lang="kor" page="40b" n="07">誣害ᄒᆞ다</sent><!--‘誣害’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40b" n="08">陷害</sent>
+<sent type="main" lang="kor" page="40b" n="09">陷害ᄒᆞ다</sent><!--‘陷害’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40b" n="10">離間</sent>
+<sent type="main" lang="kor" page="40b" n="11">離間ᄒᆞ다</sent><!--‘離間’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="40b" n="12">加害</sent>
+<sent type="main" lang="kor" page="40b" n="13">더욱 해ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="40b" n="14">攛掇</sent>
+<sent type="main" lang="kor" page="40b" n="15">부쵹이다</sent>
+<sent type="main" lang="chi" page="40b-41a" n="16">背後毁謗</sent><!--背後^毁謗-->
+</pages>
+
+<pages n="41a">
+<img n="41a">https://kohico.kr/_media/image/18세기후기_한청문감/41a.jpg</img>
+<sent type="main" lang="kor" page="41a" n="01">못 보ᄂᆞᆫ ᄃᆡ 훼방ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41a" n="02">上趕着人</sent>
+<sent type="main" lang="kor" page="41a" n="03">부치이다</sent>
+<sent type="main" lang="chi" page="41a" n="04">諂媚</sent>
+<sent type="main" lang="kor" page="41a" n="05">아당ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41a" n="06">獻媚</sent>
+<sent type="main" lang="kor" page="41a" n="07">헌쳠ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41a" n="08">討好的</sent>
+<sent type="main" lang="kor" page="41a" n="09">ᄂᆞᆷ의 기림 ᄎᆔᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="41a" n="10">戴高帽</sent>
+<sent type="main" lang="kor" page="41a" n="11">기렴즉지 아닌 것 기리다</sent>
+<sent type="main" lang="chi" page="41a" n="12">迎合的</sent>
+<sent type="main" lang="kor" page="41a" n="13">영합ᄒᆞᄂᆞᆫ 이</sent>
+</pages>
+
+<pages n="41b">
+<img n="41b">https://kohico.kr/_media/image/18세기후기_한청문감/41b.jpg</img>
+<sent type="main" lang="chi" page="41b" n="01">附合</sent>
+<sent type="main" lang="kor" page="41b" n="02">ᄯᅳᆺ 맛초다</sent>
+<sent type="main" lang="chi" page="41b" n="03">獻勤</sent>
+<sent type="main" lang="kor" page="41b" n="04">몸ㅅ공 드리다</sent>
+<sent type="main" lang="chi" page="41b" n="05">苦獻勤勞</sent>
+<sent type="main" lang="kor" page="41b" n="06">몸ㅅ공 심히 드리다</sent>
+<sent type="main" lang="chi" page="41b" n="07">趨奉</sent>
+<sent type="main" lang="kor" page="41b" n="08">趨走奉承ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41b" n="09">惡</sent>
+<sent type="main" lang="kor" page="41b" n="10">사오납다 ○ 又 죠치 아니타</sent>
+<sent type="main" lang="chi" page="41b" n="11">萬惡</sent>
+<sent type="main" lang="kor" page="41b" n="12">극악ᄒᆞ다</sent>
+</pages>
+
+<pages n="42a">
+<img n="42a">https://kohico.kr/_media/image/18세기후기_한청문감/42a.jpg</img>
+<sent type="main" lang="chi" page="42a" n="01">悖謬</sent>
+<sent type="main" lang="kor" page="42a" n="02">패악ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="42a" n="03">逆</sent>
+<sent type="main" lang="kor" page="42a" n="04">거스리다</sent>
+<sent type="main" lang="chi" page="42a" n="05">謬</sent>
+<sent type="main" lang="kor" page="42a" n="06">글으다</sent>
+<sent type="main" lang="chi" page="42a" n="07">左性</sent>
+<sent type="main" lang="kor" page="42a" n="08">왼 셩품</sent>
+<sent type="main" lang="chi" page="42a" n="09">不肖</sent>
+<sent type="main" lang="kor" page="42a" n="10">것지 아니타</sent>
+<sent type="main" lang="chi" page="42a" n="11">沒樣兒</sent>
+<sent type="main" lang="kor" page="42a" n="12">모양 업다</sent>
+<sent type="main" lang="chi" page="42a" n="13">賤惡人</sent>
+<sent type="main" lang="kor" page="42a" n="14">賤惡人</sent><!--‘賤惡人’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="42a" n="15">鬼頭鬼臉</sent>
+<sent type="main" lang="kor" page="42a" n="16">詭詐可厭之稱</sent>
+<sent type="main" lang="chi" page="42a" n="17">鬼怪</sent>
+</pages>
+
+<pages n="42b">
+<img n="42b">https://kohico.kr/_media/image/18세기후기_한청문감/42b.jpg</img>
+<sent type="main" lang="kor" page="42b" n="01">鬼怪ᄒᆞᆫ 사ᄅᆞᆷ</sent><!--‘鬼怪’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="42b" n="02">鑽幹人</sent>
+<sent type="main" lang="kor" page="42b" n="03">ᄒᆡᆼ지 단졍치 아닌 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="42b" n="04">鑽營</sent>
+<sent type="main" lang="kor" page="42b" n="05">속으르 ᄯᅮᆯ어 경영ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="42b" n="06">行止亂張</sent>
+<sent type="main" lang="kor" page="42b" n="07">ᄒᆡᆼ지 어즈럽다</sent>
+<sent type="main" lang="chi" page="42b" n="08">光棍</sent>
+<sent type="main" lang="kor" page="42b" n="09">무뢰ᄇᆡ</sent>
+<sent type="main" lang="chi" page="42b" n="10">拚命</sent>
+<sent type="main" lang="kor" page="42b" n="11">목숨 ᄇᆞ리다</sent>
+<sent type="main" lang="chi" page="42b" n="12">賴</sent>
+<sent type="main" lang="kor" page="42b" n="13">ᄂᆞᆷ의게 미다</sent>
+<sent type="main" lang="chi" page="42b" n="14">賴皮</sent>
+<sent type="main" lang="kor" page="42b" n="15">ᄂᆞᆷ의게 밀오기 잘 ᄒᆞᄂᆞᆫ 이</sent>
+</pages>
+
+<pages n="43a">
+<img n="43a">https://kohico.kr/_media/image/18세기후기_한청문감/43a.jpg</img>
+<sent type="main" lang="chi" page="43a" n="01">泥腿</sent>
+<sent type="main" lang="kor" page="43a" n="02">ᄂᆞᆷ의 싸홈에 부듸치ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="43a" n="03">坐地虎</sent>
+<sent type="main" lang="kor" page="43a" n="04">제곳에 왈ㅅ쟈</sent>
+<sent type="main" lang="chi" page="43a" n="05">强是爲非</sent>
+<sent type="main" lang="kor" page="43a" n="06">억지로 우기다</sent>
+<sent type="main" lang="chi" page="43a" n="07">賤貨</sent>
+<sent type="main" lang="kor" page="43a" n="08">몹시 삼긴 것</sent>
+<sent type="main" lang="chi" page="43a" n="09">肯變卦的</sent>
+<sent type="main" lang="kor" page="43a" n="10">변ᄀᆡᄒᆞ기 잘 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="43a" n="11">心活的</sent>
+<sent type="main" lang="kor" page="43a" n="12">ᄆᆞᄋᆞᆷ 뎡ᄒᆞᆫ 것 업ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="43a" n="13">暴虐</sent>
+<sent type="main" lang="kor" page="43a" n="14">暴虐ᄒᆞ다</sent><!--‘暴虐’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43a" n="15">兇險</sent>
+</pages>
+
+<pages n="43b">
+<img n="43b">https://kohico.kr/_media/image/18세기후기_한청문감/43b.jpg</img>
+<sent type="main" lang="kor" page="43b" n="01">兇險ᄒᆞ다</sent><!--‘兇險’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="02">損人的</sent>
+<sent type="main" lang="kor" page="43b" n="03">사ᄅᆞᆷ ᄒᆡᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="43b" n="04">傷損</sent>
+<sent type="main" lang="kor" page="43b" n="05">傷損ᄒᆞ다</sent><!--‘傷損’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="06">捨着</sent>
+<sent type="main" lang="kor" page="43b" n="07">모몰ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="43b" n="08">賊害</sent>
+<sent type="main" lang="kor" page="43b" n="09">賊害ᄒᆞᄂᆞᆫ 이</sent><!--‘賊害’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="10">殘忍</sent>
+<sent type="main" lang="kor" page="43b" n="11">殘忍</sent><!--‘殘忍’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="12">忍心</sent>
+<sent type="main" lang="kor" page="43b" n="13">ᄎᆞᆷ아</sent>
+<sent type="main" lang="chi" page="43b" n="14">忍了</sent>
+<sent type="main" lang="kor" page="43b" n="15">ᄎᆞᆷ아 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="43b" n="16">嫉妬</sent>
+<sent type="main" lang="kor" page="43b" n="17">싀긔ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="43b-44a" n="18">使黑心</sent><!--使^黑心-->
+</pages>
+
+<pages n="44a">
+<img n="44a">https://kohico.kr/_media/image/18세기후기_한청문감/44a.jpg</img>
+<sent type="main" lang="kor" page="44a" n="01">못쓸 ᄆᆞᄋᆞᆷ 부리다</sent>
+<sent type="main" lang="chi" page="44a" n="02">攀伴</sent>
+<sent type="main" lang="kor" page="44a" n="03">범ᄉᆞ의 사ᄅᆞᆷ 잡아 다ᄅᆡ다 ○ 又 계집 투긔ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="04">苛求</sent>
+<sent type="main" lang="kor" page="44a" n="05">가찰ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="06">破壞事體</sent>
+<sent type="main" lang="kor" page="44a" n="07">일 믄희치다</sent>
+<sent type="main" lang="chi" page="44a" n="08">攔人好事</sent>
+<sent type="main" lang="kor" page="44a" n="09">ᄂᆞᆷ의 됴흔 일 희짓다</sent>
+<sent type="main" lang="chi" page="44a" n="10">暗恨</sent>
+<sent type="main" lang="kor" page="44a" n="11">속으로 ᄒᆞᆫᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="12">記過失</sent>
+<sent type="main" lang="kor" page="44a" n="13">ᄂᆞᆷ의 허믈 긔록ᄒᆞ다</sent>
+</pages>
+
+<pages n="44b">
+<img n="44b">https://kohico.kr/_media/image/18세기후기_한청문감/44b.jpg</img>
+<sent type="main" lang="chi" page="44b" n="01">厲聲</sent>
+<sent type="main" lang="kor" page="44b" n="02">모진 소ᄅᆡ</sent>
+<sent type="main" lang="chi" page="44b" n="03">妄</sent>
+<sent type="main" lang="kor" page="44b" n="04">망녕되이</sent>
+<sent type="main" lang="chi" page="44b" n="05">貪取</sent>
+<sent type="main" lang="kor" page="44b" n="06">貪取ᄒᆞ다</sent><!--‘貪取’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="44b" n="07">獨佔</sent>
+<sent type="main" lang="kor" page="44b" n="08">혼자 가지다</sent>
+<sent type="main" lang="chi" page="44b" n="09">貪汚</sent>
+<sent type="main" lang="kor" page="44b" n="10">貪汚</sent><!--‘貪汚’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="44b" n="11">眼饞</sent>
+<sent type="main" lang="kor" page="44b" n="12">보고 욕심내다</sent>
+<sent type="main" lang="chi" page="44b" n="13">無饜</sent>
+<sent type="main" lang="kor" page="44b" n="14">욕심 무ᄒᆞᆫᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44b" n="15">摟</sent>
+</pages>
+
+<pages n="45a">
+<img n="45a">https://kohico.kr/_media/image/18세기후기_한청문감/45a.jpg</img>
+<sent type="main" lang="kor" page="45a" n="01">그러 가지다</sent>
+<sent type="main" lang="chi" page="45a" n="02">全摟</sent>
+<sent type="main" lang="kor" page="45a" n="03">모도그러 가지다</sent>
+<sent type="main" lang="chi" page="45a" n="04">需索</sent>
+<sent type="main" lang="kor" page="45a" n="05">징ᄉᆡᆨᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45a" n="06">慣需索的</sent>
+<sent type="main" lang="kor" page="45a" n="07">징ᄉᆡᆨᄒᆞ기 닉은 이</sent>
+<sent type="main" lang="chi" page="45a" n="08">侵蝕</sent>
+<sent type="main" lang="kor" page="45a" n="09">ᄂᆞᆷ 모로게 ᄀᆞᆯ여 먹다</sent>
+<sent type="main" lang="chi" page="45a" n="10">婪取</sent>
+<sent type="main" lang="kor" page="45a" n="11">탐람ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45a" n="12">爭多</sent>
+<sent type="main" lang="chi" page="45a" n="13">留賺手</sent>
+<sent type="main" lang="kor" page="45a" n="14">욕심내여 ᄃᆞ토다</sent>
+<sent type="main" lang="kor" page="45a" n="15">ᄯᅥ혀 먹다</sent>
+<sent type="main" lang="chi" page="45a" n="16">留後手</sent>
+<sent type="main" lang="kor" page="45a" n="17">ᄂᆞᆫ호막이에 죠흔 것 가지다 ○ 又 남겨 예비ᄒᆞ다</sent>
+</pages>
+
+<pages n="45b">
+<img n="45b">https://kohico.kr/_media/image/18세기후기_한청문감/45b.jpg</img>
+<sent type="main" lang="chi" page="45b" n="01">爭添</sent>
+<sent type="main" lang="kor" page="45b" n="02">투졍ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45b" n="03">得後爭索</sent>
+<sent type="main" lang="kor" page="45b" n="04">ᄌᆡ믈 엇고 ᄯᅩ 어드려 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45b" n="05">少添些</sent>
+<sent type="main" lang="kor" page="45b" n="06">젹이 더ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="45b" n="07">給些</sent>
+<sent type="main" lang="kor" page="45b" n="08">죠곰 더 다고</sent>
+<sent type="main" lang="chi" page="45b" n="09">邋遢</sent>
+<sent type="main" lang="kor" page="45b" n="10">조츨치 아니타</sent>
+</pages>
+
+<pages n="46a">
+<img n="46a">https://kohico.kr/_media/image/18세기후기_한청문감/46a.jpg</img>
+<sent type="main" lang="chi" page="46a" n="01">作汚穢事</sent>
+<sent type="main" lang="kor" page="46a" n="02">더러온 일 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46a" n="03">面垢</sent>
+<sent type="main" lang="kor" page="46a" n="04">ᄂᆞᆺᄎᆡ ᄯᆡ</sent>
+<sent type="main" lang="chi" page="46a" n="05">面目汚贓</sent>
+<sent type="main" lang="kor" page="46a" n="06">面目이 무더 더럽다</sent>
+<sent type="main" lang="chi" page="46a" n="07">面垢帶眵</sent>
+<sent type="main" lang="kor" page="46a" n="08">ᄂᆞᆺ 더럽고 눈ᄭᅩᆸ ᄭᅵ이다</sent>
+<sent type="main" lang="chi" page="46a" n="09">熏黑了</sent>
+<sent type="main" lang="kor" page="46a" n="10">ᄂᆡ 쏘야 검다</sent>
+<sent type="main" lang="chi" page="46a" n="11">落浮灰</sent>
+<sent type="main" lang="kor" page="46a" n="12">몬ᄌᆡ 안ㅅ다</sent>
+<sent type="main" lang="chi" page="46a" n="13">蓬頭垢面</sent>
+<sent type="main" lang="kor" page="46a" n="14">蓬頭垢面</sent><!--‘蓬頭垢面’이 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="46b">
+<img n="46b">https://kohico.kr/_media/image/18세기후기_한청문감/46b.jpg</img>
+<sent type="main" lang="chi" page="46b" n="01">頭瞼腌贓</sent>
+<sent type="main" lang="kor" page="46b" n="02">마리와 ᄂᆞᆺ 슈습 아니타</sent>
+<sent type="main" lang="chi" page="46b" n="03">衣衫襤褸</sent>
+<sent type="main" lang="kor" page="46b" n="04">衣衫襤褸ᄒᆞ다</sent><!--‘衣衫襤褸’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="46b" n="05">鼻涕邋遢</sent>
+<sent type="main" lang="kor" page="46b" n="06">鼻涕 ᄭᅵ이다</sent><!--‘鼻涕’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="46b" n="07">沾汚瘢點</sent>
+<sent type="main" lang="kor" page="46b" n="08">ᄯᆡ 올라 더럽다</sent>
+<sent type="main" lang="chi" page="46b" n="09">閣疤住了</sent>
+<sent type="main" lang="kor" page="46b" n="10">코ㅅ믈 무더 ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="46b" n="11">泥垢糊滿</sent>
+<sent type="main" lang="kor" page="46b" n="12">즌ᄒᆞᆰ ᄀᆞ득 뭇다</sent>
+<sent type="main" lang="chi" page="46b" n="13">衣盡油汚</sent>
+<sent type="main" lang="kor" page="46b" n="14">옷ᄉᆡ 기름 ᄀᆞ득 뭇다</sent>
+</pages>
+
+<pages n="47a">
+<img n="47a">https://kohico.kr/_media/image/18세기후기_한청문감/47a.jpg</img>
+<sent type="main" lang="chi" page="47a" n="01">汗汚瀾</sent>
+<sent type="main" lang="kor" page="47a" n="02">ᄯᆞᆷ ᄇᆡ여 어롱지다</sent>
+<sent type="main" lang="chi" page="47a" n="03">沾汚</sent>
+<sent type="main" lang="kor" page="47a" n="04">더러온 것 뭇다</sent>
+<sent type="main" lang="chi" page="47a" n="05">作厭惡事</sent>
+<sent type="main" lang="kor" page="47a" n="06">슬믜게 구다</sent>
+<sent type="main" lang="chi" page="47a" n="07">充知道</sent>
+<sent type="main" lang="kor" page="47a" n="08">아ᄂᆞᆫ 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="09">穿鑿</sent>
+<sent type="main" lang="kor" page="47a" n="10">穿鑿ᄒᆞ다</sent><!--‘穿鑿’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="47a" n="11">厭物</sent>
+<sent type="main" lang="kor" page="47a" n="12">즈즐ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="47a" n="13">俗</sent>
+<sent type="main" lang="kor" page="47a" n="14">쇽되다</sent>
+</pages>
+
+<pages n="47b">
+<img n="47b">https://kohico.kr/_media/image/18세기후기_한청문감/47b.jpg</img>
+<sent type="main" lang="chi" page="47b" n="01">言貌可憎</sent>
+<sent type="main" lang="kor" page="47b" n="02">言貌可憎</sent><!--‘言貌可憎’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="47b" n="03">討厭人</sent>
+<sent type="main" lang="kor" page="47b" n="04">쓸믠 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="47b" n="05">厭惡人</sent>
+<sent type="main" lang="kor" page="47b" n="06">믜온 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="47b" n="07">嘴毒</sent>
+<sent type="main" lang="kor" page="47b" n="08">부리 사오납다</sent>
+<sent type="main" lang="chi" page="47b" n="09">積猾</sent>
+<sent type="main" lang="kor" page="47b" n="10">심히 간활ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="47b" n="11">鬼詐</sent>
+<sent type="main" lang="kor" page="47b" n="12">鬼詐ᄒᆞᆫ 이</sent><!--‘鬼詐’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="47b" n="13">聒噪</sent>
+<sent type="main" lang="kor" page="47b" n="14">듯기 슬타</sent>
+<sent type="main" lang="chi" page="47b" n="15">怪樣</sent>
+<sent type="main" lang="kor" page="47b" n="16">괴이ᄒᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="47b" n="17">老積年</sent>
+<sent type="main" lang="kor" page="47b" n="18">늙은 것</sent>
+
+</pages>
+
+<pages n="48a">
+<img n="48a">https://kohico.kr/_media/image/18세기후기_한청문감/48a.jpg</img>
+<sent type="main" lang="chi" page="48a" n="01">怪調</sent>
+<sent type="main" lang="kor" page="48a" n="02">별ㅅ죠에 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="48a" n="03">奇怪</sent>
+<sent type="main" lang="kor" page="48a" n="04">奇怪ᄒᆞᆫ 이</sent><!--‘奇怪’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48a" n="05">妖言</sent>
+<sent type="main" lang="kor" page="48a" n="06">妖言</sent><!--‘妖言’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48a" n="07">邪術</sent>
+<sent type="main" lang="kor" page="48a" n="08">邪術</sent><!--‘邪術’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48a" n="09">左道</sent>
+<sent type="main" lang="kor" page="48a" n="10">左道</sent><!--‘左道’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48a" n="11">毛病多</sent>
+<sent type="main" lang="kor" page="48a" n="12">병통 만타</sent>
+<sent type="main" lang="chi" page="48a" n="13">做作</sent>
+<sent type="main" lang="kor" page="48a" n="14">지어 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="15">故意</sent>
+<sent type="main" lang="kor" page="48a" n="16">짐즛</sent>
+<sent type="main" lang="chi" page="48a" n="17">乖張</sent>
+<sent type="main" lang="kor" page="48a" n="18">ᄂᆞᆷ과 어긔다</sent>
+</pages>
+
+<pages n="48b">
+<img n="48b">https://kohico.kr/_media/image/18세기후기_한청문감/48b.jpg</img>
+<sent type="main" lang="chi" page="48b" n="01">行止小氣</sent>
+<sent type="main" lang="kor" page="48b" n="02">ᄒᆡᆼ지 좀스럽다</sent>
+<sent type="main" lang="chi" page="48b" n="03">混賬人</sent>
+<sent type="main" lang="kor" page="48b" n="04">흐린 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="48b" n="05">𤨏碎</sent>
+<sent type="main" lang="kor" page="48b" n="06">셰쇄</sent>
+<sent type="main" lang="chi" page="48b" n="07">嘴碎</sent>
+<sent type="main" lang="kor" page="48b" n="08">ᄌᆞᆫ 말 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="48b" n="09">嘮叨</sent>
+<sent type="main" lang="chi" page="48b" n="10">猥𤨏</sent>
+<sent type="main" lang="kor" page="48b" n="11">비쇄ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48b" n="12">嗇吝下賤</sent>
+<sent type="main" lang="kor" page="48b" n="13">린ᄉᆡᆨᄒᆞ고 쳔ᄒᆞᆫ 이</sent>
+</pages>
+
+<pages n="49a">
+<img n="49a">https://kohico.kr/_media/image/18세기후기_한청문감/49a.jpg</img>
+<sent type="main" lang="chi" page="49a" n="01">婆氣人</sent>
+<sent type="main" lang="kor" page="49a" n="02">ᄒᆡᆼᄉᆞ 계집 ᄀᆞᄐᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="49a" n="03">沒要緊</sent>
+<sent type="main" lang="kor" page="49a" n="04">긴치 아니타</sent>
+<sent type="main" lang="chi" page="49a" n="05">無體統</sent>
+<sent type="main" lang="kor" page="49a" n="06">톄모 업다</sent>
+<sent type="main" lang="chi" page="49a" n="07">不長進</sent>
+<sent type="main" lang="kor" page="49a" n="08">쟝진치 못ᄒᆞᆯ 이</sent>
+<sent type="main" lang="chi" page="49a" n="09">行止壞</sent>
+<sent type="main" lang="kor" page="49a" n="10">ᄒᆡᆼ지 그릇된 이</sent>
+<sent type="main" lang="chi" page="49a" n="11">卑汚</sent>
+<sent type="main" lang="kor" page="49a" n="12">卑汚</sent><!--‘卑汚’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="49a" n="13">不成器</sent>
+<sent type="main" lang="kor" page="49a" n="14">셩ᄎᆔ치 못ᄒᆞᆯ 이</sent>
+<sent type="main" lang="chi" page="49a" n="15">沒出息</sent>
+<sent type="main" lang="kor" page="49a" n="16">못 될 놈</sent>
+<sent type="main" lang="chi" page="49a-49b" n="17">小籌人</sent><!--小籌^人-->
+</pages>
+
+<pages n="49b">
+<img n="49b">https://kohico.kr/_media/image/18세기후기_한청문감/49b.jpg</img>
+<sent type="main" lang="kor" page="49b" n="01">ᄌᆞᆫ 혬 만ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="49b" n="02">卑𤨏</sent>
+<sent type="main" lang="kor" page="49b" n="03">卑𤨏</sent><!--‘卑𤨏’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="49b" n="04">輕佻</sent>
+<sent type="main" lang="kor" page="49b" n="05">輕佻</sent><!--‘輕佻’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="49b" n="06">冗雜</sent>
+<sent type="main" lang="kor" page="49b" n="07">冗雜</sent><!--‘冗雜’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="49b" n="08">𤨏𤨏氣氣</sent>
+<sent type="main" lang="kor" page="49b" n="09">좀쳐로</sent>
+<sent type="main" lang="chi" page="49b" n="10">沒見過時面</sent>
+<sent type="main" lang="kor" page="49b" n="11">시톄예 것 보지 못ᄒᆞ엿다</sent>
+<sent type="main" lang="chi" page="49b" n="12">卑鄙</sent>
+<sent type="main" lang="kor" page="49b" n="13">ᄂᆞᆺ고 더럽다</sent>
+<sent type="main" lang="chi" page="49b" n="14">瞞人醜事</sent>
+<sent type="main" lang="kor" page="49b" n="15">ᄂᆞᆷ븟그러온 일</sent>
+</pages>
+
+<pages n="50a">
+<img n="50a">https://kohico.kr/_media/image/18세기후기_한청문감/50a.jpg</img>
+<sent type="main" lang="chi" page="50a" n="01">行醜事的</sent>
+<sent type="main" lang="kor" page="50a" n="02">븟그러온 일 ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="50a" n="03">遲鈍</sent>
+<sent type="main" lang="kor" page="50a" n="04">遲鈍</sent><!--‘遲鈍’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="05">拙鈍</sent>
+<sent type="main" lang="kor" page="50a" n="06">拙鈍</sent><!--‘拙鈍’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="07">魯鈍</sent>
+<sent type="main" lang="kor" page="50a" n="08">魯鈍</sent><!--‘魯鈍’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="09">直板</sent>
+<sent type="main" lang="kor" page="50a" n="10">ᄲᅥᆺᄲᅥᆺᄒᆞ다</sent>
+<sent type="main" lang="chi" page="50a" n="11">村粗</sent>
+<sent type="main" lang="kor" page="50a" n="12">무지ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="50a" n="13">粗蠢人</sent>
+</pages>
+
+<pages n="50b">
+<img n="50b">https://kohico.kr/_media/image/18세기후기_한청문감/50b.jpg</img>
+<sent type="main" lang="kor" page="50b" n="01">좀되고 무지ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="50b" n="02">粗率</sent>
+<sent type="main" lang="kor" page="50b" n="03">粗率</sent><!--‘粗率’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="04">慊貨</sent>
+<sent type="main" lang="kor" page="50b" n="05">죠흔 것 구경 못 ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="50b" n="06">屯頭</sent>
+<sent type="main" lang="kor" page="50b" n="07">촌스러온 이</sent>
+<sent type="main" lang="chi" page="50b" n="08">漢人氣</sent>
+<sent type="main" lang="kor" page="50b" n="09">한인의 즛ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="50b" n="10">粗糙</sent>
+<sent type="main" lang="kor" page="50b" n="11">좀ㅅ되다</sent>
+<sent type="main" lang="chi" page="50b" n="12">執繆</sent>
+<sent type="main" lang="kor" page="50b" n="13">우기다</sent>
+<sent type="main" lang="chi" page="50b" n="14">扭彆</sent>
+<sent type="main" lang="kor" page="50b" n="15">틀리다</sent>
+<sent type="main" lang="chi" page="50b" n="16">强嘴人</sent>
+<sent type="main" lang="kor" page="50b" n="17">올흔 쳬ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+</pages>
+
+<pages n="51a">
+<img n="51a">https://kohico.kr/_media/image/18세기후기_한청문감/51a.jpg</img>
+<sent type="main" lang="chi" page="51a" n="01">言語執紐</sent>
+<sent type="main" lang="kor" page="51a" n="02">言語執紐ᄒᆞ다</sent><!--‘言語執紐’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="03">推辭</sent>
+<sent type="main" lang="kor" page="51a" n="04">거스다</sent>
+<sent type="main" lang="chi" page="51a" n="05">固執人</sent>
+<sent type="main" lang="kor" page="51a" n="06">고집ᄒᆞᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="51a" n="07">拘泥</sent>
+<sent type="main" lang="kor" page="51a" n="08">고집ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="51a" n="09">拘滯</sent>
+<sent type="main" lang="kor" page="51a" n="10">일 遲滯ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="51a" n="11">難纏</sent>
+<sent type="main" lang="kor" page="51a" n="12">ᄯᅳᆺ 이외야 슌죵치 아닛ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="51a" n="13">只管</sent>
+<sent type="main" lang="kor" page="51a" n="14">그저</sent>
+</pages>
+
+<pages n="51b">
+<img n="51b">https://kohico.kr/_media/image/18세기후기_한청문감/51b.jpg</img>
+<sent type="main" lang="chi" page="51b" n="01">執定</sent>
+<sent type="main" lang="kor" page="51b" n="02">결ㅅ단코</sent>
+<sent type="main" lang="chi" page="51b" n="03">飜賴</sent>
+<sent type="main" lang="kor" page="51b" n="04">ᄯᅦ치다</sent>
+<sent type="main" lang="chi" page="51b" n="05">沒眼色</sent>
+<sent type="main" lang="kor" page="51b" n="06">눈츼 모로다</sent>
+<sent type="main" lang="chi" page="51b" n="07">不在行</sent>
+<sent type="main" lang="kor" page="51b" n="08">일 모로ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="51b" n="09">不隨合</sent>
+<sent type="main" lang="kor" page="51b" n="10">불합ᄒᆞ다</sent>
+</pages>
+
+<pages n="52a">
+<img n="52a">https://kohico.kr/_media/image/18세기후기_한청문감/52a.jpg</img>
+<sent type="main" lang="chi" page="52a" n="01">洗濯</sent>
+<sent type="main" lang="kor" page="52a" n="02">通稱 싯다</sent>
+<sent type="main" lang="chi" page="52a" n="03">蘸水</sent>
+<sent type="main" lang="kor" page="52a" n="04">믈에 ᄌᆞᆷ그다</sent>
+<sent type="main" lang="chi" page="52a" n="05">浸泡</sent>
+<sent type="main" lang="kor" page="52a" n="06">ᄃᆞᆷ가 브르다</sent>
+<sent type="main" lang="chi" page="52a" n="07">洗漱</sent>
+<sent type="main" lang="kor" page="52a" n="08">부싀다</sent>
+<sent type="main" lang="chi" page="52a" n="09">洗淨</sent>
+<sent type="main" lang="kor" page="52a" n="10">가싀다</sent>
+<sent type="main" lang="chi" page="52a" n="11">刷</sent>
+<sent type="main" lang="kor" page="52a" n="12">솔질ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="52a" n="13">擠水</sent>
+<sent type="main" lang="kor" page="52a" n="14">믈 ᄶᆞ다</sent>
+<sent type="main" lang="chi" page="52a" n="15">擰水</sent>
+<sent type="main" lang="kor" page="52a" n="16">븨틀어 ᄶᆞ다</sent>
+<sent type="main" lang="chi" page="52a" n="17">糨粉</sent>
+<sent type="main" lang="kor" page="52a" n="18">니풀</sent>
+</pages>
+
+<pages n="52b">
+<img n="52b">https://kohico.kr/_media/image/18세기후기_한청문감/52b.jpg</img>
+<sent type="main" lang="chi" page="52b" n="01">漿</sent>
+<sent type="main" lang="kor" page="52b" n="02">풀 먹이다</sent>
+<sent type="main" lang="chi" page="52b" n="03">染靑水</sent>
+<sent type="main" lang="kor" page="52b" n="04">신 믈</sent>
+<sent type="main" lang="chi" page="52b" n="05">染靑</sent>
+<sent type="main" lang="kor" page="52b" n="06">야쳥 드리다</sent>
+<sent type="main" lang="chi" page="52b" n="07">小灰水</sent>
+<sent type="main" lang="kor" page="52b" n="08">ᄌᆡᆫ 믈</sent>
+<sent type="main" lang="chi" page="52b" n="09">乾</sent>
+<sent type="main" lang="kor" page="52b" n="10">ᄆᆞᄅᆞ다</sent>
+<sent type="main" lang="chi" page="52b" n="11">晒着</sent>
+<sent type="main" lang="kor" page="52b" n="12">볏ᄒᆡ ᄆᆞᆯ뢰오다</sent>
+<sent type="main" lang="chi" page="52b" n="13">烤</sent>
+<sent type="main" lang="kor" page="52b" n="14">블 ᄶᅬ야 ᄆᆞᆯ뢰오다</sent>
+</pages>
+
+<pages n="53a">
+<img n="53a">https://kohico.kr/_media/image/18세기후기_한청문감/53a.jpg</img>
+<sent type="main" lang="chi" page="53a" n="01">弸晒</sent>
+<sent type="main" lang="kor" page="53a" n="02">버틔여 ᄆᆞᆯ뢰오다</sent>
+<sent type="main" lang="chi" page="53a" n="03">晾劈柴</sent>
+<sent type="main" lang="kor" page="53a" n="04">ᄯᆞ린 나모 ᄆᆞᆯ뢰오다</sent>
+<sent type="main" lang="chi" page="53a" n="05">微乾</sent>
+<sent type="main" lang="kor" page="53a" n="06">젹이 ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="53a" n="07">風乾</sent>
+<sent type="main" lang="kor" page="53a" n="08">ᄇᆞ람 쏘여 ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="53a" n="09">弓乾</sent>
+<sent type="main" lang="kor" page="53a" n="10">활 ᄆᆞᄅᆞ다</sent>
+<sent type="main" lang="chi" page="53a" n="11">水濕</sent>
+<sent type="main" lang="kor" page="53a" n="12">믈 젓다</sent>
+<sent type="main" lang="chi" page="53a" n="13">濕透了</sent>
+<sent type="main" lang="kor" page="53a-53b" n="14">ᄉᆞ못 젓다</sent><!--ᄉᆞ못 ^ 젓다-->
+</pages>
+
+<pages n="53b">
+<img n="53b">https://kohico.kr/_media/image/18세기후기_한청문감/53b.jpg</img>
+<sent type="main" lang="chi" page="53b" n="01">淋透</sent>
+<sent type="main" lang="kor" page="53b" n="02">비 ᄉᆞ못다</sent>
+<sent type="main" lang="chi" page="53b" n="03">浸透</sent>
+<sent type="main" lang="kor" page="53b" n="04">믈에 ᄌᆞᆷ가 ᄉᆞ못다</sent>
+<sent type="main" lang="chi" page="53b" n="05">泡</sent>
+<sent type="main" lang="kor" page="53b" n="06">저저 븟다</sent>
+<sent type="main" lang="chi" page="53b" n="07">脹</sent>
+<sent type="main" lang="kor" page="53b" n="08">붓다</sent>
+<sent type="main" lang="chi" page="53b" n="09">發潮</sent>
+<sent type="main" lang="kor" page="53b" n="10">축다</sent>
+<sent type="main" lang="chi" page="53b" n="11">物朝熱</sent>
+<sent type="main" lang="kor" page="53b" n="12">凡物 축어 ᄯᅳ다</sent>
+<sent type="main" lang="chi" page="53b" n="13">滲</sent>
+<sent type="main" lang="kor" page="53b" n="14">ᄇᆡ다</sent>
+<sent type="main" lang="chi" page="53b" n="15">潤</sent>
+<sent type="main" lang="kor" page="53b" n="16">ᄇᆡ야 젓다</sent>
+<sent type="main" lang="chi" page="53b" n="17">蔭</sent>
+<sent type="main" lang="kor" page="53b" n="18">저저 퍼지다</sent>
+</pages>
+
+<pages n="54a">
+<img n="54a">https://kohico.kr/_media/image/18세기후기_한청문감/54a.jpg</img>
+<sent type="main" lang="chi" page="54a" n="01">蔭開</sent>
+<sent type="main" lang="kor" page="54a" n="02">졈졈 퍼지다</sent>
+<sent type="main" lang="chi" page="54a" n="03">蔭大</sent>
+<sent type="main" lang="kor" page="54a" n="04">크게 퍼지다</sent>
+<sent type="main" lang="chi" page="54a" n="05">滲漏</sent>
+<sent type="main" lang="kor" page="54a" n="06">ᄉᆡ다</sent>
+<sent type="main" lang="chi" page="54a" n="07">抽縱</sent>
+<sent type="main" lang="kor" page="54a" n="08">구긔다</sent>
+<sent type="main" lang="chi" page="54a" n="09">折疊</sent>
+<sent type="main" lang="kor" page="54a" n="10">졉다</sent>
+<sent type="main" lang="chi" page="54a" n="11">撙</sent>
+<sent type="main" lang="kor" page="54a" n="12">주리다</sent>
+</pages>
+
+<pages n="54b">
+<img n="54b">https://kohico.kr/_media/image/18세기후기_한청문감/54b.jpg</img>
+<sent type="main" lang="chi" page="54b" n="01">屈抽</sent>
+<sent type="main" lang="kor" page="54b" n="02">주다</sent>
+<sent type="main" lang="chi" page="54b" n="03">絲縱了</sent>
+<sent type="main" lang="kor" page="54b" n="04">실이 믈 저저 주다</sent>
+<sent type="main" lang="chi" page="54b" n="05">彎</sent>
+<sent type="main" lang="kor" page="54b" n="06">ᄆᆞᆯ리이다</sent>
+<sent type="main" lang="chi" page="54b" n="07">皺</sent>
+<sent type="main" lang="kor" page="54b" n="08">구굼ᄉᆞᆯ 지다</sent>
+<sent type="main" lang="chi" page="54b" n="09">兩頭翹起</sent>
+<sent type="main" lang="kor" page="54b" n="10">두 ᄭᅳᆺ ᄆᆞᆯ리이다</sent>
+<sent type="main" lang="chi" page="54b" n="11">一頭翹起</sent>
+<sent type="main" lang="kor" page="54b" n="12">ᄒᆞᆫ ᄭᅳᆺ ᄆᆞᆯ리이다</sent>
+<sent type="main" lang="chi" page="54b" n="13">舒展</sent>
+<sent type="main" lang="kor" page="54b" n="14">펴이다</sent>
+<sent type="main" lang="chi" page="54b" n="15">打開</sent>
+</pages>
+
+<pages n="55a">
+<img n="55a">https://kohico.kr/_media/image/18세기후기_한청문감/55a.jpg</img>
+<sent type="main" lang="kor" page="55a" n="01">펴다</sent>
+<sent type="main" lang="chi" page="55a" n="02">伸開</sent>
+<sent type="main" lang="kor" page="55a" n="03">펴지다</sent>
+<sent type="main" lang="chi" page="55a" n="04">已伸</sent>
+<sent type="main" lang="kor" page="55a" n="05">다 폇다</sent>
+<sent type="main" lang="chi" page="55a" n="06">單開</sent>
+<sent type="main" lang="kor" page="55a" n="07">낫낫치 펴다</sent>
+<sent type="main" lang="chi" page="55a" n="08">舒坦</sent>
+<sent type="main" lang="kor" page="55a" n="09">편편이 펴이다</sent>
+<sent type="main" lang="chi" page="55a" n="10">展開</sent>
+<sent type="main" lang="kor" page="55a" n="11">ᄆᆞᆫ 것 펴다</sent>
+<sent type="main" lang="chi" page="55a" n="12">全</sent>
+<sent type="main" lang="kor" page="55a" n="13">오로</sent>
+<sent type="main" lang="chi" page="55a" n="14">俱</sent>
+<sent type="main" lang="kor" page="55a" n="15">다</sent>
+<sent type="main" lang="chi" page="55a" n="16">普</sent>
+<sent type="main" lang="kor" page="55a" n="17">두로</sent>
+</pages>
+
+<pages n="55b">
+<img n="55b">https://kohico.kr/_media/image/18세기후기_한청문감/55b.jpg</img>
+<sent type="main" lang="chi" page="55b" n="01">共</sent>
+<sent type="main" lang="kor" page="55b" n="02">대되</sent>
+<sent type="main" lang="chi" page="55b" n="03">統共</sent>
+<sent type="main" lang="kor" page="55b" n="04">모도ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="55b" n="05">實落</sent>
+<sent type="main" lang="kor" page="55b" n="06">아조ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="55b" n="07">齊</sent>
+<sent type="main" lang="kor" page="55b" n="08">ᄒᆞᆷᄭᅴ</sent>
+<sent type="main" lang="chi" page="55b" n="09">普裡</sent>
+<sent type="main" lang="kor" page="55b" n="10">대되다</sent>
+<sent type="main" lang="chi" page="55b" n="11">儘情</sent>
+<sent type="main" lang="kor" page="55b" n="12">잇긋</sent>
+<sent type="main" lang="chi" page="55b" n="13">一槪</sent>
+<sent type="main" lang="kor" page="55b" n="14">도모지</sent>
+<sent type="main" lang="chi" page="55b" n="15">有的沒的</sent>
+<sent type="main" lang="kor" page="55b" n="16">잇ᄂᆞᆫ 것 업ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="55b" n="17">普遍</sent>
+<sent type="main" lang="kor" page="55b" n="18">몰쇽</sent>
+<sent type="main" lang="chi" page="55b" n="19">都是</sent>
+<sent type="main" lang="kor" page="55b" n="20">대되이</sent>
+</pages>
+
+<pages n="56a">
+<img n="56a">https://kohico.kr/_media/image/18세기후기_한청문감/56a.jpg</img>
+<sent type="main" lang="chi" page="56a" n="01">到底</sent>
+<sent type="main" lang="kor" page="56a" n="02">나죵내</sent>
+<sent type="main" lang="chi" page="56a" n="03">畢竟</sent>
+<sent type="main" lang="kor" page="56a" n="04">마ᄎᆞᆷ내</sent>
+<sent type="main" lang="chi" page="56a" n="05">儘着</sent>
+<sent type="main" lang="kor" page="56a" n="06">벅벅이</sent>
+<sent type="main" lang="chi" page="56a" n="07">再三</sent>
+<sent type="main" lang="kor" page="56a" n="08">다시곰</sent>
+<sent type="main" lang="chi" page="56a" n="09">只管</sent>
+<sent type="main" lang="kor" page="56a" n="10">거푸 거푸</sent>
+<sent type="main" lang="chi" page="56a" n="11">屢屢的</sent>
+<sent type="main" lang="kor" page="56a" n="12">누누히</sent>
+<sent type="main" lang="chi" page="56a" n="13">連綿</sent>
+<sent type="main" lang="kor" page="56a" n="14">니음다라</sent>
+<sent type="main" lang="chi" page="56a-56b" n="15">常常的</sent><!--常常^的-->
+</pages>
+
+<pages n="56b">
+<img n="56b">https://kohico.kr/_media/image/18세기후기_한청문감/56b.jpg</img>
+<sent type="main" lang="kor" page="56b" n="01">건네</sent>
+<sent type="main" lang="chi" page="56b" n="02">必定</sent>
+<sent type="main" lang="kor" page="56b" n="03">반ᄃᆞ시</sent>
+<sent type="main" lang="chi" page="56b" n="04">常</sent>
+<sent type="main" lang="kor" page="56b" n="05">샹에</sent>
+<sent type="main" lang="chi" page="56b" n="06">本</sent>
+<sent type="main" lang="kor" page="56b" n="07">本年本月之本</sent>
+<sent type="main" lang="chi" page="56b" n="08">再三再三的</sent>
+<sent type="main" lang="kor" page="56b" n="09">다홈 다홈</sent>
+<sent type="main" lang="chi" page="56b" n="10">再四再四的</sent>
+<sent type="main" lang="chi" page="56b" n="11">一切</sent>
+<sent type="main" lang="kor" page="56b" n="12">온갓</sent>
+<sent type="main" lang="chi" page="56b" n="13">所有</sent>
+<sent type="main" lang="kor" page="56b" n="14">잇ᄂᆞᆫ 바</sent>
+<sent type="main" lang="chi" page="56b" n="15">樣樣</sent>
+<sent type="main" lang="kor" page="56b" n="16">갓갓지</sent>
+<sent type="main" lang="chi" page="56b" n="17">樣數</sent>
+</pages>
+
+<pages n="57a">
+<img n="57a">https://kohico.kr/_media/image/18세기후기_한청문감/57a.jpg</img>
+<sent type="main" lang="kor" page="57a" n="01">벌수</sent>
+<sent type="main" lang="chi" page="57a" n="02">各樣</sent>
+<sent type="main" lang="kor" page="57a" n="03">各樣</sent><!--‘各樣’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="57a" n="04">物件</sent>
+<sent type="main" lang="kor" page="57a" n="05">物件</sent><!--‘物件’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="57a" n="06">我</sent>
+<sent type="main" lang="kor" page="57a" n="07">나</sent>
+<sent type="main" lang="chi" page="57a" n="08">我的</sent>
+<sent type="main" lang="kor" page="57a" n="09">나의</sent>
+<sent type="main" lang="chi" page="57a" n="10">在我</sent>
+<sent type="main" lang="kor" page="57a" n="11">내게</sent>
+<sent type="main" lang="chi" page="57a" n="12">比我</sent>
+<sent type="main" lang="kor" page="57a" n="13">내에셔</sent>
+<sent type="main" lang="chi" page="57a" n="14">把我</sent>
+<sent type="main" lang="kor" page="57a" n="15">나를</sent>
+<sent type="main" lang="chi" page="57a" n="16">是我的</sent>
+</pages>
+
+<pages n="57b">
+<img n="57b">https://kohico.kr/_media/image/18세기후기_한청문감/57b.jpg</img>
+<sent type="main" lang="kor" page="57b" n="01">내 것</sent>
+<sent type="main" lang="chi" page="57b" n="02">你</sent>
+<sent type="main" lang="kor" page="57b" n="03">너</sent>
+<sent type="main" lang="chi" page="57b" n="04">你的</sent>
+<sent type="main" lang="kor" page="57b" n="05">네의</sent>
+<sent type="main" lang="chi" page="57b" n="06">在你</sent>
+<sent type="main" lang="kor" page="57b" n="07">네게</sent>
+<sent type="main" lang="chi" page="57b" n="08">比你</sent>
+<sent type="main" lang="kor" page="57b" n="09">너에셔</sent>
+<sent type="main" lang="chi" page="57b" n="10">把你</sent>
+<sent type="main" lang="kor" page="57b" n="11">너를</sent>
+<sent type="main" lang="chi" page="57b" n="12">是你的</sent>
+<sent type="main" lang="kor" page="57b" n="13">네 것</sent>
+<sent type="main" lang="chi" page="57b" n="14">我們</sent>
+<sent type="main" lang="kor" page="57b" n="15">우리들</sent>
+<sent type="main" lang="chi" page="57b" n="16">我們的</sent>
+<sent type="main" lang="kor" page="57b" n="17">우리들의</sent>
+<sent type="main" lang="chi" page="57b" n="18">在我們</sent>
+<sent type="main" lang="kor" page="57b" n="19">우리들의게</sent>
+<sent type="main" lang="chi" page="57b" n="20">比我們</sent>
+<sent type="main" lang="kor" page="57b" n="21">우리들에셔</sent>
+<sent type="main" lang="chi" page="57b-58a" n="22">把我們</sent><!--把^我們-->
+</pages>
+
+<pages n="58a">
+<img n="58a">https://kohico.kr/_media/image/18세기후기_한청문감/58a.jpg</img>
+<sent type="main" lang="kor" page="58a" n="01">우리들을</sent>
+<sent type="main" lang="chi" page="58a" n="02">是我們的</sent>
+<sent type="main" lang="kor" page="58a" n="03">우리들의 것</sent>
+<sent type="main" lang="chi" page="58a" n="04">各自各自的</sent>
+<sent type="main" lang="kor" page="58a" n="05">각각</sent>
+<sent type="main" lang="chi" page="58a" n="06">各人各人</sent>
+<sent type="main" lang="kor" page="58a" n="07">제금 제금</sent>
+<sent type="main" lang="chi" page="58a" n="08">你們</sent>
+<sent type="main" lang="kor" page="58a" n="09">너희들</sent>
+<sent type="main" lang="chi" page="58a" n="10">你們的</sent>
+<sent type="main" lang="kor" page="58a" n="11">너희들의</sent>
+<sent type="main" lang="chi" page="58a" n="12">在你們</sent>
+<sent type="main" lang="kor" page="58a" n="13">너희들의게</sent>
+<sent type="main" lang="chi" page="58a" n="14">比你們</sent>
+<sent type="main" lang="kor" page="58a" n="15">너희들에셔</sent>
+<sent type="main" lang="chi" page="58a" n="16">把你們</sent>
+<sent type="main" lang="kor" page="58a" n="17">너희들을</sent>
+<sent type="main" lang="chi" page="58a" n="18">是你們的</sent><!--是你^們的-->
+</pages>
+
+<pages n="58b">
+<img n="58b">https://kohico.kr/_media/image/18세기후기_한청문감/58b.jpg</img>
+<sent type="main" lang="kor" page="58b" n="01">너희들의 것</sent>
+<sent type="main" lang="chi" page="58b" n="02">他</sent>
+<sent type="main" lang="kor" page="58b" n="03">저</sent>
+<sent type="main" lang="chi" page="58b" n="04">他的</sent>
+<sent type="main" lang="kor" page="58b" n="05">저의</sent>
+<sent type="main" lang="chi" page="58b" n="06">在他</sent>
+<sent type="main" lang="kor" page="58b" n="07">저의게</sent>
+<sent type="main" lang="chi" page="58b" n="08">比他</sent>
+<sent type="main" lang="kor" page="58b" n="09">저에셔</sent>
+<sent type="main" lang="chi" page="58b" n="10">把他</sent>
+<sent type="main" lang="kor" page="58b" n="11">저를</sent>
+<sent type="main" lang="chi" page="58b" n="12">是他的</sent>
+<sent type="main" lang="kor" page="58b" n="13">저의 것</sent>
+<sent type="main" lang="chi" page="58b" n="14">他們</sent>
+<sent type="main" lang="kor" page="58b" n="15">져들</sent>
+<sent type="main" lang="chi" page="58b" n="16">他們的</sent>
+<sent type="main" lang="kor" page="58b" n="17">져들의</sent>
+<sent type="main" lang="chi" page="58b" n="18">在他們</sent>
+<sent type="main" lang="kor" page="58b" n="19">저들의게</sent>
+<sent type="main" lang="chi" page="58b" n="20">比他們</sent>
+</pages>
+
+<pages n="59a">
+<img n="59a">https://kohico.kr/_media/image/18세기후기_한청문감/59a.jpg</img>
+<sent type="main" lang="kor" page="59a" n="01">져들에셔</sent>
+<sent type="main" lang="chi" page="59a" n="02">把他們</sent>
+<sent type="main" lang="kor" page="59a" n="03">져들을</sent>
+<sent type="main" lang="chi" page="59a" n="04">是他們的</sent>
+<sent type="main" lang="kor" page="59a" n="05">져들의 것</sent>
+<sent type="main" lang="chi" page="59a" n="06">誰</sent>
+<sent type="main" lang="kor" page="59a" n="07">누고</sent>
+<sent type="main" lang="chi" page="59a" n="08">向誰</sent>
+<sent type="main" lang="kor" page="59a" n="09">뉘게</sent>
+<sent type="main" lang="chi" page="59a" n="10">自誰</sent>
+<sent type="main" lang="kor" page="59a" n="11">뉘게로셔</sent>
+<sent type="main" lang="chi" page="59a" n="12">誰呀</sent>
+<sent type="main" lang="kor" page="59a" n="13">뉘냐</sent>
+<sent type="main" lang="chi" page="59a" n="14">把誰</sent>
+<sent type="main" lang="kor" page="59a" n="15">누고를</sent>
+<sent type="main" lang="chi" page="59a" n="16">誰的</sent>
+<sent type="main" lang="kor" page="59a" n="17">뉘 것</sent>
+<sent type="main" lang="chi" page="59a" n="18">那箇</sent>
+<sent type="main" lang="kor" page="59a" n="19">어ᄂᆡ</sent>
+<sent type="main" lang="chi" page="59a" n="20">諸凡</sent>
+<sent type="main" lang="kor" page="59a" n="21">므ᄅᆞᆺ</sent>
+</pages>
+
+<pages n="59b">
+<img n="59b">https://kohico.kr/_media/image/18세기후기_한청문감/59b.jpg</img>
+<sent type="main" lang="chi" page="59b" n="01">向那箇</sent>
+<sent type="main" lang="kor" page="59b" n="02">어ᄂᆡ의게</sent>
+<sent type="main" lang="chi" page="59b" n="03">從那箇</sent>
+<sent type="main" lang="kor" page="59b" n="04">어ᄂᆡ게로셔</sent>
+<sent type="main" lang="chi" page="59b" n="05">把那箇</sent>
+<sent type="main" lang="kor" page="59b" n="06">어ᄂᆡ를</sent>
+<sent type="main" lang="chi" page="59b" n="07">咱們</sent>
+<sent type="main" lang="kor" page="59b" n="08">우리</sent>
+<sent type="main" lang="chi" page="59b" n="09">是咱們的</sent>
+<sent type="main" lang="kor" page="59b" n="10">우리의 것</sent>
+<sent type="main" lang="chi" page="59b" n="11">這些人</sent>
+<sent type="main" lang="kor" page="59b" n="12">이 사ᄅᆞᆷ들</sent>
+<sent type="main" lang="chi" page="59b" n="13">這些人的</sent>
+<sent type="main" lang="kor" page="59b" n="14">이 사ᄅᆞᆷ들의 것</sent>
+<sent type="main" lang="chi" page="59b" n="15">那們</sent>
+<sent type="main" lang="kor" page="59b" n="16">져들</sent>
+<sent type="main" lang="chi" page="59b" n="17">這箇</sent>
+<sent type="main" lang="kor" page="59b" n="18">이</sent>
+</pages>
+
+<pages n="60a">
+<img n="60a">https://kohico.kr/_media/image/18세기후기_한청문감/60a.jpg</img>
+<sent type="main" lang="chi" page="60a" n="01">那箇</sent>
+<sent type="main" lang="kor" page="60a" n="02">져</sent>
+<sent type="main" lang="chi" page="60a" n="03">別人</sent>
+<sent type="main" lang="kor" page="60a" n="04">다른 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="60a" n="05">外人</sent>
+<sent type="main" lang="kor" page="60a" n="06">外人</sent><!--‘外人’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="07">他人</sent>
+<sent type="main" lang="kor" page="60a" n="08">ᄂᆞᆷ</sent>
+<sent type="main" lang="chi" page="60a" n="09">是他人的</sent>
+<sent type="main" lang="kor" page="60a" n="10">ᄂᆞᆷ의 것</sent>
+<sent type="main" lang="chi" page="60a" n="11">是人家的</sent>
+<sent type="main" lang="kor" page="60a" n="12">사ᄅᆞᆷ의 것</sent>
+</pages>
+
+<pages n="60b">
+<img n="60b">https://kohico.kr/_media/image/18세기후기_한청문감/60b.jpg</img>
+<sent type="main" lang="chi" page="60b" n="01">不勝</sent>
+<sent type="main" lang="kor" page="60b" n="02">不勝</sent><!--‘不勝’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60b" n="03">無信息</sent>
+<sent type="main" lang="kor" page="60b" n="04">쇼식 업다</sent>
+<sent type="main" lang="chi" page="60b" n="05">無踪影</sent>
+<sent type="main" lang="kor" page="60b" n="06">자최 업다</sent>
+<sent type="main" lang="chi" page="60b" n="07">無動靜</sent>
+<sent type="main" lang="kor" page="60b" n="08">동졍 업다</sent>
+<sent type="main" lang="chi" page="60b" n="09">未見怎麽樣</sent>
+<sent type="main" lang="kor" page="60b" n="10">아모란 줄 보지 못ᄒᆞ여셔</sent>
+<sent type="main" lang="chi" page="60b" n="11">彼此相左</sent>
+<sent type="main" lang="kor" page="60b" n="12">서로 외다</sent>
+</pages>
+
+<pages n="61a">
+<img n="61a">https://kohico.kr/_media/image/18세기후기_한청문감/61a.jpg</img>
+<sent type="main" lang="chi" page="61a" n="01">如何</sent>
+<sent type="main" lang="kor" page="61a" n="02">엇지</sent>
+<sent type="main" lang="chi" page="61a" n="03">不甚相干</sent>
+<sent type="main" lang="kor" page="61a" n="04">굿ᄒᆞ여 간셥지 아니타</sent>
+<sent type="main" lang="chi" page="61a" n="05">該當</sent>
+<sent type="main" lang="kor" page="61a" n="06">맛당타</sent>
+<sent type="main" lang="chi" page="61a" n="07">有甚麽</sent>
+<sent type="main" lang="kor" page="61a" n="08">무어시 이시리</sent>
+<sent type="main" lang="chi" page="61a" n="09">因甚麽</sent>
+<sent type="main" lang="kor" page="61a" n="10">무어스로</sent>
+<sent type="main" lang="chi" page="61a" n="11">豈不</sent>
+<sent type="main" lang="kor" page="61a" n="12">엇지 아니</sent>
+</pages>
+
+<pages n="61b">
+<img n="61b">https://kohico.kr/_media/image/18세기후기_한청문감/61b.jpg</img>
+<sent type="main" lang="chi" page="61b" n="01">怎麽處</sent>
+<sent type="main" lang="kor" page="61b" n="02">엇지ᄒᆞᆯ고</sent>
+<sent type="main" lang="chi" page="61b" n="03">無論怎麽罷</sent>
+<sent type="main" lang="kor" page="61b" n="04">아무리ᄒᆞ거니</sent>
+<sent type="main" lang="chi" page="61b" n="05">能怎樣</sent>
+<sent type="main" lang="kor" page="61b" n="06">능히 엇지ᄒᆞ리</sent>
+<sent type="main" lang="chi" page="61b" n="07">怎麽樣呢</sent>
+<sent type="main" lang="kor" page="61b" n="08">어이ᄒᆞ리</sent>
+<sent type="main" lang="chi" page="61b" n="09">未必</sent>
+<sent type="main" lang="kor" page="61b" n="10">마치 모롤다</sent>
+<sent type="main" lang="chi" page="61b" n="11">何處</sent>
+<sent type="main" lang="kor" page="61b" n="12">어ᄃᆡ</sent>
+<sent type="main" lang="chi" page="61b" n="13">從何處</sent>
+</pages>
+
+<pages n="62a">
+<img n="62a">https://kohico.kr/_media/image/18세기후기_한청문감/62a.jpg</img>
+<sent type="main" lang="kor" page="62a" n="01">어ᄃᆡ로셔</sent>
+<sent type="main" lang="chi" page="62a" n="02">做甚麽的</sent>
+<sent type="main" lang="kor" page="62a" n="03">어인 거시니</sent>
+<sent type="main" lang="chi" page="62a" n="04">倘若</sent>
+<sent type="main" lang="kor" page="62a" n="05">아모라면</sent>
+<sent type="main" lang="chi" page="62a" n="06">設若</sent>
+<sent type="main" lang="kor" page="62a" n="07">만일에</sent>
+<sent type="main" lang="chi" page="62a" n="08">動不動的</sent>
+<sent type="main" lang="kor" page="62a" n="09">얼픗ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="62a" n="10">怎能得</sent>
+<sent type="main" lang="kor" page="62a" n="11">엇지 시러곰</sent>
+<sent type="main" lang="chi" page="62a" n="12">豈敢</sent>
+<sent type="main" lang="kor" page="62a" n="13">엇지 감히</sent>
+</pages>
+
+<pages n="62b">
+<img n="62b">https://kohico.kr/_media/image/18세기후기_한청문감/62b.jpg</img>
+<sent type="main" lang="chi" page="62b" n="01">何必</sent>
+<sent type="main" lang="kor" page="62b" n="02">굿ᄒᆡ여</sent>
+<sent type="main" lang="chi" page="62b" n="03">做甚麽</sent>
+<sent type="main" lang="kor" page="62b" n="04">무어슬 ᄒᆞ리</sent>
+<sent type="main" lang="chi" page="62b" n="05">値甚麽</sent>
+<sent type="main" lang="kor" page="62b" n="06">무어시 ᄊᆞ니</sent>
+<sent type="main" lang="chi" page="62b" n="07">有甚要緊</sent>
+<sent type="main" lang="kor" page="62b" n="08">무어시 긴ᄒᆞ여셔</sent>
+<sent type="main" lang="chi" page="62b" n="09">尋常</sent>
+<sent type="main" lang="kor" page="62b" n="10">녜ᄉᆞ</sent>
+<sent type="main" lang="chi" page="62b" n="11">與其</sent>
+<sent type="main" lang="kor" page="62b" n="12">ᄒᆞᆷ으론</sent>
+<sent type="main" lang="chi" page="62b-63a" n="13">何其</sent><!--何^其-->
+</pages>
+
+<pages n="63a">
+<img n="63a">https://kohico.kr/_media/image/18세기후기_한청문감/63a.jpg</img>
+<sent type="main" lang="kor" page="63a" n="01">엇지 그리</sent>
+<sent type="main" lang="chi" page="63a" n="02">有趣</sent>
+<sent type="main" lang="kor" page="63a" n="03">ᄌᆞ미 잇다</sent>
+<sent type="main" lang="chi" page="63a" n="04">彀得着</sent>
+<sent type="main" lang="kor" page="63a" n="05">넉넉다</sent>
+<sent type="main" lang="chi" page="63a" n="06">因次</sent>
+<sent type="main" lang="kor" page="63a" n="07">이러모로</sent>
+<sent type="main" lang="chi" page="63a" n="08">益發</sent>
+<sent type="main" lang="kor" page="63a" n="09">더옥</sent>
+<sent type="main" lang="chi" page="63a" n="10">正是</sent>
+<sent type="main" lang="kor" page="63a" n="11">졍히 올타 ○ 又 그러치</sent>
+<sent type="main" lang="chi" page="63a" n="12">這裡呢</sent>
+<sent type="main" lang="kor" page="63a" n="13">여긔어니</sent>
+</pages>
+
+<pages n="63b">
+<img n="63b">https://kohico.kr/_media/image/18세기후기_한청문감/63b.jpg</img>
+<sent type="main" lang="chi" page="63b" n="01">以此</sent>
+<sent type="main" lang="kor" page="63b" n="02">일로 ᄡᅥ</sent>
+<sent type="main" lang="chi" page="63b" n="03">從此</sent>
+<sent type="main" lang="kor" page="63b" n="04">일로 조차</sent>
+<sent type="main" lang="chi" page="63b" n="05">幾乎</sent>
+<sent type="main" lang="kor" page="63b" n="06">거의</sent>
+<sent type="main" lang="chi" page="63b" n="07">足已彀了</sent>
+<sent type="main" lang="kor" page="63b" n="08">흡죡ᄒᆞ여ㅅ다</sent>
+<sent type="main" lang="chi" page="63b" n="09">反倒</sent>
+<sent type="main" lang="kor" page="63b" n="10">도로혀</sent>
+</pages>
+
+<pages n="64a">
+<img n="64a">https://kohico.kr/_media/image/18세기후기_한청문감/64a.jpg</img>
+<sent type="main" lang="chi" page="64a" n="01">一順兒</sent>
+<sent type="main" lang="kor" page="64a" n="02">ᄒᆞᆫ 셰로</sent>
+<sent type="main" lang="chi" page="64a" n="03">這一次</sent>
+<sent type="main" lang="kor" page="64a" n="04">이번</sent>
+<sent type="main" lang="chi" page="64a" n="05">或</sent>
+<sent type="main" lang="kor" page="64a" n="06">或</sent><!--‘或’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="64a" n="07">或者</sent>
+<sent type="main" lang="kor" page="64a" n="08">或者</sent><!--‘或者’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="64a" n="09">或有一時</sent>
+<sent type="main" lang="kor" page="64a" n="10">혹시</sent>
+<sent type="main" lang="chi" page="64a" n="11">不由的</sent>
+<sent type="main" lang="kor" page="64a" n="12">절노</sent>
+<sent type="main" lang="chi" page="64a" n="13">總得</sent>
+<sent type="main" lang="kor" page="64a" n="14">대개</sent>
+<sent type="main" lang="chi" page="64a" n="15">儘着</sent>
+</pages>
+
+<pages n="64b">
+<img n="64b">https://kohico.kr/_media/image/18세기후기_한청문감/64b.jpg</img>
+<sent type="main" lang="kor" page="64b" n="01">온 가지로</sent>
+<sent type="main" lang="chi" page="64b" n="02">這些</sent>
+<sent type="main" lang="kor" page="64b" n="03">이것들</sent>
+<sent type="main" lang="chi" page="64b" n="04">這們那們</sent>
+<sent type="main" lang="kor" page="64b" n="05">이리져리</sent>
+<sent type="main" lang="chi" page="64b" n="06">走了樣了</sent>
+<sent type="main" lang="kor" page="64b" n="07">모양 엉ᄯᅩᆼᄒᆞ다</sent>
+<sent type="main" lang="chi" page="64b" n="08">這樣</sent>
+<sent type="main" lang="kor" page="64b" n="09">이럿ᄐᆞᆺ</sent>
+<sent type="main" lang="chi" page="64b" n="10">這樣的</sent>
+<sent type="main" lang="kor" page="64b" n="11">이런 것</sent>
+<sent type="main" lang="chi" page="64b" n="12">背後</sent>
+<sent type="main" lang="kor" page="64b" n="13">못 보ᄂᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="64b" n="14">往這裡些</sent>
+<sent type="main" lang="kor" page="64b" n="15">이리로 오라 ○ 又 부터</sent>
+<sent type="main" lang="chi" page="64b" n="16">一同</sent>
+<sent type="main" lang="kor" page="64b" n="17">ᄒᆞᆫ가지로</sent>
+</pages>
+
+<pages n="65a">
+<img n="65a">https://kohico.kr/_media/image/18세기후기_한청문감/65a.jpg</img>
+<sent type="main" lang="chi" page="65a" n="01">一連</sent>
+<sent type="main" lang="kor" page="65a" n="02">ᄒᆞᆫ 줄로</sent>
+<sent type="main" lang="chi" page="65a" n="03">可惡</sent>
+<sent type="main" lang="kor" page="65a" n="04">괘씸ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="65a" n="05">懊悔口氣</sent>
+<sent type="main" lang="chi" page="65a" n="06">自然</sent>
+<sent type="main" lang="kor" page="65a" n="07">自然</sent><!--‘自然’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="65a" n="08">左右是左右</sent>
+<sent type="main" lang="kor" page="65a" n="09">이리나 져리나</sent>
+<sent type="main" lang="chi" page="65a" n="10">將機就機</sent>
+<sent type="main" lang="kor" page="65a" n="11">將計就計之意</sent>
+</pages>
+
+<pages n="65b">
+<img n="65b">https://kohico.kr/_media/image/18세기후기_한청문감/65b.jpg</img>
+<sent type="main" lang="chi" page="65b" n="01">若是</sent>
+<sent type="main" lang="kor" page="65b" n="02">이러면</sent>
+<sent type="main" lang="chi" page="65b" n="03">因爲</sent>
+<sent type="main" lang="kor" page="65b" n="04">이러모로</sent>
+<sent type="main" lang="chi" page="65b" n="05">設若</sent>
+<sent type="main" lang="kor" page="65b" n="06">ᄒᆞ게 되면</sent>
+<sent type="main" lang="chi" page="65b" n="07">雖則</sent>
+<sent type="main" lang="kor" page="65b" n="08">비록 그러나</sent>
+<sent type="main" lang="kor" page="65b" n="09">輕笑人詞</sent>
+<sent type="main" lang="chi" page="65b" n="10">不可</sent>
+<sent type="main" lang="kor" page="65b" n="11">不可ᄒᆞ다</sent><!--‘不可’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="65b" n="12">依從了</sent>
+<sent type="main" lang="kor" page="65b" n="13">좃다</sent>
+</pages>
+
+<pages n="66a">
+<img n="66a">https://kohico.kr/_media/image/18세기후기_한청문감/66a.jpg</img>
+<sent type="main" lang="chi" page="66a" n="01">沒依從</sent>
+<sent type="main" lang="kor" page="66a" n="02">좃지 아니타</sent>
+<sent type="main" lang="chi" page="66a" n="03">無影響</sent>
+<sent type="main" lang="kor" page="66a" n="04">터 업다</sent>
+<sent type="main" lang="chi" page="66a" n="05">何等</sent>
+<sent type="main" lang="kor" page="66a" n="06">엇던</sent>
+<sent type="main" lang="chi" page="66a" n="07">亂來</sent>
+<sent type="main" lang="kor" page="66a" n="08">덤벙이다</sent>
+<sent type="main" lang="chi" page="66a" n="09">這裡</sent>
+<sent type="main" lang="kor" page="66a" n="10">이곳</sent>
+<sent type="main" lang="chi" page="66a" n="11">不必</sent>
+<sent type="main" lang="kor" page="66a" n="12">말라</sent>
+<sent type="main" lang="chi" page="66a" n="13">全然</sent>
+<sent type="main" lang="kor" page="66a" n="14">젼혀</sent>
+<sent type="main" lang="chi" page="66a" n="15">每每的</sent>
+<sent type="main" lang="kor" page="66a" n="16">벅벅이</sent>
+</pages>
+
+<pages n="66b">
+<img n="66b">https://kohico.kr/_media/image/18세기후기_한청문감/66b.jpg</img>
+<sent type="main" lang="chi" page="66b" n="01">雖然</sent>
+<sent type="main" lang="kor" page="66b" n="02">비록</sent>
+<sent type="main" lang="chi" page="66b" n="03">這裡的</sent>
+<sent type="main" lang="kor" page="66b" n="04">여긔ㅅ것</sent>
+<sent type="main" lang="chi" page="66b" n="05">竝不能</sent>
+<sent type="main" lang="kor" page="66b" n="06">다 능히 못 ᄒᆞ다 ○ 又 無可奈何</sent>
+<sent type="main" lang="chi" page="66b" n="07">不得已</sent>
+<sent type="main" lang="kor" page="66b" n="08">不得已</sent><!--‘不得已’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="66b" n="09">隨聲附和</sent>
+<sent type="main" lang="kor" page="66b" n="10">ᄂᆞᆷ의 김에</sent>
+<sent type="main" lang="chi" page="66b" n="11">徒然</sent>
+<sent type="main" lang="kor" page="66b" n="12">쇽졀업시</sent>
+<sent type="main" lang="kor" page="66b" n="13">아직 못 ᄒᆞ엿다</sent>
+<sent type="main" lang="chi" page="66b" n="14">尙未</sent>
+</pages>
+
+<pages n="67a">
+<img n="67a">https://kohico.kr/_media/image/18세기후기_한청문감/67a.jpg</img>
+<sent type="main" lang="chi" page="67a" n="01">頓然</sent>
+<sent type="main" lang="kor" page="67a" n="02">頓然히</sent><!--‘頓然’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="67a" n="03">如此</sent>
+<sent type="main" lang="kor" page="67a" n="04">이러ㅅᄐᆞ시</sent>
+<sent type="main" lang="chi" page="67a" n="05">湊巧</sent>
+<sent type="main" lang="kor" page="67a" n="06">공교히 마조치다</sent>
+<sent type="main" lang="chi" page="67a" n="07">遇着</sent>
+<sent type="main" lang="kor" page="67a" n="08">다ᄃᆞᆺᄂᆞᆫ 대로</sent>
+<sent type="main" lang="chi" page="67a" n="09">將能着</sent>
+<sent type="main" lang="kor" page="67a" n="10">계요 능히</sent>
+<sent type="main" lang="kor" page="67a" n="11">呢字口氣</sent>
+<sent type="main" lang="chi" page="67a" n="12">將就</sent>
+<sent type="main" lang="kor" page="67a" n="13">짐작ᄒᆞ여 ○ 又 의지ᄒᆞ여</sent>
+</pages>
+
+<pages n="67b">
+<img n="67b">https://kohico.kr/_media/image/18세기후기_한청문감/67b.jpg</img>
+<sent type="main" lang="chi" page="67b" n="01">的</sent>
+<sent type="main" lang="kor" page="67b" n="02">것</sent>
+<sent type="main" lang="chi" page="67b" n="03">盡是</sent>
+<sent type="main" lang="kor" page="67b" n="04">다이</sent>
+<sent type="main" lang="chi" page="67b" n="05">甚易</sent>
+<sent type="main" lang="kor" page="67b" n="06">아조 쉽다</sent>
+<sent type="main" lang="chi" page="67b" n="07">怒急</sent>
+<sent type="main" lang="kor" page="67b" n="08">怒急ᄒᆞ다</sent><!--‘怒急’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="67b" n="09">因由</sent>
+<sent type="main" lang="kor" page="67b" n="10">탓</sent>
+</pages>
+
+<pages n="68a">
+<img n="68a">https://kohico.kr/_media/image/18세기후기_한청문감/68a.jpg</img>
+<sent type="main" lang="chi" page="68a" n="01">漢子樣</sent>
+<sent type="main" lang="kor" page="68a" n="02">ᄉᆞ나ᄒᆡ 즛ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="68a" n="03">是個漢子</sent>
+<sent type="main" lang="kor" page="68a" n="04">ᄉᆞ나ᄒᆡ로다</sent>
+<sent type="main" lang="chi" page="68a" n="05">各樣</sent>
+<sent type="main" lang="kor" page="68a" n="06">온갓 것</sent>
+<sent type="main" lang="chi" page="68a" n="07">妨礙</sent>
+<sent type="main" lang="kor" page="68a" n="08">妨礙</sent><!--‘妨礙’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="68a" n="09">尙且</sent>
+<sent type="main" lang="kor" page="68a" n="10">오히려</sent>
+<sent type="main" lang="chi" page="68a" n="11">向別處</sent>
+<sent type="main" lang="kor" page="68a" n="12">다른 대로</sent>
+<sent type="main" lang="chi" page="68a" n="13">不妨</sent>
+<sent type="main" lang="kor" page="68a" n="14">ᄒᆡ롭지 아니타 ○ 又 관겨치 아니타</sent>
+</pages>
+
+<pages n="68b">
+<img n="68b">https://kohico.kr/_media/image/18세기후기_한청문감/68b.jpg</img>
+<sent type="main" lang="chi" page="68b" n="01">將此</sent>
+<sent type="main" lang="kor" page="68b" n="02">이거슬</sent>
+<sent type="main" lang="chi" page="68b" n="03">處</sent>
+<sent type="main" lang="kor" page="68b" n="04">곳에</sent>
+<sent type="main" lang="chi" page="68b" n="05">向</sent>
+<sent type="main" lang="kor" page="68b" n="06">향ᄒᆞ여</sent>
+<sent type="main" lang="chi" page="68b" n="07">各處的</sent>
+<sent type="main" lang="kor" page="68b" n="08">각쳐의</sent>
+<sent type="main" lang="chi" page="68b" n="09">處處</sent>
+<sent type="main" lang="kor" page="68b" n="10">곳곳</sent>
+<sent type="main" lang="chi" page="68b" n="11">撈着</sent>
+<sent type="main" lang="kor" page="68b" n="12">되ᄂᆞᆫ 대로</sent>
+<sent type="main" lang="chi" page="68b" n="13">巴不得一聲</sent>
+<sent type="main" lang="kor" page="68b" n="14">절로 ᄒᆞᆫ 소ᄅᆡ ᄒᆞ지</sent>
+<sent type="main" lang="chi" page="68b" n="15">罷呀</sent>
+</pages>
+
+<pages n="69a">
+<img n="69a">https://kohico.kr/_media/image/18세기후기_한청문감/69a.jpg</img>
+<sent type="main" lang="kor" page="69a" n="01">마라</sent>
+<sent type="main" lang="chi" page="69a" n="02">只是</sent>
+<sent type="main" lang="kor" page="69a" n="03">다만 ○ 又 그저</sent>
+<sent type="main" lang="chi" page="69a" n="04">需用</sent>
+<sent type="main" lang="kor" page="69a" n="05">쓰다</sent>
+<sent type="main" lang="chi" page="69a" n="06">無用</sent>
+<sent type="main" lang="kor" page="69a" n="07">쓸ᄃᆡ업다</sent>
+<sent type="main" lang="chi" page="69a" n="08">把</sent>
+<sent type="main" lang="kor" page="69a" n="09">으로</sent>
+<sent type="main" lang="chi" page="69a" n="10">現成</sent>
+<sent type="main" lang="kor" page="69a" n="11">시방 잇ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="69a" n="12">有</sent>
+<sent type="main" lang="kor" page="69a" n="13">잇다</sent>
+<sent type="main" lang="chi" page="69a" n="14">若有</sent>
+<sent type="main" lang="kor" page="69a" n="15">이시면 ○ 又 ᄒᆞ여ㅅ드면</sent>
+</pages>
+
+<pages n="69b">
+<img n="69b">https://kohico.kr/_media/image/18세기후기_한청문감/69b.jpg</img>
+<sent type="main" lang="chi" page="69b" n="01">來着</sent>
+<sent type="main" lang="kor" page="69b" n="02">ᄒᆞ엿더니</sent>
+<sent type="main" lang="chi" page="69b" n="03">想是有</sent>
+<sent type="main" lang="kor" page="69b" n="04">이시리라</sent>
+<sent type="main" lang="chi" page="69b" n="05">所有</sent>
+<sent type="main" lang="kor" page="69b" n="06">잇ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="69b" n="07">不知</sent>
+<sent type="main" lang="kor" page="69b" n="08">모로다</sent>
+<sent type="main" lang="chi" page="69b" n="09">執掌</sent>
+<sent type="main" lang="kor" page="69b" n="10">쥬쟝ᄒᆞ다</sent>
+</pages>
+
+<pages n="70a">
+<img n="70a">https://kohico.kr/_media/image/18세기후기_한청문감/70a.jpg</img>
+<sent type="main" lang="chi" page="70a" n="01">說是</sent>
+<sent type="main" lang="kor" page="70a" n="02">그리ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="70a" n="03">已說未盡意</sent>
+<sent type="main" lang="chi" page="70a" n="04">已說了</sent>
+<sent type="main" lang="kor" page="70a" n="05">닐럿ᄂᆞ니라</sent>
+<sent type="main" lang="chi" page="70a" n="06">已說的</sent>
+<sent type="main" lang="kor" page="70a" n="07">니ᄅᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="70a" n="08">一心</sent>
+<sent type="main" lang="kor" page="70a" n="09">一心</sent><!--‘一心’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="70a-70b" n="10">得一步進一步</sent><!--得一步進^一步-->
+</pages>
+
+<pages n="70b">
+<img n="70b">https://kohico.kr/_media/image/18세기후기_한청문감/70b.jpg</img>
+<sent type="main" lang="kor" page="70b" n="01">엇고 ᄯᅩ ᄇᆞ라다</sent>
+<sent type="main" lang="chi" page="70b" n="02">湊趣</sent>
+<sent type="main" lang="kor" page="70b" n="03">벗 부치다</sent>
+<sent type="main" lang="chi" page="70b" n="04">邊沿</sent>
+<sent type="main" lang="kor" page="70b" n="05">ᄆᆡᆫ ᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="70b" n="06">蹔且</sent>
+<sent type="main" lang="kor" page="70b" n="07">아직</sent>
+<sent type="main" lang="chi" page="70b" n="08">且住</sent>
+<sent type="main" lang="kor" page="70b" n="09">날회라</sent>
+<sent type="main" lang="chi" page="70b" n="10">罷了</sent>
+<sent type="main" lang="kor" page="70b" n="11">ᄯᆞᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="70b" n="12">每</sent>
+<sent type="main" lang="kor" page="70b" n="13">每日每時之每</sent><!--마지막 ‘每’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="70b" n="14">就是那箇</sent>
+<sent type="main" lang="kor" page="70b" n="15">그만 ᄒᆞ여도</sent>
+</pages>
+
+<pages n="71a">
+<img n="71a">https://kohico.kr/_media/image/18세기후기_한청문감/71a.jpg</img>
+<sent type="main" lang="chi" page="71a" n="01">干涉</sent>
+<sent type="main" lang="kor" page="71a" n="02">干涉</sent><!--‘干涉’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="71a" n="03">無干涉</sent>
+<sent type="main" lang="kor" page="71a" n="04">간셥지 아니타</sent>
+<sent type="main" lang="chi" page="71a" n="05">有干涉的</sent>
+<sent type="main" lang="kor" page="71a" n="06">간셥홈이 잇다</sent>
+<sent type="main" lang="chi" page="71a" n="07">那裡</sent>
+<sent type="main" lang="kor" page="71a" n="08">져긔</sent>
+<sent type="main" lang="chi" page="71a" n="09">旣然</sent>
+<sent type="main" lang="kor" page="71a" n="10">임의 그러면</sent>
+<sent type="main" lang="chi" page="71a" n="11">從彼</sent>
+<sent type="main" lang="kor" page="71a" n="12">져부터</sent>
+<sent type="main" lang="chi" page="71a" n="13">況且</sent>
+<sent type="main" lang="kor" page="71a" n="14">ᄒᆞ믈며</sent>
+<sent type="main" lang="chi" page="71a-71b" n="15">盡其所能</sent><!--盡其^所能-->
+</pages>
+
+<pages n="71b">
+<img n="71b">https://kohico.kr/_media/image/18세기후기_한청문감/71b.jpg</img>
+<sent type="main" lang="kor" page="71b" n="01">제 ᄌᆡ조 다 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="71b" n="02">相對</sent>
+<sent type="main" lang="kor" page="71b" n="03">마조</sent>
+<sent type="main" lang="chi" page="71b" n="04">極</sent>
+<sent type="main" lang="kor" page="71b" n="05">극진</sent>
+<sent type="main" lang="chi" page="71b" n="06">要把柄</sent>
+<sent type="main" lang="kor" page="71b" n="07">신실코져 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="71b" n="08">那樣</sent>
+<sent type="main" lang="kor" page="71b" n="09">져럿틋</sent>
+<sent type="main" lang="chi" page="71b" n="10">那樣的</sent>
+<sent type="main" lang="kor" page="71b" n="11">져런 것</sent>
+<sent type="main" lang="chi" page="71b" n="12">由</sent>
+<sent type="main" lang="kor" page="71b" n="13">말ᄆᆡ암아</sent>
+<sent type="main" lang="chi" page="71b" n="14">粧體面</sent>
+<sent type="main" lang="kor" page="71b" n="15">어른스러온 쳬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="71b" n="16">分開</sent>
+<sent type="main" lang="kor" page="71b" n="17">ᄯᅥ나다</sent>
+</pages>
+
+<pages n="72a">
+<img n="72a">https://kohico.kr/_media/image/18세기후기_한청문감/72a.jpg</img>
+<sent type="main" lang="chi" page="72a" n="01">每箇</sent>
+<sent type="main" lang="kor" page="72a" n="02">ᄆᆡ 낫</sent>
+<sent type="main" lang="chi" page="72a" n="03">彼處</sent>
+<sent type="main" lang="kor" page="72a" n="04">져곳</sent>
+<sent type="main" lang="chi" page="72a" n="05">彼處的</sent>
+<sent type="main" lang="kor" page="72a" n="06">져곳 것</sent>
+<sent type="main" lang="chi" page="72a" n="07">景致</sent>
+<sent type="main" lang="kor" page="72a" n="08">景致</sent><!--‘景致’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="72a" n="09">所以</sent>
+<sent type="main" lang="kor" page="72a" n="10">이러모로</sent>
+<sent type="main" lang="chi" page="72a" n="11">往那邊些</sent>
+<sent type="main" lang="kor" page="72a" n="12">져 마작 가라</sent>
+<sent type="main" lang="chi" page="72a" n="13">以外</sent>
+<sent type="main" lang="kor" page="72a" n="14">이밧ᄭᅴ</sent>
+</pages>
+
+<pages n="72b">
+<img n="72b">https://kohico.kr/_media/image/18세기후기_한청문감/72b.jpg</img>
+<sent type="main" lang="chi" page="72b" n="01">原來</sent>
+<sent type="main" lang="kor" page="72b" n="02">샹풍</sent>
+<sent type="main" lang="chi" page="72b" n="03">無了期</sent>
+<sent type="main" lang="kor" page="72b" n="04">긔한 업다</sent>
+<sent type="main" lang="chi" page="72b" n="05">一回</sent>
+<sent type="main" lang="kor" page="72b" n="06">ᄒᆞᆫ 지위</sent>
+<sent type="main" lang="chi" page="72b" n="07">到那時</sent>
+<sent type="main" lang="kor" page="72b" n="08">그 ᄯᅢ에 가 ○ 又 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="72b" n="09">至狠</sent>
+<sent type="main" lang="kor" page="72b" n="10">ᄀᆞ장ᄒᆞ여야</sent>
+</pages>
+
+<pages n="73a">
+<img n="73a">https://kohico.kr/_media/image/18세기후기_한청문감/73a.jpg</img>
+<sent type="main" lang="chi" page="73a" n="01">誠然</sent>
+<sent type="main" lang="kor" page="73a" n="02">진실로</sent>
+<sent type="main" lang="chi" page="73a" n="03">枉然</sent>
+<sent type="main" lang="kor" page="73a" n="04">쇽졀업시</sent>
+<sent type="main" lang="chi" page="73a" n="05">一次</sent>
+<sent type="main" lang="kor" page="73a" n="06">ᄒᆞᆫ 번</sent>
+<sent type="main" lang="chi" page="73a" n="07">碎雜</sent>
+<sent type="main" lang="kor" page="73a" n="08">셰쇄ᄒᆞ고 번잡ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="73a" n="09">純是</sent>
+<sent type="main" lang="kor" page="73a" n="10">슌젼이 ○ 又 ᄲᅮᆫ</sent>
+<sent type="main" lang="chi" page="73a" n="11">從來</sent>
+<sent type="main" lang="kor" page="73a" n="12">본래 ○ 又 부터</sent>
+<sent type="main" lang="chi" page="73a" n="13">任憑</sent>
+<sent type="main" lang="kor" page="73a" n="14">임의</sent>
+<sent type="main" lang="chi" page="73a" n="15">任意</sent>
+<sent type="main" lang="kor" page="73a" n="16">임의로</sent>
+<sent type="main" lang="chi" page="73a" n="17">悄然</sent>
+</pages>
+
+<pages n="73b">
+<img n="73b">https://kohico.kr/_media/image/18세기후기_한청문감/73b.jpg</img>
+<sent type="main" lang="kor" page="73b" n="01">고요</sent>
+<sent type="main" lang="chi" page="73b" n="02">靜悄</sent>
+<sent type="main" lang="kor" page="73b" n="03">고요ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="73b" n="04">爲</sent>
+<sent type="main" lang="kor" page="73b" n="05">爲某事之爲</sent><!--마지막 ‘爲’가 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="73b" n="06">將纔</sent>
+<sent type="main" lang="kor" page="73b" n="07">즉ᄌᆡ</sent>
+<sent type="main" lang="chi" page="73b" n="08">適纔</sent>
+<sent type="main" lang="kor" page="73b" n="09">마ᄌᆞᆷ</sent>
+<sent type="main" lang="chi" page="73b" n="10">牙關勁</sent>
+<sent type="main" lang="kor" page="73b" n="11">말로만 ᄒᆞᆫ다</sent>
+<sent type="main" lang="chi" page="73b" n="12">爭取</sent>
+<sent type="main" lang="kor" page="73b" n="13">ᄃᆞ토와 ᄎᆔᄒᆞ다</sent>
+</pages>
+
+<pages n="74a">
+<img n="74a">https://kohico.kr/_media/image/18세기후기_한청문감/74a.jpg</img>
+<sent type="main" lang="chi" page="74a" n="01">暗暗的</sent>
+<sent type="main" lang="kor" page="74a" n="02">ᄀᆞ만이</sent>
+<sent type="main" lang="kor" page="74a" n="03">可憐意</sent>
+<sent type="main" lang="chi" page="74a" n="04">七大八小</sent>
+<sent type="main" lang="kor" page="74a" n="05">여러 어린 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="74a" n="06">正然</sent>
+<sent type="main" lang="kor" page="74a" n="07">졍히</sent>
+<sent type="main" lang="chi" page="74a" n="08">那個</sent>
+<sent type="main" lang="kor" page="74a" n="09">어늬</sent>
+<sent type="main" lang="chi" page="74a" n="10">果然</sent>
+<sent type="main" lang="kor" page="74a" n="11">果然</sent><!--‘果然’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="74a" n="12">果然了</sent>
+<sent type="main" lang="kor" page="74a" n="13">과연ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="74a" n="14">不定</sent>
+<sent type="main" lang="kor" page="74a" n="15">뎡치 못ᄒᆞ다</sent>
+</pages>
+
+<pages n="74b">
+<img n="74b">https://kohico.kr/_media/image/18세기후기_한청문감/74b.jpg</img>
+<sent type="main" lang="chi" page="74b" n="01">怎麽說</sent>
+<sent type="main" lang="kor" page="74b" n="02">므어시라 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="74b" n="03">粗粗草草</sent>
+<sent type="main" lang="kor" page="74b" n="04">좀쳐로</sent>
+<sent type="main" lang="chi" page="74b" n="05">又</sent>
+<sent type="main" lang="kor" page="74b" n="06">ᄯᅩ</sent>
+<sent type="main" lang="chi" page="74b" n="07">旁岔</sent>
+<sent type="main" lang="kor" page="74b" n="08">겻조치 일</sent>
+<sent type="main" lang="chi" page="74b" n="09">女人行景</sent>
+<sent type="main" lang="kor" page="74b" n="10">계집의 모양</sent>
+<sent type="main" lang="chi" page="74b" n="11">不言不語</sent>
+<sent type="main" lang="kor" page="74b" n="12">말 못 ᄒᆞ다</sent>
+</pages>
+
+<pages n="75a">
+<img n="75a">https://kohico.kr/_media/image/18세기후기_한청문감/75a.jpg</img>
+<sent type="main" lang="chi" page="75a" n="01">要笑鼻翅動</sent>
+<sent type="main" lang="kor" page="75a" n="02">빙긋빙긋</sent>
+<sent type="main" lang="chi" page="75a" n="03">閃爍</sent>
+<sent type="main" lang="kor" page="75a" n="04">閃忽ᄒᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="75a" n="05">至當</sent>
+<sent type="main" lang="kor" page="75a" n="06">至當ᄒᆞ다</sent><!--‘至當’이 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="75a" n="07">替</sent>
+<sent type="main" lang="kor" page="75a" n="08">ᄃᆡ에</sent>
+<sent type="main" lang="chi" page="75a" n="09">胡亂</sent>
+<sent type="main" lang="kor" page="75a" n="10">간대로</sent>
+</pages>
+</doc>
+

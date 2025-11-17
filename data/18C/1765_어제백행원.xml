@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">어제백행원</title>
+<title lang="chi">御製百行原</title>
+<full_name>어제백행원</full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<nikl_name>어제백행원</nikl_name><!--국립국어원(NIKL) 국어 어원사전 편찬 일반서명-->
+<general_name>어제백행원</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name></another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고] ;[디] ;[우] ;[이] ;[표];</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version></version>
+<volume n=""/>
+<author>영조</author>
+<date>1765</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>御製訓書諺解/御製百行源/御製警民音(合本)</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1982</date><!--홍문각 영인본은 서울대 규장각본을 저본으로 삼고 있음.-->
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2015/09/30</date>
+<respStmt>
+<resp>입력자</resp><name>조정아</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>황문환</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/09/10</date>
+<respStmt>
+<resp>입력자</resp><name>김영인</name>
+</respStmt>
+<item>한문 원문 입력</item>
+<respStmt>
+<resp>교정자</resp><name>강서현</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/bookname/01a.jpg</img>
+<img n="한01a">https://kohico.kr/_media/image/bookname/한01a.jpg</img>
+<sent type="title" lang="kor" page="01a" n="1">御製百行原</sent>
+<sent type="main" lang="chi" page="11a" n="2">夫孝者ᄂᆞᆫ 百行之源이니</sent>
+<sent type="main" lang="kor" page="11a" n="2">효ᄂᆞᆫ ᄇᆡᆨᄒᆡᆼ의 근원이니</sent>
+<sent type="main" lang="chi" page="11a" n="3">五倫之中애 孝ㅣ 爲先이라</sent>
+<sent type="main" lang="kor" page="11a" n="3">오륜 가온대 ᄒᆈ 몬져 되ᄂᆞᆫ디라</sent>
+<sent type="main" lang="chi" page="11a" n="4">舜之盛世에도 其猶命契曰</sent>
+<sent type="main" lang="kor" page="11a" n="4">슌의 셩ᄒᆞᆫ ᄯᅢ에도 그 오히려 셜을 명ᄒᆞ야 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="11a" n="5">五品不遜이라ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="11a" n="5">오품이 손치 아니타 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="11a" n="6">五品者ᄂᆞᆫ 卽五倫也ㅣ라</sent>
+<sent type="main" lang="kor" page="11a" n="6">오품은 곳 오륜이라</sent>
+<sent type="main" lang="chi" page="11a-11b" n="7">孟子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="11a-11b" n="7">ᄆᆡᆼᄌᆡ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent><!--ᄋᆞ^샤-->
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/bookname/11b.jpg</img>
+<img n="한11b">https://kohico.kr/_media/image/bookname/한11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="1">人之異於禽獸者ᄂᆞᆫ 以其有五倫也ㅣ라ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="11b" n="1">사ᄅᆞᆷ이 금슈에셔 다름은 그 오륜이 이시므로ᄡᅦ라 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="11b" n="2">顧不重歟아</sent>
+<sent type="main" lang="kor" page="11b" n="2">도라보건대 듕치 아니ᄒᆞ냐</sent>
+<sent type="main" lang="chi" page="11b" n="3">噫라</sent>
+<sent type="main" lang="kor" page="11b" n="3">희라</sent>
+<sent type="main" lang="chi" page="11b" n="4">父兮生我ᄒᆞ시고 母兮鞠我ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="11b" n="4">뷔 나를 나흐시고 뫼 나를 기르시니</sent>
+<sent type="main" lang="chi" page="11b" n="5">嗚呼ㅣ라</sent>
+<sent type="main" lang="kor" page="11b" n="5">오회라</sent>
+<sent type="main" lang="chi" page="11b" n="6">生我鞠我ᄒᆞ시고 愛之撫之ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="11b" n="6">나를 나흐시며 나를 기르시고 ᄉᆞ랑ᄒᆞ시며 어ᄅᆞᄆᆞᆫ지시니</sent>
+<sent type="main" lang="chi" page="11b" n="7">欲報之德인댄 可謂罔涯라</sent>
+<sent type="main" lang="kor" page="11b" n="7">덕을 갑고져 홀진댄 가히 ᄀᆞ이 업다 닐을디라</sent>
+<sent type="main" lang="chi" page="11b" n="8">吁嗟</sent>
+<sent type="main" lang="kor" page="11b" n="8">우차홉다</sent>
+<sent type="main" lang="chi" page="11b" n="9">爲人子者ㅣ 其能報萬一乎아</sent>
+<sent type="main" lang="kor" page="11b" n="9">사ᄅᆞᆷ의 ᄌᆞ식된 쟤 그 능히 만에 ᄒᆞ나흘 갑흐랴</sent>
+<sent type="main" lang="chi" page="11b" n="10">故로 聖稱大孝에 其惟舜也ㅣ시니</sent>
+<sent type="main" lang="kor" page="11b" n="10">고로 셩인이 대효ᄅᆞᆯ 일ᄏᆞᄅᆞ시매 그 오직 슌이시니</sent>
+<sent type="main" lang="chi" page="11b-12a" n="11">黃香之扇枕과 陸績之懷橘과 仲由之負米ᄂᆞᆫ 雖載於日記故事</sent>
+<sent type="main" lang="kor" page="11b-12a" n="11">황향의 벼개 부츰과 뉵젹의 귤을 픔음과 듕유의 ᄡᆞᆯ을 지믄 비록 일긔 고ᄉᆞ의 실녀시나</sent><!--지^믄-->
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/bookname/12a.jpg</img>
+<img n="한12a">https://kohico.kr/_media/image/bookname/한12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="1">而予則曰其猶孝之一事也ㅣ라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="12a" n="1">나ᄂᆞᆫ ᄀᆞᆯᄋᆞᄃᆡ 그 오히려 효의 ᄒᆞᆫ가지 일이라 ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="12a" n="2">閔子騫은 載於三網首篇</sent>
+<sent type="main" lang="kor" page="12a" n="2">민ᄌᆞ건은 삼강ᄒᆡᆼ실 첫 편의 실녓고</sent>
+<sent type="main" lang="chi" page="12a" n="3">而孔聖이 稱曰</sent>
+<sent type="main" lang="kor" page="12a" n="3">공셩이 일ᄏᆞ라 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="12a" n="4">孝哉라 閔子騫이여</sent>
+<sent type="main" lang="kor" page="12a" n="4">효도롭다 민ᄌᆞ건이여</sent>
+<sent type="main" lang="chi" page="12a" n="5">人不間於其父母昆弟之言이라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="12a" n="5">사ᄅᆞᆷ이 그 부모와 곤뎨의 말에 간치 못ᄒᆞᆫ다 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="12a" n="6">吁嗟</sent>
+<sent type="main" lang="kor" page="12a" n="6">우차홉다</sent>
+<sent type="main" lang="chi" page="12a" n="7">爲其子ᄒᆞ야 能思父母之恩ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="12a" n="7">그 ᄌᆞ식이 되야 능히 부모의 은혜ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="12a" n="8">能體父母之心이면</sent>
+<sent type="main" lang="kor" page="12a" n="8">능히 부모의 ᄆᆞᄋᆞᆷ을 톄ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="12a" n="9">人皆可以爲孝子</sent>
+<sent type="main" lang="kor" page="12a" n="9">사ᄅᆞᆷ이 다 가히 ᄡᅥ 효ᄌᆡ 될 거시로되</sent>
+<sent type="main" lang="chi" page="12a" n="10">而噫라</sent>
+<sent type="main" lang="kor" page="12a" n="10">희라</sent>
+<sent type="main" lang="chi" page="12a" n="11">物慾이 誘於前ᄒᆞ고 私意ㅣ라 汨於中ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="12a" n="11">물욕이 압ᄒᆡ 다래고 ᄉᆞ의 가온대 어즈러여</sent>
+<sent type="main" lang="chi" page="12a-12b" n="12">奉親而能孝ᄒᆞ며 永感而能
+思者ㅣ 鮮矣니</sent>
+<sent type="main" lang="kor" page="12a-12b" n="12">봉친ᄒᆞ매 능히 효ᄒᆞ며 영감ᄒᆞ매 능히 ᄉᆡᆼ각ᄒᆞᄂᆞ니 젹으니</sent><!--며 ^ 영-->
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/bookname/12b.jpg</img>
+<img n="한12b">https://kohico.kr/_media/image/bookname/한12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="1">噫라</sent>
+<sent type="main" lang="kor" page="12b" n="1">희라</sent>
+<sent type="main" lang="chi" page="12b" n="2">予言이 其若過也ㅣ면</sent>
+<sent type="main" lang="kor" page="12b" n="2">내 말이 그 만일 과ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="12b" n="3">鄒聖이 豈曰五十而慕者를 予於大舜애 見之乎아ᄒᆞ시리오</sent>
+<sent type="main" lang="kor" page="12b" n="3">추셩【ᄆᆡᆼᄌᆞ】이 엇디 오십에 ᄉᆞ모ᄒᆞ믈 내 대슌의 보왓노라 닐너 겨시리오</sent>
+<sent type="main" lang="chi" page="12b" n="4">噫</sent>
+<sent type="main" lang="kor" page="12b" n="4">희라</sent>
+<sent type="main" lang="chi" page="12b" n="5">暮年自强ᄒᆞ야 欲勵風敎ᅟᅵᆫ댄 捨此何先이리오</sent>
+<sent type="main" lang="kor" page="12b" n="5">모년에 ᄌᆞ강ᄒᆞ야 풍교ᄅᆞᆯ ᄀᆞ다듬고져 홀진댄 이ᄅᆞᆯ ᄇᆞ리고 무어ᄉᆞᆯ 몬져 ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="12b" n="6">今乃洞言ᄒᆞ노니 其須靜聽이어다</sent>
+<sent type="main" lang="kor" page="12b" n="6">이제 이에 통연이 니ᄅᆞᄂᆞ니 그 모롬이 고요히 들을지어다</sent>
+<sent type="main" lang="chi" page="12b" n="7">噫라</sent>
+<sent type="main" lang="kor" page="12b" n="7">희라</sent>
+<sent type="main" lang="chi" page="12b" n="8">毛詩蓼莪章을 篇首애 已揭</sent>
+<sent type="main" lang="kor" page="12b" n="8">모시 륙아쟝을 편슈의 이믜 거러시니</sent>
+<sent type="main" lang="chi" page="12b" n="9">而嗚呼ㅣ라</sent>
+<sent type="main" lang="kor" page="12b" n="9">오회라</sent>
+<sent type="main" lang="chi" page="12b" n="10">非父ㅣ면 何生이며 非母ㅣ면 誰育이리오</sent>
+<sent type="main" lang="kor" page="12b" n="10">뷔 아니면 엇디 나며 뫼 아니면 뉘 기르리오</sent>
+<sent type="main" lang="chi" page="12b-13a" n="11">凡人墮地之後애 七日內保護之恩도 其猶難報ㅣ니</sent>
+<sent type="main" lang="kor" page="12b-13a" n="11">므릇 사ᄅᆞᆷ이 ᄯᅡᄒᆡ ᄯᅥ러진 후에 칠일 안ᄒᆡ 보호ᄒᆞ신 은혜도 그 오히려 갑기 어려오니</sent><!--안^ᄒᆡ-->
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/bookname/13a.jpg</img>
+<img n="한13a">https://kohico.kr/_media/image/bookname/한13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="1">子之三年服衰ᄂᆞᆫ 卽三年免懷之義라</sent>
+<sent type="main" lang="kor" page="13a" n="1">ᄌᆞ식의 삼 년을 최복 닙으믄 곳 삼 년이야 품을 면ᄒᆞᆫ 의라</sent>
+<sent type="main" lang="chi" page="13a" n="2">噫라</sent>
+<sent type="main" lang="kor" page="13a" n="2">희라</sent>
+<sent type="main" lang="chi" page="13a" n="3">雖服三年인ᄃᆞᆯ 亦何報萬一이리오</sent>
+<sent type="main" lang="kor" page="13a" n="3">비록 삼 년을 닙은들 ᄯᅩ 엇디 만에 ᄒᆞ나흘 갑흐리오</sent>
+<sent type="main" lang="chi" page="13a" n="4">能語能步애 親心이 若何ㅣ시며</sent>
+<sent type="main" lang="kor" page="13a" n="4">능히 말ᄒᆞ며 능히 거르매 어버의 ᄆᆞᄋᆞᆷ이 엇더ᄒᆞ시며</sent>
+<sent type="main" lang="chi" page="13a" n="5">成冠成婚애 親心이 尤若何ㅣ시리오</sent>
+<sent type="main" lang="kor" page="13a" n="5">셩관ᄒᆞ며 셩혼ᄒᆞ매 어버의 ᄆᆞᄋᆞᆷ이 더옥 엇더ᄒᆞ시리오</sent>
+<sent type="main" lang="chi" page="13a" n="6">幼時一風一寒애 
+保之護之ㅣㆍ 此正保嬰兒者也ㅣ오</sent>
+<sent type="main" lang="kor" page="13a" n="6">어려실 ᄯᅢ ᄒᆞᆫ ᄇᆞ람과 ᄒᆞᆫ 치위에 보호ᄒᆞ시미 이 졍히 어린 아ᄒᆡᄅᆞᆯ 보ᄒᆞ다 홈이오</sent>
+<sent type="main" lang="chi" page="13a-13b" n="7">及其就傅애 以爲聖爲賢으로 望焉ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13a-13b" n="7">밋 그 스승에 나아가매 셩인이 되며 현인이 되기로ᄡᅥ ᄇᆞ라시며</sent><!--시^며-->
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/bookname/13b.jpg</img>
+<img n="한13b">https://kohico.kr/_media/image/bookname/한13b.jpg</img>
+<sent type="main" lang="chi" page="13b" n="1">及其娶婦애 以子支繁衍望焉ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13b" n="1">밋 그 ᄎᆔ부ᄒᆞ매 ᄌᆞ지 번연ᄒᆞ기로ᄡᅥ ᄇᆞ라시며</sent>
+<sent type="main" lang="chi" page="13b" n="2">於兄弟앤 以和樂且湛으로 望焉ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13b" n="2">형뎨에ᄂᆞᆫ 화락ᄒᆞ고 ᄯᅩ 담ᄒᆞ므로ᄡᅥ ᄇᆞ라시며</sent>
+<sent type="main" lang="chi" page="13b" n="3">於夫婦앤 以如鼓瑟琴으로 望焉ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13b" n="3">부부에ᄂᆞᆫ 슬과 금을 고ᄐᆞᆺ ᄒᆞ므로ᄡᅥ ᄇᆞ라시며</sent>
+<sent type="main" lang="chi" page="13b" n="4">於朋友앤 以得益有信으로 望焉ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="13b" n="4">붕우에ᄂᆞᆫ 익ᄒᆞ니ᄅᆞᆯ 어더 신이 잇기로ᄡᅥ ᄇᆞ라시고</sent>
+<sent type="main" lang="chi" page="13b" n="5">及其爲官也앤 以盡忠事君으로 望焉ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13b" n="5">밋 그 벼ᄉᆞᆯᄒᆞ매ᄂᆞᆫ 튱셩을 다ᄒᆞ야 님금 셤기기로ᄡᅥ ᄇᆞ라시며</sent>
+<sent type="main" lang="chi" page="13b" n="6">及其爲令也앤 以淸謹愛民으로 望焉ᄒᆞ샤</sent>
+<sent type="main" lang="kor" page="13b" n="6">밋 그 슈령 되매ᄂᆞᆫ 쳥념ᄒᆞ며 삼가고 ᄇᆡᆨ셩 ᄉᆞ랑ᄒᆞ므로ᄡᅥ ᄇᆞ라샤</sent>
+<sent type="main" lang="chi" page="13b" n="7">自幼至長히</sent>
+<sent type="main" lang="kor" page="13b" n="7">어려셔브터 ᄌᆞ라기의 니ᄅᆞ히</sent>
+<sent type="main" lang="chi" page="13b" n="8">嗚呼</sent>
+<sent type="main" lang="kor" page="13b" n="8">오회라</sent>
+<sent type="main" lang="chi" page="13b" n="9">其望이 若是之懇ᄒᆞ시ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="13b" n="9">그 ᄇᆞ라시미 이러ᄐᆞ시 ᄀᆞᆫ졀ᄒᆞ시ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="13b" n="10">吁嗟</sent>
+<sent type="main" lang="kor" page="13b" n="10">우차홉다</sent>
+<sent type="main" lang="chi" page="13b-14a" n="11">爲人子者ㅣ 其皆以親心으로 爲己心乎아</sent>
+<sent type="main" lang="kor" page="13b-14a" n="11">사ᄅᆞᆷ의 ᄌᆞ식 되얏ᄂᆞᆫ 쟤 그 다 어버의 ᄆᆞᄋᆞᆷ으로ᄡᅥ 내 ᄆᆞᄋᆞᆷ을 삼ᄂᆞ냐</sent><!--ᄅᆞᆷ^의-->
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/bookname/14a.jpg</img>
+<img n="한14a">https://kohico.kr/_media/image/bookname/한14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="1">予見이 鮮矣며 予聞이 亦鮮矣로라</sent>
+<sent type="main" lang="kor" page="14a" n="1">내 보미 젹으며 내 드르미 ᄯᅩᄒᆞᆫ 젹으롸</sent>
+<sent type="main" lang="chi" page="14a" n="2">噫라</sent>
+<sent type="main" lang="kor" page="14a" n="2">희라</sent>
+<sent type="main" lang="chi" page="14a" n="3">其果以親心으로 爲其心인댄</sent>
+<sent type="main" lang="kor" page="14a" n="3">그 과연 어버의 ᄆᆞᄋᆞᆷ으로ᄡᅥ 내 ᄆᆞᄋᆞᆷ을 삼을진댄</sent>
+<sent type="main" lang="chi" page="14a" n="4">則一動一靜과 一食一息애</sent>
+<sent type="main" lang="kor" page="14a" n="4">곳 일동일졍과 ᄒᆞᆫ 번 먹고 ᄒᆞᆫ 번 쉬매</sent>
+<sent type="main" lang="chi" page="14a" n="5">必也恐或自傷이니</sent>
+<sent type="main" lang="kor" page="14a" n="5">반ᄃᆞ시 혹 스ᄉᆞ로 샹ᄒᆞᆯ가 저허ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="chi" page="14a" n="6">而其若一毫放過ㅣ면 是ᄂᆞᆫ 忘親也ㅣ라</sent>
+<sent type="main" lang="kor" page="14a" n="6">그 만일 일호나 방과ᄒᆞ면 이ᄂᆞᆫ 어버이ᄅᆞᆯ 닛ᄂᆞᆫ 거시라</sent>
+<sent type="main" lang="chi" page="14a" n="7">鄒聖이 豈不云乎아</sent>
+<sent type="main" lang="kor" page="14a" n="7">추셩이 엇지 니ᄅᆞ지 아니ᄒᆞ야 겨시냐</sent>
+<sent type="main" lang="chi" page="14a" n="8">知好色則慕少艾라</sent>
+<sent type="main" lang="kor" page="14a" n="8">ᄉᆡᆨ 죠하ᄒᆞᆯ 줄을 알면 졈고 고온 이ᄅᆞᆯ ᄉᆞ모ᄒᆞᆫ다</sent>
+<sent type="main" lang="chi" page="14a" n="9">ᄒᆞ시니 是乃慾也ㅣ라</sent>
+<sent type="main" lang="kor" page="14a" n="9">ᄒᆞ시니 이 거시 이에 욕심이라</sent>
+<sent type="main" lang="chi" page="14a-14b" n="10">吁嗟</sent>
+<sent type="main" lang="kor" page="14a-14b" n="10">우차홉다</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/bookname/14b.jpg</img>
+<img n="한14b">https://kohico.kr/_media/image/bookname/한14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="1">此時애 果能以親心으로 爲己心否아</sent>
+<sent type="main" lang="kor" page="14b" n="1">이 ᄯᅢ예 과연 능히 어버의 ᄆᆞᄋᆞᆷ으로ᄡᅥ 내 ᄆᆞᄋᆞᆷ을 삼ᄂᆞ냐 아닛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="14b" n="2">且云有妻子則慕妻子ㅣ라ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="14b" n="2">ᄯᅩ 니ᄅᆞ시ᄃᆡ 쳐ᄌᆡ 이시면 쳐ᄌᆞᄅᆞᆯ ᄉᆞ모ᄒᆞᆫ다 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="14b" n="3">噫라</sent>
+<sent type="main" lang="kor" page="14b" n="3">희라</sent>
+<sent type="main" lang="chi" page="14b" n="4">若無其親이면 何以有妻子ㅣ며 亦何有子ㅣ리오</sent>
+<sent type="main" lang="kor" page="14b" n="4">만일 그 어버이 업ᄉᆞ면 엇지 ᄡᅥ 안ᄒᆡ 이시며 ᄯᅩ 엇디 ᄌᆞ식이 이시리오</sent>
+<sent type="main" lang="chi" page="14b" n="5">噫라</sent>
+<sent type="main" lang="kor" page="14b" n="5">희라</sent>
+<sent type="main" lang="chi" page="14b" n="6">慕妻子之時애 其果慕親乎아</sent>
+<sent type="main" lang="kor" page="14b" n="6">쳐ᄌᆞ ᄉᆞ모ᄒᆞᆯ ᄯᅢ예 그 과연 어버이ᄅᆞᆯ ᄉᆞ모ᄒᆞᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="14b" n="7">吁嗟</sent>
+<sent type="main" lang="kor" page="14b" n="7">우차홉다</sent>
+<sent type="main" lang="chi" page="14b" n="8">甚者ᄂᆞᆫ 惑於妻子ᄒᆞ야 有不順其親者ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="14b" n="8">심ᄒᆞᆫ 쟈ᄂᆞᆫ 쳐ᄌᆞ의게 혹ᄒᆞ야 그 어버의게 슌치 아닛ᄂᆞᆫ 쟤 이시니</sent>
+<sent type="main" lang="chi" page="14b" n="9">此正曾子所云</sent>
+<sent type="main" lang="kor" page="14b" n="9">이 졍히 증ᄌᆞ의 니ᄅᆞ신 바</sent>
+<sent type="main" lang="chi" page="14b" n="10">孝衰於妻子와</sent>
+<sent type="main" lang="kor" page="14b" n="10">ᄒᆈ 쳐ᄌᆞ의 쇠ᄒᆞᆫ다 ᄒᆞ심과</sent>
+<sent type="main" lang="chi" page="14b" n="11">柳仲塗所云</sent>
+<sent type="main" lang="kor" page="14b" n="11">뉴듕도의 니ᄅᆞᆫ 바</sent>
+<sent type="main" lang="chi" page="14b-15a" n="12">男子剛腸者幾人이 能不爲婦人言의 所惑者ㅣ라</sent>
+<sent type="main" lang="kor" page="14b-15a" n="12">남ᄌᆞ의 강쟝ᄒᆞᆫ 쟤 몃 사ᄅᆞᆷ이 능히 부인 말의 혹ᄒᆞᆫ 배 되지 아니ᄒᆞ얏ᄂᆞ뇨 호미라</sent><!--몃 ^ 사-->
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/bookname/15a.jpg</img>
+<img n="한15a">https://kohico.kr/_media/image/bookname/한15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="1">凡人之爲子求婦애 其心이 若何오</sent>
+<sent type="main" lang="kor" page="15a" n="1">므릇 사ᄅᆞᆷ이 ᄌᆞ식을 위ᄒᆞ야 며ᄂᆞ리ᄅᆞᆯ 구ᄒᆞ매 그 ᄆᆞᄋᆞᆷ이 엇더ᄒᆞ뇨</sent>
+<sent type="main" lang="chi" page="15a" n="2">擇其門戶ᄒᆞ며 擇其爲人ᄒᆞ야 竭心求之라가</sent>
+<sent type="main" lang="kor" page="15a" n="2">그 문호ᄅᆞᆯ ᄀᆞᆯᄒᆡ며 그 위인을 ᄀᆞᆯᄒᆡ여 그 위인을 ᄆᆞᄋᆞᆷ을 다ᄒᆞ야 구ᄒᆞ다가</sent>
+<sent type="main" lang="chi" page="15a" n="3">及其醮ᄒᆞ얀 而命之曰</sent>
+<sent type="main" lang="kor" page="15a" n="3">밋 그 쵸례ᄒᆞ매 명ᄒᆞ야 ᄀᆞᄅᆞᄃᆡ</sent>
+<sent type="main" lang="chi" page="15a" n="4">往迎爾相ᄒᆞ야 承我宗事ㅣ라ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="15a" n="4">가 네 샹ᄒᆞ리ᄅᆞᆯ 마자 우리 종ᄉᆞᄅᆞᆯ 니으라 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="15a" n="5">以此觀之면 貌雖若黃氏라도 思親心而和之ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="15a" n="5">일로 ᄡᅥ 보면 얼굴이 비록 황시 ᄀᆞᆺ틀지라도 어버의 ᄆᆞᄋᆞᆷ을 ᄉᆡᆼ각ᄒᆞ야 화ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="15a" n="6">性雖不善이라도 至誠開導ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="15a" n="6">셩되 비록 어지지 못ᄒᆞᆯ디라도 ᄌᆡ셩으로 ᄀᆡ도ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="15a-15b" n="7">乃至于順이 卽人子之道也ㅣ어ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="15a-15b" n="7">이에 슌ᄒᆞᆫ ᄃᆡ 니ᄅᆞ미 곳 인ᄌᆞ의 도리어늘</sent><!--니^ᄅᆞ-->
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/bookname/15b.jpg</img>
+<img n="한15b">https://kohico.kr/_media/image/bookname/한15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="1">而不恩其親之苦心ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15b" n="1">그 어버의 고심을 ᄉᆡᆼ각지 아니ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="15b" n="2">其所愛惡ᄅᆞᆯ 一任其慾이면 是可謂孝乎ㅣ며</sent>
+<sent type="main" lang="kor" page="15b" n="2">그 ᄉᆞ랑ᄒᆞ고 아쳐ᄒᆞᄂᆞᆫ 바ᄅᆞᆯ ᄒᆞᆫᄀᆞᆯᄀᆞᆺ치 그 욕심대로 ᄒᆞ면 이 가히 ᄒᆈ라 닐으며</sent>
+<sent type="main" lang="chi" page="15b" n="3">亦有偏聽婦言而同氣不和者ᄒᆞᄂᆞ니 可勝歎哉아</sent>
+<sent type="main" lang="kor" page="15b" n="3">ᄯᅩ 일편되이 계집의 말을 드러 동긔 화치 아닛ᄂᆞᆫ 쟤 잇ᄂᆞ니 가히 탄식ᄒᆞ믈 이긔랴</sent>
+<sent type="main" lang="chi" page="15b" n="4">昔애 蘇瓊이 爲淸河太守애 謂乙普明兄弟曰</sent>
+<sent type="main" lang="kor" page="15b" n="4">녜 소경이 쳥하태슈 되야실제 을보명 형뎨ᄃᆞ려 닐너 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="15b" n="5">世間難得者ᄂᆞᆫ 兄弟라ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="15b" n="5">셰간에 엇기 어려온 거슨 형뎨라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="15b" n="6">噫라</sent>
+<sent type="main" lang="kor" page="15b" n="6">희라</sent>
+<sent type="main" lang="chi" page="15b" n="7">兄弟ᄂᆞᆫ 卽同氣也ㅣ라</sent>
+<sent type="main" lang="kor" page="15b" n="7">형뎨ᄂᆞᆫ 곳 동긔라</sent>
+<sent type="main" lang="chi" page="15b" n="8">以象之日欲殺舜으로도</sent>
+<sent type="main" lang="kor" page="15b" n="8">샹의 날로 슌을 살ᄒᆞ고져 ᄒᆞ므로도</sent>
+<sent type="main" lang="chi" page="15b-16a" n="9">舜이 猶且象喜亦喜ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="15b-16a" n="9">슌이 오히려 ᄯᅩ 샹이 깃거ᄒᆞ면 ᄯᅩᄒᆞᆫ 깃거ᄒᆞ시니</sent><!--면 ^ ᄯᅩ-->
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/bookname/16a.jpg</img>
+<img n="한16a">https://kohico.kr/_media/image/bookname/한16a.jpg</img>
+<sent type="main" lang="chi" page="16a" n="1">況凡人乎ᄠᆞ녀 故로</sent>
+<sent type="main" lang="kor" page="16a" n="1">ᄒᆞ믈며 범인이ᄠᆞ녀 그런고로</sent>
+<sent type="main" lang="chi" page="16a" n="2">牛弘之顔色自若ᄒᆞ야 讀書不輟을 予猶曰</sent>
+<sent type="main" lang="kor" page="16a" n="2">우홍의 안ᄉᆡᆨ이 ᄌᆞ약ᄒᆞ야 글 닑기ᄅᆞᆯ 그치지 아니믈 나ᄂᆞᆫ 오히려 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="16a" n="3">不若其婦之初無是言이라ᄒᆞ노니</sent>
+<sent type="main" lang="kor" page="16a" n="3">그 계집이 처음에 이 말 업ᄉᆞᆷ만 ᄀᆞᆺ지 뭇ᄒᆞ다 ᄒᆞ노니</sent>
+<sent type="main" lang="chi" page="16a" n="4">噫라</sent>
+<sent type="main" lang="kor" page="16a" n="4">희라</sent>
+<sent type="main" lang="chi" page="16a" n="5">以蘇瓊之言으로 推之면</sent>
+<sent type="main" lang="kor" page="16a" n="5">소경의 말로ᄡᅥ 미뢰면</sent>
+<sent type="main" lang="chi" page="16a" n="6">朋友ㅣ 雖在五倫之中이나 其若兄弟乎아</sent>
+<sent type="main" lang="kor" page="16a" n="6">붕위 비록 오륜 가온대 이시나 엇지 형뎨 ᄀᆞᆺᄐᆞ랴</sent>
+<sent type="main" lang="chi" page="16a" n="7">噫라</sent>
+<sent type="main" lang="kor" page="16a" n="7">희라</sent>
+<sent type="main" lang="chi" page="16a" n="8">兄弟ᄂᆞᆫ 一氣分者ㅣ오</sent>
+<sent type="main" lang="kor" page="16a" n="8">형뎨ᄂᆞᆫ ᄒᆞᆫ 긔운으로 ᄂᆞᆫ호이고</sent>
+<sent type="main" lang="chi" page="16a" n="9">朋友ᄂᆞᆫ 以義合者ㅣ니</sent>
+<sent type="main" lang="kor" page="16a" n="9">붕우ᄂᆞᆫ 의로ᄡᅥ 합ᄒᆞ엿ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="16a" n="10">孰重孰輕고</sent>
+<sent type="main" lang="kor" page="16a" n="10">뉘 듕ᄒᆞ며 뉘 경ᄒᆞ뇨</sent>
+<sent type="main" lang="chi" page="16a" n="11">噫라</sent>
+<sent type="main" lang="kor" page="16a" n="11">희라</sent>
+<sent type="main" lang="chi" page="16a" n="12">詩云妻子好合이 如鼓瑟琴ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="16a" n="12">시예 니ᄅᆞᄃᆡ 쳐ᄌᆡ 호합ᄒᆞ미 슬과 금을 고ᄐᆞᆺᄒᆞ며</sent>
+<sent type="main" lang="chi" page="16a-16b" n="13">兄弟旣洽ᄒᆞ야 和樂</sent>
+<sent type="main" lang="kor" page="16a-16b" n="13">형뎨 이믜 흡ᄒᆞ여 화락ᄒᆞ고</sent><!--락^ᄒᆞ-->
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/bookname/16b.jpg</img>
+<img n="한16b">https://kohico.kr/_media/image/bookname/한16b.jpg</img>
+<sent type="main" lang="chi" page="16b" n="1">且湛이라ᄒᆞ야ᄂᆞᆯ 孔聖이 云</sent>
+<sent type="main" lang="kor" page="16b" n="1">ᄯᅩ 담ᄒᆞ다 ᄒᆞ야ᄂᆞᆯ 공셩이 니ᄅᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="2">父母ᄂᆞᆫ 其順矣乎ㅣ신뎌 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="16b" n="2">부모ᄂᆞᆫ 그 슌ᄒᆞ신뎌 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="16b" n="3">予於此애 不覺嗚咽호라</sent>
+<sent type="main" lang="kor" page="16b" n="3">내 이에 오열ᄒᆞ믈 ᄭᆡᄃᆞᆺ지 못호롸</sent>
+<sent type="main" lang="chi" page="16b" n="4">爲人子ᄒᆞ야 使其親으로 其能順乎心이면</sent>
+<sent type="main" lang="kor" page="16b" n="4">인ᄌᆡ 되야 그 어버이로 ᄒᆞ여곰 그 능히 ᄆᆞᄋᆞᆷ의 슌케 ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="16b" n="5">子之爲孝ㅣ 莫大乎此ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="16b" n="5">ᄌᆞ식의 효 되오미 이에셔 크니 업스니</sent>
+<sent type="main" lang="chi" page="16b" n="6">噫라</sent>
+<sent type="main" lang="kor" page="16b" n="6">희라</sent>
+<sent type="main" lang="chi" page="16b" n="7">夫子云</sent>
+<sent type="main" lang="kor" page="16b" n="7">부ᄌᆡ 니ᄅᆞ샤ᄃᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="8">立身揚名ᄒᆞ야 以顯父母ᄂᆞᆫ 孝之終也ㅣ라ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="16b" n="8">닙신양명ᄒᆞ야 ᄡᅥ 부모ᄅᆞᆯ 현케 ᄒᆞ믄 효의 ᄆᆞᄎᆞᆷ이라 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="16b" n="9">於家事親은 卽於國事君之本也ㅣ니</sent>
+<sent type="main" lang="kor" page="16b" n="9">집의 어버이 셤기믄 곳 나라의 님금 셤기ᄋᆞᆸᄂᆞᆫ 본이니</sent>
+<sent type="main" lang="chi" page="16b" n="10">其不能盡忠事君이면</sent>
+<sent type="main" lang="kor" page="16b" n="10">그 능히 튱셩을 다ᄒᆞ야 님금을 셤기옵지 못ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="16b-17a" n="11">亦何能以顯父母乎ㅣ리오</sent>
+<sent type="main" lang="kor" page="16b-17a" n="11">ᄯᅩ 엇지 능히 ᄡᅥ 부모ᄅᆞᆯ 현케 ᄒᆞ리오</sent><!--ᄒᆞ^리-->
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/bookname/17a.jpg</img>
+<img n="한17a">https://kohico.kr/_media/image/bookname/한17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="1">噫라</sent>
+<sent type="main" lang="kor" page="17a" n="1">희라</sent>
+<sent type="main" lang="chi" page="17a" n="2">其爲令果能淸白自守ㅣ면</sent>
+<sent type="main" lang="kor" page="17a" n="2">그 슈령이 되매 과연 능히 쳥ᄇᆡᆨᄒᆞ야 스ᄉᆞ로 직희면</sent>
+<sent type="main" lang="chi" page="17a" n="3">豈徒親心之嘉悅이리오</sent>
+<sent type="main" lang="kor" page="17a" n="3">엇지 ᄒᆞᆫ갓 어버의 ᄆᆞᄋᆞᆷ의 깃거ᄒᆞ실 ᄲᅮᆫ이리오</sent>
+<sent type="main" lang="chi" page="17a" n="4">卽事親事君之一大節也니</sent>
+<sent type="main" lang="kor" page="17a" n="4">곳 어버이 셤기며 님금 셤기옵ᄂᆞᆫ ᄒᆞᆫ 큰 ᄆᆞᄃᆡ니</sent>
+<sent type="main" lang="chi" page="17a" n="5">張子西銘애 豈不云乎아</sent>
+<sent type="main" lang="kor" page="17a" n="5">댱ᄌᆞ셔명의 엇지 아니 닐넛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="17a" n="6">民吾同胞ㅣ오</sent>
+<sent type="main" lang="kor" page="17a" n="6">ᄇᆡᆨ셩은 내 동포요</sent>
+<sent type="main" lang="chi" page="17a" n="7">物吾與也ㅣ라ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="17a" n="7">믈은 나의 예라 ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="17a" n="8">凡人도 猶然이어든</sent>
+<sent type="main" lang="kor" page="17a" n="8">범인도 오히려 그러커든</sent>
+<sent type="main" lang="chi" page="17a" n="9">況宰百里者乎ᄠᆞ녀 其若思其親之望焉ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="17a" n="9">ᄒᆞ믈며 ᄇᆡᆨ니ᄅᆞᆯ ᄌᆡᄒᆞᆫ 쟈ᄠᆞ녀 그 만일 그 어버의 ᄇᆞ람을 ᄉᆡᆼ각ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="17a" n="10">亦若思其君之畀焉이면 孰敢怠也ㅣ며 孰敢忽也ㅣ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="17a" n="10">ᄯᅩ 만일 그 님금의 맛지시믈 ᄉᆡᆼ각ᄒᆞ면 뉘 감히 게어르며 뉘 감히 방홀ᄒᆞ리오마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="17a-17b" n="11">而恒日同胞之心이 不篤故로</sent>
+<sent type="main" lang="kor" page="17a-17b" n="11">ᄒᆞᆼ일에 동포의 ᄆᆞᄋᆞᆷ이 돗갑디 못ᄒᆞᆫ고로</sent><!--포^의-->
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/bookname/17b.jpg</img>
+<img n="한17b">https://kohico.kr/_media/image/bookname/한17b.jpg</img>
+<sent type="main" lang="chi" page="17b" n="1">爲令애 亦不能愛民ᄒᆞᄂᆞ니 可勝惜哉아</sent>
+<sent type="main" lang="kor" page="17b" n="1">슈령 되매 ᄯᅩ 능히 ᄇᆡᆨ셩을 ᄉᆞ랑치 못ᄒᆞᄂᆞ니 가히 앗갑기ᄅᆞᆯ 이긔랴</sent>
+<sent type="main" lang="chi" page="17b" n="2">噫라</sent>
+<sent type="main" lang="kor" page="17b" n="2">희라</sent>
+<sent type="main" lang="chi" page="17b" n="3">生髮이 未燥ᄒᆞ야ᄂᆞᆫ 父母之所愛ㅣ 若此ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="17b" n="3">ᄉᆡᆼ발이 ᄆᆞᄅᆞ지 아니ᄒᆞ야ᄂᆞᆫ 부모의 ᄉᆞ랑ᄒᆞᄂᆞᆫ 배 이 ᄀᆞᆺᄐᆞ시고</sent>
+<sent type="main" lang="chi" page="17b" n="4">及其成長ᄒᆞ야ᄂᆞᆫ 父母之所望이 若此ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="17b" n="4">밋 그 셩댱ᄒᆞ야ᄂᆞᆫ 부모의 ᄇᆞ라ᄂᆞᆫ 배 이 ᄀᆞᆺᄐᆞ시니</sent>
+<sent type="anno" lang="chi" page="17b" n="5">吁嗟ㅣ라</sent>
+<sent type="anno" lang="kor" page="17b" n="5">우차홉다</sent>
+<sent type="anno" lang="chi" page="17b" n="6">予則今已永感이라</sent>
+<sent type="anno" lang="kor" page="17b" n="6">나ᄂᆞᆫ 제 임믜 영감ᄒᆞ엿ᄂᆞᆫ지라</sent>
+<sent type="anno" lang="chi" page="17b" n="7">呼寫于此애 不覺涕被面矣로라</sent>
+<sent type="anno" lang="kor" page="17b" n="7">블너 이ᄅᆞᆯ 쓰이매 톄뤼 ᄂᆞᆺᄎᆡ 닙히믈 ᄭᆡᄃᆞᆺ지 못ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="17b" n="8">以人情言之면 庸常之人이 自爲ᄂᆞᆫ 雖不足이나</sent>
+<sent type="main" lang="kor" page="17b" n="8">인졍으로ᄡᅥ 니르면 용샹ᄒᆞᆫ 사ᄅᆞᆷ이 스ᄉᆞ로 ᄒᆞ기ᄂᆞᆫ 비록 죡히 못ᄒᆞ나</sent>
+<sent type="main" lang="chi" page="17b" n="9">望其子則深焉ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="17b" n="9">그 ᄌᆞ식의게 ᄇᆞ라기ᄂᆞᆫ 깁게 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="17b-18a" n="10">子豈敢怠也ㅣ며 亦豈敢忽也ㅣ리오</sent>
+<sent type="main" lang="kor" page="17b-18a" n="10">ᄌᆞ식이 엇지 감히 게어르며 ᄯᅩ 엇지 감히 방홀ᄒᆞ리오</sent><!--홀^ᄒᆞ-->
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/bookname/18a.jpg</img>
+<img n="한18a">https://kohico.kr/_media/image/bookname/한18a.jpg</img>
+<sent type="main" lang="chi" page="18a" n="1">孟子ㅣ 以惰其四肢로 爲一不孝ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="18a" n="1">ᄆᆡᆼᄌᆡ 그 ᄉᆞ지ᄅᆞᆯ 게어르게 ᄒᆞ므로ᄡᅥ 일불ᄒᆈ라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="18a" n="2">博奕好飮으로 爲二不孝ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="18a" n="2">박혁ᄒᆞ며 호음ᄒᆞ기로 이불ᄒᆈ라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="18a" n="3">好貨財私妻子로 爲三不孝ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="18a" n="3">보화와 ᄌᆡ믈을 죠하ᄒᆞ며 쳐ᄌᆞᄅᆞᆯ ᄉᆞᄉᆞ로이 ᄒᆞ므로 삼불ᄒᆈ라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="18a" n="4">從耳目之慾으로 爲四不孝ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="18a" n="4">이목의 욕심을 방죵ᄒᆞ므로 ᄉᆞ불ᄒᆈ라 ᄒᆞ시고</sent>
+<sent type="main" lang="chi" page="18a" n="5">好勇鬪狠으로 爲五不孝ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="18a" n="5">용ᄆᆡᆼ을 죠히 너겨 ᄡᅡ홈 ᄡᅡ호며 거슯ᄧᅵ므로 오불ᄒᆈ라 ᄒᆞ시니</sent>
+<sent type="main" lang="chi" page="18a" n="6">噫라</sent>
+<sent type="main" lang="kor" page="18a" n="6">희라</sent>
+<sent type="main" lang="chi" page="18a" n="7">惰其四肢면 何能晨省昏定이며</sent>
+<sent type="main" lang="kor" page="18a" n="7">그 ᄉᆞ지ᄅᆞᆯ 게얼니 ᄒᆞ면 엇디 능히 새볘 셩ᄒᆞ고 어두오매 졍ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="18a" n="8">博奕好飮이면 何能奉甘旨며</sent>
+<sent type="main" lang="kor" page="18a" n="8">박혁ᄒᆞ고 호음ᄒᆞ면 엇디 능히 감지ᄅᆞᆯ 밧들며</sent>
+<sent type="main" lang="chi" page="18a-18b" n="9">好貨財私妻子ㅣ면 何能養親志며</sent>
+<sent type="main" lang="kor" page="18a-18b" n="9">보화와 ᄌᆡ믈을 죠하ᄒᆞ고 쳐ᄌᆞᄅᆞᆯ ᄉᆞᄉᆞ로이 ᄒᆞ면 엇디 능히 어버의 ᄠᅳᆺ을 양ᄒᆞ며</sent><!--을 ^ 죠-->
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/bookname/18b.jpg</img>
+<img n="한18b">https://kohico.kr/_media/image/bookname/한18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="1">從耳目之慾이면 何能體親心이며</sent>
+<sent type="main" lang="kor" page="18b" n="1">이목의 욕심을 방죵ᄒᆞ면 엇디 능히 어버의 ᄆᆞᄋᆞᆷ을 톄ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="18b" n="2">好勇鬪狠이면 爲父母僇이 亦極矣라</sent>
+<sent type="main" lang="kor" page="18b" n="2">용ᄆᆡᆼ을 죠히 너겨 ᄡᅡ홈 ᄡᅡ호며 거슯ᄧᅵ면 부모의 욕 되오미 ᄠᅩᄒᆞᆫ 극ᄒᆞᆫ디라</sent><!--‘ᄡᅡ호며’의 ‘ᄡᅡ'가 ‘ᄡᅵ'로 탈획됨.-->
+<sent type="main" lang="chi" page="18b" n="3">嗚呼ㅣ라</sent>
+<sent type="main" lang="kor" page="18b" n="3">오회라</sent>
+<sent type="main" lang="chi" page="18b" n="4">末世之人이 或惑於妻子ᄒᆞ야 不顧其親ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="18b" n="4">말셰 사ᄅᆞᆷ이 혹 쳐ᄌᆞ의게 혹ᄒᆞ야 그 어버이ᄅᆞᆯ 도라보지 아니며</sent>
+<sent type="main" lang="chi" page="18b" n="5">或分門割戶ᄒᆞ야 累及其親ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="18b" n="5">혹 문을 ᄂᆞᆫ호며 호ᄅᆞᆯ 할ᄒᆞ야 그 어버이게 뉘 밋게 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="18b" n="6">或浮囂躁競ᄒᆞ야 貽羞其親ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="18b" n="6">혹 부효ᄒᆞ고 조경ᄒᆞ야 그 어버의게 븟그러오믈 깃치며</sent>
+<sent type="main" lang="chi" page="18b-19a" n="7">或貪財剝民ᄒᆞ야 辱及其親ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="18b-19a" n="7">혹 ᄌᆡ믈을 탐ᄒᆞ고 ᄇᆡᆨ셩을 박할ᄒᆞ야 그 어버의게 욕이 밋게 ᄒᆞ며</sent><!--할^ᄒᆞ-->
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/bookname/19a.jpg</img>
+<img n="한19a">https://kohico.kr/_media/image/bookname/한19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="1">或從時循慾ᄒᆞ야 不思其親ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="19a" n="1">혹 ᄯᅢᄅᆞᆯ ᄯᆞ라 욕심을 좃차 그 어버이ᄅᆞᆯ ᄉᆡᆼ각디 아니ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="chi" page="19a" n="2">予ㅣ 今繼鄒聖之訓ᄒᆞ야 以爲十不孝라 ᄒᆞ노니</sent>
+<sent type="main" lang="kor" page="19a" n="2">내 이제 추셩의 훈을 니어 ᄡᅥ ᄒᆞᄃᆡ 십불ᄒᆈ라 ᄒᆞ노니</sent>
+<sent type="main" lang="chi" page="19a" n="3">噫라</sent>
+<sent type="main" lang="kor" page="19a" n="3">희라</sent>
+<sent type="main" lang="chi" page="19a" n="4">此猶甚者而言이어니와</sent>
+<sent type="main" lang="kor" page="19a" n="4">이 오히려 심ᄒᆞᆫ 쟈ᄅᆞᆯ 니ᄅᆞᆷ이어니와</sent>
+<sent type="main" lang="chi" page="19a" n="5">以常人言之라도 吁嗟ㅣ라</sent>
+<sent type="main" lang="kor" page="19a" n="5">샹인으로ᄡᅥ 니를디라도 우차홉다</sent>
+<sent type="main" lang="chi" page="19a" n="6">親之敎之導之ᄂᆞᆫ 卽至愛之心이언마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="19a" n="6">어버의 ᄀᆞᄅᆞ치며 인도ᄒᆞ믄 곳 지극히 ᄉᆞ랑ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ이언마ᄂᆞᆫ</sent>
+<sent type="main" lang="chi" page="19a" n="7">而其親在也애 未能仰體ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="19a" n="7">그 어버이 이실 제 능히 우러러 톄치 못ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="19a" n="8">嗚呼</sent>
+<sent type="main" lang="kor" page="19a" n="8">오회라</sent>
+<sent type="main" lang="chi" page="19a" n="9">不在也애 反以忘焉ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="19a" n="9">잇지 아니호매 도로혀 ᄡᅥ 닛ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="19a-19b" n="10">昔애 山人李唐이 豈不告乎唐宗가</sent>
+<sent type="main" lang="kor" page="19a-19b" n="10">녜 산인 니당이 엇디 당종ᄭᅴ 고치 아니ᄒᆞ얏ᄂᆞ냐</sent><!--ᄒᆞ^얏-->
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/bookname/19b.jpg</img>
+<img n="한19b">https://kohico.kr/_media/image/bookname/한19b.jpg</img>
+<sent type="main" lang="chi" page="19b" n="1">噫라</sent>
+<sent type="main" lang="kor" page="19b" n="1">희라</sent>
+<sent type="main" lang="chi" page="19b" n="2">受子孫之奉ᄒᆞ고 思昔親之心者를 予則曰鮮矣라 ᄒᆞ노니</sent>
+<sent type="main" lang="kor" page="19b" n="2">ᄌᆞ손의 밧들믈 밧고 녜 어버의 ᄆᆞᄋᆞᆷ을 ᄉᆡᆼ각ᄒᆞᄂᆞᆫ 쟈ᄅᆞᆯ 나ᄂᆞᆫ ᄀᆞᆯ오ᄃᆡ 젹다 ᄒᆞ노니</sent>
+<sent type="main" lang="chi" page="19b" n="3">任其怠惰之際애 其果思親否아</sent>
+<sent type="main" lang="kor" page="19b" n="3">그 게어르믈 임의로 ᄒᆞᆯ 즈음의 그 과연 어버이ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞᄂᆞ냐 아닛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="19b" n="4">子孫이 列前ᄒᆞ야 奉我以娛樂애</sent>
+<sent type="main" lang="kor" page="19b" n="4">ᄌᆞ손이 압ᄒᆡ 버러 나ᄅᆞᆯ 밧드러 ᄡᅥ 즐기게 ᄒᆞᆯ 제</sent>
+<sent type="main" lang="chi" page="19b" n="5">其果思親否아</sent>
+<sent type="main" lang="kor" page="19b" n="5">그 과연 어버이ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞᄂᆞ냐 아닛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="19b" n="6">乘肥馬衣輕裘애</sent>
+<sent type="main" lang="kor" page="19b" n="6">ᄉᆞᆯ진 ᄆᆞᆯ을 ᄐᆞ고 가ᄇᆞ야온 갓옷ᄉᆞᆯ 닙으매</sent>
+<sent type="main" lang="chi" page="19b" n="7">其果思親否아</sent>
+<sent type="main" lang="kor" page="19b" n="7">그 과연 어버이ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞᄂᆞ냐 아닛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="19b" n="8">從時體務奢侈애</sent>
+<sent type="main" lang="kor" page="19b" n="8">시톄ᄅᆞᆯ 조차 샤치ᄅᆞᆯ 힘ᄡᅳ매</sent>
+<sent type="main" lang="chi" page="19b" n="9">其果思親否아</sent>
+<sent type="main" lang="kor" page="19b" n="9">그 과연 어버이ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞᄂᆞ냐 아닛ᄂᆞ냐</sent>
+<sent type="main" lang="chi" page="19b-20a" n="10">予見이 熟矣며 予聞이 多矣로라</sent>
+<sent type="main" lang="kor" page="19b-20a" n="10">내 보미 닉으며 내 드ᄅᆞ미 만호롸</sent><!--미 ^ 닉-->
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/bookname/20a.jpg</img>
+<img n="한20a">https://kohico.kr/_media/image/bookname/한20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="1">噫라</sent>
+<sent type="main" lang="kor" page="20a" n="1">희라</sent>
+<sent type="main" lang="chi" page="20a" n="2">年今望八애 追憶昔年ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="20a" n="2">나히 이제 망괄의 셕년을 ᄠᆞ라 ᄉᆡᆼ각ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="20a" n="3">奚謂他人이리오</sent>
+<sent type="main" lang="kor" page="20a" n="3">엇디 다ᄅᆞᆫ 사ᄅᆞᆷ을 니ᄅᆞ리오</sent>
+<sent type="main" lang="chi" page="20a" n="4">予不能盡者ㅣ 多矣며</sent>
+<sent type="main" lang="kor" page="20a" n="4">내 능히 다 못ᄒᆞ미 만흐며</sent>
+<sent type="main" lang="chi" page="20a" n="5">予不能盡者ㅣ 多矣니</sent>
+<sent type="main" lang="kor" page="20a" n="5">내 능히 다 못ᄒᆞ미 만호니</sent>
+<sent type="main" lang="chi" page="20a" n="6">今雖追悔ᅟᅵᆫ들 其何及哉리오</sent>
+<sent type="main" lang="kor" page="20a" n="6">이제 비록 ᄠᆞ라 뉘웃ᄎᆞᆫ들 그 엇디 밋ᄎᆞ리오</sent>
+<sent type="main" lang="chi" page="20a" n="7">遙望暮雲ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="20a" n="7">멀니 져믄 구ᄅᆞᆷ을 ᄇᆞ라오니</sent>
+<sent type="main" lang="chi" page="20a" n="8">嗚呼</sent>
+<sent type="main" lang="kor" page="20a" n="8">오회라</sent>
+<sent type="main" lang="chi" page="20a" n="9">愈漠ᄒᆞ고 追思靜夜호니</sent>
+<sent type="main" lang="kor" page="20a" n="9">더옥 막연ᄒᆞ고 고요ᄒᆞᆫ 밤의 ᄠᆞ라 ᄉᆡᆼ각ᄒᆞ오니</sent>
+<sent type="main" lang="chi" page="20a" n="10">嗚呼</sent>
+<sent type="main" lang="kor" page="20a" n="10">오회라</sent>
+<sent type="main" lang="chi" page="20a" n="11">抑塞이로라</sent>
+<sent type="main" lang="kor" page="20a" n="11">억ᄉᆡᆨ호롸</sent>
+<sent type="main" lang="chi" page="20a" n="12">孝者ᄂᆞᆫ 百行之源而其旣若此ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="20a" n="12">효ᄂᆞᆫ ᄇᆡᆨᄒᆡᆼ의 근원이어늘 그 이믜 이러ᄐᆞᆺ ᄒᆞ니</sent>
+<sent type="main" lang="chi" page="20a" n="13">寔予不孝ㅣ며 亦予不肖ㅣ라</sent>
+<sent type="main" lang="kor" page="20a" n="13">실로 내 불효ᄒᆞ미며 ᄯᅩᄒᆞᆫ 내 불쵸ᄒᆞ미라</sent>
+<sent type="main" lang="chi" page="20a" n="14">深自歎</sent>
+<sent type="main" lang="kor" page="20a" n="14">깁히 스ᄉᆞ로 탄식ᄒᆞ고</sent>
+<sent type="main" lang="chi" page="20a-20b" n="15">而慨世道ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="20a-20b" n="15">셰도ᄅᆞᆯ 개연ᄒᆞ야</sent><!--도^ᄅᆞᆯ-->
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/bookname/20b.jpg</img>
+<img n="한20b">https://kohico.kr/_media/image/bookname/한20b.jpg</img>
+<sent type="main" lang="chi" page="20b" n="1">作爲一篇ᄒᆞ야 命名百行源이라 ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="20b" n="1">ᄒᆞᆫ 편을 ᄆᆞᆫᄃᆞ라 일홈을 명ᄒᆞ야 ᄇᆡᆨᄒᆡᆼ원이라 ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="20b" n="2">爲爲人子者之龜鑑ᄒᆞ노니</sent>
+<sent type="main" lang="kor" page="20b" n="2">인ᄌᆞ 되얏ᄂᆞᆫ 쟈의 귀감을 삼ᄂᆞ니</sent>
+<sent type="main" lang="chi" page="20b" n="3">言雖淺近ᄒᆞ나 誠由方寸이니</sent>
+<sent type="main" lang="kor" page="20b" n="3">말이 비록 쳔근ᄒᆞ나 진실로 방촌으로 말ᄆᆡ아마시니</sent>
+<sent type="main" lang="chi" page="20b" n="4">後之爲人子弟者ᄂᆞᆫ 其能鑑予而感予言ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="20b" n="4">후의 사ᄅᆞᆷ의 ᄌᆞ뎨 되얏ᄂᆞᆫ 쟈ᄂᆞᆫ 그 능히 나ᄅᆞᆯ 보와 내 말을 감동ᄒᆞ면</sent>
+<sent type="main" lang="chi" page="20b" n="5">庶幾爲必自邇</sent>
+<sent type="main" lang="kor" page="20b" n="5">거의 반ᄃᆞ시 갓가온 ᄃᆡ로브터 ᄒᆞ며</sent>
+<sent type="main" lang="chi" page="20b" n="6">必自卑之一助也夫ᅟᅵᆫ뎌</sent>
+<sent type="main" lang="kor" page="20b" n="6">반ᄃᆞ시 ᄂᆞᄌᆞᆫ ᄃᆡ로브터 ᄒᆞᄂᆞᆫ ᄒᆞᆫ 도음이 될진져</sent>
+<sent type="main" lang="chi" page="20b" n="7">卽阼四十一年七十二歲乙酉仲秋애</sent>
+<sent type="main" lang="kor" page="20b" n="7">즉조ᄒᆞᆫ ᄉᆞ십일 년 칠십이 셴 을유 듕츄에</sent>
+<sent type="main" lang="chi" page="20b-21a" n="8">慕昔而爲世ᄒᆞ야 略述此篇ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="20b-21a" n="8">녜ᄅᆞᆯ ᄉᆞ모ᄒᆞ며 셰샹을 위ᄒᆞ야 냑냑히 이 편을 슐ᄒᆞ노라</sent><!--이 ^ 편-->
+</pages>
+</doc>
+

@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">한청문감</title>
+<title lang="chi">漢淸文鑑</title>
+<full_name>한청문감</full_name>
+<nikl_name>한청문감</nikl_name>
+<general_name>한청문감</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>프랑스MF본</version>
+<volume n="1"/>
+<author></author>
+<date>18세기후기</date><!--1778?-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title></title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/10</date>
+<respStmt>
+<resp>입력자</resp><name>정은진</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/18세기후기_한청문감/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="01">漢淸文鑑券一</sent>
+<sent type="title2" lang="chi" page="01a" n="02">天部 一類</sent>
+<sent type="title3" lang="chi" page="01a" n="03">天文類 七則</sent>
+<sent type="main" lang="chi" page="01a" n="04">天</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="01a" n="04">하ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="01a" n="05">上天</sent>
+<sent type="main" lang="kor" page="01a" n="05">上天</sent><!--'上天'은 반복 부호로 되어 있음-->
+<sent type="main" lang="kor" page="01a" n="06">蒼天</sent>
+<sent type="main" lang="kor" page="01a" n="06">蒼天</sent><!--'蒼天'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01a" n="07">淸天</sent>
+<sent type="main" lang="kor" page="01a" n="07">ᄆᆞᆰ은 하ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="01a" n="08">天氣淸肅</sent>
+<sent type="main" lang="kor" page="01a" n="08">秋天寥廓貌</sent>
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/18세기후기_한청문감/01b.jpg</img>
+<sent type="main" lang="chi" page="01b" n="01">晨光</sent>
+<sent type="main" lang="kor" page="01b" n="01">새벽 빗</sent>
+<sent type="main" lang="chi" page="01b" n="02">晨光現出</sent>
+<sent type="main" lang="kor" page="01b" n="02">새벽 빗 나다</sent>
+<sent type="main" lang="chi" page="01b" n="03">東方明</sent>
+<sent type="main" lang="kor" page="01b" n="03">동 트다</sent>
+<sent type="main" lang="chi" page="01b" n="04">黑朧朧</sent>
+<sent type="main" lang="kor" page="01b" n="04">曉色朦朧貌</sent>
+<sent type="main" lang="chi" page="01b" n="05">黎明</sent>
+<sent type="main" lang="kor" page="01b" n="05">昧爽</sent>
+<sent type="main" lang="chi" page="01b" n="06">天亮</sent>
+<sent type="main" lang="kor" page="01b" n="06">하ᄂᆞᆯ ᄇᆞᆰ다</sent>
+<sent type="main" lang="chi" page="01b" n="07">天大亮</sent>
+<sent type="main" lang="kor" page="01b" n="07">하ᄂᆞᆯ 채 ᄇᆞᆰ다</sent>
+<sent type="main" lang="chi" page="01b" n="08">黃昏</sent>
+<sent type="main" lang="kor" page="01b" n="08">黃昏</sent><!--'黃昏'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="09">天晩</sent>
+<sent type="main" lang="kor" page="01b" n="09">져무다</sent>
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/18세기후기_한청문감/02a.jpg</img>
+<sent type="main" lang="chi" page="02a" n="01">昏暮</sent>
+<sent type="main" lang="kor" page="02a" n="01">어둡다</sent>
+<sent type="main" lang="chi" page="02a" n="02">天河</sent>
+<sent type="main" lang="kor" page="02a" n="02">은하</sent>
+<sent type="main" lang="chi" page="02a" n="03">天涯</sent>
+<sent type="main" lang="kor" page="02a" n="03">하ᄂᆞᆯㅅᄀᆞ</sent>
+<sent type="main" lang="chi" page="02a" n="04">日</sent>
+<sent type="main" lang="kor" page="02a" n="04">ᄒᆡ</sent>
+<sent type="main" lang="chi" page="02a" n="05">光</sent>
+<sent type="main" lang="kor" page="02a" n="05">通稱빗</sent>
+<sent type="main" lang="chi" page="02a" n="06">光耀</sent>
+<sent type="main" lang="kor" page="02a" n="06">凡光彩之照耀者</sent>
+<sent type="main" lang="chi" page="02a" n="07">晴明</sent>
+<sent type="main" lang="kor" page="02a" n="07">일긔 쳥명ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02a" n="08">日光</sent>
+<sent type="main" lang="kor" page="02a" n="08">ᄒᆡㅅ빗</sent>
+<sent type="main" lang="chi" page="02a" n="09">日照</sent>
+<sent type="main" lang="kor" page="02a" n="09">ᄒᆡㅅ빗 ᄡᅩ이다 又 ᄒᆡ 비로소 나다</sent>
+<sent type="main" lang="chi" page="02a-02b" n="10">日光轉射</sent>
+<sent type="main" lang="kor" page="02a-02b" n="10">日光之照此應彼者</sent><!--日光之照此應^彼者-->
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/18세기후기_한청문감/02b.jpg</img>
+<sent type="main" lang="chi" page="02b" n="01">光射</sent>
+<sent type="main" lang="kor" page="02b" n="01">日光之照此應彼者</sent><!--上同-->
+<sent type="main" lang="chi" page="02b" n="02">回光蕩漾</sent>
+<sent type="main" lang="kor" page="02b" n="02">日光之照此應彼者</sent><!--上同-->
+<sent type="main" lang="chi" page="02b" n="03">回光亂動</sent>
+<sent type="main" lang="kor" page="02b" n="03">回光反照動搖不定者</sent>
+<sent type="main" lang="chi" page="02b" n="04">暘</sent>
+<sent type="main" lang="kor" page="02b" n="04">日曬曰暘</sent><!--'暘'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="02b" n="05">日暘</sent>
+<sent type="main" lang="kor" page="02b" n="05">볏 ᄧᅬ여 ᄃᆞᄉᆞᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02b" n="06">日暖</sent>
+<sent type="main" lang="kor" page="02b" n="06">일긔 ᄃᆞᄉᆞᄒᆞ다</sent>
+<sent type="main" lang="chi" page="02b" n="07">陰凉</sent>
+<sent type="main" lang="kor" page="02b" n="07">ᄀᆞ리워 그늘진 ᄃᆡ</sent>
+<sent type="main" lang="chi" page="02b" n="08">背陰</sent>
+<sent type="main" lang="kor" page="02b" n="08">음달</sent>
+</pages> 
+ 
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/18세기후기_한청문감/03a.jpg</img>
+<sent type="main" lang="chi" page="03a" n="01">影</sent>
+<sent type="main" lang="kor" page="03a" n="01">그림자</sent>
+<sent type="main" lang="chi" page="03a" n="02">隙光</sent>
+<sent type="main" lang="kor" page="03a" n="02">틈에 비쵠 ᄒᆡㅅ빗</sent>
+<sent type="main" lang="chi" page="03a" n="03">日出</sent>
+<sent type="main" lang="kor" page="03a" n="03">ᄒᆡ 나다</sent>
+<sent type="main" lang="chi" page="03a" n="04">日升</sent>
+<sent type="main" lang="kor" page="03a" n="04">ᄒᆡ 도다 오ᄅᆞ다</sent>
+<sent type="main" lang="chi" page="03a" n="05">日午</sent>
+<sent type="main" lang="kor" page="03a" n="05">ᄒᆡ 낫 되다</sent>
+<sent type="main" lang="chi" page="03a" n="06">日微斜</sent>
+<sent type="main" lang="kor" page="03a" n="06">ᄒᆡ 젹이 기우다</sent>
+<sent type="main" lang="chi" page="03a" n="07">日大斜</sent>
+<sent type="main" lang="kor" page="03a" n="07">ᄒᆡ 매이 기우다</sent>
+<sent type="main" lang="chi" page="03a" n="08">日平西</sent>
+<sent type="main" lang="kor" page="03a" n="08">ᄒᆡ 셔에 거지다</sent>
+</pages> 
+ 
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/18세기후기_한청문감/03b.jpg</img>
+<sent type="main" lang="chi" page="03b" n="01">日入</sent>
+<sent type="main" lang="kor" page="03b" n="01">ᄒᆡ 지다</sent>
+<sent type="main" lang="chi" page="03b" n="02">日色淡</sent>
+<sent type="main" lang="kor" page="03b" n="02">ᄒᆡㅅ빗 엷다</sent>
+<sent type="main" lang="chi" page="03b" n="03">日珥</sent>
+<sent type="main" lang="kor" page="03b" n="03">ᄒᆡ 귀엿골</sent>
+<sent type="main" lang="chi" page="03b" n="04">日暈</sent>
+<sent type="main" lang="kor" page="03b" n="04">ᄒᆡㅅ모로</sent>
+<sent type="main" lang="chi" page="03b" n="05">日食</sent>
+<sent type="main" lang="kor" page="03b" n="05">日食</sent><!--'日食'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="06">月</sent>
+<sent type="main" lang="kor" page="03b" n="06">ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="03b" n="07">月朗</sent>
+<sent type="main" lang="kor" page="03b" n="07">ᄃᆞᆯ ᄇᆞᆰ다</sent>
+<sent type="main" lang="chi" page="03b" n="08">月暗</sent>
+<sent type="main" lang="kor" page="03b" n="08">ᄃᆞᆯ 흐리다</sent>
+<sent type="main" lang="chi" page="03b" n="09">月芽</sent>
+<sent type="main" lang="kor" page="03b" n="09">초ᄉᆡᆼᄃᆞᆯ</sent>
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/18세기후기_한청문감/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="01">上弦</sent>
+<sent type="main" lang="kor" page="04a" n="01">첫조금</sent>
+<sent type="main" lang="chi" page="04a" n="02">下弦</sent>
+<sent type="main" lang="kor" page="04a" n="02">훗조금</sent>
+<sent type="main" lang="chi" page="04a" n="03">月圓</sent>
+<sent type="main" lang="kor" page="04a" n="03">ᄃᆞᆯ 두렷ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="04a" n="04">月色淡</sent>
+<sent type="main" lang="kor" page="04a" n="04">ᄃᆞᆯ빗 엷다</sent>
+<sent type="main" lang="chi" page="04a" n="05">風曀</sent>
+<sent type="main" lang="kor" page="04a" n="05">有風而日光陰晦謂之風曀</sent><!--'風曀'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="04a" n="06">月暈</sent>
+<sent type="main" lang="kor" page="04a" n="06">ᄃᆞᆯ모로</sent>
+<sent type="main" lang="chi" page="04a" n="07">月食</sent>
+<sent type="main" lang="kor" page="04a" n="07">月食</sent><!--'月食'은 반복 부호로 되어 있음-->
+</pages> 
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/18세기후기_한청문감/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="01">星</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="04b" n="01">별</sent>
+<sent type="main" lang="chi" page="04b" n="02">北辰</sent>
+<sent type="main" lang="kor" page="04b" n="02">樞星</sent>
+<sent type="main" lang="chi" page="04b" n="03">天極星</sent>
+<sent type="main" lang="kor" page="04b" n="03">樞星</sent><!--上同-->
+<sent type="main" lang="chi" page="04b" n="04">帝星</sent>
+<sent type="main" lang="kor" page="04b" n="04">北辰中第二星司日者</sent>
+<sent type="main" lang="chi" page="04b" n="05">太子星</sent>
+<sent type="main" lang="kor" page="04b" n="05">北辰中第一星司月者</sent>
+<sent type="main" lang="chi" page="04b" n="06">景星</sent>
+<sent type="main" lang="kor" page="04b" n="06">샹셔엣 별</sent>
+<sent type="main" lang="chi" page="04b" n="07">七星</sent>
+<sent type="main" lang="kor" page="04b" n="07">七星</sent><!--'七星'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="04b" n="08">北斗</sent>
+<sent type="main" lang="kor" page="04b" n="08">七星</sent><!--上同-->
+<sent type="main" lang="chi" page="04b" n="09">帝車</sent>
+<sent type="main" lang="kor" page="04b" n="09">七星</sent><!--上同-->
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/18세기후기_한청문감/05a.jpg</img>
+<sent type="main" lang="chi" page="05a" n="01">太乙星</sent>
+<sent type="main" lang="kor" page="05a" n="01">北極之第二星 一云天帝星</sent>
+<sent type="main" lang="chi" page="05a" n="02">木星</sent>
+<sent type="main" lang="kor" page="05a" n="02">屬東方司春</sent>
+<sent type="main" lang="chi" page="05a" n="03">火星</sent>
+<sent type="main" lang="kor" page="05a" n="03">屬南方司夏</sent>
+<sent type="main" lang="chi" page="05a" n="04">土星</sent>
+<sent type="main" lang="kor" page="05a" n="04">屬中央司四季各十八日</sent>
+<sent type="main" lang="chi" page="05a" n="05">金星</sent>
+<sent type="main" lang="kor" page="05a" n="05">屬西方司秋 一名太白</sent>
+<sent type="main" lang="chi" page="05a" n="06">水星</sent>
+<sent type="main" lang="kor" page="05a" n="06">屬北方司冬</sent>
+<sent type="main" lang="chi" page="05a" n="07">羅睺星</sent>
+<sent type="main" lang="kor" page="05a" n="07">月之正交中交行者</sent>
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/0918세기후기_한청문감/05b.jpg</img>
+<sent type="main" lang="chi" page="05b" n="01">計都星</sent>
+<sent type="main" lang="kor" page="05b" n="01">與羅睺交行者</sent>
+<sent type="main" lang="chi" page="05b" n="02">亮星</sent>
+<sent type="main" lang="kor" page="05b" n="02">本金星晨見曰亮星</sent><!--'亮星'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="05b" n="03">宿</sent>
+<sent type="main" lang="kor" page="05b" n="03">星之躔次</sent>
+<sent type="main" lang="chi" page="05b" n="04">角</sent>
+<sent type="main" lang="kor" page="05b" n="04">東方七宿之第一屬木</sent>
+<sent type="main" lang="chi" page="05b" n="05">亢</sent>
+<sent type="main" lang="kor" page="05b" n="05">東方之第二宿屬金</sent>
+<sent type="main" lang="chi" page="05b" n="06">氐</sent>
+<sent type="main" lang="kor" page="05b" n="06">東方之第三宿屬土</sent>
+<sent type="main" lang="chi" page="05b" n="07">房</sent>
+<sent type="main" lang="kor" page="05b" n="07">東方之第四宿屬日</sent>
+<sent type="main" lang="chi" page="05b" n="08">心</sent>
+<sent type="main" lang="kor" page="05b" n="08">東方之第五宿屬月</sent>
+</pages> 
+ 
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/18세기후기_한청문감/06a.jpg</img>
+<sent type="main" lang="chi" page="06a" n="01">尾</sent>
+<sent type="main" lang="kor" page="06a" n="01">東方之第六宿屬火</sent>
+<sent type="main" lang="chi" page="06a" n="02">箕</sent>
+<sent type="main" lang="kor" page="06a" n="02">東方之第七宿屬水</sent>
+<sent type="main" lang="chi" page="06a" n="03">斗</sent>
+<sent type="main" lang="kor" page="06a" n="03">北方七宿之第一屬木</sent>
+<sent type="main" lang="chi" page="06a" n="04">牛</sent>
+<sent type="main" lang="kor" page="06a" n="04">北方之第二宿屬金</sent>
+<sent type="main" lang="chi" page="06a" n="05">女</sent>
+<sent type="main" lang="kor" page="06a" n="05">北方之第三宿屬土</sent>
+<sent type="main" lang="chi" page="06a" n="06">虛</sent>
+<sent type="main" lang="kor" page="06a" n="06">北方之第四宿屬日</sent>
+<sent type="main" lang="chi" page="06a" n="07">危</sent>
+<sent type="main" lang="kor" page="06a" n="07">北方之第五宿屬月</sent>
+<sent type="main" lang="chi" page="06a" n="08">室</sent>
+<sent type="main" lang="kor" page="06a" n="08">北方之第六宿屬火</sent>
+</pages> 
+ 
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/18세기후기_한청문감/06b.jpg</img>
+<sent type="main" lang="chi" page="06b" n="01">壁</sent>
+<sent type="main" lang="kor" page="06b" n="01">北方之第七宿屬水 一云紫極</sent>
+<sent type="main" lang="chi" page="06b" n="02">奎</sent>
+<sent type="main" lang="kor" page="06b" n="02">西方七宿之第一屬木</sent>
+<sent type="main" lang="chi" page="06b" n="03">婁</sent>
+<sent type="main" lang="kor" page="06b" n="03">西方之第二宿屬金</sent>
+<sent type="main" lang="chi" page="06b" n="04">胃</sent>
+<sent type="main" lang="kor" page="06b" n="04">西方之第三宿屬土</sent>
+<sent type="main" lang="chi" page="06b" n="05">昴</sent>
+<sent type="main" lang="kor" page="06b" n="05">西方之第四宿屬日</sent>
+<sent type="main" lang="chi" page="06b" n="06">畢</sent>
+<sent type="main" lang="kor" page="06b" n="06">西方之第五宿屬月</sent>
+<sent type="main" lang="chi" page="06b" n="07">觜</sent>
+<sent type="main" lang="kor" page="06b" n="07">西方之第六宿屬火</sent>
+<sent type="main" lang="chi" page="06b" n="08">參</sent>
+<sent type="main" lang="kor" page="06b" n="08">西方之第七宿屬水</sent>
+</pages>
+ 
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/18세기후기_한청문감/07a.jpg</img>
+<sent type="main" lang="chi" page="07a" n="01">井</sent>
+<sent type="main" lang="kor" page="07a" n="01">南方七宿之第一屬木</sent>
+<sent type="main" lang="chi" page="07a" n="02">鬼</sent>
+<sent type="main" lang="kor" page="07a" n="02">南方之第二宿屬金</sent>
+<sent type="main" lang="chi" page="07a" n="03">柳</sent>
+<sent type="main" lang="kor" page="07a" n="03">南方之第三宿屬土</sent>
+<sent type="main" lang="chi" page="07a" n="04">星</sent>
+<sent type="main" lang="kor" page="07a" n="04">南方之第四宿屬日</sent>
+<sent type="main" lang="chi" page="07a" n="05">張</sent>
+<sent type="main" lang="kor" page="07a" n="05">南方之第五宿屬月</sent>
+<sent type="main" lang="chi" page="07a" n="06">翼</sent>
+<sent type="main" lang="kor" page="07a" n="06">南方之第六宿屬火</sent>
+<sent type="main" lang="chi" page="07a" n="07">軫</sent>
+<sent type="main" lang="kor" page="07a" n="07">南方之第七宿屬水</sent>
+<sent type="main" lang="chi" page="07a" n="08">伐星</sent><!--상단에 '三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="07a" n="08">參星內小三星</sent>
+</pages>
+ 
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/18세기후기_한청문감/07b.jpg</img>
+<sent type="main" lang="chi" page="07b" n="01">華蓋</sent>
+<sent type="main" lang="kor" page="07b" n="01">華蓋竝杠爲十六星杠作柄象蓋作傘形以覆帝座者</sent><!--'華蓋'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="07b" n="02">勾陳</sent>
+<sent type="main" lang="kor" page="07b" n="02">共六星在華蓋下大帝所居</sent>
+<sent type="main" lang="chi" page="07b" n="03">騰蛇</sent>
+<sent type="main" lang="kor" page="07b" n="03">共二十二星在室宿上</sent>
+<sent type="main" lang="chi" page="07b" n="04">人星</sent>
+<sent type="main" lang="kor" page="07b" n="04">在銀河傍危宿之上共五星</sent>
+<sent type="main" lang="chi" page="07b" n="05">牽牛</sent>
+<sent type="main" lang="kor" page="07b" n="05">在銀河傍牛宿六星中一星</sent>
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/18세기후기_한청문감/08a.jpg</img>
+<sent type="main" lang="chi" page="08a" n="01">織女</sent>
+<sent type="main" lang="kor" page="08a" n="01">在河鼓上共三星</sent>
+<sent type="main" lang="chi" page="08a" n="02">河鼓</sent>
+<sent type="main" lang="kor" page="08a" n="02">在銀河南共三星</sent>
+<sent type="main" lang="chi" page="08a" n="03">流星</sent>
+<sent type="main" lang="kor" page="08a" n="03">쏘아 가ᄂᆞᆫ 별</sent>
+<sent type="main" lang="chi" page="08a" n="04">彗星</sent>
+<sent type="main" lang="kor" page="08a" n="04">彗星</sent><!--'彗星'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08a" n="05">星光閃灼</sent>
+<sent type="main" lang="kor" page="08a" n="05">별빗 되록되록ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08a" n="06">星密</sent>
+<sent type="main" lang="kor" page="08a" n="06">별 ᄇᆡ다</sent>
+<sent type="main" lang="chi" page="08a" n="07">星稀</sent>
+<sent type="main" lang="kor" page="08a" n="07">별 드므다</sent>
+</pages> 
+ 
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/18세기후기_한청문감/08b.jpg</img>
+<sent type="main" lang="chi" page="08b" n="01">晨星落落</sent>
+<sent type="main" lang="kor" page="08b" n="01">向晨星稀之貌</sent>
+<sent type="main" lang="chi" page="08b" n="02">星移</sent>
+<sent type="main" lang="kor" page="08b" n="02">별 옴다</sent>
+<sent type="main" lang="chi" page="08b" n="03">xingyun 星隕</sent>
+<sent type="main" lang="kor" page="08b" n="03">별 ᄯᅥ러지다</sent>
+<sent type="main" lang="chi" page="08b" n="04">辰</sent>
+<sent type="main" lang="kor" page="08b" n="04">無星而宮度有名之處</sent>
+<sent type="main" lang="chi" page="08b" n="05">紫宮</sent>
+<sent type="main" lang="kor" page="08b" n="05">紫微垣</sent>
+<sent type="main" lang="chi" page="08b" n="06">宮</sent>
+<sent type="main" lang="kor" page="08b" n="06">三十度爲一宮</sent>
+<sent type="main" lang="chi" page="08b" n="07">度</sent>
+<sent type="main" lang="kor" page="08b" n="07">六十分爲一度</sent>
+<sent type="main" lang="chi" page="08b" n="08">雲</sent><!--상단에 '四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="08b" n="08">구룸</sent>
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/18세기후기_한청문감/09a.jpg</img>
+<sent type="main" lang="chi" page="09a" n="01">生雲</sent>
+<sent type="main" lang="kor" page="09a" n="01">구룸 ᄯᅥ기ᄯᅥ기 니러나다</sent>
+<sent type="main" lang="chi" page="09a" n="02">雲布滿</sent>
+<sent type="main" lang="kor" page="09a" n="02">구룸 펴지다</sent>
+<sent type="main" lang="chi" page="09a" n="03">雲花搭</sent>
+<sent type="main" lang="kor" page="09a" n="03">구룸 조각조각 나다</sent>
+<sent type="main" lang="chi" page="09a" n="04">天帶微雲</sent>
+<sent type="main" lang="kor" page="09a" n="04">구룸 약간 잇다</sent>
+<sent type="main" lang="chi" page="09a" n="05">霞</sent>
+<sent type="main" lang="kor" page="09a" n="05">노올</sent>
+<sent type="main" lang="chi" page="09a" n="06">霞彩</sent>
+<sent type="main" lang="kor" page="09a" n="06">노올 지다</sent>
+<sent type="main" lang="chi" page="09a" n="07">陰</sent>
+<sent type="main" lang="kor" page="09a" n="07">운음</sent>
+<sent type="main" lang="chi" page="09a" n="08">陰了</sent>
+<sent type="main" lang="kor" page="09a" n="08">하ᄂᆞᆯ 흐리다</sent>
+<sent type="main" lang="chi" page="09a" n="09">雲磨響</sent>
+<sent type="main" lang="kor" page="09a" n="09">雲密隱雷聲</sent>
+<sent type="main" lang="chi" page="09a-09b" n="10">雲布</sent>
+<sent type="main" lang="kor" page="09a-09b" n="10">구룸 ᄭᆞᆯ리다</sent><!--ᄭᆞᆯ리^다-->
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/18세기후기_한청문감/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="01">彩雲</sent>
+<sent type="main" lang="kor" page="09b" n="01">빗 잇ᄂᆞᆫ 구룸</sent>
+<sent type="main" lang="chi" page="09b" n="02">浮雲</sent>
+<sent type="main" lang="kor" page="09b" n="02">ᄯᅳᆫ 구룸</sent>
+<sent type="main" lang="chi" page="09b" n="03">火燒雲</sent>
+<sent type="main" lang="kor" page="09b" n="03">ᄒᆡᆺ빗 쏘여 븕은 구룸</sent>
+<sent type="main" lang="chi" page="09b" n="04">魚鱗雲</sent>
+<sent type="main" lang="kor" page="09b" n="04">魚鱗 ᄀᆞᆺᄒᆞᆫ 구룸</sent><!--'魚鱗'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="09b" n="05">雲勢油然</sent>
+<sent type="main" lang="kor" page="09b" n="05">雲盛貌</sent>
+<sent type="main" lang="chi" page="09b" n="06">雲屯</sent>
+<sent type="main" lang="kor" page="09b" n="06">구룸 층층이 모힌 것</sent>
+<sent type="main" lang="chi" page="09b" n="07">雲散</sent>
+<sent type="main" lang="kor" page="09b" n="07">구룸 흐터지다</sent>
+<sent type="main" lang="chi" page="09b" n="08">雲收</sent>
+<sent type="main" lang="kor" page="09b" n="08">구룸 것다</sent>
+</pages> 
+ 
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/18세기후기_한청문감/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="01">霧</sent>
+<sent type="main" lang="kor" page="10a" n="01">안개</sent>
+<sent type="main" lang="chi" page="10a" n="02">下霧</sent>
+<sent type="main" lang="kor" page="10a" n="02">안개 지다</sent>
+<sent type="main" lang="chi" page="10a" n="03">霧高起</sent>
+<sent type="main" lang="kor" page="10a" n="03">안개 우흐로 ᄯᅳ다</sent>
+<sent type="main" lang="chi" page="10a" n="04">霧沉</sent>
+<sent type="main" lang="kor" page="10a" n="04">안개 나초 지다</sent>
+<sent type="main" lang="chi" page="10a" n="05">下濃霧</sent>
+<sent type="main" lang="kor" page="10a" n="05">안개 ᄌᆞ옥히 지다</sent>
+<sent type="main" lang="chi" page="10a" n="06">霧收</sent>
+<sent type="main" lang="kor" page="10a" n="06">안개 거두치다</sent>
+<sent type="main" lang="chi" page="10a" n="07">濛氣凝聚</sent>
+<sent type="main" lang="kor" page="10a" n="07">天氣下降地氣上昇凝聚如烟霧而不濕</sent>
+</pages> 
+ 
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/18세기후기_한청문감/10b.jpg</img>
+<sent type="main" lang="chi" page="10b" n="01">雷</sent>
+<sent type="main" lang="kor" page="10b" n="01">우레</sent>
+<sent type="main" lang="chi" page="10b" n="02">雷鳴</sent>
+<sent type="main" lang="kor" page="10b" n="02">우레ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="10b" n="03">轟雷</sent>
+<sent type="main" lang="kor" page="10b" n="03">매오 ᄒᆞᄂᆞᆫ 우레</sent>
+<sent type="main" lang="chi" page="10b" n="04">雷聲不斷</sent>
+<sent type="main" lang="kor" page="10b" n="04">우레 소ᄅᆡ 긋치지 아니타</sent>
+<sent type="main" lang="chi" page="10b" n="05">焦雷</sent>
+<sent type="main" lang="kor" page="10b" n="05">급ᄒᆞᆫ 우레</sent>
+<sent type="main" lang="chi" page="10b" n="06">雷擊</sent>
+<sent type="main" lang="kor" page="10b" n="06">벽녁ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="10b" n="07">電</sent>
+<sent type="main" lang="kor" page="10b" n="07">번게</sent>
+<sent type="main" lang="chi" page="10b" n="08">打閃</sent>
+<sent type="main" lang="kor" page="10b" n="08">번게ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="10b" n="09">電光閃灼</sent>
+<sent type="main" lang="kor" page="10b" n="09">번게 번득번득ᄒᆞ다</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/18세기후기_한청문감/11a.jpg</img>
+<sent type="main" lang="chi" page="11a" n="01">電光微閃</sent>
+<sent type="main" lang="kor" page="11a" n="01">번게 약간 번득이다</sent>
+<sent type="main" lang="chi" page="11a" n="02">露水閃</sent>
+<sent type="main" lang="kor" page="11a" n="02">구룸 뵈지 아니 ᄒᆞ고 먼 곳의 번게 뵈다</sent>
+<sent type="main" lang="chi" page="11a" n="03">雨</sent><!--상단에 '五則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="11a" n="03">비</sent>
+<sent type="main" lang="chi" page="11a" n="04">下雨</sent>
+<sent type="main" lang="kor" page="11a" n="04">비 오다</sent>
+<sent type="main" lang="chi" page="11a" n="05">釀雨</sent>
+<sent type="main" lang="kor" page="11a" n="05">비 빗다</sent>
+<sent type="main" lang="chi" page="11a" n="06">甘雨</sent>
+<sent type="main" lang="kor" page="11a" n="06">時雨</sent>
+<sent type="main" lang="chi" page="11a" n="07">雨點</sent>
+<sent type="main" lang="kor" page="11a" n="07">비ㅅ발</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/18세기후기_한청문감/11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="01">疎雨點點</sent>
+<sent type="main" lang="kor" page="11b" n="01">비 ᄯᅳᆺᄯᅳᆺ다</sent>
+<sent type="main" lang="chi" page="11b" n="02">細雨濛濛</sent>
+<sent type="main" lang="kor" page="11b" n="02">비 는개로 오다</sent>
+<sent type="main" lang="chi" page="11b" n="03">雨陣陣下</sent>
+<sent type="main" lang="kor" page="11b" n="03">비 ᄯᅦᄯᅦ 오다</sent>
+<sent type="main" lang="chi" page="11b" n="04">暴雨</sent>
+<sent type="main" lang="kor" page="11b" n="04">驟雨</sent>
+<sent type="main" lang="chi" page="11b" n="05">帶日下雨</sent>
+<sent type="main" lang="kor" page="11b" n="05">볏 나고 비 오다</sent>
+<sent type="main" lang="chi" page="11b" n="06">微雨</sent>
+<sent type="main" lang="kor" page="11b" n="06">젹이 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="11b" n="07">細雨</sent>
+<sent type="main" lang="kor" page="11b" n="07">ᄀᆞᄂᆞᆫ 비</sent>
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/18세기후기_한청문감/12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="01">雨瀟瀟</sent>
+<sent type="main" lang="kor" page="12a" n="01">비 부ᄉᆞᆯ부ᄉᆞᆯ 오다</sent>
+<sent type="main" lang="chi" page="12a" n="02">雨起泡</sent>
+<sent type="main" lang="kor" page="12a" n="02">비방올 지다</sent>
+<sent type="main" lang="chi" page="12a" n="03">滂沱雨</sent>
+<sent type="main" lang="kor" page="12a" n="03">ᄆᆡ이 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="12a" n="04">盆傾雨</sent>
+<sent type="main" lang="kor" page="12a" n="04">담아 븟듯 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="12a" n="05">大雨如注</sent>
+<sent type="main" lang="kor" page="12a" n="05">大雨如注</sent><!--'大雨如注'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12a" n="06">連陰雨</sent>
+<sent type="main" lang="kor" page="12a" n="06">련ᄒᆞ여 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="12a" n="07">霪雨</sent>
+<sent type="main" lang="kor" page="12a" n="07">쟝마ㅅ비</sent>
+</pages> 
+ 
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/18세기후기_한청문감/12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="01">颼風雨</sent>
+<sent type="main" lang="kor" page="12b" n="01">샤풍에 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="12b" n="02">雨霑足</sent>
+<sent type="main" lang="kor" page="12b" n="02">비 흡죡ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="12b" n="03">雨透</sent>
+<sent type="main" lang="kor" page="12b" n="03">비 ᄉᆞ못다</sent>
+<sent type="main" lang="chi" page="12b" n="04">雨浸潤</sent>
+<sent type="main" lang="kor" page="12b" n="04">비 ᄯᅡᄒᆡ ᄉᆞ못 젓다</sent>
+<sent type="main" lang="chi" page="12b" n="05">雨少停</sent>
+<sent type="main" lang="kor" page="12b" n="05">비 젹이 머즉ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="12b" n="06">陣頭雨</sent>
+<sent type="main" lang="kor" page="12b" n="06">비 갤 즈음에 ᄒᆞᆫ바탕 오ᄂᆞᆫ 비</sent>
+<sent type="main" lang="chi" page="12b" n="07">雨晴</sent>
+<sent type="main" lang="kor" page="12b" n="07">비 개다</sent>
+<sent type="main" lang="chi" page="12b" n="08">假陰天</sent>
+<sent type="main" lang="kor" page="12b" n="08">흐린 날</sent>
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/18세기후기_한청문감/13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="01">晴明天</sent>
+<sent type="main" lang="kor" page="13a" n="01">쳥명ᄒᆞᆫ 날</sent>
+<sent type="main" lang="chi" page="13a" n="02">虹霓</sent>
+<sent type="main" lang="kor" page="13a" n="02">무지게</sent>
+<sent type="main" lang="chi" page="13a" n="03">虹現</sent>
+<sent type="main" lang="kor" page="13a" n="03">무지게 셔다</sent>
+<sent type="main" lang="chi" page="13a" n="04">雲遮虹霓</sent>
+<sent type="main" lang="kor" page="13a" n="04">무지게 희미ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="13a" n="05">虹消</sent>
+<sent type="main" lang="kor" page="13a" n="05">무지게 스다</sent>
+<sent type="main" lang="chi" page="13a" n="06">雹</sent>
+<sent type="main" lang="kor" page="13a" n="06">무뤼</sent>
+<sent type="main" lang="chi" page="13a" n="07">下雹</sent>
+<sent type="main" lang="kor" page="13a" n="07">무뤼 오다</sent>
+<sent type="main" lang="chi" page="13a" n="08">被雹打了</sent>
+<sent type="main" lang="kor" page="13a" n="08">무뤼 맛다</sent>
+</pages> 
+ 
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/18세기후기_한청문감/13b.jpg</img>
+<sent type="main" lang="chi" page="13b" n="01">露</sent><!--상단에 '六則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="13b" n="01">이ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="13b" n="02">下露</sent>
+<sent type="main" lang="kor" page="13b" n="02">이ᄉᆞᆯ ᄂᆞ리다</sent>
+<sent type="main" lang="chi" page="13b" n="03">露凝</sent>
+<sent type="main" lang="kor" page="13b" n="03">이ᄉᆞᆯ 엉긔다</sent>
+<sent type="main" lang="chi" page="13b" n="04">露光閃灼</sent>
+<sent type="main" lang="kor" page="13b" n="04">이ᄉᆞᆯ 빗 번득번득ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="13b" n="05">露珠蕩漾</sent>
+<sent type="main" lang="kor" page="13b" n="05">露珠轉動之貌</sent>
+<sent type="main" lang="chi" page="13b" n="06">甘露</sent>
+<sent type="main" lang="kor" page="13b" n="06">瑞露</sent>
+<sent type="main" lang="chi" page="13b" n="07">白露</sent>
+<sent type="main" lang="kor" page="13b" n="07">秋分前降者</sent>
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/18세기후기_한청문감/14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="01">寒露</sent>
+<sent type="main" lang="kor" page="14a" n="01">秋分後降者</sent>
+<sent type="main" lang="chi" page="14a" n="02">霜</sent>
+<sent type="main" lang="kor" page="14a" n="02">서리</sent>
+<sent type="main" lang="chi" page="14a" n="03">霜降</sent>
+<sent type="main" lang="kor" page="14a" n="03">서리 오다</sent>
+<sent type="main" lang="chi" page="14a" n="04">雪</sent>
+<sent type="main" lang="kor" page="14a" n="04">눈</sent>
+<sent type="main" lang="chi" page="14a" n="05">下雪</sent>
+<sent type="main" lang="kor" page="14a" n="05">눈 오다</sent>
+<sent type="main" lang="chi" page="14a" n="06">雪片</sent>
+<sent type="main" lang="kor" page="14a" n="06">눈송이</sent>
+<sent type="main" lang="chi" page="14a" n="07">風雪有聲</sent>
+<sent type="main" lang="kor" page="14a" n="07">ᄇᆞ람 블며 눈 오다</sent>
+<sent type="main" lang="chi" page="14a" n="08">米心雪</sent>
+<sent type="main" lang="kor" page="14a" n="08">ᄊᆞ눈</sent>
+</pages> 
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/18세기후기_한청문감/14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="01">下米心雪</sent>
+<sent type="main" lang="kor" page="14b" n="01">ᄊᆞ눈 오다</sent>
+<sent type="main" lang="chi" page="14b" n="02">帶日下雪</sent>
+<sent type="main" lang="kor" page="14b" n="02">ᄒᆡ 나고 눈 오다</sent>
+<sent type="main" lang="chi" page="14b" n="03">風雪飄蕩</sent>
+<sent type="main" lang="kor" page="14b" n="03">ᄇᆞ람 블며 눈 ᄂᆞᆯ니다</sent>
+<sent type="main" lang="chi" page="14b" n="04">風揚雪</sent>
+<sent type="main" lang="kor" page="14b" n="04">눈보라 치다</sent>
+<sent type="main" lang="chi" page="14b" n="05">凍雪漫草上</sent>
+<sent type="main" lang="kor" page="14b" n="05">雪覆草上成凍者</sent>
+<sent type="main" lang="chi" page="14b" n="06">簷凌</sent>
+<sent type="main" lang="kor" page="14b" n="06">곳어름</sent>
+<sent type="main" lang="chi" page="14b" n="07">簷冰垂凌</sent>
+<sent type="main" lang="kor" page="14b" n="07">곳어름 지다</sent>
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/18세기후기_한청문감/15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="01">雪上微凍</sent>
+<sent type="main" lang="kor" page="15a" n="01">雪上薄氷</sent>
+<sent type="main" lang="chi" page="15a" n="02">雪浮凍</sent>
+<sent type="main" lang="kor" page="15a" n="02">봄눈 것만 어다</sent>
+<sent type="main" lang="chi" page="15a" n="03">雪面堅凍</sent>
+<sent type="main" lang="kor" page="15a" n="03">눈 우히 ᄃᆞᆫᄃᆞᆫ이 어다</sent>
+<sent type="main" lang="chi" page="15a" n="04">雪融化</sent>
+<sent type="main" lang="kor" page="15a" n="04">눈 녹다</sent>
+<sent type="main" lang="chi" page="15a" n="05">桃花水</sent>
+<sent type="main" lang="kor" page="15a" n="05">눈 녹은 믈</sent>
+<sent type="main" lang="chi" page="15a" n="06">氣</sent><!--상단에 '七則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="15a" n="06">긔운</sent>
+<sent type="main" lang="chi" page="15a" n="07">野馬</sent>
+<sent type="main" lang="kor" page="15a" n="07">地氣上蒸如水如川者</sent>
+</pages> 
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/18세기후기_한청문감/15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="01">靄氣</sent>
+<sent type="main" lang="kor" page="15b" n="01">如野馬而淡淡者</sent>
+<sent type="main" lang="chi" page="15b" n="02">烟氣</sent>
+<sent type="main" lang="kor" page="15b" n="02">凡氣之凝聚圍繞者</sent>
+<sent type="main" lang="chi" page="15b" n="03">烟氣浮布</sent>
+<sent type="main" lang="kor" page="15b" n="03">烟氣 펴지다</sent>
+<sent type="main" lang="chi" page="15b" n="04">寒氣凝結</sent>
+<sent type="main" lang="kor" page="15b" n="04">凡物着寒氣成霜者</sent>
+<sent type="main" lang="chi" page="15b" n="05">寒氣着物凝結</sent>
+<sent type="main" lang="kor" page="15b" n="05">산고ᄃᆡᄒᆞ다</sent>
+<sent type="main" lang="chi" page="15b" n="06">遊絲</sent>
+<sent type="main" lang="kor" page="15b" n="06">아즈랑이</sent>
+<sent type="main" lang="chi" page="15b" n="07">風</sent>
+<sent type="main" lang="kor" page="15b" n="07">ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="15b" n="08">旋風</sent>
+<sent type="main" lang="kor" page="15b" n="08">호로ᄅᆡ ᄇᆞ람</sent>
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/18세기후기_한청문감/16a.jpg</img>
+<sent type="main" lang="chi" page="16a" n="01">烟靄</sent>
+<sent type="main" lang="kor" page="16a" n="01">日落風定之後山水之氣蒸潤而成者</sent>
+<sent type="main" lang="chi" page="16a" n="02">風起</sent>
+<sent type="main" lang="kor" page="16a" n="02">ᄇᆞ람 니다</sent>
+<sent type="main" lang="chi" page="16a" n="03">刮風</sent>
+<sent type="main" lang="kor" page="16a" n="03">ᄇᆞ람 브다</sent>
+<sent type="main" lang="chi" page="16a" n="04">和風</sent>
+<sent type="main" lang="kor" page="16a" n="04">봄ㅅᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16a" n="05">薰風</sent>
+<sent type="main" lang="kor" page="16a" n="05">녀름ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16a" n="06">寒風</sent>
+<sent type="main" lang="kor" page="16a" n="06">ᄎᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16a" n="07">凉風</sent>
+<sent type="main" lang="kor" page="16a" n="07">서ᄂᆞᆯᄒᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16a" n="08">迎風</sent>
+<sent type="main" lang="kor" page="16a" n="08">앏흐로 브ᄂᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16a" n="09">背風</sent>
+<sent type="main" lang="kor" page="16a" n="09">뒤흐로 브ᄂᆞᆫ ᄇᆞ람</sent>
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/18세기후기_한청문감/16b.jpg</img>
+<sent type="main" lang="chi" page="16b" n="01">倒捲風</sent>
+<sent type="main" lang="kor" page="16b" n="01">거두치ᄂᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16b" n="02">大風</sent>
+<sent type="main" lang="kor" page="16b" n="02">큰 ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16b" n="03">微風</sent>
+<sent type="main" lang="kor" page="16b" n="03">젹은 ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16b" n="04">飄風</sent>
+<sent type="main" lang="kor" page="16b" n="04">飄風</sent><!--'飄風'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="16b" n="05">狂風</sent>
+<sent type="main" lang="kor" page="16b" n="05">狂風</sent><!--'狂風'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="16b" n="06">陣陣刮風</sent>
+<sent type="main" lang="kor" page="16b" n="06">ᄯᅦᄯᅦ 브ᄂᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16b" n="07">旁風</sent>
+<sent type="main" lang="kor" page="16b" n="07">ᄒᆞᆫ 편으로 브ᄂᆞᆫ ᄇᆞ람</sent>
+<sent type="main" lang="chi" page="16b" n="08">廻風</sent>
+<sent type="main" lang="kor" page="16b" n="08">ᄉᆞ면으로 브ᄂᆞᆫ ᄇᆞ람</sent>
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/18세기후기_한청문감/17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">風鳴條</sent>
+<sent type="main" lang="kor" page="17a" n="01">ᄇᆞ람 브러 나모 소ᄅᆡ 나다</sent>
+<sent type="main" lang="chi" page="17a" n="02">風頂住</sent>
+<sent type="main" lang="kor" page="17a" n="02">ᄇᆞ람에 마조쳐 머믈리다</sent>
+<sent type="main" lang="chi" page="17a" n="03">風揚塵</sent>
+<sent type="main" lang="kor" page="17a" n="03">ᄇᆞ람에 틧글 니다</sent>
+<sent type="main" lang="chi" page="17a" n="04">風攪沙雪</sent>
+<sent type="main" lang="kor" page="17a" n="04">ᄇᆞ람에 사셜 ᄂᆞᆯ리다</sent>
+<sent type="main" lang="chi" page="17a" n="05">沙被風淤</sent>
+<sent type="main" lang="kor" page="17a" n="05">모ᄅᆡ ᄇᆞ람에 블리여 모히다</sent>
+<sent type="main" lang="chi" page="17a" n="06">風平了</sent>
+<sent type="main" lang="kor" page="17a" n="06">ᄇᆞ람 젹이 머즉ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17a" n="07">風定</sent>
+<sent type="main" lang="kor" page="17a" n="07">ᄇᆞ람 머즉ᄒᆞ다</sent>
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/18세기후기_한청문감/17b.jpg</img>
+<sent type="main" lang="chi" page="17b" n="01">風息</sent>
+<sent type="main" lang="kor" page="17b" n="01">ᄇᆞ람 자다</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/18세기후기_한청문감/18a.jpg</img>
+<sent type="title2" lang="chi" page="18a" n="01">時令部 一類</sent>
+<sent type="title3" lang="chi" page="18a" n="02">時令類 九則</sent>
+<sent type="main" lang="chi" page="18a" n="03">陽</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="18a" n="03">陽</sent><!--'陽'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="04">陰</sent>
+<sent type="main" lang="kor" page="18a" n="04">陰</sent><!--'陰'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="18a" n="05">五行</sent>
+<sent type="main" lang="kor" page="18a" n="05">水火木金土</sent>
+<sent type="main" lang="chi" page="18a" n="06">水</sent>
+<sent type="main" lang="kor" page="18a" n="06">믈</sent>
+<sent type="main" lang="chi" page="18a" n="07">火</sent>
+<sent type="main" lang="kor" page="18a" n="07">블</sent>
+<sent type="main" lang="chi" page="18a" n="08">木</sent>
+<sent type="main" lang="kor" page="18a" n="08">나모</sent>
+<sent type="main" lang="chi" page="18a" n="09">金</sent>
+<sent type="main" lang="kor" page="18a" n="09">쇠</sent>
+<sent type="main" lang="chi" page="18a" n="10">土</sent>
+<sent type="main" lang="kor" page="18a" n="10">ᄒᆞᆰ</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/18세기후기_한청문감/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="01">干</sent>
+<sent type="main" lang="kor" page="18b" n="01">甲乙丙丁戊己庚辛壬癸</sent>
+<sent type="main" lang="chi" page="18b" n="02">甲</sent>
+<sent type="main" lang="kor" page="18b" n="02">干之始</sent>
+<sent type="main" lang="chi" page="18b" n="03">乙</sent>
+<sent type="main" lang="kor" page="18b" n="03">干之第二</sent>
+<sent type="main" lang="chi" page="18b" n="04">丙</sent>
+<sent type="main" lang="kor" page="18b" n="04">干之第三</sent>
+<sent type="main" lang="chi" page="18b" n="05">丁</sent>
+<sent type="main" lang="kor" page="18b" n="05">干之第四</sent>
+<sent type="main" lang="chi" page="18b" n="06">戊</sent>
+<sent type="main" lang="kor" page="18b" n="06">干之第五</sent>
+<sent type="main" lang="chi" page="18b" n="07">己</sent>
+<sent type="main" lang="kor" page="18b" n="07">干之第六</sent>
+<sent type="main" lang="chi" page="18b" n="08">庚</sent>
+<sent type="main" lang="kor" page="18b" n="08">干之第七</sent>
+<sent type="main" lang="chi" page="18b" n="09">辛</sent>
+<sent type="main" lang="kor" page="18b" n="09">干之第八</sent>
+<sent type="main" lang="chi" page="18b" n="10">壬</sent>
+<sent type="main" lang="kor" page="18b" n="10">干之第九</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/18세기후기_한청문감/19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="01">癸</sent>
+<sent type="main" lang="kor" page="19a" n="01">干之終</sent>
+<sent type="main" lang="chi" page="19a" n="02">支</sent>
+<sent type="main" lang="kor" page="19a" n="02">子丑寅卯辰巳午未申酉戌亥</sent>
+<sent type="main" lang="chi" page="19a" n="03">子</sent>
+<sent type="main" lang="kor" page="19a" n="03">支之始</sent>
+<sent type="main" lang="chi" page="19a" n="04">丑</sent>
+<sent type="main" lang="kor" page="19a" n="04">支之第二</sent>
+<sent type="main" lang="chi" page="19a" n="05">寅</sent>
+<sent type="main" lang="kor" page="19a" n="05">支之第三</sent>
+<sent type="main" lang="chi" page="19a" n="06">卯</sent>
+<sent type="main" lang="kor" page="19a" n="06">支之第四</sent>
+<sent type="main" lang="chi" page="19a" n="07">辰</sent>
+<sent type="main" lang="kor" page="19a" n="07">支之第五</sent>
+<sent type="main" lang="chi" page="19a" n="08">巳</sent>
+<sent type="main" lang="kor" page="19a" n="08">支之第六</sent>
+<sent type="main" lang="chi" page="19a" n="09">午</sent>
+<sent type="main" lang="kor" page="19a" n="09">支之第七</sent>
+<sent type="main" lang="chi" page="19a" n="10">未</sent>
+<sent type="main" lang="kor" page="19a" n="10">支之第八</sent>
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/18세기후기_한청문감/19b.jpg</img>
+<sent type="main" lang="chi" page="19b" n="01">申</sent>
+<sent type="main" lang="kor" page="19b" n="01">支之第九</sent>
+<sent type="main" lang="chi" page="19b" n="02">酉</sent>
+<sent type="main" lang="kor" page="19b" n="02">支之第十</sent>
+<sent type="main" lang="chi" page="19b" n="03">戌</sent>
+<sent type="main" lang="kor" page="19b" n="03">支之第十一</sent>
+<sent type="main" lang="chi" page="19b" n="04">亥</sent>
+<sent type="main" lang="kor" page="19b" n="04">支之終</sent>
+<sent type="main" lang="chi" page="19b" n="05">時</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="19b" n="05">彼時此時之時</sent><!--맨 마지막 '時'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="19b" n="06">候</sent>
+<sent type="main" lang="kor" page="19b" n="06">與時字義同</sent>
+<sent type="main" lang="chi" page="19b" n="07">季</sent>
+<sent type="main" lang="kor" page="19b" n="07">與時候義略同</sent>
+<sent type="main" lang="chi" page="19b" n="08">四時</sent>
+<sent type="main" lang="kor" page="19b" n="08">春夏秋冬</sent>
+<sent type="main" lang="chi" page="19b" n="09">四季</sent>
+<sent type="main" lang="kor" page="19b" n="09">四時義同</sent>
+<sent type="main" lang="chi" page="19b" n="10">世</sent>
+<sent type="main" lang="kor" page="19b" n="10">前世後世之世</sent><!--맨 마지막 '世'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/18세기후기_한청문감/20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="01">古</sent>
+<sent type="main" lang="kor" page="20a" n="01">往古</sent>
+<sent type="main" lang="chi" page="20a" n="02">先前</sent>
+<sent type="main" lang="kor" page="20a" n="02">曾前</sent>
+<sent type="main" lang="chi" page="20a" n="03">先</sent>
+<sent type="main" lang="kor" page="20a" n="03">몬져</sent>
+<sent type="main" lang="chi" page="20a" n="04">早已</sent>
+<sent type="main" lang="kor" page="20a" n="04">ᄇᆞᆯ셔</sent>
+<sent type="main" lang="chi" page="20a" n="05">昔</sent>
+<sent type="main" lang="kor" page="20a" n="05">疇昔古昔之昔</sent><!--맨 마지막 '昔'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="20a" n="06">起初</sent>
+<sent type="main" lang="kor" page="20a" n="06">처음</sent>
+<sent type="main" lang="chi" page="20a" n="07">元</sent>
+<sent type="main" lang="kor" page="20a" n="07">元年元月之元</sent><!--맨 마지막 '元'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="20a" n="08">起根</sent>
+<sent type="main" lang="kor" page="20a" n="08">본ᄃᆡ</sent>
+<sent type="main" lang="chi" page="20a" n="09">當初</sent>
+<sent type="main" lang="kor" page="20a" n="09">當初</sent>
+<sent type="main" lang="chi" page="20a" n="10">開首</sent>
+<sent type="main" lang="kor" page="20a" n="10">猶言創開</sent>
+<sent type="main" lang="chi" page="20a" n="11">頭一箇</sent>
+<sent type="main" lang="kor" page="20a" n="11">위두ᄒᆞᆫ 것</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/18세기후기_한청문감/20b.jpg</img>
+<sent type="main" lang="chi" page="20b" n="01">預前</sent>
+<sent type="main" lang="kor" page="20b" n="01">未事之前</sent>
+<sent type="main" lang="chi" page="20b" n="02">預先</sent>
+<sent type="main" lang="kor" page="20b" n="02">미리</sent>
+<sent type="main" lang="chi" page="20b" n="03">預先備用</sent>
+<sent type="main" lang="kor" page="20b" n="03">미리 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20b" n="04">首先</sent>
+<sent type="main" lang="kor" page="20b" n="04">先事之謂</sent>
+<sent type="main" lang="chi" page="20b" n="05">使先</sent>
+<sent type="main" lang="kor" page="20b" n="05">使之先之之意</sent>
+<sent type="main" lang="chi" page="20b" n="06">迭當</sent>
+<sent type="main" lang="kor" page="20b" n="06">겨를ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="20b" n="07">餘暇</sent>
+<sent type="main" lang="kor" page="20b" n="07">겨를</sent>
+<sent type="main" lang="chi" page="20b" n="08">閒空</sent>
+<sent type="main" lang="kor" page="20b" n="08">無事之時</sent>
+<sent type="main" lang="chi" page="20b" n="09">今</sent><!--상단에 '三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="20b" n="09">當今之今</sent><!--마지막 '今'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="20b" n="10">現今</sent>
+<sent type="main" lang="kor" page="20b" n="10">目今</sent>
+<sent type="main" lang="chi" page="20b" n="11">臨時</sent>
+<sent type="main" lang="kor" page="20b" n="11">臨事之際</sent>
+<sent type="main" lang="chi" page="20b-21a" n="12">一向</sent>
+<sent type="main" lang="kor" page="20b-21a" n="12">이즈음</sent><!--이즈^음-->
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/18세기후기_한청문감/21a.jpg</img>
+<sent type="main" lang="chi" page="21a" n="01">機會</sent>
+<sent type="main" lang="kor" page="21a" n="01">事機之會</sent>
+<sent type="main" lang="chi" page="21a" n="02">隨卽</sent>
+<sent type="main" lang="kor" page="21a" n="02">旋卽之義</sent>
+<sent type="main" lang="chi" page="21a" n="03">新近</sent>
+<sent type="main" lang="kor" page="21a" n="03">근간</sent>
+<sent type="main" lang="chi" page="21a" n="04">方纔</sent>
+<sent type="main" lang="kor" page="21a" n="04">ᄀᆞᆺ</sent>
+<sent type="main" lang="chi" page="21a" n="05">纔</sent>
+<sent type="main" lang="kor" page="21a" n="05">이제야</sent>
+<sent type="main" lang="chi" page="21a" n="06">頃刻</sent>
+<sent type="main" lang="kor" page="21a" n="06">져근ᄃᆞᆺ</sent>
+<sent type="main" lang="chi" page="21a" n="07">暫時</sent>
+<sent type="main" lang="kor" page="21a" n="07">잠ᄭᅡᆫ</sent>
+<sent type="main" lang="chi" page="21a" n="08">卽刻</sent>
+<sent type="main" lang="kor" page="21a" n="08">즉시</sent>
+<sent type="main" lang="chi" page="21a" n="09">忽然間</sent>
+<sent type="main" lang="kor" page="21a" n="09">홀연이</sent>
+<sent type="main" lang="chi" page="21a" n="10">猝然</sent>
+<sent type="main" lang="kor" page="21a" n="10">焉遽之意</sent>
+<sent type="main" lang="chi" page="21a" n="11">以來</sent>
+<sent type="main" lang="kor" page="21a" n="11">從來之意</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/18세기후기_한청문감/21b.jpg</img>
+<sent type="main" lang="chi" page="21b" n="01">儘着</sent>
+<sent type="main" lang="kor" page="21b" n="01">잇긋</sent>
+<sent type="main" lang="chi" page="21b" n="02">至今</sent>
+<sent type="main" lang="kor" page="21b" n="02">엿ᄐᆡ</sent>
+<sent type="main" lang="chi" page="21b" n="03">少時</sent>
+<sent type="main" lang="kor" page="21b" n="03">頃刻之意</sent>
+<sent type="main" lang="chi" page="21b" n="04">少遲</sent>
+<sent type="main" lang="kor" page="21b" n="04">지졍여</sent>
+<sent type="main" lang="chi" page="21b" n="05">好一會</sent>
+<sent type="main" lang="kor" page="21b" n="05">良久之意</sent>
+<sent type="main" lang="chi" page="21b" n="06">尙未</sent>
+<sent type="main" lang="kor" page="21b" n="06">못 ᄒᆞ엿다</sent>
+<sent type="main" lang="chi" page="21b" n="07">漸</sent>
+<sent type="main" lang="kor" page="21b" n="07">졈졈</sent>
+<sent type="main" lang="chi" page="21b" n="08">直至</sent>
+<sent type="main" lang="kor" page="21b" n="08">다ᄃᆞᆺ도록</sent>
+<sent type="main" lang="chi" page="21b" n="09">至於</sent>
+<sent type="main" lang="kor" page="21b" n="09">이러토록</sent>
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/18세기후기_한청문감/22a.jpg</img>
+<sent type="main" lang="chi" page="22a" n="01">盡頭</sent>
+<sent type="main" lang="kor" page="22a" n="01">궁진쳐</sent>
+<sent type="main" lang="chi" page="22a" n="02">直到完</sent>
+<sent type="main" lang="kor" page="22a" n="02">ᄆᆞᆺ도록</sent>
+<sent type="main" lang="chi" page="22a" n="03">末尾</sent>
+<sent type="main" lang="kor" page="22a" n="03">ᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="22a" n="04">後來</sent>
+<sent type="main" lang="kor" page="22a" n="04">將來</sent>
+<sent type="main" lang="chi" page="22a" n="05">年</sent><!--상단에 '四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="22a" n="05">年月之年</sent><!--마지막 '年'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22a" n="06">週年</sent>
+<sent type="main" lang="kor" page="22a" n="06">週年</sent><!--'年'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22a" n="07">紀</sent>
+<sent type="main" lang="kor" page="22a" n="07">十二年爲一紀</sent>
+<sent type="main" lang="chi" page="22a" n="08">本命年</sent>
+<sent type="main" lang="kor" page="22a" n="08">환갑 ᄒᆡ</sent>
+<sent type="main" lang="chi" page="22a" n="09">每年</sent>
+<sent type="main" lang="kor" page="22a" n="09">ᄒᆡ마다</sent>
+<sent type="main" lang="chi" page="22a-22b" n="10">經年</sent>
+<sent type="main" lang="kor" page="22a-22b" n="10">閱歲之意</sent><!--閱歲^之意-->
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/18세기후기_한청문감/22b.jpg</img>
+<sent type="main" lang="chi" page="22b" n="01">整年</sent>
+<sent type="main" lang="kor" page="22b" n="01">온ᄒᆡ</sent>
+<sent type="main" lang="chi" page="22b" n="02">屬相年</sent>
+<sent type="main" lang="kor" page="22b" n="02">如子年生者謂之屬鼠之類</sent>
+<sent type="main" lang="chi" page="22b" n="03">某年的</sent>
+<sent type="main" lang="kor" page="22b" n="03">아모 ᄒᆡㅅ것</sent>
+<sent type="main" lang="chi" page="22b" n="04">昔年</sent>
+<sent type="main" lang="kor" page="22b" n="04">녯 ᄒᆡ</sent>
+<sent type="main" lang="chi" page="22b" n="05">前年</sent>
+<sent type="main" lang="kor" page="22b" n="05">그럿긔</sent>
+<sent type="main" lang="chi" page="22b" n="06">去年</sent>
+<sent type="main" lang="kor" page="22b" n="06">上年</sent>
+<sent type="main" lang="chi" page="22b" n="07">今年</sent>
+<sent type="main" lang="kor" page="22b" n="07">올ᄒᆡ</sent>
+<sent type="main" lang="chi" page="22b" n="08">本年</sent>
+<sent type="main" lang="kor" page="22b" n="08">當年</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/18세기후기_한청문감/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="01">明年</sent>
+<sent type="main" lang="kor" page="23a" n="01">래년</sent>
+<sent type="main" lang="chi" page="23a" n="02">後年</sent>
+<sent type="main" lang="kor" page="23a" n="02">後年</sent>
+<sent type="main" lang="chi" page="23a" n="03">富歲</sent>
+<sent type="main" lang="kor" page="23a" n="03">凡物 豊足ᄒᆞᆫ ᄒᆡ</sent>
+<sent type="main" lang="chi" page="23a" n="04">豐年</sent>
+<sent type="main" lang="kor" page="23a" n="04">곡식 잘 된 ᄒᆡ</sent>
+<sent type="main" lang="chi" page="23a" n="05">饑年</sent>
+<sent type="main" lang="kor" page="23a" n="05">凶年</sent>
+<sent type="main" lang="chi" page="23a" n="06">澇</sent>
+<sent type="main" lang="kor" page="23a" n="06">믈 ᄭᅵ이다</sent>
+<sent type="main" lang="chi" page="23a" n="07">旱</sent>
+<sent type="main" lang="kor" page="23a" n="07">ᄀᆞ믈</sent>
+<sent type="main" lang="chi" page="23a" n="08">亢旱</sent>
+<sent type="main" lang="kor" page="23a" n="08">극히 ᄀᆞ므다</sent>
+<sent type="main" lang="chi" page="23a" n="09">春</sent><!--상단에 '五則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="23a" n="09">봄</sent>
+<sent type="main" lang="chi" page="23a" n="10">夏</sent>
+<sent type="main" lang="kor" page="23a" n="10">녀름</sent>
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/18세기후기_한청문감/23b.jpg</img>
+<sent type="main" lang="chi" page="23b" n="01">秋</sent>
+<sent type="main" lang="kor" page="23b" n="01">ᄀᆞᄋᆞᆯ</sent>
+<sent type="main" lang="chi" page="23b" n="02">冬</sent>
+<sent type="main" lang="kor" page="23b" n="02">겨ᄋᆞᆯ</sent>
+<sent type="main" lang="chi" page="23b" n="03">月</sent>
+<sent type="main" lang="kor" page="23b" n="03">年月之月</sent><!--마지막 '月'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="23b" n="04">正月</sent>
+<sent type="main" lang="kor" page="23b" n="04">一歲之首月</sent>
+<sent type="main" lang="chi" page="23b" n="05">十一月</sent>
+<sent type="main" lang="kor" page="23b" n="05">陽生之月</sent>
+<sent type="main" lang="chi" page="23b" n="06">十二月</sent>
+<sent type="main" lang="kor" page="23b" n="06">一歲之終月</sent>
+<sent type="main" lang="chi" page="23b" n="07">月大</sent>
+<sent type="main" lang="kor" page="23b" n="07">ᄃᆞᆯ 크다</sent>
+<sent type="main" lang="chi" page="23b" n="08">月小</sent>
+<sent type="main" lang="kor" page="23b" n="08">ᄃᆞᆯ 젹다</sent>
+<sent type="main" lang="chi" page="23b" n="09">閏月</sent>
+<sent type="main" lang="kor" page="23b" n="09">윤ᄃᆞᆯ</sent>
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/18세기후기_한청문감/24a.jpg</img>
+<sent type="main" lang="chi" page="24a" n="01">月初</sent>
+<sent type="main" lang="kor" page="24a" n="01">초ᄉᆡᆼ</sent>
+<sent type="main" lang="chi" page="24a" n="02">月盡</sent>
+<sent type="main" lang="kor" page="24a" n="02">그믐</sent>
+<sent type="main" lang="chi" page="24a" n="03">月將盡</sent>
+<sent type="main" lang="kor" page="24a" n="03">ᄃᆞᆯ 거의 그므다</sent>
+<sent type="main" lang="chi" page="24a" n="04">每月</sent>
+<sent type="main" lang="kor" page="24a" n="04">每朔</sent>
+<sent type="main" lang="chi" page="24a" n="05">累月</sent>
+<sent type="main" lang="kor" page="24a" n="05">여러 ᄃᆞᆯ포</sent>
+<sent type="main" lang="chi" page="24a" n="06">某月的</sent>
+<sent type="main" lang="kor" page="24a" n="06">아모 ᄃᆞᆯㅅ것</sent>
+<sent type="main" lang="chi" page="24a" n="07">行嫁月</sent>
+<sent type="main" lang="kor" page="24a" n="07">婚娶吉月</sent>
+<sent type="main" lang="chi" page="24a" n="08">往月</sent>
+<sent type="main" lang="kor" page="24a" n="08">旣往之月</sent>
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/18세기후기_한청문감/24b.jpg</img>
+<sent type="main" lang="chi" page="24b" n="01">前月</sent>
+<sent type="main" lang="kor" page="24b" n="01">지지ᄂᆞᆫᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="24b" n="02">上月</sent>
+<sent type="main" lang="kor" page="24b" n="02">去月</sent>
+<sent type="main" lang="chi" page="24b" n="03">新月</sent>
+<sent type="main" lang="kor" page="24b" n="03">새ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="24b" n="04">今月</sent>
+<sent type="main" lang="kor" page="24b" n="04">이ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="24b" n="05">本月</sent>
+<sent type="main" lang="kor" page="24b" n="05">當月</sent>
+<sent type="main" lang="chi" page="24b" n="06">下月</sent>
+<sent type="main" lang="kor" page="24b" n="06">來月</sent>
+<sent type="main" lang="chi" page="24b" n="07">單月</sent>
+<sent type="main" lang="kor" page="24b" n="07">奇數之月卽正月三月之類</sent>
+<sent type="main" lang="chi" page="24b" n="08">雙月</sent>
+<sent type="main" lang="kor" page="24b" n="08">偶數之月卽二月四月之類</sent>
+<sent type="main" lang="chi" page="24b" n="09">日</sent><!--상단에 '六則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="24b" n="09">日子之日</sent><!--마지막 '日'은 반복 부호로 되어 있음-->
+</pages>
+ 
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/18세기후기_한청문감/25a.jpg</img>
+<sent type="main" lang="chi" page="25a" n="01">節令</sent>
+<sent type="main" lang="kor" page="25a" n="01">通稱節目</sent>
+<sent type="main" lang="chi" page="25a" n="02">元朝</sent>
+<sent type="main" lang="kor" page="25a" n="02">正月初一日</sent>
+<sent type="main" lang="chi" page="25a" n="03">上元</sent>
+<sent type="main" lang="kor" page="25a" n="03">正月十五日</sent>
+<sent type="main" lang="chi" page="25a" n="04">上元後一日</sent>
+<sent type="main" lang="kor" page="25a" n="04">正月十六日</sent>
+<sent type="main" lang="chi" page="25a" n="05">二月二日</sent>
+<sent type="main" lang="kor" page="25a" n="05">月日俱當二數故稱爲節日</sent>
+<sent type="main" lang="chi" page="25a" n="06">淸明</sent>
+<sent type="main" lang="kor" page="25a" n="06">冬至後一百六日爲淸明</sent><!--'淸明'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="25a" n="07">端午</sent>
+<sent type="main" lang="kor" page="25a" n="07">五月五日</sent>
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/0918세기후기_한청문감/25b.jpg</img>
+<sent type="main" lang="chi" page="25b" n="01">伏</sent>
+<sent type="main" lang="kor" page="25b" n="01">伏日</sent>
+<sent type="main" lang="chi" page="25b" n="02">七夕</sent>
+<sent type="main" lang="kor" page="25b" n="02">七月七日</sent>
+<sent type="main" lang="chi" page="25b" n="03">中秋</sent>
+<sent type="main" lang="kor" page="25b" n="03">八月十五日</sent>
+<sent type="main" lang="chi" page="25b" n="04">重陽</sent>
+<sent type="main" lang="kor" page="25b" n="04">九月九日</sent>
+<sent type="main" lang="chi" page="25b" n="05">臘八</sent>
+<sent type="main" lang="kor" page="25b" n="05">十二月初八日爲王侯臘</sent>
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/18세기후기_한청문감/26a.jpg</img>
+<sent type="main" lang="chi" page="26a" n="01">除夕</sent>
+<sent type="main" lang="kor" page="26a" n="01">臘月晦日</sent>
+<sent type="main" lang="chi" page="26a" n="02">上朔日</sent>
+<sent type="main" lang="kor" page="26a" n="02">陰陽之德俱空日</sent>
+<sent type="main" lang="chi" page="26a" n="03">昔日</sent>
+<sent type="main" lang="kor" page="26a" n="03">녯날</sent>
+<sent type="main" lang="chi" page="26a" n="04">吉日</sent>
+<sent type="main" lang="kor" page="26a" n="04">길ᄒᆞᆫ 날</sent>
+<sent type="main" lang="chi" page="26a" n="05">凶日</sent>
+<sent type="main" lang="kor" page="26a" n="05">흉ᄒᆞᆫ 날</sent>
+<sent type="main" lang="chi" page="26a" n="06">前日</sent>
+<sent type="main" lang="kor" page="26a" n="06">그저ㅅ긔</sent>
+<sent type="main" lang="chi" page="26a" n="07">昨日</sent>
+<sent type="main" lang="kor" page="26a" n="07">어제</sent>
+<sent type="main" lang="chi" page="26a" n="08">今日</sent>
+<sent type="main" lang="kor" page="26a" n="08">오ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="26a" n="09">本日</sent>
+<sent type="main" lang="kor" page="26a" n="09">當日</sent>
+<sent type="main" lang="chi" page="26a" n="10">明日</sent>
+<sent type="main" lang="kor" page="26a" n="10">ᄅᆡ일</sent>
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/18세기후기_한청문감/26b.jpg</img>
+<sent type="main" lang="chi" page="26b" n="01">後日</sent>
+<sent type="main" lang="kor" page="26b" n="01">모ᄅᆡ</sent>
+<sent type="main" lang="chi" page="26b" n="02">日後</sent>
+<sent type="main" lang="kor" page="26b" n="02">日後</sent><!--'日後'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26b" n="03">每日</sent>
+<sent type="main" lang="kor" page="26b" n="03">每日</sent><!--'每日'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="26b" n="04">初一</sent><!--상단에 '七則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="26b" n="04">초ᄒᆞᄅᆞ</sent>
+<sent type="main" lang="chi" page="26b" n="05">朔日</sent>
+<sent type="main" lang="kor" page="26b" n="05">月光復蘇謂之朔</sent>
+<sent type="main" lang="chi" page="26b" n="06">十五</sent>
+<sent type="main" lang="kor" page="26b" n="06">보롬날</sent>
+<sent type="main" lang="chi" page="26b" n="07">望日</sent>
+<sent type="main" lang="kor" page="26b" n="07">月與日對謂之望</sent>
+<sent type="main" lang="chi" page="26b" n="08">三十</sent>
+<sent type="main" lang="kor" page="26b" n="08">그믐날</sent>
+<sent type="main" lang="chi" page="26b" n="09">早</sent>
+<sent type="main" lang="kor" page="26b" n="09">이ᄅᆞ다</sent>
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/18세기후기_한청문감/27a.jpg</img>
+<sent type="main" lang="chi" page="27a" n="01">早早的</sent>
+<sent type="main" lang="kor" page="27a" n="01">猶云絶早</sent>
+<sent type="main" lang="chi" page="27a" n="02">傍早</sent>
+<sent type="main" lang="kor" page="27a" n="02">일즉이</sent>
+<sent type="main" lang="chi" page="27a" n="03">傍午</sent>
+<sent type="main" lang="kor" page="27a" n="03">나조ㅅ겻</sent>
+<sent type="main" lang="chi" page="27a" n="04">終日</sent>
+<sent type="main" lang="kor" page="27a" n="04">ᄒᆡ 지도록</sent>
+<sent type="main" lang="chi" page="27a" n="05">整日</sent>
+<sent type="main" lang="kor" page="27a" n="05">ᄒᆡ 지도록</sent><!--上同-->
+<sent type="main" lang="chi" page="27a" n="06">傍晩</sent>
+<sent type="main" lang="kor" page="27a" n="06">느즉이</sent>
+<sent type="main" lang="chi" page="27a" n="07">直至晩</sent>
+<sent type="main" lang="kor" page="27a" n="07">져믈게야</sent>
+<sent type="main" lang="chi" page="27a" n="08">將晩</sent>
+<sent type="main" lang="kor" page="27a" n="08">猶言薄暮</sent>
+<sent type="main" lang="chi" page="27a" n="09">晩</sent>
+<sent type="main" lang="kor" page="27a" n="09">져녁</sent>
+<sent type="main" lang="chi" page="27a" n="10">每晩</sent>
+<sent type="main" lang="kor" page="27a" n="10">져녁마다</sent>
+<sent type="main" lang="chi" page="27a" n="11">夜</sent> 
+<sent type="main" lang="kor" page="27a" n="11">밤</sent>
+</pages>
+
+<pages n="27b">
+<img n="27b">https://kohico.kr/_media/image/18세기후기_한청문감/27b.jpg</img>
+<sent type="main" lang="chi" page="27b" n="01">夜半</sent>
+<sent type="main" lang="kor" page="27b" n="01">밤ㅅ즁</sent>
+<sent type="main" lang="chi" page="27b" n="02">整夜</sent>
+<sent type="main" lang="kor" page="27b" n="02">온밤</sent>
+<sent type="main" lang="chi" page="27b" n="03">達朝</sent>
+<sent type="main" lang="kor" page="27b" n="03">ᄇᆞᆰ히다</sent>
+<sent type="main" lang="chi" page="27b" n="04">通宵</sent>
+<sent type="main" lang="kor" page="27b" n="04">ᄇᆞᆰ도록</sent>
+<sent type="main" lang="chi" page="27b" n="05">時辰</sent><!--상단에 '八則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="27b" n="05">通稱ᄯᅢ○八刻爲一時</sent>
+<sent type="main" lang="chi" page="27b" n="06">時時</sent>
+<sent type="main" lang="kor" page="27b" n="06">時時</sent><!--'時時'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="27b" n="07">按時</sent>
+<sent type="main" lang="kor" page="27b" n="07">ᄯᅢ 맛초아</sent>
+<sent type="main" lang="chi" page="27b" n="08">刻</sent>
+<sent type="main" lang="kor" page="27b" n="08">十五分爲一刻</sent>
+<sent type="main" lang="chi" page="27b" n="09">分</sent>
+<sent type="main" lang="kor" page="27b" n="09">六十秒爲一分</sent>
+</pages>
+
+<pages n="28a">
+<img n="28a">https://kohico.kr/_media/image/18세기후기_한청문감/28a.jpg</img>
+<sent type="main" lang="chi" page="28a" n="01">秒</sent>
+<sent type="main" lang="kor" page="28a" n="01">六十微爲一秒</sent>
+<sent type="main" lang="chi" page="28a" n="02">更</sent>
+<sent type="main" lang="kor" page="28a" n="02">更</sent><!--'更'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="28a" n="03">起更</sent>
+<sent type="main" lang="kor" page="28a" n="03">경졈 시작ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28a" n="04">亮鍾</sent>
+<sent type="main" lang="kor" page="28a" n="04">파루</sent>
+<sent type="main" lang="chi" page="28a" n="05">熱</sent>
+<sent type="main" lang="kor" page="28a" n="05">通稱더위</sent>
+<sent type="main" lang="chi" page="28a" n="06">大熱</sent>
+<sent type="main" lang="kor" page="28a" n="06">큰 더위</sent>
+<sent type="main" lang="chi" page="28a" n="07">煩熱</sent>
+<sent type="main" lang="kor" page="28a" n="07">煩熱</sent><!--'煩熱'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="28a" n="08">炎熱</sent>
+<sent type="main" lang="kor" page="28a" n="08">볏 ᄶᅬ여 덥다</sent>
+<sent type="main" lang="chi" page="28a" n="09">焦熱</sent>
+<sent type="main" lang="kor" page="28a" n="09">ᄐᆞᄂᆞᆫ ᄃᆞ시 덥다</sent>
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/18세기후기_한청문감/28b.jpg</img>
+<sent type="main" lang="chi" page="28b" n="01">潮熱</sent>
+<sent type="main" lang="kor" page="28b" n="01">루습히 덥다</sent>
+<sent type="main" lang="chi" page="28b" n="02">悶熱</sent>
+<sent type="main" lang="kor" page="28b" n="02">무덥다</sent>
+<sent type="main" lang="chi" page="28b" n="03">蒸熱</sent>
+<sent type="main" lang="kor" page="28b" n="03">ᄶᅵᄂᆞᆫ ᄃᆞ시 덥다</sent>
+<sent type="main" lang="chi" page="28b" n="04">暖</sent>
+<sent type="main" lang="kor" page="28b" n="04">ᄃᆞᄉᆞᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28b" n="05">寒</sent>
+<sent type="main" lang="kor" page="28b" n="05">通稱 ᄎᆞ다</sent>
+<sent type="main" lang="chi" page="28b" n="06">徹骨寒</sent>
+<sent type="main" lang="kor" page="28b" n="06">ᄲᅧᄭᆞ지 ᄉᆞ못 칩다</sent>
+<sent type="main" lang="chi" page="28b" n="07">凉快</sent>
+<sent type="main" lang="kor" page="28b" n="07">서ᄂᆞᆯᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28b" n="08">亮爽</sent>
+<sent type="main" lang="kor" page="28b" n="08">젹이 서ᄂᆞᆯᄒᆞ다</sent>
+<sent type="main" lang="chi" page="28b" n="09">陰凉</sent>
+<sent type="main" lang="kor" page="28b" n="09">陰凉ᄒᆞ다</sent><!--'陰凉'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/18세기후기_한청문감/29a.jpg</img>
+<sent type="main" lang="chi" page="29a" n="01">上凍時</sent>
+<sent type="main" lang="kor" page="29a" n="01">어름 얼 ᄯᅢ</sent>
+<sent type="main" lang="chi" page="29a" n="02">冷</sent>
+<sent type="main" lang="kor" page="29a" n="02">치위</sent>
+<sent type="main" lang="chi" page="29a" n="03">大冷</sent>
+<sent type="main" lang="kor" page="29a" n="03">큰 치위</sent>
+<sent type="main" lang="chi" page="29a" n="04">嚴寒</sent>
+<sent type="main" lang="kor" page="29a" n="04">극한</sent>
+<sent type="main" lang="chi" page="29a" n="05">bing 冰</sent><!--상단에 '九則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="29a" n="05">通稱어름</sent>
+<sent type="main" lang="chi" page="29a" n="06">冰凍薄凌</sent>
+<sent type="main" lang="kor" page="29a" n="06">어름 지픠려 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29a" n="07">凍</sent>
+<sent type="main" lang="kor" page="29a" n="07">通稱어다</sent>
+<sent type="main" lang="chi" page="29a" n="08">成冰</sent>
+<sent type="main" lang="kor" page="29a" n="08">어름 어다</sent>
+<sent type="main" lang="chi" page="29a" n="09">冰凍成縷</sent>
+<sent type="main" lang="kor" page="29a" n="09">살어름 지다</sent>
+<sent type="main" lang="chi" page="29a-29b" n="10">中流未凍</sent>
+<sent type="main" lang="kor" page="29a-29b" n="10">兩邊成凍中間水流</sent><!--兩邊成凍中間^水流-->
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/18세기후기_한청문감/29b.jpg</img>
+<sent type="main" lang="chi" page="29b" n="01">冰已凍合</sent>
+<sent type="main" lang="kor" page="29b" n="01">合冰ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="29b" n="02">冰結成渡</sent>
+<sent type="main" lang="kor" page="29b" n="02">어름 어러 ᄐᆞ게 되다</sent>
+<sent type="main" lang="chi" page="29b" n="03">忽然凍嚴</sent>
+<sent type="main" lang="kor" page="29b" n="03">급히 어다</sent>
+<sent type="main" lang="chi" page="29b" n="04">冰凍結實</sent>
+<sent type="main" lang="kor" page="29b" n="04">어름 굿다</sent>
+<sent type="main" lang="chi" page="29b" n="05">冰凍極堅</sent>
+<sent type="main" lang="kor" page="29b" n="05">어름 ᄆᆡ이 굿다</sent>
+<sent type="main" lang="chi" page="29b" n="06">冰裂成紋</sent>
+<sent type="main" lang="kor" page="29b" n="06">어름 터져 금나다</sent>
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/18세기후기_한청문감/30a.jpg</img>
+<sent type="main" lang="chi" page="30a" n="01">冰凍裂</sent>
+<sent type="main" lang="kor" page="30a" n="01">어름 어러 터지다</sent>
+<sent type="main" lang="chi" page="30a" n="02">冰裂到底</sent>
+<sent type="main" lang="kor" page="30a" n="02">어름 ᄇᆡ어러 터지다</sent>
+<sent type="main" lang="chi" page="30a" n="03">冰凍鼓起</sent>
+<sent type="main" lang="kor" page="30a" n="03">어름 어러 두두러지다</sent>
+<sent type="main" lang="chi" page="30a" n="04">冰凍成岡</sent>
+<sent type="main" lang="kor" page="30a" n="04">冰凍成岡</sent><!--'冰凍成岡'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30a" n="05">冰凍到底</sent>
+<sent type="main" lang="kor" page="30a" n="05">어름 ᄇᆡ어다</sent>
+<sent type="main" lang="chi" page="30a" n="06">冰凍成凌</sent>
+<sent type="main" lang="kor" page="30a" n="06">어름 어러 성에 지다</sent>
+<sent type="main" lang="chi" page="30a" n="07">漫流積凍</sent>
+<sent type="main" lang="kor" page="30a" n="07">덧어름 지다</sent>
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/18세기후기_한청문감/30b.jpg</img>
+<sent type="main" lang="chi" page="30b" n="01">冰窟窿</sent>
+<sent type="main" lang="kor" page="30b" n="01">어름 구무</sent>
+<sent type="main" lang="chi" page="30b" n="02">冰酥</sent>
+<sent type="main" lang="kor" page="30b" n="02">어름 서벅서벅ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="30b" n="03">淹凌水</sent>
+<sent type="main" lang="kor" page="30b" n="03">氷上流水</sent>
+<sent type="main" lang="chi" page="30b" n="04">冰化成凌</sent>
+<sent type="main" lang="kor" page="30b" n="04">어름 녹아 각퀴 지다</sent>
+<sent type="main" lang="chi" page="30b" n="05">冰化碎孔</sent>
+<sent type="main" lang="kor" page="30b" n="05">어름 녹아 구무 지다</sent>
+<sent type="main" lang="chi" page="30b" n="06">冰已酥透</sent>
+<sent type="main" lang="kor" page="30b" n="06">어름 밋ᄭᆞ지 서벅서벅ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="30b" n="07">流澌</sent>
+<sent type="main" lang="kor" page="30b" n="07">성에 흐르다</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/18세기후기_한청문감/31a.jpg</img>
+<sent type="main" lang="chi" page="31a" n="01">冰凌相觸</sent>
+<sent type="main" lang="kor" page="31a" n="01">성에 조각이 서ᄅᆞ 다질리다</sent>
+<sent type="main" lang="chi" page="31a" n="02">冰凌凝聚</sent>
+<sent type="main" lang="kor" page="31a" n="02">성에 모혀 엉긔다</sent>
+<sent type="main" lang="chi" page="31a" n="03">冰解</sent>
+<sent type="main" lang="kor" page="31a" n="03">어름 플리다</sent>
+<sent type="main" lang="chi" page="31a" n="04">融化</sent>
+<sent type="main" lang="kor" page="31a" n="04">通稱녹다</sent>
+<sent type="main" lang="chi" page="31a" n="05">化動了</sent>
+<sent type="main" lang="kor" page="31a" n="05">通稱녹아가다</sent>
+<sent type="main" lang="chi" page="31a" n="06">冰融化了</sent>
+<sent type="main" lang="kor" page="31a" n="06">어름 녹다</sent>
+<sent type="main" lang="chi" page="31a" n="07">化成水</sent>
+<sent type="main" lang="kor" page="31a" n="07">氷雪이 녹아 믈 되다</sent>
+<sent type="main" lang="chi" page="31a" n="08">冰滑處</sent>
+<sent type="main" lang="kor" page="31a" n="08">넌테</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/18세기후기_한청문감/31b.jpg</img>
+<sent type="main" lang="chi" page="31b" n="01">浮面微化</sent>
+<sent type="main" lang="kor" page="31b" n="01">것만 녹다</sent>
+<sent type="main" lang="chi" page="31b" n="02">地未化透</sent>
+<sent type="main" lang="kor" page="31b" n="02">ᄯᅡ히 ᄉᆞ못 녹지 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="31b" n="03">滑</sent>
+<sent type="main" lang="kor" page="31b" n="03">通稱믯그럽다</sent>
+<sent type="main" lang="chi" page="31b" n="04">光滑</sent>
+<sent type="main" lang="kor" page="31b" n="04">通稱번즈를ᄒᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="31b" n="05">滑跐</sent>
+<sent type="main" lang="kor" page="31b" n="05">믯그러지다</sent>
+<sent type="main" lang="chi" page="31b" n="06">溜冰</sent>
+<sent type="main" lang="kor" page="31b" n="06">어름 즈츼다</sent>
+<sent type="main" lang="chi" page="31b" n="07">一齊溜冰</sent>
+<sent type="main" lang="kor" page="31b" n="07">ᄒᆞᆷᄭᅴ 어름 즈츼다</sent>
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/18세기후기_한청문감/32a.jpg</img>
+<sent type="main" lang="chi" page="32a" n="01">偏坡滑處</sent>
+<sent type="main" lang="kor" page="32a" n="01">넌테 진 비탈</sent>
+<sent type="main" lang="chi" page="32a" n="02">滑跌</sent>
+<sent type="main" lang="kor" page="32a" n="02">믯그러 너머지다</sent>
+<sent type="main" lang="chi" page="32a" n="03">脚滑踉蹌</sent>
+<sent type="main" lang="kor" page="32a" n="03">믯그러워 븻독이다</sent>
+<sent type="main" lang="chi" page="32a" n="04">連連跐滑</sent>
+<sent type="main" lang="kor" page="32a" n="04">믯그러워 것잡지 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="32a" n="05">滑濘</sent>
+<sent type="main" lang="kor" page="32a" n="05">雨雪 것녹아 믯그럽다</sent>
+</pages>
+
+<pages n="33a">
+<img n="33a">https://kohico.kr/_media/image/18세기후기_한청문감/33a.jpg</img>
+<sent type="title2" lang="chi" page="33a" n="01">地部 一類</sent>
+<sent type="title3" lang="chi" page="33a" n="01">地與類 十四則</sent>
+<sent type="main" lang="chi" page="33a" n="02">地</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="33a" n="02">ᄯᅡ</sent>
+<sent type="main" lang="chi" page="33a" n="03">地濕</sent>
+<sent type="main" lang="kor" page="33a" n="03">ᄯᅡ 젓다</sent>
+<sent type="main" lang="chi" page="33a" n="04">地潮</sent>
+<sent type="main" lang="kor" page="33a" n="04">ᄯᅡ 축축ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="33a" n="05">地乾</sent>
+<sent type="main" lang="kor" page="33a" n="05">ᄯᅡ ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="33a" n="06">地乾透</sent>
+<sent type="main" lang="kor" page="33a" n="06">ᄯᅡ ᄉᆞ못 ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="33a" n="07">泥地初乾</sent>
+<sent type="main" lang="kor" page="33a" n="07">즌 ᄯᅡ ᄀᆞᆺ ᄆᆞ르다</sent>
+<sent type="main" lang="chi" page="33a" n="08">春地酥顫</sent>
+<sent type="main" lang="kor" page="33a" n="08">봄 ᄯᅡ 무럭무럭ᄒᆞ다</sent>
+</pages>
+
+<pages n="33b">
+<img n="33b">https://kohico.kr/_media/image/18세기후기_한청문감/33b.jpg</img>
+<sent type="main" lang="chi" page="33b" n="01">地方</sent>
+<sent type="main" lang="kor" page="33b" n="01">通稱곳</sent>
+<sent type="main" lang="chi" page="33b" n="02">某處的</sent>
+<sent type="main" lang="kor" page="33b" n="02">아모ᄃᆡㅅ 것</sent>
+<sent type="main" lang="chi" page="33b" n="03">陷泥地</sent>
+<sent type="main" lang="kor" page="33b" n="03">쉬ᄂᆞᆫ ᄯᅡ</sent>
+<sent type="main" lang="chi" page="33b" n="04">山野密林</sent>
+<sent type="main" lang="kor" page="33b" n="04">山林深密處</sent>
+<sent type="main" lang="chi" page="33b" n="05">産鹽地</sent>
+<sent type="main" lang="kor" page="33b" n="05">소곰 나ᄂᆞᆫ ᄯᅡ</sent>
+<sent type="main" lang="chi" page="33b" n="06">鹻地</sent>
+<sent type="main" lang="kor" page="33b" n="06">ᄶᆞᆫ ᄯᅡ</sent>
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/18세기후기_한청문감/34a.jpg</img>
+<sent type="main" lang="chi" page="34a" n="01">本地</sent>
+<sent type="main" lang="kor" page="34a" n="01">본향</sent>
+<sent type="main" lang="chi" page="34a" n="02">所屬地方</sent>
+<sent type="main" lang="kor" page="34a" n="02">쇽ᄒᆞᆫ ᄯᅡ</sent>
+<sent type="main" lang="chi" page="34a" n="03">瀚海</sent>
+<sent type="main" lang="kor" page="34a" n="03">沙漠</sent>
+<sent type="main" lang="chi" page="34a" n="04">土</sent>
+<sent type="main" lang="kor" page="34a" n="04">ᄒᆞᆰ</sent>
+<sent type="main" lang="chi" page="34a" n="05">粘泥</sent>
+<sent type="main" lang="kor" page="34a" n="05">진 ᄒᆞᆰ</sent>
+<sent type="main" lang="chi" page="34a" n="06">膠泥</sent>
+<sent type="main" lang="kor" page="34a" n="06">황토</sent>
+<sent type="main" lang="chi" page="34a" n="07">滓泥</sent>
+<sent type="main" lang="kor" page="34a" n="07">개 ᄒᆞᆰ</sent>
+<sent type="main" lang="chi" page="34a" n="08">土塊</sent>
+<sent type="main" lang="kor" page="34a" n="08">ᄒᆞᆰ 덩이</sent>
+<sent type="main" lang="chi" page="34a" n="09">酥土</sent>
+<sent type="main" lang="kor" page="34a" n="09">버석버석ᄒᆞᆫ ᄒᆞᆰ</sent>
+<sent type="main" lang="chi" page="34a" n="10">鼓堆土</sent>
+<sent type="main" lang="kor" page="34a" n="10">두두록ᄒᆞᆫ ᄒᆞᆰ</sent>
+</pages>
+
+<pages n="34b">
+<img n="34b">https://kohico.kr/_media/image/18세기후기_한청문감/34b.jpg</img>
+<sent type="main" lang="chi" page="34b" n="01">鬆土</sent>
+<sent type="main" lang="kor" page="34b" n="01">브스스ᄒᆞᆫ ᄒᆞᆰ</sent>
+<sent type="main" lang="chi" page="34b" n="02">草坯子</sent>
+<sent type="main" lang="kor" page="34b" n="02">ᄯᅬㅅ덩이</sent>
+<sent type="main" lang="chi" page="34b" n="03">沙</sent>
+<sent type="main" lang="kor" page="34b" n="03">모래</sent>
+<sent type="main" lang="chi" page="34b" n="04">塵埃</sent>
+<sent type="main" lang="kor" page="34b" n="04">틔ㅅ글</sent>
+<sent type="main" lang="chi" page="34b" n="05">塵垢</sent>
+<sent type="main" lang="kor" page="34b" n="05">안즌 몬ᄌᆡ</sent>
+<sent type="main" lang="chi" page="34b" n="06">飛塵</sent>
+<sent type="main" lang="kor" page="34b" n="06">ᄂᆞᆯ리ᄂᆞᆫ 몬ᄌᆡ</sent>
+<sent type="main" lang="chi" page="34b" n="07">土堆</sent>
+<sent type="main" lang="kor" page="34b" n="07">ᄒᆞᆰ 무지</sent>
+<sent type="main" lang="chi" page="34b" n="08">野</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="34b" n="08">들</sent>
+<sent type="main" lang="chi" page="34b" n="09">出外</sent>
+<sent type="main" lang="kor" page="34b" n="09">猶言出郊</sent>
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/18세기후기_한청문감/35a.jpg</img>
+<sent type="main" lang="chi" page="35a" n="01">曠野</sent>
+<sent type="main" lang="kor" page="35a" n="01">너른 들</sent>
+<sent type="main" lang="chi" page="35a" n="02">廠亮</sent>
+<sent type="main" lang="kor" page="35a" n="02">훤ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="35a" n="03">平坦</sent>
+<sent type="main" lang="kor" page="35a" n="03">평탄ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="35a" n="04">廠地</sent>
+<sent type="main" lang="kor" page="35a" n="04">믠 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35a" n="05">空地</sent>
+<sent type="main" lang="kor" page="35a" n="05">뷘 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35a" n="06">赤地</sent>
+<sent type="main" lang="kor" page="35a" n="06">不毛之地</sent>
+<sent type="main" lang="chi" page="35a" n="07">寬廣</sent>
+<sent type="main" lang="kor" page="35a" n="07">광활ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="35a" n="08">澤</sent>
+<sent type="main" lang="kor" page="35a" n="08">山澤之澤</sent><!--마지막 '澤'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="35a" n="09">積水荒地</sent>
+<sent type="main" lang="kor" page="35a" n="09">웅덩이</sent>
+<sent type="main" lang="chi" page="35a" n="10">牧場</sent>
+<sent type="main" lang="kor" page="35a" n="10">牧場</sent><!--'牧場'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="35b">
+<img n="35b">https://kohico.kr/_media/image/18세기후기_한청문감/35b.jpg</img>
+<sent type="main" lang="chi" page="35b" n="01">荒燒地</sent>
+<sent type="main" lang="kor" page="35b" n="01">벌ㅅ블 노흔 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35b" n="02">荒火未燒地</sent>
+<sent type="main" lang="kor" page="35b" n="02">벌ㅅ블 븟고 남은 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35b" n="03">高岡</sent>
+<sent type="main" lang="kor" page="35b" n="03">놉흔 언덕</sent>
+<sent type="main" lang="chi" page="35b" n="04">高地</sent>
+<sent type="main" lang="kor" page="35b" n="04">놉흔 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35b" n="05">窪地</sent>
+<sent type="main" lang="kor" page="35b" n="05">우묵ᄒᆞᆫ ᄯᅡ</sent>
+<sent type="main" lang="chi" page="35b" n="06">高阜</sent>
+<sent type="main" lang="kor" page="35b" n="06">두던</sent>
+<sent type="main" lang="chi" page="35b" n="07">乾濕花搭處</sent>
+<sent type="main" lang="kor" page="35b" n="07">乾濕相雜處</sent>
+<sent type="main" lang="chi" page="35b" n="08">崎嶇不平</sent>
+<sent type="main" lang="kor" page="35b" n="08">긔구ᄒᆞ여 평치 아니 ᄒᆞ다</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/18세기후기_한청문감/36a.jpg</img>
+<sent type="main" lang="chi" page="36a" n="01">高低不平</sent>
+<sent type="main" lang="kor" page="36a" n="01">놉고 ᄂᆞ자 평치 아니 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="36a" n="02">塔子頭</sent>
+<sent type="main" lang="kor" page="36a" n="02">ᄒᆞᆰ과 플이 뭉친 것</sent>
+<sent type="main" lang="chi" page="36a" n="03">水草甸子</sent>
+<sent type="main" lang="kor" page="36a" n="03">水草만 난 들</sent>
+<sent type="main" lang="chi" page="36a" n="04">陷泥</sent>
+<sent type="main" lang="kor" page="36a" n="04">쉬ᄂᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="36a" n="05">陷</sent>
+<sent type="main" lang="kor" page="36a" n="05">쉬다</sent>
+<sent type="main" lang="chi" page="36a" n="06">爛泥</sent>
+<sent type="main" lang="kor" page="36a" n="06">즌 퍼리</sent>
+<sent type="main" lang="chi" page="36a" n="07">地發顫</sent>
+<sent type="main" lang="kor" page="36a" n="07">ᄯᅡ 플리이다</sent>
+<sent type="main" lang="chi" page="36a" n="08">地發軟</sent>
+<sent type="main" lang="kor" page="36a" n="08">ᄯᅡ 무럭무럭ᄒᆞ다</sent>
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/18세기후기_한청문감/36b.jpg</img>
+<sent type="main" lang="chi" page="36b" n="01">顫動地</sent>
+<sent type="main" lang="kor" page="36b" n="01">쿠렁쿠렁ᄒᆞᆫ ᄯᅡ</sent>
+<sent type="main" lang="chi" page="36b" n="02">極濕難耕地</sent>
+<sent type="main" lang="kor" page="36b" n="02">즈러 받 갈기 어려온 ᄯᅡ</sent>
+<sent type="main" lang="chi" page="36b" n="03">陷濘</sent>
+<sent type="main" lang="kor" page="36b" n="03">泥陷處</sent>
+<sent type="main" lang="chi" page="36b" n="04">靑苔</sent>
+<sent type="main" lang="kor" page="36b" n="04">잇기</sent>
+<sent type="main" lang="chi" page="36b" n="05">木石上靑苔</sent>
+<sent type="main" lang="kor" page="36b" n="05">木石 우ᄒᆡ 잇기</sent>
+<sent type="main" lang="chi" page="36b" n="06">雨水過透</sent>
+<sent type="main" lang="kor" page="36b" n="06">久雨透濕</sent>
+<sent type="main" lang="chi" page="36b" n="07">地起皮</sent>
+<sent type="main" lang="kor" page="36b" n="07">명개 ᄆᆞᆯ나 적니다</sent>
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/18세기후기_한청문감/37a.jpg</img>
+<sent type="main" lang="chi" page="37a" n="01">山</sent><!--상단에 '三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="37a" n="01">뫼○地之高大爲山</sent>
+<sent type="main" lang="chi" page="37a" n="02">走山</sent>
+<sent type="main" lang="kor" page="37a" n="02">뫼ᄒᆡ ᄃᆞᆫ니다</sent>
+<sent type="main" lang="chi" page="37a" n="03">沿山走</sent>
+<sent type="main" lang="kor" page="37a" n="03">산 ᄀᆞ으로 가다</sent>
+<sent type="main" lang="chi" page="37a" n="04">平矮山</sent>
+<sent type="main" lang="kor" page="37a" n="04">ᄂᆞ즌 뫼</sent>
+<sent type="main" lang="chi" page="37a" n="05">五嶽</sent>
+<sent type="main" lang="kor" page="37a" n="05">東泰山西華山南衡山北恒山中嵩山</sent>
+<sent type="main" lang="chi" page="37a" n="06">鎭</sent>
+<sent type="main" lang="kor" page="37a" n="06">五嶽之外有四鎭山幽州醫巫閭山楊州會稽山靑州沂山冀州霍山</sent>
+<sent type="main" lang="chi" page="37a" n="07">邱陵</sent>
+<sent type="main" lang="kor" page="37a" n="07">큰 언덕</sent>
+<sent type="main" lang="chi" page="37a" n="08">風水</sent>
+<sent type="main" lang="kor" page="37a" n="08">地理之通稱</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/18세기후기_한청문감/37b.jpg</img>
+<sent type="main" lang="chi" page="37b" n="01">龍脉</sent>
+<sent type="main" lang="kor" page="37b" n="01">山龍來脈</sent>
+<sent type="main" lang="chi" page="37b" n="02">沙岡</sent>
+<sent type="main" lang="kor" page="37b" n="02">모래 언덕</sent>
+<sent type="main" lang="chi" page="37b" n="03">沙擁成岡</sent>
+<sent type="main" lang="kor" page="37b" n="03">모래 모혀 언덕 되다</sent>
+<sent type="main" lang="chi" page="37b" n="04">山粱</sent>
+<sent type="main" lang="kor" page="37b" n="04">뫼ㅅᄆᆞᄅᆞ</sent>
+<sent type="main" lang="chi" page="37b" n="05">山脊</sent>
+<sent type="main" lang="kor" page="37b" n="05">뫼ㅅ등</sent>
+<sent type="main" lang="chi" page="37b" n="06">山坡</sent>
+<sent type="main" lang="kor" page="37b" n="06">뫼ㅅ비탈</sent>
+<sent type="main" lang="chi" page="37b" n="07">嶺</sent>
+<sent type="main" lang="kor" page="37b" n="07">고개</sent>
+<sent type="main" lang="chi" page="37b" n="08">山肋</sent>
+<sent type="main" lang="kor" page="37b" n="08">뫼ㅅ녑</sent>
+<sent type="main" lang="chi" page="37b" n="09">山肋險處</sent>
+<sent type="main" lang="kor" page="37b" n="09">뫼ㅅ녑 험ᄒᆞᆫ 곳</sent>
+</pages>
+
+<pages n="38a">
+<img n="38a">https://kohico.kr/_media/image/18세기후기_한청문감/38a.jpg</img>
+<sent type="main" lang="chi" page="38a" n="01">山腰</sent>
+<sent type="main" lang="kor" page="38a" n="01">뫼 허리</sent>
+<sent type="main" lang="chi" page="38a" n="02">山嶺下坡處</sent>
+<sent type="main" lang="kor" page="38a" n="02">고개 아ᄅᆡ 비탈</sent>
+<sent type="main" lang="chi" page="38a" n="03">山險微平處</sent>
+<sent type="main" lang="kor" page="38a" n="03">뫼 험ᄒᆞᆫ ᄃᆡ 젹이 평ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="38a" n="04">山嘴</sent><!--상단에 '四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="38a" n="04">뫼ㅅ부리</sent>
+<sent type="main" lang="chi" page="38a" n="05">山傍險峻處</sent>
+<sent type="main" lang="kor" page="38a" n="05">뫼ㅅᄀᆞ 험ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="38a" n="06">山額</sent>
+<sent type="main" lang="kor" page="38a" n="06">뫼ㅅ니마</sent>
+<sent type="main" lang="chi" page="38a" n="07">山粱盡頭處</sent>
+<sent type="main" lang="kor" page="38a" n="07">뫼 ᄆᆞᄅᆞ 진ᄒᆞᆫ 곳</sent>
+</pages>
+
+<pages n="38b">
+<img n="38b">https://kohico.kr/_media/image/18세기후기_한청문감/38b.jpg</img>
+<sent type="main" lang="chi" page="38b" n="01">山峯微懸處</sent>
+<sent type="main" lang="kor" page="38b" n="01">뫼ㅅ봉 젹이 두졀ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="38b" n="02">山谷深窄處</sent>
+<sent type="main" lang="kor" page="38b" n="02">뫼ㅅ골 깁고 좁은 곳</sent>
+<sent type="main" lang="chi" page="38b" n="03">山腿</sent>
+<sent type="main" lang="kor" page="38b" n="03">山脚</sent>
+<sent type="main" lang="chi" page="38b" n="04">山根</sent>
+<sent type="main" lang="kor" page="38b" n="04">山底</sent>
+<sent type="main" lang="chi" page="38b" n="05">山陽</sent>
+<sent type="main" lang="kor" page="38b" n="05">山南</sent>
+<sent type="main" lang="chi" page="38b" n="06">山陰</sent>
+<sent type="main" lang="kor" page="38b" n="06">山北</sent>
+<sent type="main" lang="chi" page="38b" n="07">山灣</sent>
+<sent type="main" lang="kor" page="38b" n="07">뫼ㅅ구븨</sent>
+<sent type="main" lang="chi" page="38b" n="08">山灣曲僻處</sent>
+<sent type="main" lang="kor" page="38b" n="08">뫼ㅅ구븨 幽僻ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="38b" n="09">峯</sent>
+<sent type="main" lang="kor" page="38b" n="09">뫼ㅅ봉</sent>
+<sent type="main" lang="chi" page="38b" n="10">危峯</sent>
+<sent type="main" lang="kor" page="38b" n="10">놉흔 뫼ㅅ봉</sent>
+</pages>
+
+<pages n="39a">
+<img n="39a">https://kohico.kr/_media/image/18세기후기_한청문감/39a.jpg</img>
+<sent type="main" lang="chi" page="39a" n="01">巉巖</sent>
+<sent type="main" lang="kor" page="39a" n="01">峯巒高峻貌</sent>
+<sent type="main" lang="chi" page="39a" n="02">阧壁</sent>
+<sent type="main" lang="kor" page="39a" n="02">놉흔 셕벽</sent>
+<sent type="main" lang="chi" page="39a" n="03">峭崖</sent>
+<sent type="main" lang="kor" page="39a" n="03">벼로</sent>
+<sent type="main" lang="chi" page="39a" n="04">懸崖</sent>
+<sent type="main" lang="kor" page="39a" n="04">두졀ᄒᆞᆫ 벼로</sent>
+<sent type="main" lang="chi" page="39a" n="05">荒山</sent>
+<sent type="main" lang="kor" page="39a" n="05">믠 산</sent>
+<sent type="main" lang="chi" page="39a" n="06">山無草木</sent>
+<sent type="main" lang="kor" page="39a" n="06">뫼ᄒᆡ 초목 업다</sent>
+<sent type="main" lang="chi" page="39a" n="07">高</sent><!--상단에 '五則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="39a" n="07">놉다</sent>
+<sent type="main" lang="chi" page="39a" n="08">險</sent>
+<sent type="main" lang="kor" page="39a" n="08">험ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="39a" n="09">險陂</sent>
+<sent type="main" lang="kor" page="39a" n="09">험ᄒᆞᆫ 언덕</sent>
+</pages>
+
+<pages n="39b">
+<img n="39b">https://kohico.kr/_media/image/18세기후기_한청문감/39b.jpg</img>
+<sent type="main" lang="chi" page="39b" n="01">尖峯</sent>
+<sent type="main" lang="kor" page="39b" n="01">뾰죡ᄒᆞᆫ 봉</sent>
+<sent type="main" lang="chi" page="39b" n="02">高峯尖</sent>
+<sent type="main" lang="kor" page="39b" n="02">놉흔 뫼ㅅ봉 ᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="39b" n="03">直竪</sent>
+<sent type="main" lang="kor" page="39b" n="03">猶言削立</sent>
+<sent type="main" lang="chi" page="39b" n="04">頂</sent>
+<sent type="main" lang="kor" page="39b" n="04">뫼ㅅ곡ᄃᆡ</sent>
+<sent type="main" lang="chi" page="39b" n="05">鼓起處</sent>
+<sent type="main" lang="kor" page="39b" n="05">두두록ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="39b" n="06">偏坡</sent>
+<sent type="main" lang="kor" page="39b" n="06">된 비ㅅ탈</sent>
+<sent type="main" lang="chi" page="39b" n="07">齊坎</sent>
+<sent type="main" lang="kor" page="39b" n="07">ᄭᅡᆨ가지른 ᄃᆞᆺᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="39b" n="08">低</sent>
+<sent type="main" lang="kor" page="39b" n="08">ᄂᆞᆺ다</sent>
+<sent type="main" lang="chi" page="39b" n="09">山谷</sent>
+<sent type="main" lang="kor" page="39b" n="09">뫼ㅅ골</sent>
+<sent type="main" lang="chi" page="39b" n="10">山溝</sent>
+<sent type="main" lang="kor" page="39b" n="10">뫼ㅅ굴헝</sent>
+</pages>
+
+<pages n="40a">
+<img n="40a">https://kohico.kr/_media/image/18세기후기_한청문감/40a.jpg</img>
+<sent type="main" lang="chi" page="40a" n="01">盆底坑</sent>
+<sent type="main" lang="kor" page="40a" n="01">비ㅅ탈에 우목ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="40a" n="02">山縫</sent>
+<sent type="main" lang="kor" page="40a" n="02">뫼ㅅ틈</sent>
+<sent type="main" lang="chi" page="40a" n="03">盤道</sent>
+<sent type="main" lang="kor" page="40a" n="03">뫼에 굴곡ᄒᆞᆫ 길</sent>
+<sent type="main" lang="chi" page="40a" n="04">獸徑</sent>
+<sent type="main" lang="kor" page="40a" n="04">즘ᄉᆡᆼ ᄃᆞᆫ니ᄂᆞᆫ 길</sent>
+<sent type="main" lang="chi" page="40a" n="05">洞</sent>
+<sent type="main" lang="kor" page="40a" n="05">通稱굴</sent>
+<sent type="main" lang="chi" page="40a" n="06">礦</sent>
+<sent type="main" lang="kor" page="40a" n="06">採金銀銅鐵之處</sent>
+<sent type="main" lang="chi" page="40a" n="07">煤窯</sent>
+<sent type="main" lang="kor" page="40a" n="07">셕탄 ᄑᆡᄂᆞᆫ 굴</sent>
+<sent type="main" lang="chi" page="40a" n="08">磚瓦窯</sent>
+<sent type="main" lang="kor" page="40a" n="08">벽과 지새 굽ᄂᆞᆫ 움</sent>
+</pages>
+
+<pages n="40b">
+<img n="40b">https://kohico.kr/_media/image/18세기후기_한청문감/40b.jpg</img>
+<sent type="main" lang="chi" page="40b" n="01">磁器窯</sent>
+<sent type="main" lang="kor" page="40b" n="01">사긔 굽ᄂᆞᆫ 움</sent>
+<sent type="main" lang="chi" page="40b" n="02">穴</sent>
+<sent type="main" lang="kor" page="40b" n="02">큰 즘ᄉᆡᆼ의 구무</sent>
+<sent type="main" lang="chi" page="40b" n="03">鼠洞</sent>
+<sent type="main" lang="kor" page="40b" n="03">젹은 즘ᄉᆡᆼ의 구무</sent>
+<sent type="main" lang="chi" page="40b" n="04">窟窿</sent>
+<sent type="main" lang="kor" page="40b" n="04">通稱구무</sent>
+<sent type="main" lang="chi" page="40b" n="05">野鼠藏食穴</sent>
+<sent type="main" lang="kor" page="40b" n="05">들쥐 냥식 ᄀᆞᆷ촌 구무</sent>
+<sent type="main" lang="chi" page="40b" n="06">石</sent><!--상단에 '六則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="40b" n="06">돌</sent>
+<sent type="main" lang="chi" page="40b" n="07">吸鐵石</sent>
+<sent type="main" lang="kor" page="40b" n="07">磁石</sent>
+<sent type="main" lang="chi" page="40b-41a" n="08">璞玉</sent>
+<sent type="main" lang="kor" page="40b-41a" n="08">玉之抂石中者</sent><!--玉之^抂石中者-->
+</pages>
+
+<pages n="41a">
+<img n="41a">https://kohico.kr/_media/image/18세기후기_한청문감/41a.jpg</img>
+<sent type="main" lang="chi" page="41a" n="01">細石</sent>
+<sent type="main" lang="kor" page="41a" n="01">발 ᄀᆞᄂᆞᆫ 돌</sent>
+<sent type="main" lang="chi" page="41a" n="02">粗石</sent>
+<sent type="main" lang="kor" page="41a" n="02">발 굵은 돌</sent>
+<sent type="main" lang="chi" page="41a" n="03">采石</sent>
+<sent type="main" lang="kor" page="41a" n="03">文石</sent>
+<sent type="main" lang="chi" page="41a" n="04">艾葉靑石</sent>
+<sent type="main" lang="kor" page="41a" n="04">쑥빗 돌</sent>
+<sent type="main" lang="chi" page="41a" n="05">虎皮石</sent>
+<sent type="main" lang="kor" page="41a" n="05">어룽돌</sent>
+<sent type="main" lang="chi" page="41a" n="06">木變石</sent>
+<sent type="main" lang="kor" page="41a" n="06">木角等物入水年久變爲石可以磨鐵者</sent>
+<sent type="main" lang="chi" page="41a" n="07">盤石</sent>
+<sent type="main" lang="kor" page="41a" n="07">너르바회</sent>
+</pages>
+
+<pages n="41b">
+<img n="41b">https://kohico.kr/_media/image/18세기후기_한청문감/41b.jpg</img>
+<sent type="main" lang="chi" page="41b" n="01">光潤石子</sent>
+<sent type="main" lang="kor" page="41b" n="01">水磨石</sent>
+<sent type="main" lang="chi" page="41b" n="02">滑石</sent>
+<sent type="main" lang="kor" page="41b" n="02">滑石</sent><!--'滑石'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="41b" n="03">礓石</sent>
+<sent type="main" lang="kor" page="41b" n="03">砂礫之類</sent>
+<sent type="main" lang="chi" page="41b" n="04">麵石</sent>
+<sent type="main" lang="kor" page="41b" n="04">서벅돌</sent>
+<sent type="main" lang="chi" page="41b" n="05">海沫石</sent>
+<sent type="main" lang="kor" page="41b" n="05">속돌</sent>
+<sent type="main" lang="chi" page="41b" n="06">山上活石</sent>
+<sent type="main" lang="kor" page="41b" n="06">山上亂石</sent>
+<sent type="main" lang="chi" page="41b-42a" n="07">石子</sent>
+<sent type="main" lang="kor" page="41b-42a" n="07">쟈개돌</sent><!--쟈개^돌--> 
+</pages>
+
+<pages n="42a">
+<img n="42a">https://kohico.kr/_media/image/18세기후기_한청문감/42a.jpg</img>
+<sent type="main" lang="chi" page="42a" n="01">磨刀石</sent>
+<sent type="main" lang="kor" page="42a" n="01">숫돌</sent>
+<sent type="main" lang="chi" page="42a" n="02">火石</sent>
+<sent type="main" lang="kor" page="42a" n="02">부쇠ㅅ돌</sent>
+<sent type="main" lang="chi" page="42a" n="03">水</sent><!--상단에 '七則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="42a" n="03">通稱믈</sent>
+<sent type="main" lang="chi" page="42a" n="04">水面</sent>
+<sent type="main" lang="kor" page="42a" n="04">水面</sent><!--'水面'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="42a" n="05">水點</sent>
+<sent type="main" lang="kor" page="42a" n="05">믈뎜</sent>
+<sent type="main" lang="chi" page="42a" n="06">深</sent>
+<sent type="main" lang="kor" page="42a" n="06">깁다</sent>
+<sent type="main" lang="chi" page="42a" n="07">淵深</sent>
+<sent type="main" lang="kor" page="42a" n="07">ᄆᆡ이 깁다</sent>
+<sent type="main" lang="chi" page="42a" n="08">淺</sent>
+<sent type="main" lang="kor" page="42a" n="08">엿다</sent>
+<sent type="main" lang="chi" page="42a" n="09">淸</sent>
+<sent type="main" lang="kor" page="42a" n="09">ᄆᆞᆰ다</sent>
+</pages>
+
+<pages n="42b">
+<img n="42b">https://kohico.kr/_media/image/18세기후기_한청문감/42b.jpg</img>
+<sent type="main" lang="chi" page="42b" n="01">濁</sent>
+<sent type="main" lang="kor" page="42b" n="01">흐리다</sent>
+<sent type="main" lang="chi" page="42b" n="02">澄下去</sent>
+<sent type="main" lang="kor" page="42b" n="02">ᄀᆞ라안ᄯᅡ</sent>
+<sent type="main" lang="chi" page="42b" n="03">存水</sent>
+<sent type="main" lang="kor" page="42b" n="03">괸 믈</sent>
+<sent type="main" lang="chi" page="42b" n="04">水流渟處</sent>
+<sent type="main" lang="kor" page="42b" n="04">믈 흘너 괴다</sent>
+<sent type="main" lang="chi" page="42b" n="05">大水汪洋</sent>
+<sent type="main" lang="kor" page="42b" n="05">水盛貌</sent>
+<sent type="main" lang="chi" page="42b" n="06">水漲出</sent>
+<sent type="main" lang="kor" page="42b" n="06">믈 넘다</sent>
+<sent type="main" lang="chi" page="42b" n="07">水漫出</sent>
+<sent type="main" lang="kor" page="42b" n="07">시위 나다</sent>
+<sent type="main" lang="chi" page="42b" n="08">水濺出</sent>
+<sent type="main" lang="kor" page="42b" n="08">믈 ᄯᅱ다</sent>
+<sent type="main" lang="chi" page="42b" n="09">水落</sent>
+<sent type="main" lang="kor" page="42b" n="09">믈 주다</sent>
+</pages>
+
+<pages n="43a">
+<img n="43a">https://kohico.kr/_media/image/18세기후기_한청문감/43a.jpg</img>
+<sent type="main" lang="chi" page="43a" n="01">水滲</sent>
+<sent type="main" lang="kor" page="43a" n="01">믈 스믜다</sent>
+<sent type="main" lang="chi" page="43a" n="02">海</sent>
+<sent type="main" lang="kor" page="43a" n="02">바다</sent>
+<sent type="main" lang="chi" page="43a" n="03">洋</sent>
+<sent type="main" lang="kor" page="43a" n="03">海外曰洋</sent><!--'洋'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43a" n="04">沿海</sent>
+<sent type="main" lang="kor" page="43a" n="04">바다ㅅᄀᆞ</sent>
+<sent type="main" lang="chi" page="43a" n="05">島</sent>
+<sent type="main" lang="kor" page="43a" n="05">셤</sent>
+<sent type="main" lang="chi" page="43a" n="06">洲</sent>
+<sent type="main" lang="kor" page="43a" n="06">水中可居之地</sent>
+<sent type="main" lang="chi" page="43a" n="07">潮</sent>
+<sent type="main" lang="kor" page="43a" n="07">밀믈</sent>
+<sent type="main" lang="chi" page="43a" n="08">潮來</sent>
+<sent type="main" lang="kor" page="43a" n="08">믈 미다</sent>
+<sent type="main" lang="chi" page="43a" n="09">潮退</sent>
+<sent type="main" lang="kor" page="43a" n="09">믈 혀다</sent>
+</pages>
+
+<pages n="43b">
+<img n="43b">https://kohico.kr/_media/image/18세기후기_한청문감/43b.jpg</img>
+<sent type="main" lang="chi" page="43b" n="01">湖</sent><!--상단에 '八則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="43b" n="01">湖</sent><!--'湖'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="02">水淀</sent>
+<sent type="main" lang="kor" page="43b" n="02">淺水廣漫曰淀</sent>
+<sent type="main" lang="chi" page="43b" n="03">池</sent>
+<sent type="main" lang="kor" page="43b" n="03">鑿地停水曰池</sent><!--'池'는 반복 부호로 되어 있음/-->
+<sent type="main" lang="chi" page="43b" n="04">汀</sent>
+<sent type="main" lang="kor" page="43b" n="04">水際平地曰汀</sent><!--'汀'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="05">淵</sent>
+<sent type="main" lang="kor" page="43b" n="05">水出不流曰淵</sent><!--'淵'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="06">潭</sent>
+<sent type="main" lang="kor" page="43b" n="06">水淸湥處</sent>
+<sent type="main" lang="chi" page="43b" n="07">四瀆</sent>
+<sent type="main" lang="kor" page="43b" n="07">江河淮濟爲四瀆</sent><!--'四瀆'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="08">江</sent>
+<sent type="main" lang="kor" page="43b" n="08">江</sent><!--'江'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="43b" n="09">河</sent>
+<sent type="main" lang="kor" page="43b" n="09">河</sent><!--'河'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="44a">
+<img n="44a">https://kohico.kr/_media/image/18세기후기_한청문감/44a.jpg</img>
+<sent type="main" lang="chi" page="44a" n="01">小河溝</sent>
+<sent type="main" lang="kor" page="44a" n="01">시내</sent>
+<sent type="main" lang="chi" page="44a" n="02">河身</sent>
+<sent type="main" lang="kor" page="44a" n="02">믈ᄭᅩᆯ</sent>
+<sent type="main" lang="chi" page="44a" n="03">河源會處</sent>
+<sent type="main" lang="kor" page="44a" n="03">믈ㅅ 근원 모힌 곳</sent>
+<sent type="main" lang="chi" page="44a" n="04">兩河會處</sent>
+<sent type="main" lang="kor" page="44a" n="04">兩水合流處</sent>
+<sent type="main" lang="chi" page="44a" n="05">河汊</sent>
+<sent type="main" lang="kor" page="44a" n="05">믈ㅅᄀᆞ래</sent>
+<sent type="main" lang="chi" page="44a" n="06">河港</sent>
+<sent type="main" lang="kor" page="44a" n="06">믈ㅅ셕</sent>
+<sent type="main" lang="chi" page="44a" n="07">兩河中間</sent>
+<sent type="main" lang="kor" page="44a" n="07">兩水間陸地</sent>
+<sent type="main" lang="chi" page="44a" n="08">溝渠</sent>
+<sent type="main" lang="kor" page="44a" n="08">田間水道</sent>
+<sent type="main" lang="chi" page="44a" n="09">畎</sent>
+<sent type="main" lang="kor" page="44a" n="09">田中溝</sent>
+</pages>
+
+<pages n="44b">
+<img n="44b">https://kohico.kr/_media/image/18세기후기_한청문감/44b.jpg</img>
+<sent type="main" lang="chi" page="44b" n="01">澮</sent>
+<sent type="main" lang="kor" page="44b" n="01">믈 괸 ᄀᆡ쳔</sent>
+<sent type="main" lang="chi" page="44b" n="02">泉</sent>
+<sent type="main" lang="kor" page="44b" n="02">ᄉᆡᆷ</sent>
+<sent type="main" lang="chi" page="44b" n="03">湯泉</sent>
+<sent type="main" lang="kor" page="44b" n="03">ᄭᅳᆯᄂᆞᆫ ᄉᆡᆷ</sent>
+<sent type="main" lang="chi" page="44b" n="04">溫泉</sent>
+<sent type="main" lang="kor" page="44b" n="04">ᄃᆞᄉᆞᄒᆞᆫ ᄉᆡᆷ</sent>
+<sent type="main" lang="chi" page="44b" n="05">冷泉</sent>
+<sent type="main" lang="kor" page="44b" n="05">ᄎᆞᆫ ᄉᆡᆷ</sent>
+<sent type="main" lang="chi" page="44b" n="06">井</sent>
+<sent type="main" lang="kor" page="44b" n="06">우믈</sent>
+<sent type="main" lang="chi" page="44b" n="07">井盤架</sent>
+<sent type="main" lang="kor" page="44b" n="07">나모로 ᄶᆞᆫ 우믈 우리</sent>
+<sent type="main" lang="chi" page="44b" n="08">源</sent><!--상단에 '九則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="44b" n="08">믈 근원</sent>
+<sent type="main" lang="chi" page="44b" n="09">水流</sent>
+<sent type="main" lang="kor" page="44b" n="09">믈 흐르다</sent>
+<sent type="main" lang="chi" page="44b-45a" n="10">水行地中</sent>
+<sent type="main" lang="kor" page="44b-45a" n="10">믈 숨어 흐르다</sent><!--흐^르다-->
+</pages>
+
+<pages n="45a">
+<img n="45a">https://kohico.kr/_media/image/18세기후기_한청문감/45a.jpg</img>
+<sent type="main" lang="chi" page="45a" n="01">浪</sent>
+<sent type="main" lang="kor" page="45a" n="01">믈ㅅ결</sent>
+<sent type="main" lang="chi" page="45a" n="02">大浪</sent>
+<sent type="main" lang="kor" page="45a" n="02">큰 믈ㅅ결</sent>
+<sent type="main" lang="chi" page="45a" n="03">波瀾</sent>
+<sent type="main" lang="kor" page="45a" n="03">평ᄒᆞᆫ 믈ㅅ결</sent>
+<sent type="main" lang="chi" page="45a" n="04">水紋</sent>
+<sent type="main" lang="kor" page="45a" n="04">風行水上成紋者</sent>
+<sent type="main" lang="chi" page="45a" n="05">瀑布</sent>
+<sent type="main" lang="kor" page="45a" n="05">瀑布</sent><!--'瀑布'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="45a" n="06">漩窩</sent>
+<sent type="main" lang="kor" page="45a" n="06">회슈</sent>
+<sent type="main" lang="chi" page="45a" n="07">大水漩處</sent>
+<sent type="main" lang="kor" page="45a" n="07">믈 깁허 도ᄂᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="45a" n="08">緊溜</sent>
+<sent type="main" lang="kor" page="45a" n="08">급ᄒᆞᆫ 여흘</sent>
+<sent type="main" lang="chi" page="45a" n="09">急溜</sent>
+<sent type="main" lang="kor" page="45a" n="09">급히 흐르다</sent>
+</pages>
+
+<pages n="45b">
+<img n="45b">https://kohico.kr/_media/image/18세기후기_한청문감/45b.jpg</img>
+<sent type="main" lang="chi" page="45b" n="01">急溜不凍處</sent>
+<sent type="main" lang="kor" page="45b" n="01">급히 흘너 어지 아니 ᄒᆞᄂᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="45b" n="02">水沫</sent>
+<sent type="main" lang="kor" page="45b" n="02">믈거픔</sent>
+<sent type="main" lang="chi" page="45b" n="03">起浮沫</sent>
+<sent type="main" lang="kor" page="45b" n="03">通稱거픔 니다</sent>
+<sent type="main" lang="chi" page="45b" n="04">渾沫泡</sent>
+<sent type="main" lang="kor" page="45b" n="04">흐린 믈ㅅ방올</sent>
+<sent type="main" lang="chi" page="45b" n="05">水面靑綿</sent>
+<sent type="main" lang="kor" page="45b" n="05">믈에 잇기</sent>
+<sent type="main" lang="chi" page="45b" n="06">發水後樹木上掛的柴草</sent>
+<sent type="main" lang="kor" page="45b" n="06">남게 걸닌 柴草</sent>
+<sent type="main" lang="chi" page="45b" n="07">銹水</sent>
+<sent type="main" lang="kor" page="45b" n="07">소비 진 믈</sent>
+</pages>
+
+<pages n="46a">
+<img n="46a">https://kohico.kr/_media/image/18세기후기_한청문감/46a.jpg</img>
+<sent type="main" lang="chi" page="46a" n="01">河灘</sent>
+<sent type="main" lang="kor" page="46a" n="01">믈 업고 沙石만 잇ᄂᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="46a" n="02">水流痕</sent>
+<sent type="main" lang="kor" page="46a" n="02">믈 흐른 자곡</sent>
+<sent type="main" lang="chi" page="46a" n="03">水冒</sent><!--상단에 '十則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="46a" n="03">믈 소사 나다</sent>
+<sent type="main" lang="chi" page="46a" n="04">水滉出</sent>
+<sent type="main" lang="kor" page="46a" n="04">믈에 ᄇᆞ람 쳐 언덕에 ᄎᆞ이다</sent>
+<sent type="main" lang="chi" page="46a" n="05">水泛溢</sent>
+<sent type="main" lang="kor" page="46a" n="05">믈 넘ᄶᅵ다</sent>
+<sent type="main" lang="chi" page="46a" n="06">水散流</sent>
+<sent type="main" lang="kor" page="46a" n="06">믈 흣터 흐르다</sent>
+<sent type="main" lang="chi" page="46a" n="07">水滿將溢</sent>
+<sent type="main" lang="kor" page="46a" n="07">믈 ᄀᆞ득ᄒᆞ야 넘을 ᄃᆞᆺᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46a-46b" n="08">水滿滉動</sent>
+<sent type="main" lang="kor" page="46a-46b" n="08">믈 ᄀᆞ득ᄒᆞ야 움ᄌᆞ기다</sent><!--ᄀᆞ득ᄒᆞ^야-->
+</pages>
+
+<pages n="46b">
+<img n="46b">https://kohico.kr/_media/image/18세기후기_한청문감/46b.jpg</img>
+<sent type="main" lang="chi" page="46b" n="01">水壅住</sent>
+<sent type="main" lang="kor" page="46b" n="01">믈 막혀 잇다</sent>
+<sent type="main" lang="chi" page="46b" n="02">水淤沙</sent>
+<sent type="main" lang="kor" page="46b" n="02">믈에 ᄑᆡ이여 모래 모히다</sent>
+<sent type="main" lang="chi" page="46b" n="03">涮</sent>
+<sent type="main" lang="kor" page="46b" n="03">믈에 싯기여 ᄑᆡ이다</sent>
+<sent type="main" lang="chi" page="46b" n="04">被水冲涮</sent>
+<sent type="main" lang="kor" page="46b" n="04">믈에 ᄑᆡ이여 ᄯᅮ러지다</sent>
+<sent type="main" lang="chi" page="46b" n="05">坍塌</sent>
+<sent type="main" lang="kor" page="46b" n="05">믄허지다</sent>
+<sent type="main" lang="chi" page="46b" n="06">冲決</sent>
+<sent type="main" lang="kor" page="46b" n="06">믈 질녀 터지다</sent>
+<sent type="main" lang="chi" page="46b" n="07">掘開</sent>
+<sent type="main" lang="kor" page="46b" n="07">믈ㅅ길 츠다</sent>
+<sent type="main" lang="chi" page="46b" n="08">水乾</sent>
+<sent type="main" lang="kor" page="46b" n="08">믈 ᄆᆞ르다</sent>
+</pages>
+
+<pages n="47a">
+<img n="47a">https://kohico.kr/_media/image/18세기후기_한청문감/47a.jpg</img>
+<sent type="main" lang="chi" page="47a" n="01">使水乾</sent>
+<sent type="main" lang="kor" page="47a" n="01">믈 ᄆᆞ르게 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="02">水流有聲</sent>
+<sent type="main" lang="kor" page="47a" n="02">믈 흘너 소ᄅᆡ 나다</sent>
+</pages>
+
+<pages n="47b">
+<img n="47b">https://kohico.kr/_media/image/18세기후기_한청문감/47b.jpg</img>
+<sent type="main" lang="chi" page="47b" n="01">水從石縫直冒</sent>
+<sent type="main" lang="kor" page="47b" n="01">믈이 돌 틈으로 소사나다</sent>
+<sent type="main" lang="chi" page="47b" n="02">河岸</sent>
+<sent type="main" lang="kor" page="47b" n="02">믈ㅅᄀᆞ 언덕</sent>
+<sent type="main" lang="chi" page="47b" n="03">河岸墁坡</sent>
+<sent type="main" lang="kor" page="47b" n="03">믈ㅅᄀᆞ ᄂᆞ즉ᄒᆞᆫ 언덕</sent>
+<sent type="main" lang="chi" page="47b" n="04">河厓</sent>
+<sent type="main" lang="kor" page="47b" n="04">믈ㅅᄀᆞ</sent>
+</pages> 
+
+<pages n="48a">
+<img n="48a">https://kohico.kr/_media/image/18세기후기_한청문감/48a.jpg</img>
+<sent type="main" lang="chi" page="48a" n="01">堤</sent>
+<sent type="main" lang="kor" page="48a" n="01">築土石防水曰堤</sent>
+<sent type="main" lang="chi" page="48a" n="02">壩</sent>
+<sent type="main" lang="kor" page="48a" n="02">築堤障水曰壩</sent>
+<sent type="main" lang="chi" page="48a" n="03">埽</sent>
+<sent type="main" lang="kor" page="48a" n="03">雜木爲防和土以捍水曰埽</sent>
+<sent type="main" lang="chi" page="48a" n="04">土牛</sent>
+<sent type="main" lang="kor" page="48a" n="04">믈ㅅᄀᆞ ᄒᆞᆰ 무덕이</sent>
+<sent type="main" lang="chi" page="48a" n="05">土方</sent>
+<sent type="main" lang="kor" page="48a" n="05">길ᄀᆞ에 네모진 ᄒᆞᆰ 무덕이</sent>
+<sent type="main" lang="chi" page="48a" n="06">河坎</sent>
+<sent type="main" lang="kor" page="48a" n="06">아ᄅᆡ ᄑᆡ인 믈ㅅᄀᆞ</sent>
+<sent type="main" lang="chi" page="48a" n="07">馬頭</sent>
+<sent type="main" lang="kor" page="48a" n="07">션창</sent>
+</pages>
+
+<pages n="48b">
+<img n="48b">https://kohico.kr/_media/image/18세기후기_한청문감/48b.jpg</img>
+<sent type="main" lang="chi" page="48b" n="01">涮坍河灣子</sent>
+<sent type="main" lang="kor" page="48b" n="01">내ㅅᄀᆞ이 ᄑᆡ이여 구븨진 곳</sent>
+<sent type="main" lang="chi" page="48b" n="02">涮空處</sent>
+<sent type="main" lang="kor" page="48b" n="02">믈에 ᄑᆡ인 곳</sent>
+<sent type="main" lang="chi" page="48b" n="03">水底高坡</sent>
+<sent type="main" lang="kor" page="48b" n="03">믈 밋ᄒᆡ 沙石 두두러진 것</sent>
+<sent type="main" lang="chi" page="48b" n="04">對岸</sent>
+<sent type="main" lang="kor" page="48b" n="04">마즌 언덕</sent>
+<sent type="main" lang="chi" page="48b" n="05">渡河</sent>
+<sent type="main" lang="kor" page="48b" n="05">믈 건너다</sent>
+<sent type="main" lang="chi" page="48b" n="06">湯水</sent>
+<sent type="main" lang="kor" page="48b" n="06">揭衣涉水</sent>
+<sent type="main" lang="chi" page="48b" n="07">騎馬過渡</sent>
+<sent type="main" lang="kor" page="48b" n="07">ᄆᆞᆯ ᄐᆞ고 믈 건너다</sent>
+<sent type="main" lang="chi" page="48b" n="08">到對岸</sent>
+<sent type="main" lang="kor" page="48b" n="08">져 언덕에 ᄃᆞᆺ타</sent>
+</pages>
+
+<pages n="49a">
+<img n="49a">https://kohico.kr/_media/image/18세기후기_한청문감/49a.jpg</img>
+<sent type="main" lang="chi" page="49a" n="01">來此岸</sent>
+<sent type="main" lang="kor" page="49a" n="01">이 언덕에 오다</sent>
+<sent type="main" lang="chi" page="49a" n="02">河內洗澡</sent>
+<sent type="main" lang="kor" page="49a" n="02">내ㅅ믈에셔 목욕ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="03">人浮水</sent>
+<sent type="main" lang="kor" page="49a" n="03">사ᄅᆞᆷ이 믈에 헤옴치다</sent>
+<sent type="main" lang="chi" page="49a" n="04">狗刨兒</sent>
+<sent type="main" lang="kor" page="49a" n="04">사ᄅᆞᆷ이 개헤옴ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="05">扎猛子</sent>
+<sent type="main" lang="kor" page="49a" n="05">믈 ᄌᆞ믜악ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="06">牲口浮水</sent>
+<sent type="main" lang="kor" page="49a" n="06">즘ᄉᆡᆼ 헤옴ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="07">牲口過河</sent>
+<sent type="main" lang="kor" page="49a" n="07">즘ᄉᆡᆼ 믈에 헤여 건너다</sent>
+</pages>
+
+<pages n="49b">
+<img n="49b">https://kohico.kr/_media/image/18세기후기_한청문감/49b.jpg</img>
+<sent type="main" lang="chi" page="49b" n="01">浮漂</sent>
+<sent type="main" lang="kor" page="49b" n="01">ᄯᅳ다</sent>
+<sent type="main" lang="chi" page="49b" n="02">沉溺</sent>
+<sent type="main" lang="kor" page="49b" n="02">ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="49b" n="03">深入</sent>
+<sent type="main" lang="kor" page="49b" n="03">깁히 드러가다</sent>
+<sent type="main" lang="chi" page="49b" n="04">淹沒</sent>
+<sent type="main" lang="kor" page="49b" n="04">깁히 ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="49b" n="05">上</sent><!--상단에 '十三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="49b" n="05">우</sent>
+<sent type="main" lang="chi" page="49b" n="06">崇高</sent>
+<sent type="main" lang="kor" page="49b" n="06">놉다</sent>
+<sent type="main" lang="chi" page="49b" n="07">上頭</sent>
+<sent type="main" lang="kor" page="49b" n="07">웃마리</sent>
+<sent type="main" lang="chi" page="49b" n="08">下</sent>
+<sent type="main" lang="kor" page="49b" n="08">아ᄅᆡ</sent>
+<sent type="main" lang="chi" page="49b" n="09">下首</sent>
+<sent type="main" lang="kor" page="49b" n="09">아ᄅᆡ녁</sent>
+<sent type="main" lang="chi" page="49b" n="10">卑下</sent>
+<sent type="main" lang="kor" page="49b" n="10">ᄂᆞᆺ다</sent>
+</pages>
+
+<pages n="50a">
+<img n="50a">https://kohico.kr/_media/image/18세기후기_한청문감/50a.jpg</img>
+<sent type="main" lang="chi" page="50a" n="01">往下</sent>
+<sent type="main" lang="kor" page="50a" n="01">아ᄅᆡ로</sent>
+<sent type="main" lang="chi" page="50a" n="02">東</sent>
+<sent type="main" lang="kor" page="50a" n="02">東</sent><!--'東'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="03">往東</sent>
+<sent type="main" lang="kor" page="50a" n="03">東으로</sent>
+<sent type="main" lang="chi" page="50a" n="04">西</sent>
+<sent type="main" lang="kor" page="50a" n="04">西</sent><!--'西'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="05">往西</sent>
+<sent type="main" lang="kor" page="50a" n="05">西으로</sent>
+<sent type="main" lang="chi" page="50a" n="06">南</sent>
+<sent type="main" lang="kor" page="50a" n="06">南</sent><!--'南'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="07">北</sent>
+<sent type="main" lang="kor" page="50a" n="07">北</sent><!--'北'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="08">中</sent>
+<sent type="main" lang="kor" page="50a" n="08">가온대</sent>
+<sent type="main" lang="chi" page="50a" n="09">中間</sent>
+<sent type="main" lang="kor" page="50a" n="09">中間</sent><!--'中間'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="10">方</sent>
+<sent type="main" lang="kor" page="50a" n="10">四方之方</sent><!--마지막 '方'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="11">隅</sent>
+<sent type="main" lang="kor" page="50a" n="11">四隅之隅</sent><!--마지막 '隅'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="12">六合</sent>
+<sent type="main" lang="kor" page="50a" n="12">天地四方謂之六合</sent><!--'六合'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="50b">
+<img n="50b">https://kohico.kr/_media/image/18세기후기_한청문감/50b.jpg</img>
+<sent type="main" lang="chi" page="50b" n="01">邊</sent>
+<sent type="main" lang="kor" page="50b" n="01">這邊那邊之邊</sent><!--맨 마지막 '邊'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="02">正</sent>
+<sent type="main" lang="kor" page="50b" n="02">正南正北之正</sent><!--맨 마지막 '正'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="03">正面</sent>
+<sent type="main" lang="kor" page="50b" n="03">正面</sent><!--'正面'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="04">橫</sent>
+<sent type="main" lang="kor" page="50b" n="04">ᄀᆞ르</sent>
+<sent type="main" lang="chi" page="50b" n="05">豎</sent>
+<sent type="main" lang="kor" page="50b" n="05">길로</sent>
+<sent type="main" lang="chi" page="50b" n="06">一順</sent>
+<sent type="main" lang="kor" page="50b" n="06">셰대로</sent>
+<sent type="main" lang="chi" page="50b" n="07">斜</sent>
+<sent type="main" lang="kor" page="50b" n="07">빗기</sent>
+<sent type="main" lang="chi" page="50b" n="08">旁</sent>
+<sent type="main" lang="kor" page="50b" n="08">ᄀᆞ</sent>
+<sent type="main" lang="chi" page="50b" n="09">從旁邊</sent>
+<sent type="main" lang="kor" page="50b" n="09">겻흐로</sent>
+<sent type="main" lang="chi" page="50b" n="10">邊角</sent>
+<sent type="main" lang="kor" page="50b" n="10">ᄀᆞᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="50b" n="11">旁邊</sent>
+<sent type="main" lang="kor" page="50b" n="11">겻</sent>
+</pages>
+
+<pages n="51a">
+<img n="51a">https://kohico.kr/_media/image/18세기후기_한청문감/51a.jpg</img>
+<sent type="main" lang="chi" page="51a" n="01">旁邊些</sent>
+<sent type="main" lang="kor" page="51a" n="01">녑흐로</sent>
+<sent type="main" lang="chi" page="51a" n="02">左</sent>
+<sent type="main" lang="kor" page="51a" n="02">左</sent><!--'左'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="03">右</sent>
+<sent type="main" lang="kor" page="51a" n="03">右</sent><!--'右'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="04">前</sent>
+<sent type="main" lang="kor" page="51a" n="04">앏</sent>
+<sent type="main" lang="chi" page="51a" n="05">往前</sent>
+<sent type="main" lang="kor" page="51a" n="05">앏흐로</sent>
+<sent type="main" lang="chi" page="51a" n="06">後</sent>
+<sent type="main" lang="kor" page="51a" n="06">뒤</sent>
+<sent type="main" lang="chi" page="51a" n="07">往後</sent>
+<sent type="main" lang="kor" page="51a" n="07">뒤흐로</sent>
+<sent type="main" lang="chi" page="51a" n="08">那邊</sent>
+<sent type="main" lang="kor" page="51a" n="08">져 편</sent>
+<sent type="main" lang="chi" page="51a" n="09">這邊</sent>
+<sent type="main" lang="kor" page="51a" n="09">이 편</sent>
+</pages>
+</doc>
+

@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">한청문감</title>
+<title lang="chi">漢淸文鑑</title>
+<full_name>한청문감</full_name>
+<nikl_name>한청문감</nikl_name>
+<general_name>한청문감</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>프랑스MF본</version>
+<volume n="2"/>
+<author></author>
+<date>18세기후기</date><!--1778?-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title></title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/10</date>
+<respStmt>
+<resp>입력자</resp><name>정은진</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/18세기후기_한청문감/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="01">漢淸文鑑券二</sent>
+<sent type="title2" lang="chi" page="01a" n="02">帝王部 一類</sent>
+<sent type="title3" lang="chi" page="01a" n="03">帝王類 二則</sent>
+<sent type="main" lang="chi" page="01a" n="01">天子</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="01a" n="01">天子</sent><!--'天子'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01a" n="02">皇帝</sent>
+<sent type="main" lang="kor" page="01a" n="02">皇帝</sent><!--'皇帝'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01a" n="03">君</sent>
+<sent type="main" lang="kor" page="01a" n="03">님금</sent>
+<sent type="main" lang="chi" page="01a" n="04">主</sent>
+<sent type="main" lang="kor" page="01a" n="04">君字之義</sent>
+<sent type="main" lang="chi" page="01a" n="05">上</sent>
+<sent type="main" lang="kor" page="01a" n="05">至尊之稱</sent>
+<sent type="main" lang="chi" page="01a" n="06">皇上</sent>
+<sent type="main" lang="kor" page="01a" n="06">皇上</sent><!--'皇上'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/18세기후기_한청문감/01b.jpg</img>
+<sent type="main" lang="chi" page="01b" n="01">萬歲</sent>
+<sent type="main" lang="kor" page="01a" n="01">稱皇帝曰萬歲</sent><!--'萬歲'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="02">聖主</sent>
+<sent type="main" lang="kor" page="01b" n="02">聖主</sent><!--'聖主'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="03">明君</sent>
+<sent type="main" lang="kor" page="01b" n="03">明君</sent><!--'明君'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="04">皇太子</sent>
+<sent type="main" lang="kor" page="01b" n="04">皇太子</sent><!--'皇太子'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="01b" n="05">皇子</sent>
+<sent type="main" lang="kor" page="01b" n="05">未及封爵之稱</sent>
+<sent type="main" lang="chi" page="01b" n="06">和碩親王</sent>
+<sent type="main" lang="kor" page="01b" n="06">宗室封爵分十四等和碩親王卽第一等</sent>
+<sent type="main" lang="chi" page="01b" n="07">世子</sent>
+<sent type="main" lang="kor" page="01b" n="07">親王之嗣子○二等宗室</sent>
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/18세기후기_한청문감/02a.jpg</img>
+<sent type="main" lang="chi" page="02a" n="01">多羅郡王</sent>
+<sent type="main" lang="kor" page="02a" n="01">三等宗室</sent>
+<sent type="main" lang="chi" page="02a" n="02">長子</sent>
+<sent type="main" lang="kor" page="02a" n="02">郡王之嗣子○四等宗室</sent>
+<sent type="main" lang="chi" page="02a" n="03">多羅貝勒</sent>
+<sent type="main" lang="kor" page="02a" n="03">五等宗室</sent>
+<sent type="main" lang="chi" page="02a" n="04">固山貝子</sent>
+<sent type="main" lang="kor" page="02a" n="04">六等宗室</sent>
+<sent type="main" lang="chi" page="02a" n="05">奉恩輔國公</sent>
+<sent type="main" lang="kor" page="02a" n="05">七等宗室</sent>
+<sent type="main" lang="chi" page="02a" n="06">奉恩鎭國公</sent>
+<sent type="main" lang="kor" page="02a" n="06">八等宗室</sent>
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/18세기후기_한청문감/02b.jpg</img>
+<sent type="main" lang="chi" page="02b" n="01">不入八分鎭國公</sent><!--不入八分鎭國^公-->
+<sent type="main" lang="kor" page="02b" n="01">九等宗室</sent>
+<sent type="main" lang="chi" page="02b" n="02">不入八分輔國公</sent>
+<sent type="main" lang="kor" page="02b" n="02">十等宗室</sent>
+<sent type="main" lang="chi" page="02b" n="03">鎭國將軍</sent>
+<sent type="main" lang="kor" page="02b" n="03">十一等宗室</sent>
+<sent type="main" lang="chi" page="02b" n="04">輔國將軍</sent>
+<sent type="main" lang="kor" page="02b" n="04">十二等宗室</sent>
+<sent type="main" lang="chi" page="02b" n="05">奉國將軍</sent>
+<sent type="main" lang="kor" page="02b" n="05">十三等宗室</sent>
+<sent type="main" lang="chi" page="02b" n="06">奉恩將軍</sent>
+<sent type="main" lang="kor" page="02b" n="06">十四等宗室</sent>
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/18세기후기_한청문감/03a.jpg</img>
+<sent type="main" lang="chi" page="03a" n="01">宗室</sent>
+<sent type="main" lang="kor" page="03a" n="01">太祖以下皇帝之子孫腰束黃帶子</sent>
+<sent type="main" lang="chi" page="03a" n="02">覺羅</sent>
+<sent type="main" lang="kor" page="03a" n="02">顯祖以上皇帝之子孫腰束紅帶子</sent>
+<sent type="main" lang="chi" page="03a" n="03">固倫額駙</sent>
+<sent type="main" lang="kor" page="03a" n="03">駙馬尙固倫公主者</sent>
+<sent type="main" lang="chi" page="03a" n="04">和碩額駙</sent>
+<sent type="main" lang="kor" page="03a" n="04">駙馬尙和碩公主者</sent>
+<sent type="main" lang="chi" page="03a" n="05">郡主儀賓</sent>
+<sent type="main" lang="kor" page="03a" n="05">和碩親王之婿</sent>
+<sent type="main" lang="chi" page="03a" n="06">縣主儀賓</sent>
+<sent type="main" lang="kor" page="03a" n="06">多羅郡王之婿</sent>
+<sent type="main" lang="chi" page="03a" n="07">郡君儀賓</sent>
+<sent type="main" lang="kor" page="03a" n="07">多羅貝勒之婿</sent>
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/18세기후기_한청문감/03b.jpg</img>
+<sent type="main" lang="chi" page="03b" n="01">縣君儀賓</sent>
+<sent type="main" lang="kor" page="03b" n="01">固山貝子之婿</sent>
+<sent type="main" lang="chi" page="03b" n="02">鄕君儀賓</sent>
+<sent type="main" lang="kor" page="03b" n="02">鎭國輔國公之婿</sent>
+<sent type="main" lang="chi" page="03b" n="03">皇后</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="03b" n="03">皇后</sent><!--'皇后'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="03">皇貴妃</sent>
+<sent type="main" lang="kor" page="03b" n="04">皇貴妃</sent><!--'皇貴妃'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="04">貴妃</sent>
+<sent type="main" lang="kor" page="03b" n="05">貴妃</sent><!--'貴妃'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="05">妃</sent>
+<sent type="main" lang="kor" page="03b" n="06">妃</sent><!--'妃'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="06">嬪</sent>
+<sent type="main" lang="kor" page="03b" n="07">嬪</sent><!--'嬪'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="07">皇太子妃</sent>
+<sent type="main" lang="kor" page="03b" n="07">皇太子妃</sent><!--'皇太子妃'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="03b" n="08">固倫公主</sent>
+<sent type="main" lang="kor" page="03b" n="08">皇后所生之女</sent>
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/18세기후기_한청문감/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="01">和碩公主</sent>
+<sent type="main" lang="kor" page="04a" n="01">妃嬪所生之女及皇后撫養宗室女竝封和碩公主</sent><!--'和碩公主'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="04a" n="02">郡主</sent>
+<sent type="main" lang="kor" page="04a" n="02">親王女</sent>
+<sent type="main" lang="chi" page="04a" n="03">縣主</sent>
+<sent type="main" lang="kor" page="04a" n="03">郡王女</sent>
+<sent type="main" lang="chi" page="04a" n="04">郡君</sent>
+<sent type="main" lang="kor" page="04a" n="04">多羅貝勒之女</sent>
+<sent type="main" lang="chi" page="04a" n="05">縣君</sent>
+<sent type="main" lang="kor" page="04a" n="05">固山貝子之女</sent>
+<sent type="main" lang="chi" page="04a" n="06">鄕君</sent>
+<sent type="main" lang="kor" page="04a" n="06">鎭國輔國公之女</sent>
+<sent type="main" lang="chi" page="04a" n="07">親王福晋</sent>
+<sent type="main" lang="kor" page="04a" n="07">親王之妻</sent>
+<sent type="main" lang="chi" page="04a" n="08">郡王福晋</sent>
+<sent type="main" lang="kor" page="04a" n="08">郡王之妻</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/18세기후기_한청문감/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="01">貝勒福晋</sent>
+<sent type="main" lang="kor" page="04b" n="01">貝勒之妻</sent>
+<sent type="main" lang="chi" page="04b" n="02">貝子福晋</sent>
+<sent type="main" lang="kor" page="04b" n="02">固山貝子之妻</sent>
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/18세기후기_한청문감/05a.jpg</img>
+<sent type="title2" lang="chi" page="05a" n="01">諭㫖部 二類</sent>
+<sent type="title3" lang="chi" page="05a" n="02">諭㫖類 一則</sent>
+<sent type="main" lang="chi" page="05a" n="03">旨</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="05a" n="03">皇旨</sent>
+<sent type="main" lang="chi" page="05a" n="04">誥</sent>
+<sent type="main" lang="kor" page="05a" n="04">昭垂訓行曰誥</sent><!--'誥'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="05a" n="05">勅</sent>
+<sent type="main" lang="kor" page="05a" n="05">申明職守曰勅</sent><!--'勅'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="05a" n="06">詔</sent>
+<sent type="main" lang="kor" page="05a" n="06">布告天下曰詔</sent><!--'詔'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="05a" n="07">赦</sent>
+<sent type="main" lang="kor" page="05a" n="07">免罪之旨</sent>
+<sent type="main" lang="chi" page="05a" n="08">恩</sent>
+<sent type="main" lang="kor" page="05a" n="08">恩典</sent>
+<sent type="main" lang="chi" page="05a" n="09">賞</sent>
+<sent type="main" lang="kor" page="05a" n="09">賚賜</sent>
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/18세기후기_한청문감/05b.jpg</img>
+<sent type="main" lang="chi" page="05b" n="01">寶</sent>
+<sent type="main" lang="kor" page="05b" n="01">璽寶</sent>
+<sent type="main" lang="chi" page="05b" n="02">節</sent>
+<sent type="main" lang="kor" page="05b" n="02">冊封時執而前引者</sent>
+<sent type="main" lang="chi" page="05b" n="03">朶雲</sent>
+<sent type="main" lang="kor" page="05b" n="03">刻雲形之哭盛恩詔自天安門城上頒下者</sent>
+<sent type="main" lang="chi" page="05b" n="04">雲盤</sent>
+<sent type="main" lang="kor" page="05b" n="04">刻雲形之盤以擎恩詔者</sent>
+<sent type="main" lang="chi" page="05b" n="05">帝系</sent>
+<sent type="main" lang="kor" page="05b" n="05">皇帝皇子譜牒</sent>
+<sent type="main" lang="chi" page="05b" n="06">玉牒</sent>
+<sent type="main" lang="kor" page="05b" n="06">皇親譜牒每十年一修存者朱書歿者墨書</sent>
+<sent type="main" lang="chi" page="05b" n="07">勅書</sent>
+<sent type="main" lang="kor" page="05b" n="07">承襲官과 出使官의게 주ᄂᆞᆫ 글</sent>
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/18세기후기_한청문감/06a.jpg</img>
+<sent type="main" lang="chi" page="06a" n="01">時憲書</sent>
+<sent type="main" lang="kor" page="06a" n="01">時憲書</sent><!--'時憲書'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="06a" n="02">印</sent>
+<sent type="main" lang="kor" page="06a" n="02">印信</sent>
+<sent type="main" lang="chi" page="06a" n="03">關防</sent>
+<sent type="main" lang="kor" page="06a" n="03">關防○印類狹而差長者</sent><!--'關防'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="06a" n="04">紐</sent>
+<sent type="main" lang="kor" page="06a" n="04">인 ᄭᅩᆨ지</sent>
+<sent type="main" lang="chi" page="06a" n="05">綬</sent>
+<sent type="main" lang="kor" page="06a" n="05">인 ᄭᅵᆫ</sent>
+<sent type="main" lang="chi" page="06a" n="06">鈐記</sent>
+<sent type="main" lang="kor" page="06a" n="06">比關防印差小者</sent>
+<sent type="main" lang="chi" page="06a" n="07">條記</sent>
+<sent type="main" lang="kor" page="06a" n="07">比鈐記差小者</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/18세기후기_한청문감/06b.jpg</img>
+<sent type="main" lang="chi" page="06b" n="01">王命旗牌</sent>
+<sent type="main" lang="kor" page="06b" n="01">邊臣의게 주ᄂᆞᆫ 旗와 牌</sent>
+<sent type="main" lang="chi" page="06b" n="02">信牌</sent>
+<sent type="main" lang="kor" page="06b" n="02">刻漢淸蒙字於龍牌以爲票信者於口外官差等事用之</sent>
+<sent type="main" lang="chi" page="06b" n="03">憑</sent>
+<sent type="main" lang="kor" page="06b" n="03">外任文官 주ᄂᆞᆫ 票文</sent>
+<sent type="main" lang="chi" page="06b" n="04">箚付</sent>
+<sent type="main" lang="kor" page="06b" n="04">外任武官 주ᄂᆞᆫ 票文</sent>
+<sent type="main" lang="chi" page="06b" n="05">執照</sent>
+<sent type="main" lang="kor" page="06b" n="05">外方出使官 주ᄂᆞᆫ 票文</sent>
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/18세기후기_한청문감/07a.jpg</img>
+<sent type="main" lang="chi" page="07a" n="01">合符</sent>
+<sent type="main" lang="kor" page="07a" n="01">符驗</sent>
+<sent type="main" lang="chi" page="07a" n="02">陽文合符</sent>
+<sent type="main" lang="kor" page="07a" n="02">開門符之陽刻者藏於大內</sent>
+<sent type="main" lang="chi" page="07a" n="03">陰文合符</sent>
+<sent type="main" lang="kor" page="07a" n="03">開門符之陰刻者藏於各門</sent>
+<sent type="main" lang="chi" page="07a" n="04">印信糢糊</sent>
+<sent type="main" lang="kor" page="07a" n="04">印ㅅ발 달하 흐리다</sent>
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/18세기후기_한청문감/07b.jpg</img>
+<sent type="title3" lang="chi" page="07b" n="01">封表類 二則</sent>
+<sent type="main" lang="chi" page="07b" n="02">封誥</sent>
+<sent type="main" lang="kor" page="07b" n="02">冊封詰命</sent>
+<sent type="main" lang="chi" page="07b" n="03">冊</sent>
+<sent type="main" lang="kor" page="07b" n="03">用金葉或黃紙封妃王之文</sent>
+<sent type="main" lang="chi" page="07b" n="04">誥命</sent>
+<sent type="main" lang="kor" page="07b" n="04">五品以上告身</sent>
+<sent type="main" lang="chi" page="07b" n="05">勅命</sent>
+<sent type="main" lang="kor" page="07b" n="05">六品以下告身</sent>
+<sent type="main" lang="chi" page="07b" n="06">封</sent>
+<sent type="main" lang="kor" page="07b" n="06">封ᄒᆞ다</sent><!--'封'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="07b" n="07">受封</sent>
+<sent type="main" lang="kor" page="07b" n="07">봉뎐 밧다</sent>
+<sent type="main" lang="chi" page="07b" n="08">加封</sent>
+<sent type="main" lang="kor" page="07b" n="08">特恩加封</sent><!--'加封'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/18세기후기_한청문감/08a.jpg</img>
+<sent type="main" lang="chi" page="08a" n="01">貤封</sent>
+<sent type="main" lang="kor" page="08a" n="01">應受封之人請移恩父祖或本生父祖者</sent>
+<sent type="main" lang="chi" page="08a" n="02">追封</sent>
+<sent type="main" lang="kor" page="08a" n="02">追贈ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="08a" n="03">旌表</sent>
+<sent type="main" lang="kor" page="08a" n="03">旌表ᄒᆞ다</sent><!--'旌表'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="08a" n="04">給諡號</sent>
+<sent type="main" lang="kor" page="08a" n="04">諡號 주다</sent>
+<sent type="main" lang="chi" page="08a" n="05">太師</sent>
+<sent type="main" lang="kor" page="08a" n="05">正一品太師傅保少師傅保太子太師傅保太子少師傅保皆不專設以待大臣加御及追贈</sent>
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/18세기후기_한청문감/08b.jpg</img>
+<sent type="main" lang="chi" page="08b" n="01">太傅</sent>
+<sent type="main" lang="kor" page="08b" n="01">正一品</sent>
+<sent type="main" lang="chi" page="08b" n="02">太保</sent>
+<sent type="main" lang="kor" page="08b" n="02">正一品</sent>
+<sent type="main" lang="chi" page="08b" n="03">少師</sent>
+<sent type="main" lang="kor" page="08b" n="03">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="04">少傅</sent>
+<sent type="main" lang="kor" page="08b" n="04">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="05">少保</sent>
+<sent type="main" lang="kor" page="08b" n="05">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="06">太子太師</sent>
+<sent type="main" lang="kor" page="08b" n="06">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="07">太子太傅</sent>
+<sent type="main" lang="kor" page="08b" n="07">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="08">太子太保</sent>
+<sent type="main" lang="kor" page="08b" n="08">從一品</sent>
+<sent type="main" lang="chi" page="08b" n="09">太子少師</sent>
+<sent type="main" lang="kor" page="08b" n="09">正二品</sent>
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/18세기후기_한청문감/09a.jpg</img>
+<sent type="main" lang="chi" page="09a" n="01">太子少傅</sent><!--太^子少傅-->
+<sent type="main" lang="kor" page="09a" n="01">正二品</sent>
+<sent type="main" lang="chi" page="09a" n="02">太子少保</sent>
+<sent type="main" lang="kor" page="09a" n="02">正二品</sent>
+<sent type="main" lang="chi" page="09a" n="03">光祿大夫</sent>
+<sent type="main" lang="kor" page="09a" n="03">正一品階○以下文官階</sent>
+<sent type="main" lang="chi" page="09a" n="04">榮祿大夫</sent>
+<sent type="main" lang="kor" page="09a" n="04">從一品階</sent>
+<sent type="main" lang="chi" page="09a" n="05">資政大夫</sent>
+<sent type="main" lang="kor" page="09a" n="05">正二品階</sent>
+<sent type="main" lang="chi" page="09a" n="06">通奉大夫</sent>
+<sent type="main" lang="kor" page="09a" n="06">從二品階</sent>
+<sent type="main" lang="chi" page="09a" n="07">通議大夫</sent>
+<sent type="main" lang="kor" page="09a" n="07">正三品階</sent>
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/18세기후기_한청문감/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="01">中義大夫</sent>
+<sent type="main" lang="kor" page="09b" n="01">從三品階</sent>
+<sent type="main" lang="chi" page="09b" n="02">中憲大夫</sent>
+<sent type="main" lang="kor" page="09b" n="02">正四品階</sent>
+<sent type="main" lang="chi" page="09b" n="03">朝議大夫</sent>
+<sent type="main" lang="kor" page="09b" n="03">從四品階</sent>
+<sent type="main" lang="chi" page="09b" n="04">奉政大夫</sent>
+<sent type="main" lang="kor" page="09b" n="04">正五品階</sent>
+<sent type="main" lang="chi" page="09b" n="05">奉直大夫</sent>
+<sent type="main" lang="kor" page="09b" n="05">從五品階</sent>
+<sent type="main" lang="chi" page="09b" n="06">承德郞</sent>
+<sent type="main" lang="kor" page="09b" n="06">正六品階</sent>
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/18세기후기_한청문감/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="01">儒林郞</sent>
+<sent type="main" lang="kor" page="10a" n="01">從六品階</sent>
+<sent type="main" lang="chi" page="10a" n="02">文林郞</sent>
+<sent type="main" lang="kor" page="10a" n="02">正七品階</sent>
+<sent type="main" lang="chi" page="10a" n="03">徵仕郞</sent>
+<sent type="main" lang="kor" page="10a" n="03">從七品階</sent>
+<sent type="main" lang="chi" page="10a" n="04">修職郞</sent>
+<sent type="main" lang="kor" page="10a" n="04">正八品階</sent>
+<sent type="main" lang="chi" page="10a" n="05">修職佐郞</sent>
+<sent type="main" lang="kor" page="10a" n="05">從八品階</sent>
+<sent type="main" lang="chi" page="10a" n="06">登仕郞</sent>
+<sent type="main" lang="kor" page="10a" n="06">正九品階</sent>
+<sent type="main" lang="chi" page="10a" n="07">登仕佐郞</sent>
+<sent type="main" lang="kor" page="10a" n="07">從九品階</sent>
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/18세기후기_한청문감/10b.jpg</img>
+<sent type="main" lang="chi" page="10b" n="01">建威大夫</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="10b" n="01">正一品階○以下武官階</sent>
+<sent type="main" lang="chi" page="10b" n="02">振威大夫</sent>
+<sent type="main" lang="kor" page="10b" n="02">從一品階</sent>
+<sent type="main" lang="chi" page="10b" n="03">武顯大夫</sent>
+<sent type="main" lang="kor" page="10b" n="03">正二品階</sent>
+<sent type="main" lang="chi" page="10b" n="04">武功大夫</sent>
+<sent type="main" lang="kor" page="10b" n="04">從二品階</sent>
+<sent type="main" lang="chi" page="10b" n="05">武義大夫</sent>
+<sent type="main" lang="kor" page="10b" n="05">正三品階</sent>
+<sent type="main" lang="chi" page="10b" n="06">武翼大夫</sent>
+<sent type="main" lang="kor" page="10b" n="06">從三品階</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/18세기후기_한청문감/11a.jpg</img>
+<sent type="main" lang="chi" page="11a" n="01">昭武大夫</sent>
+<sent type="main" lang="kor" page="11a" n="01">正四品階</sent>
+<sent type="main" lang="chi" page="11a" n="02">宣武大夫</sent>
+<sent type="main" lang="kor" page="11a" n="02">從四品階</sent>
+<sent type="main" lang="chi" page="11a" n="03">武德郞</sent>
+<sent type="main" lang="kor" page="11a" n="03">正五品階</sent>
+<sent type="main" lang="chi" page="11a" n="04">wulü武略郞</sent>
+<sent type="main" lang="kor" page="11a" n="04">從五品階</sent>
+<sent type="main" lang="chi" page="11a" n="05">武信郞</sent>
+<sent type="main" lang="kor" page="11a" n="05">正六品階</sent>
+<sent type="main" lang="chi" page="11a" n="06">武信佐郞</sent>
+<sent type="main" lang="kor" page="11a" n="06">從六品階</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/18세기후기_한청문감/11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="01">奮武郞</sent>
+<sent type="main" lang="kor" page="11b" n="01">正七品階</sent>
+<sent type="main" lang="chi" page="11b" n="02">奮武佐郞</sent>
+<sent type="main" lang="kor" page="11b" n="02">從七品階</sent>
+<sent type="main" lang="chi" page="11b" n="03">修武郞</sent>
+<sent type="main" lang="kor" page="11b" n="03">正八品階</sent>
+<sent type="main" lang="chi" page="11b" n="04">修武佐郞</sent>
+<sent type="main" lang="kor" page="11b" n="04">從八品階</sent>
+<sent type="main" lang="chi" page="11b" n="05">一品夫人</sent>
+<sent type="main" lang="kor" page="11b" n="05">文武一品官之妻</sent>
+<sent type="main" lang="chi" page="11b" n="06">夫人</sent>
+<sent type="main" lang="kor" page="11b" n="06">二品官之妻</sent>
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/18세기후기_한청문감/12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="01">淑人</sent>
+<sent type="main" lang="kor" page="12a" n="01">三品官之妻</sent>
+<sent type="main" lang="chi" page="12a" n="02">恭人</sent>
+<sent type="main" lang="kor" page="12a" n="02">四品官之妻</sent>
+<sent type="main" lang="chi" page="12a" n="03">宜人</sent>
+<sent type="main" lang="kor" page="12a" n="03">五品官之妻</sent>
+<sent type="main" lang="chi" page="12a" n="04">安人</sent>
+<sent type="main" lang="kor" page="12a" n="04">六品官之妻</sent>
+<sent type="main" lang="chi" page="12a" n="05">孺人</sent>
+<sent type="main" lang="kor" page="12a" n="05">七品官之妻○以上文武竝同</sent>
+<sent type="main" lang="chi" page="12a" n="06">孝子</sent>
+<sent type="main" lang="kor" page="12a" n="06">孝子</sent><!--'孝子'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12a" n="07">順孫</sent>
+<sent type="main" lang="kor" page="12a" n="07">順孫</sent>
+<sent type="main" lang="chi" page="12a" n="08">忠臣</sent>
+<sent type="main" lang="kor" page="12a" n="08">忠臣</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/18세기후기_한청문감/12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="01">義士</sent>
+<sent type="main" lang="kor" page="12b" n="01">義士</sent><!--'義士'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="02">義夫</sent>
+<sent type="main" lang="kor" page="12b" n="02">妻亡不再娶曰義夫</sent><!--'義夫'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="03">節婦</sent>
+<sent type="main" lang="kor" page="12b" n="03">夫死不嫁曰節婦</sent><!--'節婦'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="04">烈婦</sent>
+<sent type="main" lang="kor" page="12b" n="04">夫亡而從死曰烈婦</sent><!--'烈婦'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="05">孝婦</sent>
+<sent type="main" lang="kor" page="12b" n="05">善事舅姑曰孝婦</sent><!--'孝婦'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="06">孝女</sent>
+<sent type="main" lang="kor" page="12b" n="06">兩親不嫁曰孝女</sent><!--'孝女'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="12b" n="07">貞女</sent>
+<sent type="main" lang="kor" page="12b" n="07">受聘後夫死不嫁曰貞女</sent><!--'貞女'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/18세기후기_한청문감/13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="01">烈女</sent>
+<sent type="main" lang="kor" page="13a" n="01">受聘後夫亡而從死曰烈女</sent><!--'烈女'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="13a" n="02">節義女</sent>
+<sent type="main" lang="kor" page="13a" n="02">受聘後不死而終身不嫁孝養舅姑曰節義女</sent><!--'節義女'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="13a" n="03">名宦</sent>
+<sent type="main" lang="kor" page="13a" n="03">做官有功德者曰名宦</sent><!--'名宦'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="13a" n="04">鄕賢</sent>
+<sent type="main" lang="kor" page="13a" n="04">一鄕之賢者曰鄕賢</sent><!--'鄕賢'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="13a" n="05">義行</sent>
+<sent type="main" lang="kor" page="13a" n="05">累世同居曰義行</sent><!--'義行'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/18세기후기_한청문감/14a.jpg</img>
+<sent type="title2" lang="chi" page="14a" n="01">設官部 四類</sent>
+<sent type="title3" lang="chi" page="14a" n="02">旗分佐領類 一則</sent>
+<sent type="main" lang="chi" page="14a" n="03">旗分</sent>
+<sent type="main" lang="kor" page="14a" n="03">滿洲蒙古漢軍分肄各旗謂之旗分</sent><!--'旗分'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="14a" n="04">八旗</sent>
+<sent type="main" lang="kor" page="14a" n="04">鑲黃正黃正白正紅鑲白鑲紅正藍鑲藍</sent>
+<sent type="main" lang="chi" page="14a" n="05">滿洲都統</sent>
+<sent type="main" lang="kor" page="14a" n="05">滿洲旗分都摠之稱</sent>
+<sent type="main" lang="chi" page="14a" n="06">蒙古都統</sent>
+<sent type="main" lang="kor" page="14a" n="06">蒙古旗分都摠之稱</sent>
+<sent type="main" lang="chi" page="14a" n="07">漢軍都統</sent>
+<sent type="main" lang="kor" page="14a" n="07">漢軍旗分都摠之稱</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/18세기후기_한청문감/14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="01">左翼</sent>
+<sent type="main" lang="kor" page="14b" n="01">鑲黃正白鑲白正藍四旗</sent>
+<sent type="main" lang="chi" page="14b" n="02">右翼</sent>
+<sent type="main" lang="kor" page="14b" n="02">正黃正紅鑲紅鑲藍四旗</sent>
+<sent type="main" lang="chi" page="14b" n="03">鑲黃</sent>
+<sent type="main" lang="kor" page="14b" n="03">黃旗之鑲紅者</sent>
+<sent type="main" lang="chi" page="14b" n="04">正黃</sent>
+<sent type="main" lang="kor" page="14b" n="04">純黃旗</sent>
+<sent type="main" lang="chi" page="14b" n="05">正白</sent>
+<sent type="main" lang="kor" page="14b" n="05">純白旗</sent>
+<sent type="main" lang="chi" page="14b" n="06">正紅</sent>
+<sent type="main" lang="kor" page="14b" n="06">純紅旗</sent>
+<sent type="main" lang="chi" page="14b" n="07">鑲白</sent>
+<sent type="main" lang="kor" page="14b" n="07">白旗之鑲紅者</sent>
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/18세기후기_한청문감/15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="01">鑲紅</sent>
+<sent type="main" lang="kor" page="15a" n="01">紅旗之鑲白者</sent>
+<sent type="main" lang="chi" page="15a" n="02">正藍</sent>
+<sent type="main" lang="kor" page="15a" n="02">純藍旗</sent>
+<sent type="main" lang="chi" page="15a" n="03">鑲藍</sent>
+<sent type="main" lang="kor" page="15a" n="03">藍旗之鑲紅者</sent>
+<sent type="main" lang="chi" page="15a" n="04">內府三旗</sent>
+<sent type="main" lang="kor" page="15a" n="04">內務府亦有鑲黃正黃正白三旗</sent>
+<sent type="main" lang="chi" page="15a" n="05">綠旗</sent>
+<sent type="main" lang="kor" page="15a" n="05">直肄各省民兵所屬之旗</sent>
+<sent type="main" lang="chi" page="15a" n="06">甲喇</sent>
+<sent type="main" lang="kor" page="15a" n="06">合佐領爲甲喇猶言部曲</sent><!--'甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15a" n="07">頭甲喇</sent>
+<sent type="main" lang="kor" page="15a" n="07">頭甲喇</sent><!--'頭甲喇'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/18세기후기_한청문감/15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="01">二甲喇</sent><!--二甲^喇-->
+<sent type="main" lang="kor" page="15b" n="01">二甲喇</sent><!--'二甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="02">三甲喇</sent>
+<sent type="main" lang="kor" page="15b" n="02">三甲喇</sent><!--'三甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="03">四甲喇</sent>
+<sent type="main" lang="kor" page="15b" n="03">四甲喇</sent><!--'四甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="04">五甲喇</sent>
+<sent type="main" lang="kor" page="15b" n="04">五甲喇</sent><!--'五甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="05">蒙古頭甲喇</sent>
+<sent type="main" lang="kor" page="15b" n="05">蒙古頭甲喇</sent><!--'蒙古頭甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="06">蒙古二甲喇</sent>
+<sent type="main" lang="kor" page="15b" n="06">蒙古二甲喇</sent><!--'蒙古二甲喇'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="15b" n="07">佐領</sent>
+<sent type="main" lang="kor" page="15b" n="07">編百丁爲一佐領猶言隊也內有牛彔章京驍騎校漢軍校前鋒護軍領催馬步軍拜唐阿等屬</sent>
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/18세기후기_한청문감/16a.jpg</img>
+<sent type="main" lang="chi" page="16a" n="01">勳舊佐領</sent>
+<sent type="main" lang="kor" page="16a" n="01">淸初勳臣之所管兵丁部分作隊使其子孫世領之</sent>
+<sent type="main" lang="chi" page="16a" n="02">世管佐領</sent>
+<sent type="main" lang="kor" page="16a" n="02">淸初擧衆歸順者部分作隊仍使其子孫世領之</sent>
+<sent type="main" lang="chi" page="16a" n="03">輪管佐領</sent>
+<sent type="main" lang="kor" page="16a" n="03">兩姓互相管領之衆</sent>
+<sent type="main" lang="chi" page="16a" n="04">公中佐領</sent>
+<sent type="main" lang="kor" page="16a" n="04">收聚官屬作隊者</sent>
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/18세기후기_한청문감/16b.jpg</img>
+<sent type="main" lang="chi" page="16b" n="01">內府佐領</sent><!--內府佐^領-->
+<sent type="main" lang="kor" page="16b" n="01">內務府及諸王貝勒所管之隊</sent>
+<sent type="main" lang="chi" page="16b" n="02">旗鼓佐領</sent>
+<sent type="main" lang="kor" page="16b" n="02">內務府漢軍隊</sent>
+<sent type="main" lang="chi" page="16b" n="03">管領</sent>
+<sent type="main" lang="kor" page="16b" n="03">內務府頭目所領之隊伍</sent>
+<sent type="main" lang="chi" page="16b" n="04">高麗佐領</sent>
+<sent type="main" lang="kor" page="16b" n="04">高麗被擄人作隊者</sent>
+<sent type="main" lang="chi" page="16b" n="05">俄羅斯佐領</sent>
+<sent type="main" lang="kor" page="16b" n="05">俄羅斯歸順人作隊者</sent>
+<sent type="main" lang="chi" page="16b" n="06">回子佐領</sent>
+<sent type="main" lang="kor" page="16b" n="06">回子歸順人作隊者</sent>
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/18세기후기_한청문감/17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">屬下</sent>
+<sent type="main" lang="kor" page="17a" n="01">通稱管下</sent>
+<sent type="main" lang="chi" page="17a" n="02">察哈爾八旗</sent>
+<sent type="main" lang="kor" page="17a" n="02">蒙古部落之名天聰時來降崇德初作部分屬於八旗順治間置都統副都統以領之</sent>
+<sent type="main" lang="chi" page="17a" n="03">四十九旗</sent>
+<sent type="main" lang="kor" page="17a" n="03">蒙古諸種分作四十九旗封爵賜印使居口外</sent>
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/18세기후기_한청문감/17b.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">歸化城土黙特二旗</sent>
+<sent type="main" lang="kor" page="17a" n="01">崇德中土黙特來降故處之歸化城置二都統以領之後隨品賜爵使之世襲</sent>
+<sent type="main" lang="chi" page="17b" n="02">八十六旗</sent>
+<sent type="main" lang="kor" page="17b" n="02">㺚子爲厄魯特所敗分散來降故康熙時立嗣存國封王貝勒共作八十六旗</sent>
+<sent type="main" lang="chi" page="17b" n="03">附隷八旗厄魯特</sent>
+<sent type="main" lang="kor" page="17b" n="03">厄魯特噶爾丹蒙古康熙時親征而滅之軍中俘口自官給銀以贖之編于口外札哈爾旗內</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/18세기후기_한청문감/18a.jpg</img>
+<sent type="main" lang="chi" page="18a" n="01">淸海三十旗</sent>
+<sent type="main" lang="kor" page="18a" n="01">蒙古部落之名康熙時封王貝勒使之進貢雍正三年始作旗分</sent>
+<sent type="main" lang="chi" page="18a" n="02">阿蘭善山厄魯特一旗</sent>
+<sent type="main" lang="kor" page="18a" n="02">厄魯特一種康熙三十六年來降乞爲旗分故陞封多羅貝勒處之阿蘭善山</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/18세기후기_한청문감/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="01">西藏唐古特蒙古</sent><!--西藏唐古特^蒙古-->
+<sent type="main" lang="kor" page="18b" n="01">西邊蒙古雍正七年歸順勤崇佛敎後以勞封公爵統于西藏大臣</sent>
+<sent type="main" lang="chi" page="18b" n="02">土爾扈特一旗</sent>
+<sent type="main" lang="kor" page="18b" n="02">淸海之一種康熙四十三年封固山貝勒乾隆十八年作旗分佐領統于摠督</sent>
+<sent type="main" lang="chi" page="18b" n="03">新投誠準噶爾十六旗</sent>
+<sent type="main" lang="kor" page="18b" n="03">西北方部落也準噶諸部互相殺伐殘害人民其中台吉車楞等擧?衆願降故封王貝勒等爵仍作旗分</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/18세기후기_한청문감/19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="01">平定準噶爾厄魯特</sent>
+<sent type="main" lang="kor" page="19a" n="01">西北方部落中最强獷者乾隆二十年討平之獻馘太廟仍赦其酋封以王爵置之京師</sent>
+<sent type="main" lang="chi" page="19a" n="02">扎哈沁一旗</sent>
+<sent type="main" lang="kor" page="19a" n="02">乾隆二十年征準噶之時札哈沁酋長先爲來降故特封公爵仍使領其所屬二千餘口</sent>
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/18세기후기_한청문감/19b.jpg</img>
+<sent type="main" lang="chi" page="19b" n="01">烏良海十一旗</sent>
+<sent type="main" lang="kor" page="19b" n="01">準噶之類乾隆十九年其酋長率其部落慕化來歸故仍作旗分使其渠帥爲摠督以管之</sent>
+<sent type="main" lang="chi" page="19b" n="02">哈蜜回子一旗</sent>
+<sent type="main" lang="kor" page="19b" n="02">康熙三十六年來降而其子孫屢立戰功故封王世襲摠于哈蜜大臣</sent>
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/18세기후기_한청문감/20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="01">土爾番回子一旗</sent>
+<sent type="main" lang="kor" page="20a" n="01">雍正十年以屢立戰功特屬旗分封爵賜印仍領其衆</sent>
+<sent type="main" lang="chi" page="20a" n="02">新投誠回子</sent>
+<sent type="main" lang="kor" page="20a" n="02">乾隆二十四年來降特封王貝勒公等爵處之皇城屬于理藩院</sent>
+<sent type="main" lang="chi" page="20a" n="03">平定回子</sent>
+<sent type="main" lang="kor" page="20a" n="03">回子伊犁等十餘城討平之後使其諸酋仍主其城置大臣以領之</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/18세기후기_한청문감/20b.jpg</img>
+<sent type="main" lang="chi" page="20b" n="01">進貢回子</sent>
+<sent type="main" lang="kor" page="20b" n="01">卽平定回子也摠領大臣每年輪派各城回子使貢土物</sent>
+<sent type="title3" lang="chi" page="20b" n="02">臣宰類 十四則</sent>
+<sent type="main" lang="chi" page="20b" n="03">大臣</sent>
+<sent type="main" lang="kor" page="20b" n="03">文武大官通稱大臣</sent><!--'大臣'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="20b" n="04">大學士</sent>
+<sent type="main" lang="kor" page="20b" n="04">內閣之官■理機務表率百寮</sent>
+<sent type="main" lang="chi" page="20b" n="05">軍機大臣</sent>
+<sent type="main" lang="kor" page="20b" n="05">掌機密事務</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/18세기후기_한청문감/21a.jpg</img>
+<sent type="main" lang="chi" page="21a" n="01">御前大臣</sent>
+<sent type="main" lang="kor" page="21a" n="01">近侍大臣</sent>
+<sent type="main" lang="chi" page="21a" n="02">領侍衛內大臣</sent>
+<sent type="main" lang="kor" page="21a" n="02">總領侍衛之大臣</sent>
+<sent type="main" lang="chi" page="21a" n="03">內大臣</sent>
+<sent type="main" lang="kor" page="21a" n="03">內大臣</sent><!--'內大臣'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="21a" n="04">議政大臣</sent>
+<sent type="main" lang="kor" page="21a" n="04">大臣中參贊政事者</sent>
+<sent type="main" lang="chi" page="21a" n="05">散秩大臣</sent>
+<sent type="main" lang="kor" page="21a" n="05">散班大臣</sent><!--'散班大臣'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="21a" n="06">首輔大臣</sent>
+<sent type="main" lang="kor" page="21a" n="06">元老大臣</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/18세기후기_한청문감/21b.jpg</img>
+<sent type="main" lang="chi" page="21b" n="01">世臣</sent>
+<sent type="main" lang="kor" page="21b" n="01">世祿之臣</sent>
+<sent type="main" lang="chi" page="21b" n="02">功臣</sent>
+<sent type="main" lang="kor" page="21b" n="02">勳臣</sent>
+<sent type="main" lang="chi" page="21b" n="03">原品致仕大臣</sent>
+<sent type="main" lang="kor" page="21b" n="03">休致大臣</sent>
+<sent type="main" lang="chi" page="21b" n="04">宗令</sent>
+<sent type="main" lang="kor" page="21b" n="04">總領宗人府事親王郡王兼之</sent>
+<sent type="main" lang="chi" page="21b" n="05">宗正</sent>
+<sent type="main" lang="kor" page="21b" n="05">宗領之次王貝勒兼之</sent>
+<sent type="main" lang="chi" page="21b" n="06">宗人</sent>
+<sent type="main" lang="kor" page="21b" n="06">宗正之次貝勒及公兼之</sent>
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/18세기후기_한청문감/22a.jpg</img>
+<sent type="main" lang="chi" page="22a" n="01">文大臣</sent>
+<sent type="main" lang="kor" page="22a" n="01">大學士九卿等官</sent>
+<sent type="main" lang="chi" page="22a" n="02">九卿</sent>
+<sent type="main" lang="kor" page="22a" n="02">六部尙書都察院都御史通政司使大理寺卿謂之九卿</sent><!--'九卿'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="22a" n="03">尙書</sent>
+<sent type="main" lang="kor" page="22a" n="03">總領該部院事務</sent>
+<sent type="main" lang="chi" page="22a" n="04">侍郞</sent>
+<sent type="main" lang="kor" page="22a" n="04">尙書之次</sent>
+<sent type="main" lang="chi" page="22a" n="05">左都御史</sent>
+<sent type="main" lang="kor" page="22a" n="05">總領都察院事務○右都御史則各省總督加御</sent>
+<sent type="main" lang="chi" page="22a" n="06">副都御史</sent>
+<sent type="main" lang="kor" page="22a" n="06">左都御史之次</sent>
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/18세기후기_한청문감/22b.jpg</img>
+<sent type="main" lang="chi" page="22b" n="01">學士</sent>
+<sent type="main" lang="kor" page="22b" n="01">大學士之次例兼侍郞職御</sent>
+<sent type="main" lang="chi" page="22b" n="02">掌衛事大臣</sent>
+<sent type="main" lang="kor" page="22b" n="02">總領鑾儀衛事務</sent>
+<sent type="main" lang="chi" page="22b" n="03">內務府總管</sent>
+<sent type="main" lang="kor" page="22b" n="03">總領內務府事務</sent>
+<sent type="main" lang="chi" page="22b" n="04">武備院卿</sent>
+<sent type="main" lang="kor" page="22b" n="04">總領武備院事務</sent>
+<sent type="main" lang="chi" page="22b" n="05">上駟院卿</sent>
+<sent type="main" lang="kor" page="22b" n="05">總領上駟院事務</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/18세기후기_한청문감/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="01">武大臣</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="23a" n="02">都統前鋒統領護軍統領副都統提督等官</sent>
+<sent type="main" lang="chi" page="23a" n="03">jinglü經略</sent>
+<sent type="main" lang="kor" page="23a" n="03">首輔大臣受命鎭邊安撫民人統領軍政者</sent>
+<sent type="main" lang="chi" page="23a" n="04">將軍</sent>
+<sent type="main" lang="kor" page="23a" n="04">統領兵馬之任</sent>
+<sent type="main" lang="chi" page="23a" n="05">參贊大臣</sent>
+<sent type="main" lang="kor" page="23a" n="05">參贊軍務之大臣</sent>
+<sent type="main" lang="chi" page="23a" n="06">都統</sent>
+<sent type="main" lang="kor" page="23a" n="06">總領一旗之大臣</sent>
+<sent type="main" lang="chi" page="23a" n="07">副都統</sent>
+<sent type="main" lang="kor" page="23a" n="07">都統之次</sent>
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/18세기후기_한청문감/23b.jpg</img>
+<sent type="main" lang="chi" page="23b" n="01">前鋒統領</sent>
+<sent type="main" lang="kor" page="23b" n="01">總領前鋒之大臣</sent>
+<sent type="main" lang="chi" page="23b" n="02">護軍統領</sent>
+<sent type="main" lang="kor" page="23b" n="02">總領護軍之大臣</sent>
+<sent type="main" lang="chi" page="23b" n="03">步軍統領</sent>
+<sent type="main" lang="kor" page="23b" n="03">總領皇城九門巡捕三營步軍之大臣</sent>
+<sent type="main" lang="chi" page="23b" n="04">世襲官</sent><!--상단에 '三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="23b" n="04">有軍功世襲者卽公候伯子男輕車都尉騎都尉雲騎尉恩騎尉等官</sent>
+<sent type="main" lang="chi" page="23b" n="05">公</sent>
+<sent type="main" lang="kor" page="23b" n="05">一等○有軍功者敍九等而自公至輕車都尉各等之內又分三等如一等公二等公三等公之類</sent>
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/18세기후기_한청문감/24a.jpg</img>
+<sent type="main" lang="chi" page="24a" n="01">侯</sent>
+<sent type="main" lang="kor" page="24a" n="01">二等</sent>
+<sent type="main" lang="chi" page="24a" n="02">伯</sent>
+<sent type="main" lang="kor" page="24a" n="02">三等</sent>
+<sent type="main" lang="chi" page="24a" n="03">子</sent>
+<sent type="main" lang="kor" page="24a" n="03">四等</sent>
+<sent type="main" lang="chi" page="24a" n="04">男</sent>
+<sent type="main" lang="kor" page="24a" n="04">五等</sent>
+<sent type="main" lang="chi" page="24a" n="05">輕車都尉</sent>
+<sent type="main" lang="kor" page="24a" n="05">六等</sent>
+<sent type="main" lang="chi" page="24a" n="06">騎都尉</sent>
+<sent type="main" lang="kor" page="24a" n="06">七等</sent>
+<sent type="main" lang="chi" page="24a" n="07">雲騎尉</sent>
+<sent type="main" lang="kor" page="24a" n="07">八等</sent>
+<sent type="main" lang="chi" page="24a" n="08">恩騎尉</sent>
+<sent type="main" lang="kor" page="24a" n="08">九等○凡軍功襲爵之人代盡之後則更授七品階使之世襲者</sent>
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/18세기후기_한청문감/24b.jpg</img>
+<sent type="main" lang="chi" page="24b" n="01">廕生</sent>
+<sent type="main" lang="kor" page="24b" n="01">大臣蒙恩加階代授其子爲廕生</sent><!--'廕生'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="02">官</sent><!--상단에 '四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="24b" n="02">通稱官員</sent>
+<sent type="main" lang="chi" page="24b" n="03">文官</sent>
+<sent type="main" lang="kor" page="24b" n="03">卿以下雜職之上通稱文官</sent><!--'文官'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="24b" n="04">卿</sent>
+<sent type="main" lang="kor" page="24b" n="04">摠管該寺事務之官</sent>
+<sent type="main" lang="chi" page="24b" n="05">少卿</sent>
+<sent type="main" lang="kor" page="24b" n="05">卿之次</sent>
+<sent type="main" lang="chi" page="24b" n="06">侍讀學士</sent>
+<sent type="main" lang="kor" page="24b" n="06">內閣之官學士之次○翰林院亦有之</sent>
+</pages>
+
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/18세기후기_한청문감/25a.jpg</img>
+<sent type="main" lang="chi" page="25a" n="01">侍讀</sent>
+<sent type="main" lang="kor" page="25a" n="01">內閣之官侍讀學士之次○翰林院亦有之</sent>
+<sent type="main" lang="chi" page="25a" n="02">典籍</sent>
+<sent type="main" lang="kor" page="25a" n="02">內閣之官掌書籍○國子監亦有之</sent>
+<sent type="main" lang="chi" page="25a" n="03">中書</sent>
+<sent type="main" lang="kor" page="25a" n="03">內閣之官掌繙繹章奏</sent>
+<sent type="main" lang="chi" page="25a" n="04">侍講學士</sent>
+<sent type="main" lang="kor" page="25a" n="04">翰林院之官與侍讀學士等</sent>
+<sent type="main" lang="chi" page="25a" n="05">侍講</sent>
+<sent type="main" lang="kor" page="25a" n="05">翰林院之官與侍讀等</sent>
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/18세기후기_한청문감/25b.jpg</img>
+<sent type="main" lang="chi" page="25b" n="01">修撰</sent>
+<sent type="main" lang="kor" page="25b" n="01">翰林院之官編修之次</sent>
+<sent type="main" lang="chi" page="25b" n="02">編修</sent>
+<sent type="main" lang="kor" page="25b" n="02">翰林院之官修撰之次</sent>
+<sent type="main" lang="chi" page="25b" n="03">檢討</sent>
+<sent type="main" lang="kor" page="25b" n="03">翰林院之官侍講之次</sent>
+<sent type="main" lang="chi" page="25b" n="04">翰林</sent>
+<sent type="main" lang="kor" page="25b" n="04">侍讀學士之下庶吉士之上</sent>
+<sent type="main" lang="chi" page="25b" n="05">庶吉士</sent>
+<sent type="main" lang="kor" page="25b" n="05">進士中抄選肄業者</sent>
+<sent type="main" lang="chi" page="25b" n="06">博士</sent>
+<sent type="main" lang="kor" page="25b" n="06">翰林院之官管該廳事務○太常寺亦有之</sent>
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/18세기후기_한청문감/26a.jpg</img>
+<sent type="main" lang="chi" page="26a" n="01">待詔</sent>
+<sent type="main" lang="kor" page="26a" n="01">翰林院之官管校對章奏文史</sent>
+<sent type="main" lang="chi" page="26a" n="02">孔目</sent>
+<sent type="main" lang="kor" page="26a" n="02">翰林院之官管收貯圖籍</sent>
+<sent type="main" lang="chi" page="26a" n="03">詹事府詹事</sent>
+<sent type="main" lang="kor" page="26a" n="03">總管該府事務之官</sent>
+<sent type="main" lang="chi" page="26a" n="04">詹事府少詹事</sent>
+<sent type="main" lang="kor" page="26a" n="04">詹事之次</sent>
+<sent type="main" lang="chi" page="26a" n="05">庶子</sent>
+<sent type="main" lang="kor" page="26a" n="05">掌左右春坊事</sent>
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/18세기후기_한청문감/26b.jpg</img>
+<sent type="main" lang="chi" page="26b" n="01">諭德</sent>
+<sent type="main" lang="kor" page="26b" n="01">庶子之次</sent>
+<sent type="main" lang="chi" page="26b" n="02">洗馬</sent>
+<sent type="main" lang="kor" page="26b" n="02">掌詹事府經籍</sent>
+<sent type="main" lang="chi" page="26b" n="03">中允</sent>
+<sent type="main" lang="kor" page="26b" n="03">諭德之次</sent>
+<sent type="main" lang="chi" page="26b" n="04">贊善</sent>
+<sent type="main" lang="kor" page="26b" n="04">中允之次</sent>
+<sent type="main" lang="chi" page="26b" n="05">正字</sent>
+<sent type="main" lang="kor" page="26b" n="05">判正詹事府文字</sent>
+ <sent type="main" lang="chi" page="26b" n="06">通政使</sent><!--상단에 '五則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="26b" n="06">總領通政司事</sent>
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/18세기후기_한청문감/27a.jpg</img>
+<sent type="main" lang="chi" page="27a" n="01">通政副使</sent>
+<sent type="main" lang="kor" page="27a" n="01">通政使之次</sent>
+<sent type="main" lang="chi" page="27a" n="02">參議</sent>
+<sent type="main" lang="kor" page="27a" n="02">副使之次</sent>
+<sent type="main" lang="chi" page="27a" n="03">經歷</sent>
+<sent type="main" lang="kor" page="27a" n="03">通政司郞官管廳務○宗人府都察院亦有之</sent>
+<sent type="main" lang="chi" page="27a" n="04">知事</sent>
+<sent type="main" lang="kor" page="27a" n="04">通政司郞官參管廳務</sent>
+<sent type="main" lang="chi" page="27a" n="05">寺丞</sent>
+<sent type="main" lang="kor" page="27a" n="05">總理大理寺分司事務</sent>
+<sent type="main" lang="chi" page="27a" n="06">寺副</sent>
+<sent type="main" lang="kor" page="27a" n="06">寺丞之次</sent>
+</pages>
+
+<pages n="27b">
+<img n="27b">https://kohico.kr/_media/image/18세기후기_한청문감/27b.jpg</img>
+<sent type="main" lang="chi" page="27b" n="01">署正</sent>
+<sent type="main" lang="kor" page="27b" n="01">光祿寺郞官分掌大官珍饈良醞掌藍四署事務</sent>
+<sent type="main" lang="chi" page="27b" n="02">署丞</sent>
+<sent type="main" lang="kor" page="27b" n="02">署正之次</sent>
+<sent type="main" lang="chi" page="27b" n="03">祭酒</sent>
+<sent type="main" lang="kor" page="27b" n="03">國子監之長官</sent>
+<sent type="main" lang="chi" page="27b" n="04">司業</sent>
+<sent type="main" lang="kor" page="27b" n="04">祭酒之次</sent>
+<sent type="main" lang="chi" page="27b" n="05">監丞</sent>
+<sent type="main" lang="kor" page="27b" n="05">司業之次</sent>
+<sent type="main" lang="chi" page="27b" n="06">助敎</sent>
+<sent type="main" lang="kor" page="27b" n="06">國子監之官掌敎官學諸生</sent>
+</pages>
+
+<pages n="28a">
+<img n="28a">https://kohico.kr/_media/image/18세기후기_한청문감/28a.jpg</img>
+<sent type="main" lang="chi" page="28a" n="01">學正</sent>
+<sent type="main" lang="kor" page="28a" n="01">助敎之次</sent>
+<sent type="main" lang="chi" page="28a" n="02">學錄</sent>
+<sent type="main" lang="kor" page="28a" n="02">學正之次</sent>
+<sent type="main" lang="chi" page="28a" n="03">敎習</sent>
+<sent type="main" lang="kor" page="28a" n="03">掌校八旗官學文武之才</sent>
+<sent type="main" lang="chi" page="28a" n="04">總管</sent>
+<sent type="main" lang="kor" page="28a" n="04">領宗學事</sent>
+<sent type="main" lang="chi" page="28a" n="05">副管</sent>
+<sent type="main" lang="kor" page="28a" n="05">領覺羅學事</sent>
+<sent type="main" lang="chi" page="28a" n="06">給事中</sent><!--상단에 '六則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="28a" n="06">六科之官分稽注銷文券</sent>
+<sent type="main" lang="chi" page="28a-28b" n="07">監察御史</sent>
+<sent type="main" lang="kor" page="28a-28b" n="07">分理各省刑名稽察各部院事務</sent><!--分理^各省刑名稽察各部院事務-->
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/18세기후기_한청문감/28b.jpg</img>
+<sent type="main" lang="chi" page="28b" n="01">郞中</sent>
+<sent type="main" lang="kor" page="28b" n="01">郞中員外主事通謂之司官掌淸吏司事務</sent>
+<sent type="main" lang="chi" page="28b" n="02">員外郞</sent>
+<sent type="main" lang="kor" page="28b" n="02">郞中之次</sent>
+<sent type="main" lang="chi" page="28b" n="03">主事</sent>
+<sent type="main" lang="kor" page="28b" n="03">員外郞之次</sent>
+<sent type="main" lang="chi" page="28b" n="04">都事</sent>
+<sent type="main" lang="kor" page="28b" n="04">都察院郞官參管該廳事務</sent>
+<sent type="main" lang="chi" page="28b" n="05">讀祝官</sent>
+<sent type="main" lang="kor" page="28b" n="05">讀祝之官屬禮部○太常寺亦有之</sent>
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/18세기후기_한청문감/29a.jpg</img>
+<sent type="main" lang="chi" page="29a" n="01">贊禮郞</sent><!--贊禮^郞-->
+<sent type="main" lang="kor" page="29a" n="01">掌贊唱之官屬禮部○太常寺亦有之</sent>
+<sent type="main" lang="chi" page="29a" n="02">評事</sent>
+<sent type="main" lang="kor" page="29a" n="02">大理寺寺丞之次</sent>
+<sent type="main" lang="chi" page="29a" n="03">司庫</sent>
+<sent type="main" lang="kor" page="29a" n="03">各衙門掌庫之官</sent>
+<sent type="main" lang="chi" page="29a" n="04">司務</sent>
+<sent type="main" lang="kor" page="29a" n="04">掌出納文書稽察胥吏之官各衙門有之</sent>
+<sent type="main" lang="chi" page="29a" n="05">司匠</sent>
+<sent type="main" lang="kor" page="29a" n="05">領工匠之官</sent>
+<sent type="main" lang="chi" page="29a" n="06">提牢</sent>
+<sent type="main" lang="kor" page="29a" n="06">掌牢獄事務之官</sent>
+<sent type="main" lang="chi" page="29a" n="07">司獄</sent>
+<sent type="main" lang="kor" page="29a" n="07">官牢獄罪囚之官</sent>
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/18세기후기_한청문감/29b.jpg</img>
+<sent type="main" lang="chi" page="29b" n="01">典簿</sent>
+<sent type="main" lang="kor" page="29b" n="01">掌出入文移之官</sent>
+<sent type="main" lang="chi" page="29b" n="02">主簿</sent>
+<sent type="main" lang="kor" page="29b" n="02">掌簿籍之官</sent>
+<sent type="main" lang="chi" page="29b" n="03">大使</sent>
+<sent type="main" lang="kor" page="29b" n="03">管倉庫錢鹽局之官</sent>
+<sent type="main" lang="chi" page="29b" n="04">副使</sent>
+<sent type="main" lang="kor" page="29b" n="04">大使之次</sent>
+<sent type="main" lang="chi" page="29b" n="05">筆帖式</sent>
+<sent type="main" lang="kor" page="29b" n="05">掌翻譯淸漢文簿者○各部院俱有之</sent>
+<sent type="main" lang="chi" page="29b" n="06">庫使</sent>
+<sent type="main" lang="kor" page="29b" n="06">掌銀緞等庫事</sent>
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/18세기후기_한청문감/30a.jpg</img>
+<sent type="main" lang="chi" page="30a" n="01">侍衛</sent><!--상단에 '七則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="30a" n="01">戴孔雀翎侍衛者</sent>
+<sent type="main" lang="chi" page="30a" n="02">御前侍衛</sent>
+<sent type="main" lang="kor" page="30a" n="02">侍衛中㨂選近侍者</sent>
+<sent type="main" lang="chi" page="30a" n="03">乾淸門侍衛</sent>
+<sent type="main" lang="kor" page="30a" n="03">乾淸門侍衛</sent><!--'乾淸門侍衛'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30a" n="04">侍衛班領</sent>
+<sent type="main" lang="kor" page="30a" n="04">卽侍衛班首每侍衛有六班每班有班領</sent>
+<sent type="main" lang="chi" page="30a" n="05">奏蒙古事侍衛</sent>
+<sent type="main" lang="kor" page="30a" n="05">奏蒙古事侍衛</sent><!--'奏蒙古事侍衛'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30a" n="06">上駟院侍衛</sent>
+<sent type="main" lang="kor" page="30a" n="06">上駟院侍衛</sent><!--'上駟院侍衛'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/18세기후기_한청문감/30b.jpg</img>
+<sent type="main" lang="chi" page="30b" n="01">後護侍衛</sent><!--後護^侍衛-->
+<sent type="main" lang="kor" page="30b" n="01">後護侍衛</sent><!--'後護侍衛'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="30b" n="02">鑾儀使</sent>
+<sent type="main" lang="kor" page="30b" n="02">掌衛事大臣之次</sent>
+<sent type="main" lang="chi" page="30b" n="03">冠軍使</sent>
+<sent type="main" lang="kor" page="30b" n="03">鑾儀使之次</sent>
+<sent type="main" lang="chi" page="30b" n="04">雲麾使</sent>
+<sent type="main" lang="kor" page="30b" n="04">冠軍使之次</sent>
+<sent type="main" lang="chi" page="30b" n="05">治儀正</sent>
+<sent type="main" lang="kor" page="30b" n="05">雲麾使之次</sent>
+<sent type="main" lang="chi" page="30b" n="06">整儀尉</sent>
+<sent type="main" lang="kor" page="30b" n="06">治儀正之次</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/18세기후기_한청문감/31a.jpg</img>
+<sent type="main" lang="chi" page="31a" n="01">籃翎侍衛</sent>
+<sent type="main" lang="kor" page="31a" n="01">侍衛之戴藍翎者</sent>
+<sent type="main" lang="chi" page="31a" n="02">親軍校</sent>
+<sent type="main" lang="kor" page="31a" n="02">親軍之長</sent>
+<sent type="main" lang="chi" page="31a" n="03">護衛</sent>
+<sent type="main" lang="kor" page="31a" n="03">王貝勒貝子之侍衛</sent>
+<sent type="main" lang="chi" page="31a" n="04">王府長史</sent>
+<sent type="main" lang="kor" page="31a" n="04">管王府門事之官</sent>
+<sent type="main" lang="chi" page="31a" n="05">司儀長</sent>
+<sent type="main" lang="kor" page="31a" n="05">管貝勒貝子府門事之官</sent>
+<sent type="main" lang="chi" page="31a" n="06">典儀</sent>
+<sent type="main" lang="kor" page="31a" n="06">管王貝勒貝子儀仗等事之官</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/18세기후기_한청문감/31b.jpg</img>
+<sent type="main" lang="chi" page="31b" n="01">散騎郞</sent>
+<sent type="main" lang="kor" page="31b" n="01">王府跟隨世襲之官</sent>
+<sent type="main" lang="chi" page="31b" n="02">王府隨侍</sent>
+<sent type="main" lang="kor" page="31b" n="02">王貝勒跟隨之官</sent>
+<sent type="main" lang="chi" page="31b" n="03">管領</sent>
+<sent type="main" lang="kor" page="31b" n="03">王府頭目領隊伍者</sent>
+<sent type="main" lang="chi" page="31b" n="04">司胙長</sent>
+<sent type="main" lang="kor" page="31b" n="04">掌辦備祭物之官</sent>
+<sent type="main" lang="chi" page="31b" n="05">司胙官</sent>
+<sent type="main" lang="kor" page="31b" n="05">司胙長之次</sent>
+<sent type="main" lang="chi" page="31b" n="06">尙膳正</sent>
+<sent type="main" lang="kor" page="31b" n="06">掌辦備御膳之官</sent>
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/18세기후기_한청문감/32a.jpg</img>
+<sent type="main" lang="chi" page="32a" n="01">尙茶正</sent>
+<sent type="main" lang="kor" page="32a" n="02">掌辦備御茶之官</sent>
+<sent type="main" lang="chi" page="32a" n="03">欽天監監正</sent><!--상단에 '八則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="32a" n="03">欽天監長官</sent>
+<sent type="main" lang="chi" page="32a" n="04">欽天監監副</sent>
+<sent type="main" lang="kor" page="32a" n="04">監正之次</sent>
+<sent type="main" lang="chi" page="32a" n="05">五官正</sent>
+<sent type="main" lang="kor" page="32a" n="05">掌推憲書五行七政之官</sent>
+<sent type="main" lang="chi" page="32a" n="06">春官正</sent>
+<sent type="main" lang="kor" page="32a" n="06">掌春令推步之官</sent>
+</pages>
+
+<pages n="32b">
+<img n="32b">https://kohico.kr/_media/image/18세기후기_한청문감/32b.jpg</img>
+<sent type="main" lang="chi" page="32b" n="01">夏官正</sent>
+<sent type="main" lang="kor" page="32b" n="01">掌夏令推步之官</sent>
+<sent type="main" lang="chi" page="32b" n="02">中官正</sent>
+<sent type="main" lang="kor" page="32b" n="02">掌四季推步之官</sent>
+<sent type="main" lang="chi" page="32b" n="03">秋官正</sent>
+<sent type="main" lang="kor" page="32b" n="03">掌秋令推步之官</sent>
+<sent type="main" lang="chi" page="32b" n="04">冬官正</sent>
+<sent type="main" lang="kor" page="32b" n="04">掌冬令推步之官</sent>
+<sent type="main" lang="chi" page="32b" n="05">靈臺郞</sent>
+<sent type="main" lang="kor" page="32b" n="05">掌觀星辰之官</sent>
+</pages>
+
+<pages n="33a">
+<img n="33a">https://kohico.kr/_media/image/18세기후기_한청문감/33a.jpg</img>
+<sent type="main" lang="chi" page="33a" n="01">監候</sent>
+<sent type="main" lang="kor" page="33a" n="01">靈臺郞之次</sent>
+<sent type="main" lang="chi" page="33a" n="02">挈壺正</sent>
+<sent type="main" lang="kor" page="33a" n="02">掌調漏壺之官</sent>
+<sent type="main" lang="chi" page="33a" n="03">司晨</sent>
+<sent type="main" lang="kor" page="33a" n="03">挈壺正之次</sent>
+<sent type="main" lang="chi" page="33a" n="04">司書</sent>
+<sent type="main" lang="kor" page="33a" n="04">監蕫憲書刊印之官</sent>
+<sent type="main" lang="chi" page="33a" n="05">天文生</sent>
+<sent type="main" lang="kor" page="33a" n="05">掌推步七政繕寫憲書之官</sent>
+</pages>
+
+<pages n="33b">
+<img n="33b">https://kohico.kr/_media/image/18세기후기_한청문감/33b.jpg</img>
+<sent type="main" lang="chi" page="33b" n="01">太醫院院使</sent>
+<sent type="main" lang="kor" page="33b" n="01">太醫院長官</sent>
+<sent type="main" lang="chi" page="33b" n="02">太醫院院判</sent>
+<sent type="main" lang="kor" page="33b" n="02">院使之次</sent>
+<sent type="main" lang="chi" page="33b" n="03">御醫</sent>
+<sent type="main" lang="kor" page="33b" n="03">太醫院醫官</sent>
+<sent type="main" lang="chi" page="33b" n="04">典樂</sent>
+<sent type="main" lang="kor" page="33b" n="04">掌音樂之官</sent>
+<sent type="main" lang="chi" page="33b" n="05">協律郞</sent>
+<sent type="main" lang="kor" page="33b" n="05">協和音律者</sent>
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/18세기후기_한청문감/34a.jpg</img>
+<sent type="main" lang="chi" page="34a" n="01">司樂</sent><!--司^樂-->
+<sent type="main" lang="kor" page="34a" n="01">參管音樂者</sent>
+<sent type="main" lang="chi" page="34a" n="02">樂舞生</sent>
+<sent type="main" lang="kor" page="34a" n="02">作樂時執干羽舞者</sent>
+<sent type="main" lang="chi" page="34a" n="03">序班</sent>
+<sent type="main" lang="kor" page="34a" n="03">鴻臚寺序班掌序百官之班位</sent>
+<sent type="main" lang="chi" page="34a" n="04">僧官</sent>
+<sent type="main" lang="kor" page="34a" n="04">領僧徒之僧官</sent><!--'僧官'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="05">道官</sent>
+<sent type="main" lang="kor" page="34a" n="05">領道士之道官</sent><!--'道官'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="06">武官</sent><!--상단에 '九則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="34a" n="06">前鋒將以下通稱武官</sent><!--'武官'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="34a" n="07">章京</sent>
+<sent type="main" lang="kor" page="34a" n="07">武官有品秩之稱</sent>
+<sent type="main" lang="chi" page="34a" n="08">司鑰長</sent>
+<sent type="main" lang="kor" page="34a" n="08">掌闕門鎖鑰者</sent>
+</pages>
+
+<pages n="34b">
+<img n="34b">https://kohico.kr/_media/image/18세기후기_한청문감/34b.jpg</img>
+<sent type="main" lang="chi" page="34b" n="01">前鋒參領</sent>
+<sent type="main" lang="kor" page="34b" n="01">領前鋒之官</sent>
+<sent type="main" lang="chi" page="34b" n="02">前鋒侍衛</sent>
+<sent type="main" lang="kor" page="34b" n="02">傳鋒參領之次</sent>
+<sent type="main" lang="chi" page="34b" n="03">護軍參領</sent>
+<sent type="main" lang="kor" page="34b" n="03">掌羽林之官</sent>
+<sent type="main" lang="chi" page="34b" n="04">副護軍參領</sent>
+<sent type="main" lang="kor" page="34b" n="04">護軍參領之次</sent>
+<sent type="main" lang="chi" page="34b" n="05">委護軍參領</sent>
+<sent type="main" lang="kor" page="34b" n="05">副護軍參領之次</sent>
+<sent type="main" lang="chi" page="34b" n="06">參領</sent>
+<sent type="main" lang="kor" page="34b" n="06">甲喇將</sent>
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/18세기후기_한청문감/35a.jpg</img>
+<sent type="main" lang="chi" page="35a" n="01">副參領</sent>
+<sent type="main" lang="kor" page="35a" n="01">參領之次</sent>
+<sent type="main" lang="chi" page="35a" n="02">佐領</sent>
+<sent type="main" lang="kor" page="35a" n="02">領一隊之官</sent>
+<sent type="main" lang="chi" page="35a" n="03">前鋒校</sent>
+<sent type="main" lang="kor" page="35a" n="03">先鋒隊長</sent>
+<sent type="main" lang="chi" page="35a" n="04">護軍校</sent>
+<sent type="main" lang="kor" page="35a" n="04">護軍隊長</sent>
+<sent type="main" lang="chi" page="35a" n="05">驍騎校</sent>
+<sent type="main" lang="kor" page="35a" n="05">佐領之次卽分得橃什庫</sent>
+<sent type="main" lang="chi" page="35a" n="06">監修總裁官</sent><!--상단에 '十則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="35a" n="07">總裁會典國史等館簒修之事王及大臣爲之</sent>
+</pages>
+
+<pages n="35b">
+<img n="35b">https://kohico.kr/_media/image/18세기후기_한청문감/35b.jpg</img>
+<sent type="main" lang="chi" page="35b" n="01">副總裁官</sent>
+<sent type="main" lang="kor" page="35b" n="01">總裁官之次</sent>
+<sent type="main" lang="chi" page="35b" n="02">纂修官</sent>
+<sent type="main" lang="kor" page="35b" n="02">副總裁官之次</sent>
+<sent type="main" lang="chi" page="35b" n="03">提調官</sent>
+<sent type="main" lang="kor" page="35b" n="03">管書館事務之官</sent>
+<sent type="main" lang="chi" page="35b" n="04">收掌官</sent>
+<sent type="main" lang="kor" page="35b" n="04">提調官之次收掌書籍</sent>
+<sent type="main" lang="chi" page="35b" n="05">繙譯官</sent>
+<sent type="main" lang="kor" page="35b" n="05">掌繙譯之官</sent>
+<sent type="main" lang="chi" page="35b" n="06">謄錄官</sent>
+<sent type="main" lang="kor" page="35b" n="06">謄寫滿漢書之官○試場亦有之</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/18세기후기_한청문감/36a.jpg</img>
+<sent type="main" lang="chi" page="36a" n="01">考試官</sent>
+<sent type="main" lang="kor" page="36a" n="01">通稱試官</sent>
+<sent type="main" lang="chi" page="36a" n="02">正考官</sent>
+<sent type="main" lang="kor" page="36a" n="02">上試官</sent>
+<sent type="main" lang="chi" page="36a" n="03">副考官</sent>
+<sent type="main" lang="kor" page="36a" n="03">副試官</sent>
+<sent type="main" lang="chi" page="36a" n="04">同考官</sent>
+<sent type="main" lang="kor" page="36a" n="04">同參考試之官</sent>
+<sent type="main" lang="chi" page="36a" n="05">提督學政</sent>
+<sent type="main" lang="kor" page="36a" n="05">提督各省學院專管試士</sent>
+<sent type="main" lang="chi" page="36a" n="06">知貢擧</sent>
+<sent type="main" lang="kor" page="36a" n="06">管試闈事務之官</sent>
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/18세기후기_한청문감/36b.jpg</img>
+<sent type="main" lang="chi" page="36b" n="01">監臨官</sent>
+<sent type="main" lang="kor" page="36b" n="02">知貢擧之次</sent>
+<sent type="main" lang="chi" page="36b" n="03">外簾監試官</sent>
+<sent type="main" lang="kor" page="36b" n="03">監察諸生呼名出入之事</sent>
+<sent type="main" lang="chi" page="36b" n="04">內簾監試官</sent>
+<sent type="main" lang="kor" page="36b" n="04">監視試官考校之事</sent>
+<sent type="main" lang="chi" page="36b" n="05">巡邏官</sent>
+<sent type="main" lang="kor" page="36b" n="05">巡察試圍之官</sent>
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/18세기후기_한청문감/37a.jpg</img>
+<sent type="main" lang="chi" page="37a" n="01">監門官</sent>
+<sent type="main" lang="kor" page="37a" n="01">試闈守門之官</sent>
+<sent type="main" lang="chi" page="37a" n="02">搜檢官</sent>
+<sent type="main" lang="kor" page="37a" n="02">試闈搜檢之官</sent>
+<sent type="main" lang="chi" page="37a" n="03">印卷官</sent>
+<sent type="main" lang="kor" page="37a" n="03">踏印試卷之官</sent>
+<sent type="main" lang="chi" page="37a" n="04">收卷官</sent>
+<sent type="main" lang="kor" page="37a" n="04">監收試卷之官</sent>
+<sent type="main" lang="chi" page="37a" n="05">彌封官</sent>
+<sent type="main" lang="kor" page="37a" n="05">監封試卷之官</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/18세기후기_한청문감/37b.jpg</img>
+<sent type="main" lang="chi" page="37b" n="01">對讀官</sent>
+<sent type="main" lang="kor" page="37b" n="01">墨卷朱卷較對之官</sent>
+<sent type="main" lang="chi" page="37b" n="02">供給官</sent>
+<sent type="main" lang="kor" page="37b" n="02">試闈支供之官</sent>
+<sent type="main" lang="chi" page="37b" n="03">監督</sent>
+<sent type="main" lang="kor" page="37b" n="03">特差分司監督該務之官○各倉及木廠馬館驛站等處俱有之</sent>
+<sent type="main" lang="chi" page="37b" n="04">坐粮廳</sent>
+<sent type="main" lang="kor" page="37b" n="04">總理七省漕粮通州稅課等事之官</sent>
+<sent type="main" lang="chi" page="37b-38a" n="05">街道廳</sent>
+<sent type="main" lang="kor" page="37b-38a" n="05">專管平治道塗淸理溝洫之官</sent><!--專管平治道塗^淸理溝洫之官-->
+</pages>
+
+<pages n="38a">
+<img n="38a">https://kohico.kr/_media/image/18세기후기_한청문감/38a.jpg</img>
+<sent type="main" lang="chi" page="38a" n="01">驛站官</sent>
+<sent type="main" lang="kor" page="38a" n="01">管理驛站之官</sent>
+<sent type="main" lang="chi" page="38a" n="02">指揮</sent>
+<sent type="main" lang="kor" page="38a" n="02">專管京城內外賊盜鬪鬨等事之官</sent>
+<sent type="main" lang="chi" page="38a" n="03">副指揮</sent>
+<sent type="main" lang="kor" page="38a" n="03">指揮之副</sent>
+<sent type="main" lang="chi" page="38a" n="04">狀元</sent><!--상단에 '十一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="38a" n="04">進士殿試狀元</sent><!--'狀元'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="38a" n="05">榜眼</sent>
+<sent type="main" lang="kor" page="38a" n="05">殿試第二人</sent>
+</pages>
+
+<pages n="38b">
+<img n="38b">https://kohico.kr/_media/image/18세기후기_한청문감/38b.jpg</img>
+<sent type="main" lang="chi" page="38b" n="01">探花</sent>
+<sent type="main" lang="kor" page="38b" n="01">殿試第三人</sent>
+<sent type="main" lang="chi" page="38b" n="02">貢士</sent>
+<sent type="main" lang="kor" page="38b" n="02">進士之未經殿試者</sent>
+<sent type="main" lang="chi" page="38b" n="03">會元</sent>
+<sent type="main" lang="kor" page="38b" n="03">會試狀元</sent>
+<sent type="main" lang="chi" page="38b" n="04">進士</sent>
+<sent type="main" lang="kor" page="38b" n="04">中會試者</sent>
+<sent type="main" lang="chi" page="38b" n="05">解元</sent>
+<sent type="main" lang="kor" page="38b" n="05">鄕試狀元</sent>
+<sent type="main" lang="chi" page="38b" n="06">擧人</sent>
+<sent type="main" lang="kor" page="38b" n="06">鄕試入格者</sent>
+<sent type="main" lang="chi" page="38b" n="07">副榜</sent>
+<sent type="main" lang="kor" page="38b" n="07">擧人之額外加取者</sent>
+<sent type="main" lang="chi" page="38b" n="08">貢生</sent>
+<sent type="main" lang="kor" page="38b" n="08">秀才中選入副榜者</sent>
+</pages>
+
+<pages n="39a">
+<img n="39a">https://kohico.kr/_media/image/18세기후기_한청문감/39a.jpg</img>
+<sent type="main" lang="chi" page="39a" n="01">恩貢</sent>
+<sent type="main" lang="kor" page="39a" n="01">大比外別試之貢士</sent>
+<sent type="main" lang="chi" page="39a" n="02">挨貢</sent>
+<sent type="main" lang="kor" page="39a" n="02">秀才之被選於十二年一次之試者</sent>
+<sent type="main" lang="chi" page="39a" n="03">優貢</sent>
+<sent type="main" lang="kor" page="39a" n="03">秀才之以學行被選保擧者</sent>
+<sent type="main" lang="chi" page="39a" n="04">拔貢</sent>
+<sent type="main" lang="kor" page="39a" n="04">計廩生之食廩年數挨次補入於貢生者</sent>
+<sent type="main" lang="chi" page="39a" n="05">案首</sent>
+<sent type="main" lang="kor" page="39a" n="05">童生之魁生員試者</sent>
+<sent type="main" lang="chi" page="39a" n="06">生員</sent>
+<sent type="main" lang="kor" page="39a" n="06">童生之入格生員試者</sent>
+</pages>
+
+<pages n="39b">
+<img n="39b">https://kohico.kr/_media/image/18세기후기_한청문감/39b.jpg</img>
+<sent type="main" lang="chi" page="39b" n="01">廩生</sent><!--廩^生-->
+<sent type="main" lang="kor" page="39b" n="01">食廩之秀才</sent>
+<sent type="main" lang="chi" page="39b" n="02">增生</sent>
+<sent type="main" lang="kor" page="39b" n="02">未補廩生之秀才</sent>
+<sent type="main" lang="chi" page="39b" n="03">童生</sent>
+<sent type="main" lang="kor" page="39b" n="03">應生員試者</sent>
+<sent type="main" lang="chi" page="39b" n="04">監生</sent>
+<sent type="main" lang="kor" page="39b" n="04">納財入生員者</sent>
+<sent type="main" lang="chi" page="39b" n="05">廕監</sent>
+<sent type="main" lang="kor" page="39b" n="05">遇頒慶加恩爲監生者</sent>
+<sent type="main" lang="chi" page="39b" n="06">外省大臣</sent><!--상단에 '十二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="39b" n="06">總督巡撫提督等官</sent>
+<sent type="main" lang="chi" page="39b" n="07">總督</sent>
+<sent type="main" lang="kor" page="39b" n="07">總督全省軍民事務之官</sent>
+</pages>
+
+<pages n="40a">
+<img n="40a">https://kohico.kr/_media/image/18세기후기_한청문감/40a.jpg</img>
+<sent type="main" lang="chi" page="40a" n="01">河道總督</sent><!--河^道總督-->
+<sent type="main" lang="kor" page="40a" n="01">總督全省河道事務之官</sent>
+<sent type="main" lang="chi" page="40a" n="02">漕運總督</sent>
+<sent type="main" lang="kor" page="40a" n="02">總督全省漕運之官</sent>
+<sent type="main" lang="chi" page="40a" n="03">巡撫</sent>
+<sent type="main" lang="kor" page="40a" n="03">總督之次</sent>
+<sent type="main" lang="chi" page="40a" n="04">外省官員</sent>
+<sent type="main" lang="kor" page="40a" n="04">布政使按察使以下等官</sent>
+<sent type="main" lang="chi" page="40a" n="05">布政使</sent>
+<sent type="main" lang="kor" page="40a" n="05">總管全省錢粮之官</sent>
+</pages>
+
+<pages n="40b">
+<img n="40b">https://kohico.kr/_media/image/18세기후기_한청문감/40b.jpg</img>
+<sent type="main" lang="chi" page="40b" n="01">按察使</sent>
+<sent type="main" lang="kor" page="40b" n="01">管理全省刑名之官</sent>
+<sent type="main" lang="chi" page="40b" n="02">道</sent>
+<sent type="main" lang="kor" page="40b" n="02">按察使之次</sent>
+<sent type="main" lang="chi" page="40b" n="03">府尹</sent>
+<sent type="main" lang="kor" page="40b" n="03">管理順天府事務○奉天府亦有之</sent>
+<sent type="main" lang="chi" page="40b" n="04">府丞</sent>
+<sent type="main" lang="kor" page="40b" n="04">府尹之次</sent>
+<sent type="main" lang="chi" page="40b" n="05">治中</sent>
+<sent type="main" lang="kor" page="40b" n="05">府丞之次</sent>
+<sent type="main" lang="chi" page="40b" n="06">知府</sent>
+<sent type="main" lang="kor" page="40b" n="06">知一府之官○縣統於州州統於府</sent>
+<sent type="main" lang="chi" page="40b" n="07">同知</sent>
+<sent type="main" lang="kor" page="40b" n="07">知府之次</sent>
+</pages>
+
+<pages n="41a">
+<img n="41a">https://kohico.kr/_media/image/18세기후기_한청문감/41a.jpg</img>
+<sent type="main" lang="chi" page="41a" n="01">通判</sent>
+<sent type="main" lang="kor" page="41a" n="01">同知之次</sent>
+<sent type="main" lang="chi" page="41a" n="02">知州</sent>
+<sent type="main" lang="kor" page="41a" n="02">知一州之官</sent>
+<sent type="main" lang="chi" page="41a" n="03">州同</sent>
+<sent type="main" lang="kor" page="41a" n="03">知州之次</sent>
+<sent type="main" lang="chi" page="41a" n="04">知縣</sent>
+<sent type="main" lang="kor" page="41a" n="04">知一縣之官</sent>
+<sent type="main" lang="chi" page="41a" n="05">經歷</sent>
+<sent type="main" lang="kor" page="41a" n="05">布政按察衙門之屬官</sent>
+<sent type="main" lang="chi" page="41a" n="06">理問</sent>
+<sent type="main" lang="kor" page="41a" n="06">布政司經歷之次</sent>
+<sent type="main" lang="chi" page="41a" n="07">都事</sent>
+<sent type="main" lang="kor" page="41a" n="07">理問之次</sent>
+</pages>
+
+<pages n="41b">
+<img n="41b">https://kohico.kr/_media/image/18세기후기_한청문감/41b.jpg</img>
+<sent type="main" lang="chi" page="41b" n="01">照磨</sent>
+<sent type="main" lang="kor" page="41b" n="01">布政按察衙門及外省各府都事之次</sent>
+<sent type="main" lang="chi" page="41b" n="02">知事</sent>
+<sent type="main" lang="kor" page="41b" n="02">按察衙門及外省各府經歷之次</sent>
+<sent type="main" lang="chi" page="41b" n="03">檢校</sent>
+<sent type="main" lang="kor" page="41b" n="03">照磨之次</sent>
+<sent type="main" lang="chi" page="41b" n="04">縣丞</sent>
+<sent type="main" lang="kor" page="41b" n="04">知縣之次</sent>
+<sent type="main" lang="chi" page="41b" n="05">主簿</sent>
+<sent type="main" lang="kor" page="41b" n="05">知縣衙門主文簿之官</sent>
+<sent type="main" lang="chi" page="41b" n="06">吏目</sent>
+<sent type="main" lang="kor" page="41b" n="06">知府知州衙門管事之官</sent>
+<sent type="main" lang="chi" page="41b" n="07">巡檢</sent>
+<sent type="main" lang="kor" page="41b" n="07">辨理巡綽之官○各府州縣俱有之</sent>
+</pages>
+
+<pages n="42a">
+<img n="42a">https://kohico.kr/_media/image/18세기후기_한청문감/42a.jpg</img>
+<sent type="main" lang="chi" page="42a" n="01">驛丞</sent>
+<sent type="main" lang="kor" page="42a" n="01">掌馹之官每站有之</sent>
+<sent type="main" lang="chi" page="42a" n="02">典史</sent>
+<sent type="main" lang="kor" page="42a" n="02">縣丞之次</sent>
+<sent type="main" lang="chi" page="42a" n="03">敎授</sent>
+<sent type="main" lang="kor" page="42a" n="03">管一府秀才之官</sent>
+<sent type="main" lang="chi" page="42a" n="04">學正</sent>
+<sent type="main" lang="kor" page="42a" n="04">管一州秀才之官</sent>
+<sent type="main" lang="chi" page="42a" n="05">敎諭</sent>
+<sent type="main" lang="kor" page="42a" n="05">管一縣秀才之官</sent>
+<sent type="main" lang="chi" page="42a" n="06">訓導</sent>
+<sent type="main" lang="kor" page="42a" n="06">敎諭之次府州縣俱有之</sent>
+<sent type="main" lang="chi" page="42a" n="07">鹽政</sent>
+<sent type="main" lang="kor" page="42a" n="07">總察鹽場事務之官</sent>
+</pages>
+
+<pages n="42b">
+<img n="42b">https://kohico.kr/_media/image/18세기후기_한청문감/42b.jpg</img>
+<sent type="main" lang="chi" page="42b" n="01">鹽運使</sent>
+<sent type="main" lang="kor" page="42b" n="01">管理鹽運事務之官</sent>
+<sent type="main" lang="chi" page="42b" n="02">運同</sent>
+<sent type="main" lang="kor" page="42b" n="02">鹽運使之次</sent>
+<sent type="main" lang="chi" page="42b" n="03">運副</sent>
+<sent type="main" lang="kor" page="42b" n="03">運同之次</sent>
+<sent type="main" lang="chi" page="42b" n="04">提擧</sent>
+<sent type="main" lang="kor" page="42b" n="04">管鹽課之官</sent>
+<sent type="main" lang="chi" page="42b" n="05">運判</sent>
+<sent type="main" lang="kor" page="42b" n="05">運副之次</sent>
+<sent type="main" lang="chi" page="42b" n="06">城守尉</sent><!--상단에 '十三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="42b" n="06">總領一城軍兵之官</sent>
+</pages>
+
+<pages n="43a">
+<img n="43a">https://kohico.kr/_media/image/18세기후기_한청문감/43a.jpg</img>
+<sent type="main" lang="chi" page="43a" n="01">總管</sent>
+<sent type="main" lang="kor" page="43a" n="01">管轄該城事務之官</sent>
+<sent type="main" lang="chi" page="43a" n="02">協領</sent>
+<sent type="main" lang="kor" page="43a" n="02">管轄各城防守章京甲軍之官</sent>
+<sent type="main" lang="chi" page="43a" n="03">防禦</sent>
+<sent type="main" lang="kor" page="43a" n="03">管轄各城防守甲軍之官</sent>
+<sent type="main" lang="chi" page="43a" n="04">關口守尉</sent>
+<sent type="main" lang="kor" page="43a" n="04">守邊門之官</sent>
+<sent type="main" lang="chi" page="43a" n="05">綠營官</sent>
+<sent type="main" lang="kor" page="43a" n="05">各省漢兵之官</sent>
+<sent type="main" lang="chi" page="43a" n="06">提督</sent>
+<sent type="main" lang="kor" page="43a" n="06">總領全省祿旗官弁兵丁之武大臣○自提督至把總只管祿旗</sent>
+</pages>
+
+<pages n="43b">
+<img n="43b">https://kohico.kr/_media/image/18세기후기_한청문감/43b.jpg</img>
+<sent type="main" lang="chi" page="43b" n="01">總兵</sent>
+<sent type="main" lang="kor" page="43b" n="01">提督之次</sent>
+<sent type="main" lang="chi" page="43b" n="02">副將</sent>
+<sent type="main" lang="kor" page="43b" n="02">總兵之次</sent>
+<sent type="main" lang="chi" page="43b" n="03">參將</sent>
+<sent type="main" lang="kor" page="43b" n="03">副將之次</sent>
+<sent type="main" lang="chi" page="43b" n="04">遊擊</sent>
+<sent type="main" lang="kor" page="43b" n="04">參將之次</sent>
+<sent type="main" lang="chi" page="43b" n="05">都司</sent>
+<sent type="main" lang="kor" page="43b" n="05">遊擊之次</sent>
+<sent type="main" lang="chi" page="43b" n="06">守備</sent>
+<sent type="main" lang="kor" page="43b" n="06">都司之次</sent>
+<sent type="main" lang="chi" page="43b" n="07">千總</sent>
+<sent type="main" lang="kor" page="43b" n="07">守備之次</sent>
+<sent type="main" lang="chi" page="43b-44a" n="08">把總</sent>
+<sent type="main" lang="kor" page="43b-44a" n="08">千總之次</sent><!--千總^之次-->
+</pages>
+
+<pages n="44a">
+<img n="44a">https://kohico.kr/_media/image/18세기후기_한청문감/44a.jpg</img>
+<sent type="main" lang="chi" page="44a" n="01">中軍</sent>
+<sent type="main" lang="kor" page="44a" n="01">管理軍務之官總督巡撫提督衙門俱有之</sent>
+<sent type="main" lang="chi" page="44a" n="02">提塘</sent>
+<sent type="main" lang="kor" page="44a" n="02">凡奉旨擧行事件文書傳送之官</sent>
+<sent type="main" lang="chi" page="44a" n="03">頭目</sent>
+<sent type="main" lang="kor" page="44a" n="03">凡事에 두목된 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="44a" n="04">執事人</sent>
+<sent type="main" lang="kor" page="44a" n="04">범일 맛다 ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="44a" n="05">使臣</sent>
+<sent type="main" lang="kor" page="44a" n="05">欽差及外國進貢人謂之使臣</sent><!--'使臣'은 반복 부호로 되어 있음-->-->
+<sent type="main" lang="chi" page="44a" n="06">嚮導</sent>
+<sent type="main" lang="kor" page="44a" n="06">曉地方程途之人</sent>
+</pages>
+
+<pages n="44b">
+<img n="44b">https://kohico.kr/_media/image/18세기후기_한청문감/44b.jpg</img>
+<sent type="main" lang="chi" page="44b" n="01">審事人</sent><!--審事^人-->
+<sent type="main" lang="kor" page="44b" n="01">審問刑獄之官</sent>
+<sent type="main" lang="chi" page="44b" n="02">通事官</sent>
+<sent type="main" lang="kor" page="44b" n="02">通外國言語之官</sent>
+<sent type="main" lang="chi" page="44b" n="03">通事</sent>
+<sent type="main" lang="kor" page="44b" n="03">小通詞</sent>
+<sent type="main" lang="chi" page="44b" n="04">供奉官</sent>
+<sent type="main" lang="kor" page="44b" n="04">外國使臣支供物件辦理之官</sent>
+<sent type="main" lang="chi" page="44b" n="05">供用官</sent>
+<sent type="main" lang="kor" page="44b" n="05">辦備公差應用之官</sent>
+<sent type="main" lang="chi" page="44b" n="06">土司</sent>
+<sent type="main" lang="kor" page="44b" n="06">外番部落之官</sent>
+<sent type="main" lang="chi" page="44b" n="07">土司宣慰使</sent>
+<sent type="main" lang="kor" page="44b" n="07">土司宣尉之官</sent>
+</pages>
+
+<pages n="45a">
+<img n="45a">https://kohico.kr/_media/image/18세기후기_한청문감/45a.jpg</img>
+<sent type="main" lang="chi" page="45a" n="01">土司宣撫使</sent>
+<sent type="main" lang="kor" page="45a" n="01">土司宣撫之官</sent>
+<sent type="main" lang="chi" page="45a" n="02">土司安撫使</sent>
+<sent type="main" lang="kor" page="45a" n="02">土司安撫之官</sent>
+<sent type="main" lang="chi" page="45a" n="03">土司招討使</sent>
+<sent type="main" lang="kor" page="45a" n="03">土司招討之官</sent>
+<sent type="main" lang="chi" page="45a" n="04">土司長官</sent>
+<sent type="main" lang="kor" page="45a" n="04">管土司之長官</sent>
+<sent type="main" lang="chi" page="45a" n="05">土司指揮僉事</sent>
+<sent type="main" lang="kor" page="45a" n="05">土司長官之次</sent>
+</pages>
+
+<pages n="45b">
+<img n="45b">https://kohico.kr/_media/image/18세기후기_한청문감/45b.jpg</img>
+<sent type="main" lang="chi" page="45b" n="01">土司千戶</sent>
+<sent type="main" lang="kor" page="45b" n="01">管土司之千戶</sent>
+<sent type="main" lang="chi" page="45b" n="02">土司百戶</sent>
+<sent type="main" lang="kor" page="45b" n="02">管土司之百戶</sent>
+<sent type="main" lang="chi" page="45b" n="03">大銜</sent><!--상단에 '十四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="45b" n="03">綠旗官中本職小而兼銜大者</sent>
+<sent type="main" lang="chi" page="45b" n="04">小銜</sent>
+<sent type="main" lang="kor" page="45b" n="04">本職大而兼銜小者</sent>
+<sent type="main" lang="chi" page="45b" n="05">爵</sent>
+<sent type="main" lang="kor" page="45b" n="05">通稱벼ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="45b" n="06">職任</sent>
+<sent type="main" lang="kor" page="45b" n="06">通稱職掌</sent>
+</pages>
+
+<pages n="46a">
+<img n="46a">https://kohico.kr/_media/image/18세기후기_한청문감/46a.jpg</img>
+<sent type="main" lang="chi" page="46a" n="01">品級</sent>
+<sent type="main" lang="kor" page="46a" n="01">品階</sent>
+<sent type="main" lang="chi" page="46a" n="02">次序</sent>
+<sent type="main" lang="kor" page="46a" n="02">ᄎᆞ졔</sent>
+<sent type="main" lang="chi" page="46a" n="03">等第</sent>
+<sent type="main" lang="kor" page="46a" n="03">등급</sent>
+<sent type="main" lang="chi" page="46a" n="04">職名</sent>
+<sent type="main" lang="kor" page="46a" n="04">職品官名</sent>
+<sent type="main" lang="chi" page="46a" n="05">俸祿</sent>
+<sent type="main" lang="kor" page="46a" n="05">官員之俸銀祿米</sent>
+<sent type="main" lang="chi" page="46a" n="06">錢粮</sent>
+<sent type="main" lang="kor" page="46a" n="06">兵丁之錢粮</sent><!--'錢粮'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="46a" n="07">廩給</sent>
+<sent type="main" lang="kor" page="46a" n="07">外任出使官員兵丁供給之物</sent>
+<sent type="main" lang="chi" page="46a" n="08">公費</sent>
+<sent type="main" lang="kor" page="46a" n="08">大小官員每月公衙支費銀錢</sent>
+</pages>
+
+<pages n="46b">
+<img n="46b">https://kohico.kr/_media/image/18세기후기_한청문감/46b.jpg</img>
+<sent type="main" lang="chi" page="46b" n="01">公用</sent>
+<sent type="main" lang="kor" page="46b" n="01">一切公用之物</sent>
+<sent type="main" lang="chi" page="46b" n="02">公項</sent>
+<sent type="main" lang="kor" page="46b" n="02">凡官家所藏之財謂之公項</sent><!--'公項'은 반복 부호로 되어 있음-->
+<sent type="title3" lang="chi" page="46b" n="03">陞轉類 一則</sent>
+<sent type="main" lang="chi" page="46b" n="04">陞</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="46b" n="05">벼ᄉᆞᆯ 돗다</sent>
+<sent type="main" lang="chi" page="46b" n="06">陞用</sent>
+<sent type="main" lang="kor" page="46b" n="06">본 품에셔 올녀 쓰다</sent>
+<sent type="main" lang="chi" page="46b" n="07">超越</sent>
+<sent type="main" lang="kor" page="46b" n="07">超遷ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="08">錄用</sent>
+<sent type="main" lang="kor" page="46b" n="08">긔록ᄒᆞ여 슈용ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="09">lü履歷</sent>
+<sent type="main" lang="kor" page="46b" n="09">凡官員之踐履來歷</sent>
+<sent type="main" lang="chi" page="46b" n="10">缺</sent>
+<sent type="main" lang="kor" page="46b" n="10">과궐</sent>
+</pages>
+
+<pages n="47a">
+<img n="47a">https://kohico.kr/_media/image/18세기후기_한청문감/47a.jpg</img>
+<sent type="main" lang="chi" page="47a" n="01">補授</sent>
+<sent type="main" lang="kor" page="47a" n="01">벼ᄉᆞᆯᄒᆞ이다</sent>
+<sent type="main" lang="chi" page="47a" n="02">擬正</sent>
+<sent type="main" lang="kor" page="47a" n="02">首擬</sent>
+<sent type="main" lang="chi" page="47a" n="03">擬陪</sent>
+<sent type="main" lang="kor" page="47a" n="03">우유ㅅ望ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="04">開列</sent>
+<sent type="main" lang="kor" page="47a" n="04">벌망ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="05">引見</sent>
+<sent type="main" lang="kor" page="47a" n="05">벼ᄉᆞᆯᄒᆞ일 제 님군ᄭᅴ 몬져 뵈다</sent>
+<sent type="main" lang="chi" page="47a" n="06">保擧</sent>
+<sent type="main" lang="kor" page="47a" n="06">보ᄒᆞ여 쳔거ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="07">保題</sent>
+<sent type="main" lang="kor" page="47a" n="07">指缺薦人曰保題</sent><!--'保題'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="47a" n="08">出具考語</sent>
+<sent type="main" lang="kor" page="47a" n="08">上官歷擧下官身言書判上奏者</sent>
+</pages>
+
+<pages n="47b">
+<img n="47b">https://kohico.kr/_media/image/18세기후기_한청문감/47b.jpg</img>
+<sent type="main" lang="chi" page="47b" n="01">頂缺</sent>
+<sent type="main" lang="kor" page="47b" n="01">보궐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47b" n="02">挨次</sent>
+<sent type="main" lang="kor" page="47b" n="02">計次除職曰挨次</sent><!--'挨次'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="47b" n="03">器使</sent>
+<sent type="main" lang="kor" page="47b" n="03">量才任使之謂</sent>
+<sent type="main" lang="chi" page="47b" n="04">間配錄用</sent>
+<sent type="main" lang="kor" page="47b" n="04">間次錄用</sent>
+<sent type="main" lang="chi" page="47b" n="05">間隔錄用</sent>
+<sent type="main" lang="kor" page="47b" n="05">間次錄用</sent><!--上同-->
+<sent type="main" lang="chi" page="47b" n="06">調用</sent>
+<sent type="main" lang="kor" page="47b" n="06">當品內遷職</sent>
+<sent type="main" lang="chi" page="47b" n="07">署理</sent>
+<sent type="main" lang="kor" page="47b" n="07">權署之職</sent>
+<sent type="main" lang="chi" page="47b" n="08">掣籤</sent>
+<sent type="main" lang="kor" page="47b" n="08">벼ᄉᆞᆯ을 사슬 ᄲᅡ혀 ᄒᆞ이다</sent>
+</pages>
+
+<pages n="48a">
+<img n="48a">https://kohico.kr/_media/image/18세기후기_한청문감/48a.jpg</img>
+<sent type="main" lang="chi" page="48a" n="01">擧用</sent>
+<sent type="main" lang="kor" page="48a" n="01">쳔거ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="02">承襲</sent>
+<sent type="main" lang="kor" page="48a" n="02">世襲ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="03">參</sent>
+<sent type="main" lang="kor" page="48a" n="03">彈駁ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="04">罰俸</sent>
+<sent type="main" lang="kor" page="48a" n="04">住俸ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="05">降</sent>
+<sent type="main" lang="kor" page="48a" n="05">降職ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="06">退</sent>
+<sent type="main" lang="kor" page="48a" n="06">退任ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48a" n="07">革職</sent>
+<sent type="main" lang="kor" page="48a" n="07">削職ᄒᆞ다</sent>
+</pages>
+
+<pages n="48b">
+<img n="48b">https://kohico.kr/_media/image/18세기후기_한청문감/48b.jpg</img>
+<sent type="title3" lang="chi" page="48b" n="01">考選類 一則</sent>
+<sent type="main" lang="chi" page="48b" n="02">考試</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="48b" n="02">과거 뵈다○又試才ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48b" n="03">鄕試</sent>
+<sent type="main" lang="kor" page="48b" n="03">鄕試</sent><!--'鄕試'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48b" n="04">會試</sent>
+<sent type="main" lang="kor" page="48b" n="04">會試</sent><!--'會試'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48b" n="05">殿試</sent>
+<sent type="main" lang="kor" page="48b" n="05">殿試</sent><!--'殿試'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48b" n="06">京察</sent>
+<sent type="main" lang="kor" page="48b" n="06">京職文官三載一考以定黜陟曰京察</sent><!--'京察'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="48b" n="07">大計</sent>
+<sent type="main" lang="kor" page="48b" n="07">外職文官三載一考以定黜陟曰大計</sent><!--'大計'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="49a">
+<img n="49a">https://kohico.kr/_media/image/18세기후기_한청문감/49a.jpg</img>
+<sent type="main" lang="chi" page="49a" n="01">軍政</sent>
+<sent type="main" lang="kor" page="49a" n="01">內外武官五載一考以定黜陟曰軍政</sent><!--'軍政'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="49a" n="02">試看</sent>
+<sent type="main" lang="kor" page="49a" n="02">시험ᄒᆞ여 보다</sent>
+<sent type="main" lang="chi" page="49a" n="03">揀選</sent>
+<sent type="main" lang="kor" page="49a" n="03">ᄲᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="04">辨別</sent>
+<sent type="main" lang="kor" page="49a" n="04">분별ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="49a" n="05">試看可否</sent>
+<sent type="main" lang="kor" page="49a" n="05">가부 시험ᄒᆞ다</sent>
+</pages>
+
+<pages n="50a">
+<img n="50a">https://kohico.kr/_media/image/18세기후기_한청문감/50a.jpg</img>
+<sent type="title2" lang="chi" page="50a" n="01">政部上 五類</sent>
+<sent type="title3" lang="chi" page="50a" n="02">政事類 一則</sent>
+<sent type="main" lang="chi" page="50a" n="03">政</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="50a" n="03">政事之政</sent><!--두 번째 '政'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="04">治</sent>
+<sent type="main" lang="kor" page="50a" n="04">治天下之治</sent><!--두 번째 '治'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="05">經緯</sent>
+<sent type="main" lang="kor" page="50a" n="05">政治條理謂之經緯</sent><!--'經緯'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="06">敎</sent>
+<sent type="main" lang="kor" page="50a" n="06">誨人以則曰敎</sent><!--'敎'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="07">化</sent>
+<sent type="main" lang="kor" page="50a" n="07">上行下效曰化</sent><!--'化'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="08">感化</sent>
+<sent type="main" lang="kor" page="50a" n="08">心悅誠服曰感化</sent><!--'感化'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50a" n="09">澤潤</sent>
+<sent type="main" lang="kor" page="50a" n="09">德澤浹人曰澤潤</sent><!--'澤潤'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="50b">
+<img n="50b">https://kohico.kr/_media/image/18세기후기_한청문감/50b.jpg</img>
+<sent type="main" lang="chi" page="50b" n="01">威</sent>
+<sent type="main" lang="kor" page="50b" n="01">威武之威</sent><!--두 번째 '威'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="02">勸</sent>
+<sent type="main" lang="kor" page="50b" n="02">勸善之勸</sent><!--두 번째 '勸'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="03">懲</sent>
+<sent type="main" lang="kor" page="50b" n="03">懲惡之懲</sent><!--두 번째 '懲'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="04">權</sent>
+<sent type="main" lang="kor" page="50b" n="04">威權之權</sent><!--두 번째 '權'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="05">綱</sent>
+<sent type="main" lang="kor" page="50b" n="05">凡事之有要領曰綱</sent><!--'綱'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="06">紀</sent>
+<sent type="main" lang="kor" page="50b" n="06">凡事之有條理曰紀</sent><!--'紀'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="07">道</sent>
+<sent type="main" lang="kor" page="50b" n="07">率循例度曰道</sent><!--'道'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="08">常</sent>
+<sent type="main" lang="kor" page="50b" n="08">循常之常</sent><!--두 번째 '常'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="50b" n="09">例</sent>
+<sent type="main" lang="kor" page="50b" n="09">照例之例</sent><!--두 번째 '例'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="51a">
+<img n="51a">https://kohico.kr/_media/image/18세기후기_한청문감/51a.jpg</img>
+<sent type="main" lang="chi" page="51a" n="01">有禮法</sent>
+<sent type="main" lang="kor" page="51a" n="01">례법 잇다</sent>
+<sent type="main" lang="chi" page="51a" n="02">規矩</sent>
+<sent type="main" lang="kor" page="51a" n="02">規矩</sent><!--'規矩'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="03">風俗</sent>
+<sent type="main" lang="kor" page="51a" n="03">風俗</sent><!--'風俗'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="04">習俗</sent>
+<sent type="main" lang="kor" page="51a" n="04">風俗所習</sent>
+<sent type="main" lang="chi" page="51a" n="05">風氣</sent>
+<sent type="main" lang="kor" page="51a" n="05">風化氣習</sent>
+<sent type="main" lang="chi" page="51a" n="06">準則</sent>
+<sent type="main" lang="kor" page="51a" n="06">準則</sent><!--'準則'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="07">範</sent>
+<sent type="main" lang="kor" page="51a" n="07">典型曰範</sent><!--'範'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51a" n="08">樣子</sent>
+<sent type="main" lang="kor" page="51a" n="08">본보기</sent>
+<sent type="main" lang="chi" page="51a" n="09">榜樣</sent>
+<sent type="main" lang="kor" page="51a" n="09">爲人標榜曰榜樣</sent><!--'榜樣'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="51b">
+<img n="51b">https://kohico.kr/_media/image/18세기후기_한청문감/51b.jpg</img>
+<sent type="main" lang="chi" page="51b" n="01">法度</sent>
+<sent type="main" lang="kor" page="51b" n="01">法度</sent><!--'法度'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="02">嚴肅</sent>
+<sent type="main" lang="kor" page="51b" n="02">嚴肅</sent><!--'嚴肅'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="03">禁止</sent>
+<sent type="main" lang="kor" page="51b" n="03">금ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="51b" n="04">令</sent>
+<sent type="main" lang="kor" page="51b" n="04">告戒曰令</sent><!--'令'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="05">傳令</sent>
+<sent type="main" lang="kor" page="51b" n="05">發令ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="51b" n="06">禮</sent>
+<sent type="main" lang="kor" page="51b" n="06">節文度數曰禮</sent><!--'禮'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="07">樂</sent>
+<sent type="main" lang="kor" page="51b" n="07">調和聲律曰樂</sent><!--'樂'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="08">征</sent>
+<sent type="main" lang="kor" page="51b" n="08">興師正罪曰征</sent><!--'征'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="51b" n="09">伐</sent>
+<sent type="main" lang="kor" page="51b" n="09">聲罪致討曰伐</sent><!--'伐'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="52a">
+<img n="52a">https://kohico.kr/_media/image/18세기후기_한청문감/52a.jpg</img>
+<sent type="title3" lang="chi" page="52a" n="01">巡邏類 一則</sent>
+<sent type="main" lang="chi" page="52a" n="02">巡察</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="52a" n="02">巡察ᄒᆞ다</sent><!--'巡察'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="52a" n="03">巡邏</sent>
+<sent type="main" lang="kor" page="52a" n="03">巡邏ᄒᆞ다</sent><!--'巡邏'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="52a" n="04">傳籌</sent>
+<sent type="main" lang="kor" page="52a" n="04">경졈 사슬 젼ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="52a" n="05">査看</sent>
+<sent type="main" lang="kor" page="52a" n="05">사ᄒᆡᆨᄒᆞ다</sent>
+<sent type="main" lang="chi" page="52a" n="06">搜檢</sent>
+<sent type="main" lang="kor" page="52a" n="06">搜檢ᄒᆞ다</sent><!--'搜檢'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="52b">
+<img n="52b">https://kohico.kr/_media/image/18세기후기_한청문감/52b.jpg</img>
+<sent type="title3" lang="chi" page="52b" n="01">事務類 四則</sent>
+<sent type="main" lang="chi" page="52b" n="02">事</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="52b" n="02">通稱일</sent>
+<sent type="main" lang="chi" page="52b" n="03">大事</sent>
+<sent type="main" lang="kor" page="52b" n="03">큰 일</sent>
+<sent type="main" lang="chi" page="52b" n="04">要事</sent>
+<sent type="main" lang="kor" page="52b" n="04">긴ᄒᆞᆫ 일</sent>
+<sent type="main" lang="chi" page="52b" n="05">機密事</sent>
+<sent type="main" lang="kor" page="52b" n="05">비밀ᄒᆞᆫ 일</sent>
+<sent type="main" lang="chi" page="52b" n="06">公事</sent>
+<sent type="main" lang="kor" page="52b" n="06">관가 일</sent>
+<sent type="main" lang="chi" page="52b" n="07">常事</sent>
+<sent type="main" lang="kor" page="52b" n="07">녜ᄉᆞ 일</sent>
+<sent type="main" lang="chi" page="52b" n="08">私事</sent>
+<sent type="main" lang="kor" page="52b" n="08">ᄉᆞᄉᆞ 일</sent>
+<sent type="main" lang="chi" page="52b" n="09">緣故</sent>
+<sent type="main" lang="kor" page="52b" n="09">緣故</sent><!--'緣故'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="52b-53a" n="10">因爲</sent>
+<sent type="main" lang="kor" page="52b-53a" n="10">猶言爲某事</sent><!--猶言爲某^事-->
+</pages>
+
+<pages n="53a">
+<img n="53a">https://kohico.kr/_media/image/18세기후기_한청문감/53a.jpg</img>
+<sent type="main" lang="chi" page="53a" n="01">本</sent>
+<sent type="main" lang="kor" page="53a" n="01">本</sent><!--'本'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="02">末</sent>
+<sent type="main" lang="kor" page="53a" n="02">末</sent><!--'末'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="03">始</sent>
+<sent type="main" lang="kor" page="53a" n="03">始</sent><!--'始'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="04">終</sent>
+<sent type="main" lang="kor" page="53a" n="04">終</sent><!--'終'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="05">原由</sent>
+<sent type="main" lang="kor" page="53a" n="05">事之根由</sent>
+<sent type="main" lang="chi" page="53a" n="06">歸着</sent>
+<sent type="main" lang="kor" page="53a" n="06">事之歸宿處</sent>
+<sent type="main" lang="chi" page="53a" n="07">漸</sent>
+<sent type="main" lang="kor" page="53a" n="07">事之由來曰漸</sent><!--'漸'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="08">表</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="53a" n="08">上皇帝曰表</sent><!--'表'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a" n="09">箋</sent>
+<sent type="main" lang="kor" page="53a" n="09">上皇太子曰箋</sent><!--'箋'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53a-53b" n="10">本</sent>
+<sent type="main" lang="kor" page="53a-53b" n="10">凡奏御文字通稱本</sent><!--'本'은 반복 부호로 되어 있음--><!--凡奏御文字通^稱本-->
+</pages>
+
+<pages n="53b">
+<img n="53b">https://kohico.kr/_media/image/18세기후기_한청문감/53b.jpg</img>
+<sent type="main" lang="chi" page="53b" n="01">題本</sent>
+<sent type="main" lang="kor" page="53b" n="01">奏本之踏印者</sent>
+<sent type="main" lang="chi" page="53b" n="02">奏本</sent>
+<sent type="main" lang="kor" page="53b" n="02">奏本之不踏印者</sent>
+<sent type="main" lang="chi" page="53b" n="03">正本</sent>
+<sent type="main" lang="kor" page="53b" n="03">正本○凡表箋俱有正本副本正本入奏副本送內閣</sent><!--첫 번째 '正本'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53b" n="04">副本</sent>
+<sent type="main" lang="kor" page="53b" n="04">副本</sent><!--'副本'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="53b" n="05">摺子</sent>
+<sent type="main" lang="kor" page="53b" n="05">通稱摺單</sent>
+<sent type="main" lang="chi" page="53b" n="06">奏摺</sent>
+<sent type="main" lang="kor" page="53b" n="06">以摺單奏事者謂之奏摺</sent><!--'奏摺'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="54a">
+<img n="54a">https://kohico.kr/_media/image/18세기후기_한청문감/54a.jpg</img>
+<sent type="main" lang="chi" page="54a" n="01">啓疏</sent>
+<sent type="main" lang="kor" page="54a" n="01">皇帝陞殿時行禮諸官開列以奏者謂之啓疏</sent><!--'啓疏'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="54a" n="02">奏片</sent>
+<sent type="main" lang="kor" page="54a" n="02">奏御文字中副單之類</sent>
+<sent type="main" lang="chi" page="54a" n="03">夾片</sent>
+<sent type="main" lang="kor" page="54a" n="03">奏本中另書小紙同爲夾奏者</sent>
+<sent type="main" lang="chi" page="54a" n="04">單子</sent>
+<sent type="main" lang="kor" page="54a" n="04">通稱單子</sent><!--'單子'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="54a" n="05">說帖</sent>
+<sent type="main" lang="kor" page="54a" n="05">錄出奏本要語曰說帖</sent><!--'說帖'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="54b">
+<img n="54b">https://kohico.kr/_media/image/18세기후기_한청문감/54b.jpg</img>
+<sent type="main" lang="chi" page="54b" n="01">簡便單</sent><!--簡便^單-->
+<sent type="main" lang="kor" page="54b" n="01">承襲奏本中抄出要語以備便覽之單子</sent>
+<sent type="main" lang="chi" page="54b" n="02">排單</sent>
+<sent type="main" lang="kor" page="54b" n="02">開列引見人數之單子</sent>
+<sent type="main" lang="chi" page="54b" n="03">門單</sent>
+<sent type="main" lang="kor" page="54b" n="03">出入闕文之單子○又奏事官職名及引見人開列單子</sent>
+<sent type="main" lang="chi" page="54b" n="04">貼黃</sent>
+<sent type="main" lang="kor" page="54b" n="04">以黃紙錄出奏疏中事件貼於本摺年號之下曰貼黃</sent><!--'貼黃'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="54b" n="05">簽子</sent>
+<sent type="main" lang="kor" page="54b" n="05">票紙</sent>
+</pages>
+
+<pages n="55a">
+<img n="55a">https://kohico.kr/_media/image/18세기후기_한청문감/55a.jpg</img>
+<sent type="main" lang="chi" page="55a" n="01">票簽</sent>
+<sent type="main" lang="kor" page="54b" n="01">另書皇旨以貼奏本者</sent>
+<sent type="main" lang="chi" page="55a" n="02">腰簽</sent>
+<sent type="main" lang="kor" page="55a" n="02">書承襲緣由以貼譜錄腰封之上者</sent>
+<sent type="main" lang="chi" page="55a" n="03">本腰</sent>
+<sent type="main" lang="kor" page="55a" n="03">奏本腰封</sent>
+<sent type="main" lang="chi" page="55a" n="04">本單</sent>
+<sent type="main" lang="kor" page="55a" n="04">奏事笏記</sent>
+<sent type="main" lang="chi" page="55a" n="05">看語條</sent>
+<sent type="main" lang="kor" page="55a" n="05">奏本內結語處貼以硬紙細條者</sent>
+<sent type="main" lang="chi" page="55a" n="06">家譜</sent>
+<sent type="main" lang="kor" page="55a" n="06">族譜</sent>
+</pages>
+
+<pages n="55b">
+<img n="55b">https://kohico.kr/_media/image/18세기후기_한청문감/55b.jpg</img>
+<sent type="main" lang="chi" page="55b" n="01">綠頭牌</sent>
+<sent type="main" lang="kor" page="55b" n="01">引見時書人名品級之竹牌</sent>
+<sent type="main" lang="chi" page="55b" n="02">夾板</sent>
+<sent type="main" lang="kor" page="55b" n="02">奏本夾板</sent><!--'夾板'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="55b" n="03">報匣</sent>
+<sent type="main" lang="kor" page="55b" n="03">盛奏御文字之黃匣</sent>
+<sent type="main" lang="chi" page="55b" n="04">報</sent>
+<sent type="main" lang="kor" page="55b" n="04">遆傳文書通謂之報</sent><!--'報'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="55b" n="05">稿</sent><!--상단에 '三則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="55b" n="05">文書草稿</sent><!--'稿'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="55b" n="06">堂呈</sent>
+<sent type="main" lang="kor" page="55b" n="06">屬官呈文書于堂官謂之堂呈</sent><!--'堂呈'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="56a">
+<img n="56a">https://kohico.kr/_media/image/18세기후기_한청문감/56a.jpg</img>
+<sent type="main" lang="chi" page="56a" n="01">案呈</sent>
+<sent type="main" lang="kor" page="56a" n="01">事件始末成出文案以呈堂官謂之案呈</sent><!--'案呈'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="56a" n="02">lü略節</sent>
+<sent type="main" lang="kor" page="56a" n="02">文書中節略梗槪者謂之略節</sent><!--'略節'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="56a" n="03">領子</sent>
+<sent type="main" lang="kor" page="56a" n="03">領受之票文</sent>
+<sent type="main" lang="chi" page="56a" n="04">付咨</sent>
+<sent type="main" lang="kor" page="56a" n="04">一部之內司官之互相移文者</sent>
+<sent type="main" lang="chi" page="56a" n="05">箚付</sent>
+<sent type="main" lang="kor" page="56a" n="05">上官之移文下官謂之箚付</sent><!--'箚付'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="56a" n="06">告示</sent>
+<sent type="main" lang="kor" page="56a" n="06">揭榜曉喩曰告示</sent><!--'告示'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="56a" n="07">揭帖</sent>
+<sent type="main" lang="kor" page="56a" n="07">各省所奏之事謄送于部院及科道者謂之揭帖</sent><!--'揭帖'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="56b">
+<img n="56b">https://kohico.kr/_media/image/18세기후기_한청문감/56b.jpg</img>
+<sent type="main" lang="chi" page="56b" n="01">錄書</sent>
+<sent type="main" lang="kor" page="56b" n="01">六科謄出各部院奏本藏于本科者</sent>
+<sent type="main" lang="chi" page="56b" n="02">外抄</sent>
+<sent type="main" lang="kor" page="56b" n="02">文書奏下後六科謄出者謂之外抄</sent><!--'外抄'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="56b" n="03">小抄</sent>
+<sent type="main" lang="kor" page="56b" n="03">塘報之類</sent>
+<sent type="main" lang="chi" page="56b" n="04">紅單</sent>
+<sent type="main" lang="kor" page="56b" n="04">各部出給官馬帖及稅所收稅數目帖之踏印者</sent>
+</pages>
+
+<pages n="57a">
+<img n="57a">https://kohico.kr/_media/image/18세기후기_한청문감/57a.jpg</img>
+<sent type="main" lang="chi" page="57a" n="01">發單</sent>
+<sent type="main" lang="kor" page="57a" n="01">文書遆傳時錄其數目倂送者</sent>
+<sent type="main" lang="chi" page="57a" n="02">粘單</sent>
+<sent type="main" lang="kor" page="57a" n="02">另書一單粘于原單者</sent>
+<sent type="main" lang="chi" page="57a" n="03">空白</sent>
+<sent type="main" lang="kor" page="57a" n="03">封印時踏于空紙以備緊急之需曰空白</sent><!--'空白'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="57a" n="04">批廻</sent>
+<sent type="main" lang="kor" page="57a" n="04">凡移文之有回題者謂之批廻</sent><!--'批廻'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="57b">
+<img n="57b">https://kohico.kr/_media/image/18세기후기_한청문감/57b.jpg</img>
+<sent type="main" lang="chi" page="57b" n="01">回頭</sent>
+<sent type="main" lang="kor" page="57b" n="01">回答手票</sent>
+<sent type="main" lang="chi" page="57b" n="02">封套</sent>
+<sent type="main" lang="kor" page="57b" n="02">文書封皮</sent>
+<sent type="main" lang="chi" page="57b" n="03">釘封文書</sent>
+<sent type="main" lang="kor" page="57b" n="03">凡移文入於紙帒踏印釘封者</sent>
+<sent type="main" lang="chi" page="57b" n="04">封條</sent>
+<sent type="main" lang="kor" page="57b" n="04">凡封鎖處所粘條紙</sent>
+<sent type="main" lang="chi" page="57b" n="05">搯子</sent>
+<sent type="main" lang="kor" page="57b" n="05">奏事時書事件于小摺先呈于大臣者○又通稱笏記</sent>
+<sent type="main" lang="chi" page="57b-58a" n="06">手本</sent>
+<sent type="main" lang="kor" page="57b-58a" n="06">下官見上官時書職品姓名之帖</sent><!--下官見上^官時書職品姓名之帖-->
+</pages>
+
+<pages n="58a">
+<img n="58a">https://kohico.kr/_media/image/18세기후기_한청문감/58a.jpg</img>
+<sent type="main" lang="chi" page="58a" n="01">聘牌</sent><!--상단에 '四則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="58a" n="01">命抄之牌以銀爲之</sent>
+<sent type="main" lang="chi" page="58a" n="02">令牌</sent>
+<sent type="main" lang="kor" page="58a" n="02">上官傳令下官之牌以竹爲之</sent>
+<sent type="main" lang="chi" page="58a" n="03">傳牌</sent>
+<sent type="main" lang="kor" page="58a" n="03">凡輪對及堂差時遆換之牌以木爲之</sent>
+<sent type="main" lang="chi" page="58a" n="04">腰牌</sent>
+<sent type="main" lang="kor" page="58a" n="04">出入闕門之牌</sent>
+</pages>
+
+<pages n="58b">
+<img n="58b">https://kohico.kr/_media/image/18세기후기_한청문감/58b.jpg</img>
+<sent type="main" lang="chi" page="58b" n="01">委牌</sent>
+<sent type="main" lang="kor" page="58b" n="01">出使官員之牌文</sent>
+<sent type="main" lang="chi" page="58b" n="02">票</sent>
+<sent type="main" lang="kor" page="58b" n="02">通稱票文</sent><!--'票'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="58b" n="03">限票</sent>
+<sent type="main" lang="kor" page="58b" n="03">定限日期之票文</sent>
+<sent type="main" lang="chi" page="58b" n="04">驗票</sent>
+<sent type="main" lang="kor" page="58b" n="04">搜檢時所憑之票文</sent>
+<sent type="main" lang="chi" page="58b" n="05">蔘票</sent>
+<sent type="main" lang="kor" page="58b" n="05">採蔘時所憑之票文</sent>
+<sent type="main" lang="chi" page="58b" n="06">串票</sent>
+<sent type="main" lang="kor" page="58b" n="06">凡田畝錢粮收稅之數書塡一紙彼此各分其半以爲憑考者</sent>
+</pages>
+
+<pages n="59a">
+<img n="59a">https://kohico.kr/_media/image/18세기후기_한청문감/59a.jpg</img>
+<sent type="main" lang="chi" page="59a" n="01">路引</sent>
+<sent type="main" lang="kor" page="59a" n="01">文武官給暇時路文</sent>
+<sent type="main" lang="chi" page="59a" n="02">檔子</sent>
+<sent type="main" lang="kor" page="59a" n="02">凡文書之謄冊存案者</sent>
+<sent type="main" lang="chi" page="59a" n="03">卯簿</sent>
+<sent type="main" lang="kor" page="59a" n="03">大小官員坐衙勤慢之簿</sent>
+<sent type="main" lang="chi" page="59a" n="04">掛號檔</sent>
+<sent type="main" lang="kor" page="59a" n="04">凡往來文移分表錄置者</sent>
+<sent type="main" lang="chi" page="59a" n="05">冊子</sent>
+<sent type="main" lang="kor" page="59a" n="05">通稱冊子</sent><!--'冊子'는 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="59b">
+<img n="59b">https://kohico.kr/_media/image/18세기후기_한청문감/59b.jpg</img>
+<sent type="main" lang="chi" page="59b" n="01">消長冊</sent>
+<sent type="main" lang="kor" page="59b" n="01">戶口消息之冊</sent>
+<sent type="main" lang="chi" page="59b" n="02">魚鱗冊</sent>
+<sent type="main" lang="kor" page="59b" n="02">田畝比總之案</sent>
+<sent type="title3" lang="chi" page="59b" n="03">繁冗類 一則</sent>
+<sent type="main" lang="chi" page="59b" n="04">繁</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="59b" n="04">繁雜</sent><!--'雜'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="59b" n="05">煩難</sent>
+<sent type="main" lang="kor" page="59b" n="05">通稱어렵다</sent>
+<sent type="main" lang="chi" page="59b" n="06">紊亂</sent>
+<sent type="main" lang="kor" page="59b" n="06">어즈럽다</sent>
+<sent type="main" lang="chi" page="59b" n="07">冗雜</sent>
+<sent type="main" lang="kor" page="59b" n="07">冗雜ᄒᆞ다</sent><!--'冗雜'은 반복 부호로 되어 있음-->
+</pages>
+
+<pages n="60a">
+<img n="60a">https://kohico.kr/_media/image/18세기후기_한청문감/60a.jpg</img>
+<sent type="main" lang="chi" page="60a" n="01">煩瑣</sent><!--煩^瑣-->
+<sent type="main" lang="kor" page="60a" n="01">煩𤨏ᄒᆞ다</sent><!--'煩𤨏'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="02">扭扭別別</sent>
+<sent type="main" lang="kor" page="60a" n="02">어근버근</sent>
+<sent type="main" lang="chi" page="60a" n="03">牽扯</sent>
+<sent type="main" lang="kor" page="60a" n="03">쳘쥬ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="60a" n="04">攪混</sent>
+<sent type="main" lang="kor" page="60a" n="04">凡事之混雜無頭緖曰攪混</sent><!--'攪混'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="05">堆積</sent>
+<sent type="main" lang="kor" page="60a" n="05">일답 싸이다</sent>
+<sent type="main" lang="chi" page="60a" n="06">錯雜</sent>
+<sent type="main" lang="kor" page="60a" n="06">事之參錯曰錯雜</sent><!--'錯雜'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="07">擁集</sent>
+<sent type="main" lang="kor" page="60a" n="07">事之縱橫湊集曰擁集</sent><!--'擁集'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="08">重疊</sent>
+<sent type="main" lang="kor" page="60a" n="08">重疊ᄒᆞ다</sent><!--'重疊'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="60a" n="09">迷亂</sent>
+<sent type="main" lang="kor" page="60a" n="09">일에 어즐ᄒᆞ다</sent>
+</pages>
+
+<pages n="60b">
+<img n="60b">https://kohico.kr/_media/image/18세기후기_한청문감/60b.jpg</img>
+<sent type="main" lang="chi" page="60b" n="01">混亂心思</sent>
+<sent type="main" lang="kor" page="60b" n="01">ᄆᆞᄋᆞᆷ 혼란ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="60b" n="02">被牽累</sent>
+<sent type="main" lang="kor" page="60b" n="02">凡事에 잇글리다</sent>
+<sent type="main" lang="chi" page="60b" n="03">惛亂無措</sent>
+<sent type="main" lang="kor" page="60b" n="03">일 어즐ᄒᆞ여 망조ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="60b" n="04">惛迷</sent>
+<sent type="main" lang="kor" page="60b" n="04">通稱어득ᄒᆞ다</sent>
+<sent type="title3" lang="chi" page="60b" n="05">辦事類 二則</sent>
+<sent type="main" lang="chi" page="60b" n="06">辦理</sent><!--상단에 '一則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="60b" n="06">일 판득ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="60b" n="07">承當</sent>
+<sent type="main" lang="kor" page="60b" n="07">담당ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="60b" n="08">職掌</sent>
+<sent type="main" lang="kor" page="60b" n="08">通稱맛다</sent>
+</pages>
+
+<pages n="61a">
+<img n="61a">https://kohico.kr/_media/image/18세기후기_한청문감/61a.jpg</img>
+<sent type="main" lang="chi" page="61a" n="01">交付</sent>
+<sent type="main" lang="kor" page="61a" n="01">通稱맛지다</sent>
+<sent type="main" lang="chi" page="61a" n="02">著落</sent>
+<sent type="main" lang="kor" page="61a" n="02">일 식이다</sent>
+<sent type="main" lang="chi" page="61a" n="03">當面</sent>
+<sent type="main" lang="kor" page="61a" n="03">면당ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="61a" n="04">開端</sent>
+<sent type="main" lang="kor" page="61a" n="04">開端ᄒᆞ다</sent><!--'開端'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="61a" n="05">示意</sent>
+<sent type="main" lang="kor" page="61a" n="05">ᄯᅳᆺ 뵈다</sent>
+<sent type="main" lang="chi" page="61a" n="06">省事</sent>
+<sent type="main" lang="kor" page="61a" n="06">일 덜치다</sent>
+<sent type="main" lang="chi" page="61a" n="07">yuelü約略辦理</sent>
+<sent type="main" lang="kor" page="61a" n="07">어졸ᄒᆞ다</sent>
+</pages>
+
+<pages n="61b">
+<img n="61b">https://kohico.kr/_media/image/18세기후기_한청문감/61b.jpg</img>
+<sent type="main" lang="chi" page="61b" n="01">討論</sent><!--討^論-->
+<sent type="main" lang="kor" page="61b" n="01">互相講確</sent>
+<sent type="main" lang="chi" page="61b" n="02">去管</sent>
+<sent type="main" lang="kor" page="61b" n="02">일에 부듸치다</sent>
+<sent type="main" lang="chi" page="61b" n="03">倡率</sent>
+<sent type="main" lang="kor" page="61b" n="03">일에 슈챵ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="61b" n="04">領頭</sent>
+<sent type="main" lang="kor" page="61b" n="04">위두ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="61b" n="05">議</sent><!--상단에 '二則'이 표기되어 있음-->
+<sent type="main" lang="kor" page="61b" n="05">의논</sent>
+<sent type="main" lang="chi" page="61b" n="06">會議</sent>
+<sent type="main" lang="kor" page="61b" n="06">모다 의논ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="61b" n="07">商議</sent>
+<sent type="main" lang="kor" page="61b" n="07">商議ᄒᆞ다</sent><!--'商議'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="61b" n="08">奏</sent>
+<sent type="main" lang="kor" page="61b" n="08">계주ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="61b" n="09">條陳</sent>
+<sent type="main" lang="kor" page="61b" n="09">죠건죠건 엿ᄌᆞᆸ다</sent>
+</pages>
+
+<pages n="62a">
+<img n="62a">https://kohico.kr/_media/image/18세기후기_한청문감/62a.jpg</img>
+<sent type="main" lang="chi" page="62a" n="01">做爲</sent>
+<sent type="main" lang="kor" page="62a" n="01">猶言做事</sent>
+<sent type="main" lang="chi" page="62a" n="02">告訴</sent>
+<sent type="main" lang="kor" page="62a" n="02">알외다</sent>
+<sent type="main" lang="chi" page="62a" n="03">駁回</sent>
+<sent type="main" lang="kor" page="62a" n="03">일 막아 보내다</sent>
+<sent type="main" lang="chi" page="62a" n="04">更張</sent>
+<sent type="main" lang="kor" page="62a" n="04">ᄆᆞᆺᄎᆞᆫ 일을 고쳐 말ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="62a" n="05">改正</sent>
+<sent type="main" lang="kor" page="62a" n="05">일 改正ᄒᆞ다</sent><!--'改正'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="62a" n="06">撥正</sent>
+<sent type="main" lang="kor" page="62a" n="06">일 바로 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="62a" n="07">權變</sent>
+<sent type="main" lang="kor" page="62a" n="07">從權通變</sent>
+<sent type="main" lang="chi" page="62a" n="08">辦法</sent>
+<sent type="main" lang="kor" page="62a" n="08">일ᄒᆞᄂᆞᆫ 법</sent>
+</pages>
+
+<pages n="62b">
+<img n="62b">https://kohico.kr/_media/image/18세기후기_한청문감/62b.jpg</img>
+<sent type="main" lang="chi" page="62b" n="01">巧爲料理</sent>
+<sent type="main" lang="kor" page="62b" n="01">從便處事</sent>
+<sent type="main" lang="chi" page="62b" n="02">挨次</sent>
+<sent type="main" lang="kor" page="62b" n="02">次第做事</sent>
+<sent type="main" lang="chi" page="62b" n="03">淸淸楚楚</sent>
+<sent type="main" lang="kor" page="62b" n="03">事之明白了當者</sent>
+<sent type="main" lang="chi" page="62b" n="04">有條有理</sent>
+<sent type="main" lang="kor" page="62b" n="04">됴리 잇다</sent>
+<sent type="main" lang="chi" page="62b" n="05">果斷</sent>
+<sent type="main" lang="kor" page="62b" n="05">果於斷事</sent>
+<sent type="main" lang="chi" page="62b" n="06">決斷</sent>
+<sent type="main" lang="kor" page="62b" n="06">決斷ᄒᆞ다</sent><!--'決斷'은 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="62b" n="07">批判</sent>
+<sent type="main" lang="kor" page="62b" n="07">凡公事之以朱筆題決者</sent>
+</pages>
+
+<pages n="63a">
+<img n="63a">https://kohico.kr/_media/image/18세기후기_한청문감/63a.jpg</img>
+<sent type="main" lang="chi" page="63a" n="01">畵題</sent>
+<sent type="main" lang="kor" page="63a" n="01">上達ᄒᆞ라 젹이다</sent>
+<sent type="main" lang="chi" page="63a" n="02">畵押</sent>
+<sent type="main" lang="kor" page="63a" n="02">일홈 두다</sent>
+<sent type="main" lang="chi" page="63a" n="03">打到</sent>
+<sent type="main" lang="kor" page="63a" n="03">各處公文之來到日子錄置者謂之打到</sent><!--'打到'는 반복 부호로 되어 있음-->
+<sent type="main" lang="chi" page="63a" n="04">准行</sent>
+<sent type="main" lang="kor" page="63a" n="04">依准施行</sent>
+</pages>
+</doc>
+

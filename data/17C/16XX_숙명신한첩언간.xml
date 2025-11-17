@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">숙명신한첩언간</title>
+<title lang="chi">淑明宸翰帖諺簡</title>
+<full_name>숙명신한첩언간</full_name>
+<nikl_name>숙명신한첩언간</nikl_name>
+<general_name>숙명신한첩언간</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이]; [표];</abbre>
+<version></version>
+<volume n=""/>
+<sender>효종 외</sender><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<receiver>숙명공주</receiver><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<date>17세기</date><!--전반적인 작성 시기.-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>조선시대 한글편지 판독자료집 2</title>
+<pubPlace>역락</pubPlace>
+<publisher>한국학중앙연구원 어문생활사연구소 편</publisher><!--황문환ㆍ임치균ㆍ전경목ㆍ조정아ㆍ황은영-->
+<date>2013-06-28</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2020.10.05.</date>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>일련번호는 판독자료집에 따르되, 발신 시기는 이종덕 선생의 자료에 따름</item>
+<item>일부 판독은 이종덕 선생의 자료에 따름</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>입력자</resp><name>장린</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>허인영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<!--sender는 '발신자', writer는 '작성자', receiver는 '수신자', year는 '발신 연도', envelop은 '봉투 유형'을 가리키는 속성 정보이다.-->
+<!--'발신자'와 '작성자'는 일반적으로는 동일하나 대필(代筆) 언간의 경우에는 상이하다. 후자의 경우 작성자(즉, 대필자)가 누구인지 분명하면 그것을 밝혀 적고, 분명하지 않으면 '대필자'로만 입력한다. 대필 여부가 의심되나 확실하지 않을 경우에는 writer를 '대필자?'로 입력한다.-->
+<!--'발신 연도'는 연(年) 단위까지만 입력하되, 정확한 연도를 밝힐 수 없는 편지는 '19세기 중반', '1851~1857년' 등과 같이 그 추정 시기를 입력한다.-->
+<!--봉투가 하나인 '단봉(單封)'은 다시 '별봉(別封, 별도로 만든 것)과 '자봉(自封, 내지가 봉투를 겸한 것)'으로 나뉜다. '별봉'은 envelop1-1로, '자봉'은 envelop1-2로 입력한다. 단봉을 다시 싼 '중봉(重封)'은 envelop2로 입력한다.-->
+<!--언간 자료의 특성상 개별 편지의 상황 정보는 추후 얼마든지 수정될 수 있다.-->
+
+<img n="01">https://kohico.kr/_media/image/17C_숙명신한첩언간/01.jpg</img>
+<letter n="01" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="01" n="01">(슉명)</sent>
+<sent type="main" lang="kor" page="01" n="02">너ᄂᆞᆫ 어이 이번의 아니 드러온다</sent>
+<sent type="main" lang="kor" page="01" n="03">어제 네 형은 ᄎᆞᆯ 노리개옛 거ᄉᆞᆯ 슉휘지이 만히 가지되 네 목은 업스니</sent>
+<sent type="main" lang="kor" page="01" n="04">너ᄂᆞᆫ 그ᄉᆞ이만 ᄒᆞ야도 하 어먼 일이 만흐니 애ᄃᆞᆯ와 뎍노라</sent>
+<sent type="main" lang="kor" page="01" n="05">네 목의 거ᄉᆞ란 아모 악을 ᄡᅳᆯ디라도 브듸 다 ᄎᆞ자라</sent>
+</letter>
+
+<img n="02">https://kohico.kr/_media/image/17C_숙명신한첩언간/02.jpg</img>
+<letter n="02" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="02" n="01">(슉명공쥬)</sent>
+<sent type="main" lang="kor" page="02" n="02">너ᄂᆞᆫ 싀집의 가 바틴다ᄂᆞᆫ ᄒᆞ거니와 어이 괴양이ᄂᆞᆫ 품고 잇ᄂᆞᆫ다</sent>
+</letter>
+
+<img n="03">https://kohico.kr/_media/image/17C_숙명신한첩언간/03.jpg</img>
+<letter n="03" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="03" n="01">득죄야 므슴 녀나믄 득죄리</sent>
+<sent type="main" lang="kor" page="03" n="02">이번의 아니 드러온 죈가 시브다</sent>
+<sent type="main" lang="kor" page="03" n="03">이 죄ᄂᆞᆫ 오로 심텰동의 죄니 보채고 싸화라</sent>
+</letter>
+
+<img n="04">https://kohico.kr/_media/image/17C_숙명신한첩언간/04.jpg</img>
+<letter n="04" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="04" n="01">(슉명공쥬)</sent>
+<sent type="main" lang="kor" page="04" n="02">네 글월은 예셔 고텨셔 보채려 ᄒᆞᄂᆞᆫ 줄도 모로고 갓시 드러셔 싸호ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="04" n="03">요 쇼락아 ᄌᆞ시 보와라</sent>
+</letter>
+
+<img n="05">https://kohico.kr/_media/image/17C_숙명신한첩언간/05.jpg</img>
+<letter n="05" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="05" n="01">글월 보고 됴히 이시니 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="05" n="02">어제 냥 ᄉᆡᆨ쵹 보내엿더니 본다</sent>
+<sent type="main" lang="kor" page="05" n="03">면ᄌᆞ등 이 수대로 보내노라 </sent>
+</letter>
+
+<img n="05-1">https://kohico.kr/_media/image/17C_숙명신한첩언간/05-1.jpg</img>
+<letter n="05-1" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="05-1" n="01">문안 엿ᄌᆞᆸ고 야간 셩후 안녕ᄒᆞᄋᆞ오신 문안 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="05-1" n="02">날이 ᄑᆞ오니 더옥 섭섭ᄒᆞ오미 아ᄆᆞ라타 업ᄉᆞ와 ᄒᆞᄋᆞᆸ노이다</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="06">https://kohico.kr/_media/image/17C_숙명신한첩언간/06.jpg</img>
+<letter n="06" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1654~1658년">
+<sent type="main" lang="kor" page="06" n="01">긔운이나 무ᄉᆞᄒᆞᆫ가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="06" n="02">너희 집 일이야 어이 내내 다 뎍으리</sent><!--뒤에 오는 '내'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="03">그 아ᄒᆡ가 그리 될 줄을 어이 알리</sent>
+<sent type="main" lang="kor" page="06" n="04">어룬들히 헐복ᄒᆞ야 그런가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="06" n="05">하 닛디 못ᄒᆞ니 이제ᄂᆞᆫ 아ᄒᆡ들흘 ᄎᆞᄉᆡᆼ 졍 브터 아니 기ᄅᆞ려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="06" n="06">졍은 무궁ᄒᆞ되 ᄆᆞᄋᆞᆷ이 아니ᄭᅩ와 잠간 뎍노라</sent>
+<sent type="main" lang="kor" page="06" n="07">우흐로 부모ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ고 ᄉᆡᆼ심도 무익ᄒᆞᆫ 슬ᄸᅮ지 말고</sent>
+<sent type="main" lang="kor" page="06" n="08">밥이나 힘ᄡᅥ 먹고 병드러 근심 기티디 말아</sent>
+<sent type="main" lang="kor" page="06" n="09">부마과 ᄒᆞᆫ가지로 보와라</sent>
+<sent type="main" lang="kor" page="06" n="10">늘근 졍승 안흘 ᄉᆡᆼ각ᄒᆞ니 더옥 ᄀᆞ이업다 </sent>
+</letter>
+
+<img n="07">https://kohico.kr/_media/image/17C_숙명신한첩언간/07.jpg</img>
+<letter n="07" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="07" n="01">글월 보고 됴히 이시니 반기노라</sent>
+<sent type="main" lang="kor" page="07" n="02">나ᄂᆞᆫ 됴히 왓노라</sent>
+</letter>
+
+<img n="08">https://kohico.kr/_media/image/17C_숙명신한첩언간/08.jpg</img>
+<letter n="08" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="08" n="01">아홉 가지 왜능화 오십오 댱 가니</sent>
+<sent type="main" lang="kor" page="08" n="02">닙츈 써 드린 샹으로 부마 주어라</sent>
+</letter>
+
+<img n="09">https://kohico.kr/_media/image/17C_숙명신한첩언간/09.jpg</img>
+<letter n="09" sender="효종(아버지)" writer="효종(아버지)" receiver="숙명공주(딸)" year="1652~1659년">
+<sent type="main" lang="kor" page="09" n="01">그리 밤나즐 시위ᄒᆞᄋᆞᆸ고 잇ᄉᆞᆸ다가 이리 오ᄅᆞ오시니</sent>
+<sent type="main" lang="kor" page="09" n="02">온 집이 다 븬 ᄃᆞᆺᄒᆞ고 하 섭섭ᄒᆞ오니</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="09" n="03">ᄒᆞᆫ업시 섭섭ᄒᆞ야 ᄒᆞᄋᆞᆸᄂᆞᆫ 졍셩과 ᄠᅳ들 아오시긔 ᄒᆞ야라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="10">https://kohico.kr/_media/image/17C_숙명신한첩언간/10.jpg</img>
+<letter n="10" sender="현종(남동생)" writer="현종(남동생)" receiver="숙명공주(누나)" year="1661년">
+<sent type="main" lang="kor" page="10" n="01">됴쟈의 졍찰 보고 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10" n="02">작일 봉샹의셔 환션 두로던 거시 긔 뉜고 ᄌᆞ 아ᄂᆞᆫ다 ᄏᆞ니와</sent>
+<sent type="main" lang="kor" page="10" n="03">아모 날이나 별로 볼 일이 내ᄃᆞᄅᆞ면 내 가 뵈오리이다</sent>
+<sent type="main" lang="kor" page="10" n="04">휘 졍 냥 ᄆᆡᄌᆞᄃᆞ려 ᄒᆞ가지로 니ᄅᆞ쇼셔 </sent>
+<sent type="main" lang="kor" page="10" n="05">이년 신튝 윤칠 슌칠일</sent>
+<sent type="main" lang="kor" page="10" n="06">악착 흉녕 ᄒᆞᆫ 장은 보내라 ᄒᆞ야시매 이러 나아간다</sent>
+</letter>
+
+<img n="11">https://kohico.kr/_media/image/17C_숙명신한첩언간/11.jpg</img>
+<letter n="11" sender="현종(남동생)" writer="현종(남동생)" receiver="숙명공주(누나)" year="1659~1674년">
+<sent type="main" lang="kor" page="11" n="01">밤ᄉᆞ이 평안ᄒᆞᄋᆞᆸ신 일 아ᄋᆞᆸ고져 ᄇᆞ라오며</sent>
+<sent type="main" lang="kor" page="11" n="02">오ᄂᆞᆯ은 졍찰도 못 어더 보오니 ᄀᆞ이업ᄉᆞᆸ더이다</sent>
+<sent type="main" lang="kor" page="11" n="03">이 황감 칠 ᄆᆡ 극쇼 블관ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="11" n="04">졍으로 모도온 거시라 가오니 젹다 마ᄋᆞᆸ시고 웃고 자ᄋᆞᆸ쇼셔</sent>
+</letter>
+
+<img n="12">https://kohico.kr/_media/image/17C_숙명신한첩언간/12.jpg</img>
+<letter n="12" sender="장렬왕후(할머니)" writer="장렬왕후(할머니)" receiver="숙명공주(손녀)" year="1652~1688년">
+<sent type="main" lang="kor" page="12" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="12" n="02">어제 샹궁ᄃᆞᆯ ᄃᆞᆫ녀오나ᄅᆞᆯ 긔별 듯고 친히 본 ᄃᆞᆺ 든든ᄒᆞ기 아므라타 업ᄉᆞ며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="03">어제ᄂᆞᆫ 날이 흐릴가 념녜 ᄀᆞ이업더니</sent>
+<sent type="main" lang="kor" page="12" n="04">날도 됴코 무ᄉᆞ히 디내니 다ᄒᆡᆼ 깃브기 아므라타 업ᄉᆞ나</sent>
+<sent type="main" lang="kor" page="12" n="05">두긋거온 샹도 보디 못ᄒᆞᄂᆞᆫ 줄을 애ᄃᆞᆯ며</sent>
+<sent type="main" lang="kor" page="12" n="06">녜일을 ᄉᆡᆼ각ᄒᆞ니 더옥 가지가지 굿버 디내엿ᄂᆡ</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="13">https://kohico.kr/_media/image/17C_숙명신한첩언간/13.jpg</img>
+<letter n="13" sender="장렬왕후(할머니)" writer="장렬왕후(할머니)" receiver="숙명공주(손녀)" year="1652~1688년">
+<sent type="main" lang="kor" page="13" n="01">글월 보고 친히 본 ᄃᆞᆺ 든든 몬내 반기며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13" n="02">나간 후 글시도 못 보니 섭섭ᄒᆞ기 아므라타 업ᄉᆞᆫ 듕</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13" n="03">나갈 적 병셰ᄅᆞᆯ 아랏던 거시매 일뎡 더 알파ᄒᆞᄂᆞᆫ가 일ᄏᆞᆺ고 념ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="13" n="04">수이 그만이나 ᄒᆞ야 ᄂᆡ일 드러온다 다ᄒᆡᆼ 깃브며</sent>
+<sent type="main" lang="kor" page="13" n="05">볼가 기ᄃᆞ리고 잇ᄂᆡ</sent>
+</letter>
+
+<img n="14">https://kohico.kr/_media/image/17C_숙명신한첩언간/14.jpg</img>
+<letter n="14" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="14" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="02">박 샹궁 드러오나ᄂᆞᆯ 긔별ᄃᆞᆯ 듯고 보ᄂᆞᆫ ᄃᆞᆺ 든든ᄒᆞ여 ᄒᆞ며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="03">가샹의 형뎨ᄃᆞᆯ은 막 에엿버더라 몬내 닐러 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="14" n="04">나ᄂᆞᆫ 언제 볼고 일ᄏᆞᄅᆞ며</sent>
+<sent type="main" lang="kor" page="14" n="05">날이나 더 덥거든 다 ᄃᆞ려다가 보려 ᄒᆞ노라</sent>
+</letter>
+
+<img n="15">https://kohico.kr/_media/image/17C_숙명신한첩언간/15.jpg</img>
+<letter n="15" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1671년">
+<sent type="main" lang="kor" page="15" n="01">글월 보고 무양히곰 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 반가와ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="15" n="02">ᄉᆞ연도 보고 몬내 우으며 아ᄆᆞ리 그만ᄒᆞ여 두면 ᄡᅳ랴 ᄒᆞᆫᄃᆞᆯ</sent>
+<sent type="main" lang="kor" page="15" n="03">님자 업ᄉᆞᆫ 일의 뉘라셔 애ᄡᅥ ᄒᆞ리가 이시리</sent>
+<sent type="main" lang="kor" page="15" n="04">ᄀᆞᄋᆞᆷ도 지금 못 어더시니</sent>
+<sent type="main" lang="kor" page="15" n="05">그거시 되여 나기 어려울가 시브니 하 죄오디나 마라</sent>
+<sent type="main" lang="kor" page="15" n="06">슉경이ᄂᆞᆫ ᄂᆡ일 나가긔 ᄒᆞ여시니</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="15" n="07">그거시 조차 ᄆᆞ자 나가면 더옥 젹막ᄒᆞᆯ가 시브니</sent>
+<sent type="main" lang="kor" page="15" n="08">가지가지 ᄆᆞᄋᆞᆷ을 뎡티 못ᄒᆞᆯ가 시브다</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="15" n="09">언제 너ᄒᆡ나 드러올고 눈이 감게 기ᄃᆞ리고 잇노라</sent>
+</letter>
+
+<img n="16">https://kohico.kr/_media/image/17C_숙명신한첩언간/16.jpg</img>
+<letter n="16" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1660년">
+<sent type="main" lang="kor" page="16" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 몬내 반기노라</sent>
+<sent type="main" lang="kor" page="16" n="02">익평위ᄂᆞᆫ 만리 ᄒᆡᆼ역의 무ᄉᆞ히 도라오니 깃브기 ᄀᆞ이업ᄉᆞ나</sent>
+<sent type="main" lang="kor" page="16" n="03">가지가지 ᄆᆞᄋᆞᆷ이 새로이 셜워ᄒᆞ노라</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="04">부마ᄂᆞᆫ 엇디 그러ᄒᆞ거뇨</sent>
+<sent type="main" lang="kor" page="16" n="05">념녜 ᄀᆞ이업ᄉᆞᆫ 듕의 머리예 거ᄉᆞᆫ 허런 디 오라니 더옥 분별되고</sent>
+<sent type="main" lang="kor" page="16" n="06">등의 도든 것도 분얘 ᄇᆞᄅᆞᆫ 고디니 념이 헐티 못ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="16" n="07">어제오ᄂᆞᆯ은 혼자 더옥 젹막히 안자</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="16" n="08">가지가지 ᄆᆞᄋᆞᆷ도 셟고 슬픈 이리 만하 아젹긋 눈믈을 흘리고 잇노라</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="09">대군 집 대샹도 ᄆᆞᄌᆞ 디나니 어ᄂᆞ ᄉᆞ이 삼년이 진ᄒᆞ거뇨</sent>
+<sent type="main" lang="kor" page="16" n="10">새로이 ᄐᆞᆨᄐᆞᆨᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="11">ᄂᆡ일 드러오면 볼가 기ᄃᆞ리고 잇노라</sent>
+</letter>
+
+<img n="17">https://kohico.kr/_media/image/17C_숙명신한첩언간/17.jpg</img>
+<letter n="17" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659년 이전">
+<sent type="main" lang="kor" page="17" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="02">그리 나간 디 여러 날이 되ᄃᆞ록 아마도 섭섭 무류ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="03">녹의인뎐은 고텨 보내려 ᄒᆞ니 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17" n="04">네 일역은 ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="17" n="05">슉휘ᄂᆞᆫ 좀 벼개 귀여ᄋᆞᄅᆞᆯ ᄆᆡ자니</sent>
+<sent type="main" lang="kor" page="17" n="06">기고 셔고 벼개 귀여ᄋᆞ ᄒᆞ려 ᄒᆞ고 시방 ᄆᆡᆺ노라 브스다히ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="17" n="07">너ᄂᆞᆫ 엇디려 ᄒᆞᄂᆞᆫ다</sent>
+</letter>
+
+<img n="18">https://kohico.kr/_media/image/17C_숙명신한첩언간/18.jpg</img>
+<letter n="18" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1662년">
+<sent type="main" lang="kor" page="18" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="02">나ᄂᆞᆫ 오ᄂᆞᆯ은 퍽 ᄒᆞ려 창흘 열고 잇노라</sent>
+<sent type="main" lang="kor" page="18" n="03">ᄇᆡᆨ쳔은 싀골 가 과거ᄅᆞᆯ 보니 딘시 긔별도 몰라 답답ᄒᆞ여 ᄒᆞ더니</sent><!--뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="04">아젹 긔별을 드ᄅᆞ니 초시ᄅᆞᆯ 넷재 ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="18" n="05">그런 다ᄒᆡᆼᄒᆞ고 깃븐 이리 어ᄃᆡ 어ᄃᆡ 이시리</sent><!--뒤에 오는 '어ᄃᆡ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="06">깃븐 ᄆᆞᄋᆞᆷ을 뎡티 못ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="18" n="07">회간으로 올라오노라 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="18" n="08">슉경이ᄂᆞᆫ 돌림니질을 어덧ᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="18" n="09">그런 심심 민망ᄒᆞᆫ 이리 업서 ᄒᆞ노라</sent><!--뒤에 오는 '심'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="10">닙효산 가시니 공심의 구ᄐᆡ여 머그려 말고</sent>
+<sent type="main" lang="kor" page="18" n="11">오ᄂᆞᆯ 두 번 머그라 닐러라</sent>
+<sent type="main" lang="kor" page="18" n="12">하븍 니쟝군뎐 간다</sent>
+<sent type="main" lang="kor" page="18" n="13">감역 집의 벗긴 ᄎᆡᆨ ᄎᆞ자 드러올 제 가져오나라</sent>
+</letter>
+
+<img n="19">https://kohico.kr/_media/image/17C_숙명신한첩언간/19.jpg</img>
+<letter n="19" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1657년">
+<sent type="main" lang="kor" page="19" n="01">우흐로겨ᄋᆞ오샤 졍승이 오라디 아녀셔 나가시긔 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="19" n="02">부마ᄅᆞᆯ 그저 뎌리 ᄆᆡ인 ᄃᆡ 업시 두고 가시면</sent>
+<sent type="main" lang="kor" page="19" n="03">글도 못 ᄇᆡ호고 어히업ᄉᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="19" n="04">ᄂᆞᆷ 아닌 ᄉᆞ이오 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="19" n="05">브ᄃᆡ 권진션ᄭᅴ 맛디고 가시되</sent>
+<sent type="main" lang="kor" page="19" n="06">진션ᄭᅴ도 쇼쳥을 ᄃᆞᆫᄃᆞᆫ이 ᄒᆞ시고</sent><!--뒤에 오는 'ᄃᆞᆫ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="07">부마ᄃᆞ려도 ᄀᆞ장 ᄃᆞᆫᄃᆞᆫ이 당부ᄒᆞ고 가ᄋᆞᆸ쇼셔 ᄒᆞᄋᆞ오신다 ᄒᆞ여</sent><!--뒤에 오는 'ᄃᆞᆫ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="08">내 말로 뎍어라 ᄒᆞᄋᆞ오신다</sent>
+</letter>
+
+<img n="20">https://kohico.kr/_media/image/17C_숙명신한첩언간/20.jpg</img>
+<letter n="20" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1654년">
+<sent type="main" lang="kor" page="20" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="02">집의 가기ᄂᆞᆫ 초ᄉᆡᆼ이 너모 갓가오니 믈려 ᄐᆡᆨ일을 ᄒᆞ여 와시되</sent>
+<sent type="main" lang="kor" page="20" n="03">오ᄂᆞᆯ도 목졍으로 밧긔 나 겨ᄋᆞ오시니 드오셔든 ᄎᆔ품을 ᄒᆞ와야 아올가 시브다</sent>
+<sent type="main" lang="kor" page="20" n="04">슉안이ᄂᆞᆫ ᄒᆡ산을 무ᄉᆞ히 ᄒᆞᆫ 듕 ᄉᆡᆼ남을 ᄒᆞ니 깃브기 ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="20" n="05">너ᄂᆞᆫ 언제 아ᄃᆞᆯ을 나하 뎌 늘근 싀아비ᄅᆞᆯ ᄉᆡᆼ광을 뵐고 ᄒᆞ노라</sent>
+</letter>
+
+<img n="21">https://kohico.kr/_media/image/17C_숙명신한첩언간/21.jpg</img>
+<letter n="21" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659년 이전">
+<sent type="main" lang="kor" page="21" n="01">글월 보고 친히 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기나</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="02">귀ᄂᆞᆫ ᄒᆞᆫ가지로 알ᄅᆞᆫ다 ᄒᆞ니 엇딘 거시 그리 지리ᄒᆞᆫ고</sent>
+<sent type="main" lang="kor" page="21" n="03">분별이 ᄀᆞ이업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="21" n="04">우흐로겨ᄋᆞ오샤 어제 헌부의셔 새로 소계ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="21" n="05">졔궁가의셔 금난 일로 작폐ᄒᆞᄂᆞᆫ 이리 ᄒᆡ약ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="21" n="06">ᄀᆞᆺ곰 뎍발ᄒᆞ여 가댱을 죄주게 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="21" n="07">ᄒᆡᆼ혀 거ᄃᆞᆯ릴 이리 이실가 ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="21" n="08">아젹의 소임ᄃᆞᆯᄒᆞᆯ 블러다가 뎐교로 니ᄅᆞ고</sent>
+<sent type="main" lang="kor" page="21" n="09">이 ᄉᆞ연을 항것ᄃᆞᆯᄃᆞ려 니ᄅᆞ고 조심ᄒᆞ라 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="21" n="10">아마도 조심ᄃᆞᆯ ᄒᆞ라 ᄒᆞ오신다</sent>
+</letter>
+
+<img n="22">https://kohico.kr/_media/image/17C_숙명신한첩언간/22.jpg</img>
+<letter n="22" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1662년 이전">
+<sent type="main" lang="kor" page="22" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="02">날이 ᄑᆞᄃᆞ록 아마도 섭섭ᄒᆞ기 ᄀᆞ이업서 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="03">졍승은 샹한을 ᄒᆞ여 겨시다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="22" n="04">년고ᄒᆞᆫ 사ᄅᆞᆷ이 뎌적의 날마다 문안 ᄃᆞᆫ니시기예 샹ᄒᆞ신가 념녀ᄒᆞ며 안심티 아녀 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="22" n="05">이 감ᄌᆞᄂᆞᆫ 어디 아닌 거시니 병듕의 보내긔 열 보내노라</sent>
+</letter>
+
+<img n="23">https://kohico.kr/_media/image/17C_숙명신한첩언간/23.jpg</img>
+<letter n="23" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년 이전">
+<sent type="main" lang="kor" page="23" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반가와ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="02">날이 ᄑᆞᄃᆞ록 섭섭 훌훌ᄒᆞᄆᆞᆯ 어이 다 뎍으리</sent><!--뒤에 오는 '섭'과 '훌'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="03">어제오ᄂᆞᆯ은 날이조차 극한ᄒᆞ니 움즉여 날 의ᄉᆞ도 못ᄒᆞ고 두문ᄒᆞ고 드러안ᄌᆞ니</sent>
+<sent type="main" lang="kor" page="23" n="04">안자시니 더욱 심심 고로와ᄒᆞ노라</sent><!--뒤에 오는 '심'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="05">가샹의 형뎨ᄂᆞᆫ 다 ᄒᆞ렷다 ᄒᆞ니 ᄀᆞ이업시 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="23" n="06">돈피 두 녕 간다 ᄏᆞ니와</sent>
+<sent type="main" lang="kor" page="23" n="07">그거시 쥐갓 ᄀᆞᆺᄐᆞ니 반믈이나 드려야 기울가 시브다</sent>
+</letter>
+
+<img n="24">https://kohico.kr/_media/image/17C_숙명신한첩언간/24.jpg</img>
+<letter n="24" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="24" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 다시곰 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="02">그리 듀야ᄅᆞᆯ ᄠᅥ날 ᄉᆞ이 업시 디내다가 어제ᄂᆞᆫ ᄆᆡ양 잇디 못ᄒᆞᆯ 거시라</sent>
+<sent type="main" lang="kor" page="24" n="03">내여보내나 호졋ᄒᆞ고 섭섭 무류ᄒᆞ기ᄅᆞᆯ 어이 다 뎍으리</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="04">ᄒᆞᆫ갓 ᄆᆞᄋᆞᆷ만 굿브고 ᄀᆞᆺ득ᄒᆞᆫ 심ᄉᆡ 더옥 아ᄆᆞ라타 업ᄉᆞ니 쇽졀업시 눈믈만 딜 ᄲᅮᆫ이로다</sent>
+<sent type="main" lang="kor" page="24" n="05">가샹의 형뎨ᄃᆞᆯ토 됴히 잇ᄂᆞᆫ가 ᄒᆞ며 ᄌᆞᆨ히 반겨ᄒᆞ랴 일ᄏᆞᆺ고 잇노라</sent>
+<sent type="main" lang="kor" page="24" n="06">너ᄒᆡ 나ᄇᆡᄂᆞᆫ 이리로셔 보내노라</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+</letter>
+
+<img n="25">https://kohico.kr/_media/image/17C_숙명신한첩언간/25.jpg</img>
+<letter n="25" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1671년">
+<sent type="main" lang="kor" page="25" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="02">나간 디 여러 날이 되ᄃᆞ록 섭섭ᄒᆞ기 아ᄆᆞ라타 업서 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="03">어제져녁 글월도 보고 몬내 우으며</sent>
+<sent type="main" lang="kor" page="25" n="04">그러ᄒᆞ므로 아이예 머글 거ᄉᆞᆯ 보내엿노라</sent>
+<sent type="main" lang="kor" page="25" n="05">쇼지도 보되 우편 손등의 담이 잇더니 뉴주ᄒᆞ여 ᄇᆞᄅᆞᆺ ᄑᆞᆯ목의 가시니</sent>
+<sent type="main" lang="kor" page="25" n="06">싀여 글을 쓰디 못ᄒᆞ여 계유 쓰니 조초 ᄒᆞ마</sent>
+<sent type="main" lang="kor" page="25" n="07">경의 글월 긋틔 뎌긴 것 보고 션악ᄒᆞ여라</sent>
+</letter>
+
+<img n="26">https://kohico.kr/_media/image/17C_숙명신한첩언간/26.jpg</img>
+<letter n="26" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="26" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="02">여러 날이 되ᄃᆞ록 그리 모다 디내던 일이 몽듕 일 ᄀᆞᆺᄐᆞ여 섭섭호ᄆᆞᆯ 뎡티 못ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="03">나ᄂᆞᆫ 대단티 아니ᄒᆞ나 감모ᄭᅴ로 티도 알프고 거복ᄒᆞ여 약 먹노라</sent>
+<sent type="main" lang="kor" page="26" n="04">ᄏᆞ니와 관겨티 아니ᄒᆞ다</sent>
+</letter>
+
+<img n="27">https://kohico.kr/_media/image/17C_숙명신한첩언간/27.jpg</img>
+<letter n="27" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="27" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 반가와ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="27" n="02">유감은 므ᄅᆞ온 거시 열닐굽이어ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="27" n="03">슉안의게ᄒᆞ고 네게ᄒᆞ고 ᄂᆞᆫ호니 ᄒᆞ나히 남거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="27" n="04">마시나 보고 보내게 더 녀헛더니라</sent>
+<sent type="main" lang="kor" page="27" n="05">요ᄉᆞ이 가샹의 형뎨ᄃᆞᆯ히 다 됴히 잇ᄂᆞᆫ가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="27" n="06">고놈ᄃᆞᆯ이 ᄌᆞᆨ히 에엿버시랴 ᄒᆞ노라</sent>
+</letter>
+
+<img n="28">https://kohico.kr/_media/image/17C_숙명신한첩언간/28.jpg</img>
+<letter n="28" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="28" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="02">ᄃᆞ라치ᄂᆞᆫ 그리 심티 아니타 ᄒᆞ니 수이 ᄒᆞ릴가 깃거ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28" n="03">드러올 날이 갓가오니 수이 볼가 기ᄃᆞ리노라</sent>
+<sent type="main" lang="kor" page="28" n="04">온 진쥬 보와든 자바 보내여라</sent>
+<sent type="main" lang="kor" page="28" n="05">그제 뎡ᄌᆞ 터ᄒᆞᆯ 갑 도도노라 아니 ᄑᆞᆫ다 ᄒᆞ더니 못 사돗던가 ᄒᆞ노라</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+</letter>
+
+<img n="29">https://kohico.kr/_media/image/17C_숙명신한첩언간/29.jpg</img>
+<letter n="29" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="29" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="02">가샹이ᄂᆞᆫ 이제ᄂᆞᆫ 여샹ᄒᆞ여 밤의 ᄌᆞᆷ도 잘 자고 됴히 이시되</sent>
+<sent type="main" lang="kor" page="29" n="03">듕혀긔가 채 업디 아니ᄒᆞ매 오ᄂᆞᆯ ᄯᅩ 의관 뵈려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="29" n="04">원샹이도 올라오고 제 형도 어제 올라와 노다가 갓ᄂᆞ니라</sent>
+<sent type="main" lang="kor" page="29" n="05">원샹이가 코 흘리고 곳ᄲᅳᆯ긔 잇ᄂᆞᆫ ᄃᆞᆺᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="29" n="06">오ᄂᆞᆯ은 녀허 두라 ᄒᆞ엿노라</sent>
+</letter>
+
+<img n="30">https://kohico.kr/_media/image/17C_숙명신한첩언간/30.jpg</img>
+<letter n="30" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="30" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="02">가샹이ᄂᆞᆫ 샹한은 대단티 아니호되 여러 날 뎌러니 민망ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="30" n="03">움동이ᄀᆞᆺ티 드러 업데엿 아ᄒᆡᄅᆞᆯ ᄀᆞᆸ작되이 나여 일즉 ᄇᆞᄅᆞᆷ ᄡᅩ이고 ᄒᆞ여 글로 뎌런가 시브다</sent>
+<sent type="main" lang="kor" page="30" n="04">든 집이 하 옹ᄉᆡᆨᄒᆞ여 답답ᄒᆞ니 승회뎐 침방 온돌 ᄒᆞᆫ편의 드리려 ᄒᆞ되</sent><!--뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="05">가샹이ᄂᆞᆫ 알파ᄒᆞ니 츌입의 텸샹ᄒᆞᆯ가 아ᄋᆞ 몬져 보내엿노라</sent>
+</letter>
+
+<img n="31">https://kohico.kr/_media/image/17C_숙명신한첩언간/31.jpg</img>
+<letter n="31" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="31" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent>
+<sent type="main" lang="kor" page="31" n="02"><!--뒤에 오는 '든'은 재점으로 표기되어 있음--></sent>
+<sent type="main" lang="kor" page="31" n="03">ᄉᆞ연도 보고 가샹의 형뎨ᄂᆞᆫ 됴히 잇ᄂᆞᆫ가 시브니 깃거ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="31" n="04">가샹의 말을 보니 그놈의 에엿븐 샹이 보ᄂᆞᆫ ᄃᆞᆺᄒᆞ니</sent>
+<sent type="main" lang="kor" page="31" n="05">언제 날이 더워 ᄃᆞ려다가 볼고 일ᄏᆞᆺ노라</sent>
+<sent type="main" lang="kor" page="31" n="06">볼 날이 머디 아니ᄒᆞ니 아ᄒᆡᄀᆞᆺ티 손고바 기ᄃᆞ리고 잇노라</sent>
+</letter>
+
+<img n="32">https://kohico.kr/_media/image/17C_숙명신한첩언간/32.jpg</img>
+<letter n="32" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="32" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기나</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="02">져도 그ᄅᆞᆫ ᄃᆞ랏치ᄅᆞᆯ 내엿다 ᄒᆞ니 엇디 그러ᄒᆞᆫ고 분별ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="32" n="03">ᄃᆞ랏치ᄂᆞᆫ 심ᄒᆞ니ᄂᆞᆫ 머리가 심히 알ᄑᆞᆫ 거시니 어이 견ᄃᆡᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="32" n="04">더옥 닛디 못ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="32" n="05">원샹이ᄂᆞᆫ 다ᄅᆞᆫ 거시 아니라 아ᄋᆞᄐᆞ기로 주올이 드러 그러ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="32" n="06">아ᄆᆞ리 ᄒᆞ여도 거ᄌᆞᆺ 거시니라</sent>
+</letter>
+
+<img n="33">https://kohico.kr/_media/image/17C_숙명신한첩언간/33.jpg</img>
+<letter n="33" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1658~1674년">
+<sent type="main" lang="kor" page="33" n="01">글월 보고 친히 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기나</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33" n="02">네 안질도 ᄒᆞᆫ가지오</sent>
+<sent type="main" lang="kor" page="33" n="03">가샹이ᄂᆞᆫ 간밤도 어제과 ᄀᆞ티 디내고 샌 후 긔운도 나은 일이 업ᄉᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="33" n="04">그런 민망 민망ᄒᆞᆫ 이리 어ᄃᆡ 이시리</sent><!--뒤에 오는 '민망'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33" n="05">외감을 ᄒᆞ엿다 ᄒᆞᆫ다 ᄒᆞ니 어대강 발표ᄅᆞᆯ ᄒᆞ여야 열이 ᄂᆞ릴 거시니 긔 더옥 민망ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="33" n="06">덥시기ᄅᆞᆯ 조심ᄒᆞ여 잘ᄒᆞ디 아녀 오ᄉᆞᆯ 얇게 닙펴 그리 혬 업시 ᄒᆞᄂᆞᆫ 것가</sent>
+<sent type="main" lang="kor" page="33" n="07">ᄀᆞᆺ득ᄒᆞᆫ 긔운의 외감ᄒᆞ여 발한이나 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="33" n="08">헤티고 헤티고 ᄒᆞ여든 원긔가 ᄌᆞᆨ히 샹ᄒᆞᄂᆞ냐</sent><!--뒤에 오는 '헤티고'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="34">https://kohico.kr/_media/image/17C_숙명신한첩언간/34.jpg</img>
+<letter n="34" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1662년">
+<sent type="main" lang="kor" page="34" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="02">아기네ᄂᆞᆫ 오ᄂᆞᆯ 드러오니 심심 듕 쇼일ᄒᆞᆯ가 든든 깃버ᄒᆞ노라</sent><!--뒤에 오는 '심'과 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="03">부마ᄂᆞᆫ 몸이나 무ᄉᆞ히 잇ᄂᆞᆫ가 ᄒᆞ며</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="34" n="04">졸곡이 디나시니 된 밥이나 시로이 먹ᄂᆞᆫ가 몰라 답답ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="05">요ᄉᆞ이ᄂᆞᆫ ᄒᆞᆫᄌᆡ로 ᄀᆞᆸᄀᆞᆸ 민망이 디내노라 ᄒᆞ니 넉시 업ᄉᆞᆫ ᄃᆞᆺᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄀᆞᆸ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="06">큰뎐의셔 피졍뎐ᄒᆞ여 겨셔 안흘 몰라 ᄒᆞ시ᄂᆞ니라</sent>
+</letter>
+
+<img n="35">https://kohico.kr/_media/image/17C_숙명신한첩언간/35.jpg</img>
+<letter n="35" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="35" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35" n="02">ᄉᆞ연도 보고 부매 가셔 니ᄅᆞ면 더 됴킈 ᄒᆞ엿다</sent>
+<sent type="main" lang="kor" page="35" n="03">요ᄉᆞ이ᄂᆞᆫ 이 일로 걸리여 ᄌᆞᆷ이 편티 못ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="35" n="04">오ᄂᆞᆯ은 져그나 싀훤ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="35" n="05">화복은 ᄒᆞᆫ 뎝이 모ᄌᆞ라더니</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="35" n="06">이ᄂᆞᆫ 보태고 남긔 ᄒᆞ여시니 탄일 다례예 ᄡᅳᄋᆞᆸ긔 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="35" n="07">이런 ᄉᆡᆼ광되고 깃븐 이리 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="35" n="08">이 다엿쇄만 디나면 서ᄅᆞ 볼가 기ᄃᆞ리고 잇노라</sent>
+</letter>
+
+<img n="36">https://kohico.kr/_media/image/17C_숙명신한첩언간/36.jpg</img>
+<letter n="36" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1661년">
+<sent type="main" lang="kor" page="36" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="02">원샹의 ᄉᆡᆼ일의 오ᄉᆞᆫ 조각 모화 ᄒᆞ여 준 거시 머어시 이졋ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="36" n="03">할ᄆᆡ 햐암이 그리 흑셕저이 ᄒᆞ엿닷다</sent>
+<sent type="main" lang="kor" page="36" n="04">어린 아ᄒᆡ 누비옷도곤 핫옷 믜니 니벗ᄂᆞᆫ 샹이 알온스러워 에엿브니라</sent>
+<sent type="main" lang="kor" page="36" n="05">돌ᄉᆡ 칼ᄒᆞᆯ ᄆᆡᆫᄃᆞ니 제 간의 너모 크니</sent>
+<sent type="main" lang="kor" page="36" n="06">고텨 조리쟈 ᄒᆞ니ᄂᆞᆫ ᄆᆡ양 쟉아실 거시 아니니 앗갑고</sent>
+<sent type="main" lang="kor" page="36" n="07">이제 ᄎᆞ기ᄂᆞᆫ 아ᄆᆞ려도 크니</sent>
+<sent type="main" lang="kor" page="36" n="08">웃뎐의셔 ᄒᆞ여 주오신 칼히 이제 마ᄌᆞ니</sent>
+<sent type="main" lang="kor" page="36" n="09">그ᄅᆞᆯ ᄎᆞ긔 ᄒᆞ려 아젹 그 칼ᄒᆞᆯ 긴ᄒᆞ려 보내라 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="36" n="10">그 글월이 갓던가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="36" n="11">졍승 ᄃᆡᆨ의 갓다 ᄒᆞ니 ᄒᆞᆫ 발이나 머니 섭섭ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="37">https://kohico.kr/_media/image/17C_숙명신한첩언간/37.jpg</img>
+<letter n="37" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="37" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="02">아기ᄂᆞᆫ 어제야 니각을 ᄒᆞ니 그런 다ᄒᆡᆼ 깃븐 이리 어ᄃᆡ 이시리</sent>
+<sent type="main" lang="kor" page="37" n="03">나ᄂᆞᆫ 발표ᄒᆞ니 오ᄂᆞᆯ은 ᄒᆞ렷노라</sent>
+<sent type="main" lang="kor" page="37" n="04">요ᄉᆞ이 이리 ᄀᆞᄆᆞ니 하 근심을 ᄒᆞ오시니 보ᄋᆞᆸ기 ᄀᆞᆸᄀᆞᆸᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄀᆞᆸ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="05">오ᄂᆞᆯ 긔우졔예 어제 져므ᄃᆞ록 나 겨오셔 ᄌᆡ계ᄒᆞ오시고 밤도 낫 슴ᄉᆞ오시고</sent>
+<sent type="main" lang="kor" page="37" n="06">삼경의 나오셔 파루 후의야 집의 드오셧다</sent>
+<sent type="main" lang="kor" page="37" n="07">졍셩을 드리오시더니마ᄂᆞᆫ ᄒᆞ마 올 ᄃᆞᆺᄒᆞ고 아니 오니 아마도 ᄀᆞᆸᄀᆞᆸᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄀᆞᆸ'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="38">https://kohico.kr/_media/image/17C_숙명신한첩언간/38.jpg</img>
+<letter n="38" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1658~1674년">
+<sent type="main" lang="kor" page="38" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반가와ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="02">가샹이네ᄂᆞᆫ ᄃᆞᆯ포 잇다가 나가긔 되니 더옥 섭섭ᄒᆞ기 ᄀᆞ이업서 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="03">가샹이ᄂᆞᆫ 아젹브터 ᄯᅥᆨ 달라 ᄒᆞ고 에인이 픠여시니</sent>
+<sent type="main" lang="kor" page="38" n="04">급작되이 ᄯᅥᆨ ᄒᆞ노라 드러쳐시니 이런 비변이 업서 웃노라</sent>
+<sent type="main" lang="kor" page="38" n="05">음식 가지수ᄅᆞᆯ 손고바 혜며 내라 ᄒᆞ고 보챈다</sent>
+</letter>
+
+<img n="39">https://kohico.kr/_media/image/17C_숙명신한첩언간/39.jpg</img>
+<letter n="39" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1662년">
+<sent type="main" lang="kor" page="39" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="39" n="02">나ᄂᆞᆫ 거ᄉᆞᆫ 오ᄂᆞᆯ도 ᄒᆞᆫ가지라 ᄒᆞ니 위연 고롭고 민망ᄒᆞ랴 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="39" n="03">나기야 사ᄅᆞᆷ이 밧바ᄒᆞ므로 갈 거시 아니니 ᄌᆞ연 됴ᄒᆞᆫ ᄠᅢ예 아니 나랴</sent>
+<sent type="main" lang="kor" page="39" n="04">하 밧바 마라</sent>
+<sent type="main" lang="kor" page="39" n="05">ᄂᆡ일 날은 다ᄅᆞ시니 새로이 ᄐᆞᆨᄐᆞᆨ 셟기 아ᄆᆞ라타 업ᄉᆞᆫ 듕</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음--><!--뒤에 오는 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="39" n="06">참졔도 못ᄒᆞ고 망곡을 사ᄆᆞᆺ ᄒᆞ니 더옥 셜운 ᄆᆞᄋᆞᆷ을 뎡티 못ᄒᆞ여 ᄒᆞ노라</sent>
+</letter>
+
+<img n="40">https://kohico.kr/_media/image/17C_숙명신한첩언간/40.jpg</img>
+<letter n="40" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1662년">
+<sent type="main" lang="kor" page="40" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40" n="02">ᄉᆞ연도 보고 집 일은 그러ᄒᆞ면 잘 아니 보내도다</sent>
+<sent type="main" lang="kor" page="40" n="03">다ᄅᆞᆫ 드러 피졉을 ᄒᆞᆫ다 ᄒᆞ니 깃브기 ᄀᆞ이업다</sent>
+<sent type="main" lang="kor" page="40" n="04">발인 장일이 년일ᄒᆞ여 이시니 일마다 슌ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="40" n="05">그런 ᄀᆞ초 유복ᄒᆞᆫ 이리 업ᄉᆞ니 몬내 일ᄏᆞᆺ노라</sent>
+<sent type="main" lang="kor" page="40" n="06">어제 슈진궁으로셔 미 이 셕 졍승 ᄃᆡᆨ의 녹도 업고</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="40" n="07">졔ᄉᆞᄒᆞ고 ᄌᆞᆨ히 군히 지내시랴 블관ᄒᆞ나 보내엿더니 갓던가 ᄒᆞ노라</sent>
+</letter>
+
+<img n="41">https://kohico.kr/_media/image/17C_숙명신한첩언간/41.jpg</img>
+<letter n="41" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1654~1674년">
+<sent type="main" lang="kor" page="41" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="02">긃픠면 볼가 기ᄃᆞ리고 잇노라</sent>
+<sent type="main" lang="kor" page="41" n="03">졍승ᄃᆡᆨ은 솟병으로 부긔조차 낫다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="41" n="04">ᄀᆞᆺ득 실티 못ᄒᆞᆫ 사ᄅᆞᆷ이 더옥 올ᄒᆞ랴 분별ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="41" n="05">어ᄂᆞ만 ᄀᆞᆸᄀᆞᆸᄒᆞ여ᄃᆞᆯ ᄒᆞᄂᆞᆫ고 닛디 못ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄀᆞᆸ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="06">비ᄂᆞᆫ 그리 ᄇᆞ라다가 긔특이 시작을 ᄒᆞ여 두시고</sent>
+<sent type="main" lang="kor" page="41" n="07">이리 조로시니 ᄒᆡᆼ혀 거번 ᄀᆞᆺᄐᆞᆯ가 용심을 ᄒᆞ고 잇노라</sent>
+</letter>
+
+<img n="42">https://kohico.kr/_media/image/17C_숙명신한첩언간/42.jpg</img>
+<letter n="42" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1666년">
+<sent type="main" lang="kor" page="42" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="02">어제 부마ᄂᆞᆫ 드러오니 비록 보디 못ᄒᆞ나 든든ᄒᆞ기 ᄀᆞ이업서 밤새긋 일ᄏᆞᆺ고 잇노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="03">가샹이ᄂᆞᆫ 아바마 와시니 가 보라 ᄒᆞ니 우도 아니ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="42" n="04">나가니 ᄌᆞ연이 혀이ᄂᆞᆫ가 시브다 니ᄅᆞ고 에엿버ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="42" n="05">원샹이ᄂᆞᆫ 밤ᄌᆞᆷ도 됴히 자고 긔운도 여샹호되</sent>
+<sent type="main" lang="kor" page="42" n="06">져녁 ᄠᅢ면 열ᄒᆞ여 기ᄎᆞᆷ도 ᄆᆡ이 깃고 ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="42" n="07">져믄 휘면 몸도 도로 식고 기ᄎᆞᆷ도 그치고 됴히 이시니</sent>
+<sent type="main" lang="kor" page="42" n="08">요ᄉᆞ이 돌림이 다 그러타 ᄒᆞ니 시령으로 그런가 시브다</sent>
+<sent type="main" lang="kor" page="42" n="09">슉안이ᄂᆞᆫ 블의예 나가니 섭섭ᄒᆞ기ᄅᆞᆯ 엇디 ᄀᆞᄋᆞᆯᄒᆞ리</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="10">다만 오라디 아녀 드러올 거시니 기ᄃᆞ리고 잇노라</sent>
+</letter>
+
+<img n="43">https://kohico.kr/_media/image/17C_숙명신한첩언간/43.jpg</img>
+<letter n="43" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1654~1662년">
+<sent type="main" lang="kor" page="43" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="43" n="02">우흐로겨ᄋᆞ오샤 어제 복샹을 ᄒᆞ되 신 복샹이 업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="43" n="03">졍승이 혼자 와 ᄒᆞ시니 아녀 겨신가 부마 ᄒᆞ여 아라보라 ᄒᆞᄋᆞ오신다</sent>
+<sent type="main" lang="kor" page="43" n="04">회화 오나든 즉시 보내여라</sent>
+</letter>
+
+<img n="44">https://kohico.kr/_media/image/17C_숙명신한첩언간/44.jpg</img>
+<letter n="44" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1663년">
+<sent type="main" lang="kor" page="44" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="02">오ᄂᆞᆯ 드러올가 ᄒᆞ더니 ᄒᆞᄅᆞ ᄉᆞ이나 ᄂᆡ일 드러오노라 ᄒᆞ여시니 섭섭ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="03">졍이ᄂᆞᆫ ᄇᆡ도 넙젹ᄒᆞ고 보배ᄯᆞᆯ을 ᄇᆡ엿도다 시버</sent>
+<sent type="main" lang="kor" page="44" n="04">뎌 싀집의셔 ᄒᆞ고 뎌리 위신코 잇다가 핀잔저어 어일고 념녀ᄅᆞᆯ ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="44" n="05">아ᄃᆞᆯ을 나ᄒᆞ니 그런 ᄉᆡᆼ광되고 깃븐 일이 어ᄃᆡ 이시리</sent>
+<sent type="main" lang="kor" page="44" n="06">동평위 구ᄂᆞᆫ 샹을 보고져 니ᄅᆞ고 잇노라</sent>
+<sent type="main" lang="kor" page="44" n="07">어제 실텹 쓴 것도 ᄌᆞ시 바닷노라</sent>
+</letter>
+
+<img n="45">https://kohico.kr/_media/image/17C_숙명신한첩언간/45.jpg</img>
+<letter n="45" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1649~1659년">
+<sent type="main" lang="kor" page="45" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 반가와ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="45" n="02">네 오라바님ᄋᆞᆫ 오ᄂᆞᆯ은 어제도곤 긔운이 퍽 낫고 밤의 ᄌᆞᆷ도 녜ᄉᆞ로이 잣다</sent>
+<sent type="main" lang="kor" page="45" n="03">이제ᄂᆞᆫ 됴리만 잘ᄒᆞᆯ ᄲᅮᆫ이니 념녀로온 일이 업다</sent>
+<sent type="main" lang="kor" page="45" n="04">그젓ᄭᅴ 애 ᄲᅡ딘 이리야 다 ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="45" n="05">드러와 드러라</sent>
+<sent type="main" lang="kor" page="45" n="06">슈라도 쟉쟉ᄒᆞ나 ᄌᆞ로 먹으니 이제란 근심 마라</sent><!--뒤에 오는 '쟉'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="45" n="07">제 집은 조바 ᄀᆞᆸᄀᆞᆸᄒᆞ여 그젓ᄭᅴ 대조뎐셔 온돌의 왓ᄂᆞ니라</sent>
+</letter>
+
+<img n="46">https://kohico.kr/_media/image/17C_숙명신한첩언간/46.jpg</img>
+<letter n="46" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1664년">
+<sent type="main" lang="kor" page="46" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="02">경이ᄂᆞᆫ 나가니 그거ᄉᆞᆯ사 두고 쇼일도 ᄒᆞ고 걱졍도 ᄒᆞ며 날을 디내더니</sent>
+<sent type="main" lang="kor" page="46" n="03">ᄆᆞ자 내여 보내니 경ᄉᆞ로 나가건마ᄂᆞᆫ 섭섭 호졋 굿브기ᄅᆞᆯ 어이 다 뎍으리</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="04">이리 섭섭고 굿브나 ᄆᆞᄋᆞᆷ을 모디리 머거 웃고 내여 보내엿노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="05">녯날 너ᄒᆡ 다 못던 일이 ᄉᆡᆼ각ᄒᆞ이여 섭섭호되</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="06">너ᄂᆞᆫ 언머ᄒᆞ여 탈상을 ᄒᆞᆯ 것 아니어니와</sent>
+<sent type="main" lang="kor" page="46" n="07">슉휘ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ고 아젹긋 ᄆᆞᄋᆞᆷ이 굿버 울고 잇노라</sent>
+<sent type="main" lang="kor" page="46" n="08">오ᄂᆞᆯ ᄉᆡᆼ일이니 에엿블샤</sent>
+<sent type="main" lang="kor" page="46" n="09">ᄉᆡᆼ일이면 세 ᄉᆞᆯ 머근 것ᄀᆞ티 됴하ᄒᆞ던 일을 ᄉᆡᆼ각고 가지가지 ᄆᆞᄋᆞᆷ 굿버ᄒᆞ노라</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="47">https://kohico.kr/_media/image/17C_숙명신한첩언간/47.jpg</img>
+<letter n="47" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="47" n="01">글월 보고 무양히 이시니 깃거ᄒᆞ며 친히 보ᄂᆞᆫ ᄃᆞᆺ 반기노라</sent>
+<sent type="main" lang="kor" page="47" n="02">닐웬날 드러오라 ᄒᆞ엿더니 부매 하 섭섭이 너긴다 ᄒᆞ니 아흐랜날 드러오ᄃᆡ</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="47" n="03">젼의 니ᄅᆞᆫ 대로 새배 형의 집으로 와셔 ᄇᆞᆯ거든 드러오나라</sent>
+<sent type="main" lang="kor" page="47" n="04">산ᄃᆡ구ᄉᆞᆯ 틱ᄉᆞ 드ᄂᆞᆫ 날은 아ᄆᆞ 공쥬 겻 굿보ᄂᆞᆫ ᄃᆡ라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="47" n="05">번거ᄒᆞ여 못ᄒᆞᆯ 거시니 삼도습읜 날 구ᄉᆞᆯ 보와라</sent>
+<sent type="main" lang="kor" page="47" n="06">뎨젼각 ᄒᆞ나 ᄉᆡᆼ티 세 간다</sent>
+</letter>
+
+<img n="48">https://kohico.kr/_media/image/17C_숙명신한첩언간/48.jpg</img>
+<letter n="48" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1660년">
+<sent type="main" lang="kor" page="48" n="01">글월 보고 졈은 날 무ᄉᆞ히 나간 안부 알고 깃거ᄒᆞ며 다시 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="02">망극 셜운 듕이나 그리 모다 이시니 든든이 디내더니</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="03">ᄆᆞ자 나가니 가지가지 섭섭 ᄐᆞᆨᄐᆞᆨ 셟기ᄅᆞᆯ 어이 ᄀᆞᄋᆞᆯᄒᆞ리</sent><!--뒤에 오는 '가지'와 '섭', 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="04">젼년 이ᄠᅢ예 모다셔 즐거이 디내던 이리 그 더ᄃᆡ 녜일이 되여</sent>
+<sent type="main" lang="kor" page="48" n="05">일마다 아니 셜운 이리 업ᄉᆞ니 ᄒᆞᆫ갓 ᄐᆞᆨᄐᆞᆨᄒᆞᆫ 눈믈ᄲᅮᆫ이로다</sent><!--뒤에 오는 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="06">아마도 목숨이 명완ᄒᆞ여 이리 사랏ᄂᆞᆫ 줄을 ᄉᆞᆯᄃᆞ리 셜워ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="48" n="07">올히나 어셔 죽으ᄆᆞᆯ 원ᄒᆞ노라</sent>
+</letter>
+
+<img n="49">https://kohico.kr/_media/image/17C_숙명신한첩언간/49.jpg</img>
+<letter n="49" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1664~1669년">
+<sent type="main" lang="kor" page="49" n="01">글월 보고 무양히 이시니 깃거ᄒᆞ며 친히 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="02">부마ᄂᆞᆫ 드러온다 ᄒᆞ니 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="03">원샹이ᄂᆞᆫ 오ᄂᆞᆯ은 퍽 ᄒᆞ리되 아마도 기ᄎᆞᆷ을 ᄆᆡ이 기ᄎᆞ니 글로 민망ᄒᆞ여 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="49" n="04">가샹이ᄂᆞᆫ 다 됴하시니 오ᄂᆞᆯ 아비 오나든 뵈려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="49" n="05">슉안이ᄂᆞᆫ 부매 ᄂᆡ월 초ᄒᆞᄅᆞᆫ날 홍 판셔 ᄃᆡᆨ 광ᄌᆔ 쵸졍 가니 거긔 ᄃᆞ려가니</sent>
+<sent type="main" lang="kor" page="49" n="06">열ᄒᆞᆯ이나 무거 오리라 ᄒᆞ고 보와 보내고 삭졔 미처 드러오려</sent>
+<sent type="main" lang="kor" page="49" n="07">오ᄂᆞᆯ 나가니 섭섭ᄒᆞ기 ᄀᆞ이업서 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="50">https://kohico.kr/_media/image/17C_숙명신한첩언간/50.jpg</img>
+<letter n="50" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1658년">
+<sent type="main" lang="kor" page="50" n="01">글월 보고 무양히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="02">구 샹궁은 날포 잇다가 드러오니 우리ᄂᆞᆫ 섭섭ᄒᆞ기 ᄀᆞ이업ᄉᆞ니</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="03">네야 더옥 그러ᄒᆞᆯ ᄲᅮᆫ이랴</sent>
+<sent type="main" lang="kor" page="50" n="04">긔별ᄃᆞᆯ 듯고 보ᄂᆞᆫ ᄃᆞᆺ 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="05">우리ᄂᆞᆫ ᄌᆡ이로 여연당의 피졍뎐ᄒᆞ여 겨오시다</sent>
+<sent type="main" lang="kor" page="50" n="06">요ᄉᆞ이ᄂᆞᆫ 근심으로 디내니 침식이 편안티 아녀 어득이 디내노라</sent>
+<sent type="main" lang="kor" page="50" n="07">싀부ᄂᆞᆫ 오ᄂᆞᆯ 왓더냐</sent>
+<sent type="main" lang="kor" page="50" n="08">일하ᄅᆞᆯ 츌합ᄒᆞ면 녜ᄉᆞ 업ᄂᆞᆫ 거시로되</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="50" n="09">네 삼촌이 ᄉᆞ옹 뎨ᄃᆈ매 ᄌᆡ간ᄒᆞ여 인ᄒᆞ여 ᄉᆡᆼ티ᄂᆞᆫ 주긔 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="50" n="10">삼촌ᄭᅴ 인ᄉᆞ나 뎍어라</sent>
+</letter>
+
+<img n="51">https://kohico.kr/_media/image/17C_숙명신한첩언간/51.jpg</img>
+<letter n="51" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1653년">
+<sent type="main" lang="kor" page="51" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="02">가경이ᄂᆞᆫ 샹한을 듕히 ᄒᆞ엿다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="51" n="03">엇디 그런고 분별이 아ᄆᆞ라타 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="51" n="04">감ᄌᆞᄂᆞᆫ 즉시 이리셔 보내엿노라</sent>
+<sent type="main" lang="kor" page="51" n="05">슉휘 가관 미처 당져구리 쟈근 져구리 ᄆᆞᆯ라 가니 미처 지어 니버라</sent>
+<sent type="main" lang="kor" page="51" n="06">ᄂᆡ일 가경의 안부 아라 뎍어라</sent>
+<sent type="main" lang="kor" page="51" n="07">역질로 통티 못ᄒᆞ니 답답ᄒᆞ다</sent><!--뒤에 오는 '답'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="52">https://kohico.kr/_media/image/17C_숙명신한첩언간/52.jpg</img>
+<letter n="52" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1671년">
+<sent type="main" lang="kor" page="52" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="02">ᄒᆞᄅᆞ ᄉᆞ이나 섭섭ᄒᆞ기 ᄀᆞ이업ᄉᆞᆫ 듕 슉휘조차 나가니 더옥 섭섭ᄒᆞ기 아ᄆᆞ라타 업서 ᄒᆞ노라</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="03">디평ᄃᆡᆨ 병환은 ᄒᆞ렷다 ᄒᆞ나 ᄌᆞ셔히 몰라 답답ᄒᆞ더니</sent><!--뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="04">의심된 일도 업고 병도 다 ᄒᆞ렷다 ᄒᆞ니 다 깃브다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="52" n="05">낙ᄐᆡᄒᆞᆫ 일과 태졍의 일이 아마도 가디록 애ᄃᆞᆲ고 잔잉 ᄧᆞᆫᄒᆞ니 다 무ᄉᆞᄒᆞ고라쟈</sent>
+<sent type="main" lang="kor" page="52" n="06">가지가지 그런 시졀이 업서 ᄒᆞ노라</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="53">https://kohico.kr/_media/image/17C_숙명신한첩언간/53.jpg</img>
+<letter n="53" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="53" n="01">글월 보고 친히 보ᄂᆞᆫ ᄃᆞᆺ 든든 반가와ᄒᆞ며</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="02">어제ᄂᆞᆫ 한☐은 아니 호되 열은 업디 아니턴가 시브나</sent>
+<sent type="main" lang="kor" page="53" n="03">그려도 그제과 ᄒᆞ면 일분일만졍 나은가 시브니</sent>
+<sent type="main" lang="kor" page="53" n="04">이러구러 졈졈 소복곳 ᄒᆞ면 ᄌᆞᆨᄒᆞᆫ 다ᄒᆡᆼ이랴 ᄒᆞ노라</sent><!--뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="05">대변의 담이 만히 난가 시브니 묘리 모ᄅᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ의도 됴ᄒᆞᆯ ᄃᆞᆺ시버 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="53" n="06">의관도 난 이리 됴타 ᄒᆞ더라 ᄒᆞ니 더옥 깃브다</sent>
+<sent type="main" lang="kor" page="53" n="07">슉휘ᄂᆞᆫ 그리 ᄆᆡ이 알터니마ᄂᆞᆫ ᄒᆞ리긔 되니</sent>
+<sent type="main" lang="kor" page="53" n="08">슬슬 됴하 닌후도 각별 브드브드ᄒᆞ거나 거복ᄒᆞᆫ 이리 업서 여샹ᄒᆞ니 깃브다</sent><!--뒤에 오는 '슬'과 '브드'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="09">오ᄂᆞᆯ은 날도 이러ᄒᆞᆯ ᄲᅮᆫ 아니라 아ᄆᆞ ᄃᆡ도 흥심 업서 집의 잇노라</sent>
+<sent type="main" lang="kor" page="53" n="10">냥ᄉᆡᆨ 쳥심원은 아젹 보내엿더니 갓던가 ᄒᆞ노라</sent>
+</letter>
+
+<img n="54">https://kohico.kr/_media/image/17C_숙명신한첩언간/54.jpg</img>
+<letter n="54" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1661년">
+<sent type="main" lang="kor" page="54" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54" n="02">오ᄂᆞᆯ날은 가지가지 ᄐᆞᆨᄐᆞᆨ 셟기 아ᄆᆞ라타 업서 ᄒᆞ노라</sent><!--뒤에 오는 '가지'와 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54" n="03">이어 일은 어제 졍승이 인견의 드러 ᄉᆞᆯ와 아니 ᄒᆞ시긔 ᄒᆞ여시니</sent>
+<sent type="main" lang="kor" page="54" n="04">내 ᄒᆞᆫ 근심은 더러시니 다ᄒᆡᆼᄒᆞ기 ᄀᆞ이업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="54" n="05">ᄇᆡᆨ쳔은 날포 잇다가 ᄂᆞ려가시니 가지가지 섭섭 ᄆᆞᄋᆞᆷ 굿브기 ᄀᆞ이업서 ᄒᆞ노라</sent><!--뒤에 오는 '가지'와 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54" n="06">ᄂᆡ일 드러오면 반길가 기ᄃᆞ리고 잇노라 </sent>
+</letter>
+
+<img n="55">https://kohico.kr/_media/image/17C_숙명신한첩언간/55.jpg</img>
+<letter n="55" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1655년">
+<sent type="main" lang="kor" page="55" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="02">어제ᄂᆞᆫ 열긔도 업시 무ᄉᆞ히 디내다 ᄒᆞ니 깃거ᄒᆞ며 이러구러 졈졈 영차ᄒᆞᄆᆞᆯ ᄇᆞ라노라</sent><!--뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="03">ᄉᆞ믈탕은 먹으니 엇던고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="55" n="04">복듕 혀이ᄂᆞᆫ 거ᄉᆞᆫ 므ᄉᆞᆷ 증으로 그런고 민망ᄒᆞ며 약이나 머거 ᄒᆞ릴가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="55" n="05">됴 승지ᄂᆞᆫ ᄉᆡᆼ각 밧ᄭᅴ 그리되니 그런 참혹 참혹 ᄠᆞᆨᄒᆞᆫ 일이 어ᄃᆡ 이시리</sent><!--뒤에 오는 '참혹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="06">ᄂᆞᆷ의 일 ᄀᆞᆺ디 아니ᄒᆞ고 웃뎐으로겨ᄋᆞ오셔 하 ᄐᆞᆨᄐᆞᆨ ᄩᅥ디ᄂᆞᆫ ᄃᆞ시 셜워ᄒᆞ오시니</sent><!--뒤에 오는 'ᄐᆞᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="07">그 보ᄋᆞᆸ기 더옥 ᄀᆞ이업더라</sent>
+</letter>
+
+<img n="56">https://kohico.kr/_media/image/17C_숙명신한첩언간/56.jpg</img>
+<letter n="56" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1662년">
+<sent type="main" lang="kor" page="56" n="01">거됴 글시 보고 보ᄂᆞᆫ ᄃᆞᆺ 몬내 반기며 든든ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="02">ᄇᆡᆨ쳔은 초시ᄅᆞᆯ ᄒᆞ니 그 깃브기ᄅᆞᆯ 어이 ᄀᆞᄋᆞᆯᄒᆞ리</sent>
+<sent type="main" lang="kor" page="56" n="03">회시 아직 머러시나 이제브터 용심이 ᄒᆞ이니 졍작의 어이ᄒᆞᆯ고 ᄌᆞ것ᄌᆞ것ᄒᆞ여 ᄒᆞ노라</sent><!--뒤에 오는 'ᄌᆞ것'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="04">가샹이ᄂᆞᆫ 녜ᄉᆞ 응☐의 져기 누긋ᄒᆞ긔 오ᄂᆞᆯ 네 번을 보왓다 ᄒᆞ거ᄂᆞᆯ</sent><!--‘응감’으로 추정됨-->
+<sent type="main" lang="kor" page="56" n="05">두리워 미리 예방이나 ᄒᆞ려 약 무ᄅᆞ라 갓☐</sent><!--‘갓다’로 추정됨-->
+</letter>
+
+<img n="57">https://kohico.kr/_media/image/17C_숙명신한첩언간/57.jpg</img>
+<letter n="57" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1671년">
+<sent type="main" lang="kor" page="57" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반가와ᄒᆞ노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="02">슉경이ᄂᆞᆫ 뎌리 도쉬 ᄌᆞᄌᆞ니 민망 민망ᄒᆞ기 ᄀᆞ이업☐☐</sent><!--‘ᄀᆞ이업ᄉᆞ나’로 추정됨--><!--뒤에 오는 '민망'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="03">오ᄂᆞᆯ은 어제과 ᄉᆞ이 죠곰일만졍 던 ᄃᆞᆺᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="04">이러구러 졈졈 ᄒᆞ릴가 ᄇᆞ라노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="05">아ᄒᆡ가 혬 업서 입이 슬타 ᄒᆞ고 밥을 일졀 아니 먹ᄂᆞᆫ가 시브니</sent>
+<sent type="main" lang="kor" page="57" n="06">비록 슬ᄒᆞᆫᄃᆞᆯ 고로온 ᄡᅳᆫ 약도 먹ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="07">약 사마 먹어야 원긔ᄅᆞᆯ 아니 도으랴</sent>
+<sent type="main" lang="kor" page="57" n="08">네 브ᄃᆡ ᄌᆞ로 가 보고 아니 먹거든 ᄭᅮ짓고 ᄀᆞᆺ곰 뎍어 드려라</sent>
+<sent type="main" lang="kor" page="57" n="09">일분지ᄒᆈ라도 닙효산 덕이니 그ᄅᆞᆯ 오ᄂᆞᆯ도 브경이 머기라 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="57" n="10">가샹이ᄂᆞᆫ 어제 느ᄌᆞᆫ 후 ᄒᆞᆫ 번을 ᄃᆞᆫ니되 되야 갓가ᄉᆞ로 보다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="57" n="11">그도 위연히 그러턴가 시브다</sent>
+</letter>
+
+<img n="58">https://kohico.kr/_media/image/17C_숙명신한첩언간/58.jpg</img>
+<letter n="58" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1659~1674년">
+<sent type="main" lang="kor" page="58" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 몬내 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="02">그리 나간 디 여러 날이 되ᄃᆞ록 섭섭 무류호ᄆᆞᆯ 어이 다 뎍으리</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="03">원샹이ᄂᆞᆫ 이제도 ☐☐ ☐렷ᄂᆞᆫ가 시브니 엇디 그런고 념녀ᄒᆞ노라</sent><!--‘아니 ᄒᆞ렷ᄂᆞᆫ가’로 추정됨-->
+<sent type="main" lang="kor" page="58" n="04">부마ᄂᆞᆫ 갓든가 시브니 깃비ᄒᆞ도다</sent>
+</letter>
+
+<img n="59">https://kohico.kr/_media/image/17C_숙명신한첩언간/59.jpg</img>
+<letter n="59" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1658~1674년">
+<sent type="main" lang="kor" page="59" n="01">글월 보고 무ᄉᆞᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="02">☐☐도 보고 현증은 여러 날이로되</sent>
+<sent type="main" lang="kor" page="59" n="03">슬슬 둇ᄂᆞᆫ 이리 업☐☐ ☐☐ 민망 심심ᄒᆞᆫ 일이 업서 ᄒᆞ노라</sent><!--‘업ᄉᆞ니’로 추정됨--><!--뒤에 오는 '슬'과 '심'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="04">야참 바다 노ᄒᆞ니 너ᄒᆡ☐☐ ᄉᆡᆼ각ᄒᆞ이고</sent><!--‘너ᄒᆡᄃᆞᆯ히’로 추정됨-->
+<sent type="main" lang="kor" page="59" n="05">가지가지 녜일이 ᄉᆡᆼ각ᄒᆞ이니 ᄒᆞᆫ갓 쇽졀업시 비감ᄒᆞᆯ ᄲᅮᆫ이니</sent><!--뒤에 오는 '가지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="06">아ᄆᆞ거ᄉᆞᆯ 머근ᄃᆞᆯ 므ᄉᆞᆷ 마시 이시리</sent>
+<sent type="main" lang="kor" page="59" n="07">바다 보고 내면 길샹이 층ᄃᆞᆯ이 눈이 ᄠᅳ라디긔 ᄇᆞ라고 잇다가 먹ᄂᆞ니라</sent>
+</letter>
+
+<img n="60">https://kohico.kr/_media/image/17C_숙명신한첩언간/60.jpg</img>
+<letter n="60" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1662년?">
+<sent type="main" lang="kor" page="60" n="01">글월 보고 무ᄉᆞ히ᄃᆞᆯ 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 반기나</sent>
+<sent type="main" lang="kor" page="60" n="02">ᄉᆞ연을 보니 더옥 굿버ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="60" n="03">ᄆᆞᄋᆞᆷ의야 셟기야 그음이 이실 것 아니어니와</sent>
+<sent type="main" lang="kor" page="60" n="04">그리 ᄆᆡ양 ᄉᆡᆼ각ᄒᆞ여 엇디ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="60" n="05">프리텨 ᄆᆞᄋᆞᆷ을 모디리 머거 디내여라</sent>
+<sent type="main" lang="kor" page="60" n="06">소ᄃᆞᆯ을 그저 ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="60" n="07">이젼의도 오래 소ᄅᆞᆯ ᄒᆞ여셔 이제ᄀᆞ지 그저 소ᄅᆞᆯ ᄒᆞ니 ☐☐가 ᄌᆞᆨᄒᆞᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="60" n="08">엇디 그리 혬 업ᄉᆞᆫ다</sent>
+<sent type="main" lang="kor" page="60" n="09">오ᄂᆞᆯ브터 고기☐ ☐경이 머거라</sent><!--‘고기ᄅᆞᆯ 브경이’로 추정됨-->
+</letter>
+
+<img n="61">https://kohico.kr/_media/image/17C_숙명신한첩언간/61.jpg</img>
+<letter n="61" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652년?">
+<sent type="main" lang="kor" page="61" n="01">글월 보고 무양히ᄃᆞᆯ 이시니 깃거ᄒᆞ며 친히 보ᄂᆞᆫ ☐ ☐☐기 아ᄆᆞ라타 업서 ᄒᆞ노라</sent><!--‘보ᄂᆞᆫ ᄃᆞᆺ 깃브기’로 추정됨-->
+<sent type="main" lang="kor" page="61" n="02">여러 날이 되여 가니 실로 그☐☐ ☐☐업서 ᄒᆞ노라</sent><!--‘그립기 ᄀᆞ이업서’로 추정됨-->
+<sent type="main" lang="kor" page="61" n="03">네 아ᄋᆞᆫ 밤마다 ᄂᆞ려갈 적이면 형님 잇던 ☐☐ ᄒᆞᆷᄭᅴ 갈라쇠 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="61" n="04">ᄂᆞ려가셔 울고 울고 ᄒᆞ니 이튼날 니러 오면 눈이 븟ᄃᆞ록 울고 ᄃᆞᆫ니ᄂᆞ니라</sent><!--뒤에 오는 '울고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="05">너도 아ᄋᆞᆯ ᄉᆡᆼ각이나 ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="61" n="06">네게 글월을 뎍어 두고 휘화 기ᄃᆞ리노라 날락들락ᄒᆞᄂᆞ니라</sent>
+</letter>
+
+<img n="62">https://kohico.kr/_media/image/17C_숙명신한첩언간/62.jpg</img>
+<letter n="62" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1664~1669년">
+<sent type="main" lang="kor" page="62" n="01">글월 보고 무양히 이시니 깃거ᄒᆞ며 친히 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="02">문안은 어제 ᄯᆞᆷ을 내오시니 오ᄂᆞᆯ은 잠ᄭᅡᆫ ᄒᆞ리오시다</sent>
+<sent type="main" lang="kor" page="62" n="03">사모 이엄은 돈피가 됴티 아니ᄒᆞ니 ᄂᆞᆺ업더라</sent>
+<sent type="main" lang="kor" page="62" n="04">쓰니ᄂᆞᆫ 엇더ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="62" n="05">판셔 집 병든 아ᄃᆞᆯ은 이제ᄂᆞᆫ 엇더타 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="62" n="06">져기 ᄒᆞ렷닷ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="62" n="07">틱ᄉᆞ 드ᄂᆞᆫ 날 드러오라 ᄒᆞ엿더니</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="62" n="08">네 산ᄃᆡ구ᄉᆞᆯ 하 못 ☐☐☐ ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="62" n="09">드ᄂᆞᆫ 날란 드러오디 말고 구시나 보고</sent>
+<sent type="main" lang="kor" page="62" n="10">이튼날 ☐☐☐셔 형의 집으로 가셔 ᄇᆞᆯ거든 대궐로 드러오고</sent>
+<sent type="main" lang="kor" page="62" n="11">부☐☐☐☐워셔 집으로 가라 ᄒᆞ여라</sent>
+</letter>
+
+<img n="63">https://kohico.kr/_media/image/17C_숙명신한첩언간/63.jpg</img>
+<letter n="63" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1664~1669년">
+<sent type="main" lang="kor" page="63" n="01">글월 보고 든든 반기나</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63" n="02">담증으로 알파ᄒᆞᆫ다 ᄒᆞ니 ☐☐☐☐고 분별ᄒᆞ며 졸연히 낫ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="63" n="03">감모ᄅᆞᆯ ᄒᆞ엿ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="63" n="04">☐☐☐ ☐ᄋᆞᆷ으로 이셔 ᄎᆞᆫ 거ᄉᆞᆯ 아니 머건ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="63" n="05">느ᄌᆞᆫ 후ᄂᆞᆫ 엇던고</sent>
+<sent type="main" lang="kor" page="63" n="06">☐☐☐구ᄉᆞᆫ 든 집의셔 뵈ᄂᆞᆫ가 너겨 보고 오라 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="63" n="07">나가셔 ☐☐리라 ᄒᆞ니 번거ᄒᆞ여 못ᄒᆞᆯ 거시니 닐웬날 드러오나라</sent>
+<sent type="main" lang="kor" page="63" n="08">문안은 오ᄂᆞᆯ은 더 ᄒᆞ리오시다</sent>
+<sent type="main" lang="kor" page="63" n="09">판셔 집 아기ᄂᆞᆫ ᄒᆞᆫ가지로 듕타 ᄒᆞ니 어린아ᄒᆡ 병이 올ᄒᆞ랴</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="63" n="10">그 집의셔 의관이 뵈여 보고져 ᄒᆞ면 뉴후셩이나 보낼 거시니</sent>
+<sent type="main" lang="kor" page="63" n="11">뵈고져 ᄒᆞᄂᆞᆫ가 그 집의 무러보와라</sent>
+</letter>
+
+<img n="64">https://kohico.kr/_media/image/17C_숙명신한첩언간/64.jpg</img>
+<letter n="64" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1660년?">
+<sent type="main" lang="kor" page="64" n="01">글월 보고 무ᄉᆞ히 이시니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="02">어제 대뎐의셔 처엄으로 거러 드러와 겨셔 능 일ᄃᆞᆯᄒᆞᆯ 니ᄅᆞ셔ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="64" n="03">ᄌᆞ시 드ᄅᆞ니 그런 놀라온 이리 업ᄉᆞᆫ 듕</sent>
+<sent type="main" lang="kor" page="64" n="04">이제 병풍셕 치마박셕을 고티ᄋᆞᆸ게 되면</sent>
+<sent type="main" lang="kor" page="64" n="05">셩분ᄒᆞ온 거ᄉᆞᆯ 허ᄋᆞᆸ고 새로이 역ᄉᆡ 되니</sent>
+<sent type="main" lang="kor" page="64" n="06">슈도ᄒᆞ온 보람이 업ᄉᆞ시니 ☐☐니 글로 ᄀᆞ이업세라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="64" n="07">그 말ᄉᆞᆷ을 드ᄅᆞ니 새☐☐ ☐☐이 아ᄆᆞ라타 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="64" n="08">오라디 아녀 볼 거시☐ ☐☐☐☐ 간 ᄃᆡ 업서 잠 뎍노라</sent>
+</letter>
+
+<img n="65">https://kohico.kr/_media/image/17C_숙명신한첩언간/65.jpg</img>
+<letter n="65" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1652~1674년">
+<sent type="main" lang="kor" page="65" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기☐☐</sent><!--‘반기노라’로 추정됨--><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="65" n="02">☐☐엄으로 움즉여 ᄃᆞᆫ니니 긔운이 엇더ᄒᆞᆫ고 념ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="65" n="03">☐☐☐☐ 나ᄃᆞ리ᄅᆞᆯ ᄒᆞ여 가도 무ᄉᆞᄒᆞᆫ가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="65" n="04">ᄂᆡ일 드러☐☐ ☐가 기ᄃᆞ리고 잇노라</sent><!--‘드러오면 볼가’로 추정됨-->
+<sent type="main" lang="kor" page="65" n="05">네 병 말은 뉴휴셩ᄃᆞ려 약도 ☐☐ 달리 고티ᄂᆞᆫ 일도 이시되</sent>
+<sent type="main" lang="kor" page="65" n="06">ᄂᆡ일 드러올 거시니 아니 뎍노라</sent>
+<sent type="main" lang="kor" page="65" n="07">슈호뎐으란 ᄂᆡ일 드러와셔 네 ᄎᆞᆯ혀 보내여라</sent>
+</letter>
+
+<img n="66">https://kohico.kr/_media/image/17C_숙명신한첩언간/66.jpg</img>
+<letter n="66" sender="인선왕후(어머니)" writer="인선왕후(어머니)" receiver="숙명공주(딸)" year="1654~1674년">
+<sent type="main" lang="kor" page="66" n="01">글월 보고 무양ᄒᆞ니 깃거ᄒᆞ며 다시 보ᄂᆞᆫ ᄃᆞᆺ 든든 반기노라</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="02">듀야 ᄠᅥ날 ᄉᆞ이 업시 잇다가</sent>
+<sent type="main" lang="kor" page="66" n="03">이번은 날포 나갓긔 되니 섭섭 무료ᄒᆞ기 ᄀᆞ이업ᄉᆞ니</sent>
+<sent type="main" lang="kor" page="66" n="04">밤새긋 닛디 못ᄒᆞ여 ☐☐ 일ᄏᆞᆺ고 잇노라</sent>
+<sent type="main" lang="kor" page="66" n="05">부마ᄂᆞᆫ 요ᄉᆞ이ᄂᆞᆫ 밥 먹기나 얼☐☐☐ 쳑ᄒᆞᆫ 거시 뎌즈음ᄭᅴ과 ᄉᆞ이 더 못ᄒᆞ엿더냐</sent><!--문장 맨 앞에 화제를 구분하는 데 쓰이는 '一'이 있음-->
+<sent type="main" lang="kor" page="66" n="06">☐☐☐ ᄌᆞ시 알고져 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="66" n="07">졍승 ᄃᆡᆨ은 이제나 됴☐☐☐☐신가 ᄒᆞ노라</sent>
+</letter>
+
+<img n="67">https://kohico.kr/_media/image/17C_숙명신한첩언간/67.jpg</img>
+<letter n="67" sender="명성왕후(올케)" writer="명성왕후(올케)" receiver="숙명공주(시누이)" year="1669~1683년">
+<sent type="main" lang="kor" page="67" n="01">글월 보ᄋᆞᆸ고 평안ᄒᆞᄋᆞᆸ시니 그지업ᄉᆞ와 ☐오며</sent><!--‘ᄒᆞ오며’로 추정됨-->
+<sent type="main" lang="kor" page="67" n="02">신부례☐ ☐긔도 쳥명ᄒᆞᄋᆞᆸ고 무ᄉᆞ히 디내ᄋᆞᆸ신 듕 신뷔 하 ☐☐☐라 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="67" n="03">그런 그런 깃브온 일이 어듸 잇ᄉᆞ오링잇가</sent><!--뒤에 오는 '그런'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="04">☐☐☐☐ 오ᄋᆞᆸ셔든 두로 든든이 보올고 기ᄃᆞ리ᄋᆞᆸ노이다</sent><!--뒤에 오는 '든'은 재점으로 표기되어 있음-->
+</letter>
+</doc>
+

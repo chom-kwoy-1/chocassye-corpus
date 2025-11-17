@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">여흥민씨민영소가명성황후언간</title>
+<title lang="chi">驪興閔氏閔泳昭家明成皇后諺簡</title>
+<full_name>여흥민씨민영소가명성황후언간</full_name>
+<nikl_name>여흥민씨민영소가명성황후언간</nikl_name>
+<general_name>여흥민씨민영소가명성황후언간</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version></version>
+<volume n=""/>
+<sender>명성황후</sender><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<receiver>민영소</receiver><!--복수일 경우 여러 명을 기입하되 망라할 필요는 없음.-->
+<date>19C-20세기</date><!--1875-1895-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>한국학자료센터 ‘조선시대 한글편지’ 웹사이트</title><!--발신 시기는 판독자료집의 것과 매우 많이 차이 남--><!--일련번호는 판독자료집에 따르되, 발신 시기는 한국학자료센터 ‘조선시대한글편지’에 제공된 정보를 따름-->
+<pubPlace>소장처(현대의 책이라면 간행처)</pubPlace>
+<publisher>소장자(현대의 책이라면 간행자, 편저자, 역주자)</publisher>
+<date>최종 작업 일자</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2020.06.09</date>
+<respStmt>
+<resp>입력자</resp><name>김한별</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/09/30</date>
+<respStmt>
+<resp>입력자</resp><name>김형진</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+<!--sender는 '발신자', writer는 '작성자', receiver는 '수신자', year는 '발신 연도', envelop은 '봉투 유형'을 가리키는 속성 정보이다.-->
+<!--'발신자'와 '작성자'는 일반적으로는 동일하나 대필(代筆) 언간의 경우에는 상이하다. 후자의 경우 작성자(즉, 대필자)가 누구인지 분명하면 그것을 밝혀 적고, 분명하지 않으면 '대필자'로만 입력한다. 대필 여부가 의심되나 확실하지 않을 경우에는 writer를 '대필자?'로 입력한다.-->
+<!--'발신 연도'는 연(年) 단위까지만 입력하되, 정확한 연도를 밝힐 수 없는 편지는 '19세기 중반', '1851~1857년' 등과 같이 그 추정 시기를 입력한다.-->
+<!--봉투가 하나인 '단봉(單封)'은 다시 '별봉(別封, 별도로 만든 것)과 '자봉(自封, 내지가 봉투를 겸한 것)'으로 나뉜다. '별봉'은 envelop1-1로, '자봉'은 envelop1-2로 입력한다. 단봉을 다시 싼 '중봉(重封)'은 envelop2로 입력한다.-->
+<!--언간 자료의 특성상 개별 편지의 상황 정보는 추후 얼마든지 수정될 수 있다.-->
+
+<img n="001">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/001.jpg</img>
+<letter n="001" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="001" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든ᄒᆞ며’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="001" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="001" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="001" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다 각통은 ᄒᆞᆫ가지니 괴롭다</sent>
+<sent type="main" lang="kor" page="001" n="05">오ᄂᆞᆯ은 악한이니 답답ᄒᆞ다</sent><!--‘답답ᄒᆞ다’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="002">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/002.jpg</img>
+<letter n="002" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="002" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든ᄒᆞ며’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="002" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="002" n="03">궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="002" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 두로 알푸니 답답ᄒᆞ오며</sent><!--‘답답ᄒᆞ오며’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="002" n="05">오ᄂᆞᆯ은 ᄀᆡ졔ᄒᆞ니 ᄒᆡᆼ이다</sent>
+</letter>
+
+<img n="003">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/003.jpg</img>
+<letter n="003" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="003" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든ᄒᆞ며’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="003" n="02">예ᄂᆞᆫ 샹후 문안 종시 ᄒᆞᆫ가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="003" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="003" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지니 괴롭다</sent>
+<sent type="main" lang="kor" page="003" n="05">동풍이 괴상ᄒᆞ니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+
+</letter>
+
+<img n="004">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/004.jpg</img>
+<letter n="004" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="004" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든ᄒᆞ며’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="004" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="004" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="004" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 쳬긔로 괴롭다</sent>
+<sent type="main" lang="kor" page="004" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 좀 풀니나 동우가 괴상ᄒᆞ다</sent>
+</letter>
+
+<img n="005">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/005.jpg</img>
+<letter n="005" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="005" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="005" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="005" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="005" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="005" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 좀 풀닌다</sent>
+<sent type="main" lang="kor" page="005" n="06">오ᄂᆞᆯ은 쳬긔 좀 나흐냐 위념이다</sent>
+</letter>
+
+<img n="006">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/006.jpg</img>
+<letter n="006" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="006" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="006" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="006" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="006" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 오ᄂᆞᆯ도 담쳬로 ᄒᆞᆫ가지니 괴롭다</sent>
+<sent type="main" lang="kor" page="006" n="05">오ᄂᆞᆯ 일긔 쳥화ᄒᆞ다</sent>
+</letter>
+
+<img n="007">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/007.jpg</img>
+<letter n="007" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="007" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="007" n="02">예ᄂᆞᆫ 샹후 문안 한가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="007" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="007" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 담텬으로 괴롭다 오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="008">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/008.jpg</img>
+<letter n="008" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="008" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="008" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="008" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="008" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 종시 ᄭᆡᄭᅳᆺ지 아니니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="008" n="05">일긔ᄂᆞᆫ ᄆᆡ오 쳥화ᄒᆞ다</sent>
+</letter>
+
+<img n="009">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/009.jpg</img>
+<letter n="009" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="009" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="009" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="009" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="009" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="009" n="05">오ᄂᆞᆯ은 우후 일긔 쳥가ᄒᆞ다</sent>
+</letter>
+
+<img n="010">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/010.jpg</img>
+<letter n="010" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="010" n="01">봉셔 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="010" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="010" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="010" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="010" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 져기 쳥냥ᄒᆞ다</sent>
+</letter>
+
+<img n="011">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/011.jpg</img>
+<letter n="011" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="011" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="011" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="011" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="011" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 종시 ᄌᆞᆷ을 못 자니 괴롭다</sent>
+<sent type="main" lang="kor" page="011" n="05">오ᄂᆞᆯ 일긔도 ᄆᆡ오 온화ᄒᆞ다</sent>
+</letter>
+
+<img n="012">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/012.jpg</img>
+<letter n="012" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="012" n="01">글시 보고 야간 안길ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="012" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="012" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="012" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="012" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="013">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/013.jpg</img>
+<letter n="013" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="013" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="013" n="02">예ᄂᆞᆫ 샹후 문안 미령 졔졀 ᄒᆞᆫ가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="013" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="013" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="013" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="014">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/014.jpg</img>
+<letter n="014" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="014" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="014" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="014" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="014" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="014" n="05">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="015">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/015.jpg</img>
+<letter n="015" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="015" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="015" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="015" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="015" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="015" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="016">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/016.jpg</img>
+<letter n="016" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="016" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="016" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="016" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="016" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="016" n="05">일긔ᄂᆞᆫ ᄆᆡ오 쳥화ᄒᆞ나 우의 업스니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+
+</letter>
+
+<img n="017">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/017.jpg</img>
+<letter n="017" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="017" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="017" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="017" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="017" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="017" n="05">일긔ᄂᆞᆫ 종시 한증이니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="018">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/018.jpg</img>
+<letter n="018" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="018" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="018" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="018" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="018" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다 오ᄂᆞᆯ 일긔도 증울ᄒᆞ다</sent>
+</letter>
+
+<img n="019">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/019.jpg</img>
+<letter n="019" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="019" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="019" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="019" n="03">동궁마마 문안 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘동궁마마’와 ‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’, ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 '마'와 'ᄐᆡ평', ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="019" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="019" n="05">오ᄂᆞᆯ 일긔 종시 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="020">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/020.jpg</img>
+<letter n="020" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="020" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="020" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="020" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="020" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다 오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+
+</letter>
+
+<img n="021">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/021.jpg</img>
+<letter n="021" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="021" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="021" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="021" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="021" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="021" n="05">오ᄂᆞᆯ 만경젼으로 왓스며 일긔ᄂᆞᆫ 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="022">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/022.jpg</img>
+<letter n="022" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="022" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="022" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="022" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="022" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="022" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 화창ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="022" n="06">ᄂᆡ일 동궐 가게다</sent>
+</letter>
+
+<img n="023">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/023.jpg</img>
+<letter n="023" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="023" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="023" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="023" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며 나ᄂᆞᆫ ᄒᆞᆫ가지다</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="023" n="04">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥화ᄒᆞ다 슈용은 보앗스며 삼뎐은 종시 거복ᄒᆞ다 안변은 보아야게다</sent>
+</letter>
+
+<img n="024">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/024.jpg</img>
+<letter n="024" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="024" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ나 종긔로 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘든든’과 ‘답답’의 뒤에 오는 '든'과 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="024" n="02">예ᄂᆞᆫ 상후 문안 미령 졔졀 종시 ᄭᆡᄭᅳᆺ지 아니시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="024" n="03">동궁마마 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ오며</sent><!--‘동궁마마’, ‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 '마'와 'ᄐᆡ평', ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="024" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="024" n="05">오ᄂᆞᆯ 일긔 음산 풍일이 고이ᄒᆞ다</sent>
+</letter>
+
+<img n="025">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/025.jpg</img>
+<letter n="025" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="025" n="01">글시 보고 든든ᄒᆞ나 사양이 괴로온 일 답답ᄒᆞ며</sent><!--‘든든’과 ‘답답’의 뒤에 오는 '든'과 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="025" n="02">너의 친환이 종시 미류ᄒᆞ신 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="025" n="03">예ᄂᆞᆫ 상후 종시 평복지 못ᄒᆞ오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="025" n="04">동궁의셔ᄂᆞᆫ 작일은 진이 ᄃᆡ단ᄒᆞ셔 괴로이 디ᄂᆡ시고</sent>
+<sent type="main" lang="kor" page="025" n="05">오ᄂᆞᆯ은 조곰 나흐시나 종시 ᄭᆡᄭᅳᆺ지 아니시니 답답ᄒᆞ며</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="025" n="06">나ᄂᆞᆫ 셔쳬로 괴롭다</sent>
+<sent type="main" lang="kor" page="025" n="07">오ᄂᆞᆯ도 일긔 증울ᄒᆞ니 괴롭다</sent>
+</letter>
+
+<img n="026">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/026.jpg</img>
+<letter n="026" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="026" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="026" n="02">예ᄂᆞᆫ 샹후 문안 미령 졔졀 평복지 못ᄒᆞ시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="026" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="026" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="026" n="05">동궁의셔ᄂᆞᆫ 작야부터 뒤ᄅᆞᆯ 십오뉵 ᄎᆞ나 보시고 괴로와ᄒᆞ시니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="026" n="06">나ᄂᆞᆫ 안질은 쾌ᄎᆞᄒᆞ다</sent>
+<sent type="main" lang="kor" page="026" n="07">너ᄂᆞᆫ 종긔로 괴로온 일 답답ᄒᆞ고</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="026" n="08">영복이ᄂᆞᆫ 안질 그러ᄒᆞᆫ 일 념녀며</sent>
+<sent type="main" lang="kor" page="026" n="09">박하유ᄂᆞᆫ 보ᄂᆡᆺ다</sent>
+<sent type="main" lang="kor" page="026" n="10">오ᄂᆞᆯ 일긔ᄂᆞᆫ 우후나 도로 덥다</sent>
+</letter>
+
+<img n="027">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/027.jpg</img>
+<letter n="027" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="027" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="027" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="027" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="027" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="027" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 종일 ᄃᆡ우가 폭쥬ᄒᆞ니 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="027" n="06">동마가 쳐음인 듯ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="027" n="07">너ᄂᆞᆫ 오ᄂᆞᆯ도 낫지 아니ᄒᆞᆫ 일 답답ᄒᆞ고</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="027" n="08">츙경이ᄂᆞᆫ 안질이 더ᄒᆞ니 답답 념녀다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="027" n="09">이 웅담은 품이 ᄆᆡ오 조키 ᄒᆞᆫ 부ᄅᆞᆯ 보ᄂᆡ니 어셔 낫기 조인다</sent>
+<sent type="main" lang="kor" page="027" n="10">감조관은 아라보아야게다</sent>
+</letter>
+
+<img n="028">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/028.jpg</img>
+<letter n="028" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="028" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="028" n="02">예ᄂᆞᆫ 샹후 문안 종시 평복지 못ᄒᆞ시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="028" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="028" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 감긔로 괴롭다</sent>
+<sent type="main" lang="kor" page="028" n="05">감조관은 보아야게스나 되도록 ᄒᆞ마</sent>
+<sent type="main" lang="kor" page="028" n="06">일긔 온화ᄒᆞ니 괴후다</sent>
+</letter>
+
+<img n="029">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/029.jpg</img>
+<letter n="029" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="029" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="029" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="029" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="029" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="029" n="05">남졍슉이게셔ᄂᆞᆫ 오ᄂᆞᆫ ᄃᆡ로 드려보ᄂᆡ여라</sent>
+<sent type="main" lang="kor" page="029" n="06">ᄒᆡᄇᆡᆨ 장계ᄂᆞᆫ ᄂᆡ리게다</sent>
+<sent type="main" lang="kor" page="029" n="07">오ᄂᆞᆯ도 일긔 온화ᄒᆞ다</sent>
+</letter>
+
+<img n="030">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/030.jpg</img>
+<letter n="030" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="030" n="01">작일 잇고 슈슈 못 ᄒᆞ야기 다시 뎍ᄂᆞᆫ다</sent><!--뒤에 오는 '슈'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="030" n="02">남졍식이 다려 명년의 우희셔 질역이 금년 슈와ᄂᆞᆫ 엇더신가 무러보고</sent>
+<sent type="main" lang="kor" page="030" n="03">무ᄉᆞᆫ 일이 언제즘 잇스며</sent>
+<sent type="main" lang="kor" page="030" n="04">엇지ᄒᆞ면 방ᄋᆡᆨ이 될가 ᄌᆞ시 아라보고 ᄂᆡ일 드러오너라</sent>
+</letter>
+
+<img n="031">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/031.jpg</img>
+<letter n="031" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="031" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="031" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="031" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="031" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 일긔도 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="031" n="05">졍식이ᄂᆞᆫ 아모리나 ᄒᆞ라 ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="031" n="06">이 팔쇠ᄂᆞᆫ 츙경이 쥬어라</sent>
+</letter>
+
+<img n="032">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/032.jpg</img>
+<letter n="032" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="032" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="032" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="032" n="03">동궁 졔졀 ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="032" n="04">나ᄂᆞᆫ 시방도 ᄭᆡᄭᅳᆺ지 아니ᄒᆞ니 답답 괴롭다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="032" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ ᄆᆡ오 쳥가ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="032" n="06">작야 졔ᄉᆞ 디나시니 츄모 ᄉᆡ롭고</sent>
+<sent type="main" lang="kor" page="032" n="07">ᄉᆞ오 년 쥬ᄉᆞ가 업시 디ᄂᆡ니 더옥 감챵ᄒᆞ다</sent>
+</letter>
+
+<img n="033">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/033.jpg</img>
+<letter n="033" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="033" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="033" n="02">예ᄂᆞᆫ 샹후 문안 한가지 오시고</sent>
+<sent type="main" lang="kor" page="033" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="033" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="033" n="05">너ᄂᆞᆫ 종시 셩치 아니ᄒᆞ니 답답 념녀다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="033" n="06">작야 뇌우가 고이ᄒᆞ다</sent>
+</letter>
+
+<img n="034">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/034.jpg</img>
+<letter n="034" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="034" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="034" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="034" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="034" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="034" n="05">너ᄂᆞᆫ 오ᄂᆞᆯ도 한가진 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="034" n="06">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="035">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/035.jpg</img>
+<letter n="035" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="035" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="035" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="035" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="035" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="035" n="05">오ᄂᆞᆯ 일긔 음산 한ᄂᆡᆼᄒᆞ니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="035" n="06">너ᄂᆞᆫ 어ᄃᆡ 과히 거복지나 아니ᄒᆞᆫ지 브릴 길 업다</sent>
+
+</letter>
+
+<img n="036">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/036.jpg</img>
+<letter n="036" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="036" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="036" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="036" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="036" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="036" n="05">오ᄂᆞᆯ도 일긔 심ᄂᆡᆼᄒᆞ며 너ᄂᆞᆫ 감긔로 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="037">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/037.jpg</img>
+<letter n="037" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="037" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="037" n="02">예ᄂᆞᆫ 샹후 문안 ᄒᆞᆫ가지오시고</sent>
+<sent type="main" lang="kor" page="037" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="037" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="037" n="05">너ᄂᆞᆫ 종시 셩치 아니ᄒᆞ니 답답 념녀다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="037" n="06">작야 뇌우가 고이ᄒᆞ다</sent>
+</letter>
+
+<img n="038">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/038.jpg</img>
+<letter n="038" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="038" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="038" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="038" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="038" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="038" n="05">오ᄂᆞᆯ 일긔도 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="038" n="06">너ᄂᆞᆫ 쳬셜노 종시 고ᄉᆡᆼᄒᆞᄂᆞᆫ 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="039">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/039.jpg</img>
+<letter n="039" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="039" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="039" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="039" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ오시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="039" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="039" n="05">오ᄂᆞᆯ 일긔 음산ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="039" n="06">너ᄂᆞᆫ 비통으로 괴로온 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="040">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/040.jpg</img>
+<letter n="040" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="040" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="040" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="040" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="040" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 복통으로 괴롭다</sent>
+<sent type="main" lang="kor" page="040" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 음산ᄒᆞ니 쟝마 갓다</sent>
+<sent type="main" lang="kor" page="040" n="06">너의 ᄌᆞ친은 그러ᄒᆞ시니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="041">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/041.jpg</img>
+<letter n="041" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="041" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="041" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="041" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="041" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="041" n="05">영덕이ᄂᆞᆫ ᄉᆞ셰 그러ᄒᆞᆫ 쥴 몰ᄅᆞᄂᆞᆫ 거시 아니나</sent>
+<sent type="main" lang="kor" page="041" n="06">김명슈의 아비ᄅᆞᆯ 시겨 쥬마 ᄒᆞ여스니 변ᄀᆡᄒᆞ기가 어렵다</sent>
+<sent type="main" lang="kor" page="041" n="07">일긔 이리 ᄎᆞ니 답답ᄒᆞ다</sent>
+</letter>
+
+<img n="042">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/042.jpg</img>
+<letter n="042" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="042" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="042" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="042" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ고</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="042" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="042" n="05">오ᄂᆞᆯ 일긔도 종일 우습ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="042" n="06">ᄒᆡᆼ노ᄂᆞᆫ 그만ᄒᆞ니 ᄒᆡᆼ이다</sent>
+
+</letter>
+
+<img n="043">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/043.jpg</img>
+<letter n="043" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="043" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="043" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="043" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="043" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 츙경 드려다보니 좀 더 커시니 든든 긔특긔특ᄒᆞ다</sent><!--‘든든’과 ‘긔특긔특’의 뒤에 오는 '든'과 '긔특'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="043" n="05">오ᄂᆞᆯ 일긔도 쳥화ᄒᆞ다</sent>
+</letter>
+
+<img n="044">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/044.jpg</img>
+<letter n="044" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="044" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="02">예ᄂᆞᆫ 형님긔셔ᄂᆞᆫ 편치 아니ᄒᆞ시니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="03">츙경이ᄂᆞᆫ 나가 잘 잔 일 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="04">나귀로 ᄒᆞ야 그러ᄐᆞᆺ 조하ᄒᆞᄂᆞᆫ 일 긔특긔특ᄒᆞ나</sent><!--‘긔특긔특’의 뒤에 오는 '긔특'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="05">치운 날 빗치ᄂᆞᆫ 일 답답ᄒᆞ고</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="06">종시 나귀 셩미가 경망ᄒᆞ니 탈 졔 잘 붓드러 쥬어라 조심스럽다</sent>
+<sent type="main" lang="kor" page="044" n="07">그놈은 자라면 너도곤도 낫게스니 긔특긔특ᄒᆞ다</sent><!--뒤에 오는 '긔특'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="08">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="044" n="09">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="044" n="10">예ᄂᆞᆫ ᄒᆞᆫ가지나 담화로 괴롭다</sent>
+<sent type="main" lang="kor" page="044" n="11">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥화ᄒᆞ나 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="045">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/045.jpg</img>
+<letter n="045" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="045" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="045" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="045" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="045" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="045" n="05">오ᄂᆞᆯ 일긔도 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="045" n="06">츙경이ᄂᆞᆫ 과립은 좀 만하도 증셰 극슌ᄒᆞ니 다ᄒᆡᆼ이다</sent>
+<sent type="main" lang="kor" page="045" n="07">조심들 ᄒᆞ게 ᄒᆞ야라</sent>
+</letter>
+
+<img n="046">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/046.jpg</img>
+<letter n="046" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="046" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="046" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="046" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="046" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="046" n="05">오ᄂᆞᆯ 일긔 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="046" n="06">츙경이 안질은 엇지 그러ᄒᆞᆫ지 답답 념녀 측냥업다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="046" n="07">연산은 ᄎᆞᄎᆞ 구쳐ᄒᆞ랴 ᄒᆞ나 맛당치 아니니 답답ᄒᆞ다</sent><!--‘ᄎᆞᄎᆞ’와 ‘답답’의 뒤에 오는 'ᄎᆞ'와 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="046" n="08">남모게 ᄂᆞᆫᄌᆞ시 아라보고 그 일은 듕뎡 ᄯᅥ보ᄂᆞᆫ 거시 조타</sent>
+</letter>
+
+<img n="047">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/047.jpg</img>
+<letter n="047" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="047" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="047" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="047" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="047" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="047" n="05">오ᄂᆞᆯ 일긔 혹한이다 츙경이 안질은 너모 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="047" n="06">아모조록 속히 치료ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="047" n="07">븍ᄇᆡᆨ 쟝계와 상소ᄂᆞᆫ 경ᄒᆡᄒᆞ게다</sent>
+</letter>
+
+<img n="048">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/048.jpg</img>
+<letter n="048" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="048" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="048" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="048" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="048" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="048" n="05">오ᄂᆞᆯ 셜후 일긔 졸한이다</sent>
+<sent type="main" lang="kor" page="048" n="06">양간이 안질의 ᄆᆡ오 조타기 보ᄂᆡ니 츙경이 먹이면 조케다</sent>
+</letter>
+
+<img n="049">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/049.jpg</img>
+<letter n="049" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="049" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="049" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="049" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="049" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="049" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ며 츙경이ᄂᆞᆫ 안질 더ᄒᆞᆫ 일 념녀 측냥업다</sent>
+<sent type="main" lang="kor" page="049" n="06">앗가 양간 오 부 보ᄂᆡ여드니 보앗ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="049" n="07">셩실이 좀 먹여 보고 양의나 좀 보이면 조케다</sent>
+<sent type="main" lang="kor" page="049" n="08">안질이 오ᄅᆡ면 조심된다</sent>
+</letter>
+
+<img n="050">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/050.jpg</img>
+<letter n="050" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1887~1895년">
+<sent type="main" lang="kor" page="050" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="050" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="050" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="050" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="050" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥온ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="050" n="06">셩기운 전표ᄂᆞᆫ ᄌᆞ시 아라다</sent>
+<sent type="main" lang="kor" page="050" n="07">작일 그 말ᄉᆞᆷ 하교ᄒᆞ오셔 드러다 드른 쳬 아니니 념 ᄆᆞ라</sent>
+</letter>
+
+<img n="051">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/051.jpg</img>
+<letter n="051" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1887~1895년">
+<sent type="main" lang="kor" page="051" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="051" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="051" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="051" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="051" n="05">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ며</sent>
+<sent type="main" lang="kor" page="051" n="06">셩기운이게 일너 알외기ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="051" n="07">그 표ᄅᆞᆯ ᄒᆞ야 밧칠ᄃᆡ 인쳔으로 표ᄅᆞᆯ ᄒᆞ려 갓스니 오ᄂᆞᆫ ᄃᆡ로 밧칠 쥴노 알외고</sent>
+<sent type="main" lang="kor" page="051" n="08">오ᄂᆞᆯ은 밧치지 말나 ᄒᆞ야다</sent>
+<sent type="main" lang="kor" page="051" n="09">오ᄂᆞᆯ 셩기운이가 예궐 ᄃᆡ령 듕이니 시방 편지로 통긔ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="051" n="10">잘못ᄒᆞ면 낭ᄑᆡ다 시방 ᄒᆞ야라</sent>
+</letter>
+
+<img n="052">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/052.jpg</img>
+<letter n="052" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1887~1895년">
+<sent type="main" lang="kor" page="052" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="052" n="02">셩기운이게ᄂᆞᆫ 혹 네 편지가 불급ᄒᆞᆯ가 영달이 시겨 ᄯᅩ 일너드니</sent>
+<sent type="main" lang="kor" page="052" n="03">네 편지 보니 잘ᄒᆞᆫ 거ᄉᆞᆯ ᄂᆡ가 ᄯᅩ 잘못 일너기 상호다려 셩기운이ᄅᆞᆯ 보고 졔 말ᄃᆡ로 ᄯᅩ 이르라 ᄒᆞ얏다</sent>
+</letter>
+
+<img n="053">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/053.jpg</img>
+<letter n="053" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="053" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="053" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="053" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="053" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 쳬긔 ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="053" n="05">오ᄂᆞᆯ도 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="053" n="06">셔산 조ᄂᆞᆫ 보앗다</sent>
+<sent type="main" lang="kor" page="053" n="07">안쥰옥이ᄂᆞᆫ 졔쳔으로 옴기고 뎡동긔ᄂᆞᆫ 못 옴겨다</sent>
+<sent type="main" lang="kor" page="053" n="08">네 형은 은진으로 ᄒᆞ야다 변변치 아니나 아직 갓다</sent><!--뒤에 오는 '변'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="053" n="09">ᄎᆞᄎᆞ 옴게 ᄒᆞᄂᆞᆫ 거시 조키 그리ᄒᆞ고 한산은 영월노 ᄒᆞ야다</sent><!--‘ᄎᆞᄎᆞ’의 뒤에 오는 'ᄎᆞ'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="054">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/054.jpg</img>
+<letter n="054" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="054" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="054" n="02">안쥰옥이ᄂᆞᆫ 이쳔 보ᄂᆡ여다</sent>
+<sent type="main" lang="kor" page="054" n="03">졔 ᄋᆞ오 ᄉᆡᆼ각ᄒᆞ니 너모 불상ᄒᆞ다</sent>
+</letter>
+
+<img n="055">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/055.jpg</img>
+<letter n="055" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1893년">
+<sent type="main" lang="kor" page="055" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="055" n="02">오ᄂᆞᆯ 원 쳔젼은 아니 되고</sent>
+<sent type="main" lang="kor" page="055" n="03">김학모도 오ᄂᆞᆯ은 못 된다</sent>
+<sent type="main" lang="kor" page="055" n="04">박셩근 슈쇄 일노 니유형이ᄅᆞᆯ 보ᄂᆡ게시니 져다려 무러 관ᄌᆞ로 ᄒᆞ나흘 ᄒᆞ야 오너라</sent>
+</letter>
+
+<img n="056">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/056.jpg</img>
+<letter n="056" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="056" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="056" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="056" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="056" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 각통이 ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="056" n="05">영복이 검교ᄂᆞᆫ 그리ᄒᆞ게다</sent>
+<sent type="main" lang="kor" page="056" n="06">ᄇᆡ종 샹격은 아라보게다</sent>
+<sent type="main" lang="kor" page="056" n="07">안쥰옥이ᄂᆞᆫ 쳔젼ᄒᆞ게다</sent>
+<sent type="main" lang="kor" page="056" n="08">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="057">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/057.jpg</img>
+<letter n="057" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="057" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="057" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="057" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="057" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 오ᄂᆞᆯ도 두통으로 괴로오며</sent>
+<sent type="main" lang="kor" page="057" n="05">일긔ᄂᆞᆫ ᄆᆡ오 화창ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="057" n="06">김문졔ᄂᆞᆫ 외국 조졔지지의 가셔 슈치가 되여시니 엇지 아직 풀리게ᄂᆞ냐 ᄒᆞ오시니 못 ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="057" n="07">판셔 편지 거번 드려온 것 보ᄂᆡᆫ다</sent>
+</letter>
+
+<img n="058">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/058.jpg</img>
+<letter n="058" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1890년">
+<sent type="main" lang="kor" page="058" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="058" n="02">예ᄂᆞᆫ 상후 문안 종시 시훤이 평복지 못ᄒᆞ시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="058" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시나 종시 구미 아니 겨오시니 답답ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘답답ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="058" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="058" n="05">진헌 단ᄌᆞᄂᆞᆫ ᄌᆞ시 보앗스며</sent>
+<sent type="main" lang="kor" page="058" n="06">됴동협이ᄂᆞᆫ ᄉᆞ셰ᄂᆞᆫ 그러ᄒᆞ나 가ᄌᆞ도 아니 나고</sent>
+<sent type="main" lang="kor" page="058" n="07">ᄯᅩ 됴가가 이번 셰시나 가ᄌᆞᄒᆞ얏ᄂᆞᆫᄃᆡ ᄯᅩ 엇지ᄒᆞ게ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="058" n="08">일긔ᄂᆞᆫ 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="059">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/059.jpg</img>
+<letter n="059" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="059" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="059" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="059" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="059" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="059" n="05">오ᄂᆞᆯ 일긔 극열이다</sent>
+<sent type="main" lang="kor" page="059" n="06">됴동희ᄂᆞᆫ 근ᄂᆡ 소쳬ᄒᆞᆫ 젼녜가 업셔 오ᄂᆞᆯ 검교 ᄎᆞ하ᄅᆞᆯ ᄒᆞ얏다</sent>
+<sent type="main" lang="kor" page="059" n="07">됴영희 박챵셔ᄂᆞᆫ 오ᄂᆞᆯ 뎡ᄉᆞ의ᄂᆞᆫ 쟝젼이 아니 드러와 못 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="060">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/060.jpg</img>
+<letter n="060" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="060" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="060" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="060" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="060" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 감긔 더ᄒᆞ니 괴롭다</sent>
+<sent type="main" lang="kor" page="060" n="05">너ᄂᆞᆫ 슌종 기운이 ᄯᅩ 어이 잇ᄂᆞᆫ지 념녀며 과히 긴치나 아니ᄒᆞ냐</sent>
+<sent type="main" lang="kor" page="060" n="06">됴동희ᄂᆞᆫ ᄂᆡ일 금교 시기게다</sent>
+<sent type="main" lang="kor" page="060" n="07">오ᄂᆞᆯ 일긔ᄂᆞᆫ 졸한이다</sent>
+</letter>
+
+<img n="061">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/061.jpg</img>
+<letter n="061" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="061" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="061" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="061" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="061" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="061" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="061" n="06">됴동희 일은 엇지 될지 보아야게스나 엇지 질언이야 ᄒᆞ게ᄂᆞ냐</sent>
+</letter>
+
+<img n="062">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/062.jpg</img>
+<letter n="062" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891~1892년">
+<sent type="main" lang="kor" page="062" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="062" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="062" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="062" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="062" n="05">일긔ᄂᆞᆫ 심동이나 다르지 아니니 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="062" n="06">박챵셔ᄂᆞᆫ 알외게다</sent>
+</letter>
+
+<img n="063">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/063.jpg</img>
+<letter n="063" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1883년">
+<sent type="main" lang="kor" page="063" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="063" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="063" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="063" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="063" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ며</sent>
+<sent type="main" lang="kor" page="063" n="06">충경이ᄂᆞᆫ 안환이 종시 낫지 아니ᄒᆞ니 답답ᄒᆞ고</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="063" n="07">양간은 긴히 쓸 터히면 이후 ᄯᅩ 보ᄂᆡ게다</sent>
+<sent type="main" lang="kor" page="063" n="08">됴동혁이ᄂᆞᆫ 알외여 보게다</sent>
+<sent type="main" lang="kor" page="063" n="09">오ᄂᆞᆯ 니판 샹소ᄒᆞ야 갈어스니 슈일간 변통ᄒᆞ게다</sent>
+</letter>
+
+<img n="064">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/064.jpg</img>
+<letter n="064" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="064" n="01">ᄃᆡ츅은 권영슈로 ᄒᆞ게 ᄒᆞ야라</sent>
+</letter>
+
+<img n="065">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/065.jpg</img>
+<letter n="065" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="065" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="065" n="02">교영은 의례이 ᄒᆞ실 터히니 그ᄃᆡ로 회답ᄒᆞ지 다른 ᄉᆞ연 무엇 잇ᄂᆞ냐</sent>
+</letter>
+
+<img n="066">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/066.jpg</img>
+<letter n="066" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="066" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="066" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="066" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="066" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="066" n="05">오ᄂᆞᆯ 일긔 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="066" n="06">작일 영상의 소조ᄂᆞᆫ 큰 변괴며</sent>
+<sent type="main" lang="kor" page="066" n="07">종치도 지금것 못 ᄒᆞ니 졀분ᄒᆞ고 몰나드니</sent>
+<sent type="main" lang="kor" page="066" n="08">호삼이ᄂᆞᆫ 공연이 남의 구실이 되니 졀통졀통ᄒᆞ다</sent><!--뒤에 오는 '졀통'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="067">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/067.jpg</img>
+<letter n="067" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="067" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="067" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="067" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="067" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="067" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="067" n="06">호삼이ᄂᆞᆫ ᄉᆞ악ᄀᆞ지 되니 더옥 감챵ᄒᆞ다</sent>
+</letter>
+
+<img n="068">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/068.jpg</img>
+<letter n="068" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="068" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="068" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="068" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="068" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="068" n="05">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="068" n="06">니호익이 일은 아직 머니 ᄎᆞᄎᆞ 보아야게다</sent><!--‘ᄎᆞᄎᆞ’의 뒤에 오는 'ᄎᆞ'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="069">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/069.jpg</img>
+<letter n="069" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="069" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="069" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="069" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="069" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="069" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="069" n="06">너ᄂᆞᆫ 그쳐로 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="069" n="07">김셩근이ᄂᆞᆫ 참찬 시겨다</sent>
+</letter>
+
+<img n="070">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/070.jpg</img>
+<letter n="070" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="070" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="070" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="070" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="070" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="070" n="05">오ᄂᆞᆯ 일긔 음ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="070" n="06">김셩근이ᄂᆞᆫ 그리ᄒᆞ게다</sent>
+</letter>
+
+<img n="071">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/071.jpg</img>
+<letter n="071" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="071" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="071" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="071" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="071" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="071" n="05">오ᄂᆞᆯ 일긔 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="071" n="06">한기동이ᄂᆞᆫ 엇지 구쳐ᄅᆞᆯ ᄒᆞ야 보쟈 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="071" n="07">김용원이ᄂᆞᆫ 오ᄂᆞᆯ 윤창셥이 상녜ᄅᆞᆯ ᄂᆡ여 시겨다</sent>
+</letter>
+
+<img n="072">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/072.jpg</img>
+<letter n="072" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="072" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="072" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="072" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="072" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지고 오ᄂᆞᆯ은 조금 낫다</sent>
+<sent type="main" lang="kor" page="072" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥냥ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="072" n="06">김승집이 말ᄉᆞᆷ은 알외여다</sent>
+</letter>
+
+<img n="073">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/073.jpg</img>
+<letter n="073" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1876~1895년">
+<sent type="main" lang="kor" page="073" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="073" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="073" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="073" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="073" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="073" n="06">완ᄇᆡᆨ은 가라출지 보아야게다</sent>
+<sent type="main" lang="kor" page="073" n="07">니듕칠이ᄂᆞᆫ ᄂᆡ ᄆᆞ음의ᄂᆞᆫ 그러나 우희셔ᄂᆞᆫ 종시 어렵다오시니 되기 어렵다</sent>
+<sent type="main" lang="kor" page="073" n="08">김덕규의 모의게ᄂᆞᆫ 무료ᄅᆞᆯ 보앗다</sent>
+<sent type="main" lang="kor" page="073" n="09">그러키 쳐음의부터 ᄒᆞᆫ 말이다</sent>
+</letter>
+
+<img n="074">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/074.jpg</img>
+<letter n="074" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="074" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="074" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="074" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="074" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="074" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 종일 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="074" n="06">너ᄂᆞᆫ 은진으로 괴로온 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="074" n="07">됴병갑이ᄂᆞᆫ 그러ᄒᆞ나 그 ᄉᆡᆨ의 아니 나든 거ᄉᆞᆯ ᄒᆞᆯ 길 업스니 다른 ᄃᆡ로나 ᄒᆞ게다</sent>
+</letter>
+
+<img n="075">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/075.jpg</img>
+<letter n="075" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1886년">
+<sent type="main" lang="kor" page="075" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="075" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="075" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="075" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="075" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="075" n="06">젼표ᄂᆞᆫ ᄌᆞ시 보앗다</sent>
+<sent type="main" lang="kor" page="075" n="07">덕원은 아마 슈히 ᄂᆡ이될 듯ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="075" n="08">삭슈ᄂᆞᆫ 거진 다 되엿다</sent>
+</letter>
+
+<img n="076">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/076.jpg</img>
+<letter n="076" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="076" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="076" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="076" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="076" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="076" n="05">감쳬ᄂᆞᆫ ᄒᆞᆫ가지니 괴롭다</sent>
+<sent type="main" lang="kor" page="076" n="06">일긔ᄂᆞᆫ 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="076" n="07">진찬소 여ᄌᆡᄂᆞᆫ ᄌᆞ셔이 보앗다</sent>
+<sent type="main" lang="kor" page="076" n="08">니유항이ᄂᆞᆫ 지금 두류ᄒᆞ다 이졔야 간다ᄂᆞᆫ 말이 무ᄉᆞᆫ 말이며</sent>
+<sent type="main" lang="kor" page="076" n="09">마ᄑᆡ 쳑문은 쥬어다 작폐될가 시부니 그만두게다</sent>
+</letter>
+
+<img n="077">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/077.jpg</img>
+<letter n="077" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="077" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="077" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="077" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="077" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="077" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 음ᄂᆡᆼᄒᆞ며</sent>
+<sent type="main" lang="kor" page="077" n="06">니용원이가 오ᄂᆞᆯ 상소ᄅᆞᆯ ᄒᆞ얏ᄂᆞᆫᄃᆡ 귀어가 졀졀 통분ᄒᆞ다</sent><!--뒤에 오는 '졀'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="078">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/078.jpg</img>
+<letter n="078" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="078" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="078" n="02">예ᄂᆞᆫ 상후 문안 한가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="078" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="078" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="078" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="078" n="06">젼표ᄂᆞᆫ ᄌᆞ시 보고 관문은 보ᄂᆡᆫ다</sent>
+<sent type="main" lang="kor" page="078" n="07">홍ᄌᆡ희게ᄂᆞᆫ ᄌᆞ시 드러다</sent>
+<sent type="main" lang="kor" page="078" n="08">너ᄂᆞᆫ 쳬셜노 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="078" n="09">통영 근쳐의 누고ᄅᆞᆯ 좀 보ᄂᆡ게시니</sent>
+<sent type="main" lang="kor" page="078" n="10">통졔ᄉᆞ긔 거긔 돈 오쳔 냥만 어더 쥬게</sent>
+<sent type="main" lang="kor" page="078" n="11">편지 ᄒᆞᆫ 장 ᄒᆞ여 드려보ᄂᆡ여라</sent>
+</letter>
+
+<img n="079">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/079.jpg</img>
+<letter n="079" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="079" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="079" n="02">향항셔도 무탈은 ᄒᆞᆫ 일 든든ᄒᆞ나 편지도 업스니 굼굼ᄒᆞ다</sent><!--뒤에 오는 '든'과 '굼'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="079" n="03">통영 셔간은 바다다</sent>
+<sent type="main" lang="kor" page="079" n="04">ᄉᆞ복 관문은 궁의셔 보ᄂᆡᆫ 듯ᄒᆞ니 아라보게다</sent>
+</letter>
+
+<img n="080">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/080.jpg</img>
+<letter n="080" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="080" n="01">앗가 슈슈 듕 잇고 못 ᄒᆞ얏다</sent><!--뒤에 오는 '슈'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="080" n="02">통영 비쟝 김쳘희가 이왕 젼 통ᄉᆞ ᄯᆡ 잇든 거시니 눌너 쥬게 ᄒᆞ야라</sent>
+</letter>
+
+<img n="081">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/081.jpg</img>
+<letter n="081" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1889년">
+<sent type="main" lang="kor" page="081" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="081" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="081" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="081" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="081" n="05">오ᄂᆞᆯ도 일긔 괴샹ᄒᆞ며 니무로ᄂᆞᆫ 갈ᄂᆡᆺ다</sent>
+<sent type="main" lang="kor" page="081" n="06">엄쥬한이 말ᄉᆞᆷ은 알외게다</sent>
+</letter>
+
+<img n="082">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/082.jpg</img>
+<letter n="082" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="082" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="082" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="082" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="082" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 담쳬로 괴롭다</sent>
+<sent type="main" lang="kor" page="082" n="05">오ᄂᆞᆯ 우후 일긔 쳥냥ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="082" n="06">니ᄐᆡ용이ᄂᆞᆫ 옥당 시겨다</sent>
+</letter>
+
+<img n="083">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/083.jpg</img>
+<letter n="083" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1886~1890년">
+<sent type="main" lang="kor" page="083" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="083" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="083" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="083" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 일긔 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="083" n="05">니 모의 일은 위험 슈상ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="083" n="06">됴듕셰ᄂᆞᆫ 갈 만ᄒᆞᆫ ᄃᆡ 업스니 그만두엇다</sent>
+<sent type="main" lang="kor" page="083" n="07">이후 옴기ᄂᆞᆫ 거시 낫기 그리ᄒᆞ랴 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="084">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/084.jpg</img>
+<letter n="084" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1890년">
+<sent type="main" lang="kor" page="084" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="084" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="084" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="084" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="084" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 악한이다</sent>
+<sent type="main" lang="kor" page="084" n="06">츙경이ᄂᆞᆫ 좀 나흔 일 긔특긔특ᄒᆞ다</sent><!--뒤에 오는 '긔특'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="084" n="07">삼뎐은 오ᄂᆞᆯ 니훈경이가 ᄒᆞ얏스니 못 된다</sent>
+</letter>
+
+<img n="085">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/085.jpg</img>
+<letter n="085" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1890년">
+<sent type="main" lang="kor" page="085" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="085" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="085" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="085" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="085" n="05">오ᄂᆞᆯ 동우ᄂᆞᆫ 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="085" n="06">고영관이ᄂᆞᆫ 그리ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="085" n="07">셔종ᄐᆡᄂᆞᆫ 파보ᄅᆞᆯ 못 ᄒᆞ니 못 ᄒᆞᆫ다오시니 못 된다</sent>
+<sent type="main" lang="kor" page="085" n="08">됴병집이ᄂᆞᆫ 여러 번 알외나 종시 지란ᄒᆞ시니 답답ᄒᆞ며 시방도 ᄯᅩ 알왼다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="086">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/086.jpg</img>
+<letter n="086" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1890년">
+<sent type="main" lang="kor" page="086" n="01">글시 보고 든든ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="086" n="02">니 모의 일은 념녀 업지 아니니 인쳔으로 조용이 아라보면 조케다</sent>
+<sent type="main" lang="kor" page="086" n="03">됴병집이ᄂᆞᆫ 여러 번 알외여 시방 쳔은이 ᄂᆡ리오셔다</sent>
+<sent type="main" lang="kor" page="086" n="04">동우가 종시 ᄀᆡ졔치 아니니 답답ᄒᆞ며</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="086" n="05">오ᄂᆞᆯ 도긔의 승합의 ᄋᆞ들 과거 식이오셔다</sent>
+</letter>
+
+<img n="087">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/087.jpg</img>
+<letter n="087" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1890년">
+<sent type="main" lang="kor" page="087" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="087" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="087" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="087" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="087" n="05">오ᄂᆞᆯ 일긔 졸한이오 쇼셜이오니 이졔 겨을날이다</sent>
+<sent type="main" lang="kor" page="087" n="06">영영셔ᄂᆞᆫ 무ᄉᆞᄒᆞ니 ᄒᆡᆼ이며</sent><!--뒤에 오는 '영'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="087" n="07">영ᄇᆡᆨ 이ᄇᆡᄂᆞᆫ 그러ᄒᆞ나 완영 일이 졈졈 말 못 되니 답답ᄒᆞ다</sent><!--뒤에 오는 '졈'과 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="087" n="08">니판은 그러치 아니ᄒᆞᆫ 일이 잇셔 뎡ᄐᆡ호가 이왕 디ᄂᆡ엿기 아직 아니 시기고</sent>
+<sent type="main" lang="kor" page="087" n="09">슈일 후 너ᄅᆞᆯ 시기랴 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="088">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/088.jpg</img>
+<letter n="088" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="088" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="088" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="088" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="088" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지며 오ᄂᆞᆯ 일긔 극열이다</sent>
+<sent type="main" lang="kor" page="088" n="05">이 셩명은 보아야게다</sent>
+<sent type="main" lang="kor" page="088" n="06">셰ᄐᆡ 일은 영환이가 보고셔 말ᄒᆞ얏스니 ᄂᆞᆫ호기 어렵다 ᄒᆞ니 셕긔ᄂᆞᆫ 명년의나 ᄒᆞ야 주게다</sent>
+</letter>
+
+<img n="089">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/089.jpg</img>
+<letter n="089" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891년">
+<sent type="main" lang="kor" page="089" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="089" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="089" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="089" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="089" n="05">일긔 오ᄂᆞᆯ도 우의 종셰 ᄀᆡ졔치 아니며</sent>
+<sent type="main" lang="kor" page="089" n="06">ᄒᆡᆼᄒᆡᆼ 퇴졍의 미비 과다ᄒᆞ니 답답ᄒᆞ며 계호 일은 그리ᄒᆞ게다</sent><!--‘ᄒᆡᆼᄒᆡᆼ’과 ‘답답’의 뒤에 오는 'ᄒᆡᆼ'과 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="090">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/090.jpg</img>
+<letter n="090" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1880~1895년">
+<sent type="main" lang="kor" page="090" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="090" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="090" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="090" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지나 오ᄂᆞᆯ은 두통이 심ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="090" n="05">오ᄂᆞᆯ도 우의 일양이니 동마 고이ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="090" n="06">영셔와 다른 셩명은 다 그ᄃᆡ로 ᄒᆞ고 니건우ᄂᆞᆫ 못 되여다</sent>
+</letter>
+
+<img n="091">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/091.jpg</img>
+<letter n="091" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="091" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="091" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="091" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="091" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="091" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 종일 동우 괴샹ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="091" n="06">승합은 그쳐로 ᄒᆞᆯ 듯ᄒᆞ나 너모 과ᄒᆞ다</sent>
+</letter>
+
+<img n="092">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/092.jpg</img>
+<letter n="092" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="092" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="092" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="092" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="092" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지며</sent>
+<sent type="main" lang="kor" page="092" n="05">작야 우후 일긔 일양 덥다</sent>
+<sent type="main" lang="kor" page="092" n="06">봉은 ᄌᆞ셔이 보고 니승록이ᄂᆞᆫ 그리ᄒᆞ야라</sent>
+</letter>
+
+<img n="093">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/093.jpg</img>
+<letter n="093" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="093" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ나 셔증 낫지 아니ᄒᆞᆫ 일 념녀다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="093" n="02">츙경이ᄂᆞᆫ 어이 ᄯᅩ 알ᄂᆞᆫ지 념녀다</sent>
+<sent type="main" lang="kor" page="093" n="03">예셔ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="093" n="04">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="093" n="05">나ᄂᆞᆫ 셔증으로 괴롭다</sent>
+<sent type="main" lang="kor" page="093" n="06">오ᄂᆞᆯ 일긔ᄂᆞᆫ 증울ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="093" n="07">김오현이가 장셩이라도 가랴ᄂᆞᆫ가 아라보아라</sent>
+<sent type="main" lang="kor" page="093" n="08">다른 ᄃᆡ 나지 아니ᄒᆞ야 ᄒᆞᄂᆞᆫ 말이다</sent>
+</letter>
+
+<img n="094">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/094.jpg</img>
+<letter n="094" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1885~1886년">
+<sent type="main" lang="kor" page="094" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="094" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="094" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="094" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="094" n="05">오ᄂᆞᆯ 일긔 ᄆᆡ오 쳥ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="094" n="06">츙경이ᄂᆞᆫ 잘 자고 무탈ᄒᆞᆫ 일 든든ᄒᆞ다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="094" n="07">ᄎᆞᄎᆞ 송신이 ᄉᆔ워 오니 긔특긔특ᄒᆞ다</sent><!--뒤에 오는 'ᄎᆞ'와 '긔특'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="094" n="08">덕니ᄂᆞᆫ 졔 쳐 보려 나간다 ᄒᆞ드니 무셩무취이 가스니 괴샹ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="094" n="09">작일 요젼을 보니 오ᄂᆞᆯ 요와 왕셕챵이가 븍경으로 가 공친왕과 당도 졔쳐의 원의 말을 ᄒᆞᆫ다 ᄒᆞ얏스니</sent>
+<sent type="main" lang="kor" page="094" n="10">ᄒᆞ회가 엇지 될지 굼굼ᄒᆞ고</sent><!--뒤에 오는 '굼'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="094" n="11">니홍장이 마건츙이게 편지ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="094" n="12">원의 뎌ᄅᆞᆯ 가라 ᄒᆞ니 마다ᄒᆞᆫ다 ᄒᆞ니 무ᄉᆞᆫ 동졍이 잇ᄂᆞᆫ 모양이니 ᄒᆞ회가 ᄒᆞ여ᄒᆞᆯ지 조민ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="094" n="13">홍승목이ᄂᆞᆫ 샹소ᄒᆞ라 ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="094" n="14">광뉴ᄂᆞᆫ 그리ᄒᆞ라 ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="094" n="15">ᄃᆡ신은 병졍 일노 알외나 어ᄂᆞ ᄯᆡ 못 ᄒᆞ야 구ᄐᆞ여 그쳐로 번거ᄒᆞᆫ ᄯᆡ 일홈 요명ᄒᆞᆫ다 말이냐</sent>
+<sent type="main" lang="kor" page="094" n="16">가연ᄒᆞᆫ ᄉᆞ람이다</sent>
+</letter>
+
+<img n="095">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/095.jpg</img>
+<letter n="095" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="095" n="01">앗가ᄂᆞᆫ 쳥관 잔ᄎᆡ가 나진 쥴 알아드니 밤이라니</sent>
+<sent type="main" lang="kor" page="095" n="02">나ᄌᆡ 가셔 단녀오게 ᄒᆞ야라</sent>
+</letter>
+
+<img n="096">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/096.jpg</img>
+<letter n="096" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="096" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="096" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="096" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="096" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="096" n="05">오ᄂᆞᆯ 비도 지리ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="096" n="06">원관의ᄂᆞᆫ 가면 조케다</sent>
+<sent type="main" lang="kor" page="096" n="07">져ᄂᆞᆫ 엇더ᄒᆞᆫ든지 우리 민가ᄂᆞᆫ 쳥황 모ᄌᆞ ᄉᆡᆼ일의ᄂᆞᆫ 가 인ᄉᆞ 치ᄂᆞᆫ 일이 조흐니 가ᄂᆞᆫ 거시 조타</sent>
+</letter>
+
+<img n="097">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/097.jpg</img>
+<letter n="097" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="097" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="097" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="097" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="097" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="097" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="097" n="06">원예 일은 만만 가통ᄒᆞ다</sent><!--뒤에 오는 '만'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="097" n="07">쳐음 일은 니 군부가 잘못ᄒᆞᆫ 일이나 다시 작당ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="097" n="08">조관을 결박ᄒᆞ야 온 일은 범분이 극ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="097" n="09">도령이 금칙을 아니ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="097" n="10">무젼 변괴ᄅᆞᆯ ᄂᆡ여ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="097" n="11">시방 이런 긔강의 범분을 심상이 쳐치ᄒᆞ게ᄂᆞ냐</sent>
+</letter>
+
+<img n="098">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/098.jpg</img>
+<letter n="098" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1892년">
+<sent type="main" lang="kor" page="098" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="098" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="098" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="098" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 두통 각긔로 ᄆᆡ오 괴롭다</sent>
+<sent type="main" lang="kor" page="098" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="098" n="06">너ᄂᆞᆫ 인후 긔운이 긴ᄒᆞᆫ가 보니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="098" n="07">쳔진 젼보ᄂᆞᆫ ᄌᆞ셔이 보고</sent>
+<sent type="main" lang="kor" page="098" n="08">총셰무ᄉᆞᄂᆞᆫ 젼의ᄂᆞᆫ 보셧스나 져긔셔 츌쳑ᄒᆞᄂᆞᆫ 일이 분ᄒᆞ야 금번은 아니 보셧다</sent>
+<sent type="main" lang="kor" page="098" n="09">됴폐ᄂᆞᆫ 조션 ᄀᆡ국 오ᄇᆡᆨ일 년이라 ᄡᅳ게 잘ᄒᆞ마 ᄒᆞ얏스니 이ᄃᆡ로 젼보ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="098" n="10">회젼 보아 ᄌᆞ시 긔별ᄒᆞ야라</sent>
+</letter>
+
+<img n="099">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/099.jpg</img>
+<letter n="099" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1876~1895년">
+<sent type="main" lang="kor" page="099" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="099" n="02">이번의ᄂᆞᆫ 니호쳘이 아니면 간ᄌᆞ가 될 듯ᄒᆞ니 윤길구ᄂᆞᆫ 못 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="100">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/100.jpg</img>
+<letter n="100" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1891~1895년">
+<sent type="main" lang="kor" page="100" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="100" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="100" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="100" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="100" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="100" n="06">동경 젼보ᄂᆞᆫ 도모지 회젼 업고</sent>
+<sent type="main" lang="kor" page="100" n="07">작야 젼보ᄂᆞᆫ 젼단ᄒᆞ야 못 노코</sent>
+<sent type="main" lang="kor" page="100" n="08">일ᄉᆞᄂᆞᆫ 오ᄂᆞᆯ 담판ᄒᆞ얏다</sent>
+<sent type="main" lang="kor" page="100" n="09">동도ᄂᆞᆫ 젼단ᄒᆞ야 오ᄂᆞᆯ 젼보 못 보니 소식 못 드러다</sent>
+</letter>
+
+<img n="101">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/101.jpg</img>
+<letter n="101" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1894년">
+<sent type="main" lang="kor" page="101" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="101" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="101" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="101" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="101" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ ᄆᆡ오 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="101" n="06">쳥쥬 젼보ᄂᆞᆫ 앗가 보ᄂᆡ엿드니 보앗ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="101" n="07">츙쥬 영장은 ᄂᆡ이ᄒᆞ게다</sent>
+</letter>
+
+<img n="102">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/102.jpg</img>
+<letter n="102" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="75~1895년">
+<sent type="main" lang="kor" page="102" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="102" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="102" n="05">오ᄂᆞᆯ도 비시 ᄂᆡᆼ우 고이ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="102" n="06">드려보ᄂᆡᆫ 단ᄌᆞ와 와료 조ᄂᆞᆫ ᄌᆞ시 보앗다</sent>
+</letter>
+
+<img n="103">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/103.jpg</img>
+<letter n="103" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="103" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="103" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="103" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="103" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="103" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 츈풍이 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="103" n="06">드려보ᄂᆡᆫ 거ᄉᆞᆫ 보앗스나 어이 이쳐로 만히 ᄒᆞ얏ᄂᆞ냐 불안ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="103" n="07">너ᄂᆞᆫ 오ᄂᆞᆯ도 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="103" n="08">네 ᄃᆡᆨ은 좀 나흔지 굼굼ᄒᆞ다</sent><!--‘굼굼’의 뒤에 오는 '굼'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="104">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/104.jpg</img>
+<letter n="104" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="104" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="02">예ᄂᆞᆫ 샹후 종시 ᄒᆞᆫ가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지나 ᄒᆡ소로 ᄃᆡ단 괴롭다</sent>
+<sent type="main" lang="kor" page="104" n="05">드려보ᄂᆡᆫ 거ᄉᆞᆫ 보앗스나 어이 이리ᄒᆞ냐 불안ᄒᆞ기 측냥업다</sent>
+<sent type="main" lang="kor" page="104" n="06">오ᄂᆞᆯ도 온화ᄂᆞᆫ ᄒᆞ다</sent>
+</letter>
+
+<img n="105">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/105.jpg</img>
+<letter n="105" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="105" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ나 셩치 아니ᄒᆞᆫ 일 답답ᄒᆞ다</sent><!--‘든든’과 ‘답답’의 뒤에 오는 '든'과 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="105" n="02">예셔ᄂᆞᆫ 상후 문안 ᄒᆞᆫ가지오시고</sent>
+<sent type="main" lang="kor" page="105" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="105" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="105" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="105" n="06">흥양 관ᄌᆞᄂᆞᆫ ᄂᆡ일 일ᄌᆞᆨ 보ᄂᆡ게다</sent>
+</letter>
+
+<img n="106">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/106.jpg</img>
+<letter n="106" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="106" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="106" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="106" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="106" n="06">츙경이ᄂᆞᆫ 종시 ᄒᆞᆫ가지니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="07">각쳐 진헌과 네 진상 다 ᄌᆞᆯ 바쳐다 문임 졍ᄉᆞᄂᆞᆫ 그러 ᄒᆞ게다</sent>
+</letter>
+
+<img n="107">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/107.jpg</img>
+<letter n="107" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="107" n="01">글시 보고 긔별ᄒᆞᆫ 말은 보앗스나 아직 날지도 모ᄅᆞ고</sent>
+<sent type="main" lang="kor" page="107" n="02">ᄇᆞᆯ셔 집ᄉᆞ람 누가 말ᄒᆞ얏기 허락ᄒᆞ얏스니 못 되기 셩명 도로 보ᄂᆡᆫ다</sent>
+</letter>
+
+<img n="108">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/108.jpg</img>
+<letter n="108" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="108" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="108" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="108" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="108" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 쳬긔로 괴로오며</sent>
+<sent type="main" lang="kor" page="108" n="05">일긔 우셰 긴ᄒᆞ니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="108" n="06">이 문셔ᄂᆞᆫ 아모리 ᄒᆞ야도 몰념ᄒᆞ야 못 밧게시니 조토록 말ᄒᆞ고 보ᄂᆡ여라</sent>
+</letter>
+
+<img n="109">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/109.jpg</img>
+<letter n="109" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="109" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="109" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="109" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="109" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="109" n="05">오ᄂᆞᆯ도 일긔 풀니며</sent>
+<sent type="main" lang="kor" page="109" n="06">일젼 드러온 거ᄉᆞᆯ 못 보니 셥셥ᄒᆞ다</sent><!--‘셥셥’의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="109" n="07">금군 일은 슈히 취셔될 일 ᄒᆡᆼ이다</sent>
+<sent type="main" lang="kor" page="109" n="08">일젼 슈슈 이졔 회셔ᄒᆞᆫ다</sent><!--뒤에 오는 '슈'는 재점으로 표기되어 있음-->
+</letter>
+
+<img n="110">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/110.jpg</img>
+<letter n="110" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="110" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="110" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 작야부터 종야 종일 더욱 알코 디ᄂᆡ니 답답 괴롭다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110" n="05">오ᄂᆞᆯ도 일긔 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="110" n="06">금도ᄂᆞᆫ 그리ᄒᆞ게다</sent>
+</letter>
+
+<img n="111">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/111.jpg</img>
+<letter n="111" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="111" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="111" n="02">예ᄂᆞᆫ 샹후 ᄒᆞᆫ가지오시니 동동 초민ᄒᆞ며</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="111" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="111" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 슌 잠을 못 자니 괴로오며</sent>
+<sent type="main" lang="kor" page="111" n="05">너ᄂᆞᆫ 셩치도 아니ᄒᆞᆫᄃᆡ ᄉᆞ쳐의 셔결ᄒᆞ니 념녀 측냥업고</sent>
+<sent type="main" lang="kor" page="111" n="06">무시와 달나 작일 하직ᄒᆞ고 나간 후 심회 조치 아니ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="111" n="07">막빈 일은 아라보게다</sent>
+<sent type="main" lang="kor" page="111" n="08">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="112">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/112.jpg</img>
+<letter n="112" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="112" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="112" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지나 현긔로 괴롭다</sent>
+<sent type="main" lang="kor" page="112" n="05">오ᄂᆞᆯ 일긔 쳥ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="112" n="06">역과ᄂᆞᆫ ᄒᆞ나밧 못 ᄒᆞ게시니 그듕 ᄒᆞ나만 긔별ᄒᆞ야라</sent>
+</letter>
+
+<img n="113">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/113.jpg</img>
+<letter n="113" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="113" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="113" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="113" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="113" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="113" n="05">오ᄂᆞᆯ 일긔 쳥화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="113" n="06">별시ᄂᆞᆫ 공도다</sent>
+</letter>
+
+<img n="114">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/114.jpg</img>
+<letter n="114" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="114" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="114" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="114" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="114" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="114" n="05">오ᄂᆞᆯ도 일열이 극심ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="114" n="06">소포ᄂᆞᆫ ᄌᆞ시 보앗다</sent>
+<sent type="main" lang="kor" page="114" n="07">과거ᄂᆞᆫ ᄂᆡ일 보ᄂᆡ게다</sent>
+</letter>
+
+<img n="115">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/115.jpg</img>
+<letter n="115" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="115" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="115" n="02">원 쳔젼은 ᄒᆞ야 보게시나 함양은 보아야게다</sent>
+<sent type="main" lang="kor" page="115" n="03">금도ᄂᆞᆫ 훗 뎡ᄉᆞ의 ᄒᆞ게다</sent>
+</letter>
+
+<img n="116">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/116.jpg</img>
+<letter n="116" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="116" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="116" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="116" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ ᄆᆡ오 온화ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="116" n="06">오ᄂᆞᆯ 위ᄑᆡ 졔쥬ᄀᆞ지 되시니 영 챵ᄒᆞ다</sent>
+</letter>
+
+<img n="117">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/117.jpg</img>
+<letter n="117" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="117" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="117" n="02">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="117" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="117" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="117" n="05">비ᄂᆞᆫ ᄯᅩ 마의 잇스니 괴롭다</sent>
+<sent type="main" lang="kor" page="117" n="06">녜판은 산지ᄅᆞᆯ 낭패ᄒᆞ고 왓기 문외로 완졍ᄒᆞ랴 ᄒᆞ고 죄인을 ᄉᆞ득ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="117" n="07">져의 ᄉᆞᄉᆞ 혐의의 이런 작변을 이리ᄒᆞ니 졀분졀분ᄒᆞ다</sent><!--‘ᄉᆞᄉᆞ’, ‘졀분졀분’의 뒤에 오는 'ᄉᆞ'와 '졀분'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="117" n="08">긔여이 작쳐ᄅᆞᆯ ᄒᆞ야야 셜한을 ᄒᆞ게다</sent><!--‘ᄒᆞ야야’의 뒤에 오는 '야'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="117" n="09">향ᄂᆡ 염가 슈쇄 일노 다시 아라보아 긔별ᄒᆞ니 븍ᄇᆡᆨ의게 보ᄂᆡ여라</sent>
+</letter>
+
+<img n="118">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/118.jpg</img>
+<letter n="118" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1885~1895년">
+<sent type="main" lang="kor" page="118" n="01">글시 보고 든든ᄒᆞ나 긔 동졍이 슈샹ᄒᆞ니 답답ᄒᆞ다</sent><!--‘든든’과 ‘답답’의 뒤에 오는 '든'과 '답'은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="119">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/119.jpg</img>
+<letter n="119" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="119" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="119" n="02">예ᄂᆞᆫ 샹후 문안 종시 평복지 못ᄒᆞ시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="119" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="119" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지나 감긔와 잠 못 자기 ᄒᆞᆫ가지니 괴롭다</sent>
+<sent type="main" lang="kor" page="119" n="05">너ᄂᆞᆫ 오ᄂᆞᆯ 은명을 무러 집으로 갈 일 든든ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="119" n="06">예소ᄂᆞᆫ 의례이 ᄒᆞᆯ 일이나 셩의 불가이 아시니</sent>
+<sent type="main" lang="kor" page="119" n="07">남이 엇지ᄒᆞ나 ᄎᆞᄎᆞ 보고 ᄒᆞ지 예소 몬져 ᄒᆞᆯ 거ᄉᆞᆫ 업다</sent><!--‘ᄎᆞᄎᆞ’의 뒤에 오는 'ᄎᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="119" n="08">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+</letter>
+
+<img n="120">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/120.jpg</img>
+<letter n="120" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1881~1895년">
+<sent type="main" lang="kor" page="120" n="01">글시 보고 션교관은 츈방 듕의셔나 소론이나 ᄒᆞᆯ 듯ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="120" n="02">뎡부 초긔 말은 알외여 보게다</sent>
+<sent type="main" lang="kor" page="120" n="03">소ᄒᆡᆼ들은 괘심ᄒᆞ나 네가 득담ᄒᆞᄂᆞᆫ 일이 부졀업다</sent>
+</letter>
+
+<img n="121">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/121.jpg</img>
+<letter n="121" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1885~1895년">
+<sent type="main" lang="kor" page="121" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="121" n="02">예ᄂᆞᆫ 샹후 문안 종시 평복지 못ᄒᆞ오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="121" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="121" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="121" n="05">오ᄂᆞᆯ 일긔도 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="121" n="06">너의 ᄌᆞ친긔셔ᄂᆞᆫ 그러ᄐᆞᆺ 편치 아니ᄒᆞ시니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="121" n="07">향항 젼보ᄂᆞᆫ 옥ᄉᆞᄂᆞᆫ 종용 구쳐ᄒᆞᄂᆞᆫ 일 너 드른 ᄃᆡ로 왕복ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="121" n="08">ᄇᆡᆨ통 셜합은 못 되면 큰 낭ᄑᆡ게시니 뉵노로라도 긔여이 올니라</sent>
+<sent type="main" lang="kor" page="121" n="09">ᄯᅩ 긔별ᄒᆞ야라</sent>
+</letter>
+
+<img n="122">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/122.jpg</img>
+<letter n="122" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="122" n="01">글시 보고 야간 잘 잔 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="02">예ᄂᆞᆫ 샹후 문안 한가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="04">예ᄂᆞᆫ ᄒᆞᆫ가지나 촉감이 되여 괴롭다</sent>
+<sent type="main" lang="kor" page="122" n="05">오ᄂᆞᆯ 일긔 한ᄂᆡᆼᄒᆞ다</sent>
+<sent type="main" lang="kor" page="122" n="06">칙ᄉᆞᄂᆞᆫ ᄌᆡ명일 나간다 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="123">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/123.jpg</img>
+<letter n="123" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1888~1894년">
+<sent type="main" lang="kor" page="123" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="123" n="02">예ᄂᆞᆫ 샹후 졔졀 ᄒᆞᆫ가지오시니 동동ᄒᆞ고</sent><!--‘동동’의 뒤에 오는 '동'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="123" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="123" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="123" n="05">오ᄂᆞᆯ 일긔ᄂᆞᆫ ᄂᆡᆼᄂᆡᆼᄒᆞ다</sent><!--뒤에 오는 'ᄂᆡᆼ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="123" n="06">이 방문ᄃᆡ로 ᄒᆞ면 음증의 신효타 ᄒᆞ니 이ᄃᆡ로 약ᄒᆞ야라</sent>
+<sent type="main" lang="kor" page="123" n="07">통위영 셔리 일은 알외여 보게다</sent>
+</letter>
+
+<img n="124">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/124.jpg</img>
+<letter n="124" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="124" n="01">글시 보고 야간 무탈ᄒᆞᆫ 일 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="124" n="03">동궁 졔졀 ᄐᆡ평ᄐᆡ평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘ᄐᆡ평ᄐᆡ평ᄒᆞ시니’와 ‘츅슈츅슈ᄒᆞ며’의 뒤에 오는 'ᄐᆡ평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="04">나ᄂᆞᆫ ᄒᆞᆫ가지다</sent>
+<sent type="main" lang="kor" page="124" n="05">오ᄂᆞᆯ 일긔도 극열이다</sent>
+<sent type="main" lang="kor" page="124" n="06">셰ᄐᆡᄂᆞᆫ 그런 것 ᄒᆞ다 잘못ᄒᆞ면 호조의 말 드를가 념녀오</sent>
+<sent type="main" lang="kor" page="124" n="07">ᄯᅩᄂᆞᆫ 올은 호조의셔 누구ᄅᆞᆯ 보ᄂᆡᆫ다 ᄒᆞ드라</sent>
+</letter>
+
+<img n="125">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/125.jpg</img>
+<letter n="125" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="125" n="01">글시 보고 든든ᄒᆞ나</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="125" n="02">셩치 못ᄒᆞ니 답답ᄒᆞ나</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="125" n="03">ᄃᆡ단치나 아니ᄒᆞ냐</sent>
+<sent type="main" lang="kor" page="125" n="04">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="125" n="05">동궁 졔졀 태평태평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--뒤에 오는 '태평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="125" n="06">나ᄂᆞᆫ 그ᄉᆞ이 좀 낫드니 오뉵 일ᄌᆡ나 도로 셩치 아니ᄒᆞ니 괴롭다</sent>
+<sent type="main" lang="kor" page="125" n="07">일긔ᄂᆞᆫ 오ᄂᆞᆯ도 ᄆᆡ우 온화ᄒᆞ다</sent>
+</letter>
+
+<img n="126">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/126.jpg</img>
+<letter n="126" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="126" n="01">글시 보고 무탈ᄒᆞ니 든든ᄒᆞ다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="02">예난 샹후 문안 태평ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="126" n="03">동궁 졔졀 태평ᄒᆞ오신니 츅슈츅슈ᄒᆞ며</sent><!--뒤에 오는 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="04">나ᄂᆞᆫ 종시 낫지 아니ᄒᆞ니 괴롭다</sent>
+<sent type="main" lang="kor" page="126" n="05">훈샹 일은 긔ᄃᆡ 두고 ᄂᆡ지 아니ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="126" n="06">강게셔 온 거산 ᄌᆞ시 보아ᄡᅳ나 너모 과다ᄒᆞ니 블안ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="126" n="07">요ᄉᆞ이 젼졍ᄋᆡ ᄆᆡ우 웅ᄉᆡᆨᄒᆞ드니 거용ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="126" n="08">나ᄂᆞᆫ ᄂᆡ일 피졉으로 만경젼으로 가랴 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="126" n="09">일긔 일일 악ᄒᆞ니 답답ᄒᆞ다</sent><!--뒤에 오는 '일'과 '답’은 재점으로 표기되어 있음-->
+</letter>
+
+<img n="127">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/127.jpg</img>
+<letter n="127" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1885~1891년">
+<sent type="main" lang="kor" page="127" n="01">글시 보고 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="127" n="02">야간 잘 자고</sent>
+<sent type="main" lang="kor" page="127" n="03">무탈ᄒᆞᆫ 일 다ᄒᆡᆼᄒᆞ고</sent>
+<sent type="main" lang="kor" page="127" n="04">예ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="127" n="05">동궁 졔졀 태평ᄒᆞ시니 츅슈ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="127" n="06">나ᄂᆞᆫ 체ᄒᆞ여 신긔 ᄆᆡ우 거복ᄒᆞ여 괴로이 지낸다</sent>
+<sent type="main" lang="kor" page="127" n="07">오ᄂᆞᆯ 비ᄂᆞᆫ 오시나 츌환궁 태평이 ᄒᆞ와 겨오시니 츅슈ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="127" n="08">오ᄂᆞᆯ 소비가 일ᄌᆞᆨ 나려 드러올 줄 아라더니 못 드러오니 섭섭ᄒᆞ다</sent><!--뒤에 오는 '섭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="127" n="09">안종덕이ᄂᆞᆫ 쳔젼ᄒᆞᄀᆡᆺ다</sent>
+</letter>
+
+<img n="128">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/128.jpg</img>
+<letter n="128" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1880~1895년">
+<sent type="main" lang="kor" page="128" n="01">글시 보고 든든ᄒᆞ고</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="02">신샹 무탈이 디내ᄂᆞᆫ 일 든든 깃브다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="03">여긔셔ᄂᆞᆫ 샹후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="128" n="04">동궁 졔졀 태평ᄒᆞ시니 츅슈ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="128" n="05">나ᄂᆞᆫ 그동안 담체로 졍신업시 디내다가</sent>
+<sent type="main" lang="kor" page="128" n="06">어제오ᄂᆞᆯ이야 조금 나흐나 시훤치 아니ᄒᆞ니 괴롭다</sent>
+<sent type="main" lang="kor" page="128" n="07">셩기운이난 ᄇᆞᆯ셔 은 이쳔 냥을 어더 주어 겨오신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="128" n="08">아딕 모르고 그리ᄒᆞᄂᆞᆫ가 보다</sent>
+</letter>
+
+<img n="129">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/129.jpg</img>
+<letter n="129" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="129" n="01">글시 보고 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="129" n="02">야간 신상 블평ᄒᆞᆫ가 보니 궁금ᄒᆞ기 층냥업ᄉᆞ며</sent>
+<sent type="main" lang="kor" page="129" n="03">예ᄂᆞᆫ 상후 문안 만안ᄒᆞᄋᆞ오시고</sent>
+<sent type="main" lang="kor" page="129" n="04">동궁 졔졀 태평ᄒᆞ오시니 츅슈츅슈ᄒᆞ며</sent><!--‘츅슈츅슈’의 뒤에 오는 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="129" n="05">예ᄂᆞᆫ 쟉일 빗치고 몸이 두로 아푸다</sent>
+<sent type="main" lang="kor" page="129" n="06">드려보ᄂᆡᆫ 단ᄌᆞᄂᆞᆫ ᄌᆞ셔히 보아스며</sent>
+<sent type="main" lang="kor" page="129" n="07">밤의 잘 자기 조인다</sent>
+</letter>
+
+<img n="130">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/130.jpg</img>
+<letter n="130" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1875~1895년">
+<sent type="main" lang="kor" page="130" n="01">글시 보고 든든ᄒᆞ다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="130" n="02">일긔 갈ᄉᆞ록 치운ᄃᆡ 신샹 무탈이 디내ᄂᆞᆫ 일 깃브다</sent>
+<sent type="main" lang="kor" page="130" n="03">여긔셔ᄂᆞᆫ 샹후 문안 만안ᄒᆞᄋᆞ오시고</sent>
+<sent type="main" lang="kor" page="130" n="04">동궁 졔졀 태평ᄒᆞ시니 츅슈ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="130" n="05">나ᄂᆞᆫ 그동안 담체을 ᄒᆞ여 졍신 모르고 디내다가</sent>
+<sent type="main" lang="kor" page="130" n="06">오ᄂᆞᆯ이야 졍신이 조금 나시나</sent>
+<sent type="main" lang="kor" page="130" n="07">미음도 슌하가 못 되고 ᄌᆞ로 체ᄒᆞ니 괴롭기 측냥업다</sent>
+<sent type="main" lang="kor" page="130" n="08">긔별ᄒᆞᆫ 말은 그ᄃᆡ로 ᄒᆞ려 ᄒᆞᆫ다</sent>
+</letter>
+
+<img n="131">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/131.jpg</img>
+<letter n="131" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1885~1895년">
+<sent type="main" lang="kor" page="131" n="01">이번 뎡원 셔리 귀향 간 ᄃᆡ의 안의셔 ᄡᅳ게시니</sent>
+<sent type="main" lang="kor" page="131" n="02">ᄃᆡ ᄂᆡ지 말고 아직 두라고 도령의게 긔별ᄒᆞ여라</sent>
+</letter>
+
+<img n="132">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/132.jpg</img>
+<letter n="132" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1888년">
+<sent type="main" lang="kor" page="132" n="01">글시 보고 든든ᄒᆞ다</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="132" n="02">여긔ᄂᆞᆫ 졍원 당호의셔 실화가 되여 너모 놀나더니</sent>
+<sent type="main" lang="kor" page="132" n="03">즉시 잡히여 그만ᄒᆞ니 만ᄒᆡᆼ이다</sent>
+</letter>
+
+<img n="133">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/133.jpg</img>
+<letter n="133" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1882~1895년">
+<sent type="main" lang="kor" page="133" n="01">봉셔 보고 잘 디ᄂᆡ니 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="133" n="02">예ᄂᆞᆫ 상후 문안 안녕ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="133" n="03">동궁 졔졀 태평태평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘태평태평ᄒᆞ시니’와 뒤에 오는 '태평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="133" n="04">나ᄂᆞᆫ 종시 시훤치 아니ᄒᆞ니 답답ᄒᆞ다</sent><!--‘답답’의 뒤에 오는 '답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="133" n="05">됴동희ᄂᆞᆫ 그러치 못ᄒᆞᆫ ᄉᆞ긔가 잇ᄂᆞᆫ 것ᄉᆞᆯ 엇디ᄒᆞ게ᄂᆞᆫ냐</sent>
+<sent type="main" lang="kor" page="133" n="06">이쳐령이ᄂᆞᆫ 혜랑은 벌셔 낫다 ᄒᆞ니 못 ᄒᆞ여 준다</sent>
+</letter>
+
+<img n="134">https://kohico.kr/_media/image/19C-20C_여흥민씨민영소가명성황후언간/134.jpg</img>
+<letter n="134" sender="명성황후(고모)" writer="명성황후(고모)" receiver="민영소(조카)" year="1884~1885년">
+<sent type="main" lang="kor" page="134" n="01">봉셔 보고 잘 디ᄂᆡ니 든든ᄒᆞ며</sent><!--‘든든’의 뒤에 오는 '든'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="134" n="02">예ᄂᆞᆫ 상후 문안 만안ᄒᆞ오시고</sent>
+<sent type="main" lang="kor" page="134" n="03">동궁 졔졀 태평태평ᄒᆞ시니 츅슈츅슈ᄒᆞ며</sent><!--‘태평태평’과 ‘츅슈츅슈’의 뒤에 오는 '태평'과 ‘츅슈’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="134" n="04">나ᄂᆞᆫ 담쳬긔로 종시 ᄭᆡᄭᅳᆺ디 못ᄒᆞ니 괴롭다</sent>
+<sent type="main" lang="kor" page="134" n="05">변셕운이ᄂᆞᆫ 알외여 보아야 알게시나 듀ᄉᆞ가 너모 만아 더러 주린다</sent>
+<sent type="main" lang="kor" page="134" n="06">ᄒᆞ오시니가 아마 못 될 듯ᄒᆞ다</sent>
+</letter>
+
+</doc>
+

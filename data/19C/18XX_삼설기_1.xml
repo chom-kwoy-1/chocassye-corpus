@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">삼설기</title>
+<title lang="chi">三說記</title>
+<full_name>삼설기</full_name>
+<nikl_name>삼설기_고소설판각본전집</nikl_name>
+<general_name>삼설기</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>고소설판각본전집1</version>
+<volume n="1"/><!--상, 2, 3으로 분권되어 있으나 편의상 '상'을 '1'로 제시함.-->
+<author>?</author>
+<date>19세기</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>삼설기 古小說板刻本全集1</title>
+<pubPlace>?</pubPlace><!---이 텍스트는 국립국어연구원 작업 내용 유지, 파리 동양어학교 소장본 권지상과 권지이를 3권으로 분권한 오한근 소장본임-->
+<publisher>羅孫書屋</publisher> 
+<date>1973</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>23/07/04</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/15</date>
+<respStmt>
+<resp>입력자</resp><name>강서현</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="권지상(17장본),1a">
+<img n="권지상(17장본),1a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,1a.jpg</img>
+<sent type="title" lang="kor" page="1a" n="01">삼셜긔 권지샹</sent>
+<sent type="title2" lang="kor" page="1a" n="02">삼ᄉᆡ횡입황쳔긔</sent>
+<sent type="main" lang="kor" page="1a" n="03">녯적 낙양 동촌의 셰 션ᄇᆡ 이시되</sent>
+<sent type="main" lang="kor" page="1a" n="04">긔질이 동탕ᄒᆞ고 풍ᄎᆡ 헌앙ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="1a" n="05">문장은 니두ᄅᆞᆯ 압두ᄒᆞ고 필법은 왕조ᄅᆞᆯ 묘시ᄒᆞ는지라</sent>
+<sent type="main" lang="kor" page="1a" n="06">한가지로 과공을 힘쓰니</sent>
+<sent type="main" lang="kor" page="1a" n="07">맛ᄎᆞᆷ 방츈호시졀ᄅᆞᆯ 당ᄒᆞ여 쥬효ᄅᆞᆯ 가지고</sent>
+<sent type="main" lang="kor" page="1a" n="08">등님 ᄇᆡᆨ악산ᄒᆞ여 부감장안도 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="1a" n="09">만학쳔봉 젹젹ᄒᆞᆫ듸 간슈ᄂᆞᆫ 잔잔ᄒᆞ고</sent><!--각각 '젹젹', '잔잔'의 뒤에 오는 '젹', '잔'은 재점 표기.-->
+<sent type="main" lang="kor" page="1a" n="10">십니강산 버들닙흔 광풍의 흣날니고</sent>
+<sent type="main" lang="kor" page="1a" n="11">황금갓튼 ᄭᅬ고리ᄂᆞᆫ 구십츈광을 희롱ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="1a" n="12">원앙ᄉᆡ 비취금은 이리져리 왕ᄂᆡᄒᆞ며</sent>
+<sent type="main" lang="kor" page="1a" n="13">각ᄉᆡᆨ 초목 무셩ᄒᆞᆫ듸 창송은 낙낙ᄒᆞ고 녹죽은 의의ᄒᆞ며</sent><!--각각 '낙낙', '의의'의 뒤에 오는 '낙', '의'는 재점 표기.-->
+<sent type="main" lang="kor" page="1a" n="14">산유ᄌᆞ 황양목 측ᄇᆡᆨ 층층 들믜목은 ᄉᆞ변의 삼녈ᄒᆞ고</sent><!--'층층' 뒤에 오는 '층'은 재점 표기.-->
+<sent type="main" lang="kor" page="1a" n="15">니화 도화 두견화며 각ᄉᆡᆨ ᄭᅩᆺ치 ᄌᆞ욱ᄒᆞᆫ 곳의</sent>
+<sent type="main" lang="kor" page="1a" n="16">만장폭포 맑은 물은 이 골 져 골 합류ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="1a" n="17">구뷔구뷔 출넝 흘너가니</sent><!--'구뷔구뷔'에서 뒤에 오는 '구뷔'는 재점 표기.-->
+<sent type="main" lang="kor" page="1a-1b" n="18">별건곤이 여긔로다</sent><!--건^곤-->
+</pages>
+
+<pages n="권지상(17장본),1b">
+<img n="권지상(17장본),1b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,1b.jpg</img>
+<sent type="main" lang="kor" page="1b" n="01">삼인이 ᄒᆞᆫ가지로 경ᄀᆡᄅᆞᆯ 완상ᄒᆞ며 흥치 도도ᄒᆞ여</sent><!--'도도'의 뒤에 오는 '도'는 재점 표기.-->
+<sent type="main" lang="kor" page="1b" n="02">금쥰미쥬와 옥반가효ᄅᆞᆯ 니ᄎᆔᄒᆞ고</sent>
+<sent type="main" lang="kor" page="1b" n="03">삼인이 다 곽난ᄒᆞ여 불셩인ᄉᆞᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="1b" n="04">이ᄯᆡ 디부 염나ᄃᆡ왕이 ᄂᆞᆯ마다 ᄎᆡᄉᆞᄅᆞᆯ 노화</sent>
+<sent type="main" lang="kor" page="1b" n="05">ᄉᆞᄅᆞᆷ 일쳔식 잡아 가더니</sent>
+<sent type="main" lang="kor" page="1b" n="06">시절이 ᄐᆡ평ᄒᆞ여 윤감 알는 어린ᄋᆞᄒᆡ ᄒᆞᆫ나토 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="1b" n="07">ᄉᆞᄌᆞ들이 두루 도라다니다가 ᄇᆡᆨ악산의 올ᄂᆞ가ᄆᆡ</sent>
+<sent type="main" lang="kor" page="1b" n="08">삼인이 곽난ᄒᆞ여 반ᄉᆡᆼ반ᄉᆞ ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="1b" n="09">셰 놈이 의논ᄒᆞ되 우리들이 왕명을 ᄇᆞᄃᆞ ᄆᆡ일 ᄉᆞ람 쳔식 잡아 가더니</sent>
+<sent type="main" lang="kor" page="1b" n="10">오ᄂᆞᆯ은 디부의 드러가 경과거리도 업스니</sent>
+<sent type="main" lang="kor" page="1b" n="11">져 셰 놈이 죽든 아냐스ᄂᆞ 경과거리야 못ᄒᆞ랴 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="1b" n="12">쇠ᄎᆡ로 두다려 디부로 잡아 드려가니</sent>
+<sent type="main" lang="kor" page="1b" n="13">염나왕 압ᄒᆡ셔 최판관이 초봉초ᄅᆞᆯ 밧ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="1b" n="14">삼인이 ᄋᆡ걸 왈</sent>
+<sent type="main" lang="kor" page="1b" n="15">우리 등이 ᄋᆡᄆᆡ히 잡혀 왓ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="1b" n="16">덕분의 ᄉᆞ화ᄒᆞ여 주시면</sent>
+<sent type="main" lang="kor" page="1b" n="17">억만 냥 명문을 ᄒᆞ여 드리리이다</sent><!--'드리리이다'의 뒤에 오는 '리'는 재점 표기.-->
+<sent type="main" lang="kor" page="1b-2a" n="18">최판관이 갈오ᄃᆡ</sent><!--관^이-->
+</pages>
+
+<pages n="권지상(17장본),2a">
+<img n="권지상(17장본),2a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,2a.jpg</img>
+<sent type="main" lang="kor" page="2a" n="01">디부의ᄂᆞᆫ 환젼길도 업고 신편이 업ᄂᆞ니라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="2a" n="02">념왕 압ᄒᆡ 나아가니 념왕 왈</sent>
+<sent type="main" lang="kor" page="2a" n="03">지부의ᄂᆞᆫ ᄉᆞᄉᆡᆼ공ᄉᆞ가 소즁ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="2a" n="04">셰 놈의 호ᄑᆡᄅᆞᆯ ᄯᅵ히고</sent>
+<sent type="main" lang="kor" page="2a" n="05">거쥬 셩명을 분명이 아라 그르미 업게 ᄒᆞ라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="2a" n="06">ᄉᆡᆼᄉᆞ치부ᄎᆡᆨ을 ᄂᆡ여 년죠ᄅᆞᆯ 상고ᄒᆞ라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="2a" n="07">최판관이 명을 ᄇᆞ다 ᄌᆞ시 상고ᄒᆞᆫ즉</sent>
+<sent type="main" lang="kor" page="2a" n="08">팔결 틀녀 십년 후의 잡아 올 ᄉᆞᄅᆞᆷ을 즈레 잡아 왓ᄂᆞᆫ지라</sent><!--‘팔’은 ‘판’의 잘못으로 보임.-->
+<sent type="main" lang="kor" page="2a" n="09">이의 최판관이 ᄃᆡ경ᄒᆞ여 이ᄃᆡ로 념왕긔 알외니</sent>
+<sent type="main" lang="kor" page="2a" n="10">념왕이 ᄯᅩᄒᆞᆫ 놀나 왈</sent>
+<sent type="main" lang="kor" page="2a" n="11">셰상의도 탐관오리 슈ᄌᆡ곡법ᄒᆞᄂᆞᆫ 거슬 각별 삷피ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="2a" n="12">ᄒᆞ믈며 디부의셔 공ᄉᆞ 그릇ᄒᆞᄂᆞᆫ 말이 그 엇지 되ᄂᆞᆫ 말이냐</sent>
+<sent type="main" lang="kor" page="2a" n="13">상뎨 념문이 지엄ᄒᆞ신듸</sent>
+<sent type="main" lang="kor" page="2a" n="14">만일 이 일이 현탈ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="2a" n="15">션ᄐᆡ후결은 즉기시의 날 거시니</sent>
+<sent type="main" lang="kor" page="2a" n="16">이 압ᄒᆡ 념녀무궁ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="kor" page="2a" n="17">ᄲᆞᆯ니 ᄂᆞ여 보ᄂᆡ라 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="2a" n="18">삼 인이 이 말ᄅᆞᆯ 듯고 ᄃᆡ희ᄒᆞ여</sent><!--'삼 인이 이'에서 뒤에 오는 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="2a" n="19">념왕 압ᄒᆡ 나아가 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="2a" n="20">인간의 조히 잇ᄂᆞᆫ ᄉᆞᄅᆞᆷ을</sent>
+<sent type="main" lang="kor" page="2a" n="21">지악ᄒᆞᆫ ᄎᆡᄉᆡᄅᆞᆯ 보ᄂᆡ여 잡아드려 올 졔</sent>
+<sent type="main" lang="kor" page="2a-2b" n="22">잡아드려 올 졔 열 나흘 길이오니</sent><!--졔 ^ 열-->
+</pages>
+
+<pages n="권지상(17장본),2b">
+<img n="권지상(17장본),2b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,2b.jpg</img>
+<sent type="main" lang="kor" page="2b" n="01">이졔 도라가라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="2b" n="02">왕환이 이십팔일이라</sent><!--'왕환이 이'에서 뒤에 오는 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="2b" n="03">그 ᄉᆞ이 칠일장을 ᄒᆞ여슬지</sent>
+<sent type="main" lang="kor" page="2b" n="04">구일장을 ᄒᆞ여슬지</sent>
+<sent type="main" lang="kor" page="2b" n="05">셕 달 졍구ᄒᆞᆯ 니ᄂᆞᆫ 만무ᄒᆞ오ᄆᆡ</sent>
+<sent type="main" lang="kor" page="2b" n="06">발셔 영장ᄒᆞ여 시신이 업슬 거시니</sent>
+<sent type="main" lang="kor" page="2b" n="07">혼ᄇᆡᆨ을 어듸다가 붓치라 ᄒᆞ시ᄂᆞ잇가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="2b" n="08">발악이 비경ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="2b" n="09">념왕이 드르ᄆᆡ 언즉시얘라</sent>
+<sent type="main" lang="kor" page="2b" n="10">이의 달ᄂᆡ여 왈</sent>
+<sent type="main" lang="kor" page="2b" n="11">그러ᄒᆞ면 아모 ᄌᆡ상가의 네 가문과 갓튼 집의 졈지ᄒᆞ여 줄 거시니 도로 나가라</sent>
+<sent type="main" lang="kor" page="2b" n="12">삼 인이 다시 알외되</sent>
+<sent type="main" lang="kor" page="2b" n="13">조히 잇ᄂᆞᆫ ᄉᆞᄅᆞᆷ을 잡아다가</sent>
+<sent type="main" lang="kor" page="2b" n="14">오거라 가거라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="2b" n="15">응당 그 갑시 이슬지라</sent>
+<sent type="main" lang="kor" page="2b" n="16">소ᄉᆡᆼ 등의 원ᄃᆡ로 졈지ᄒᆞ여 주소셔</sent>
+<sent type="main" lang="kor" page="2b" n="17">념왕이 소 왈</sent>
+<sent type="main" lang="kor" page="2b" n="18">너희 소원ᄃᆡ로 알외라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="2b" n="19">삼인이 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="2b" n="20">소원이 슈다ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="2b" n="21">문ᄌᆞ로 알외리이다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="2b" n="22">일장 소지ᄅᆞᆯ 밧드러 올니니</sent><!--'올니니'에서 뒤에 오는 '니'는 재점 표기.-->
+<sent type="main" lang="kor" page="2b" n="23">념왕이 ᄇᆞ다보ᄆᆡ 갈와스되</sent>
+<sent type="main" lang="kor" page="2b" n="24">○우근진소지의단은 의신 소원을 셰셰히 셩문ᄒᆞ와</sent><!--'셰셰히'에서 뒤에 오는 '셰'는 재점 표기.-->
+<sent type="main" lang="kor" page="2b" n="25">텬디 만물 ᄉᆞᄉᆡᆼ도찰명졍지하의 알외ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="2b-3a" n="26">ᄃᆡ져 출어셰상ᄒᆞ여</sent><!--ᄃᆡ^져-->
+</pages>
+
+<pages n="권지상(17장본),3a">
+<img n="권지상(17장본),3a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,3a.jpg</img>
+<sent type="main" lang="kor" page="3a" n="01">츙냥 ᄌᆞ손이 되여</sent>
+<sent type="main" lang="kor" page="3a" n="02">남즁 일ᄉᆡᆨ 호풍신의 용ᄆᆡᆼ이 졀뉸ᄒᆞᆫ 영웅으로 ᄉᆞ군무은ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="3a" n="03">ᄉᆞ친막위는 ᄃᆡ장부의 ᄒᆞᆯ 일인 줄 안 연후의</sent>
+<sent type="main" lang="kor" page="3a" n="04">쳥텬ᄇᆡᆨ일 확호소명은 심경이오</sent>
+<sent type="main" lang="kor" page="3a" n="05">ᄐᆡ산고악 하ᄒᆡ고ᄃᆡ는 긔상이오</sent>
+<sent type="main" lang="kor" page="3a" n="06">북ᄒᆡ남명 호무ᄋᆡ안은 국냥이오</sent>
+<sent type="main" lang="kor" page="3a" n="07">광풍졔월 졍무진ᄋᆡ는 흉금이오</sent>
+<sent type="main" lang="kor" page="3a" n="08">봉비쳔인긔불탁속은 념의로다</sent>
+<sent type="main" lang="kor" page="3a" n="09">홍명구소 비필함노는 경셰로다</sent>
+<sent type="main" lang="kor" page="3a" n="10">화란츈셩 만화방창은 용ᄉᆡᆨ이오</sent>
+<sent type="main" lang="kor" page="3a" n="11">셜만궁학 고송특닙은 지졀이라</sent>
+<sent type="main" lang="kor" page="3a" n="12">이 여덟 가지ᄅᆞᆯ 다 겸ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="3a" n="13">쥬역 일거 감즁년 니허즁과</sent>
+<sent type="main" lang="kor" page="3a" n="14">진하련 ᄐᆡ상졀과 건삼년 곤삼졀과</sent>
+<sent type="main" lang="kor" page="3a" n="15">간상년 손하졀과 갑을병뎡무긔경신임계와</sent>
+<sent type="main" lang="kor" page="3a" n="16">ᄌᆞ츅인묘진□오미신유슐ᄒᆡᄅᆞᆯ 아라</sent>
+<sent type="main" lang="kor" page="3a" n="17">뉵십ᄉᆞ괘ᄅᆞᆯ 푸러 ᄂᆡ여</sent>
+<sent type="main" lang="kor" page="3a" n="18">텬지 도슈ᄅᆞᆯ 안 연후의</sent>
+<sent type="main" lang="kor" page="3a" n="19">텬문 디리 둔갑 장신 ᄐᆡ공 병법</sent>
+<sent type="main" lang="kor" page="3a" n="20">뉵도 삼약 무경 칠셔ᄅᆞᆯ 달통ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="3a-3b" n="21">치빙궁마 익인 후의</sent><!--후^의-->
+</pages>
+
+<pages n="권지상(17장본),3b">
+<img n="권지상(17장본),3b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,3b.jpg</img>
+<sent type="main" lang="kor" page="3b" n="01">ᄐᆡ평시졀 즈음인데</sent>
+<sent type="main" lang="kor" page="3b" n="02">요순 갓튼 님군을 맛ᄂᆞ</sent>
+<sent type="main" lang="kor" page="3b" n="03">조년금방괘명ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="3b" n="04">무과출신 조흘시고</sent>
+<sent type="main" lang="kor" page="3b" n="05">션젼관 비변낭 도총 경녁 훈련부졍으로</sent>
+<sent type="main" lang="kor" page="3b" n="06">우후영장 방어ᄉᆞ와 슈ᄉᆞ 병ᄉᆞ 통졔ᄉᆞ로 드러와셔</sent>
+<sent type="main" lang="kor" page="3b" n="07">도감즁군 금군별장 포도ᄃᆡ장 총융ᄉᆞ 냥국ᄃᆡ장 훈련ᄃᆡ장 병조판셔</sent>
+<sent type="main" lang="kor" page="3b" n="08">ᄃᆡᄉᆞ마 ᄃᆡ장군을 ᄒᆞ온 후</sent>
+<sent type="main" lang="kor" page="3b" n="09">말만 ᄒᆞᆫ ᄃᆡ장인을 요하의 빗기 ᄎᆞ고</sent>
+<sent type="main" lang="kor" page="3b" n="10">금단의 놉히 안져</sent>
+<sent type="main" lang="kor" page="3b" n="11">오방 긔치 둘너 ᄭᅩᆺ고</sent>
+<sent type="main" lang="kor" page="3b" n="12">쥬라 영각 ᄎᆔᄐᆡᄒᆞ며</sent>
+<sent type="main" lang="kor" page="3b" n="13">삼군ᄉᆞ명 손의 쥐고</sent>
+<sent type="main" lang="kor" page="3b" n="14">슉졍ᄑᆡ ᄂᆡ여 ᄭᅩᆺ고</sent>
+<sent type="main" lang="kor" page="3b" n="15">표미긔 두루면셔</sent>
+<sent type="main" lang="kor" page="3b" n="16">만마쳔병을 지휘간의 너허 두고</sent>
+<sent type="main" lang="kor" page="3b" n="17">좌작진퇴ᄒᆞ며 장검을 ᄲᆞ혀 들고</sent>
+<sent type="main" lang="kor" page="3b" n="18">우쥬ᄅᆞᆯ 흔들 졔</sent>
+<sent type="main" lang="kor" page="3b" n="19">위엄이 ᄉᆞᄒᆡ의 진동ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="3b" n="20">ᄃᆡ장부의 쾌ᄉᆡ오니</sent>
+<sent type="main" lang="kor" page="3b" n="21">복걸참샹이시후의 즉츌인간ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="3b" n="22">의소원시ᄒᆡᆼᄉᆞᄅᆞᆯ 쳔만 복축ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="3b" n="23">명부 쳐분이라 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="3b" n="24">념왕이 간필의 ᄎᆞ례로 올니라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="3b-4a" n="25">둘ᄌᆡ 션ᄇᆡ ᄯᅩ 소지ᄅᆞᆯ 올니니 ᄒᆞ여스되</sent><!--ᄅᆞᆯ ^ 올--><!--'올니니'에서 뒤에 오는 '니'는 재점 표기.-->
+</pages>
+
+<pages n="권지상(17장본),4a">
+<img n="권지상(17장본),4a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,4a.jpg</img>
+<sent type="main" lang="kor" page="4a" n="01">○우근진소지의단은 의신의 평ᄉᆡᆼ 소원은</sent>
+<sent type="main" lang="kor" page="4a" n="02">츌어셰상ᄒᆞ여 명가 ᄌᆞ뎨되어</sent>
+<sent type="main" lang="kor" page="4a" n="03">총명이 특이ᄒᆞ고 ᄌᆡ긔 과인ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4a" n="04">션풍도골 션ᄇᆡ로셔</sent>
+<sent type="main" lang="kor" page="4a" n="05">녜긔 츈츄 ᄉᆞ셔삼경 외가셔와</sent>
+<sent type="main" lang="kor" page="4a" n="06">강목통감 ᄌᆞ치통감 고금녁ᄃᆡᄅᆞᆯ 박남ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4a" n="07">시부ᄅᆞᆯ 읇흐면셔 일ᄃᆡ 문장 유명ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4a" n="08">과거마다 휘장ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="4a" n="09">승부초시 이삼 ᄎᆞ의</sent>
+<sent type="main" lang="kor" page="4a" n="10">진ᄉᆞ 장원 알셩 장원</sent>
+<sent type="main" lang="kor" page="4a" n="11">즉출뉵의 한님학ᄉᆞ 겸 쥬셔의 냥ᄉᆞ</sent>
+<sent type="main" lang="kor" page="4a" n="12">옥당 홍문 교리 지ᄂᆡᆫ 후의</sent>
+<sent type="main" lang="kor" page="4a" n="13">면졀 졍ᄌᆡᆼ 연관으로 ᄒᆞᆫ번 연명상소 올녀 보고</sent>
+<sent type="main" lang="kor" page="4a" n="14">암ᄒᆡᆼ어사 겸 팔도슌무ᄉᆞ로 셰상 물졍 염탐ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="4a" n="15">탐관오리 밝켜 ᄂᆡ여</sent>
+<sent type="main" lang="kor" page="4a" n="16">웅쥬거목 출도ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4a" n="17">봉고파츌 장계ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="4a" n="18">인민 거폐 더온 후의</sent>
+<sent type="main" lang="kor" page="4a" n="19">승일상ᄂᆡ 지ᄂᆞᆯ 길의</sent>
+<sent type="main" lang="kor" page="4a" n="20">금강산 영동구읍 관동팔경 구경ᄒᆞ고 드러와셔</sent>
+<sent type="main" lang="kor" page="4a" n="21">니조좌랑 ᄉᆞ인 검상 동벽 응고 당하 극망 다ᄒᆞᆫ 후의</sent>
+<sent type="main" lang="kor" page="4a" n="22">동부승지 당상ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4a-4b" n="23">당품 부졔학 이조참의</sent><!--이^조-->
+</pages>
+
+<pages n="권지상(17장본),4b">
+<img n="권지상(17장본),4b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,4b.jpg</img>
+<sent type="main" lang="kor" page="4b" n="01">ᄃᆡᄉᆞ셩 의쥬 부윤 동ᄂᆡ 부ᄉᆞ 강원 감ᄉᆞ 지ᄂᆡᆫ 후의 드러와셔</sent>
+<sent type="main" lang="kor" page="4b" n="02">경긔 감ᄉᆞ 슈어ᄉᆞ로 가선ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="4b" n="03">북경 ᄉᆞ신 다녀 와셔</sent>
+<sent type="main" lang="kor" page="4b" n="04">동경연 니조참판 비국당상 ᄃᆡ동당상 요임으로</sent>
+<sent type="main" lang="kor" page="4b" n="05">평시졔쥬 여러 가지 겸찰ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="4b" n="06">ᄌᆞ헌ᄃᆡ부 승품ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4b" n="07">ᄃᆡ졔학의 평안 감ᄉᆞ 지ᄂᆡᆫ 후의 드러와셔</sent>
+<sent type="main" lang="kor" page="4b" n="08">가산이 풍족ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="4b" n="09">ᄌᆞ뎨 질아 등을 효뎨 츙신 녜의 념치 교훈ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="4b" n="10">거가ᄒᆡᆼ낙 즐기다가</sent>
+<sent type="main" lang="kor" page="4b" n="11">판셔ᄅᆞᆯ 도돈 후의</sent>
+<sent type="main" lang="kor" page="4b" n="12">우참찬 좌참찬 물망으로</sent>
+<sent type="main" lang="kor" page="4b" n="13">병니조판셔ᄒᆞ고 건너와셔</sent>
+<sent type="main" lang="kor" page="4b" n="14">한셩 판윤 한가ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="4b" n="15">녜조판셔 ᄌᆡ국으로 호죠판셔 도라 안져</sent>
+<sent type="main" lang="kor" page="4b" n="16">금오당상 약방졔쥬 오군문ᄃᆡ장 다 지ᄂᆡᆫ 후의</sent>
+<sent type="main" lang="kor" page="4b" n="17">위국진츙ᄒᆞ며 니음양 슌ᄉᆞ시ᄒᆞ올 ᄌᆡ목으로</sent>
+<sent type="main" lang="kor" page="4b" n="18">인망이 도라 단망으로 복샹ᄒᆞ니
+<sent type="main" lang="kor" page="4b" n="19">ᄃᆡ광보국 슝녹ᄃᆡ부 의졍부 좌의졍의 군문졔쥬ᄅᆞᆯ 가지고</sent></sent>
+<sent type="main" lang="kor" page="4b" n="20">호위ᄃᆡ장 겸찰ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="4b" n="21">포폄좌긔 가올 졔</sent>
+<sent type="main" lang="kor" page="4b-5a" n="22">운문ᄃᆡ단 흑단녕의 압뒤 흉ᄇᆡ 쌍학이오</sent><!--단 ^ 흑-->
+</pages>
+
+<pages n="권지상(17장본),5a">
+<img n="권지상(17장본),5a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,5a.jpg</img>
+<sent type="main" lang="kor" page="5a" n="01">셔ᄯᅴ 아ᄅᆡ 명쇠 ᄎᆞ고</sent>
+<sent type="main" lang="kor" page="5a" n="02">ᄇᆡᆨ관 반녈 총독ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5a" n="03">거안 밧고 불너드려</sent>
+<sent type="main" lang="kor" page="5a" n="04">거슈 ᄌᆡᄇᆡ 츄창ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="5a" n="05">위엄 쳬통이 ᄌᆞ별ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5a" n="06">영화롭고 존즁ᄒᆞ미 인간의 졔일이라</sent>
+<sent type="main" lang="kor" page="5a" n="07">그리 조셔 봉조하ᄉᆞ</sent>
+<sent type="main" lang="kor" page="5a" n="08">괴장 년노 치ᄉᆞᄒᆞ미 평ᄉᆡᆼ 소원이오니</sent>
+<sent type="main" lang="kor" page="5a" n="09">참상이시후특위ᄒᆡᆼ하안 곳시 ᄉᆞ명부 쳐분이라 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="5a" n="10">념왕이 간필의 소지 두 장을</sent>
+<sent type="main" lang="kor" page="5a" n="11">의소원시ᄒᆡᆼ이라 젹여 주고</sent>
+<sent type="main" lang="kor" page="5a" n="12">뇽호방을 ᄎᆞ려 놋코</sent>
+<sent type="main" lang="kor" page="5a" n="13">문무관을 ᄂᆡᆫ 연후의</sent>
+<sent type="main" lang="kor" page="5a" n="14">소지 쳡년 감결ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5a" n="15">북두칠셩 삼ᄐᆡ뉵셩을 놉히 주어</sent>
+<sent type="main" lang="kor" page="5a" n="16">삼십삼텬 이십팔슈 뉵졍뉵갑 오방거쳐 ᄉᆞᄒᆡ뇽왕</sent>
+<sent type="main" lang="kor" page="5a" n="17">산신 토신 졔불졔텬 모든 나한 보살 뭇신 영긔 지위ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5a" n="18">금목슈화토 상ᄉᆡᆼ상극으로</sent>
+<sent type="main" lang="kor" page="5a" n="19">음양을 도와 ᄂᆡ여</sent>
+<sent type="main" lang="kor" page="5a" n="20">산쳔 졍긔ᄅᆞᆯ 모도와</sent>
+<sent type="main" lang="kor" page="5a" n="21">셔텬긔 ᄃᆡ요 상고ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5a" n="22">텬샹 텬하 ᄐᆡ공망일ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="5a-5b" n="23">각별히 조흔 ᄂᆞᆯ노 갈희여셔</sent><!--여^셔-->
+</pages>
+
+<pages n="권지상(17장본),5b">
+<img n="권지상(17장본),5b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,5b.jpg</img>
+<sent type="main" lang="kor" page="5b" n="01">ᄉᆡᆼ긔복덕 ᄉᆡᆼ월ᄉᆡᆼ일 ᄉᆞ쥬 무어 환도인간ᄒᆞ게</sent>
+<sent type="main" lang="kor" page="5b" n="02">급급여률녕ᄉᆞ파하 셩화 거ᄒᆡᆼᄒᆞ라</sent><!--‘급급’에서 뒤에 오는 '급'은 재점 표기.-->
+<sent type="main" lang="kor" page="5b" n="03">만일 지완지폐 잇거든</sent>
+<sent type="main" lang="kor" page="5b" n="04">하탕지옥 슈금후의 조률 쳐치 ᄎᆞ로</sent>
+<sent type="main" lang="kor" page="5b" n="05">졈지 불ᄉᆞ 감결 ᄇᆞ다</sent>
+<sent type="main" lang="kor" page="5b" n="06">십왕젼의 감ᄒᆞᆫ 후의</sent>
+<sent type="main" lang="kor" page="5b" n="07">셔방 졍토 극낙셰계 셰상으로 졈지ᄒᆞ라 ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="5b" n="08">솃ᄌᆡ 션ᄇᆡ ᄯᅩ 소지를 올니니 ᄒᆞ여시되</sent><!--'올니니'에서 뒤에 오는 '니'는 재점 표기.-->
+<sent type="main" lang="kor" page="5b" n="09">○우근진소지의단은 출어셰상ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5b" n="10">법가 ᄌᆞ뎨 되여</sent>
+<sent type="main" lang="kor" page="5b" n="11">부모의 은덕으로</sent>
+<sent type="main" lang="kor" page="5b" n="12">슬하의 어린 쳬와 교동으로 ᄉᆞ랑ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5b" n="13">효ᄒᆡᆼ 녜졀 어진 집의 ᄉᆡᆼ장ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="5b" n="14">언츙신 ᄒᆡᆼ독경ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="5b" n="15">쇄소응ᄃᆡ 진퇴지졀과 ᄋᆡ친경장 늉ᄉᆞ친우지도ᄅᆞᆯ 안 연후의</sent>
+<sent type="main" lang="kor" page="5b" n="16">학발쌍친 영양으로</sent>
+<sent type="main" lang="kor" page="5b" n="17">입신양명 현달ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="5b" n="18">계초명 함관슈ᄅᆞᆯ 일ᄅᆞᆯ 삼아</sent>
+<sent type="main" lang="kor" page="5b" n="19">노ᄅᆡᄌᆞ의 옷슬 닙고</sent>
+<sent type="main" lang="kor" page="5b" n="20">삼쳑동ᄌᆞ 불워ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="5b" n="21">ᄌᆞ로의 부미ᄒᆞᆷ과 왕상의 니어 낙고</sent>
+<sent type="main" lang="kor" page="5b" n="22">ᄆᆡᆼ종의 죽슌을 ᄭᅥᆨ거</sent>
+<sent type="main" lang="kor" page="5b-6a" n="23">증ᄌᆞ의 냥친지졀ᄅᆞᆯ 쥬야로 일ᄅᆞᆯ 삼아</sent><!--삼^아-->
+</pages>
+
+<pages n="권지상(17장본),6a">
+<img n="권지상(17장본),6a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,6a.jpg</img>
+<sent type="main" lang="kor" page="6a" n="01">지효공경 즐기다가</sent>
+<sent type="main" lang="kor" page="6a" n="02">부모의 은덕이 호텬망극이라</sent>
+<sent type="main" lang="kor" page="6a" n="03">원득삼산불노초ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="6a" n="04">ᄇᆡ헌고당ᄇᆡᆨ발친을 평ᄉᆡᆼ 갈녁ᄒᆞᆫ 후의</sent>
+<sent type="main" lang="kor" page="6a" n="05">ᄉᆞ방의 널니 노라</sent>
+<sent type="main" lang="kor" page="6a" n="06">만물 물졍을 경녁ᄒᆞ고</sent><!--'만물 물졍'에서 뒤에 오는 '물'은 재점 표기.-->
+<sent type="main" lang="kor" page="6a" n="07">삼산 풍경 조흔 곳의</sent>
+<sent type="main" lang="kor" page="6a" n="08">쳥텬삭츌 놉흔 뫼ᄂᆞᆫ 텬작으로 삼겨 이셔</sent>
+<sent type="main" lang="kor" page="6a" n="09">ᄇᆡ산님뉴ᄒᆞ니 츈슈만ᄉᆞᄐᆡᆨ이오 하운다긔봉이라</sent>
+<sent type="main" lang="kor" page="6a" n="10">명당의 터를 닥고</sent>
+<sent type="main" lang="kor" page="6a" n="11">초당을 지어 ᄂᆡ니</sent>
+<sent type="main" lang="kor" page="6a" n="12">토계삼등이오 모ᄌᆞ부젼이라</sent>
+<sent type="main" lang="kor" page="6a" n="13">계명죽오 견폐싀문이라</sent>
+<sent type="main" lang="kor" page="6a" n="14">압 ᄂᆡ의 고기 낙고</sent>
+<sent type="main" lang="kor" page="6a" n="15">뒤 뫼의 약을 심어</sent>
+<sent type="main" lang="kor" page="6a" n="16">실과ᄂᆞᆫ 쳘ᄅᆞᆯ 찻고</sent>
+<sent type="main" lang="kor" page="6a" n="17">ᄇᆡᆨ곡이 풍등ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="6a" n="18">우양ᄌᆞ귀촌항ᄒᆞ니 동치불식의관이라</sent>
+<sent type="main" lang="kor" page="6a" n="19">낙화방초무심쳐의 만학쳔봉득폐문이라</sent>
+<sent type="main" lang="kor" page="6a" n="20">한운담영시슈가오 별유텬디비인간이라</sent>
+<sent type="main" lang="kor" page="6a" n="21">셰ᄉᆞ는 금삼쳑이오 ᄉᆡᆼᄋᆡᄂᆞᆫ 쥬일ᄇᆡ라</sent>
+<sent type="main" lang="kor" page="6a" n="22">셔졍 강상월이 두려시 밝앗ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="6a" n="23">동각 셜즁ᄆᆡ 향긔로히 퓌여셰라</sent>
+<sent type="main" lang="kor" page="6a" n="24">풍셩학녀ᄂᆞᆫ 사시무진이오</sent>
+<sent type="main" lang="kor" page="6a-6b" n="25">녹죽창송은 쳔고불변이라</sent><!--송^은-->
+</pages>
+
+<pages n="권지상(17장본),6b">
+<img n="권지상(17장본),6b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,6b.jpg</img>
+<sent type="main" lang="kor" page="6b" n="01">셰상 영욕 물니치고</sent>
+<sent type="main" lang="kor" page="6b" n="02">쳥나연월 ᄃᆡᄉᆞ립의 ᄇᆡᆨ운심쳐 ᄎᆞᄌᆞ가니</sent>
+<sent type="main" lang="kor" page="6b" n="03">젹젹싀문 ᄀᆡ 짓ᄂᆞᆫᄃᆡ</sent><!--'젹젹'에서 뒤에 오는 '젹'은 재점 표기.-->
+<sent type="main" lang="kor" page="6b" n="04">요요운학 긔 뉘 알니</sent><!--'요요'에서 뒤에 오는 '요'는 재점 표기.-->
+<sent type="main" lang="kor" page="6b" n="05">인간 공명 모로거든</sent>
+<sent type="main" lang="kor" page="6b" n="06">셰상 시비 엇지 알니</sent>
+<sent type="main" lang="kor" page="6b" n="07">황금부다교불심이라</sent>
+<sent type="main" lang="kor" page="6b" n="08">어ᄂᆡ 벗이 날 ᄎᆞᄌᆞ오리</sent>
+<sent type="main" lang="kor" page="6b" n="09">광음을 혜ᄋᆞ리니</sent>
+<sent type="main" lang="kor" page="6b" n="10">츈님문두견이 어졔러니</sent>
+<sent type="main" lang="kor" page="6b" n="11">어ᄂᆡ ᄉᆞ이 츄안이 우젼셩이라</sent>
+<sent type="main" lang="kor" page="6b" n="12">한왕셔ᄅᆡᄒᆞ니 ᄉᆞ시ᄅᆞᆯ 짐작ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="6b" n="13">의약 복셔 알 거시니</sent>
+<sent type="main" lang="kor" page="6b" n="14">긔 무어시 부족ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="6b" n="15">옛 ᄉᆞᄅᆞᆷ의 니ᄅᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="6b" n="16">지족이면 불욕이라 ᄒᆞ엿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="6b" n="17">부귀ᄒᆞ면 위긔로다</sent>
+<sent type="main" lang="kor" page="6b" n="18">오경ᄃᆡ루화만상이 위ᄐᆡᄒᆞ고 괴로왜라</sent>
+<sent type="main" lang="kor" page="6b" n="19">공ᄌᆞ 묵젹 언변의도 핍박ᄒᆞ믈 보앗ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="6b" n="20">오ᄌᆞ셔의 촉누검과 함양시상탄황견을 모로다야 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="6b" n="21">셰상공명간목안이오</sent>
+<sent type="main" lang="kor" page="6b" n="22">좌즁 담소 신상귀라</sent>
+<sent type="main" lang="kor" page="6b" n="23">아라ᄂᆡ여 무엇ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="6b" n="24">슈신졔가치국평텬하지도를 모로다여 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="6b-7a" n="25">팔진미찬 만반진슈 아니라도</sent><!--아^니-->
+</pages>
+
+<pages n="권지상(17장본),7a">
+<img n="권지상(17장본),7a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,7a.jpg</img>
+<sent type="main" lang="kor" page="7a" n="01">벽계 쳥뉴 은닌 옥쳑 낙근 고기</sent>
+<sent type="main" lang="kor" page="7a" n="02">박쥬 산ᄎᆡ ᄆᆡᆨ반으로 젹구츙장 ᄒᆞ여 가고</sent>
+<sent type="main" lang="kor" page="7a" n="03">고ᄃᆡ광실 슈호문창 쥬박은병 아니라도</sent><!--'고ᄃᆡ광실'의 '고'는 재점 표기.-->
+<sent type="main" lang="kor" page="7a" n="04">모옥슈삼간 남창온돌 졍쇄ᄒᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="7a" n="05">양ᄉᆡᆼ법을 공부ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="7a" n="06">연년익슈ᄒᆞ리로다</sent>
+<sent type="main" lang="kor" page="7a" n="07">금의ᄅᆞᆯ 이졋거든</sent>
+<sent type="main" lang="kor" page="7a" n="08">폐포를 붓그릴소냐</sent>
+<sent type="main" lang="kor" page="7a" n="09">죽장망혜로 긔산영슈의 ᄇᆡ회ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="7a" n="10">일발쳥산부ᄎᆔᄉᆡᆨ이라</sent>
+<sent type="main" lang="kor" page="7a" n="11">ᄇᆡᆨ운 쳔니 만니오</sent>
+<sent type="main" lang="kor" page="7a" n="12">명월 젼계 후계라</sent>
+<sent type="main" lang="kor" page="7a" n="13">산은 쳡쳡만즁ᄒᆞ니</sent><!--‘쳡쳡’에서 뒤에 오는 '쳡'은 재점 표기.-->
+<sent type="main" lang="kor" page="7a" n="14">삼산반낙쳥텬외오</sent>
+<sent type="main" lang="kor" page="7a" n="15">물은 츙츙 소이 되니</sent><!--‘츙츙’에서 뒤에 오는 '츙'은 재점 표기.-->
+<sent type="main" lang="kor" page="7a" n="16">이슈즁분ᄇᆡᆨ노ᄌᆔ라</sent>
+<sent type="main" lang="kor" page="7a" n="17">낙하는 여고목졔비ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="7a" n="18">츄슈는 공장텬일ᄉᆡᆨ이라</sent>
+<sent type="main" lang="kor" page="7a" n="19">ᄇᆞ람 부러 송ᄉᆡᆼ슬ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="7a" n="20">안ᄀᆡ 퓌여 학졍홍이라</sent>
+<sent type="main" lang="kor" page="7a" n="21">쥬걱ᄉᆡ 우러 ᄂᆞ니 쳔고졀이오</sent>
+<sent type="main" lang="kor" page="7a" n="22">솟젹다 ᄒᆞᄂᆞᆫ 소ᄅᆡ 일년풍이라</sent>
+<sent type="main" lang="kor" page="7a" n="23">운무심이츌슈ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="7a" n="24">다긔봉이 ᄌᆞ작ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="7a" n="25">방장 봉ᄂᆡ 삼신산이 버럿ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="7a" n="26">아미산월반뉸츄와 젹벽강산무한경을</sent>
+<sent type="main" lang="kor" page="7a" n="27">어ᄃᆡ다가 비ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="7a-7b" n="28">십장ᄉᆡᆼ이 버러 이셔</sent><!--버^러-->
+</pages>
+
+<pages n="권지상(17장본),7b">
+<img n="권지상(17장본),7b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,7b.jpg</img>
+<sent type="main" lang="kor" page="7b" n="01">쳔만셰ᄅᆞᆯ 누려ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="7b" n="02">월츌낙조 바라보니</sent>
+<sent type="main" lang="kor" page="7b" n="03">무비경ᄀᆡ 졀승이라</sent>
+<sent type="main" lang="kor" page="7b" n="04">쥬나라 강ᄐᆡ공은 위슈의 고기 낙고</sent>
+<sent type="main" lang="kor" page="7b" n="05">강산 풍경 조흔 경은 만ᄉᆞ무심일조간이오</sent>
+<sent type="main" lang="kor" page="7b" n="06">한국 졔갈량은 남양의 밧츨 갈고</sent>
+<sent type="main" lang="kor" page="7b" n="07">초당 츈츄 긴긴 ᄂᆞᆯ의 양보음을 읇흐면셔</sent><!--‘긴긴’에서 뒤에 오는 '긴'은 재점 표기.-->
+<sent type="main" lang="kor" page="7b" n="08">불구문달ᄒᆞ엿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="7b" n="09">도당시젹 시졀의ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="7b" n="10">영쳔의 귀ᄅᆞᆯ 씻고</sent>
+<sent type="main" lang="kor" page="7b" n="11">문답ᄒᆞ던 맑은 덕은</sent>
+<sent type="main" lang="kor" page="7b" n="12">소허밧긔 ᄯᅩ 잇ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="7b" n="13">문장 공명ᄒᆞ던 니ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="7b" n="14">니리져리 혜아리니</sent>
+<sent type="main" lang="kor" page="7b" n="15">아득ᄒᆞ고 어려웨라</sent>
+<sent type="main" lang="kor" page="7b" n="16">뇽방 비간 맑은 츙졀</sent>
+<sent type="main" lang="kor" page="7b" n="17">만셰의 뉴젼ᄒᆞᆫ들</sent>
+<sent type="main" lang="kor" page="7b" n="18">져마다 어이ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="7b" n="19">위쳥불폐유텬ᄒᆡᆼ이오</sent>
+<sent type="main" lang="kor" page="7b" n="20">니광무공연슈긔라</sent>
+<sent type="main" lang="kor" page="7b" n="21">지용으로 못ᄒᆞ려니</sent>
+<sent type="main" lang="kor" page="7b" n="22">장슈 되기 어려오며</sent>
+<sent type="main" lang="kor" page="7b" n="23">안ᄌᆞ곤어누항ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="7b" n="24">가의굴어장ᄉᆞᄒᆞ니</sent>
+<sent type="main" lang="kor" page="7b" n="25">도학인들 무엇ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="7b" n="26">ᄉᆞ마쳔 소동파 만고 문장 빗ᄂᆞᆫ 말은</sent>
+<sent type="main" lang="kor" page="7b" n="27">하필셩문ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="7b" n="28">문장 궁ᄋᆡᆨ 면ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="7b" n="29">왕발의 등왕각셔 명작이라 ᄒᆞ건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="7b-8a" n="30">삼쳑미명 네 글ᄌᆞ가</sent><!--미^명-->
+</pages>
+
+<pages n="권지상(17장본),8a">
+<img n="권지상(17장본),8a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,8a.jpg</img>
+<sent type="main" lang="kor" page="8a" n="01">쳐량ᄒᆞᆯ손 단명귀라</sent>
+<sent type="main" lang="kor" page="8a" n="02">가련ᄒᆞ기 측냥업다</sent>
+<sent type="main" lang="kor" page="8a" n="03">니ᄐᆡᄇᆡᆨ의 ᄇᆡᆨ두시와 일일슈경삼ᄇᆡᆨᄇᆡ는</sent><!--‘일일’에서 뒤에 오는 '일'은 재점 표기.-->
+<sent type="main" lang="kor" page="8a" n="04">ᄎᆡ셕강의 ᄲᆞ져스며</sent>
+<sent type="main" lang="kor" page="8a" n="05">두목지의 ᄎᆔ과양쥬귤만거ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="8a" n="06">호탕ᄒᆞ여 쓸듸업고</sent>
+<sent type="main" lang="kor" page="8a" n="07">가소롭다 형경이여</sent>
+<sent type="main" lang="kor" page="8a" n="08">역슈한파 져믄 ᄂᆞᆯ의</sent>
+<sent type="main" lang="kor" page="8a" n="09">ᄇᆡᆨ홍관일 모로고셔</sent>
+<sent type="main" lang="kor" page="8a" n="10">일검ᄒᆡᆼ장 젼혀 밋고</sent>
+<sent type="main" lang="kor" page="8a" n="11">ᄐᆡᄌᆞ 단을 니별ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8a" n="12">그 아니 위ᄐᆡᄒᆞᆫ가</sent>
+<sent type="main" lang="kor" page="8a" n="13">번화ᄂᆞᆫ 비조원이지</sent>
+<sent type="main" lang="kor" page="8a" n="14">부귀권셰 비우스며</sent>
+<sent type="main" lang="kor" page="8a" n="15">오동월향회듕조오 양뉴풍ᄂᆡ면상ᄎᆔ라</sent>
+<sent type="main" lang="kor" page="8a" n="16">병 업고 셩ᄒᆞᆫ 몸이</sent>
+<sent type="main" lang="kor" page="8a" n="17">희황세계 한민되여</sent>
+<sent type="main" lang="kor" page="8a" n="18">녁ᄃᆡ셩쇠ᄅᆞᆯ 혜아리니</sent>
+<sent type="main" lang="kor" page="8a" n="19">영웅호걸일조공이오 고인금인약뉴ᄉᆔ라</sent>
+<sent type="main" lang="kor" page="8a" n="20">ᄇᆡᆨ이 슉졔 착ᄒᆞ니와 도젹갓튼 못쓸 놈도</sent>
+<sent type="main" lang="kor" page="8a" n="21">죽어지면 허ᄉᆡ로다</sent>
+<sent type="main" lang="kor" page="8a" n="22">녁녀건곤의 부ᄉᆡᆼ이 약몽ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8a" n="23">즐거오미 그 얼만고</sent>
+<sent type="main" lang="kor" page="8a" n="24">병촉야유ᄒᆞ며 독셔담논 ᄌᆞ락ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8a" n="25">한가ᄒᆞ기 측냥 업다</sent>
+<sent type="main" lang="kor" page="8a" n="26">만산 풍경 바라보며</sent>
+<sent type="main" lang="kor" page="8a" n="27">님쳥뉴이부시ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8a" n="28">흥미가 무궁ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="8a-8b" n="29">츈풍도리 화ᄀᆡ야와</sent><!--리 ^ 화-->
+</pages>
+
+<pages n="권지상(17장본),8b">
+<img n="권지상(17장본),8b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,8b.jpg</img>
+<sent type="main" lang="kor" page="8b" n="01">츄우오동엽낙시의 남린북촌 다졍ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="8b" n="02">청양ᄌᆡ우ᄒᆞ고 두쥬ᄌᆞ락이라</sent>
+<sent type="main" lang="kor" page="8b" n="03">권군ᄀᆡᆼ진일ᄇᆡ쥬ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8b" n="04">일ᄇᆡ일ᄇᆡ부일ᄇᆡ라 탄금ᄒᆞ고 장소ᄒᆞ며</sent><!--‘일ᄇᆡ일ᄇᆡ’에서 뒤에 오는 '일ᄇᆡ'는 재점 표기.-->
+<sent type="main" lang="kor" page="8b" n="05">산가 촌젹으로 회유동낙ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8b" n="06">부지하조하갑ᄌᆡ라</sent>
+<sent type="main" lang="kor" page="8b" n="07">일ᄉᆡᆼ이 이러ᄒᆞ니</sent><!--‘이러하니’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="8b" n="08">상산ᄉᆞ호 죽님칠현 한가ᄒᆞ기 이만ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="8b" n="09">젹송ᄌᆞ 안긔ᄉᆡᆼ을 불워ᄒᆞᆯ가</sent>
+<sent type="main" lang="kor" page="8b" n="10">범녀의 오호쥬와 장ᄌᆞ방의 ᄉᆞ병벽곡과</sent>
+<sent type="main" lang="kor" page="8b" n="11">소광의 산쳔금과 도연명의 북창하 희황인은</sent>
+<sent type="main" lang="kor" page="8b" n="12">모도 젹은 일이로다</sent>
+<sent type="main" lang="kor" page="8b" n="13">영귀ᄒᆞ미 이의셔 더ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="8b" n="14">이목지소호와 심지지소락이 이 밧긔 ᄯᅩ 잇ᄂᆞᆫ가</sent><!--‘심지지소락’에서 뒤에 오는 '지'와 ‘이 밧긔’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="8b" n="15">다남ᄌᆞ즉다구ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8b" n="16">아들 형뎨 ᄯᅡᆯ ᄒᆞᆫ나의 ᄂᆡ외손이 번셩ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="8b" n="17">각ᄉᆡᆨ ᄌᆞ미 즐겨ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8b" n="18">곽분양의 ᄇᆡᆨᄌᆞ 쳔손인들</sent>
+<sent type="main" lang="kor" page="8b" n="19">이의셔 더ᄒᆞᆯ손가</sent>
+<sent type="main" lang="kor" page="8b" n="20">ᄂᆞᆯ마다 개경연이라 화ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="8b" n="21">열친쳑지졍화ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="8b" n="22">셔텬뉸지낙ᄉᆡ로다</sent>
+<sent type="main" lang="kor" page="8b" n="23">비우상이ᄎᆔ월ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="8b-9a" n="24">의가지낙이 족ᄒᆞ도다</sent><!--족^ᄒᆞ-->
+</pages>
+
+<pages n="권지상(17장본),9a">
+<img n="권지상(17장본),9a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,9a.jpg</img>
+<sent type="main" lang="kor" page="9a" n="01">일월셩신광음즁의 부귀인간뉴슈로ᄃᆡ</sent>
+<sent type="main" lang="kor" page="9a" n="02">다만 앗기노라</sent>
+<sent type="main" lang="kor" page="9a" n="03">쳥텬삭츌 ᄲᆞᆯ니 간들 어이ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="9a" n="04">한심ᄒᆞᆯᄉᆞ 건곤이 불노월장ᄌᆡᄒᆞ니</sent>
+<sent type="main" lang="kor" page="9a" n="05">젹막강산금ᄇᆡᆨ년이라</sent>
+<sent type="main" lang="kor" page="9a" n="06">어렵고 못ᄒᆞᆯ 일은 장ᄉᆡᆼ불ᄉᆞᄲᅮᆫ이로다</sent>
+<sent type="main" lang="kor" page="9a" n="07">진시황 한무뎨도 ᄎᆡ약구션ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="9a" n="08">년년익슈ᄒᆞ랴다가</sent><!--‘년년’에서 뒤에 오는 '년'은 재점 표기.-->
+<sent type="main" lang="kor" page="9a" n="09">변통무료ᄒᆞ엿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="9a" n="10">긔야 엇지 ᄇᆞ라리오</sent>
+<sent type="main" lang="kor" page="9a" n="11">지분지명ᄒᆞ여 병 업고 셩ᄒᆞᆫ 몸이</sent>
+<sent type="main" lang="kor" page="9a" n="12">명쳘보신ᄒᆞ려 ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="9a" n="13">더ᄒᆞᆯ 것 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="9a" n="14">슈삼갑ᄌᆞ 누리다가</sent>
+<sent type="main" lang="kor" page="9a" n="15">와셕종신 고종명이 원이오니</sent>
+<sent type="main" lang="kor" page="9a" n="16">복걸참상이시후의 복망연지긍지ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="9a" n="17">ᄋᆡ지휼지ᄒᆞᄉᆞ 의소원쳐치ᄒᆞ여 주시믈</sent>
+<sent type="main" lang="kor" page="9a" n="18">쳔만복축ᄒᆞᄂᆞ이다 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="9a" n="19">념왕이 남파의 ᄃᆡ로ᄒᆞ여 ᄭᅮ지져 왈</sent>
+<sent type="main" lang="kor" page="9a" n="20">이 욕심 만코 무거불측ᄒᆞᆫ 놈아</sent>
+<sent type="main" lang="kor" page="9a" n="21">네 드ᄅᆞ라</sent>
+<sent type="main" lang="kor" page="9a" n="22">내가 텬디개벽 이후로</sent>
+<sent type="main" lang="kor" page="9a" n="23">만물보응 뉸회지과와</sent>
+<sent type="main" lang="kor" page="9a" n="24">ᄉᆡᆼᄉᆞ화복 길흉지권을 모도 가지고</sent>
+<sent type="main" lang="kor" page="9a-9b" n="25">억만창ᄉᆡᆼ의 슈요장단과 션악시비ᄅᆞᆯ</sent><!--의 ^ 수-->
+</pages>
+
+<pages n="권지상(17장본),9b">
+<img n="권지상(17장본),9b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,9b.jpg</img>
+<sent type="main" lang="kor" page="9b" n="01">평균히 조셕으로 삺피ᄂᆞᆫ 터의</sent>
+<sent type="main" lang="kor" page="9b" n="02">셩현군ᄌᆞ도 ᄒᆞ지 못ᄒᆞᆯ 일ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="9b" n="03">모도 다 달나 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="9b" n="04">그 노릇슬 님의로 ᄒᆞ량이면</sent>
+<sent type="main" lang="kor" page="9b" n="05">내 염나왕을 ᄯᅥ혀놋코</sent>
+<sent type="main" lang="kor" page="9b" n="06">내 스ᄉᆞ로 ᄒᆞ리라 ᄒᆞ더라</sent>
+<sent type="title2" lang="kor" page="9b" n="07">오호ᄃᆡ장긔</sent>
+<sent type="main" lang="kor" page="9b" n="08">옛젹의 한 냥반이 이스되</sent><!--‘이스되’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="9b" n="09">긔상이 웅위ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="9b" n="10">풍ᄎᆡ 준ᄆᆡᄒᆞ며</sent>
+<sent type="main" lang="kor" page="9b" n="11">의기 당당ᄒᆞ여</sent><!--‘당당’에서 뒤에 오는 '당'은 재점 표기.-->
+<sent type="main" lang="kor" page="9b" n="12">평일의 안하무인ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="9b" n="13">일즉 등과ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="9b" n="14">벼슬이 극망의 도라와</sent>
+<sent type="main" lang="kor" page="9b" n="15">뉵조판셔로 의논ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="9b" n="16">ᄌᆡ국으로 호조판셔ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="9b" n="17">니병판은 구근 졍격이나 알면 ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="kor" page="9b" n="18">공조판셔와 녜조판셔ᄂᆞᆫ 한가ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="9b" n="19">그즁 형조판셔는</sent>
+<sent type="main" lang="kor" page="9b" n="20">ᄉᆞᄅᆞᆷ의 ᄉᆞᄉᆡᆼ길흉과 션악화복을 삷피며</sent>
+<sent type="main" lang="kor" page="9b" n="21">음양을 통달ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="9b" n="22">만민의 공사ᄅᆞᆯ 공평히 ᄒᆞᄂᆞᆫ 벼슬이라</sent>
+<sent type="main" lang="kor" page="9b" n="23">그 냥반이 물망이 당당ᄒᆞ여</sent><!--‘당당’에서 뒤에 오는 '당'은 재점 표기.-->
+<sent type="main" lang="kor" page="9b" n="24">형조판셔의 훈련ᄃᆡ장을 겸ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="9b-10a" n="25">젼ᄉᆡᆼ졔쥬와 포도ᄃᆡ장을 겸찰ᄒᆞᄆᆡ</sent><!--와 ^ 포-->
+</pages>
+
+<pages n="권지상(17장본),10a">
+<img n="권지상(17장본),10a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,10a.jpg</img>
+<sent type="main" lang="kor" page="10a" n="01">네 가지 벼슬이 다 극망이라</sent>
+<sent type="main" lang="kor" page="10a" n="02">근본 다긔ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="10a" n="03">욱긔 ᄯᅩᄒᆞᆫ 젹지 아니ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="10a" n="04">일일은 도감 습진 파ᄒᆞᆫ 후의</sent><!--‘일일’에서 뒤에 오는 '일'은 재점 표기.-->
+<sent type="main" lang="kor" page="10a" n="05">졔집ᄉᆞ장교 칠ᄉᆡᆨ 군병을 거ᄂᆞ리고 무르되</sent>
+<sent type="main" lang="kor" page="10a" n="06">너희다려 무ᄅᆞᆯ 말이 잇ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="10a" n="07">너희 등은 은휘말고</sent><!--‘은휘’의 '은'은 재점 표기.-->
+<sent type="main" lang="kor" page="10a" n="08">분명히 알외라</sent>
+<sent type="main" lang="kor" page="10a" n="09">장졸이 일시의 ᄃᆡ답ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="10a" n="10">ᄉᆞ도 분부ᄅᆞᆯ 소인 등이</sent>
+<sent type="main" lang="kor" page="10a" n="11">슈화 즁이라도 피치 못ᄒᆞ려든</sent>
+<sent type="main" lang="kor" page="10a" n="12">무르시ᄂᆞᆫ 말ᄉᆞᆷ을 엇지 은휘ᄒᆞ리잇가</sent>
+<sent type="main" lang="kor" page="10a" n="13">ᄃᆡ장이 갈오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="10a" n="14">다른 일이 아니라</sent>
+<sent type="main" lang="kor" page="10a" n="15">너희 등이 드른 말과 보ᄂᆞᆫ 일ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="10a" n="16">ᄌᆞ셰히 알외라</sent>
+<sent type="main" lang="kor" page="10a" n="17">내 벼슬이 극망의 도라와</sent>
+<sent type="main" lang="kor" page="10a" n="18">형조판셔와 훈련ᄃᆡ장</sent>
+<sent type="main" lang="kor" page="10a" n="19">젼ᄉᆡᆼ졔조의 포도ᄃᆡ장을 겸ᄒᆞ여스니</sent>
+<sent type="main" lang="kor" page="10a" n="20">벼슬이 다 극망이라</sent>
+<sent type="main" lang="kor" page="10a" n="21">ᄉᆞᄅᆞᆷ마다 못ᄒᆞᄂᆞᆫ 거슬 다 가져스니</sent>
+<sent type="main" lang="kor" page="10a" n="22">셰상이 날ᄅᆞᆯ 공논ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="10a" n="23">가타 ᄒᆞᄂᆞ냐 불가타 ᄒᆞᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="10a" n="24">분명히 알외라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="10a" n="25">그ᄯᆡᄂᆞ 이ᄯᆡ나</sent>
+<sent type="main" lang="kor" page="10a" n="26">아당ᄒᆞ는 놈들이 말치례ᄒᆞ여 알외되</sent>
+<sent type="main" lang="kor" page="10a-10b" n="27">츄판의 포장을 겸ᄒᆞ와</sent><!--ᄒᆞ^와-->
+</pages>
+
+<pages n="권지상(17장본),10b">
+<img n="권지상(17장본),10b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,10b.jpg</img>
+<sent type="main" lang="kor" page="10b" n="01">두 가지 ᄉᆡᆼ살지권을 가지시고</sent>
+<sent type="main" lang="kor" page="10b" n="02">폐풍강상 무거불측ᄒᆞ온 놈은</sent>
+<sent type="main" lang="kor" page="10b" n="03">형조로 풍문 ᄂᆡ여 잡아다가</sent>
+<sent type="main" lang="kor" page="10b" n="04">엄형조률ᄒᆞ여 극변원찬ᄒᆞ옵시고</sent>
+<sent type="main" lang="kor" page="10b" n="05">강도와 ᄃᆡ젹놈은</sent>
+<sent type="main" lang="kor" page="10b" n="06">포쳥으로 셰셰히 긔찰ᄒᆞ여 잡아다가</sent><!--‘셰셰히’에서 뒤에 오는 '셰'는 재점 표기.-->
+<sent type="main" lang="kor" page="10b" n="07">각ᄉᆡᆨ 형벌노 엄치ᄒᆞ시ᄂᆞᆫ고로</sent>
+<sent type="main" lang="kor" page="10b" n="08">ᄇᆡᆨ셩이 일변으로</sent>
+<sent type="main" lang="kor" page="10b" n="09">ᄉᆞ도의 위엄을 두리오며</sent>
+<sent type="main" lang="kor" page="10b" n="10">일변으로 ᄉᆞ도의 은덕을 감격ᄒᆞ여 ᄒᆞ옵ᄂᆡ다</sent>
+<sent type="main" lang="kor" page="10b" n="11">ᄃᆡ장이 깃거ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="10b" n="12">만일 그러ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="10b" n="13">내 삼국 시졀의 낫던들</sent>
+<sent type="main" lang="kor" page="10b" n="14">어듸 참예ᄒᆞ여스리오</sent>
+<sent type="main" lang="kor" page="10b" n="15">장교 등이 알외되</sent>
+<sent type="main" lang="kor" page="10b" n="16">소인 등이 엇지 감히 ᄉᆞ도의 시비ᄅᆞᆯ 폄논ᄒᆞ리잇고마는</sent>
+<sent type="main" lang="kor" page="10b" n="17">이믜 뭇ᄌᆞ오시ᄂᆞᆫ ᄇᆞ의</sent>
+<sent type="main" lang="kor" page="10b" n="18">긔망치 못ᄒᆞ옵거니와</sent>
+<sent type="main" lang="kor" page="10b" n="19">아모리 ᄉᆡᆼ각ᄒᆞ와도</sent>
+<sent type="main" lang="kor" page="10b" n="20">오호ᄃᆡ장의 넉넉히 참예ᄒᆞ시리이다</sent><!--‘넉넉히’에서 뒤에 오는 '넉'은 재점 표기.-->
+<sent type="main" lang="kor" page="10b" n="21">ᄃᆡ장이 션우슴치고 왈</sent>
+<sent type="main" lang="kor" page="10b" n="22">그는 너희 등이 무식ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="10b" n="23">상 업슨 말이로다</sent>
+<sent type="main" lang="kor" page="10b" n="24">오호ᄃᆡ장은 만인젹ᄒᆞ는 영웅일 ᄲᅮᆫ더러</sent>
+<sent type="main" lang="kor" page="10b" n="25">사ᄅᆞᆷ이 본밧지 못ᄒᆞᆯ 일이 만흐니</sent>
+<sent type="main" lang="kor" page="10b" n="26">내 엇지 오호ᄃᆡ장의 참예ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="10b" n="27">장교 등이 ᄯᅩ 알외되</sent>
+<sent type="main" lang="kor" page="10b-11a" n="28">그러치 아니ᄒᆞ여이다</sent><!--아^니-->
+</pages>
+
+<pages n="권지상(17장본),11a">
+<img n="권지상(17장본),11a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,11a.jpg</img>
+<sent type="main" lang="kor" page="11a" n="01">ᄉᆞ되 도감의 좌졍ᄒᆞ옵신 후로</sent>
+<sent type="main" lang="kor" page="11a" n="02">군ᄉᆞ의 노약이 업ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="11a" n="03">혈긔방장ᄒᆞ온 졍병이 모이혀</sent>
+<sent type="main" lang="kor" page="11a" n="04">용어공젼ᄒᆞ고 겁어ᄉᆞ투ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="11a" n="05">병셔ᄅᆞᆯ 달통ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="11a" n="06">황오졀ᄎᆡ 분명ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="11a" n="07">군위웅장ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="11a" n="08">이러ᄒᆞ므로 타영문이 도감의 ᄯᆞ뢰여</sent>
+<sent type="main" lang="kor" page="11a" n="09">젼일의셔 ᄇᆡᆨ승ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="11a" n="10">이ᄂᆞᆫ ᄉᆞ도의 은위 병ᄒᆡᆼᄒᆞ와 그러ᄒᆞ오미니</sent>
+<sent type="main" lang="kor" page="11a" n="11">엇지 오호ᄃᆡ장의 참애치 못ᄒᆞ시리잇가</sent>
+<sent type="main" lang="kor" page="11a" n="12">ᄃᆡ장이 이 말ᄅᆞᆯ 듯고</sent><!--‘이 말ᄅᆞᆯ’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="11a" n="13">희ᄉᆡᆨ이 만면ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="11a" n="14">우으며 갈오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="11a" n="15">내가 오호ᄃᆡ장의 참예ᄒᆞᆯ 줄이야</sent>
+<sent type="main" lang="kor" page="11a" n="16">엇지 알아스리오 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="11a" n="17">욱긔의 ᄯᅴ이여</sent>
+<sent type="main" lang="kor" page="11a" n="18">즉금 오호ᄃᆡ장을 당ᄒᆞᆫ 듯시</sent>
+<sent type="main" lang="kor" page="11a" n="19">것츠로 겸양ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="11a" n="20">ᄃᆡ져 ᄉᆞᄅᆞᆷ이 존비귀쳔 물논ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="11a" n="21">지각은 ᄒᆞᆫ가지라</sent>
+<sent type="main" lang="kor" page="11a" n="22">소위 초포슈라 ᄒᆞᄂᆞᆫ 거슨</sent>
+<sent type="main" lang="kor" page="11a" n="23">군ᄉᆞ 즁 최말이라</sent>
+<sent type="main" lang="kor" page="11a" n="24">한 놈이 이 문답ᄉᆞᄅᆞᆯ 듯고</sent><!--‘이 문답ᄉᆞᄅᆞᆯ’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="11a" n="25">문득 ᄉᆡᆼ각ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="11a" n="26">내가 도감의 이셔</sent>
+<sent type="main" lang="kor" page="11a" n="27">ᄇᆞ감이 다 파먹은</sent>
+<sent type="main" lang="kor" page="11a" n="28">묵은 조쌀 닐곱 말의 몸이 ᄆᆡ이여</sent>
+<sent type="main" lang="kor" page="11a" n="29">머리ᄅᆞᆯ 드리밀고</sent>
+<sent type="main" lang="kor" page="11a-11b" n="30">신겸쳐ᄌᆞ도삼구의 ᄉᆡᆼ계 묘연ᄒᆞ여</sent><!--ᄒᆞ^여-->
+</pages>
+
+<pages n="권지상(17장본),11b">
+<img n="권지상(17장본),11b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,11b.jpg</img>
+<sent type="main" lang="kor" page="11b" n="01">걸걸ᄒᆞᆫ 마음이 죽도 ᄉᆞ도 못ᄒᆞ니</sent><!--‘걸걸’에서 뒤에 오는 '걸'은 재점 표기.-->
+<sent type="main" lang="kor" page="11b" n="02">져양촉번의 진퇴유곡이라</sent>
+<sent type="main" lang="kor" page="11b" n="03">남의게 셧기지 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="11b" n="04">인즁지말이 되여</sent>
+<sent type="main" lang="kor" page="11b" n="05">습진 거동 ᄉᆞ습 참예 의사 변변치 못ᄒᆞ고</sent><!--‘변변’에서 뒤에 오는 '변'은 재점 표기.-->
+<sent type="main" lang="kor" page="11b" n="06">ᄒᆞᆫᄯᆡ 셰샹의 살기 이녑더니</sent>
+<sent type="main" lang="kor" page="11b" n="07">이졔 이의셔 다ᄒᆡᆼᄒᆞᆫ 일 업스ᄆᆡ</sent>
+<sent type="main" lang="kor" page="11b" n="08">오ᄂᆞᆯᄂᆞᆯ ᄉᆞᄉᆡᆼ화복길흉을 가히 판단ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="11b" n="09">이졔 ᄉᆞ되 가장 오호ᄃᆡ장의 참예ᄒᆞᆫ 다시</sent>
+<sent type="main" lang="kor" page="11b" n="10">져렷틋 고달ᄅᆞᆯ 부리시니</sent>
+<sent type="main" lang="kor" page="11b" n="11">이졔 드러가 면박ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="11b" n="12">져 결긔의 반다시 한ᄉᆞ결곤ᄒᆞ여 죽일 거시오</sent>
+<sent type="main" lang="kor" page="11b" n="13">웃ᄉᆞᄅᆞᆷ의게 ᄇᆞ른 말 ᄒᆞ고 죽ᄂᆞᆫ 거슨</sent>
+<sent type="main" lang="kor" page="11b" n="14">일후의 뉴방ᄇᆡᆨ셰ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="kor" page="11b" n="15">만일 슬거워 ᄉᆡᆼ각이 돌니ᄂᆞᆫ ᄂᆞᆯ이면</sent>
+<sent type="main" lang="kor" page="11b" n="16">상덕이 어듸가지 갈 줄 아지 못ᄒᆞ리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="11b" n="17">급히 ᄯᅱ여드러가</sent>
+<sent type="main" lang="kor" page="11b" n="18">복디ᄒᆞ여 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="11b" n="19">소인은 좌ᄉᆞ 우부 젼초의 다니ᄂᆞᆫ 포ᄉᆔ옵더니</sent>
+<sent type="main" lang="kor" page="11b" n="20">ᄉᆞ도 장젼의 젹실ᄒᆞ온 말ᄉᆞᆷ을 알외고져 ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="11b" n="21">ᄃᆡ령ᄒᆞ엿ᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="11b" n="22">ᄃᆡ장이 쳐음은 발활군만 녀겨</sent>
+<sent type="main" lang="kor" page="11b" n="23">무ᄉᆞᆷ 말인지 알외라 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="11b-12a" n="24">포ᄉᆔ 갓가히 나아드러</sent><!--ᄉᆔ ^ 갓-->
+</pages>
+
+<pages n="권지상(17장본),12a">
+<img n="권지상(17장본),12a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,12a.jpg</img>
+<sent type="main" lang="kor" page="12a" n="01">다시 졀ᄒᆞ고 ᄭᅮᆯ어 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="12a" n="02">ᄉᆞ도계오셔 오ᄂᆞᆯ 습진 파후의</sent>
+<sent type="main" lang="kor" page="12a" n="03">졔집ᄉᆞ 장교 칠ᄉᆡᆨ 군병을 거ᄂᆞ리시고</sent>
+<sent type="main" lang="kor" page="12a" n="04">하문ᄒᆞ시되</sent>
+<sent type="main" lang="kor" page="12a" n="05">내가 삼국젹의 잇더면</sent>
+<sent type="main" lang="kor" page="12a" n="06">어듸 가하냐 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="12a" n="07">그 말ᄉᆞᆷ붓터 무ᄉᆡᆨᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="12a" n="08">오호ᄃᆡ장의 도라 보ᄂᆡ시니</sent>
+<sent type="main" lang="kor" page="12a" n="09">만분지일이ᄂᆞ 그림ᄌᆞ의 당ᄒᆞᆫ 말ᄉᆞᆷ이니잇가</sent>
+<sent type="main" lang="kor" page="12a" n="10">ᄉᆞ도ᄂᆞᆫ 모르시고</sent>
+<sent type="main" lang="kor" page="12a" n="11">그러히 너겨 조화ᄒᆞ시ᄂᆞ</sent>
+<sent type="main" lang="kor" page="12a" n="12">소인은 비록 초포슈라도</sent>
+<sent type="main" lang="kor" page="12a" n="13">영문 뇨ᄑᆡᄅᆞᆯ ᄎᆞ옵고</sent>
+<sent type="main" lang="kor" page="12a" n="14">ᄉᆞ도ᄅᆞᆯ 셤기ᄂᆞᆫ 도리의</sent>
+<sent type="main" lang="kor" page="12a" n="15">가장 혈긔지분을 참지 못ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="12a" n="16">연유ᄅᆞᆯ 알외고져 ᄒᆞᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12a" n="17">ᄃᆡ장이 곳 오호ᄃᆡ장을 헌 드시</sent>
+<sent type="main" lang="kor" page="12a" n="18">호긔만발ᄒᆞ던 ᄎᆞ의</sent>
+<sent type="main" lang="kor" page="12a" n="19">이놈이 드러와</sent>
+<sent type="main" lang="kor" page="12a" n="20">면박ᄒᆞᄂᆞᆫ 말ᄅᆞᆯ 드르ᄆᆡ</sent>
+<sent type="main" lang="kor" page="12a" n="21">숨을 두루지 못ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="12a" n="22">욱긔 최찰ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="12a" n="23">분긔ᄅᆞᆯ 참지 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12a" n="24">소당 즉기시의 즛쳐</sent>
+<sent type="main" lang="kor" page="12a" n="25">육장을 ᄆᆡᆫ들고 시브되</sent>
+<sent type="main" lang="kor" page="12a" n="26">상시 일ᄒᆞᄂᆞᆫ 법이</sent>
+<sent type="main" lang="kor" page="12a" n="27">아모 급ᄒᆞᆫ 일이라도</sent>
+<sent type="main" lang="kor" page="12a" n="28">ᄌᆡ삼 삷펴 명ᄇᆡᆨ히 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="12a" n="29">죄ᄅᆞᆯ 셩셜ᄒᆞ기 젼은</sent>
+<sent type="main" lang="kor" page="12a" n="30">다ᄉᆞ리ᄂᆞᆫ 일이 업는지라</sent>
+<sent type="main" lang="kor" page="12a-12b" n="31">명졍기리ᄒᆞᆫ 후</sent><!--리^ᄒᆞᆫ-->
+</pages>
+
+<pages n="권지상(17장본),12b">
+<img n="권지상(17장본),12b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,12b.jpg</img>
+<sent type="main" lang="kor" page="12b" n="01">ᄉᆡᆼᄉᆞᄅᆞᆯ 쳐치ᄒᆞ려 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="12b" n="02">그놈의 뇨ᄑᆡᄅᆞᆯ 상고ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12b" n="03">초포쉴시 젹실ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="12b" n="04">이의 ᄃᆡ장이 닐오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="12b" n="05">좌우ᄂᆞᆫ 그놈을 갓가히 올녀 안치라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12b" n="06">그놈의 모양을 볼작시면</sent>
+<sent type="main" lang="kor" page="12b" n="07">상모 업슨 우그렁 벙거지의</sent>
+<sent type="main" lang="kor" page="12b" n="08">젼복 업슨 헌 누덕 협슈만 닙고</sent>
+<sent type="main" lang="kor" page="12b" n="09">총만 남은 메투리ᄅᆞᆯ 얽어 들메고</sent>
+<sent type="main" lang="kor" page="12b" n="10">다 ᄯᅥ러진 망건 편ᄌᆞᄅᆞᆯ 두루고</sent>
+<sent type="main" lang="kor" page="12b" n="11">귓것 갓튼 놈을 올녀 안치거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="12b" n="12">ᄃᆡ장이 이윽히 보다가 갈오ᄃᆡ</sent><!--‘이윽히’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="12b" n="13">모든 의논이 나ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="12b" n="14">오호ᄃᆡ장의 가히 참예ᄒᆞ리라 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="12b" n="15">너 홀노 만분지일의도 그림ᄌᆞ의 당치 못ᄒᆞ리라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12b" n="16">네 무ᄉᆞᆷ 소견으로</sent>
+<sent type="main" lang="kor" page="12b" n="17">이럿틋 ᄭᅥᆨ지ᄅᆞ니</sent>
+<sent type="main" lang="kor" page="12b" n="18">오호ᄃᆡ장의 젼후 ᄒᆡᆼ젹과</sent>
+<sent type="main" lang="kor" page="12b" n="19">나의 가치 아닌 곡졀ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="12b" n="20">졀졀히 알외라 ᄒᆞᄂᆞᆫ 분뷔 엄졀ᄒᆞ여</sent><!--‘졀졀’에서 뒤에 오는 '졀'은 재점 표기.-->
+<sent type="main" lang="kor" page="12b" n="21">소ᄅᆡ 진막을 흔드ᄂᆞᆫ 듯ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="12b" n="22">포ᄉᆔ 조곰도 두려ᄒᆞᄂᆞᆫ 빗치 업셔</sent>
+<sent type="main" lang="kor" page="12b" n="23">다시 ᄭᅮ려 알외되</sent>
+<sent type="main" lang="kor" page="12b" n="24">한슈졍후의 일ᄅᆞᆯ 의논ᄒᆞ올진ᄃᆡ</sent>
+<sent type="main" lang="kor" page="12b-13a" n="25">문독 츈추좌시젼ᄒᆞ시고</sent><!--ᄒᆞ^시-->
+</pages>
+
+<pages n="권지상(17장본),13a">
+<img n="권지상(17장본),13a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,13a.jpg</img>
+<sent type="main" lang="kor" page="13a" n="01">무ᄉᆞ 쳥뇽언월도ᄒᆞᄉᆞ 원쇠</sent>
+<sent type="main" lang="kor" page="13a" n="02">조조와 ᄇᆡᆨ마의셔 싀살ᄒᆞᆯ 졔</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="13a" n="03">쳔창만인중의 나ᄂᆞᆫ 다시 드러가ᄉᆞ</sent>
+<sent type="main" lang="kor" page="13a" n="04">하북 명장 안량 문ᄎᆔᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="13a" n="05">일합의 버히시고</sent>
+<sent type="main" lang="kor" page="13a" n="06">젹토마ᄅᆞᆯ 두루혀</sent>
+<sent type="main" lang="kor" page="13a" n="07">만군즁의 좌츙우돌ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="13a" n="08">무인지경갓치 횡ᄒᆡᆼᄒᆞ시고 도라오시니</sent>
+<sent type="main" lang="kor" page="13a" n="09">조조의 ᄃᆡ졉ᄒᆞᄂᆞᆫ 법이</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="13a" n="10">고ᄃᆡ광실 조흔 집의</sent>
+<sent type="main" lang="kor" page="13a" n="11">금은보ᄑᆡ 버려 놋코</sent>
+<sent type="main" lang="kor" page="13a" n="12">이목지소호와 심지지소락을 극진히 ᄒᆞ여</sent><!--‘심지지소락’에서 뒤에 오는 '지'는 재점 표기.-->
+<sent type="main" lang="kor" page="13a" n="13">삼일소연ᄒᆞ고 오일ᄃᆡ연ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="13a" n="14">상마의 쳔금을 드리고</sent>
+<sent type="main" lang="kor" page="13a" n="15">하마의 ᄇᆡᆨ금을 드리며</sent>
+<sent type="main" lang="kor" page="13a" n="16">졀ᄃᆡ가인으로 ᄉᆞ후ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="13a" n="17">금셕 갓튼 마음을 변치 아니ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="13a" n="18">한슈졍후인을 글너</sent>
+<sent type="main" lang="kor" page="13a" n="19">문의 걸고</sent>
+<sent type="main" lang="kor" page="13a" n="20">ᄃᆡ장부의 거ᄎᆔᄅᆞᆯ 분명히 ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="13a" n="21">두 슈시의 거장을 호위ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="13a" n="22">독ᄒᆡᆼ쳔니ᄒᆞ실 졔</sent>
+<sent type="main" lang="kor" page="13a" n="23">명쵹달야ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="13a" n="24">오관참장ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="13a" n="25">고셩ᄒᆞᆫ 북소ᄅᆡ의 ᄯᆞ로ᄂᆞᆫ 장ᄉᆞ ᄎᆡ양을</sent><!--‘고셩ᄒᆞᆫ’의 '고'는 재점 표기.-->
+<sent type="main" lang="kor" page="13a" n="26">일합의 버히시고</sent>
+<sent type="main" lang="kor" page="13a" n="27">부귀ᄅᆞᆯ 초ᄀᆡ 갓치 녀기시며</sent>
+<sent type="main" lang="kor" page="13a" n="28">ᄃᆡ의ᄅᆞᆯ 온젼히 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="13a-13b" n="29">쳔츄의 렬과 만고 츙졀이 일월동광이라</sent><!--이 ^ 일-->
+</pages>
+
+<pages n="권지상(17장본),13b">
+<img n="권지상(17장본),13b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,13b.jpg</img>
+<sent type="main" lang="kor" page="13b" n="01">젹벽오병의 군녕장을 두시고</sent>
+<sent type="main" lang="kor" page="13b" n="02">화용도 좁은 길의</sent>
+<sent type="main" lang="kor" page="13b" n="03">조조ᄅᆞᆯ 노흐시니</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="13b" n="04">이ᄂᆞᆫ 젼일 은혜ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ시미라</sent>
+<sent type="main" lang="kor" page="13b" n="05">슈엄칠순ᄒᆞᄉᆞ 우금을 ᄉᆞ로잡고</sent>
+<sent type="main" lang="kor" page="13b" n="06">방덕을 참ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="13b" n="07">위엄이 화하의 진동ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="13b" n="08">조조의 간웅으로도</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="13b" n="09">허도ᄅᆞᆯ ᄯᅥᄂᆞ 그 봉예ᄅᆞᆯ 피ᄒᆞ여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="13b" n="10">ᄉᆞ되 아모리 ᄃᆡᆨ의셔 위엄을 ᄂᆡ신들</sent>
+<sent type="main" lang="kor" page="13b" n="11">동니의셔 ᄉᆞᄂᆞᆫ 놋것장이 풀무ᄃᆡ장 ᄒᆞᄂᆞ히ᄂᆞ</sent>
+<sent type="main" lang="kor" page="13b" n="12">집 ᄯᅥᄂᆞ려 ᄒᆞᄂᆞᆫ 놈이 잇ᄉᆞᆸᄂᆞ니잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="13b" n="13">그놈의 말이 ᄒᆞᄂᆞ토 그ᄅᆞ미 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="13b" n="14">ᄉᆞ되 긔어이 ᄒᆞᆫ 마ᄃᆡᄂᆞ 탈ᄅᆞᆯ 잡으려 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13b" n="15">다시 무러 왈</sent>
+<sent type="main" lang="kor" page="13b" n="16">장비ᄂᆞᆫ 엇더타 ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="13b" n="17">포ᄉᆔ 다시 ᄭᅮ러 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="13b" n="18">장비의 일ᄅᆞᆯ 의논ᄒᆞᆯ진ᄃᆡ</sent>
+<sent type="main" lang="kor" page="13b" n="19">만군즁의 드러가</sent>
+<sent type="main" lang="kor" page="13b" n="20">상장의 머리ᄅᆞᆯ 버히믈</sent>
+<sent type="main" lang="kor" page="13b" n="21">낭즁ᄎᆔ물갓치 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13b" n="22">서쳔을 칠 졔</sent>
+<sent type="main" lang="kor" page="13b" n="23">의셕엄안ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="13b" n="24">소과군현이 망풍귀슌ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="13b" n="25">이ᄂᆞᆫ 필부의 능히 못ᄒᆞᆯ ᄇᆡ옵고</sent>
+<sent type="main" lang="kor" page="13b" n="26">장판교상의 ᄃᆡ갈일셩의 퇴병ᄇᆡᆨ만ᄒᆞ올 졔</sent>
+<sent type="main" lang="kor" page="13b-14a" n="27">상장 하후걸이 혼비ᄇᆡᆨ산ᄒᆞ여</sent><!--걸^이-->
+</pages>
+
+<pages n="권지상(17장본),14a">
+<img n="권지상(17장본),14a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,14a.jpg</img>
+<sent type="main" lang="kor" page="14a" n="01">마하의 ᄯᅥ러져</sent>
+<sent type="main" lang="kor" page="14a" n="02">투구ᄅᆞᆯ ᄭᆡ치고</sent>
+<sent type="main" lang="kor" page="14a" n="03">면상을 볏기며</sent>
+<sent type="main" lang="kor" page="14a" n="04">긔졀ᄒᆞ여 업더져ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="14a" n="05">ᄉᆞ되 아모리 호통ᄒᆞ시ᄂᆞ</sent>
+<sent type="main" lang="kor" page="14a" n="06">ᄒᆡᆼ낭의 ᄌᆞ식 세 살 먹은 것 ᄒᆞᆫᄂᆞ히ᄂᆞ</sent>
+<sent type="main" lang="kor" page="14a" n="07">놀ᄂᆞ 쥬초돌의 ᄯᅥ러졋단 말ᄉᆞᆷ을</sent>
+<sent type="main" lang="kor" page="14a" n="08">듯ᄉᆞᆸ지 못ᄒᆞ엿ᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="14a" n="09">그 말이 다 유리ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="14a" n="10">ᄃᆡ장이 ᄯᅩ 문 왈</sent>
+<sent type="main" lang="kor" page="14a" n="11">그ᄂᆞᆫ 그러ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="14a" n="12">조운은 엇더ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="14a" n="13">포ᄉᆔ 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="14a" n="14">ᄌᆞ룡은 장판파의셔</sent>
+<sent type="main" lang="kor" page="14a" n="15">아두ᄅᆞᆯ 품의 품고</sent>
+<sent type="main" lang="kor" page="14a" n="16">필마단창으로 십만 조병을 싀살ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="14a" n="17">시셕이 비 오듯ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="14a" n="18">항복ᄒᆞᆯ ᄯᅳᆺ이 업고</sent>
+<sent type="main" lang="kor" page="14a" n="19">홀노 조조의 명장 슈십을 ᄃᆡ젹ᄒᆞ고</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="14a" n="20">하북 명장 장합을 즛치며</sent><!--‘명장 장합’에서 뒤에 오는 '장'은 재점 표기.-->
+<sent type="main" lang="kor" page="14a" n="21">쳔창만인즁의 드러가</sent>
+<sent type="main" lang="kor" page="14a" n="22">허다 명장을 죽이고</sent>
+<sent type="main" lang="kor" page="14a" n="23">쳥강검을 둘너</sent>
+<sent type="main" lang="kor" page="14a" n="24">무인지경갓치 좌츙우돌ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="14a" n="25">ᄃᆡ적ᄒᆞᆯ ᄌᆡ 업셔ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="14a" n="26">황츙을 구ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="14a" n="27">필마단창으로 북산의 드러가</sent>
+<sent type="main" lang="kor" page="14a" n="28">횡ᄒᆡᆼᄒᆞ기ᄅᆞᆯ 무인지경갓치 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="14a" n="29">버거 장뎨ᄅᆞᆯ 졉응ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="14a-14b" n="30">창 쓰ᄂᆞᆫ 법이 일신의 니홰 ᄂᆞᆯ니ᄂᆞᆫ 듯ᄒᆞ오니</sent><!--듯^ᄒᆞ-->
+</pages>
+
+<pages n="권지상(17장본),14b">
+<img n="권지상(17장본),14b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,14b.jpg</img>
+<sent type="main" lang="kor" page="14b" n="01">조죄 경산의셔 ᄇᆞ라보고</sent>
+<sent type="main" lang="kor" page="14b" n="02">하령 왈</sent>
+<sent type="main" lang="kor" page="14b" n="03">당양 장판파 영웅이 그져 잇스니</sent>
+<sent type="main" lang="kor" page="14b" n="04">ᄯᆞ르지 말ᄂᆞ ᄒᆞ여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="14b" n="05">ᄉᆞ도계옵셔 군즁은 고ᄉᆞᄒᆞ고</sent>
+<sent type="main" lang="kor" page="14b" n="06">종용ᄒᆞᆫ 뉴진 속의셔</sent>
+<sent type="main" lang="kor" page="14b" n="07">창 들고 말 달녀</sent>
+<sent type="main" lang="kor" page="14b" n="08">군긔시 별파진 죽게 된 놈</sent>
+<sent type="main" lang="kor" page="14b" n="09">다여셧시 막셔면</sent>
+<sent type="main" lang="kor" page="14b" n="10">사되 당ᄒᆞ실 슈단이 잇ᄉᆞᆸᄂᆞ니잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="14b" n="11">ᄃᆡ장이 쳥필의 문득 진노 왈</sent>
+<sent type="main" lang="kor" page="14b" n="12">그는 그럿타 ᄒᆞ려니와</sent>
+<sent type="main" lang="kor" page="14b" n="13">ᄯᅩ 마초ᄂᆞᆫ 엇더ᄒᆞᆫ ᄉᆞᄅᆞᆷ인고</sent>
+<sent type="main" lang="kor" page="14b" n="14">포ᄉᆔ 조곰도 두려ᄒᆞ미 업고</sent>
+<sent type="main" lang="kor" page="14b" n="15">졍신을 가다드마 알외되</sent>
+<sent type="main" lang="kor" page="14b" n="16">마초ᄂᆞᆫ 가문으로 ᄒᆞ와도</sent>
+<sent type="main" lang="kor" page="14b" n="17">ᄉᆞ되 당치 못ᄒᆞ시리이다</sent>
+<sent type="main" lang="kor" page="14b" n="18">초방지친 복파장군 마완의 손이오</sent>
+<sent type="main" lang="kor" page="14b" n="19">셔량 ᄐᆡ슈 마등의 ᄋᆞ들이오</sent>
+<sent type="main" lang="kor" page="14b" n="20">벼슬이 텬마ᄃᆡ장군 셔량도원ᄉᆔ라</sent>
+<sent type="main" lang="kor" page="14b" n="21">얼골은 관옥 갓고</sent>
+<sent type="main" lang="kor" page="14b" n="22">위풍이 늠늠ᄒᆞ여</sent><!--‘늠늠’에서 뒤에 오는 '늠'은 재점 표기.-->
+<sent type="main" lang="kor" page="14b" n="23">만부부당지용이 잇ᄂᆞᆫ지라</sent><!--‘만부부당’에서 뒤에 오는 '부'는 재점 표기.-->
+<sent type="main" lang="kor" page="14b" n="24">동관 ᄊᆞ홈의 조조의</sent><!--‘조조’에서 뒤에 오는 '조'는 재점 표기.-->
+<sent type="main" lang="kor" page="14b" n="25">ᄇᆡᆨ만ᄃᆡ군을 즛치고 ᄯᆞ라갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="14b" n="26">조죄 이 ᄯᆡᄅᆞᆯ 당ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="14b" n="27">오즉 답답ᄒᆞ여야</sent><!--‘답답’에서 뒤에 오는 '답'은 재점 표기.-->
+<sent type="main" lang="kor" page="14b" n="28">나롯슬 다 깍고 변셩명ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="14b" n="29">ᄌᆔ 숨듯 다라ᄂᆞ며</sent>
+</pages>
+
+<pages n="권지상(17장본),15a">
+<img n="권지상(17장본),15a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,15a.jpg</img>
+<sent type="main" lang="kor" page="15a" n="01">보젼뉵장ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="15a" n="02">일ᄇᆡᆨ근 방쳔극을 두루고</sent>
+<sent type="main" lang="kor" page="15a" n="03">서황 허졔 니젼 악진 장뇨 문빙 여셧 장슈ᄅᆞᆯ ᄃᆡ젹ᄒᆞ여ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="15a" n="04">ᄉᆞ도계셔 ᄇᆞ즈랑이ᄅᆞᆯ 들고</sent>
+<sent type="main" lang="kor" page="15a" n="05">큰 ᄒᆡᆼ길의 ᄂᆡ다라 고셩ᄃᆡᄆᆡᄒᆞ시ᄂᆞ</sent>
+<sent type="main" lang="kor" page="15a" n="06">어ᄂᆡ 거ᄅᆞᆷ장ᄉᆞ 헌쇠장ᄉᆞ ᄒᆞᆫ나 ᄶᅩ치여 갈</sent>
+<sent type="main" lang="kor" page="15a" n="07">병신 ᄇᆞ삭의 ᄋᆞ들놈이 잇ᄉᆞᆸᄂᆞ니잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="15a" n="08">ᄃᆡ장이 그 말ᄅᆞᆯ 듯고</sent>
+<sent type="main" lang="kor" page="15a" n="09">어히업셔 ᄯᅩ 문 왈</sent>
+<sent type="main" lang="kor" page="15a" n="10">황츙은 엇더ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="15a" n="11">포ᄉᆔ 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="15a" n="12">황츙은 나히 칠십의 삼셕궁을 다릐고</sent>
+<sent type="main" lang="kor" page="15a" n="13">ᄇᆡᆨ보쳔양ᄒᆞᄂᆞᆫ ᄌᆡ죄 신츌귀몰ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15a" n="14">쳔니마ᄅᆞᆯ 능히 타며</sent>
+<sent type="main" lang="kor" page="15a" n="15">정군산 ᄊᆞ홈의 ᄇᆡᆨ슈ᄅᆞᆯ 흣ᄂᆞᆯ니고</sent>
+<sent type="main" lang="kor" page="15a" n="16">ᄌᆞ금봉시 투구ᄅᆞᆯ 졋게 쓰고</sent>
+<sent type="main" lang="kor" page="15a" n="17">황금뇽닌갑을 굿게 닙으며</sent>
+<sent type="main" lang="kor" page="15a" n="18">ᄃᆡ도ᄅᆞᆯ 빗기 들고</sent>
+<sent type="main" lang="kor" page="15a" n="19">ᄆᆡᆼ장 하후연을 일합의 버혀 ᄂᆞ리치니</sent>
+<sent type="main" lang="kor" page="15a" n="20">조죄 담이 ᄯᅥ러지고</sent>
+<sent type="main" lang="kor" page="15a" n="21">넉시 다라ᄂᆞ며</sent>
+<sent type="main" lang="kor" page="15a" n="22">북산하의 나아가</sent>
+<sent type="main" lang="kor" page="15a" n="23">뫼갓치 ᄊᆞ흔 냥초ᄅᆞᆯ 불지르고</sent>
+<sent type="main" lang="kor" page="15a" n="24">좌츙우돌ᄒᆞ여 ᄯᅱ여나와ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="15a" n="25">ᄉᆞ도계셔 동니 집의 불붓트면</sent>
+<sent type="main" lang="kor" page="15a-15b" n="26">넉가ᄅᆡ장부 ᄒᆞᆫᄂᆞ 들고</sent><!--ᄂᆞ ^ 들-->
+</pages>
+
+<pages n="권지상(17장본),15b">
+<img n="권지상(17장본),15b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,15b.jpg</img>
+<sent type="main" lang="kor" page="15b" n="01">능히 불 속의 드러가</sent>
+<sent type="main" lang="kor" page="15b" n="02">굿보ᄂᆞᆫ ᄉᆞᄅᆞᆷ을 ᄶᅩᄎᆞ</sent>
+<sent type="main" lang="kor" page="15b" n="03">좌츙우돌ᄒᆞ실 슈단이 잇ᄉᆞᆸᄂᆞ니잇가</sent>
+<sent type="main" lang="kor" page="15b" n="04">이 오호ᄃᆡ장으로 의논홀진ᄃᆡ</sent>
+<sent type="main" lang="kor" page="15b" n="05">만분지일이나 그림ᄌᆞ의 당ᄒᆞᆫ 슈단이 잇ᄉᆞ오리잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="15b" n="06">그 포슈의 말이 명졍언슌ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="15b" n="07">졀졀이 ᄉᆞ리의 당치 아니미 업ᄂᆞᆫ지라</sent><!--‘졀졀’에서 뒤에 오는 '졀'은 재점 표기.-->
+<sent type="main" lang="kor" page="15b" n="08">ᄃᆡ장이 ᄌᆞ초지종을 드ᄅᆞᄆᆡ</sent>
+<sent type="main" lang="kor" page="15b" n="09">아모리 분ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="15b" n="10">일ᄅᆞᆯ 명ᄇᆡᆨ히 ᄒᆞᄂᆞᆫ 터의</sent>
+<sent type="main" lang="kor" page="15b" n="11">죄ᄅᆞᆯ 줄 모ᄎᆡᆨ이 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="15b" n="12">ᄯᅩ 증걸의 무ᄅᆞ되</sent>
+<sent type="main" lang="kor" page="15b" n="13">그러ᄒᆞ면 내가 가히</sent><!--‘가히’의 '가'는 재점 표기.-->
+<sent type="main" lang="kor" page="15b" n="14">화병의도 참에치 못ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="15b" n="15">포ᄉᆔ 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="15b" n="16">그거시 용이ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15b" n="17">미셰ᄒᆞᆫ 듯ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="15b" n="18">ᄉᆞ도계셔ᄂᆞᆫ 더욱 어렵ᄉᆞ외다</sent>
+<sent type="main" lang="kor" page="15b" n="19">ᄃᆡ장이 ᄃᆡ로ᄒᆞ여 고셩 왈</sent>
+<sent type="main" lang="kor" page="15b" n="20">그ᄂᆞᆫ 엇지ᄒᆞ여 그러ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="15b" n="21">포ᄉᆔ ᄃᆡ 왈</sent>
+<sent type="main" lang="kor" page="15b" n="22">한 소렬황뎨 동오왕 손권을 치라 가실 ᄯᆡ</sent>
+<sent type="main" lang="kor" page="15b" n="23">경국지병을 다 일릐히</sent>
+<sent type="main" lang="kor" page="15b" n="24">촉즁 명장 거ᄂᆞ리시고</sent>
+<sent type="main" lang="kor" page="15b" n="25">강동 팔십일쥬ᄅᆞᆯ ᄇᆞ라보고</sent>
+<sent type="main" lang="kor" page="15b" n="26">나아가실 졔 보건ᄃᆡ</sent>
+<sent type="main" lang="kor" page="15b" n="27">좌션봉 상장 조운이오</sent>
+<sent type="main" lang="kor" page="15b" n="28">우선봉 위연이오</sent>
+<sent type="main" lang="kor" page="15b-16a" n="29">보군장 셔량 마ᄃᆡ라</sent><!--셔^량-->
+</pages>
+
+<pages n="권지상(17장본),16a">
+<img n="권지상(17장본),16a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,16a.jpg</img>
+<sent type="main" lang="kor" page="16a" n="01">쳘긔병 오마작ᄃᆡ로</sent>
+<sent type="main" lang="kor" page="16a" n="02">오방기치 슌시 영긔 쥬장 곤장 관이 녕젼 검극이 삼녈ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="16a" n="03">칠ᄇᆡᆨ 니의 버러 잇고</sent>
+<sent type="main" lang="kor" page="16a" n="04">납함 소ᄅᆡ 텬디 진동ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="16a" n="05">퉁노구 밥그릇 환도 조총 구약통 납ᄂᆞᆯᄀᆡ기 마젹 마ᄅᆞᆷ쇠 도ᄅᆡ송곳 등물ᄅᆞᆯ</sent>
+<sent type="main" lang="kor" page="16a" n="06">모도 주어 걸머지고</sent>
+<sent type="main" lang="kor" page="16a" n="07">오십 니식 뉵십 니식 압셔 가셔</sent>
+<sent type="main" lang="kor" page="16a" n="08">고봉준녕을 치다르며 나리 다라</sent>
+<sent type="main" lang="kor" page="16a" n="09">ᄀᆡ골쳔 놉흔 ᄃᆡ와 나즌 ᄃᆡ며</sent>
+<sent type="main" lang="kor" page="16a" n="10">시ᄂᆡ물ᄅᆞᆯ 줄줄 건너ᄯᅱ며</sent><!--‘줄줄’에서 뒤에 오는 '줄'은 재점 표기.-->
+<sent type="main" lang="kor" page="16a" n="11">뫼흘 맛ᄂᆞ면 길ᄅᆞᆯ 열고</sent>
+<sent type="main" lang="kor" page="16a" n="12">물ᄅᆞᆯ 맛ᄂᆞ면 다리ᄅᆞᆯ 노화</sent>
+<sent type="main" lang="kor" page="16a" n="13">지경ᄃᆡ후 분명히 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="16a" n="14">만군의 격기ᄅᆞᆯ ᄎᆞ리옵ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="16a" n="15">ᄉᆞ도계셔ᄂᆞᆫ 그런 등물ᄅᆞᆯ 지기ᄂᆞᆫ 고ᄉᆞᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="16a" n="16">그져 거러 십 니만 가옵셔도</sent>
+<sent type="main" lang="kor" page="16a" n="17">발이 둥그러케 부릇고</sent>
+<sent type="main" lang="kor" page="16a" n="18">허긔져 진ᄯᅡᆷ을 줄줄 흘니실 거시니</sent><!--‘줄줄’에서 뒤에 오는 '줄'은 재점 표기.-->
+<sent type="main" lang="kor" page="16a" n="19">흙 ᄒᆞᆫ 줌 돌 ᄒᆞᆫ 덩이 물 ᄒᆞᆫ 통을</sent>
+<sent type="main" lang="kor" page="16a" n="20">능히 추여 들 슈단이 잇ᄉᆞᆸᄂᆞ니잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="16a" n="21">ᄃᆡ장이 이 말ᄅᆞᆯ 드ᄅᆞᄆᆡ</sent><!--‘이 말ᄅᆞᆯ’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="16a" n="22">조곰도 그ᄅᆞ미 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="16a-16b" n="23">이의 갈오ᄃᆡ</sent><!--갈^오-->
+</pages>
+
+<pages n="권지상(17장본),16b">
+<img n="권지상(17장본),16b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,16b.jpg</img>
+<sent type="main" lang="kor" page="16b" n="01">그는 과연 ᄯᅡᆫ판이라</sent>
+<sent type="main" lang="kor" page="16b" n="02">길이 달ᄂᆞ 죽어도 헐 슈 업도다</sent>
+<sent type="main" lang="kor" page="16b" n="03">그러ᄒᆞᄂᆞ 화병의도 참예치 못ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="16b" n="04">무ᄉᆞᆷ 소임의 가ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="16b" n="05">포ᄉᆔ 그졔야 ᄃᆡ장의 긔운이 최찰ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="16b" n="06">그 호긔 쥬러져스믈 보고</sent>
+<sent type="main" lang="kor" page="16b" n="07">푸러 알외ᄃᆡ</sent>
+<sent type="main" lang="kor" page="16b" n="08">소인이 엇지 남의 원통ᄒᆞ온 말ᄉᆞᆷ이야 ᄒᆞ오리잇가</sent>
+<sent type="main" lang="kor" page="16b" n="09">ᄉᆞ되계셔 본ᄃᆡ 지쳬 조흐시고</sent>
+<sent type="main" lang="kor" page="16b" n="10">장종으로 나려오옵시니</sent>
+<sent type="main" lang="kor" page="16b" n="11">호반의 초입ᄉᆞᄒᆞ여</sent>
+<sent type="main" lang="kor" page="16b" n="12">좀벼슬ᄅᆞᆯ ᄒᆞ옵시리이다</sent>
+<sent type="main" lang="kor" page="16b" n="13">ᄃᆡ장이 갈오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="16b" n="14">무ᄉᆞᆷ 벼슬의 가ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="16b" n="15">포ᄉᆔ 왈</sent>
+<sent type="main" lang="kor" page="16b" n="16">촉한 후쥬 유션이</sent>
+<sent type="main" lang="kor" page="16b" n="17">즉위 원년의 승샹 졔갈무후로</sent>
+<sent type="main" lang="kor" page="16b" n="18">한즁병을 거ᄂᆞ리고</sent>
+<sent type="main" lang="kor" page="16b" n="19">오월 도로ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="16b" n="20">남만 ᄆᆡᆼ학을 칠종칠금ᄒᆞ라 갈 졔</sent>
+<sent type="main" lang="kor" page="16b" n="21">황ᄉᆞᄌᆡ 쳥ᄉᆞᄌᆡ 목우뉴마ᄅᆞᆯ 거ᄂᆞ리고</sent>
+<sent type="main" lang="kor" page="16b" n="22">경셩 십 니 밧긔 노상결진ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="16b" n="23">츌ᄉᆞ표 올닌 후의</sent>
+<sent type="main" lang="kor" page="16b" n="24">ᄐᆡᆨ일ᄒᆡᆼ군ᄒᆞ올 젹의</sent>
+<sent type="main" lang="kor" page="16b" n="25">그ᄯᆡ ᄉᆞ도계셔 션젼관으로셔</sent>
+<sent type="main" lang="kor" page="16b" n="26">운문ᄃᆡ단 젼복의 은조ᄉᆞ 관듸ᄅᆞᆯ 입고</sent>
+<sent type="main" lang="kor" page="16b-17a" n="27">호랑 흉ᄇᆡ의 장검을 ᄎᆞ고</sent><!--을 ^ ᄎᆞ-->
+</pages>
+
+<pages n="권지상(17장본),17a">
+<img n="권지상(17장본),17a">https://kohico.kr/_media/image/서명/삼설기권지상17장본,17a.jpg</img>
+<sent type="main" lang="kor" page="17a" n="01">호ᄉᆞᄅᆞᆯ 능난히 ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="17a" n="01">표신을 들고</sent>
+<sent type="main" lang="kor" page="17a" n="02">조흔 ᄉᆞ복마ᄅᆞᆯ 타시고</sent>
+<sent type="main" lang="kor" page="17a" n="03">큰 ᄒᆡᆼ길노 오락가락ᄒᆞ실 밧게</sent>
+<sent type="main" lang="kor" page="17a" n="04">더홀 슈 업ᄉᆞ오리이다</sent>
+<sent type="main" lang="kor" page="17a" n="05">ᄃᆡ장이 소 왈</sent>
+<sent type="main" lang="kor" page="17a" n="06"> 긔특ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="17a" n="07">네가 그리도 내 가문은 ᄭᆡ오지 아니ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="17a" n="08">너도 그 ᄯᆡ 잇더면</sent>
+<sent type="main" lang="kor" page="17a" n="09">무ᄉᆞᆷ 소임을 홀듯ᄒᆞ냐</sent>
+<sent type="main" lang="kor" page="17a" n="10">포ᄉᆔ 왈</sent>
+<sent type="main" lang="kor" page="17a" n="11">소인은 삼국젹 시졀 마옵고</sent>
+<sent type="main" lang="kor" page="17a" n="12">츈츄젼국시졀의 나서도</sent>
+<sent type="main" lang="kor" page="17a" n="13">교련관 한 ᄌᆞ리ᄂᆞᆫ ᄯᅥ메고 잇ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="17a" n="14">ᄃᆡ장이 우으며 왈</sent>
+<sent type="main" lang="kor" page="17a" n="15">엇지ᄒᆞ여 그러ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="17a" n="16">포ᄉᆔ 왈</sent>
+<sent type="main" lang="kor" page="17a" n="17">교련관의 소임은 불과 삼ᄉᆞ 조건이오니</sent>
+<sent type="main" lang="kor" page="17a" n="18">장슈 셤길 줄이ᄂᆞ 아옵고</sent>
+<sent type="main" lang="kor" page="17a" n="19">긔치방ᄉᆡᆨ 풀니여 가ᄂᆞᆫ 법이ᄂᆞ 아옵고</sent>
+<sent type="main" lang="kor" page="17a" n="20">녕젼 기ᄎᆔᄂᆞ 아옵고</sent>
+<sent type="main" lang="kor" page="17a" n="21">긔고 녕졉이ᄂᆞ 아옵고</sent>
+<sent type="main" lang="kor" page="17a" n="22">병셔ᄅᆞᆯ 달통ᄒᆞ오면</sent>
+<sent type="main" lang="kor" page="17a" n="23">교련관 ᄌᆡ목이 넉넉ᄒᆞ오며</sent><!--‘넉넉’에서 뒤에 오는 '넉'은 재점 표기.-->
+<sent type="main" lang="kor" page="17a" n="24">병셔ᄅᆞᆯ ᄃᆡ강 고ᄒᆞ오리니</sent>
+<sent type="main" lang="kor" page="17a" n="25">듯ᄌᆞ와 보옵소셔 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="17a" n="26">ᄃᆡ강 외오되 ᄃᆡ장 쳥도되라</sent>
+<sent type="main" lang="kor" page="17a" n="27">쳥도 ᄒᆞᆫ 쌍 나 ᄒᆞᆫ 쌍</sent>
+<sent type="main" lang="kor" page="17a" n="28">홍문 ᄒᆞᆫ 쌍 ᄌᆡᆼ ᄒᆞᆫ 쌍</sent>
+<sent type="main" lang="kor" page="17a" n="29">동남각 셔남각과 병이 부조ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="17a-17b" n="30">긔치방ᄉᆡᆨᄒᆞ고 하칭인원ᄒᆞ고</sent><!--ᄒᆞ^고-->
+</pages>
+
+<pages n="권지상(17장본),17b">
+<img n="권지상(17장본),17b">https://kohico.kr/_media/image/서명/삼설기권지상17장본,17b.jpg</img>
+<sent type="main" lang="kor" page="17b" n="01">구ᄅᆡ분부ᄅᆞᆯ 결불허쳥ᄒᆞ라 ᄒᆞ며 갈오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="17b" n="02"> 병셔ᄅᆞᆯ 다 외오고 시브되</sent>
+<sent type="main" lang="kor" page="17b" n="03">ᄉᆞ되 병셔 공부ᄅᆞᆯ ᄒᆞ시단 말ᄉᆞᆷ</sent>
+<sent type="main" lang="kor" page="17b" n="04">듯지 못ᄒᆞ엿ᄉᆞᆸ기 그만 알외ᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="17b" n="05">ᄃᆡ장이 본ᄃᆡ 통달ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="17b" n="06">소ᄅᆡᄅᆞᆯ 놉혀 왈</sent>
+<sent type="main" lang="kor" page="17b" n="07">앗가 나ᄅᆞᆯ 삼국젹 오호ᄃᆡ장의 참예ᄒᆞ리라 ᄒᆞ던</sent>
+<sent type="main" lang="kor" page="17b" n="08">집ᄉᆞᄅᆞᆯ 부르라 ᄒᆞ어</sent>
+<sent type="main" lang="kor" page="17b" n="09">ᄭᅮ지져 왈</sent>
+<sent type="main" lang="kor" page="17b" n="10">장막간이라 ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="kor" page="17b" n="11">부ᄌᆞ간과 갓튼지라</sent>
+<sent type="main" lang="kor" page="17b" n="12">가ᄉᆞ 아비 그른 일이 이스면</sent><!--‘이스면’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="17b" n="13">ᄌᆞ식이 간ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="kor" page="17b" n="14">ᄉᆞ리의 당연ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="17b" n="15">장ᄉᆔ 허믈이 이스면</sent><!--‘이스면’의 '이'는 재점 표기.-->
+<sent type="main" lang="kor" page="17b" n="16">막ᄒᆡ ᄇᆞ른 ᄃᆡ로 간ᄒᆞ미 올커ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="17b" n="17">너희 등이 아유쳠영ᄒᆞ믈 일삼아</sent>
+<sent type="main" lang="kor" page="17b" n="18">나의 말ᄅᆞᆯ 곡종ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="17b" n="19">나ᄅᆞᆯ 무슈히 두루든가 시브니</sent>
+<sent type="main" lang="kor" page="17b" n="20">그리ᄂᆞᆫ 가이 용셔치 못ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="kor" page="17b" n="21">져놈의 말은 진졍을 다ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="17b" n="22">ᄒᆞᆫ 말도 그ᄅᆞ미 업스니</sent>
+<sent type="main" lang="kor" page="17b" n="23">가히 긔특다 ᄒᆞᆯ지라</sent>
+<sent type="main" lang="kor" page="17b" n="24">네 장ᄑᆡᄅᆞᆯ 글너</sent>
+<sent type="main" lang="kor" page="17b" n="25">져 군ᄉᆞᄅᆞᆯ ᄎᆡ오고</sent>
+<sent type="main" lang="kor" page="17b" n="26">져 놈의 뇨ᄑᆡᄂᆞᆫ ᄯᅥ혀 네 ᄎᆞ고</sent>
+<sent type="main" lang="kor" page="17b" n="27">거ᄒᆡᆼ을 착실히 ᄒᆞ라 ᄒᆞ더라</sent>
+</pages>
+</doc>
+

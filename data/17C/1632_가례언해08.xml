@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">가례언해</title>
+<title lang="chi">家禮諺解</title>
+<full_name>가례언해</full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<nikl_name>가례언해</nikl_name><!--국립국어원(NIKL) 국어 어원사전 편찬 일반서명-->
+<general_name>가례언해</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name>가례언해; 가례해; 가언</another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고]가례;[디]가례해;가언;[우]가례;[이]가언;[표]가언;</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version>규장각본</version><!--청구기호: 奎1506. 권1 영본. 서울대 규장각, 가람문고, 경북대 도서관, 연세대 도서관, 고려대 도서관, 고려대 도서관 경화당문고, 장서각, 일본 동경대 오구라문고, 한글박물관 등에 있음.-->
+<volume n="8"/><!--가례언해범례, 가례도언해, 가례서언해, 가례언해 권지일 포함-->
+<author>신식</author>
+<date>1632</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>家禮諺解 券八</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각 영인본</publisher>
+<date>1983</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2016/02/15</date>
+<respStmt>
+<resp>입력자</resp><name>최종원</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>박진호</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/11</date>
+<respStmt>
+<resp>입력자</resp><name>이강혁</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정한데로</name>
+</respStmt>
+<item>한문 원문을 추가함</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/1632_가례언해08/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="1">家禮諺解券之八</sent>
+<sent type="title2" lang="chi" page="01a" n="2">喪禮四 遷柩 朝祖 奠 賻 陳器 祖奠</sent>
+<sent type="main" lang="chi" page="01a" n="3">發引前一日에 因朝奠ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="01a" n="3">發引 前 一 日에 朝奠을 因ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="01a" n="4">以遷柩告ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="01a" n="4">遷柩호모로ᄡᅥ 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="01a" n="5">設饌 如朝奠</sent>
+<sent type="anno" lang="kor" page="01a" n="5">設饌호ᄆᆞᆯ 朝奠ᄀᆞ티 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="01a" n="6">祝斟酒訖</sent>
+<sent type="anno" lang="kor" page="01a" n="6">祝이 술 븟기 ᄆᆞᆺ고</sent>
+<sent type="anno" lang="chi" page="01a" n="7">北面跪 告曰</sent>
+<sent type="anno" lang="kor" page="01a" n="7">北面ᄒᆞ야 ᄭᅮ러 告ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="01a" n="8">今以吉辰遷柩 敢告</sent>
+<sent type="anno" lang="kor" page="01a" n="8">今以吉辰에 遷柩敢告ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="01a" n="9">俛伏興</sent>
+<sent type="anno" lang="kor" page="01a" n="9">업데고 닐거든</sent>
+<sent type="anno" lang="chi" page="01a-01b" n="10">主人以下哭盡哀 再拜</sent>
+<sent type="anno" lang="kor" page="01a-01b" n="10">主人 以下ᅟᅵ 哭호ᄆᆞᆯ 盡哀ᄒᆞ고 再拜ᄒᆞ라</sent><!--以^下-->
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/1632_가례언해08/01b.jpg</img>
+<sent type="anno" lang="chi" page="01b" n="1">葢古有啓殯之奠</sent>
+<sent type="anno" lang="kor" page="01b" n="1">盖 녜ᄂᆞᆫ 啓殯ᄒᆞᄂᆞᆫ 奠이 잇더니</sent>
+<sent type="anno" lang="chi" page="01b" n="2">今既不塗殯</sent>
+<sent type="anno" lang="kor" page="01b" n="2">이제ᄂᆞᆫ 임의 殯소ᄅᆞᆯ ᄒᆞᆰ ᄇᆞᄅᆞ디 아니ᄒᆞᆫ 則</sent>
+<sent type="anno" lang="chi" page="01b" n="3">則其禮無所施</sent>
+<sent type="anno" lang="kor" page="01b" n="3">그 禮 ᄡᅳᆯ ᄃᆡ 업소ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="01b" n="4">又不可全無節文</sent>
+<sent type="anno" lang="kor" page="01b" n="4">ᄯᅩ 可히 아조 節文이 업디 몯ᄒᆞᆯ 거시모로</sent>
+<sent type="anno" lang="chi" page="01b" n="5">故為此禮也</sent>
+<sent type="anno" lang="kor" page="01b" n="5">이 禮ᄅᆞᆯ ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="01b" n="6">楊氏復曰</sent>
+<sent type="anno" lang="kor" page="01b" n="6">楊氏 復이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="01b" n="7">古禮自啓殯至卒哭</sent>
+<sent type="anno" lang="kor" page="01b" n="7">녯 禮애 啓殯호므로브터 卒哭애 니ᄅᆞ러</sent>
+<sent type="anno" lang="chi" page="01b" n="8">更有兩變服之節</sent>
+<sent type="anno" lang="kor" page="01b" n="8">다시 두 번 變服ᄒᆞᄂᆞᆫ 節목이 이시니</sent>
+<sent type="anno" lang="chi" page="01b" n="9">啓殯 斬衰男子括髪</sent>
+<sent type="anno" lang="kor" page="01b" n="9">啓殯애 斬衰ᄒᆞᆫ 男子ᄂᆞᆫ 髮을 括ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="01b" n="10">婦人髽</sent>
+<sent type="anno" lang="kor" page="01b" n="10">婦人은 髽ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="01b" n="11">葢小歛括髪 髽</sent>
+<sent type="anno" lang="kor" page="01b" n="11">盖 小斂애 括髮ᄒᆞ며 髽ᄒᆞᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="01b" n="12">今啓殯亦見尸柩</sent>
+<sent type="anno" lang="kor" page="01b" n="12">이제 啓殯애 ᄯᅩᄒᆞᆫ 尸柩ᄅᆞᆯ 본 故로</sent>
+<sent type="anno" lang="chi" page="01b" n="13">故變同小歛之節也</sent>
+<sent type="anno" lang="kor" page="01b" n="13">變복호미 小斂 節목과 ᄀᆞᆺᄐᆞ니</sent>
+<sent type="anno" lang="chi" page="01b-02a" n="14">此是一節</sent>
+<sent type="anno" lang="kor" page="01b-02a" n="14">이 ᄒᆞᆫ 節목이라</sent><!--이 ^ ᄒᆞᆫ-->
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/1632_가례언해08/02a.jpg</img>
+<sent type="anno" lang="chi" page="02a" n="1">今既不塗殯</sent>
+<sent type="anno" lang="kor" page="02a" n="1">이제 임의 殯을 ᄒᆞᆰ ᄇᆞᄅᆞ디 아니ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="02a" n="2">則亦不啓</sent>
+<sent type="anno" lang="kor" page="02a" n="2">곧 ᄯᅩᄒᆞᆫ 啓티 아니니</sent>
+<sent type="anno" lang="chi" page="02a" n="3">雖不變服可也</sent>
+<sent type="anno" lang="kor" page="02a" n="3">비록 變服디 아니ᄒᆞᆯ디라도 可ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="02a" n="4">古禮啓殯之後 斬衰男子免</sent>
+<sent type="anno" lang="kor" page="02a" n="4">古禮애 啓殯ᄒᆞᆫ 後애 斬衰ᄒᆞᆫ 男子ᅟᅵ 免ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="02a" n="5">至虞卒哭 皆免</sent>
+<sent type="anno" lang="kor" page="02a" n="5">虞졔와 卒哭애 니ᄅᆞ러 다 免ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="02a" n="6">此又是一節</sent>
+<sent type="anno" lang="kor" page="02a" n="6">이 ᄯᅩᄒᆞᆫ 節목이라</sent>
+<sent type="anno" lang="chi" page="02a" n="7">開元禮 主人及諸子皆去冠絰</sent>
+<sent type="anno" lang="kor" page="02a" n="7">開元禮애 主人과 밋 諸子ᅟᅵ 다 冠과 絰을 업시 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="02a" n="8">以邪布巾帕頭</sent>
+<sent type="anno" lang="kor" page="02a" n="8">邪布巾으로ᄡᅥ 머리예 帕ᄒᆞ라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="02a" n="9">亦放古意</sent>
+<sent type="anno" lang="kor" page="02a" n="9">ᄯᅩᄒᆞᆫ 녯 ᄠᅳᄃᆞᆯ 의放ᄒᆞ얏거ᄅᆞᆯ</sent>
+<sent type="anno" lang="chi" page="02a" n="10">家禮今皆不用 何也</sent>
+<sent type="anno" lang="kor" page="02a" n="10">家禮애 이제 다 ᄡᅳ디 아니홈은 엇디오</sent>
+<sent type="anno" lang="chi" page="02a" n="11">司馬公曰</sent>
+<sent type="anno" lang="kor" page="02a" n="11">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="02a" n="12">自啓殯至于卒哭</sent>
+<sent type="anno" lang="kor" page="02a" n="12">啓殯으로브터 卒哭애 니ᄅᆞ히</sent>
+<sent type="anno" lang="chi" page="02a" n="13">日數甚多</sent>
+<sent type="anno" lang="kor" page="02a" n="13">日數ᅟᅵ 甚히 만ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="02a-02b" n="14">若使五服之親 皆不冠 而袒免</sent>
+<sent type="anno" lang="kor" page="02a-02b" n="14">만일 五服읫 親으로 ᄒᆡ여곰 다 冠티 아니ᄒᆞ고 袒ᄒᆞ며 免ᄒᆞ면</sent><!--服^읫-->
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/1632_가례언해08/02b.jpg</img>
+<sent type="anno" lang="chi" page="02b" n="1">恐其驚俗</sent>
+<sent type="anno" lang="kor" page="02b" n="1">적컨댄 그 俗을 롤랠가 ᄒᆞᆫ 故로</sent>
+<sent type="anno" lang="chi" page="02b" n="2">故但各服其服而已</sent>
+<sent type="anno" lang="kor" page="02b" n="2">다만 各각 그 服을 니블 ᄯᆞᄅᆞᆷ이니라</sent>
+<sent type="main" lang="chi" page="02b" n="3">奉柩ᄒᆞ야 朝于祖ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="02b" n="3">柩ᄅᆞᆯ 뫼와 祖의 朝ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="02b" n="4">將遷柩 役者入</sent>
+<sent type="anno" lang="kor" page="02b" n="4">쟝ᄎᆞᆺ 遷柩ᄒᆞᆯ 제 役者ᅟᅵ 들거든</sent>
+<sent type="anno" lang="chi" page="02b" n="5">婦人退避</sent>
+<sent type="anno" lang="kor" page="02b" n="5">婦人이 믈너 避ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="02b" n="6">主人及衆主人輯杖立視</sent>
+<sent type="anno" lang="kor" page="02b" n="6">主人과 밋 모ᄃᆞᆫ 主人이 상杖을 거두어 들고 셔셔 보거든</sent>
+<sent type="anno" lang="chi" page="02b" n="7">祝以箱奉魂帛前行</sent>
+<sent type="anno" lang="kor" page="02b" n="7">祝이 箱ᄌᆞ로ᄡᅥ 魂帛을 뫼와 앏ᄑᆡ 行ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="02b" n="8">詣祠堂前</sent>
+<sent type="anno" lang="kor" page="02b" n="8">祠堂 앏ᄑᆡ 나아가거든</sent>
+<sent type="anno" lang="chi" page="02b" n="9">執事者奉奠及倚卓次之</sent>
+<sent type="anno" lang="kor" page="02b" n="9">執事者ᅟᅵ 奠과 밋 교倚와 卓ᄌᆞᄅᆞᆯ 밧드러 버거 셔고</sent>
+<sent type="anno" lang="chi" page="02b-03a" n="10">銘旌次之</sent>
+<sent type="anno" lang="kor" page="02b-03a" n="10">銘旌이 버거 셔고</sent><!--旌^이-->
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/1632_가례언해08/03a.jpg</img>
+<sent type="anno" lang="chi" page="03a" n="1">役者擧柩次之</sent>
+<sent type="anno" lang="kor" page="03a" n="1">役者ᅟᅵ 柩를 들어 버거 서거든</sent>
+<sent type="anno" lang="chi" page="03a" n="2">主人以下從哭</sent>
+<sent type="anno" lang="kor" page="03a" n="2">主人 以下ᅟᅵ 조차 가며 哭호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="03a" n="3">男子由右 婦人由左</sent>
+<sent type="anno" lang="kor" page="03a" n="3">男子ᄂᆞᆫ 右로 由ᄒᆞ고 婦人은 左로 由ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="03a" n="4">重服在前 輕服在後</sent>
+<sent type="anno" lang="kor" page="03a" n="4">重服은 앏ᄑᆡ 잇고 輕服은 뒤헤 이셔</sent>
+<sent type="anno" lang="chi" page="03a" n="5">服各爲叙</sent>
+<sent type="anno" lang="kor" page="03a" n="5">服으로 各각 ᄎᆞ례 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="03a" n="6">侍者在末</sent>
+<sent type="anno" lang="kor" page="03a" n="6">侍者ᄂᆞᆫ 귿틔 잇고</sent>
+<sent type="anno" lang="chi" page="03a" n="7">無服之親 男居男右</sent>
+<sent type="anno" lang="kor" page="03a" n="7">服 업ᄉᆞᆫ 권당은 男은 男右에 잇고</sent>
+<sent type="anno" lang="chi" page="03a" n="8">女居女左</sent>
+<sent type="anno" lang="kor" page="03a" n="8">女ᄂᆞᆫ 女左의 이셔</sent>
+<sent type="anno" lang="chi" page="03a" n="9">皆次主人主婦之後</sent>
+<sent type="anno" lang="kor" page="03a" n="9">다 主人 主婦의 뒤헤 버거 셔고</sent>
+<sent type="anno" lang="chi" page="03a" n="10">婦人皆蓋頭</sent>
+<sent type="anno" lang="kor" page="03a" n="10">婦人은 다 너울 쓰라</sent>
+<sent type="anno" lang="chi" page="03a" n="11">至祠堂前 執事者先布席</sent>
+<sent type="anno" lang="kor" page="03a" n="11">祠堂 앏ᄑᆡ 니ᄅᆞ리 執事者ᅟᅵ 몬져 돗글 ᄭᆞ라든</sent>
+<sent type="anno" lang="chi" page="03a" n="12">役者致柩於其上</sent>
+<sent type="anno" lang="kor" page="03a" n="12">役者ᅟᅵ 柩를 그 우희 닐위여</sent>
+<sent type="anno" lang="chi" page="03a" n="13">北首而出</sent>
+<sent type="anno" lang="kor" page="03a" n="13">北으로 머리 ᄒᆞ고 나오나든</sent>
+<sent type="anno" lang="chi" page="03a" n="14">婦人蓋頭</sent>
+<sent type="anno" lang="kor" page="03a" n="14">婦人이 너울 버ᄉᆞ라</sent>
+<sent type="anno" lang="chi" page="03a" n="15">祝帥執事者</sent>
+<sent type="anno" lang="kor" page="03a" n="15">祝이 執事者ᄅᆞᆯ 거ᄂᆞ려</sent>
+<sent type="anno" lang="chi" page="03a-03b" n="16">設靈座及奠于柩西 東向</sent>
+<sent type="anno" lang="kor" page="03a-03b" n="16">靈座와 밋 奠을 柩西의 設ᄒᆞ야 東向ᄒᆞ야든</sent><!--와 ^ 밋-->
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/1632_가례언해08/03b.jpg</img>
+<sent type="anno" lang="chi" page="03b" n="1">主人以下就位立 哭盡哀 止</sent>
+<sent type="anno" lang="kor" page="03b" n="1">主人 以下ᅟᅵ 位예 나아가 셔셔 哭호ᄆᆞᆯ 盡哀ᄒᆞ고 그치라</sent>
+<sent type="anno" lang="chi" page="03b" n="2">此禮蓋象平生將出</sent>
+<sent type="anno" lang="kor" page="03b" n="2">이 禮ᄂᆞᆫ 盖 사라실 제 쟝ᄎᆞᆮ 나갈 제</sent>
+<sent type="anno" lang="chi" page="03b" n="3">必辭尊者也</sent>
+<sent type="anno" lang="kor" page="03b" n="3">반ᄃᆞ시 尊者의게 하딕호ᄆᆞᆯ 象ᄒᆞᆫ 거시라</sent>
+<sent type="anno" lang="chi" page="03b" n="4">楊氏復曰</sent>
+<sent type="anno" lang="kor" page="03b" n="4">楊氏 復이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="03b" n="5">按儀禮</sent>
+<sent type="anno" lang="kor" page="03b" n="5">儀禮ᄅᆞᆯ 按호니</sent>
+<sent type="anno" lang="chi" page="03b" n="6">朝祖正柩之後</sent>
+<sent type="anno" lang="kor" page="03b" n="6">祖애 朝ᄒᆞ고 柩ᄅᆞᆯ 正ᄒᆞᆫ 後애</sent>
+<sent type="anno" lang="chi" page="03b" n="6">遂匠始納載柩之車于階間</sent>
+<sent type="anno" lang="kor" page="03b" n="6">遂인과 匠인이 비로소 柩시ᄅᆞᆯ 車ᄅᆞᆯ 썸 ᄉᆞ이예 드리니</sent>
+<sent type="anno" lang="chi" page="03b" n="7">卽家禮所謂大𨏐也</sent>
+<sent type="anno" lang="kor" page="03b" n="7">곳 家禮애 닐온 바 大轝ᅟᅵ라</sent>
+<sent type="anno" lang="chi" page="03b" n="8">方其朝祖時 又別有輁軸</sent>
+<sent type="anno" lang="kor" page="03b" n="8">보야호로 그 祖애 朝ᄒᆞᆯ 時애 ᄯᅩ 각別히 輁軸을 두라</sent>
+<sent type="anno" lang="chi" page="03b" n="9">註云</sent>
+<sent type="anno" lang="kor" page="03b" n="9">ᄒᆞᆫ 註애 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="03b" n="10">輁軸 狀如長牀</sent>
+<sent type="anno" lang="kor" page="03b" n="10">輁軸은 형狀이 長牀 ᄀᆞᆺ다 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="03b-04a" n="11">夫輁狀如長牀</sent>
+<sent type="anno" lang="kor" page="03b-04a" n="11">그 輁이 형狀이 長牀 ᄀᆞᆺᄐᆞᆫ 則</sent><!--狀^이-->
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/1632_가례언해08/04a.jpg</img>
+<sent type="anno" lang="chi" page="04a" n="1">則僅可承棺 轉之以軸</sent>
+<sent type="anno" lang="kor" page="04a" n="1">계요 可히 棺을 바다 軸으로ᄡᅥ 구울니고</sent>
+<sent type="anno" lang="chi" page="04a" n="2">輔之以人 故得以朝祖</sent>
+<sent type="anno" lang="kor" page="04a" n="2">사ᄅᆞᆷ으로ᄡᅥ 도온 故로 시러곰 ᄡᅥ 祖애 朝ᄒᆞᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="04a" n="3">旣正柩則用夷牀</sent>
+<sent type="anno" lang="kor" page="04a" n="3">임의 柩ᄅᆞᆯ 正ᄒᆞᆫ 則 夷牀을 ᄡᅳ니</sent>
+<sent type="anno" lang="chi" page="04a" n="4">蓋朝祖時 載柩則有輁軸</sent>
+<sent type="anno" lang="kor" page="04a" n="4">盖 祖애 朝ᄒᆞᆯ 時애 柩ᄅᆞᆯ 載ᄒᆞᆫ 則 輁軸이 잇고</sent>
+<sent type="anno" lang="chi" page="04a" n="5">正柩則有夷牀</sent>
+<sent type="anno" lang="kor" page="04a" n="5">柩ᄅᆞᆯ 正ᄒᆞᆫ 則 夷牀이 잇더니</sent>
+<sent type="anno" lang="chi" page="04a" n="6">後世皆闕之</sent>
+<sent type="anno" lang="kor" page="04a" n="6">後世애 다 업시 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="04a" n="7">今但使役者擧柩</sent>
+<sent type="anno" lang="kor" page="04a" n="7">이제 다만 役者로 ᄒᆡ여곰 柩ᄅᆞᆯ 드ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="04a" n="8">柩旣重大 如何可擧</sent>
+<sent type="anno" lang="kor" page="04a" n="8">柩ᅟᅵ 임의 重大ᄒᆞ니 엇디 可히 들리오</sent>
+<sent type="anno" lang="chi" page="04a" n="9">恐非謹之重之之意</sent>
+<sent type="anno" lang="kor" page="04a" n="9">적컨대ᄂᆞᆫ 삼가며 重히 ᄒᆞᄂᆞᆫ ᄠᅳ디 아니라</sent>
+<sent type="anno" lang="chi" page="04a" n="10">若但魂帛朝于祖</sent>
+<sent type="anno" lang="kor" page="04a" n="10">만일 다만 魂帛이 祖애 朝ᄒᆞᆯ디라도</sent>
+<sent type="anno" lang="chi" page="04a" n="11">亦失遷柩朝祖之本意</sent>
+<sent type="anno" lang="kor" page="04a" n="11">ᄯᅩᄒᆞᆫ 柩ᄅᆞᆯ 遷ᄒᆞ여 祖애 朝ᄒᆞᄂᆞᆫ 本 ᄠᅳᄃᆞᆯ 일ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="04a-04b" n="12">恐當從儀禮</sent>
+<sent type="anno" lang="kor" page="04a-04b" n="12">저컨대ᄂᆞᆫ 맛당히 儀禮ᄅᆞᆯ 조차</sent><!--ᄂᆞᆫ ^ 맛-->
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/1632_가례언해08/04b.jpg</img>
+<sent type="anno" lang="chi" page="04b" n="1">別制輁軸以朝祖</sent>
+<sent type="anno" lang="kor" page="04b" n="1">각別히 輁軸을 ᄆᆡᆼ그라 ᄡᅥ 祖애 朝ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="04b" n="2">至祠堂前 正柩用夷牀 北首</sent>
+<sent type="anno" lang="kor" page="04b" n="2">祠堂 아ᄑᆡ 니ᄅᆞ러 柩正호믈 夷牀을 ᄡᅥ셔 北으로 마리 두고</sent>
+<sent type="anno" lang="chi" page="04b" n="3">祝帥執事者設靈座及奠于柩西 東向</sent>
+<sent type="anno" lang="kor" page="04b" n="3">祝이 執事ᄅᆞᆯ 거ᄅᆞ려 靈座와 밋 奠을 柩西애 ᄇᆡ設호ᄃᆡ 東向ᄒᆞ야든</sent>
+<sent type="anno" lang="chi" page="04b" n="4">主人以下就位立</sent>
+<sent type="anno" lang="kor" page="04b" n="4">主人 以下ᅟᅵ 位예 나아가 셔셔</sent>
+<sent type="anno" lang="chi" page="04b" n="5">哭盡哀止</sent>
+<sent type="anno" lang="kor" page="04b" n="5">哭ᄒᆞ야 盡哀ᄒᆞ고 止ᄒᆞᆯ ᄭᅵ실가 ᄒᆞ노라</sent>
+<sent type="anno" lang="chi" page="04b" n="6">輯 歛也</sent>
+<sent type="anno" lang="kor" page="04b" n="6">輯은 斂호미니</sent>
+<sent type="anno" lang="chi" page="04b" n="7">謂擧之不以柱地也</sent>
+<sent type="anno" lang="kor" page="04b" n="7">드러 ᄡᅥ곰 ᄯᅡ해 拄티 아니믈 닐오미라</sent>
+<sent type="anno" lang="chi" page="04b" n="8">旣夕禮 遷于祖 正柩于兩楹間</sent>
+<sent type="anno" lang="kor" page="04b" n="8">旣夕禮애 祖애 遷ᄒᆞ야 柩ᄅᆞᆯ 兩楹 ᄉᆞ이예 正ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="04b" n="9">席升設于柩西</sent>
+<sent type="anno" lang="kor" page="04b" n="9">席을 升ᄒᆞ야 柩西의 ᄭᆞᆯ고</sent>
+<sent type="anno" lang="chi" page="04b" n="10">奠設如初</sent>
+<sent type="anno" lang="kor" page="04b" n="10">奠設호믈 처암 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="04b-05a" n="11">註 奠設如初 東面也</sent>
+<sent type="anno" lang="kor" page="04b-05a" n="11">ᄒᆞᆫ 註애 奠設호믈 初 ᄀᆞᆺ다 호믄 東으로 面호미라</sent><!--設^호-->
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/1632_가례언해08/05a.jpg</img>
+<sent type="anno" lang="chi" page="05a" n="1">不統於柩 神不西面也</sent>
+<sent type="anno" lang="kor" page="05a" n="1">柩애 統티 아니홈은 神이 西로 面티 아니미오</sent>
+<sent type="anno" lang="chi" page="05a" n="2">不設柩東 東非神位也</sent>
+<sent type="anno" lang="kor" page="05a" n="2">柩東애 ᄇᆡ設 아니홈은 東녁키 神位 아니미니라</sent>
+<sent type="main" lang="chi" page="05a" n="3">遂遷于廳事ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="05a" n="3">드듸여 廳事의 옴기라</sent>
+<sent type="anno" lang="chi" page="05a" n="4">執事者設帷於廳事</sent>
+<sent type="anno" lang="kor" page="05a" n="4">執事者ᅟᅵ 廳事의 댱을 設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="05a" n="5">役者入</sent>
+<sent type="anno" lang="kor" page="05a" n="5">役者ᅟᅵ 드러오나든</sent>
+<sent type="anno" lang="chi" page="05a" n="6">婦人退避</sent>
+<sent type="anno" lang="kor" page="05a" n="6">婦人이 믈러 避ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05a" n="7">祝奉魂帛導柩 右旋</sent>
+<sent type="anno" lang="kor" page="05a" n="7">祝이 魂帛을 뫼와 柩를 인導ᄒᆞ야 右로 돌거든</sent>
+<sent type="anno" lang="chi" page="05a" n="8">主人以下男女哭從 如前</sent>
+<sent type="anno" lang="kor" page="05a" n="8">主人 以下 男女ᅟᅵ 울고 조차 오기ᄅᆞᆯ 前 ᄀᆞ티 ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="05a" n="9">詣廳事 執事者布席</sent>
+<sent type="anno" lang="kor" page="05a" n="9">廳事의 나아가 執事者ᅟᅵ 돗글 ᄭᆞ라든</sent>
+<sent type="anno" lang="chi" page="05a" n="10">役者置柩于席上 南首而出</sent>
+<sent type="anno" lang="kor" page="05a" n="10">役者ᅟᅵ 柩를 돗 우희 노화 南首ᄒᆞ고 나오나든</sent>
+<sent type="anno" lang="chi" page="05a-05b" n="11">祝設靈座及奠于柩前 南向</sent>
+<sent type="anno" lang="kor" page="05a-05b" n="11">祝이 靈座와 밋 奠을 柩 앏ᄑᆡ 設ᄒᆞ야 南向ᄒᆞ라</sent><!--座^와-->
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/1632_가례언해08/05b.jpg</img>
+<sent type="anno" lang="chi" page="05b" n="1">主人以下就位坐哭 藉以薦席</sent>
+<sent type="anno" lang="kor" page="05b" n="1">主人 以下ᅟᅵ 位예 나아와 안자셔 울고 薦席으로ᄡᅥ ᄭᆞᆯ라</sent>
+<sent type="main" lang="chi" page="05b" n="2">乃代哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="05b" n="2">이에 교代ᄒᆞ여 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05b" n="3">如未歛之前 以至發引</sent>
+<sent type="anno" lang="kor" page="05b" n="3">대쇼斂 아닌 前ᄀᆞ티 ᄒᆞ야 ᄡᅥ 發引의 니ᄅᆞ히 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="05b" n="4">親賓이 致奠賻ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="05b" n="4">권당이며 손이 致奠ᄒᆞ며 티賻ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05b" n="5">如初喪儀</sent>
+<sent type="anno" lang="kor" page="05b" n="5">初喪 적 녜 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="05b" n="6">陳器ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="05b" n="6">器구ᄅᆞᆯ 陳ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05b" n="7">方相在前 狂夫為之</sent>
+<sent type="anno" lang="kor" page="05b" n="7">方相시 앏ᄑᆡ 이시니 미친놈으로 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="05b-06a" n="8">冠服如道士</sent>
+<sent type="anno" lang="kor" page="05b-06a" n="8">冠服을 道士 ᄀᆞ티 ᄒᆞ고</sent><!--道^士-->
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/1632_가례언해08/06a.jpg</img>
+<sent type="anno" lang="chi" page="06a" n="1">執戈揚盾</sent>
+<sent type="anno" lang="kor" page="06a" n="1">창을 잡고 방패ᄅᆞᆯ 두르라</sent>
+<sent type="anno" lang="chi" page="06a" n="2">四品以上 四目爲方相</sent>
+<sent type="anno" lang="kor" page="06a" n="2">四品 以上은 네 눈이니 方相이라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="06a" n="3">以下兩目爲魌頭</sent>
+<sent type="anno" lang="kor" page="06a" n="3">以下ᄂᆞᆫ 두 눈이니 魌頭ᅟᅵ라 ᄒᆞᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="06a" n="4">次明器下帳 苞筲甖 以牀舁之</sent>
+<sent type="anno" lang="kor" page="06a" n="4">버거ᄂᆞᆫ 明器와 下帳과 苞와 筲와 嬴을 牀으로ᄡᅥ 메고</sent>
+<sent type="anno" lang="chi" page="06a" n="5">次銘旌去跗執之</sent>
+<sent type="anno" lang="kor" page="06a" n="5">버거ᄂᆞᆫ 銘旌을 틀 업시코 잡고</sent>
+<sent type="anno" lang="chi" page="06a" n="6">次靈車以奉魂帛香火</sent>
+<sent type="anno" lang="kor" page="06a" n="6">버거ᄂᆞᆫ 靈車ᅟᅵ니 ᄡᅥ 魂帛이며 香火ᄅᆞᆯ 奉ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="06a" n="7">次大𨏐 𨏐旁有翣</sent>
+<sent type="anno" lang="kor" page="06a" n="7">버거ᄂᆞᆫ 大轝ᅟᅵ니 대轝 겨ᄐᆡ 翣션이 이시니</sent>
+<sent type="anno" lang="chi" page="06a" n="8">使人執之</sent>
+<sent type="anno" lang="kor" page="06a" n="8">사ᄅᆞᆷ으로 ᄒᆞ여 자피라</sent>
+<sent type="anno" lang="chi" page="06a" n="9">劉氏璋曰</sent>
+<sent type="anno" lang="kor" page="06a" n="9">劉氏 璋이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="06a" n="10">司馬溫公喪禮陳器篇內</sent>
+<sent type="anno" lang="kor" page="06a" n="10">司馬溫公 喪禮 陳器篇 內애</sent>
+<sent type="anno" lang="chi" page="06a" n="11">於下帳之下 有曰上服二字</sent>
+<sent type="anno" lang="kor" page="06a" n="11">下帳 아래 ᄀᆞᆯ온 上服 二 字ᅟᅵ 이시니</sent>
+<sent type="anno" lang="chi" page="06a" n="12">註云</sent>
+<sent type="anno" lang="kor" page="06a" n="12">註애 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="06a-06b" n="13">有官則公服靴笏㡤頭</sent>
+<sent type="anno" lang="kor" page="06a-06b" n="13">벼ᄉᆞᆯ이 이신 則 公服과 靴와 笏과 幞頭ᅟᅵ오</sent><!--公^服-->
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/1632_가례언해08/06b.jpg</img>
+<sent type="anno" lang="chi" page="06b" n="1">無官則襴袗鞋履之類</sent>
+<sent type="anno" lang="kor" page="06b" n="1">벼ᄉᆞᆯ이 업ᄉᆞᆫ 則 欄衫과 鞋와 履의 類ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="06b" n="2">又大𨏐旁有翣 貴賤有數</sent>
+<sent type="anno" lang="kor" page="06b" n="2">ᄯᅩ 大轝 겨ᄐᆡ 翣션을 두되 貴ᄒᆞ며 踐ᄒᆞᆫ 이 數ᅟᅵ 잇고</sent>
+<sent type="anno" lang="chi" page="06b" n="3">庶人無之 今書雖不曾載</sent>
+<sent type="anno" lang="kor" page="06b" n="3">庶人ᄂᆞᆫ 업거ᄂᆞᆯ 이제 書애 비록 일즉 載록디 아니ᄒᆞ나</sent>
+<sent type="anno" lang="chi" page="06b" n="4">姑附此 亦備引用</sent>
+<sent type="anno" lang="kor" page="06b" n="4">아직 이에 브텨 ᄯᅩᄒᆞᆫ 引用홈을 ᄀᆞ초로라</sent>
+<sent type="main" lang="chi" page="06b" n="5">日晡時예 設祖奠ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="06b" n="5">날이 신시 ᄠᅢ예 祖奠을 設ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06b" n="6">饌如朝奠</sent>
+<sent type="anno" lang="kor" page="06b" n="6">饌믈을 朝奠 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06b" n="7">祝斟酒訖</sent>
+<sent type="anno" lang="kor" page="06b" n="7">祝이 술 븟기 ᄆᆞᆺ고</sent>
+<sent type="anno" lang="chi" page="06b" n="8">北向跪告曰</sent>
+<sent type="anno" lang="kor" page="06b" n="8">北向ᄒᆞ야 ᄭᅮ러 告ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="06b" n="9">永遷之禮 靈辰不留</sent>
+<sent type="anno" lang="kor" page="06b" n="9">永遷之禮 靈辰이 不留ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="06b-07a" n="10">今奉柩車 式遵祖道 俛伏興</sent>
+<sent type="anno" lang="kor" page="06b-07a" n="10">今奉柩車ᄒᆞ야 式遵祖道ᅟᅵ라 ᄒᆞ고 업데고 닐라</sent><!--祖^道-->
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/1632_가례언해08/07a.jpg</img>
+<sent type="anno" lang="chi" page="07a" n="1">餘如朝夕奠儀</sent>
+<sent type="anno" lang="kor" page="07a" n="1">녀나믄 거ᄉᆞᆫ 朝夕奠 적 녜 ᄀᆞᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="07a" n="2">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="07a" n="2">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="07a" n="3">若柩自他所歸葬</sent>
+<sent type="anno" lang="kor" page="07a" n="3">만일 柩ᅟᅵ 다ᄅᆞᆫ ᄃᆡ로셔 도라와 葬ᄒᆞ거든</sent>
+<sent type="anno" lang="chi" page="07a" n="4">則行日但設朝奠哭而行</sent>
+<sent type="anno" lang="kor" page="07a" n="4">行ᄒᆞᄂᆞᆫ 날 다만 朝奠을 設ᄒᆞ고 哭ᄒᆞ고 行ᄒᆞ엿다가</sent>
+<sent type="anno" lang="chi" page="07a" n="5">至葬乃備 此及下遣奠禮</sent>
+<sent type="anno" lang="kor" page="07a" n="5">葬ᄒᆞᆯ 제 니ᄅᆞ러 이와 밋 아래 遣奠禮를 ᄀᆞ초라</sent>
+<sent type="title2" lang="chi" page="07a" n="6">遣奠</sent>
+<sent type="main" lang="chi" page="07a" n="7">厥明에 遷柩就轝ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="07a" n="7">그 이ᄐᆞᆫ날 柩ᄅᆞᆯ 遷ᄒᆞ야 대轝의 나아가라</sent>
+<sent type="anno" lang="chi" page="07a" n="8">𨏐夫納大𨏐於中庭 脱柱上横扄</sent>
+<sent type="anno" lang="kor" page="07a" n="8">轝夫ᅟᅵ 大轝ᄅᆞᆯ ᄠᅳᆯ희 드려와 柱 우희 ᄀᆞᄅᆞ 쎄 빗ᄭᅧ든</sent>
+<sent type="anno" lang="chi" page="07a" n="9">執事者徹祖奠</sent>
+<sent type="anno" lang="kor" page="07a" n="9">執事者ᅟᅵ 祖奠을 설고</sent>
+<sent type="anno" lang="chi" page="07a-07b" n="10">祝北向跪告曰</sent>
+<sent type="anno" lang="kor" page="07a-07b" n="10">祝이 北向ᄒᆞ야 ᄭᅮ러 告ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent><!--向^ᄒᆞ-->
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/1632_가례언해08/07b.jpg</img>
+<sent type="anno" lang="chi" page="07b" n="1">今遷柩就𨏐敢告</sent>
+<sent type="anno" lang="kor" page="07b" n="1">今에 遷柩就轝ᄒᆞ니 敢告ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="07b" n="2">遂遷靈座置傍側</sent>
+<sent type="anno" lang="kor" page="07b" n="2">드듸여 靈座ᄅᆞᆯ 옴겨 겨ᄐᆡ 노코</sent>
+<sent type="anno" lang="chi" page="07b" n="3">婦人退避</sent>
+<sent type="anno" lang="kor" page="07b" n="3">婦人이 믈러 避ᄒᆞ여든</sent>
+<sent type="anno" lang="chi" page="07b" n="4">召役夫遷柩就𨏐</sent>
+<sent type="anno" lang="kor" page="07b" n="4">役夫ᄅᆞᆯ 블러 柩를 옴겨 대轝의 나아와</sent>
+<sent type="anno" lang="chi" page="07b" n="5">乃載施扃加楔</sent>
+<sent type="anno" lang="kor" page="07b" n="5">이에 싣고 ᄀᆞᄅᆞ 쎄 드려 쇠야기 박고</sent>
+<sent type="anno" lang="chi" page="07b" n="6">以索維之 令極牢實</sent>
+<sent type="anno" lang="kor" page="07b" n="6">바로ᄡᅥ 얼거 ᄒᆡ여곰 極히 牢實케 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="07b" n="7">主人從柩哭降 視載</sent>
+<sent type="anno" lang="kor" page="07b" n="7">主人이 柩ᄅᆞᆯ 조차 哭ᄒᆞ고 ᄂᆞ려 싣ᄂᆞᆫ 양 보고</sent>
+<sent type="anno" lang="chi" page="07b" n="8">婦人哭於帷中</sent>
+<sent type="anno" lang="kor" page="07b" n="8">婦人은 댱소긔셔 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="07b" n="9">載畢 祝帥執事者</sent>
+<sent type="anno" lang="kor" page="07b" n="9">싣기ᄅᆞᆯ ᄆᆞ차든 祝이 執事者ᄅᆞᆯ 거ᄂᆞ려</sent>
+<sent type="anno" lang="chi" page="07b" n="10">遷靈座于柩前南向</sent>
+<sent type="anno" lang="kor" page="07b" n="10">靈座ᄅᆞᆯ 柩 앏ᄑᆡ 옴겨 南向ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="07b" n="11">司馬溫公曰</sent>
+<sent type="anno" lang="kor" page="07b" n="11">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="07b" n="12">啓殯之日 備布三尺</sent>
+<sent type="anno" lang="kor" page="07b" n="12">啓殯ᄒᆞᄂᆞᆫ 나래 뵈 석 자ᄒᆞᆯ ᄀᆞ초되</sent>
+<sent type="anno" lang="chi" page="07b" n="13">以盥濯灰治之布爲之</sent>
+<sent type="anno" lang="kor" page="07b" n="13">시서 ᄌᆡ로 다ᄉᆞ린 뵈로ᄡᅥ ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="07b-08a" n="14">祝御柩執此</sent>
+<sent type="anno" lang="kor" page="07b-08a" n="14">祝이 柩ᄅᆞᆯ 御호매</sent><!--柩^ᄅᆞᆯ-->
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/1632_가례언해08/08a.jpg</img>
+<sent type="anno" lang="chi" page="08a" n="1">以指麾役者</sent>
+<sent type="anno" lang="kor" page="08a" n="1">이ᄅᆞᆯ 자바 ᄡᅥ곰 役者ᄅᆞᆯ 指麾ᄒᆞᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="08a" n="2">劉氏璋曰</sent>
+<sent type="anno" lang="kor" page="08a" n="2">劉氏 璋이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08a" n="3">儀禮云</sent>
+<sent type="anno" lang="kor" page="08a" n="3">儀禮애 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08a" n="4">商祝拂柩 用功布</sent>
+<sent type="anno" lang="kor" page="08a" n="4">商祝이 柩 ᄠᅥᆯ티믈 功布로ᄡᅥ ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="08a" n="5">幠用侇衾</sent>
+<sent type="anno" lang="kor" page="08a" n="5">幠ᄒᆞ믈 侇衾으로 ᄡᅳ라</sent>
+<sent type="anno" lang="chi" page="08a" n="6">註曰</sent>
+<sent type="anno" lang="kor" page="08a" n="6">ᄒᆞᆫ 註애 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08a" n="7">商祝 祝習商禮者</sent>
+<sent type="anno" lang="kor" page="08a" n="7">商祝은 祝이 商 적 禮ᄅᆞᆯ 니긴 者ᅟᅵ라</sent>
+<sent type="anno" lang="chi" page="08a" n="8">商人教之以敬於接神</sent>
+<sent type="anno" lang="kor" page="08a" n="8">商 적 사ᄅᆞᆷ이 ᄀᆞᄅᆞ쳐 ᄡᅥ곰 神을 接호매 敬ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="08a" n="9">功布 拂去棺上塵土</sent>
+<sent type="anno" lang="kor" page="08a" n="9">功布ᄂᆞᆫ 棺 우희 뭇글 이며 ᄒᆞᆰ글 ᄠᅥᆯ텨 업시 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="08a" n="10">幠 覆之爲其形露</sent>
+<sent type="anno" lang="kor" page="08a" n="10">幠ᄂᆞᆫ 덥프미니 그 얼구리 드리나믈 爲호미라</sent>
+<sent type="anno" lang="chi" page="08a" n="11">侇之言 尸也</sent>
+<sent type="anno" lang="kor" page="08a" n="11">侇란 말은 尸신이니</sent>
+<sent type="anno" lang="chi" page="08a" n="12">侇衾 覆尸之衾也</sent>
+<sent type="anno" lang="kor" page="08a" n="12">侇衾은 尸신을 덥ᄂᆞᆫ 니블이라</sent>
+<sent type="main" lang="chi" page="08a" n="13">乃設遣奠ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="08a" n="13">이에 遣奠을 設ᄒᆞ라</sent>
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/1632_가례언해08/08b.jpg</img>
+<sent type="anno" lang="chi" page="08b" n="1">饌如朝奠有脯</sent>
+<sent type="anno" lang="kor" page="08b" n="1">饌믈을 朝奠ᄀᆞ티 호ᄃᆡ 脯ᅟᅵ 잇고</sent>
+<sent type="anno" lang="chi" page="08b" n="2">惟婦人不在</sent>
+<sent type="anno" lang="kor" page="08b" n="2">오직 婦人은 잇디 말라</sent>
+<sent type="anno" lang="chi" page="08b" n="3">奠畢</sent>
+<sent type="anno" lang="kor" page="08b" n="3">奠을 ᄆᆞ차든</sent>
+<sent type="anno" lang="chi" page="08b" n="4">執事者徹脯納苞中</sent>
+<sent type="anno" lang="kor" page="08b" n="4">執事者ᅟᅵ 脯ᄅᆞᆯ 서러 苞中의 녀허</sent>
+<sent type="anno" lang="chi" page="08b" n="5">置舁牀上 遂徹奠</sent>
+<sent type="anno" lang="kor" page="08b" n="5">메여가ᄂᆞᆫ 牀우희 두고 드듸여 奠을 설라</sent>
+<sent type="anno" lang="chi" page="08b" n="6">楊氏復曰</sent>
+<sent type="anno" lang="kor" page="08b" n="6">楊氏 復이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08b" n="7">髙氏禮 祝跪告曰</sent>
+<sent type="anno" lang="kor" page="08b" n="7">高氏 禮애 祝이 ᄭᅮ러 告ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08b" n="8">靈輀旣駕 往卽幽宅</sent>
+<sent type="anno" lang="kor" page="08b" n="8">靈侇旣駕ᄒᆞ니 往卽幽宅이라</sent>
+<sent type="anno" lang="chi" page="08b" n="9">載陳遣禮 永訣終天</sent>
+<sent type="anno" lang="kor" page="08b" n="9">載陳遣禮ᄒᆞ야 永訣終天이라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="08b" n="10">載 謂升柩於轝也</sent>
+<sent type="anno" lang="kor" page="08b" n="10">載ᄂᆞᆫ 닐온 柩ᄅᆞᆯ 轝의 올리미라</sent>
+<sent type="anno" lang="chi" page="08b" n="11">以新組左右束柩於轝</sent>
+<sent type="anno" lang="kor" page="08b" n="11">새 닛긴으로ᄡᅥ 左右애 柩ᄅᆞᆯ 轝에 ᄆᆡ고</sent>
+<sent type="anno" lang="chi" page="08b" n="12">乃以橫木楔柩足兩旁</sent>
+<sent type="anno" lang="kor" page="08b" n="12">이에 橫木으로ᄡᅥ 柩의 발 두 겨ᄐᆞᆯ 楔ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="08b" n="13">使不動搖</sent>
+<sent type="anno" lang="kor" page="08b" n="13">ᄒᆡ여곰 動搖티 아니케 홀디니라</sent><!--搖^티-->
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/1632_가례언해08/09a.jpg</img>
+<sent type="main" lang="chi" page="09a" n="1">祝이 奉魂帛ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="09a" n="1">祝이 魂帛을 뫼셔</sent>
+<sent type="main" lang="chi" page="09a" n="2">升車ᄒᆞ고 焚香ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="09a" n="2">녕車의 올리고 焚香ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="09a" n="3">别以箱盛主 置帛後</sent>
+<sent type="anno" lang="kor" page="09a" n="3">각별히 箱ᄌᆞ로ᄡᅥ 신主ᄅᆞᆯ 다마 魂帛 뒤헤 두라</sent>
+<sent type="anno" lang="chi" page="09a" n="4">至是 婦人乃蓋頭</sent>
+<sent type="anno" lang="kor" page="09a" n="4">이에 니ᄅᆞ러 婦人이 너울 쓰고</sent>
+<sent type="anno" lang="chi" page="09a" n="5">出帷 降階立哭</sent>
+<sent type="anno" lang="kor" page="09a" n="5">댱의 나 階예 ᄂᆞ려 셔셔 哭ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="09a" n="6">守舍者哭</sent>
+<sent type="anno" lang="kor" page="09a" n="6">집 딕흰 者ᄂᆞᆫ 哭ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="09a" n="7">辭盡哀</sent>
+<sent type="anno" lang="kor" page="09a" n="7">하딕기ᄅᆞᆯ 盡哀ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="09a" n="8">再拜而歸</sent>
+<sent type="anno" lang="kor" page="09a" n="8">再拜ᄒᆞ고 도라가되</sent>
+<sent type="anno" lang="chi" page="09a" n="9">尊長則不拜</sent>
+<sent type="anno" lang="kor" page="09a" n="9">尊長이어든 拜티 말라</sent>
+<sent type="title2" lang="chi" page="09a" n="10">發引</sent>
+<sent type="main" lang="chi" page="09a" n="11">柩行ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="09a" n="11">柩ᅟᅵ 行ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="09a-09b" n="12">方相等前導 如陳器之叙</sent>
+<sent type="anno" lang="kor" page="09a-09b" n="12">方相시 等이 앏ᄑᆡ 인導홈을 陳器 ᄎᆞ례 ᄀᆞ티 ᄒᆞ라</sent><!--티 ^ ᄒᆞ-->
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/1632_가례언해08/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="1">主人以下 男女ᅟᅵ 哭ᄒᆞ고 步從ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="09b" n="1">主人 以下 男이며 女ᅟᅵ 哭ᄒᆞ고 거러 조차 가고</sent>
+<sent type="anno" lang="chi" page="09b" n="2">如朝祖之叙</sent>
+<sent type="anno" lang="kor" page="09b" n="2">朝祖ᄒᆞᆯ 적 ᄎᆞ례 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="09b" n="3">出門則以白幕夾障之</sent>
+<sent type="anno" lang="kor" page="09b" n="3">門의 나거든 흰 댱幕으로ᄡᅥ 배 ᄀᆞ리오라</sent>
+<sent type="main" lang="chi" page="09b" n="4">尊長이 次之ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="09b" n="4">尊長이 버거 셔고</sent>
+<sent type="main" lang="chi" page="09b" n="5">無服之親이 又次之ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="09b" n="5">服 업ᄉᆞᆫ 권당이 ᄯᅩ 버거 셔고</sent>
+<sent type="main" lang="chi" page="09b" n="6">賓客이 又次之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="09b" n="6">손ᄃᆞᆯ히 ᄯᅩ 버거 셔라</sent>
+<sent type="anno" lang="chi" page="09b" n="7">皆乘車馬</sent>
+<sent type="anno" lang="kor" page="09b" n="7">다 車馬ᄅᆞᆯ ᄐᆞ라</sent>
+<sent type="anno" lang="chi" page="09b" n="8">親賓或先待於墓所</sent>
+<sent type="anno" lang="kor" page="09b" n="8">권당이며 손이 或 몬져 墓所의 가 기ᄃᆞ로며</sent>
+<sent type="anno" lang="chi" page="09b" n="9">或出郭</sent>
+<sent type="anno" lang="kor" page="09b" n="9">或 셩 밧긔 나가셔</sent>
+<sent type="anno" lang="chi" page="09b-10a" n="10">哭 拜 辭 歸</sent>
+<sent type="anno" lang="kor" page="09b-10a" n="10">哭ᄒᆞ며 拜ᄒᆞ야 하딕ᄒᆞ고 도라오라</sent><!--딕^ᄒᆞ-->
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/1632_가례언해08/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="1">親賓이 設幄於郭外道旁ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="10a" n="1">권당이며 손이 셩 밧 길 ᄀᆞ의 幄ᄎᆞᄅᆞᆯ 設ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="10a" n="2">駐柩而奠ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="10a" n="2">柩ᄅᆞᆯ 駐ᄒᆞ고 奠ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="10a" n="3">如在家之儀</sent>
+<sent type="anno" lang="kor" page="10a" n="3">집의 이실 적 녜 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="10a" n="4">塗中예 遇哀則哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="10a" n="4">길희셔 슬프믈 만나거든 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="10a" n="5">若墓逺</sent>
+<sent type="anno" lang="kor" page="10a" n="5">만일 묘쇠 멀거든</sent>
+<sent type="anno" lang="chi" page="10a" n="6">則毎舍設靈座於柩前</sent>
+<sent type="anno" lang="kor" page="10a" n="6">每 즘게마다 靈座ᄅᆞᆯ 柩前의 設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="10a" n="7">朝夕哭奠 食時上食</sent>
+<sent type="anno" lang="kor" page="10a" n="7">朝夕의 哭奠ᄒᆞ며 밥 ᄯᅢ예 上食ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="10a" n="8">夜則主人兄弟皆宿柩旁</sent>
+<sent type="anno" lang="kor" page="10a" n="8">밤이어든 主人 兄弟 다 柩 겨틔 자고</sent>
+<sent type="anno" lang="chi" page="10a-10b" n="9">親戚共守衛之</sent>
+<sent type="anno" lang="kor" page="10a-10b" n="9">親戚이 ᄒᆞᆫ가지로 守衛ᄒᆞ라</sent><!--親^戚-->
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/1632_가례언해08/10b.jpg</img>
+<sent type="title2" lang="chi" page="10b" n="1">及墓 下棺 祠后土 題木主 成墳</sent>
+<sent type="main" lang="chi" page="10b" n="2">未至예 執事者ᅟᅵ 先設靈幄과</sent>
+<sent type="main" lang="kor" page="10b" n="2">몯 미처 니ᄅᆞ러셔 執事者ᅟᅵ 몬져 靈幄과</sent>
+<sent type="anno" lang="chi" page="10b" n="3">在墓道西 南向</sent>
+<sent type="anno" lang="kor" page="10b" n="3">墓道 西의 이시니 南向ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="10b" n="4">有倚卓</sent>
+<sent type="anno" lang="kor" page="10b" n="4">교倚며 卓ᄌᆞᄅᆞᆯ 두라</sent>
+<sent type="main" lang="chi" page="10b" n="5">親賓次와</sent>
+<sent type="main" lang="kor" page="10b" n="5">권당이며 손의 막次와</sent>
+<sent type="anno" lang="chi" page="10b" n="6">在靈幄前十數步</sent>
+<sent type="anno" lang="kor" page="10b" n="6">靈幄 앏 十數 步의 이시니</sent>
+<sent type="anno" lang="chi" page="10b" n="7">男東 女西</sent>
+<sent type="anno" lang="kor" page="10b" n="7">男은 東의 ᄒᆞ고 女ᄂᆞᆫ 西의 ᄒᆞ여</sent>
+<sent type="anno" lang="chi" page="10b-11a" n="8">次北與靈幄相値 皆南向</sent>
+<sent type="anno" lang="kor" page="10b-11a" n="8">막次ᅟᅵ 北으로 靈幄과 서ᄅᆞ ᄃᆡ케 ᄒᆞ야 다 南向ᄒᆞ라</sent><!--ᄅᆞ ^ ᄃᆡ-->
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/1632_가례언해08/11a.jpg</img>
+<sent type="main" lang="chi" page="11a" n="1">婦人幄ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="11a" n="1">婦人幄ᄎᆞᄅᆞᆯ 設ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="11a" n="2">在靈幄後壙西</sent>
+<sent type="anno" lang="kor" page="11a" n="2">靈幄 뒤 壙 西의 인ᄂᆞᆫ니라</sent>
+<sent type="main" lang="chi" page="11a" n="3">方相이 至ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="11a" n="3">方相시 니ᄅᆞ며</sent>
+<sent type="anno" lang="chi" page="11a" n="4">以戈擊壙四隅</sent>
+<sent type="anno" lang="kor" page="11a" n="4">戈로ᄡᅥ 壙 듕 네모흘 티라</sent>
+<sent type="main" lang="chi" page="11a" n="5">明器等이 至ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="11a" n="5">明器들히 니ᄅᆞ며</sent>
+<sent type="anno" lang="chi" page="11a" n="6">陳於壙東南 北上</sent>
+<sent type="anno" lang="kor" page="11a" n="6">壙東 南의 陳ᄒᆞ여 北上ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="11a" n="7">靈車ᅟᅵ 至어든</sent>
+<sent type="main" lang="kor" page="11a" n="7">靈車ᅟᅵ 니ᄅᆞ커든</sent>
+<sent type="anno" lang="chi" page="11a" n="8">祝奉魂帛就幄座</sent>
+<sent type="anno" lang="kor" page="11a" n="8">祝이 魂帛을 뫼셔 녕幄 座의 나아가고</sent>
+<sent type="anno" lang="chi" page="11a" n="9">主箱亦置帛後</sent>
+<sent type="anno" lang="kor" page="11a" n="9">신主 箱ᄌᆞᄅᆞᆯ ᄯᅩ 혼帛 뒤헤 두라</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/1632_가례언해08/11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="1">遂設奠而退ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="11b" n="1">드듸여 奠을 設ᄒᆞ고 믈러나라</sent>
+<sent type="anno" lang="chi" page="11b" n="2">酒果脯醢</sent>
+<sent type="anno" lang="kor" page="11b" n="2">酒果와 脯醢로 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="11b" n="3">柩ᅟᅵ 至어든</sent>
+<sent type="main" lang="kor" page="11b" n="3">柩ᅟᅵ 니ᄅᆞ거든</sent>
+<sent type="anno" lang="chi" page="11b" n="4">執事者先布席於壙南</sent>
+<sent type="anno" lang="kor" page="11b" n="4">執事者ᅟᅵ 몬져 돗글 壙 南의 펴고</sent>
+<sent type="anno" lang="chi" page="11b" n="5">柩至</sent>
+<sent type="anno" lang="kor" page="11b" n="5">柩ᅟᅵ 니ᄅᆞ거든</sent>
+<sent type="anno" lang="chi" page="11b" n="6">脱載 置席上 北首</sent>
+<sent type="anno" lang="kor" page="11b" n="6">시ᄅᆞᆫ 거슬 벗겨 돗 우희 노하 北首ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="11b" n="7">執事者取銘旌 去杠</sent>
+<sent type="anno" lang="kor" page="11b" n="7">執事者ᅟᅵ 銘旌을 가져 대를 업시 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="11b" n="8">置柩上</sent>
+<sent type="anno" lang="kor" page="11b" n="8">柩 우희 노흐라</sent>
+<sent type="main" lang="chi" page="11b" n="9">主人男女ᅟᅵ 各就位哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="11b" n="9">主人 男女ᅟᅵ 각각 位예 나아가 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="11b-12a" n="10">主人 諸丈夫立於壙東 西向</sent>
+<sent type="anno" lang="kor" page="11b-12a" n="10">主人과 諸丈夫ᄂᆞᆫ 壙 東의 셔셔 西向ᄒᆞ고</sent><!--向^ᄒᆞ-->
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/1632_가례언해08/12a.jpg</img>
+<sent type="anno" lang="chi" page="12a" n="1">主婦 諸婦女立於壙西幄内 東向</sent>
+<sent type="anno" lang="kor" page="12a" n="1">主婦와 諸婦女ᄂᆞᆫ 壙 西 幄內애 셔서 東向호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="12a" n="2">皆北上 如在塗之儀</sent>
+<sent type="anno" lang="kor" page="12a" n="2">다 北上ᄒᆞ야 길희 이실 적 녜 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="12a" n="3">賓客이 拜辭而歸ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="12a" n="3">손ᄃᆞᆯ히 절ᄒᆞ고 하딕ᄒᆞ고 도라가라</sent>
+<sent type="anno" lang="chi" page="12a" n="4">主人拜之 賓答拜</sent>
+<sent type="anno" lang="kor" page="12a" n="4">主人이 拜ᄒᆞ여든 손이 答拜ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="12a" n="5">乃窆ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="12a" n="5">이에 무ᄃᆞ라</sent>
+<sent type="anno" lang="chi" page="12a" n="6">先用木杠 横於灰隔之上</sent>
+<sent type="anno" lang="kor" page="12a" n="6">몬져 단댱남글ᄡᅥ 灰隔 우희 ᄀᆞᄅᆞ 노코</sent>
+<sent type="anno" lang="chi" page="12a" n="7">乃用索四條穿柩底鐶 不結</sent>
+<sent type="anno" lang="kor" page="12a" n="7">이에 바 네 올을 ᄡᅥ 관 믿 골회예 ᄭᅦ여 ᄆᆡ디 아니코</sent>
+<sent type="anno" lang="chi" page="12a" n="8">而下之 至杠上</sent>
+<sent type="anno" lang="kor" page="12a" n="8">ᄂᆞ리와 단댱나모 우희 니ᄅᆞ거든</sent>
+<sent type="anno" lang="chi" page="12a" n="9">則抽索去之</sent>
+<sent type="anno" lang="kor" page="12a" n="9">바란 ᄲᅢ여 업시 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="12a-12b" n="10">别摺細布若生絹兜柩底而下之</sent>
+<sent type="anno" lang="kor" page="12a-12b" n="10">각벼리 ᄀᆞᄂᆞᆫ 뵈어나 ᄉᆡᆼ깁이어나 뎌펴셔 관 미ᄐᆞᆯ 에워 ᄂᆞ리오고</sent><!--어^나-->
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/1632_가례언해08/12b.jpg</img>
+<sent type="anno" lang="chi" page="12b" n="1">更不抽出</sent>
+<sent type="anno" lang="kor" page="12b" n="1">다시 ᄲᅢ여내디 말고</sent>
+<sent type="anno" lang="chi" page="12b" n="2">但截其餘棄之</sent>
+<sent type="anno" lang="kor" page="12b" n="2">다만 그 나ᄆᆞᆫ 거ᄉᆞᆯ 버혀 ᄇᆞ리라</sent>
+<sent type="anno" lang="chi" page="12b" n="3">若柩無鐶</sent>
+<sent type="anno" lang="kor" page="12b" n="3">만일 관애 골희 업거든</sent>
+<sent type="anno" lang="chi" page="12b" n="4">即用索兜柩底兩頭放下</sent>
+<sent type="anno" lang="kor" page="12b" n="4">곳 바ᄅᆞᆯ ᄡᅥ 관 미ᄐᆞᆯ 에워 두 머리ᄅᆞᆯ 노하 ᄂᆞ리와</sent>
+<sent type="anno" lang="chi" page="12b" n="5">至杠上</sent>
+<sent type="anno" lang="kor" page="12b" n="5">단댱 우희 니ᄅᆞ거든</sent>
+<sent type="anno" lang="chi" page="12b" n="6">乃去索 用布如前</sent>
+<sent type="anno" lang="kor" page="12b" n="6">바ᄅᆞᆯ ᄲᅢ고 뵈 ᄡᅳ기를 前 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="12b" n="7">大凡下柩最須詳審 用力</sent>
+<sent type="anno" lang="kor" page="12b" n="7">대강 관 ᄂᆞ리올 제 ᄀᆞ장 모로미 詳審ᄒᆞ야 힘을 ᄡᅥ ᄒᆞᆯ디라</sent>
+<sent type="anno" lang="chi" page="12b" n="8">不可誤有傾墜動揺</sent>
+<sent type="anno" lang="kor" page="12b" n="8">그르 기우리텨 ᄂᆞ려뎌 動搖홈을 잇게 호미 可티 아니ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="12b" n="9">主人兄弟宜輟哭 親臨視之</sent>
+<sent type="anno" lang="kor" page="12b" n="9">主人 兄弟 맛당히 울옴을 그치고 親히 臨ᄒᆞ여 보라</sent>
+<sent type="anno" lang="chi" page="12b" n="10">已下再整柩衣銘旌 令平正</sent>
+<sent type="anno" lang="kor" page="12b" n="10">이믜 ᄂᆞ리거든 다시 柩衣며 銘旌을 整ᄒᆞ야 ᄒᆡ여곰 平正케 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="12b" n="11">主人이 贈ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="12b" n="11">主人이 贈ᄒᆞ라</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/1632_가례언해08/12b.jpg</img>
+<sent type="anno" lang="chi" page="13a" n="1">玄六 纁四</sent>
+<sent type="anno" lang="kor" page="13a" n="1">玄이 여ᄉᆞᅵ오 纁이 □히니</sent>
+<sent type="anno" lang="chi" page="13a" n="2">各長丈八尺</sent>
+<sent type="anno" lang="kor" page="13a" n="2">各 長이 丈 八 尺이라</sent>
+<sent type="anno" lang="chi" page="13a" n="3">主人奉置柩旁</sent>
+<sent type="anno" lang="kor" page="13a" n="3">主人이 받ᄌᆞ□ 관 ᄀᆞ이 노코</sent>
+<sent type="anno" lang="chi" page="13a" n="4">再拜稽顙</sent>
+<sent type="anno" lang="kor" page="13a" n="4">再拜ᄒᆞ고 니마흘 □고</sent>
+<sent type="anno" lang="chi" page="13a" n="5">在位皆哭盡哀</sent>
+<sent type="anno" lang="kor" page="13a" n="5">位예 인ᄂᆞᆫ 者ᅟᅵ 다 哭ᄒᆞ□ 盡哀ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="13a" n="6">家貧或不能具此數</sent>
+<sent type="anno" lang="kor" page="13a" n="6">지비 가난ᄒᆞ야 或 能 □ 이 數ᄅᆞᆯ ᄀᆞ초디 몯ᄒᆞ거든</sent>
+<sent type="anno" lang="chi" page="13a" n="7">則玄纁各一 可也</sent>
+<sent type="anno" lang="kor" page="13a" n="7">玄纁 各 ᄒᆞᆫ나식 호미 可ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="13a" n="8">其餘金玉寶玩</sent>
+<sent type="anno" lang="kor" page="13a" n="8">그 나ᄆᆞᆫ 金玉이며 寶玩의 거ᄉᆞ랑</sent>
+<sent type="anno" lang="chi" page="13a" n="9">並不得入壙 以為亡者之累</sent>
+<sent type="anno" lang="kor" page="13a" n="9">다시 □□ 굳이 녀허 ᄡᅥ 亡者의 累ᅟᅵ 되게 말라</sent>
+<sent type="main" lang="chi" page="13a" n="10">加灰隔內外蓋ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="13a" n="10">灰隔의 內개와 外 盖ᄅᆞᆯ 加ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="13a-13b" n="11">先度灰隔大小 制薄板一片</sent>
+<sent type="anno" lang="kor" page="13a-13b" n="11">몬져 灰隔의 크며 젹으믈 자혀 薄板 ᄒᆞᆫ ᄧᅡ글 ᄆᆡᆼ글오ᄃᆡ</sent><!--글^오-->
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/1632_가례언해08/13b.jpg</img>
+<sent type="anno" lang="chi" page="13b" n="1">旁距四牆 取令脗合</sent>
+<sent type="anno" lang="kor" page="13b" n="1">ᄀᆞ오로 네 녁 벽의 니ᄅᆞ러 ᄒᆡ여곰 脗合게 ᄒᆞ엿다가</sent>
+<sent type="anno" lang="chi" page="13b" n="2">至是加於柩上</sent>
+<sent type="anno" lang="kor" page="13b" n="2">이애 니ᄅᆞ러 관 우희 노코</sent>
+<sent type="anno" lang="chi" page="13b" n="3">更以油灰彌之</sent>
+<sent type="anno" lang="kor" page="13b" n="3">다시 油灰로ᄡᅥ 틈을 몌온 후에</sent>
+<sent type="anno" lang="chi" page="13b" n="4">然後旋旋少灌瀝靑於其上 令其速凝</sent>
+<sent type="anno" lang="kor" page="13b" n="4">두로두로 쟉쟉 瀝靑을 그 우희 노겨 브어 ᄒᆡ여곰 수이 엉긔게 ᄒᆞ면</sent>
+<sent type="anno" lang="chi" page="13b" n="5">即不透板</sent>
+<sent type="anno" lang="kor" page="13b" n="5">곧 널의 ᄉᆞᄆᆞᆺ디 아닌ᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="13b" n="6">約已厚三寸許</sent>
+<sent type="anno" lang="kor" page="13b" n="6">대강 ᄇᆞᆯ셔 두ᄐᆡ 세 치맛감ᄒᆞ거든</sent>
+<sent type="anno" lang="chi" page="13b" n="7">乃加外蓋</sent>
+<sent type="anno" lang="kor" page="13b" n="7">이에 外盖ᄅᆞᆯ 加ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="13b" n="8">實以灰ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="13b" n="8">灰로ᄡᅥ 實ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="13b" n="9">三物 拌匂者居下</sent>
+<sent type="anno" lang="kor" page="13b" n="9">三物 섯거 고론 거시 아래 잇고</sent>
+<sent type="anno" lang="chi" page="13b" n="10">炭末居上</sent>
+<sent type="anno" lang="kor" page="13b" n="10">숟ᄀᆞᆯ리 우희 잇게 호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="13b" n="11">各倍於底及四旁之厚</sent>
+<sent type="anno" lang="kor" page="13b" n="11">각각 미티며 밋 네 ᄀᆞ의 투틔예셔 倍케 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="13b" n="12">以酒灑而躡實之</sent>
+<sent type="anno" lang="kor" page="13b" n="12">술로ᄡᅥ ᄲᅳ려 ᄇᆞᆯ와 實케 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="13b" n="13">恐震柩中</sent>
+<sent type="anno" lang="kor" page="13b" n="13">柩中이 震동ᄒᆞᆯ가 저흔 故로</sent>
+<sent type="anno" lang="chi" page="13b" n="14">故未敢築</sent>
+<sent type="anno" lang="kor" page="13b" n="14">敢히 다 ᄋᆞ디 몯ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="13b" n="15">但多用之 以俟其實耳</sent>
+<sent type="anno" lang="kor" page="13b" n="15">다만 만히 ᄡᅥ셔 ᄡᅥ곰 그 實홈을 기ᄃᆞᆯ올 거시라</sent><!--ᄃᆞᆯ^올-->
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/1632_가례언해08/14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="1">乃實土而漸築之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="14a" n="1">이에 ᄒᆞᆰ으로 實ᄒᆞ고 졈졈 다ᄋᆞ라</sent>
+<sent type="anno" lang="chi" page="14a" n="2">下土每尺許 卽輕手築之</sent>
+<sent type="anno" lang="kor" page="14a" n="2">ᄒᆞᆰ ᄂᆞ리오ᄆᆞᆯ ᄆᆡ양 ᄒᆞᆫ 자맛감 곳 손을 가ᄇᆡ아이 놀려 다아</sent>
+<sent type="anno" lang="chi" page="14a" n="3">勿令震動柩中</sent>
+<sent type="anno" lang="kor" page="14a" n="3">ᄒᆡ여곰 柩中을 震動케 말라</sent>
+<sent type="main" lang="chi" page="14a" n="4">祠后土於墓左ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="14a" n="4">后土ᄅᆞᆯ 墓 左의셔 졔ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="14a" n="5">如前儀 祝版前同</sent>
+<sent type="anno" lang="kor" page="14a" n="5">前의 녜 ᄀᆞᆮ고 祝版이 前과 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="14a" n="6">但云</sent>
+<sent type="anno" lang="kor" page="14a" n="6">다만 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="14a" n="7">今爲某官封諡</sent>
+<sent type="anno" lang="kor" page="14a" n="7">今爲某官封諡ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="14a" n="8">窆茲幽宅</sent>
+<sent type="anno" lang="kor" page="14a" n="8">窆玆幽宅이라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14a" n="9">神其後同</sent>
+<sent type="anno" lang="kor" page="14a" n="9">神其後ᄂᆞᆫ ᄀᆞᄐᆞ니라</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/1632_가례언해08/14b.jpg</img>
+<sent type="anno" lang="chi" page="14b" n="1">劉氏璋曰</sent>
+<sent type="anno" lang="kor" page="14b" n="1">劉氏 璋이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="14b" n="2">爲父母形體在此</sent>
+<sent type="anno" lang="kor" page="14b" n="2">父母의 形體 여긔 이쇼믈 爲ᄒᆞᆫ 연故로</sent>
+<sent type="anno" lang="chi" page="14b" n="3">故禮其神以安之</sent>
+<sent type="anno" lang="kor" page="14b" n="3">그 神녕을 禮ᄒᆞ여 ᄡᅥ곰 편安케 호미니라</sent>
+<sent type="main" lang="chi" page="14b" n="4">藏明器等ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="14b" n="4">明器 等을 藏ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="14b" n="5">實土及半</sent>
+<sent type="anno" lang="kor" page="14b" n="5">實土호ᄆᆞᆯ 半만 호매 미처</sent>
+<sent type="anno" lang="chi" page="14b" n="6">乃藏明器 下帳 苞 筲 甖於便房</sent>
+<sent type="anno" lang="kor" page="14b" n="6">이에 明器며 下帳이며 苞ᅟᅵ며 筲ᅟᅵ며 嬴을 便房의 藏ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14b" n="7">以板塞其門</sent>
+<sent type="anno" lang="kor" page="14b" n="7">널로ᄡᅥ 그 門을 마그라</sent>
+<sent type="main" lang="chi" page="14b" n="8">下誌石ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="14b" n="8">誌石을 ᄂᆞ리오라</sent>
+<sent type="anno" lang="chi" page="14b" n="9">墓在平地</sent>
+<sent type="anno" lang="kor" page="14b" n="9">분墓ᅟᅵ 平地예 잇거든</sent>
+<sent type="anno" lang="chi" page="14b" n="10">則於壙內近南 先布磚一重</sent>
+<sent type="anno" lang="kor" page="14b" n="10">壙內예 南녁 가ᄌᆞ기 몬져 벽 ᄒᆞᆫ ᄀᆞᆯᄑᆞᆯ ᄭᆞᆯ고</sent>
+<sent type="anno" lang="chi" page="14b-15a" n="11">置石其上 又以磚四圍之</sent>
+<sent type="anno" lang="kor" page="14b-15a" n="11">지石을 그 우희 노코 ᄯᅩ 벽으로ᄡᅥ 四면의 두르고</sent><!--四^면-->
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/1632_가례언해08/15a.jpg</img>
+<sent type="anno" lang="chi" page="15a" n="1">而覆其上</sent>
+<sent type="anno" lang="kor" page="15a" n="1">그 우희 더프라</sent>
+<sent type="anno" lang="chi" page="15a" n="2">若墓在山側峻處</sent>
+<sent type="anno" lang="kor" page="15a" n="2">만일 분墓ᅟᅵ 묏 녀ᄑᆡ 노ᄑᆞᆫ ᄃᆡ 잇거든</sent>
+<sent type="anno" lang="chi" page="15a" n="3">則於壙南數尺間 掘地深四五尺</sent>
+<sent type="anno" lang="kor" page="15a" n="3">壙 南 두어 자 ᄉᆞ이예 ᄯᅡ흘 파 기픠 너덧 자만 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15a" n="4">依此法埋之</sent>
+<sent type="anno" lang="kor" page="15a" n="4">이 法대로 무ᄃᆞ라</sent>
+<sent type="main" lang="chi" page="15a" n="5">復實以土而堅築之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15a" n="5">다시 ᄒᆞᆰ으로ᄡᅥ 實ᄒᆞ고 굳게 다ᄋᆞ라</sent>
+<sent type="anno" lang="chi" page="15a" n="6">下土亦以尺許爲準</sent>
+<sent type="anno" lang="kor" page="15a" n="6">ᄒᆞᆰ ᄂᆞ리오믈 ᄯᅩ 자 남즉으로ᄡᅥ 규식ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15a" n="7">但須密杵堅築</sent>
+<sent type="anno" lang="kor" page="15a" n="7">다만 모로미 달고ᄅᆞᆯ 춍춍 늘려 굳게 다ᄋᆞ라</sent>
+<sent type="main" lang="chi" page="15a" n="8">題主ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15a" n="8">신主 쓰라</sent>
+<sent type="anno" lang="chi" page="15a" n="9">執事者設卓子於靈座東南 西向</sent>
+<sent type="anno" lang="kor" page="15a" n="9">執事者ᅟᅵ 卓子ᄅᆞᆯ 靈座 東南의 設ᄒᆞ야 西向ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="15a-15b" n="10">置硯筆墨 對卓</sent>
+<sent type="anno" lang="kor" page="15a-15b" n="10">벼뢰며 붇이며 먹을 노코 卓ᄌᆞᄅᆞᆯ 對ᄒᆞ야</sent><!--對^ᄒᆞ-->
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/1632_가례언해08/15b.jpg</img>
+<sent type="anno" lang="chi" page="15b" n="1">置盥盆帨巾如前</sent>
+<sent type="anno" lang="kor" page="15b" n="1">셰슈 소래며 슈巾 노호ᄆᆞᆯ 前 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="15b" n="2">主人立於其前 北向</sent>
+<sent type="anno" lang="kor" page="15b" n="2">主人이 그 앏ᄑᆡ 셔셔 北向ᄒᆞ얏거든</sent>
+<sent type="anno" lang="chi" page="15b" n="3">祝盥手出主</sent>
+<sent type="anno" lang="kor" page="15b" n="3">祝이 손 싯고 신主ᄅᆞᆯ 내여</sent>
+<sent type="anno" lang="chi" page="15b" n="4">臥置卓上</sent>
+<sent type="anno" lang="kor" page="15b" n="4">卓ᄌᆞ 우희 뉘여 노코</sent>
+<sent type="anno" lang="chi" page="15b" n="5">使善書者盥手西向立</sent>
+<sent type="anno" lang="kor" page="15b" n="5">글 잘 쓰ᄂᆞ니로 ᄒᆡ여 손 싯고 西向ᄒᆞ야 셔셔</sent>
+<sent type="anno" lang="chi" page="15b" n="6">先題陷中</sent>
+<sent type="anno" lang="kor" page="15b" n="6">몬져 陷中을 쓰되</sent>
+<sent type="anno" lang="chi" page="15b" n="7">父則曰</sent>
+<sent type="anno" lang="kor" page="15b" n="7">父ᅟᅵ어든 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="15b" n="8">故某官 某公諱 某字 某第幾 神主</sent>
+<sent type="anno" lang="kor" page="15b" n="8">故某官 某公諱 某字 某第幾 神主ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15b" n="9">粉面曰</sent>
+<sent type="anno" lang="kor" page="15b" n="9">粉面의 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="15b" n="10">考某官封諡府君 神主</sent>
+<sent type="anno" lang="kor" page="15b" n="10">考某官封尸府君 神主ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15b" n="11">其下左傍曰</sent>
+<sent type="anno" lang="kor" page="15b" n="11">그 아래 左녁 ᄀᆞᄋᆡ ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="15b" n="12">孝子某奉祀</sent>
+<sent type="anno" lang="kor" page="15b" n="12">孝子 某ᄂᆞᆫ 奉祀ᅟᅵ라 ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="15b" n="13">母則曰</sent>
+<sent type="anno" lang="kor" page="15b" n="13">母ᅟᅵ어든 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="15b" n="14">故某封 某氏諱 某字 某第幾 神主</sent>
+<sent type="anno" lang="kor" page="15b" n="14">故某封 某氏諱 某字 某第幾 神主ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15b" n="15">粉面曰</sent>
+<sent type="anno" lang="kor" page="15b" n="15">粉面의 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="15b-16a" n="16">妣某封 某氏 神主</sent>
+<sent type="anno" lang="kor" page="15b-16a" n="16">妣某封 某氏 神主ᅟᅵ라 ᄒᆞ고</sent><!--某^封-->
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/1632_가례언해08/16a.jpg</img>
+<sent type="anno" lang="chi" page="16a" n="1">旁亦如之</sent>
+<sent type="anno" lang="kor" page="16a" n="1">겨ᄐᆡ 쓰기도 ᄯᅩ ᄀᆞᆮ게 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="16a" n="2">無官封</sent>
+<sent type="anno" lang="kor" page="16a" n="2">벼ᄉᆞᆯ이며 封호미 업거든</sent>
+<sent type="anno" lang="chi" page="16a" n="3">則以生時所稱爲號</sent>
+<sent type="anno" lang="kor" page="16a" n="3">生時예 일ᄏᆞᆺ던 바로ᄡᅥ 일홈ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="16a" n="4">題畢 祝奉置靈座</sent>
+<sent type="anno" lang="kor" page="16a" n="4">쓰기 다 ᄒᆞ여든 祝이 뫼셔 靈座의 노코</sent>
+<sent type="anno" lang="chi" page="16a" n="5">而藏魂帛於箱中 以置其後</sent>
+<sent type="anno" lang="kor" page="16a" n="5">魂帛으란 箱中의 간슈ᄒᆞ야 ᄡᅥ 그 뒤헤 노코</sent>
+<sent type="anno" lang="chi" page="16a" n="6">炷香 斟酒 執版</sent>
+<sent type="anno" lang="kor" page="16a" n="6">香 픠오고 술 븟고 츅版 자바</sent>
+<sent type="anno" lang="chi" page="16a" n="7">出於主人之右 跪讀之</sent>
+<sent type="anno" lang="kor" page="16a" n="7">主人 右ᄋᆡ 나셔 ᄭᅮ러 닐그라</sent>
+<sent type="anno" lang="chi" page="16a" n="8">日子同前 但云</sent>
+<sent type="anno" lang="kor" page="16a" n="8">日子ᄂᆞᆫ 前과 ᄀᆞᆮ고 다만 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16a" n="9">孤子某 敢昭告于考某官封謚府君 形歸窀穸 神返室堂</sent>
+<sent type="anno" lang="kor" page="16a" n="9">孤子 某ᄂᆞᆫ 敢昭告于 考某官封諡府君 形歸窀穸이오 神返室堂이라</sent>
+<sent type="anno" lang="chi" page="16a" n="10">神主旣成</sent>
+<sent type="anno" lang="kor" page="16a" n="10">神主ᅟᅵ 旣成ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="16a" n="11">伏惟尊靈 舍舊從新 是憑是依</sent>
+<sent type="anno" lang="kor" page="16a" n="11">伏惟 尊靈은 舍舊從新ᄒᆞ야 是憑是依라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="16a-16b" n="12">畢 懷之興 復位</sent>
+<sent type="anno" lang="kor" page="16a-16b" n="12">ᄆᆞᆺ고 품고 니러나 位에 도라오나든</sent><!--位^에-->
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/1632_가례언해08/16b.jpg</img>
+<sent type="anno" lang="chi" page="16b" n="1">主人再拜 哭盡哀 止</sent>
+<sent type="anno" lang="kor" page="16b" n="1">主人이 再拜ᄒᆞ고 哭호ᄆᆞᆯ 盡哀ᄒᆞ고 그치라</sent>
+<sent type="anno" lang="chi" page="16b" n="2">母喪稱哀子</sent>
+<sent type="anno" lang="kor" page="16b" n="2">母喪이어든 哀子ᅟᅵ라 稱ᄒᆞᆯ디니</sent>
+<sent type="anno" lang="chi" page="16b" n="3">後放此</sent>
+<sent type="anno" lang="kor" page="16b" n="3">後도 이 ᄀᆞᆮ고</sent>
+<sent type="anno" lang="chi" page="16b" n="4">凡有封諡皆稱之</sent>
+<sent type="anno" lang="kor" page="16b" n="4">므릇 封諡 잇거든 다 일ᄏᆞ롤디니</sent>
+<sent type="anno" lang="chi" page="16b" n="5">後皆放此</sent>
+<sent type="anno" lang="kor" page="16b" n="5">後도 다 이 ᄀᆞᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="16b" n="6">問</sent>
+<sent type="anno" lang="kor" page="16b" n="6">무ᄌᆞ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16b" n="7">夫在 妻之神主 宜書何人奉祀</sent>
+<sent type="anno" lang="kor" page="16b" n="7">夫ᅟᅵ 이쇼매 妻의 神主ᄅᆞᆯ 맛당히 어ᄂᆡ 사ᄅᆞᆷ미 奉祀ᅟᅵ라 쓸리 잇고</sent>
+<sent type="anno" lang="chi" page="16b" n="8">朱子曰</sent>
+<sent type="anno" lang="kor" page="16b" n="8">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16b" n="9">旁注施於所尊</sent>
+<sent type="anno" lang="kor" page="16b" n="9">겨틔 註ᄅᆞᆯ 尊ᄒᆞᆫ 바의 베플디라</sent>
+<sent type="anno" lang="chi" page="16b" n="10">以下則不必書也</sent>
+<sent type="anno" lang="kor" page="16b" n="10">以下 則 반ᄃᆞ시 ᄡᅳ디 아닐 거시니라</sent>
+<sent type="anno" lang="chi" page="16b" n="11">高氏曰</sent>
+<sent type="anno" lang="kor" page="16b" n="11">高氏 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16b" n="12">觀木主之制</sent>
+<sent type="anno" lang="kor" page="16b" n="12">木主의 制도ᄅᆞᆯ 보니</sent>
+<sent type="anno" lang="chi" page="16b" n="13">旁題主祀之名</sent>
+<sent type="anno" lang="kor" page="16b" n="13">겨ᄐᆡ 主祀ᄒᆞᄂᆞᆫ의 일홈을 쓰게 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="16b-17a" n="14">而知宗子之法不可廢也</sent>
+<sent type="anno" lang="kor" page="16b-17a" n="14">宗子의 法을 可히 廢티 몯ᄒᆞᆯ 주ᄅᆞᆯ 알리로다</sent><!--로^다-->
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/1632_가례언해08/17a.jpg</img>
+<sent type="anno" lang="chi" page="17a" n="1">宗子承家主祭</sent>
+<sent type="anno" lang="kor" page="17a" n="1">宗子ᅟᅵ 집을 니어 祭ᄅᆞᆯ 主ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="17a" n="2">有君之道</sent>
+<sent type="anno" lang="kor" page="17a" n="2">君의 道ᅟᅵ 인ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="17a" n="3">諸子不得而抗焉</sent>
+<sent type="anno" lang="kor" page="17a" n="3">諸子ᅟᅵ 시러곰 抗녜티 몯ᄒᆞᄂᆞᆫ 故로</sent>
+<sent type="anno" lang="chi" page="17a" n="4">故 禮 支子不祭</sent>
+<sent type="anno" lang="kor" page="17a" n="4">禮애 支子ᅟᅵ 祭티 몯ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="17a" n="5">祭必告於宗子</sent>
+<sent type="anno" lang="kor" page="17a" n="5">祭호매 반ᄃᆞ시 宗子의게 告ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="17a" n="6">宗子爲士 庶子爲大夫</sent>
+<sent type="anno" lang="kor" page="17a" n="6">宗子ᅟᅵ 士ᅟᅵ 되고 庶子ᅟᅵ 大夫ᅟᅵ 된 則</sent>
+<sent type="anno" lang="chi" page="17a" n="7">則以上牲祭於宗子之家</sent>
+<sent type="anno" lang="kor" page="17a" n="7">上牲으로ᄡᅥ 宗子의 집의 가 祭호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17a" n="8">其祝詞曰</sent>
+<sent type="anno" lang="kor" page="17a" n="8">그 祝詞ᄅᆞᆯ ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17a" n="9">孝子某爲介子某</sent>
+<sent type="anno" lang="kor" page="17a" n="9">孝子 某ᅟᅵ 爲介子某ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="17a" n="10">薦其常事</sent>
+<sent type="anno" lang="kor" page="17a" n="10">薦其常事ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="17a" n="11">若宗子居于他國</sent>
+<sent type="anno" lang="kor" page="17a" n="11">만일 宗子ᅟᅵ 他國에 살면</sent>
+<sent type="anno" lang="chi" page="17a" n="12">庶子無廟</sent>
+<sent type="anno" lang="kor" page="17a" n="12">庶子ᅟᅵ 가廟ᅟᅵ 업ᄉᆞ니</sent>
+<sent type="anno" lang="chi" page="17a" n="13">則望墓爲壇以祭</sent>
+<sent type="anno" lang="kor" page="17a" n="13">곳 분墓ᄅᆞᆯ ᄇᆞ라 壇을 ᄆᆡᆼ그라 ᄡᅥ 祭호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17a" n="14">其祝詞曰</sent>
+<sent type="anno" lang="kor" page="17a" n="14">그 祝詞ᄅᆞᆯ ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17a-17b" n="15">孝子某使介子某執其常事</sent>
+<sent type="anno" lang="kor" page="17a-17b" n="15">孝子 某ᅟᅵ 使介子 某로 執其常事ᅟᅵ라 ᄒᆞ고</sent><!--介^子-->
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/1632_가례언해08/17b.jpg</img>
+<sent type="anno" lang="chi" page="17b" n="1">若宗子死</sent>
+<sent type="anno" lang="kor" page="17b" n="1">만일 宗子ᅟᅵ 주근 則</sent>
+<sent type="anno" lang="chi" page="17b" n="2">則稱名 不稱孝</sent>
+<sent type="anno" lang="kor" page="17b" n="2">일홈을 稱ᄒᆞ고 孝ᅟᅵ라 稱티 아니ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="17b" n="3">蓋人重宗如此</sent>
+<sent type="anno" lang="kor" page="17b" n="3">盖 古人의 宗을 重히 너기미 이러ᄐᆞᆺ ᄒᆞ더니</sent>
+<sent type="anno" lang="chi" page="17b" n="4">自宗子之法壞 而人不知所自來</sent>
+<sent type="anno" lang="kor" page="17b" n="4">宗子法이 믈허디모로브터 사ᄅᆞᆷ이 브터온 바ᄅᆞᆯ 아디 몯ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="17b" n="5">以至流轉四方 往往親未絶</sent>
+<sent type="anno" lang="kor" page="17b" n="5">ᄡᅥ곰 四方의 流轉ᄒᆞ야 므듸므듸 親이 굿디 아녀셔</sent>
+<sent type="anno" lang="chi" page="17b" n="6">而有不相識者</sent>
+<sent type="anno" lang="kor" page="17b" n="6">서ᄅᆞ 아디 몯ᄒᆞᆯ 者ᅟᅵ 이쇼매 니르니</sent>
+<sent type="anno" lang="chi" page="17b" n="7">是豈敎人尊祖收族之道哉</sent>
+<sent type="anno" lang="kor" page="17b" n="7">이 엇디 사ᄅᆞᆷ을 祖샹을 尊ᄒᆞ며 겨레ᄅᆞᆯ 거두믈 ᄀᆞ가ᄅᆞ치ᄂᆞᆫ 道ᅟᅵ리오</sent>
+<sent type="main" lang="chi" page="17b" n="8">祝이 奉神主ᄒᆞ여 升車ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="17b" n="8">祝이 神主ᄅᆞᆯ 뫼셔 녕車의 올리라</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/1632_가례언해08/18a.jpg</img>
+<sent type="anno" lang="chi" page="18a" n="1">魂帛箱在其後</sent>
+<sent type="anno" lang="kor" page="18a" n="1">魂帛 箱ᄌᆞᅵ 그 뒤헤 잇게 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="18a" n="2">執事者ᅟᅵ 徹靈座ᄒᆞ고 遂行ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="18a" n="2">執事者ᅟᅵ 靈座ᄅᆞᆯ 설고 드듸여 行ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18a" n="3">主人以下哭從 如來儀</sent>
+<sent type="anno" lang="kor" page="18a" n="3">主人 以下ᅟᅵ 哭ᄒᆞ고 조차 가ᄆᆞᆯ 올 적 녜 ᄀᆞᆮ게 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18a" n="4">出墓門 尊長乘車馬</sent>
+<sent type="anno" lang="kor" page="18a" n="4">墓門에 나셔 尊長은 車馬ᄅᆞᆯ ᄐᆞ고</sent>
+<sent type="anno" lang="chi" page="18a" n="5">去墓百步許</sent>
+<sent type="anno" lang="kor" page="18a" n="5">墓소 百 步맛감 ᄠᅥ나셔</sent>
+<sent type="anno" lang="chi" page="18a" n="6">卑幼亦乘車馬</sent>
+<sent type="anno" lang="kor" page="18a" n="6">卑幼도 ᄯᅩᄒᆞᆫ 車馬ᄅᆞᆯ ᄐᆞ라</sent>
+<sent type="anno" lang="chi" page="18a" n="7">但留子弟一人監視實土</sent>
+<sent type="anno" lang="kor" page="18a" n="7">다만 子弟 ᄒᆞᆫ나흘 留ᄒᆞ야 實土ᄒᆞ기ᄅᆞᆯ 보와 ᄒᆞ야ᄡᅥ</sent>
+<sent type="anno" lang="chi" page="18a" n="8">以至成墳</sent>
+<sent type="anno" lang="kor" page="18a" n="8">成墳호매 니ᄅᆞ게 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="18a-18b" n="9">墳高ᅟᅵ 四尺이오</sent>
+<sent type="main" lang="kor" page="18a-18b" n="9">무덤 노ᄑᆡ 넉 자히오</sent><!--덤 ^ 노-->
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/1632_가례언해08/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="1">立小石碑於其前호ᄃᆡ</sent>
+<sent type="main" lang="kor" page="18b" n="1">쟈근 石碑ᄅᆞᆯ 그 앏ᄑᆡ 셰오ᄃᆡ</sent>
+<sent type="main" lang="chi" page="18b" n="2">亦高ᅟᅵ 四尺이오</sent>
+<sent type="main" lang="kor" page="18b" n="2">ᄯᅩ 노픠 넉 자히오</sent>
+<sent type="main" lang="chi" page="18b" n="3">趺高ᅟᅵ 尺許ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="18b" n="3">ᄃᆡ석 노픠 ᄒᆞᆫ 자맛감 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18b" n="4">司馬溫公曰</sent>
+<sent type="anno" lang="kor" page="18b" n="4">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="18b" n="5">按令式</sent>
+<sent type="anno" lang="kor" page="18b" n="5">令式을 按호니</sent>
+<sent type="anno" lang="chi" page="18b" n="6">墳碑石獸 大小多寡 雖各有品數</sent>
+<sent type="anno" lang="kor" page="18b" n="6">墳이며 碑며 石獸의 크며 효그며 하며 져그미 비록 각각 品數ᅟᅵ 이시나</sent>
+<sent type="anno" lang="chi" page="18b" n="7">然葬者當為無窮之規</sent>
+<sent type="anno" lang="kor" page="18b" n="7">그러나 葬ᄒᆞ요믄 맛당히 無窮ᄒᆞᆫ 規ᄅᆞᆯ ᄒᆞᆯ 거시니</sent>
+<sent type="anno" lang="chi" page="18b" n="8">後世見此等物</sent>
+<sent type="anno" lang="kor" page="18b" n="8">後世예 이 톄옛 거슬 보면</sent>
+<sent type="anno" lang="chi" page="18b" n="9">安知其中不多藏金玉邪</sent>
+<sent type="anno" lang="kor" page="18b" n="9">엇디 其 中에 金玉을 만히 藏티 아년ᄂᆞᆫ 주ᄅᆞᆯ 알리오</sent>
+<sent type="anno" lang="chi" page="18b" n="10">是皆無益於亡者</sent>
+<sent type="anno" lang="kor" page="18b" n="10">이 다 亡者의게 無益ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="18b" n="11">而反有害</sent>
+<sent type="anno" lang="kor" page="18b" n="11">도로혀 害 이실 거신 故로</sent>
+<sent type="anno" lang="chi" page="18b" n="12">故令式又有貴得同賤</sent>
+<sent type="anno" lang="kor" page="18b" n="12">令式에 ᄯᅩ 貴ᄒᆞ니ᄂᆞᆫ 賤ᄒᆞ니과 ᄀᆞᆮ게 ᄒᆞ여도</sent>
+<sent type="anno" lang="chi" page="18b" n="13">賤不得同貴之文</sent>
+<sent type="anno" lang="kor" page="18b" n="13">賤ᄒᆞ니ᄂᆞᆫ 貴ᄒᆞ니과 ᄀᆞᆮ티 몯ᄒᆞ게 ᄒᆞᆫ 文ᄌᆡ 이시니</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/1632_가례언해08/19a.jpg</img>
+<sent type="anno" lang="chi" page="19a" n="1">然則不若不用之爲愈也</sent>
+<sent type="anno" lang="kor" page="19a" n="1">그런 則 ᄡᅳ디 아녀야 나ᄋᆞᆷ만 ᄀᆞᆮ디 몯ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="19a" n="2">今按</sent>
+<sent type="anno" lang="kor" page="19a" n="2">이제 按호니</sent>
+<sent type="anno" lang="chi" page="19a" n="3">孔子防墓之封</sent>
+<sent type="anno" lang="kor" page="19a" n="3">孔子ᅟᅵ 防墓의 封ᄒᆞ시ᄆᆞᆯ</sent>
+<sent type="anno" lang="chi" page="19a" n="4">其崇四尺</sent>
+<sent type="anno" lang="kor" page="19a" n="4">그 노픠 넉 자ᄒᆞᆯ ᄒᆞ신 故로</sent>
+<sent type="anno" lang="chi" page="19a" n="5">故取以為法</sent>
+<sent type="anno" lang="kor" page="19a" n="5">取ᄒᆞ야 ᄡᅥ 法을 삼고</sent>
+<sent type="anno" lang="chi" page="19a" n="6">用司馬公說</sent>
+<sent type="anno" lang="kor" page="19a" n="6">司馬公의 마ᄅᆞᆯ ᄡᅥ</sent>
+<sent type="anno" lang="chi" page="19a" n="7">別立小碑</sent>
+<sent type="anno" lang="kor" page="19a" n="7">각別이 쟈근 碑ᄅᆞᆯ 셰게 ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="19a" n="8">但石須闊尺以上</sent>
+<sent type="anno" lang="kor" page="19a" n="8">다만 돌ᄒᆞᆯ 모로미 너븨 ᄒᆞᆫ 자 以上을 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="19a" n="9">其厚居三之二</sent>
+<sent type="anno" lang="kor" page="19a" n="9">그 두틔 三分之二에 잇게 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="19a" n="10">圭首而刻其面如誌之蓋</sent>
+<sent type="anno" lang="kor" page="19a" n="10">圭首ᄒᆞ고 그 面의 刻ᄒᆞᄆᆞᆯ 誌셕 두에 ᄀᆞᆮ티 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="19a" n="11">乃略述其世系名字行實</sent>
+<sent type="anno" lang="kor" page="19a" n="11">이에 잠ᄭᅡᆫ 그 世系와 일홈과 字와 行實을 지어</sent>
+<sent type="anno" lang="chi" page="19a" n="12">而刻於其左</sent>
+<sent type="anno" lang="kor" page="19a" n="12">그 左ᄉᅠ 녁킈 刻ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="19a" n="13">轉及後右而周焉</sent>
+<sent type="anno" lang="kor" page="19a" n="13">도라 後와 右ᄉᅠ 녁ᄒᆡ 미처 周편케 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="19a" n="14">婦人則俟夫葬乃立</sent>
+<sent type="anno" lang="kor" page="19a" n="14">婦人이어든 夫의 葬호ᄆᆞᆯ 기둘워 이에 셰오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="19a-19b" n="15">面如夫亡誌蓋之刻云</sent>
+<sent type="anno" lang="kor" page="19a-19b" n="15">面이 夫ᅟᅵ 亡ᄒᆞᆫ 誌셕 두에 刻홈 ᄀᆞ티 ᄒᆞ라</sent><!--刻^홈-->
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/1632_가례언해08/19b.jpg</img>
+<sent type="anno" lang="chi" page="19b" n="1">司馬溫公曰</sent>
+<sent type="anno" lang="kor" page="19b" n="1">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="19b" n="2">古人有大勳德</sent>
+<sent type="anno" lang="kor" page="19b" n="2">古人이 큰 공勳과 德이 이시면</sent>
+<sent type="anno" lang="chi" page="19b" n="3">勒銘鍾鼎</sent>
+<sent type="anno" lang="kor" page="19b" n="3">鍾이며 鼎애 勒銘ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="19b" n="4">藏之宗廟</sent>
+<sent type="anno" lang="kor" page="19b" n="4">宗廟애 藏ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="19b" n="5">其葬則有豐碑以下棺耳</sent>
+<sent type="anno" lang="kor" page="19b" n="5">그 영葬애 곳 豊碑ᄅᆞᆯ 두어 ᄡᅥ 棺을 ᄂᆞ리오더니</sent>
+<sent type="anno" lang="chi" page="19b" n="6">秦漢以來</sent>
+<sent type="anno" lang="kor" page="19b" n="6">秦漢으로ᄡᅥ 오므로</sent>
+<sent type="anno" lang="chi" page="19b" n="7">始命文士褒賛功徳</sent>
+<sent type="anno" lang="kor" page="19b" n="7">비로소 文士ᄅᆞᆯ 命ᄒᆞ야 功과 德을 기려</sent>
+<sent type="anno" lang="chi" page="19b" n="8">刻之於石 亦謂之碑</sent>
+<sent type="anno" lang="kor" page="19b" n="8">돌ᄒᆡ 사기ᄆᆞᆯ ᄯᅩᄒᆞᆫ 碑라 니ᄅᆞ고</sent>
+<sent type="anno" lang="chi" page="19b" n="9">降及南朝 復有銘誌埋之墓中</sent>
+<sent type="anno" lang="kor" page="19b" n="9">ᄂᆞ려 南朝애 미처ᄂᆞᆫ 다시 銘과 誌ᄅᆞᆯ 두어 墓 中애 무드니</sent>
+<sent type="anno" lang="chi" page="19b" n="10">使其人果大賢邪</sent>
+<sent type="anno" lang="kor" page="19b" n="10">그 사ᄅᆞᆷ으로 ᄒᆡ여곰 果연 大賢인댄</sent>
+<sent type="anno" lang="chi" page="19b" n="11">則名聞昭顯</sent>
+<sent type="anno" lang="kor" page="19b" n="11">곳 名聞이 ᄇᆞᆯ가 顯달ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="19b" n="12">衆所稱頌</sent>
+<sent type="anno" lang="kor" page="19b" n="12">모다 稱頌ᄒᆞᄂᆞᆫ 배라</sent>
+<sent type="anno" lang="chi" page="19b" n="13">流播終古</sent>
+<sent type="anno" lang="kor" page="19b" n="13">終古토록 흘러 뎐播ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="19b-20a" n="14">不可掩蔽</sent>
+<sent type="anno" lang="kor" page="19b-20a" n="14">可히 掩蔽티 몯ᄒᆞ리니</sent><!--可^히-->
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/1632_가례언해08/20a.jpg</img>
+<sent type="anno" lang="chi" page="20a" n="1">豈待碑誌始為人知</sent>
+<sent type="anno" lang="kor" page="20a" n="1">엇디 碑와 誌ᄅᆞᆯ 기드려 비로소 사ᄅᆞᆷ의 아로미 되리오</sent>
+<sent type="anno" lang="chi" page="20a" n="2">若其不賢也</sent>
+<sent type="anno" lang="kor" page="20a" n="2">만일 그 어디디 몯ᄒᆞ면</sent>
+<sent type="anno" lang="chi" page="20a" n="3">雖以巧言麗詞</sent>
+<sent type="anno" lang="kor" page="20a" n="3">비록 공巧ᄒᆞᆫ 말과 고ᄋᆞᆫ 글로ᄡᅥ</sent>
+<sent type="anno" lang="chi" page="20a" n="4">强加采飾 功侔呂望</sent>
+<sent type="anno" lang="kor" page="20a" n="4">구ᄐᆡ여 采飾을 더어 功이 呂望과 ᄀᆞᆺ고</sent>
+<sent type="anno" lang="chi" page="20a" n="5">德比仲尼 徒取譏笑</sent>
+<sent type="anno" lang="kor" page="20a" n="5">德이 仲尼ᄭᅴ 比ᄒᆞ야도 ᄒᆞᆫ갓 譏笑ᄅᆞᆯ 取ᄒᆞ리니</sent>
+<sent type="anno" lang="chi" page="20a" n="6">其誰肯信</sent>
+<sent type="anno" lang="kor" page="20a" n="6">그 뉘 즐겨 미ᄃᆞ리오</sent>
+<sent type="anno" lang="chi" page="20a" n="7">碑猶立於墓道</sent>
+<sent type="anno" lang="kor" page="20a" n="7">碑ᄂᆞᆫ 오히려 墓道애 셰오니</sent>
+<sent type="anno" lang="chi" page="20a" n="8">人得見之</sent>
+<sent type="anno" lang="kor" page="20a" n="8">사ᄅᆞᆷ이 시러곰 보려니와</sent>
+<sent type="anno" lang="chi" page="20a" n="9">誌乃藏於壙中</sent>
+<sent type="anno" lang="kor" page="20a" n="9">誌ᄂᆞᆫ 이에 壙中애 ᄀᆞᆷ초니</sent>
+<sent type="anno" lang="chi" page="20a" n="10">自非開發 莫之睹也</sent>
+<sent type="anno" lang="kor" page="20a" n="10">즈스로 여러 내디 아니면 보디 몯ᄒᆞᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="20a" n="11">隋文帝子秦王俊薨</sent>
+<sent type="anno" lang="kor" page="20a" n="11">隋文帝의 아ᄃᆞᆯ 秦王俊이 죽거ᄅᆞᆯ</sent>
+<sent type="anno" lang="chi" page="20a" n="12">府僚請立碑 帝曰</sent>
+<sent type="anno" lang="kor" page="20a" n="12">마ᄋᆞᆯ 僚속이 碑 셰오믈 請ᄒᆞᆫ대 帝 ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="20a-20b" n="13">欲求名 一卷史書足矣</sent>
+<sent type="anno" lang="kor" page="20a-20b" n="13">일홈을 求코쟈 ᄒᆞ면 ᄒᆞᆫ 卷史긔 글이 足ᄒᆞ니</sent><!--足^ᄒᆞ-->
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/1632_가례언해08/20b.jpg</img>
+<sent type="anno" lang="chi" page="20b" n="1">何用碑為</sent>
+<sent type="anno" lang="kor" page="20b" n="1">엇디 ᄡᅥ 碑ᄅᆞᆯ ᄒᆞ리오</sent>
+<sent type="anno" lang="chi" page="20b" n="2">徒與人作鎭石耳</sent>
+<sent type="anno" lang="kor" page="20b" n="2">ᄒᆞᆫ갓 사ᄅᆞᆷ을 위ᄒᆞ야 鎭石을 삼으리라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="20b" n="3">此實語也</sent>
+<sent type="anno" lang="kor" page="20b" n="3">이 實ᄒᆞᆫ 마리라</sent>
+<sent type="anno" lang="chi" page="20b" n="4">今旣不能免</sent>
+<sent type="anno" lang="kor" page="20b" n="4">이제 임의 能히 免티 못ᄒᆞᆯ딘댄</sent>
+<sent type="anno" lang="chi" page="20b" n="5">依其誌文</sent>
+<sent type="anno" lang="kor" page="20b" n="5">그 誌文을 依거ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="20b" n="6">但可直叙鄕里世家官簿始終而已</sent>
+<sent type="anno" lang="kor" page="20b" n="6">다만 可히 鄕里와 世家와 官簿와 始와 終을 直히 펼 ᄯᆞᄅᆞᆷ이라</sent>
+<sent type="anno" lang="chi" page="20b" n="7">季札墓前有石</sent>
+<sent type="anno" lang="kor" page="20b" n="7">季札의 분墓 알ᄑᆡ 石이 이시니</sent>
+<sent type="anno" lang="chi" page="20b" n="8">世稱</sent>
+<sent type="anno" lang="kor" page="20b" n="8">世쇽이 稱호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="20b" n="9">孔子所篆</sent>
+<sent type="anno" lang="kor" page="20b" n="9">孔子의 篆ᄒᆞ신 배라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="20b" n="10">云 嗚乎</sent>
+<sent type="anno" lang="kor" page="20b" n="10">嗚呼ᅟᅵ라</sent>
+<sent type="anno" lang="chi" page="20b" n="11">有吳延陵季子之墓</sent>
+<sent type="anno" lang="kor" page="20b" n="11">有吳延陵季子之墓ᅟᅵ라 ᄒᆞ시니</sent>
+<sent type="anno" lang="chi" page="20b" n="12">豈在多言 然後人知其賢也</sent>
+<sent type="anno" lang="kor" page="20b" n="12">엇디 多言호매 이신 然後에야 사ᄅᆞᆷ이 그 어딜믈 알리오</sent>
+<sent type="anno" lang="chi" page="20b" n="13">今但刻姓名於墓前</sent>
+<sent type="anno" lang="kor" page="20b" n="13">이제 다만 姓名을 분墓 알ᄑᆡ 사기면</sent>
+<sent type="anno" lang="chi" page="20b" n="14">人自知之耳</sent>
+<sent type="anno" lang="kor" page="20b" n="14">사ᄅᆞᆷ이 즈스로 알리라</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/1632_가례언해08/21a.jpg</img>
+<sent type="title2" lang="chi" page="21a" n="1">反哭</sent>
+<sent type="main" lang="chi" page="21a" n="2">主人以下ᅟᅵ 奉靈車ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="21a" n="2">主人 以下ᅟᅵ 靈車ᄅᆞᆯ 뫼셔</sent>
+<sent type="main" lang="chi" page="21a" n="3">在塗徐行ᄒᆞ야 哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21a" n="3">길ᄒᆡ 이셔 날회여 行ᄒᆞ야 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21a" n="4">其反如疑爲親在彼</sent>
+<sent type="anno" lang="kor" page="21a" n="4">그 도라오매 疑심ᄐᆞᆺ 호믄 어버이 뎨 겨신가 爲호미라</sent>
+<sent type="anno" lang="chi" page="21a" n="5">哀至則哭</sent>
+<sent type="anno" lang="kor" page="21a" n="5">슯프미 니ᄅᆞ거든 哭ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="21a" n="6">至家ᄒᆞ야 哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21a" n="6">지븨 니ᄅᆞ러 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21a" n="7">望門卽哭</sent>
+<sent type="anno" lang="kor" page="21a" n="7">門을 ᄇᆞ라며 즉졔 哭ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="21a" n="8">祝이 奉神主ᄒᆞ야 入 置于靈座ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21a" n="8">祝이 神主ᄅᆞᆯ 뫼셔 드러와 靈座의 노ᄒᆞ라</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/1632_가례언해08/21b.jpg</img>
+<sent type="anno" lang="chi" page="21b" n="1">執事者先設靈座於故處</sent>
+<sent type="anno" lang="kor" page="21b" n="1">執事者ᅟᅵ 몬져 靈座ᄅᆞᆯ 녯 고ᄃᆡ 設ᄒᆞ얏거ᄃᆞᆫ</sent>
+<sent type="anno" lang="chi" page="21b" n="2">祝奉神主入</sent>
+<sent type="anno" lang="kor" page="21b" n="2">祝이 神主ᄅᆞᆯ 뫼셔 드러와</sent>
+<sent type="anno" lang="chi" page="21b" n="3">就位櫝之</sent>
+<sent type="anno" lang="kor" page="21b" n="3">位예 나아가 櫝을 닫고</sent>
+<sent type="anno" lang="chi" page="21b" n="4">並出魂帛箱置主後</sent>
+<sent type="anno" lang="kor" page="21b" n="4">魂帛 箱ᄌᆞ 아오로 내여 신主 뒤헤 노흐라</sent>
+<sent type="main" lang="chi" page="21b" n="5">主人以下ᅟᅵ 哭于廳事ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21b" n="5">主人 以下ᅟᅵ 廳事의셔 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21b" n="6">主人以下 及門哭 入</sent>
+<sent type="anno" lang="kor" page="21b" n="6">主人 以下ᅟᅵ 門의 미처 哭ᄒᆞ고 드러와</sent>
+<sent type="anno" lang="chi" page="21b" n="7">升自西階</sent>
+<sent type="anno" lang="kor" page="21b" n="7">西階로브터 올라</sent>
+<sent type="anno" lang="chi" page="21b" n="8">哭于廳事</sent>
+<sent type="anno" lang="kor" page="21b" n="8">廳事의셔 哭ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="21b" n="9">婦人先入 哭於堂</sent>
+<sent type="anno" lang="kor" page="21b" n="9">婦人은 몬져 드러와 堂의셔 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21b" n="10">朱子曰</sent>
+<sent type="anno" lang="kor" page="21b" n="10">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="21b" n="11">反哭升堂</sent>
+<sent type="anno" lang="kor" page="21b" n="11">反哭ᄒᆞ야 堂의 오ᄅᆞ믄</sent>
+<sent type="anno" lang="chi" page="21b" n="12">反諸其所作也</sent>
+<sent type="anno" lang="kor" page="21b" n="12">그 作ᄒᆞ시던 바애 反호미오</sent>
+<sent type="anno" lang="chi" page="21b-22a" n="13">主婦入于室 反諸其所養也</sent>
+<sent type="anno" lang="kor" page="21b-22a" n="13">主婦ᅟᅵ 室애 入호믄 그 養ᄒᆞ시던 바애 反호미라 ᄒᆞ니</sent><!--入^호-->
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/1632_가례언해08/22a.jpg</img>
+<sent type="anno" lang="chi" page="22a" n="1">須知得這意思</sent>
+<sent type="anno" lang="kor" page="22a" n="1">모로미 이 意思ᄅᆞᆯ 알디라</sent>
+<sent type="anno" lang="chi" page="22a" n="2">則所謂踐其位行</sent>
+<sent type="anno" lang="kor" page="22a" n="2">곳 닐온 바 그 位ᄅᆞᆯ 踐ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="22a" n="3">其禮等事 行之自安</sent>
+<sent type="anno" lang="kor" page="22a" n="3">그 禮ᄅᆞᆯ 行ᄒᆞᄂᆞᆫ 等事ᄅᆞᆯ 行호믈 自安ᄒᆞᆯ이니</sent>
+<sent type="anno" lang="chi" page="22a" n="4">方見得繼志述事之事</sent>
+<sent type="anno" lang="kor" page="22a" n="4">뵈야호로 志ᄅᆞᆯ 繼ᄒᆞ며 事ᄅᆞᆯ 述ᄒᆞᄂᆞᆫ 일을 보리니라</sent>
+<sent type="anno" lang="chi" page="22a" n="5">楊氏復曰</sent>
+<sent type="anno" lang="kor" page="22a" n="5">楊氏 復이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="22a" n="6">按先生此言</sent>
+<sent type="anno" lang="kor" page="22a" n="6">先生의 말ᄉᆞᆷ을 按혼ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="22a" n="7">蓋謂古者反哭于廟</sent>
+<sent type="anno" lang="kor" page="22a" n="7">盖 닐온 古者애 가 廟애 反哭ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="22a" n="8">反諸其所作</sent>
+<sent type="anno" lang="kor" page="22a" n="8">그 作ᄒᆞ시던 바애 反홈이니</sent>
+<sent type="anno" lang="chi" page="22a" n="9">謂親所行禮之處</sent>
+<sent type="anno" lang="kor" page="22a" n="9">닐온 親이 禮ᄅᆞᆯ 行ᄒᆞ시던 바 고ᄃᆞᆯ 닐오미오</sent>
+<sent type="anno" lang="chi" page="22a" n="10">反諸其所養 謂親所饋食之處</sent>
+<sent type="anno" lang="kor" page="22a" n="10">그 養ᄒᆞ시던 바애 反홈은 親이 饋食ᄒᆞ시던 바 고ᄃᆞᆯ 닐오미니</sent>
+<sent type="anno" lang="chi" page="22a" n="11">皆指反哭于廟而言也</sent>
+<sent type="anno" lang="kor" page="22a" n="11">다 가 廟애 反哭호믈 指향ᄒᆞ야 닐오미라</sent>
+<sent type="anno" lang="chi" page="22a-22b" n="12">先生家禮 反哭于廳事</sent>
+<sent type="anno" lang="kor" page="22a-22b" n="12">先生 家禮예ᄂᆞᆫ 廳事애 反哭ᄒᆞ고</sent><!--禮^예-->
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/1632_가례언해08/22b.jpg</img>
+<sent type="anno" lang="chi" page="22b" n="1">婦人先入哭于堂</sent>
+<sent type="anno" lang="kor" page="22b" n="1">婦人은 몬져 드러 堂의셔 哭ᄒᆞ라 ᄒᆞ여시니</sent>
+<sent type="anno" lang="chi" page="22b" n="2">又與古異者 後世廟制不立</sent>
+<sent type="anno" lang="kor" page="22b" n="2">ᄯᅩ 古로 더브러 다ᄅᆞᆫ 者ᄂᆞᆫ 後世애 廟制立디 아녓고</sent>
+<sent type="anno" lang="chi" page="22b" n="3">祠堂狹隘 所謂廳事者 乃祭祀之地</sent>
+<sent type="anno" lang="kor" page="22b" n="3">祠堂이 조ᄇᆞ니 닐온 바 廳事ᄂᆞᆫ 이에 祭祀ᄒᆞᄂᆞᆫ ᄯᅡ히오</sent>
+<sent type="anno" lang="chi" page="22b" n="4">主婦饋食 亦在此堂也</sent>
+<sent type="anno" lang="kor" page="22b" n="4">主婦ᅟᅵ 饋食호믈 ᄯᅩᄒᆞᆫ 이 堂애 이실 ᄉᆡ니라</sent>
+<sent type="main" lang="chi" page="22b" n="5">遂詣靈座前ᄒᆞ야 哭ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="22b" n="5">드듸여 靈座 前의 가 哭ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22b" n="6">盡哀 止</sent>
+<sent type="anno" lang="kor" page="22b" n="6">盡哀ᄒᆞ고 그치라</sent>
+<sent type="main" lang="chi" page="22b-23a" n="7">有弔者 어든</sent>
+<sent type="main" lang="kor" page="22b-23a" n="7">吊ᄒᆞᆯ 者ᅟᅵ 잇거든</sent><!--잇^거-->
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/1632_가례언해08/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="1">拜之如初ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="23a" n="1">拜홈을 처엄 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="23a" n="2">謂賓客之親密者 既歸</sent>
+<sent type="anno" lang="kor" page="23a" n="2">닐온 賓客의 親密ᄒᆞᆫ 者ᅟᅵ 이믜 도라갓다가</sent>
+<sent type="anno" lang="chi" page="23a" n="3">待反哭而復弔</sent>
+<sent type="anno" lang="kor" page="23a" n="3">反哭을 기들워 다시 吊홈이라</sent>
+<sent type="anno" lang="chi" page="23a" n="4">檀弓曰</sent>
+<sent type="anno" lang="kor" page="23a" n="4">檀弓의 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="23a" n="5">反哭之弔也 哀之至也</sent>
+<sent type="anno" lang="kor" page="23a" n="5">反哭의 吊호ᄆᆞᆫ 哀홈이 至극ᄒᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="23a" n="6">反而亡焉 失之矣</sent>
+<sent type="anno" lang="kor" page="23a" n="6">도라오매 업서시니 일헌ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="23a" n="7">於是爲甚</sent>
+<sent type="anno" lang="kor" page="23a" n="7">이에 甚ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="23a" n="8">期九月之喪者ᄂᆞᆫ 飮酒食肉ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="23a" n="8">期년과 九 月읫 喪은 술을 머그며 고기ᄅᆞᆯ 먹고</sent>
+<sent type="main" lang="chi" page="23a" n="9">不與宴樂ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="23a" n="9">宴樂의란 참與티 말며</sent>
+<sent type="main" lang="chi" page="23a" n="10">小功以下와 大功異居者ᄂᆞᆫ 可以歸니라</sent>
+<sent type="main" lang="kor" page="23a" n="10">小功 以下와 大功이 닷 사ᄂᆞ니ᄂᆞᆫ 가히 ᄡᅥ 도라 갈디니라</sent><!--title: 제목, title2: 중제목, main: 본문, anno: 해설-->
+</pages>
+</doc>
+

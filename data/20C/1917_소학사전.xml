@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">소학사전</title>
+<title lang="chi">蘇學士傳</title>
+<full_name>소학사전</full_name>
+<nikl_name>소학사전</nikl_name>
+<general_name>소학사전</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version></version>
+<volume n=""/>
+<author>미상</author>
+<date>1917</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>쇼학ᄉᆞ젼 구활자본 고소설전집 7권</title><!-- -->
+<pubPlace>인천대학 민족문화연구소</pubPlace>
+<publisher>인천대학 민족문화연구소</publisher>
+<date>1983</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/05/16</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/05/31</date>
+<respStmt>
+<resp>입력자</resp><name>김준수</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+<!--낙장에 관한 정보 혹은 type별 구체적인 정보를 기입하는 자리 type은 기본적으로 제목은 title, 본문은 main, 주석은 anno로 하며, 주석 안에 주석이 있거나, 본문 중에 협주가 기입되어 본문의 문장을 나누기가 어려울 경우는 태그 사용 없이 【】를 사용하여 그 안에 협주 내용을 입력한다.-->
+
+<pages n="01">
+<img n="01">https://kohico.kr/_media/image/간행년도_간략서명_권차/01.jpg</img>
+<sent type="title" lang="kor" page="01" n="1">쇼학ᄉᆞ젼</sent>
+<sent type="main" lang="kor" page="01" n="2">각셜 대명 숑졍 년간에 한 사ᄅᆞᆷ이 잇스니 셩은 소요 명은 연이라</sent>
+<sent type="main" lang="kor" page="01" n="3">본ᄅᆡ 명현ᄌᆞ손으로 용모가 쥰슈ᄒᆞ고 문무 겸젼ᄒᆞ고 ᄌᆡ죠가 비상ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="01" n="4">텬하에 유명ᄒᆞᆫ 학ᄉᆞ로셔 벼살이 승상ᄭᆞ지 이르ᄃᆡ</sent>
+<sent type="main" lang="kor" page="01" n="5">슬하에 일졈 혈육이 업셔 그 부인 졍씨로 더부러 쥬야 근심으로 지ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="01" n="6">일일은 학ᄉᆡ 셔안을 의지ᄒᆞ고 죠으더니</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="01" n="7">하ᄂᆞᆯ로셔 한 사ᄅᆞᆷ이 나려와 부인 압헤 업ᄃᆡ려 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="01" n="8">소ᄌᆞᄂᆞᆫ 텬상 션관이옵더니 상뎨ᄭᅴ 득죄ᄒᆞ고 ᄂᆡ여 ᄶᅩᆺ치시기로</sent>
+<sent type="main" lang="kor" page="01" n="9">마음에 숣흠을 익이지 못ᄒᆞ고 갈 바를 아지 못ᄒᆞ야 방황ᄒᆞᆯ 즈음에</sent>
+<sent type="main" lang="kor" page="01" n="10">졔셕왕이 그 불상ᄒᆞᆷ을 보시고 이리로 쳔도ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="01" n="11">부인은 소ᄌᆞ를 어엽비 역이소셔 ᄒᆞᆯ 즈음에</sent>
+<sent type="main" lang="kor" page="01" n="12">학ᄉᆡ 놀ᄂᆞ ᄭᆡ니 남가일몽이라</sent>
+<sent type="main" lang="kor" page="01" n="13">마음에 일변 깃거ᄒᆞ며 일변 이상히 녁여 학ᄉᆡ 즉시 ᄂᆡ당에 드러가니</sent>
+<sent type="main" lang="kor" page="01" n="14">부인이 곤핍ᄒᆞ야 누엇다가 학ᄉᆞ 드러옴을 보고 이러ᄂᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="01" n="15">학ᄉᆡ 부인 겻헤 안지며 몽즁ᄉᆞ를 말ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="01" n="16">부인이 이 말을 듯고 깃거ᄒᆞ기를 텬상에셔 이런 아달을 곳 보ᄂᆡᆫ 쥴 알고 즐기더니</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="01" n="17">과연 그 달붓터 ᄐᆡ긔 잇셔 십삭이 되ᄆᆡ</sent>
+<sent type="main" lang="kor" page="01" n="18">일일은 부인이 몸이 곤뇌ᄒᆞ야 안셕을 의지ᄒᆞ고 안졋더니</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="01" n="19">홀연이 향ᄂᆡ 방안에 진동ᄒᆞ며 부인이 일ᄀᆡ 옥동을 ᄉᆡᆼᄒᆞ니</sent>
+<sent type="main" lang="kor" page="01" n="20">얼골이 관옥 ᄀᆞᆺ고 눈셥 ᄉᆞ이에 산쳔 졍긔가 은은히 감최엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="01" n="21">부인과 학ᄉᆞㅣ 마ᄋᆞᆷ의 즐거옴을 칭량치 못ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="01" n="22">아희 일홈을 소위라 ᄒᆞ고 귀히 넉이더니</sent>
+<sent type="main" lang="kor" page="01" n="23">ᄋᆞᄒᆡ 졈졈 ᄌᆞ라 삼 셰의 이르러</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="01" n="24">졍 씨 ᄯᅩᄒᆞᆫ ᄐᆡ긔 잇셔 십삭 만에 ᄉᆡᆼᄒᆞ니 ᄯᅩᄒᆞᆫ 남ᄌᆞㅣ라</sent>
+<sent type="main" lang="kor" page="01" n="25">학ᄉᆞ와 부인이 즐거온 즁 더욱 즐거워 ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="01-02" n="26">우리가 남의 ᄌᆞ식이 되여 집안이 무후ᄒᆞᆯ가 ᄒᆞ야 쥬야 셔로 슬어ᄒᆞ며</sent><!--집안^이-->
+</pages>
+
+<pages n="02">
+<img n="02">https://kohico.kr/_media/image/간행년도_간략서명_권차/02.jpg</img>
+<sent type="main" lang="kor" page="02" n="1">이담 디하의 도라간들 조상에 령혼을 엇지 뵈일가 ᄒᆞ엿ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="02" n="2">상뎨ᄭᅴ셔 우리를 불상이 넉이ᄉᆞ ᄋᆞᄃᆞᆯ을 졈지ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="02" n="3">형뎨를 으덧스니 지금 쥭어도 한이 업다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="02" n="4">ᄎᆞᄌᆞ의 일홈을 소운이라 ᄒᆞ고 형뎨를 ᄋᆡ지즁지 장즁보옥ᄀᆞᆺ치 ᄉᆞ랑ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="02" n="5">소위 나히 십칠이오 소운의 나히 십ᄉᆞ셰라</sent>
+<sent type="main" lang="kor" page="02" n="6">일일은 승상이 텬ᄌᆞᄭᅴ 엿ᄌᆞ오되</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="02" n="7">신이 국은을 입ᄉᆞ와 벼살이 ᄌᆡ상에 올나 몸이 맛도록 츙을 다ᄒᆞ야 나라를 도을가 ᄒᆞ얏더니</sent>
+<sent type="main" lang="kor" page="02" n="8">나히 늙어 쥭을 날이 머지 안코 ᄯᅩᄒᆞᆫ 졍신이 업고 이목이 밝지 못ᄒᆞ야 국ᄉᆞ를 ᄉᆞᆲ힐 슈 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="02" n="9">원컨ᄃᆡ 고향에 도라가 농업이나 힘써 쥭을 ᄯᆡᄭᆞ지 한가이 잇기를 원이로소이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="02" n="10">텬ᄌᆡ 드르시고 즉시 비답ᄒᆞᄉᆞ</sent>
+<sent type="main" lang="kor" page="02" n="11">경의 츙셩을 혜아리건ᄃᆡ 셔로 ᄯᅥᄂᆞᆯ ᄆᆞᄋᆞᆷ이 업스나</sent>
+<sent type="main" lang="kor" page="02" n="12">경의 아ᄃᆞᆯ이 장셩ᄒᆞ고 족히 계젹ᄒᆞᆯ 것이니 경은 고향에 도라가 여년을 ᄒᆞᆫ양ᄒᆞ라 ᄒᆞ신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="02" n="13">소연이 즉시 텬ᄌᆞᄭᅴ 하직ᄒᆞ고 졀강으로 도라가니라</sent>
+<sent type="main" lang="kor" page="02" n="14">일일은 텬ᄌᆞㅣ 승상에 아ᄃᆞᆯ 소위를 아름다이 넉이시고 즉시 부르ᄉᆞ 한림학ᄉᆞ를 졔슈ᄒᆞ시니</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="02" n="15">이럼으로 승상과 부인이 ᄉᆞ랑ᄒᆞ시고 동리 ᄇᆡᆨ셩이 칭찬 아니리 업더라</sent>
+<sent type="main" lang="kor" page="02" n="16">소 승상 부뷔 소위의 ᄇᆡ필을 구ᄒᆞ되 맛당ᄒᆞᆫ 곳이 업셔 근심ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="02" n="17">맛참 졀강 ᄯᅡ에 리 도ᄉᆞ의 ᄯᆞᆯ이 잇ᄂᆞᆫᄃᆡ 영민총오ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="02" n="18">나히 임의 어리나 일남쳡긔ᄒᆞᄂᆞᆫ ᄌᆡ죠가 잇슬 ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="kor" page="02" n="19">리 도ᄉᆞ 슬하에 다른 혈육이 업고 다만 ᄯᆞᆯ 하나ᄲᅮᆫ이라</sent>
+<sent type="main" lang="kor" page="02" n="20">금지옥엽ᄀᆞᆺ치 길을ᄉᆡ 시셔와 ᄇᆡᆨᄉᆞ의 모를 거시 업고 비침쥬션이라</sent>
+<sent type="main" lang="kor" page="02" n="21">도ᄉᆞㅣ ᄂᆡ외 장중보옥ᄀᆞᆺ치 기르며 그와 갓흔 ᄇᆡ필을 구ᄒᆞ야 슬하의 락을 보고져 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="02" n="22">셰월이 여류ᄒᆞ야 녀ᄋᆞ의 나히 십오셰를 당ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="02-03" n="23">화용월ᄐᆡᄂᆞᆫ 모란화가 아ᄎᆞᆷ 이슬을 먹음은 듯ᄒᆞ고 문쟝은 리두를 ᄯᅡ르고</sent><!--리두^를-->
+</pages>
+
+<pages n="03">
+<img n="03">https://kohico.kr/_media/image/간행년도_간략서명_권차/03.jpg</img>
+<sent type="main" lang="kor" page="03" n="1">녀공은 쇼약란이를 묘시ᄒᆞᆯ 만ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="03" n="2">승상이 이런 말을 듯고 즁ᄆᆡ를 노와 소위의 ᄶᅡᆨ을 졍코ᄌᆞ ᄒᆞ야 보ᄂᆡ엿더니</sent><!--'승샹이 이런'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="03" n="3">리 도ᄉᆞ ᄂᆡ외가 즁ᄆᆡ의 말을 듯더니 깃버ᄒᆞ야 소 학ᄉᆞ란 말을 듯고 즉시 허락ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="03" n="4">즁ᄆᆡ 즉시 도라와 승상과 졍씨 부인ᄭᅴ 젼후 슈말을 일일이 고ᄒᆞ니</sent><!--'일일이'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="03" n="5">승상 부뷔 ᄆᆞᄋᆞᆷ의 즐거워 즉시 ᄐᆡᆨ일ᄒᆞ야 혼례를 이르니 관광ᄌᆡ 칭찬 아니리 업더라</sent>
+<sent type="main" lang="kor" page="03" n="6">ᄎᆞ시 승상이 졀강으로 온 후에 농업을 힘쓰더니 집이 점점 유여ᄒᆞ야</sent><!--'점점'의 뒤에 오는 '점'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="03" n="7">승상이 국ᄉᆞ를 다ᄉᆞ릴 ᄯᆡ보다 ᄆᆞᄋᆞᆷ이 편ᄒᆞ고 즐겁게 지ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="03" n="8">승상이 홀연 득병ᄒᆞ야 ᄇᆡᆨ약이 무효ᄒᆞ야 셰상을 ᄇᆞ리니</sent>
+<sent type="main" lang="kor" page="03" n="9">학ᄉᆞ와 부인이 망극ᄒᆞᆷ을 이긔지 못ᄒᆞ야 ᄌᆞ로 혼졀ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="03" n="10">노복등이 위로ᄒᆞ야 구ᄒᆞ고 일변 관곽을 갓초고 령구를 뫼셔 션산에 안쟝ᄒᆞᆫ 후에</sent>
+<sent type="main" lang="kor" page="03" n="11">텬ᄌᆞㅣ 승상이 죽엇단 말을 듯고 각별이 비감ᄒᆞ야 ᄒᆞ시더라</sent>
+<sent type="main" lang="kor" page="03" n="12">셰월이 여류ᄒᆞ야 어느덧 삼 년을 맛친지라</sent>
+<sent type="main" lang="kor" page="03" n="13">텬ᄌᆡ 알으시고 즉시 죠셔를 나리샤 소 학ᄉᆞ를 특별이 황쥬를 졔슈ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="03" n="14">학ᄉᆞ 황명을 밧ᄌᆞ와 경셩에 올나와 텬ᄌᆞ게 뵈온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="03" n="15">텬ᄌᆞㅣ 보시고 친히 잔을 들어 학ᄉᆞ를 쥬시며 승상을 ᄉᆡᆼ각ᄒᆞ시고 탄식ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="03" n="16">학ᄉᆞ 슯흠을 참고 고두ᄉᆞ은ᄒᆞ며 조졍을 하직ᄒᆞ고 졀강으로 나려오니</sent><!--'참고 고두ᄉᆞ은ᄒᆞ며'의 뒤에 오는 '고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="03" n="17">모친이 학ᄉᆞ를 멀니 보ᄂᆡᆷ을 슯허ᄒᆞ며 눈물을 금치 못ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="03" n="18">학ᄉᆞ ᄯᅩᄒᆞᆫ 슯허ᄒᆞ며 모친ᄭᅴ 엿자오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="03" n="19">소ᄌᆞᄂᆞᆫ 하ᄂᆞᆯ ᄀᆞᆺ흐신 부모를 뫼시고 지셩으로 셤겨 망극ᄒᆞᆫ 은혜를 만분지일이나 갑고져 바라옵더니</sent>
+<sent type="main" lang="kor" page="03" n="20">의외에 몸이 나라에 ᄆᆡ여 만리 타향의 가게 되엿스니 이런 망극ᄒᆞ온 일이 어ᄃᆡ 잇스며</sent>
+<sent type="main" lang="kor" page="03" n="21">텬ᄌᆞᄭᅴ셔 졔슈ᄒᆞ신 황쥬라 ᄒᆞᄂᆞᆫ 디방은 ᄒᆡ즁에 잇ᄉᆞ와 듯기에 만경창파를 건너간다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="03" n="22">소ᄌᆞ의 몸이 무ᄉᆞ득달ᄒᆞ기를 ᄯᅳᆺ을 졍치 못ᄒᆞ겟ᄉᆞᆸ기로</sent>
+<sent type="main" lang="kor" page="03-04" n="23">모친을 뫼시고 만리 밧 험ᄒᆞᆫ ᄯᅡ에 가시다가 불ᄒᆡᆼᄒᆞᆷ을 당ᄒᆞ오면</sent><!--뫼^시고-->
+</pages>
+
+<pages n="04">
+<img n="04">https://kohico.kr/_media/image/간행년도_간략서명_권차/04.jpg</img>
+<sent type="main" lang="kor" page="04" n="1">고토를 다시 도라오지 못ᄒᆞ리니</sent>
+<sent type="main" lang="kor" page="04" n="2">부친의 ᄇᆡᆨ골이라도 고혼을 면치 못ᄒᆞᆯ 거시요</sent>
+<sent type="main" lang="kor" page="04" n="3">쇼자ㅣ ᄯᅩ 불ᄒᆡᆼᄒᆞ야 죽으면 디하에 가드ᄅᆡ도 불효를 면치 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="04" n="4">엇지 심회를 풀니잇가 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="04" n="5">부인이 학ᄉᆞ의 말을 드르시고 가라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="04" n="6">나의 심회ᄂᆞᆫ 죠곰도 념례 말나</sent>
+<sent type="main" lang="kor" page="04" n="7">셰상에 장부 되여 몸을 나라에 허ᄒᆞ엿스니 님군 셤길 날은 만코 부모 셤길 날은 젹다 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="04" n="8">엇지 부모지졍을 ᄉᆡᆼ각ᄒᆞ고 나라 일에 츙셩이 부족ᄒᆞ면 엇지 공명에 긔약이 이르리요</sent>
+<sent type="main" lang="kor" page="04" n="9">셰상에 남ᄋᆡ 남에 ᄌᆞ식이 되여 부모게 이런 마ᄋᆞᆷ이 업스면</sent>
+<sent type="main" lang="kor" page="04" n="10">엇지 직분을 ᄒᆞᆫ다 ᄒᆞ며 불효를 면ᄒᆞ며 나라의 츙셩을 다ᄒᆞᆯ지라도 쓸ᄃᆡ업고</sent>
+<sent type="main" lang="kor" page="04" n="11">국은을 입어 공명을 졔슈ᄒᆞ시나 군신유의만 알고 부ᄌᆞ유친이 업스면</sent>
+<sent type="main" lang="kor" page="04" n="12">텬하를 뒤눕드ᄅᆡ도 엇지 복을 바드리요</sent>
+<sent type="main" lang="kor" page="04" n="13">학ᄉᆞᄂᆞᆫ 날노ᄒᆞ여 근심ᄒᆞᆯ 거시 업ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="04" n="14">아즉 몸의 병이 업고 긔운이 잇ᄂᆞᆫ 즁 네 아오 운이 잇스니</sent>
+<sent type="main" lang="kor" page="04" n="15">만일 ᄂᆡ가 불ᄒᆡᆼᄒᆞ야 쥭을지라도 ᄇᆡᆨ골을 간슈ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="04" n="16">너ᄂᆞᆫ 념녀 말고 ᄒᆡᆼ장을 차려 속히 가련이 와</sent>
+<sent type="main" lang="kor" page="04" n="17">다만 네 안ᄒᆡᄂᆞᆫ 얼골과 ᄌᆡ조가 셰상에 읏듬이요 ᄯᅩ 겸ᄒᆞ야 효셩이 지극ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="04" n="18">남편의게 슌종ᄒᆞ며 공괴를 잘ᄒᆞᆷ으로 은졍이 깁흔 즁</sent>
+<sent type="main" lang="kor" page="04" n="19">이 ᄯᆡ를 당ᄒᆞ야 셔로 리별을 ᄒᆞ게 되니 마ᄋᆞᆷ이 셥셥ᄒᆞᆫ 즁 슯고 슯허ᄒᆞᆷ을 금치 못ᄒᆞᆯ지라</sent><!--'셥셥ᄒᆞᆫ'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="04" n="20">부인이 나삼과 졍부인의 금봉ᄎᆡ를 젹삼 속에 싸셔 학ᄉᆞ의 부인을 쥬시며</sent>
+<sent type="main" lang="kor" page="04" n="21">날과 셔로 리별ᄒᆞ고 만리 타ᄒᆡᆼ에 ᄯᅥ나갈 ᄯᆡ</sent>
+<sent type="main" lang="kor" page="04" n="22">심회를 졍치 못ᄒᆞ야 졍표를 달리ᄒᆞᆯ 거시 업셔 깁젹삼과 봉ᄎᆡ 두 가지를 표ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="04" n="23">이 거살 네 몸의 진이고 길을 무ᄉᆞ득달ᄒᆞ야 마ᄋᆞᆷ의 그리워 ᄉᆡᆼ각ᄂᆞᆯ ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="04" n="24">날 본듯이 ᄂᆡ여 보고 마ᄋᆞᆷ을 잇지 말고 나삼을 잘 간슈ᄒᆞ면 유익ᄒᆞᆷ을 보리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="04-05" n="25">슯허ᄒᆞ며 통곡ᄒᆞᆷ을 익이지 못ᄒᆞ야</sent><!--익^이지-->
+</pages>
+
+<pages n="05">
+<img n="05">https://kohico.kr/_media/image/간행년도_간략서명_권차/05.jpg</img>
+<sent type="main" lang="kor" page="05" n="1">눈물이 륙칠월의 건들 장마즁 소락비 오듯시 줄줄 흘니시니</sent><!--'줄줄'의 뒤에 오는 '줄'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="05" n="2">학ᄉᆞ와 부인이 모친의 젹삼과 봉ᄎᆡ를 밧어 가지고 슯흔 마ᄋᆞᆷ을 졍치 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="05" n="3">아리ᄯᅡ온 얼골에 쥰쥬 ᄀᆞᆺ흔 눈물이 비 오듯 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="05" n="4">시모ᄭᅴ ᄉᆞ례 왈 근본을 말ᄒᆞ오면 미쳔ᄒᆞᆫ 사ᄅᆞᆷ의 녀ᄌᆞ로셔 의ᄉᆞ도 미련ᄒᆞ옵고 ᄇᆡ혼 ᄌᆡ조도 업ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="05" n="5">텬ᄒᆡᆼ으로 학ᄉᆞ의 ᄇᆡ필이 되야 부모시며 학ᄉᆞᄭᅴ셔 ᄉᆞ랑ᄒᆞᄉᆞ</sent>
+<sent type="main" lang="kor" page="05" n="6">ᄆᆡᄉᆞ를 잘 가라쳐 쥬심이 녜ᄉᆞ롭지 안이ᄒᆞ셧ᄉᆞᆸ기로</sent>
+<sent type="main" lang="kor" page="05" n="7">망극ᄒᆞ옵신 혜ᄐᆡᆨ이 하ᄒᆡ ᄀᆞᆺ삽고 ᄐᆡ산이 가ᄇᆡ압기 몸이 맛도록 마ᄋᆞᆷ을 다ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="05" n="8">지셩으로 부모ᄭᅴ 효도ᄒᆞ옵다가 부모님 셰상을 바리시면</sent>
+<sent type="main" lang="kor" page="05" n="9">만셰토록 졔ᄉᆞ를 졍셩으로 만분지일이나 갑ᄉᆞ올가 ᄒᆞ엿ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="05" n="10">노모를 리별ᄒᆞ고 학ᄉᆞ를 뫼시고 만리 밧을 가오니 불효를 면치 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="05" n="11">부모의 마ᄋᆞᆷ을 편안케 못ᄒᆞ오니 엇지 자식이라 칭ᄒᆞ올잇가</sent>
+<sent type="main" lang="kor" page="05" n="12">ᄯᅩᄒᆞᆫ 학ᄉᆞ를 만난 지 오ᄅᆡ지 안이ᄒᆞᄂᆞ 잉ᄐᆡᄒᆞ온 지 슈월이라</sent>
+<sent type="main" lang="kor" page="05" n="13">몸이 곤핍ᄒᆞ온ᄃᆡ 녀필종부라 ᄒᆞ온즉 안이 갈 슈 업스나 이졔 당ᄒᆞ야 원ᄒᆡᆼ을 ᄒᆞ게 되오니</sent>
+<sent type="main" lang="kor" page="05" n="14">셥셥ᄒᆞ옴을 칭량치 못ᄒᆞ오나</sent><!--'셥셥ᄒᆞ옴을'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="05" n="15">시모ᄂᆞᆫ 바라옵건ᄃᆡ ᄂᆡᄂᆡ 만슈무강 ᄒᆞ옵소셔 ᄒᆞ고</sent><!--'ᄂᆡᄂᆡ'의 뒤에 오는 'ᄂᆡ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="05" n="16">차마 리별치 못ᄒᆞ야 셔로 붓들고 못ᄂᆡ 슯허ᄒᆞᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="05" n="17">나라에셔 길을 ᄌᆡ촉ᄒᆞ시니 학ᄉᆞㅣ 마지 못ᄒᆞ야 잔을 들어 대부인ᄭᅴ 올니고</sent>
+<sent type="main" lang="kor" page="05" n="18">슯허ᄒᆞ며 글 두 귀를 지엇스니</sent>
+<sent type="main" lang="kor" page="05" n="19">그 글에 가라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="05" n="20">상위 공명 신하국ᄒᆞ니 일ᄇᆡᆨ셔산가 ᄂᆡᄒᆞ오</sent>
+<sent type="main" lang="kor" page="05" n="21">ᄒᆡ간 황쥬 강슈ᄇᆡᆨᄒᆞ니 만리 일거 불부회라 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="05" n="22">그 글 ᄯᅳᆺ은 공명을 위ᄒᆞ야 노모를 리별ᄒᆞ고 만일 다시 도라올 긔약이 업셔 우연이 ᄒᆞᆫ 말이라</sent>
+<sent type="main" lang="kor" page="05" n="23">학ᄉᆞㅣ 글을 지어 벽상에 붓쳐두고 ᄒᆡᆼ장을 ᄎᆞ려 길을 ᄯᅥ날ᄉᆡ</sent>
+<sent type="main" lang="kor" page="05-06" n="24">부인 리씨 화용월ᄐᆡᄂᆞᆫ 셰상에 ᄯᅱ여나며</sent><!--화용^월ᄐᆡᄂᆞᆫ-->
+</pages>
+
+<pages n="06">
+<img n="06">https://kohico.kr/_media/image/간행년도_간략서명_권차/06.jpg</img>
+<sent type="main" lang="kor" page="06" n="1">운빈옥안이 션연ᄒᆞ고 녹의홍상과 칠보화상을 ᄭᅮᆷ엿스니 황금덩을 ᄇᆡᆨ마 우에 실ᄭᅩ</sent>
+<sent type="main" lang="kor" page="06" n="2">ᄯᅩ 학ᄉᆞㅣ 쳥춘이라 쥰슈ᄒᆞᆫ 얼골과 신션ᄒᆞᆫ 풍ᄎᆡ 늠늠ᄒᆞ야 ᄇᆡᆨ마금안의 쳥ᄀᆡ를 반공에 ᄯᅴ엿고</sent><!--'늠늠ᄒᆞ야'의 뒤에 오는 '늠'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="3">풍악과 옥뎌를 셰운 후에 ᄒᆡᆼᄒᆞ니 위의 십리에 버렷ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="06" n="4">보ᄂᆞᆫ ᄌᆡ 칭찬ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="06" n="5">셰상의 신션이란 말은 드럿지마ᄂᆞᆫ 보지 못ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="06" n="6">오ᄂᆞᆯ 보니 참셰계의 신션이로다 ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="06" n="7">ᄎᆞ셜 텬ᄌᆞㅣ 학ᄉᆞ의 소문을 드르시고 아름다이 녁이ᄉᆞ</sent>
+<sent type="main" lang="kor" page="06" n="8">벼살을 도도어 황쥬ᄌᆞᄉᆞ를 졔슈ᄒᆞ야 보ᄂᆡ시더라</sent><!--도도어''의 뒤에 오는 '도'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="9">소위 학ᄉᆡ 텬은을 츅ᄉᆞᄒᆞ시고 길을 ᄌᆡ쵹ᄒᆞ여 여러 ᄂᆞᆯ만의</sent><!--'ᄌᆡ쵹ᄒᆞ여 여러'의 뒤에 오는 '여'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="10">황쥬 물가에 다다르니</sent><!--'다다르니'의 뒤에 오는 '다'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="06" n="11">인젹이 고요ᄒᆞ고 ᄯᅩᄒᆞᆫ 션쳑도 업고 풍셰가 심ᄒᆞ야 갈 ᄯᅳᆺ이 망연ᄒᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="06" n="12">황쥬ᄂᆞᆫ 바다로 여러 날 건너가ᄂᆞᆫ지라 마ᄋᆞᆷ의 근심ᄒᆞ고 ᄉᆔ더니</sent>
+<sent type="main" lang="kor" page="06" n="13">ᄎᆞ셜 잇ᄯᆡ 황쥬 물가의 셔쥰이라 ᄒᆞᄂᆞᆫ 놈이 도뎍이 되여 황텬탑을 모흐고</sent>
+<sent type="main" lang="kor" page="06" n="14">군ᄉᆞ를 무슈히 거나려 ᄉᆞ면의 셩을 싸고 여러ᄒᆡ 웅거ᄒᆞ여 잇셔</sent>
+<sent type="main" lang="kor" page="06" n="15">혹 골을 쳐 ᄌᆡ물과 보화도 겁칙ᄒᆞ고 혹 상고들도 쳐죽이고 ᄌᆡ물도 아ᄉᆞ오며 어ᄃᆡ 어진 녀ᄌᆞ잇다 ᄒᆞ면 불원쳔리ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="06" n="16">군ᄉᆞ를 거ᄂᆞ리고 밤이면 나아가 사ᄅᆞᆷ도 쳐 쥭이고 아름다온 계집을 동여다가 졔 집에 두고 계집을 삼고</sent>
+<sent type="main" lang="kor" page="06" n="17">보화를 엇어 두고 쳔하를 횡ᄒᆡᆼᄒᆞ되 이 놈이 힘이 영악ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="06" n="18">텬문을 보니 텬리밧 일을 아ᄂᆞᆫ 고로 잡을 ᄌᆡ 업스며</sent>
+<sent type="main" lang="kor" page="06" n="19">겸ᄒᆞ야 사ᄂᆞᆫ 곳은 사방에 ᄐᆡ산이 가려 졀벽ᄀᆞᆺ치 둘녀잇고 초목이 무셩ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="06" n="20">날ᄂᆡᆫ 졔비도 능히 통치 못ᄒᆞᄂᆞᆫ 고로 나라의 령으로도 당치 못ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="06" n="21">잇ᄯᆡ 셔쥰이 소 학ᄉᆞ의 부인이 얼골과 ᄌᆡ덕이 겸비ᄒᆞ야 아름답다 ᄒᆞᆷ을 드른 지 오ᄅᆡ되</sent>
+<sent type="main" lang="kor" page="06" n="22">겸ᄒᆞ야 긔회를 만나지 못ᄒᆞ야 쥬야에 원ᄒᆞ든 ᄎᆞ</sent>
+<sent type="main" lang="kor" page="06-07" n="23">맛ᄎᆞᆷ 드르니 황쥬 물가의 와 ᄉᆞ쳐를 졍ᄒᆞ고 잇다 ᄒᆞᆷ을 듯고 ᄭᅬ를 ᄂᆡ여</sent><!--ᄭᅬ^를-->
+</pages>
+
+<pages n="07">
+<img n="07">https://kohico.kr/_media/image/간행년도_간략서명_권차/07.jpg</img>
+<sent type="main" lang="kor" page="07" n="1">됴흔 ᄇᆡ를 쥰비ᄒᆞ고 삼승 돗찰 달고 ᄌᆡ물을 ᄀᆞᆺ초와 물가에 ᄇᆡ를 ᄆᆡ고</sent>
+<sent type="main" lang="kor" page="07" n="2">셔쥰이 학ᄉᆞ ᄉᆞ쳐ᄒᆞᆫ 곳에 드러가 ᄉᆞ공인 쳬ᄒᆞ고 ᄌᆞᄉᆞᄭᅴ 엿ᄌᆞ오ᄃᆡ</sent><!--'학ᄉᆞ ᄉᆞ쳐ᄒᆞᆫ'의 뒤에 오는 'ᄉᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="07" n="3">이 바다가 황쥬로 가ᄂᆞᆫ 길이옵고 겸ᄒᆞ야 슈로가 험ᄒᆞ야 파도가 치면 물이 흉ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="07" n="4">멧 달이 갈넌지 칭량치 못ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="07" n="5">ᄒᆡᆼ여 허슈ᄒᆞᆫ ᄇᆡ로 ᄒᆡᆼᄎᆞᄒᆞ시다가ᄂᆞᆫ 고향의 도라가지 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="07" n="6">ᄒᆡ즁에셔 속졀업시 혼ᄇᆡᆨ이 되여 쳔츄만셰의 원이 될 거시니</sent>
+<sent type="main" lang="kor" page="07" n="7">ᄇᆞ라옵건ᄃᆡ 자ᄉᆞᄂᆞᆫ 셰상의 귀남ᄌᆞㅣ라</sent>
+<sent type="main" lang="kor" page="07" n="8">나라의 조고마ᄒᆞᆫ 공명을 위ᄒᆞ야 쳔금 ᄀᆞᆺ흔 귀ᄒᆞᆫ 몸을 이럿틋 험노에 이르시니</sent>
+<sent type="main" lang="kor" page="07" n="9">인민 도리에 뉘 안이 위ᄒᆞ오릿가</sent>
+<sent type="main" lang="kor" page="07" n="10">이럼으로 이곳 ᄇᆡᆨ셩이 이 ᄇᆡ를 쥰비ᄒᆞ야 ᄌᆞᄉᆞ ᄒᆡᆼᄎᆞᄒᆞᆯ 시에 편이 득달ᄒᆞ시도록 ᄒᆞ엿ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="07" n="11">ᄉᆞ공의 말을 드르시고 이번 슌풍을 일치 마르시고 곳 가ᄉᆞ이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="07" n="12">셔쥰이가 학ᄉᆞ를 쥭이고 그 부인 리씨를 탐ᄒᆞ려 ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="07" n="13">먼져 군ᄉᆞ로 군호를 ᄒᆞ고 ᄇᆡ를 ᄆᆡ고 감언이셜노 ᄭᅬ이ᄂᆞᆫ 거살 모르고</sent>
+<sent type="main" lang="kor" page="07" n="14">학ᄉᆞㅣ 이졔 나이 어리고 마ᄋᆞᆷ이 어진 고로 다른 사ᄅᆞᆷ의 마ᄋᆞᆷ도 날과 ᄀᆞᆺ흘 줄 알고</sent>
+<sent type="main" lang="kor" page="07" n="15">셔쥰의 말을 밋고 ᄇᆡ로 나가거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="07" n="16">물가에 사ᄂᆞᆫ ᄇᆡᆨ셩들이 셔가의 일을 짐작ᄒᆞᆯ ᄲᅮᆫ 안이라</sent>
+<sent type="main" lang="kor" page="07" n="17">착ᄒᆞ신 자사를 ᄒᆡᄒᆞᆯ 줄 알고 ᄌᆞᄉᆞ의게 알외고져 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="07" n="18">셔쥰이 우리 무리를 죽일가 ᄒᆞ야 말을 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="07" n="19">물가의 나아가 학ᄉᆞ를 보고 눈물만 흘니고</sent>
+<sent type="main" lang="kor" page="07" n="20">학ᄉᆞᄭᅴ셔 ᄋᆡᄆᆡ이 물에셔 죽을 일을 ᄇᆡᆨ셩들이 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="07" n="21">더욱 슯허ᄒᆞ나 구ᄒᆞᆯ ᄇᆡ 젼혀 업스니 학ᄉᆞ 이 일을 엇지 아르시리요</sent>
+<sent type="main" lang="kor" page="07" n="22">이젹의 셔쥰의 아오 셔ᄉᆡᆼ이라 ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ은 심덕이 어진 션ᄇᆡ라</sent>
+<sent type="main" lang="kor" page="07" n="23">뎨 형ᄭᅦ 간ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="07" n="24">소 학ᄉᆞᄂᆞᆫ 대승상 소연의 아달 소위요 공명이 조달ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="07" n="25">어진 일홈이 나라에 진동ᄒᆞ고 텬ᄌᆡ ᄉᆞ랑ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="07-08" n="26">학ᄉᆞ를 명ᄒᆞ야 ᄌᆞᄉᆞ를 졔슈ᄒᆞᄉᆞ 보ᄂᆡ시며 ᄯᅩᄒᆞᆫ 나라의셔 특별이 즁히 여긔ᄂᆞᆫ ᄉᆞ람이라</sent><!--여긔^ᄂᆞᆫ-->
+</pages>
+
+<pages n="08">
+<img n="08">https://kohico.kr/_media/image/간행년도_간략서명_권차/08.jpg</img>
+<sent type="main" lang="kor" page="08" n="1">사ᄅᆞᆷ이 셰상에 쳐ᄒᆞ야 부모의 혈육을 밧어가지고 어진 ᄒᆡᆼ실을 ᄒᆡᆼᄒᆞ야 덕을 닷그면</sent>
+<sent type="main" lang="kor" page="08" n="2">하ᄂᆞᆯ이 감응ᄒᆞᄉᆞ 복녹을 쥬어 벼살에 이르거든</sent>
+<sent type="main" lang="kor" page="08" n="3">졍셩을 지극히 ᄒᆞ야 몸이 맛도록 님군을 셤겨 츙신이 되여</sent>
+<sent type="main" lang="kor" page="08" n="4">어진 일홈을 젼ᄒᆞᆷ이 사람의 난 근본이요 님군은 하ᄂᆞᆯ이시라</sent>
+<sent type="main" lang="kor" page="08" n="5">무ᄉᆞᆷ 말삼을 ᄒᆞ시지 안코 놉히 계셔도 츈하츄동 ᄉᆞ시졀을 일우어 만물을 ᄉᆡᆼ셩ᄒᆞ을 졔</sent>
+<sent type="main" lang="kor" page="08" n="6">사ᄅᆞᆷ이 읏듬이 되여 초목금슈ᄂᆞᆫ 사ᄅᆞᆷ이 기르고 쓰ᄂᆞᆫ 바 되여도 위ᄒᆞᄂᆞᆫ 바 되엿스니</sent>
+<sent type="main" lang="kor" page="08" n="7">허물며 그 즁에 사ᄅᆞᆷ이야 엇더ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="08" n="8">엇던 사ᄅᆞᆷ은 ᄉᆞ랑ᄒᆞ야 복녹을 쥬시며</sent>
+<sent type="main" lang="kor" page="08" n="9">엇던 사ᄅᆞᆷ은 미워ᄒᆞᄉᆞ 앙화를 쥬실 일이 만무ᄒᆞᆯ 듯ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="08" n="10">ᄉᆡᆼ각건ᄃᆡ 어진 사ᄅᆞᆷ은 복이 잇고 악ᄒᆞᆫ 사ᄅᆞᆷ은 ᄋᆡᆨ을 부득이ᄒᆞ야 쥬심이요</sent>
+<sent type="main" lang="kor" page="08" n="11">님군은 궁즁 깁흔 곳에 계셔도 삼강오륜과 인의례지로 ᄇᆡᆨ셩을 션화케 ᄒᆞᄉᆞ</sent>
+<sent type="main" lang="kor" page="08" n="12">마ᄋᆞᆷ을 ᄃᆞᆰᄂᆞᆫ ᄇᆡᆨ셩은 녹을 주어 영귀케 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="08" n="13">몹실 ᄒᆡᆼ실ᄒᆞᄂᆞᆫ ᄇᆡᆨ셩은 형벌도 쥬고 죽이기도 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="08" n="14">사ᄅᆞᆷ이 졔 직분을 ᄇᆞ리고 남을 ᄒᆡᄒᆞ려 ᄒᆞ면 도리여 우리가 쥭기를 면치 못ᄒᆞᆯ 것시요</sent>
+<sent type="main" lang="kor" page="08" n="15">ᄯᅩ 이런 말이 나지 안이ᄒᆞᆯ지라도</sent>
+<sent type="main" lang="kor" page="08" n="16">텬금 ᄀᆞᆺ흔 남의 인명을 일조에 ᄭᅳᆫ을 것 ᄀᆞᆺ흐면 앙화를 엇지 면ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="08" n="17">공부자의 말ᄉᆞᆷ의 션ᄒᆞᆫ 사ᄅᆞᆷ의 집에ᄂᆞᆫ 션ᄒᆞᆫ 것이 싸여잇고</sent>
+<sent type="main" lang="kor" page="08" n="18">악ᄒᆞᆫ 일을 ᄒᆡᆼᄒᆞᄂᆞᆫ 사ᄅᆞᆷ의 집에ᄂᆞᆫ 싸힌 것이 ᄌᆡ앙과 앙화가 잇다 ᄒᆞᆷ을 아ᄂᆞᆫ ᄇᆡ여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="08" n="19">엇지ᄒᆞ여 일ᄀᆡ 조고마ᄒᆞᆫ 계집으로 인ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="08" n="21">국은을 닙고 님군을 셤겨 츙셩을 다ᄒᆞ여 군명을 뫼시고 슈만리 험노를 무릅쓰고 가ᄂᆞᆫ 길을 막엇스니</sent>
+<sent type="main" lang="kor" page="08" n="22">쳣ᄌᆡ로 말ᄒᆞ면 님군을 거력ᄒᆞᆷ이오</sent>
+<sent type="main" lang="kor" page="08" n="23">둘ᄌᆡ로 말ᄒᆞ면 이 사ᄅᆞᆷ을 ᄒᆡᄒᆞ려 ᄒᆞᆫ즉 엇지 텬디가 무심ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="08" n="24">그 녀ᄌᆞ를 보니 월궁 션녀의 ᄐᆡ도를 가졋스니 응당 졀ᄒᆡᆼ이 잇슬 듯ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="08-09" n="25">애ᄆᆡᄒᆞᆫ 학ᄉᆞ를 쥭여 업시ᄒᆞ여도 학ᄉᆞ 부인이 형의 말을 잘 듯고 ᄇᆡ필 되기ᄂᆞᆫ 만무ᄒᆞᆯ 것시요</sent><!--말을 ^ 잘-->
+</pages>
+
+<pages n="09">
+<img n="09">https://kohico.kr/_media/image/간행년도_간략서명_권차/09.jpg</img>
+<sent type="main" lang="kor" page="09" n="1">신명을 속이고 올흔 일을 그릇되게 ᄒᆞ시면 도리여 물 가온ᄃᆡ셔 죽기 면치 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="09" n="2">형은 불의에 일을 ᄒᆡᆼ치 말고 학ᄉᆞ의 일ᄒᆡᆼ을 무ᄉᆞ이 건네미 올흘가 ᄒᆞᄂᆞ이다 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="09" n="3">셔쥰이 아오에 말을 듯고 크게 노왈</sent>
+<sent type="main" lang="kor" page="09" n="4">동긔지졍이라 ᄒᆞᄂᆞᆫ 거산 우ᄋᆡ지졍으로 험울이 잇스면 덥흘 거시여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="09" n="5">그ᄃᆡᄂᆞᆫ 형이 ᄒᆞ려 ᄒᆞᄂᆞᆫ 일에 합력지 안이ᄒᆞ고 도리여 작희를 ᄒᆞ니 야슉ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="09" n="6">ᄂᆡ 일즉이 상실ᄒᆞ엿스나 지금것 취쳐치 아니ᄒᆞᆷ은 마ᄋᆞᆷ의 합당치 못ᄒᆞᆫ 연괴요</sent>
+<sent type="main" lang="kor" page="09" n="7">ᄯᅩᄒᆞᆫ 집은 요부ᄒᆞ나 일졈 혈육이 업셔 항상 슯흔 마ᄋᆞᆷ을 익이지 못ᄒᆞ던 ᄎᆞ</sent>
+<sent type="main" lang="kor" page="09" n="8">드르니 소연의 아달 위의 부인이 얼골은 쳔만 인 즁의 잘낫고 ᄌᆡ질이 겸ᄒᆞ엿다 ᄒᆞ기로</sent>
+<sent type="main" lang="kor" page="09" n="9">한번 보기를 쥬야의 원ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="09" n="10">맛ᄎᆞᆷ 학ᄉᆞ 황쥬로 가ᄂᆞᆫ 길에 물가에 왓다 ᄒᆞ기로 ᄂᆡ가 한 번 나가 보니</sent>
+<sent type="main" lang="kor" page="09" n="11">과연 듯든 말과 ᄀᆞᆺ치 아름답고 한번 보ᄆᆡ 눈이 현황ᄒᆞ여 입으로 말ᄒᆞ기 어려우니</sent>
+<sent type="main" lang="kor" page="09" n="12">내 혼이 하ᄂᆞᆯ노 날나간 듯ᄒᆞ여 ᄉᆡᆼ각의 월궁 션녀라도 이 부인만 ᄀᆞᆺ지 못ᄒᆞᆯ 거시요</sent>
+<sent type="main" lang="kor" page="09" n="13">인간에 양구비와 황명 비소군이라도 감이 당치 못ᄒᆞᆯ 거시니</sent><!--원문에는 '비소군라도'라 되어 있음-->
+<sent type="main" lang="kor" page="09" n="14">ᄂᆡ 일ᄉᆡᆼ 원ᄒᆞ기를 그러ᄒᆞᆫ 계집을 보고져 심즁에 ᄉᆡᆼ각ᄒᆞ엿던이</sent>
+<sent type="main" lang="kor" page="09" n="15">하ᄂᆞᆯ이 나를 어엿비 녁이ᄉᆞ 이런 ᄇᆡ필 될 부인을 인도ᄒᆞ여 쥬시니 쳔졍ᄇᆡ필이라</sent>
+<sent type="main" lang="kor" page="09" n="16">어졔 쥬뎜의셔 잠간 보니 츈풍 ᄀᆞᆺ흔 얼골과 궁양 ᄀᆞᆺ흔 눈셥은 초ᄉᆡᆼ달이 가로진 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="09" n="17">ᄋᆡᆼ도 ᄀᆞᆺ흔 입살을 버려 방긋ᄒᆞᆯ 즈음에 옥경 ᄀᆞᆺ흔 니속을 희게 드러ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="09" n="18">목소ᄅᆡᄂᆞᆫ 력력ᄒᆞᆫ ᄭᅬᄭᅩ리 소ᄅᆡ가 ᄭᅩᆺ동산 밧게 읍조리ᄂᆞᆫ 것 ᄀᆞᆺ도다</sent><!--'력력ᄒᆞᆫ'의 뒤에 오는 '력'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="09" n="19">젼톄를 보랴ᄒᆞ야도 능히 볼 슈 업고 다만 두렷ᄒᆞᆫ 명월이 구름으로 밝은 빗을 가리운 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="09" n="20">옥계에 벽도화를 금슈장으로 가리웟고</sent>
+<sent type="main" lang="kor" page="09" n="21">빗츨 구경도 못ᄒᆞ게 ᄒᆞᄂᆞᆫ 것ᄀᆞᆺ치 은은이 가리엿스니</sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="09-10" n="22">어늬 시졀의 구름이 흣터지고</sent><!--어^늬-->
+</pages>
+
+<pages n="10">
+<img n="10">https://kohico.kr/_media/image/간행년도_간략서명_권차/10.jpg</img>
+<sent type="main" lang="kor" page="10" n="1">달을 구경ᄒᆞ며 금슈장을 거두고 달빗츨 기다리리요</sent>
+<sent type="main" lang="kor" page="10" n="2">이 일을 ᄉᆡᆼ각ᄒᆞ면 일각이 삼츄라</sent>
+<sent type="main" lang="kor" page="10" n="3">이졔 이런 것을 보고 무ᄉᆞ이 보ᄂᆡ면 흉격이 막힐 거시요</sent>
+<sent type="main" lang="kor" page="10" n="4">일ᄉᆡᆼ의 상ᄉᆞ병이 되여 쇽졀업시 일촌 간장이 슬겟스니</sent>
+<sent type="main" lang="kor" page="10" n="5">너ᄂᆞᆫ 부즐업시 ᄂᆡ 일을 돕든 못ᄒᆞ나 계교를 낭ᄑᆡ치 말나 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="10" n="6">즉시 칼을 ᄲᆡ여 ᄯᅡ을 치며 ᄭᅮ지져 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="10" n="7">누구던지 이 말을 누셜ᄒᆞᄂᆞᆫ ᄌᆡ 잇스면 너희 무리를 굽고 조리고 붓치고</sent>
+<sent type="main" lang="kor" page="10" n="8">창자 쇽에 더운 피ᄂᆞᆫ 아즉 갈증을 풀 거시요 부아 속에 염통은 주림을 풀고</sent>
+<sent type="main" lang="kor" page="10" n="9">너희 무리를 한칼에 잡어 만두 쇽ᄀᆞᆺ치 만들 터이니</sent>
+<sent type="main" lang="kor" page="10" n="10">너희ᄂᆞᆫ 나를 비웃지 마러라</sent>
+<sent type="main" lang="kor" page="10" n="11">보ᄂᆞᆫ 사ᄅᆞᆷ들이 상을 ᄶᅵᆼ그리고 도라보지 안이ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="10" n="12">ᄎᆞ시 셔ᄉᆡᆼ이 형의 ᄒᆞᄂᆞᆫ 말을 듯고 즁히 간ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="10" n="13">셔쥰이 듯지 안이ᄒᆞ고 이졔 이런 말을 긋치라</sent>
+<sent type="main" lang="kor" page="10" n="14">일긔가 순ᄒᆞ고 바람이 온화ᄒᆞ여 물결이 잔잔ᄒᆞ니 ᄂᆡ 가리라 ᄒᆞ고</sent><!--'잔잔ᄒᆞ니'의 뒤에 오는 '잔'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10" n="15">셔쥰이 길을 ᄌᆡ촉ᄒᆞ여 ᄌᆞᄉᆞ의 일ᄒᆡᆼ을 ᄇᆡ에 실고 대희ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="10" n="16">군ᄉᆞ로 ᄒᆞ여금 다른 ᄇᆡ를 쥰비ᄒᆞ여 장수 쳔여 원과 시비 팔십 명을 감초와 두고</sent>
+<sent type="main" lang="kor" page="10" n="17">ᄌᆞᄉᆞ를 실고 ᄆᆡ복ᄒᆞᆫ ᄇᆡ ᄆᆡ여둔 곳을 닷더니</sent>
+<sent type="main" lang="kor" page="10" n="18">이곳은 ᄇᆡ를 세워두고 ᄉᆔ이ᄂᆞᆫ 곳이니 닷츨 쥬고 ᄆᆡ복ᄒᆞ엿든 ᄇᆡ와 ᄀᆞᆺ치 잇더니</sent>
+<sent type="main" lang="kor" page="10" n="19">셔쥰이 즉시 다른 ᄇᆡ에셔 술을 ᄂᆡ여 ᄌᆞᄉᆞ의 일ᄒᆡᆼ을 먹여 취ᄒᆞ게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="10" n="20">ᄆᆡ복ᄒᆞ엿든 장슈를 명ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="10" n="21">학ᄉᆞ붓터 동여 물예 너으라 ᄒᆞᄂᆞᆫ 말을 듯고</sent>
+<sent type="main" lang="kor" page="10" n="22">학ᄉᆞ의 일ᄒᆡᆼ이 대경실ᄉᆡᆨᄒᆞ며 죽기를 면코져 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="10" n="23">술이 취ᄒᆞ여 용ᄆᆡᆼ이 업스ᄆᆡ 읏지 살기를 ᄇᆞ라리요</sent>
+<sent type="main" lang="kor" page="10" n="24">ᄌᆞᄉᆞㅣ ᄒᆞᆯ 길 업셔 셔쥰의게 다 쥭을 쥴 알고</sent><!--'업셔 셔쥰의게'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10" n="25">부인의 손을 잡으며 억ᄀᆡ를 셔로 다이고 통곡ᄒᆞᄂᆞᆫ 형상은 일우 측량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="10" n="26">불측ᄒᆞᆫ 셔가 놈이 ᄌᆞᄉᆞ와 부인이 셔로 붓들고 통곡ᄒᆞᆷ을 보더니</sent>
+<sent type="main" lang="kor" page="10" n="27">눈이 활ᄭᅡᆨ 뒤집히여 군ᄉᆞ를 ᄭᅮ지져 왈</sent>
+<sent type="main" lang="kor" page="10-11" n="28">ᄌᆞᄉᆞ를 물에 던지라 소ᄅᆡ를 벽력ᄀᆞᆺ치 지르거ᄂᆞᆯ</sent><!--소^ᄅᆡ를-->
+</pages>
+
+<pages n="11">
+<img n="11">https://kohico.kr/_media/image/간행년도_간략서명_권차/11.jpg</img>
+<sent type="main" lang="kor" page="11" n="1">군ᄉᆡ 내다라 ᄌᆞᄉᆞ를 잡어 ᄂᆡ여 ᄭᅳᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="11" n="2">ᄌᆞᄉᆞᄂᆞᆫ 부인을 붓들고 부인은 ᄌᆞᄉᆞ를 붓들고 망극ᄒᆞ여 아모리 ᄒᆞᆯ 쥴 모르ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="11" n="3">부인이 옥 갓흔 얼골의 눈물이 비 오듯 ᄒᆞ여 의상이 다 져졋스며</sent>
+<sent type="main" lang="kor" page="11" n="4">귀밋머리ᄂᆞᆫ 산산이 흣터지고</sent><!--'산산이'의 뒤에 오는 '산'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="5">도화 ᄀᆞᆺ흔 얼골과 귀밋흐로 눈물이 줄줄이 흐르며</sent><!--'줄줄이'의 뒤에 오는 '줄'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="6">ᄌᆞᄉᆞ의 신션 ᄀᆞᆺ흔 얼골이 일각에 탈긔가 되여</sent>
+<sent type="main" lang="kor" page="11" n="7">도화가 셔리를 마진 것ᄀᆞᆺ치 ᄉᆡᆼ긔가 업셔지고</sent>
+<sent type="main" lang="kor" page="11" n="8">쥰쥬 ᄀᆞᆺ흔 눈물이 실음업시 소ᄉᆞ나 두 억ᄀᆡ에 흐르니</sent>
+<sent type="main" lang="kor" page="11" n="9">ᄌᆞᄉᆞ의 일ᄒᆡᆼ과 셔쥰의 군ᄉᆞ들도 부인과 ᄌᆞᄉᆞ의 슯허ᄒᆞᆷ을 보고</sent>
+<sent type="main" lang="kor" page="11" n="10">통분이 넉이며 눈물을 안니 흘일 사람이 업더라</sent>
+<sent type="main" lang="kor" page="11" n="11">ᄌᆞᄉᆞᄂᆞᆫ 겨우 졍신을 ᄎᆞ려 머리를 겨우 들고 부인을 보고 무ᄉᆞᆷ 말을 ᄒᆞ고져 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="11" n="12">흉격이 막혀 말을 못ᄒᆞ고 부인을 붓들고 통곡만 ᄒᆞᆯ 즈음에</sent>
+<sent type="main" lang="kor" page="11" n="13">셔쥰은 계집종을 호령ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="11" n="14">쇽히 나와 뎌 부인을 붓들고 뎌 놈을 동이여 물에 너으라 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="11" n="15">셔가의 군ᄉᆞㅣ 령을 듯고 시비 십여 인이 나와 부인을 붓들고</sent>
+<sent type="main" lang="kor" page="11" n="16">셔쥰이 달녀드러 ᄌᆞᄉᆞ의 손을 잡고 ᄭᅳ으러 ᄂᆡ니</sent>
+<sent type="main" lang="kor" page="11" n="17">ᄌᆞᄉᆞ가 부인의 치마를 붓들고 놋치 아니ᄒᆞ려 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="11" n="18">당치 못ᄒᆞ야 치마를 놋치니 셔가 놈이 ᄌᆞᄉᆞ를 번젹 들어 물에 더지니</sent>
+<sent type="main" lang="kor" page="11" n="19">보ᄂᆞᆫ ᄌᆡ 슯허ᄒᆞ지 안ᄂᆞᆫ ᄌᆡ 업고 삼쳑동ᄌᆞ라도 눈물 아니 흘닐 길이 바이 업더라</sent>
+<sent type="main" lang="kor" page="11" n="20">ᄌᆞᄉᆞㅣ 셔쥰의 ᄭᅬ에 ᄲᅡ져</sent>
+<sent type="main" lang="kor" page="11" n="21">만경창파에 텬금 ᄀᆞᆺ흔 이ᄂᆡ 몸이 ᄯᅥ러지니 살기를 ᄇᆞ라리요</sent>
+<sent type="main" lang="kor" page="11" n="22">내 이졔 나히 어리나 나라 일을 위ᄒᆞ야 부모를 리별ᄒᆞ고 만리 타향에 가다가</sent>
+<sent type="main" lang="kor" page="11" n="23">만경창파에 몸을 하직이 되여 살은 고기밥이 되고</sent>
+<sent type="main" lang="kor" page="11" n="24">ᄲᅦᄂᆞᆫ 썩어 ᄒᆡ즁에 뭇치게 되니 텬디 무심ᄒᆞ고 나라를 망케ᄒᆞ심이로다 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="11" n="25">통곡ᄒᆞᄂᆞᆫ 소ᄅᆡ 구쳔에 ᄉᆞ못찻고 초목금슈 다 슬허ᄒᆞᄂᆞᆫ 듯ᄒᆞ고 강물이 흐르지 안ᄂᆞᆫ 듯ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="11-12" n="26">ᄎᆞ셜 이 ᄯᆡ 부인이 졍신을 ᄎᆞ려 ᄌᆞᄉᆞ의 아리ᄯᅡ온 얼골이 물에 잠김을 보고</sent><!--아리ᄯᅡ온 ^ 얼골이-->
+</pages>
+
+<pages n="12">
+<img n="12">https://kohico.kr/_media/image/간행년도_간략서명_권차/12.jpg</img>
+<sent type="main" lang="kor" page="12" n="1">질ᄉᆡᆨ 긔졀ᄒᆞ며 눈물을 흘니고 ᄌᆞᄉᆞ와 ᄀᆞᆺ치 ᄲᅡ지려 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="12" n="2">여러 시녀들이 붓들고 움작이지 못ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="12" n="3">물에 좃ᄎᆞ ᄲᅡ질 슈 업고 ᄌᆞ수도 ᄒᆞᆯ 수 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="12" n="4">부인의 형상을 보건ᄃᆡ 혼ᄲᅡ진 사ᄅᆞᆷ쳐럼 눈물만 흘니고 탄식ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="12" n="5">텬은을 입ᄉᆞ와 나라 일노 황쥬를 가다가 운수 불ᄒᆡᆼᄒᆞ야</sent>
+<sent type="main" lang="kor" page="12" n="6">만경창파의 고혼이 되엿스니 엇지ᄒᆞ면 됴탄 말고 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="12" n="7">졍신을 ᄎᆞ리지 못ᄒᆞ고 슯히 통곡ᄒᆞᆯ 즈음에</sent>
+<sent type="main" lang="kor" page="12" n="8">셔쥰이 ᄌᆞᄉᆞ의 일ᄒᆡᆼ을 다 쥭이고 부인을 덩에 ᄐᆡ이고</sent>
+<sent type="main" lang="kor" page="12" n="9">시녀로 ᄒᆞ여곰 잘 시위ᄒᆞ야 황텬탑ᄭᆞ지 드러올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="12" n="10">부인이 하ᄂᆞᆯ을 우러러 탄식ᄒᆞ며 왈</sent><!--'우러러'의 뒤에 오는 '러'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="11">창창ᄒᆞ신 하ᄂᆞ님 나를 이ᄀᆞᆺ치 되게 ᄒᆞ시니 이ᄂᆞᆫ 텬디 망아로다</sent><!--'창창ᄒᆞ신'의 뒤에 오는 '창'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="12">심즁에 야쇽ᄒᆞ고 금창이 메여 져 분ᄒᆞᆫ ᄉᆡᆼ각이 치미러</sent>
+<sent type="main" lang="kor" page="12" n="13">ᄯᅳ거온 눈물이 치마ᄌᆞ락에 더벅더벅 ᄯᅥ러지나니</sent><!--'더벅더벅'의 뒤에 오는 '더벅'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="14">피가 되여 ᄂᆡᄀᆞᆺ치 되고 뒤에 은은이 들니ᄂᆞᆫ 소ᄅᆡ 바다물이요</sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="15">ᄌᆞᄉᆞㅣ의 두목지 ᄀᆞᆺ흔 풍ᅟᅠᄎᆡ와 암암ᄒᆞᆫ 긔질이 쇽졀업시 만경창파 즁에 고혼이 되엿스니</sent><!--'암암ᄒᆞᆫ'의 뒤에 오는 '암'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="16">ᄉᆡᆼ각ᄒᆞ면 금챵이 뮈여지고 슬품이 구뷔구뷔 ᄆᆡᆺ치ᄂᆞᆫ 듯</sent><!--'구뷔구뷔'의 뒤에 오는 '구뷔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="17">즁쳘업고 무심ᄒᆞᆫ ᄇᆡᆨ구ᄂᆞᆫ 쳐량ᄒᆞᆫ 소ᄅᆡ로 ᄂᆡ 마ᄋᆞᆷ의 슯흠을 돕ᄂᆞᆫ고나</sent>
+<sent type="main" lang="kor" page="12" n="18">하ᄂᆞ님은 구버 ᄉᆞᆲ히ᄉᆞ 셔가를 죽이지 안이시고</sent>
+<sent type="main" lang="kor" page="12" n="19">ᄋᆡᄆᆡᄒᆞᆫ ᄌᆞᄉᆞ를 물에 고혼되게 ᄒᆞ여도 형벌이 업ᄉᆞ오니 텬디 무심ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="12" n="20">슬푸다 ᄌᆞᄉᆞ와 부인의 졍리가 지극ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="12" n="21">엇지 만경창파에 속졀업시 셔로 ᄭᅳᆫ어졋스니 읏지ᄒᆞ면 다시 만나볼가 ᄒᆞ며 통곡ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="12" n="22">잇ᄯᆡ 황쥬셩 ᄇᆡᆨ셩들이 ᄌᆞᄉᆞ 오기를 기다리나</sent>
+<sent type="main" lang="kor" page="12" n="23">즁로에셔 셔가의 흉계로 ᄒᆡ즁에 고혼 된 쥴을 아지 못ᄒᆞ고 이ᄀᆞᆺ치 기다리나</sent><!--'즁로에셔 셔가의'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12" n="24">ᄌᆞᄉᆞ가 읏지 도라오리요</sent>
+<sent type="main" lang="kor" page="12" n="25">셔가 놈은 황텬탑에 ᄇᆡ를 셰우고</sent>
+<sent type="main" lang="kor" page="12" n="26">시녀로 ᄒᆞ여곰 금덩을 ᄀᆞᆺ초와 부인을 뫼셔 셔가 집으로 들어가니</sent><!--'뫼셔 셔가'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="12-13" n="27">분벽사창이 찬란ᄒᆞᆫ 방에 반즘 죽어 드러와 안졋스니</sent><!--반^즘-->
+</pages>
+
+<pages n="13">
+<img n="13">https://kohico.kr/_media/image/간행년도_간략서명_권차/13.jpg</img>
+<sent type="main" lang="kor" page="13" n="1">하ᄂᆞᆯ이 문허지고 ᄐᆡ산이 덥치ᄂᆞᆫ 듯ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="13" n="2">이윽고 젊은 낭ᄌᆡ 문으로 드러오거ᄂᆞᆯ 눈을 들어 보니 완연ᄒᆞᆫ 낭ᄌᆡ여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="13" n="3">부인이 방에 드러옴을 무르니 낭ᄌᆡ 대답ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="13" n="4">근본 부녀로 셔쥰의게 잡혀와 쥭을 슈 업고</sent>
+<sent type="main" lang="kor" page="13" n="5">ᄯᅩᄒᆞᆫ 쥬야로 근심 즁에 슯허ᄒᆞ노라 ᄒᆞ고</sent><!--'슯허ᄒᆞ노라'가 원문에는 '스ᇣ허ᄒᆞ노라'로 되어 있음-->
+<sent type="main" lang="kor" page="13" n="6">일홈은 아ᄎᆡ라 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="13" n="7">부인이 졍신을 ᄎᆞ려 이윽히 보다가 눈물을 지으고 이라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="13" n="8">참혹ᄒᆞᆫ 거동이 날과 ᄀᆞᆺ흔지라 ᄒᆞ며 셔로 붓들고 우ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="13" n="9">이 젹에 셔쥰의 아오 셔ᄉᆡᆼ이 졔 형이 ᄌᆞᄉᆞ를 쥭이고 부인을 달ᄂᆡ여 옴을 보고 분긔가 대발ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="13" n="10">남의 목슴을 물에 더져 쥭게 ᄒᆞ고 그 부인을 탐ᄒᆞ야 다려옴을 보고</sent>
+<sent type="main" lang="kor" page="13" n="11">졔 형을 쥭이려 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="13" n="12">마ᄋᆞᆷ의 분ᄒᆞᆷ을 참고 가장 의리잇고 졍다온 것ᄀᆞᆺ치 형에 마ᄋᆞᆷ을 흡족히 깃부게 ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="13" n="13">형의게 당초의 오활이 녁엿더니 이졔 나종을 보니 과연 소담ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="13" n="14">실노 ᄃᆡ장뷔 셰상의 아름다온 녀ᄌᆞ를 탈취ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13" n="15">온ᄀᆞᆺ 보ᄇᆡ를 만이 으드니 형의 일이 가장 깃부고</sent>
+<sent type="main" lang="kor" page="13" n="16">이런 경ᄉᆞ를 보고 동긔지졍에 읏지 질겁지 안이ᄒᆞ리요 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="13" n="17">즉시 됴흔 슐을 ᄂᆡ여 형의게 권ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="13" n="18">셔쥰이 ᄉᆡᆼ각에 동ᄉᆡᆼ이 ᄎᆞᆷ으로 이럿케 깃버ᄒᆞᄂᆞᆫ 줄 알고 깃버ᄒᆞ며 가라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="13" n="19">이번의 계교가 졀묘ᄒᆞ게 ᄒᆞ엿스되 타인들은 칭찬ᄒᆞᆷ이 업더니</sent>
+<sent type="main" lang="kor" page="13" n="20">그ᄃᆡ 나를 칭찬ᄒᆞ니 동긔지 의리와 졍의가 가장 긔특ᄒᆞ고 우ᄋᆡ 잇도다</sent>
+<sent type="main" lang="kor" page="13" n="21">이번 일에 됴흔 단소 한 ᄀᆡ를 어덧스되 맛ᄎᆞᆷ 긔회 업고</sent>
+<sent type="main" lang="kor" page="13" n="22">ᄯᅩᄒᆞᆫ 부인이 져럿틋 ᄒᆞ니 마ᄋᆞᆷ의 근심이더니</sent>
+<sent type="main" lang="kor" page="13" n="23">그ᄃᆡ 와셔 됴흔 슐을 권ᄒᆞ야 ᄉᆡ로이 즐거온 마ᄋᆞᆷ을 발ᄒᆞ게 ᄒᆞ니 내 단소 소ᄅᆡ를 드러보라 ᄒᆞ고</sent>!--'단소 소ᄅᆡ를'의 뒤에 오는 '소'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13" n="24">단소를 내 불거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="13" n="25">드르니 상령산 오장을(上靈山五章) ᄉᆔ지도 안이ᄒᆞ고 ᄉᆞ토리도 업고 숨도 안이 찬지 쳥아ᄒᆞ게 부ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="13-14" n="26">이 단소ᄂᆞᆫ ᄌᆞᄉᆞ의 부친 ᄉᆞ라계실 ᄯᆡ에 즐기든 단소라</sent><!--즐기든 ^ 단소라-->
+</pages>
+
+<pages n="14">
+<img n="14">https://kohico.kr/_media/image/간행년도_간략서명_권차/14.jpg</img>
+<sent type="main" lang="kor" page="14" n="1">이 단소ᄂᆞᆫ 소 승상이 기셰ᄒᆞᆫ 후로ᄂᆞᆫ ᄌᆞᄉᆞ 가장 구이 가지고 노다가</sent>
+<sent type="main" lang="kor" page="14" n="2">황쥬로 나려올제 몸의 진이엿더니</sent>
+<sent type="main" lang="kor" page="14" n="3">셔쥰의게 ᄋᆡ인 바 되여 단소가 나기ᄂᆞᆫ 나나</sent><!--'나나'의 뒤에 오는 '나'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="4">셔쥰의게로 간 후로ᄂᆞᆫ 젼과 ᄀᆞᆺ흔 소ᄅᆡ를 나지 안코 슬푼 소ᄅᆡ와 쳐량ᄒᆞᆫ 소ᄅᆡ만 나며</sent>
+<sent type="main" lang="kor" page="14" n="5">ᄯᅩ 씩씩ᄒᆞᆫ 소ᄅᆡᄂᆞᆫ 업고</sent><!--'씩씩ᄒᆞᆫ'의 뒤에 오는 '씩'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="6">ᄌᆞ취업시 흣터지ᄂᆞᆫ 소ᄅᆡᄂᆞᆫ 듯ᄂᆞᆫ ᄌᆡ 실음업시 눈물이 흐르ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="14" n="7">이ᄯᆡ 셔ᄉᆡᆼ이 졔 형의게 권ᄒᆞᆫ 말과 즐거워 실노 대장부에 일이라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="14" n="8">슐을 권ᄒᆡ 즐겁게 ᄒᆞ기ᄂᆞᆫ 악ᄒᆞᆫ 마ᄋᆞᆷ을 훨젹 푸러 더지고 날노 의심이 업게 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="14" n="9">슐을 취ᄒᆞ게 ᄒᆞᆫ 후에 불상ᄒᆞ고 불상ᄒᆞᆫ ᄌᆞᄉᆞ의 부인을 구ᄒᆞ고져 ᄒᆞ야 이ᄀᆞᆺ치 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="14" n="10">셔쥰은 이런 ᄯᅳᆺ을 모르고 슐을 권ᄒᆞᄂᆞᆫ ᄃᆡ로 먹고 슐이 취ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="14" n="11">단이지 못ᄒᆞ고 밤의 ᄭᅩᆷᄶᅡᆨ 못ᄒᆞ난지라</sent>
+<sent type="main" lang="kor" page="14" n="12">셔ᄉᆡᆼ이 이 거동을 보고 즉시 졔 형의 집에 드러가 문을 열고</sent><!--'셔ᄉᆡᆼ이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="13">ᄌᆞᄉᆞ의 부인을 ᄃᆡᄒᆞ야 이르ᄃᆡ</sent>
+<sent type="main" lang="kor" page="14" n="14">져ᄂᆞᆫ 셔쥰의 아오 셔ᄉᆡᆼ이로라</sent>
+<sent type="main" lang="kor" page="14" n="15">형의 심슐이 광ᄑᆡᄒᆞ야 부인으로 ᄒᆞ야금 쳔리 타향에 와셔 이런 일을 당ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="14" n="16">쳔금 ᄀᆞᆺ흔 귀ᄒᆞ신 몸이 져러트시 되야 그 경상이 참혹ᄒᆞ기로</sent>
+<sent type="main" lang="kor" page="14" n="17">ᄂᆡ 이졔 부인을 위ᄒᆞ야 가실 길을 인도ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="14" n="18">쳥컨ᄃᆡ 부인은 ᄯᅳᆺ의 엇더ᄒᆞ시며 마ᄋᆞᆷ을 편히 ᄒᆞ시고 진졍ᄒᆞ소셔 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="14" n="19">부인이 이 말을 드르니 마ᄋᆞᆷ의 깃부고 즐거오나 이ᄂᆞᆫ 셔쥰의 아오라</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="20">마ᄋᆞᆷ에 의심이 나나 읏지되ᄂᆞᆫ 일을 기다리고 ᄯᅳᆺ만 보더라</sent><!--'나나'의 뒤에 오는 '나'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="21">셔ᄉᆡᆼ이 ᄯᅩ 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="14" n="22">밧비 나를 죳ᄎᆞ 가ᄉᆞ이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="14" n="23">부인이 고ᄀᆡ를 들지 안이ᄒᆞ고 울며 셔ᄉᆡᆼ의 말을 듯고 더욱 의심나 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="14" n="24">셔ᄉᆡᆼ은 셔쥰의 아오라 엇지ᄒᆞ야 형을 돕지 안이ᄒᆞ고 이ᄀᆞᆺ치 된 나를 구ᄒᆞ려 ᄒᆞ나뇨</sent>
+<sent type="main" lang="kor" page="14" n="25">나로 더옥 심회를 돕게 ᄒᆞᄂᆞᆫ도다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="14" n="26">더욱 슯허ᄒᆞᆷ을 이긔지 못ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="14" n="27">아ᄎᆡ 겻ᄒᆡ 잇다가 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="14-15" n="28">부인은 죠곰도 의심 마시고 인도ᄒᆞ시ᄂᆞᆫ ᄃᆡ로 ᄒᆡᆼᄒᆞ소셔</sent><!--인도^ᄒᆞ시ᄂᆞᆫ-->
+</pages>
+
+<pages n="15">
+<img n="15">https://kohico.kr/_media/image/간행년도_간략서명_권차/15.jpg</img>
+<sent type="main" lang="kor" page="15" n="1">아ᄎᆡ가 이곳에 ᄆᆡ인 ᄇᆡ 되여 여러 달 잇셔 보니</sent>
+<sent type="main" lang="kor" page="15" n="2">셔ᄉᆡᆼ은 셔쥰의 동ᄉᆡᆼ이라 ᄒᆞ기 앗갑고 마ᄋᆞᆷ이 요슌ᄀᆞᆺ치 어진 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="kor" page="15" n="3">부인을 속일 ᄇᆡ 업스니 졔 말을 드르시고 셔ᄉᆡᆼ을 죳ᄎᆞ가라 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="15" n="4">부인이 이 말을 듯고 긔운을 슈습ᄒᆞ야 ᄇᆡᆨ옥 ᄀᆞᆺ흔 손길에 깁슈건을 잡고</sent>
+<sent type="main" lang="kor" page="15" n="5">옥안에 구슬 ᄀᆞᆺ흔 눈물이 압흘 가리여 마ᄋᆞᆷ이 비창ᄒᆞᆷ을 먹음고 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="15" n="6">졀의 간 녀ᄌᆞ와 ᄀᆞᆺ도다 다시 ᄉᆡᆼ각ᄒᆞ고 즉시 일어나 졀ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="15" n="7">쳡은 졀강ᄯᅡ에 사옵더니 대승샹 소연의 아달 소위의 안ᄒᆡ러니</sent>
+<sent type="main" lang="kor" page="15" n="8">학ᄉᆞᄭᅴ셔 몸을 나라에 허ᄒᆞ신 ᄇᆡ 되여 텬ᄌᆞᄭᅴ옵셔 황쥬 ᄌᆞᄉᆞ를 졔슈ᄒᆞ신 명령을 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="15" n="9">텬ᄌᆞ와 구고와 친쳑을 리별ᄒᆞ옵고 텬리 타향에 오다가 만경창파를 건너려 ᄒᆞ옵더니</sent>
+<sent type="main" lang="kor" page="15" n="10">쳡의 팔ᄌᆞ 긔박ᄒᆞ여 쳔만 ᄯᅳᆺ밧게 변을 맛나 ᄋᆡᄆᆡᄒᆞ온 학ᄉᆞ와 </sent>
+<sent type="main" lang="kor" page="15" n="11">무죄ᄒᆞᆫ 일ᄒᆡᆼ에 쥭음이 ᄒᆡ상에 흣터져 망망대ᄒᆡ ᄯᅥ단이ᄂᆞᆫ 형상을 ᄉᆡᆼ각ᄒᆞ면</sent><!--'망망대ᄒᆡ'의 뒤에 오는 '망'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="15" n="12">살 ᄯᅳᆺ이 업ᄉᆞ오나 모진 목슴이 쥭지 못ᄒᆞ여 살어잇ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="15" n="13">이졔 장군의 하ᄂᆞᆯ ᄀᆞᆺ흔 말ᄉᆞᆷ을 듯ᄉᆞ오니 은혜 난망ᄒᆞ온지라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15" n="14">ᄯᅩ 언필에 일ᄋᆞᄃᆡ 쟝부의 넓으신 은덕을 입어 쳡의 낭군 신톄나 으더감을 바라ᄂᆞ니다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="15" n="15">이러나 녹의홍상 버셔 시모 쥬시든 라삼봉ᄎᆡ를 한데 ᄂᆡ여 싸고</sent>
+<sent type="main" lang="kor" page="15" n="16">헛튼 머리 집어 언고 옷보를 낭ᄌᆞ 머리에 이고 셔ᄉᆡᆼ을 ᄯᅡ라 문의 나오니</sent>
+<sent type="main" lang="kor" page="15" n="17">아ᄎᆡ ᄯᅩᄒᆞᆫ 부인을 붓들고 통곡ᄒᆞ며 ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="15" n="18">부인은 셔ᄉᆡᆼ을 ᄯᅡ라가시나 이ᄂᆡ 몸은 엇지써 문 밧을 나게 ᄒᆞ리요 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="15" n="19">물너셔며 한숨지며 눈물이 비 오듯 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="15" n="20">셔ᄉᆡᆼ이 한번 그 형상을 보ᄆᆡ 쳘셕 간장인들 엇지 불상이 녁이지 아니리요</sent>
+<sent type="main" lang="kor" page="15" n="21">셔ᄉᆡᆼ이 부인과 아ᄎᆡ를 다리고 북문에 일으니 슈문장이 문을 열지 아니ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="15" n="22">셔ᄉᆡᆼ이 크게 ᄭᅮ지져 왈</sent>
+<sent type="main" lang="kor" page="15-16" n="23">너ᄂᆞᆫ 나의 형의 군ᄉᆞ여ᄂᆞᆯ 장슈의 동ᄉᆡᆼ이 문을 열나 ᄒᆞ거든</sent><!--동ᄉᆡᆼ이 ^ 문을-->
+</pages>
+
+<pages n="16">
+<img n="16">https://kohico.kr/_media/image/간행년도_간략서명_권차/16.jpg</img>
+<sent type="main" lang="kor" page="16" n="1">엇지ᄒᆞ여 네가 거역ᄒᆞ고 문을 아니 여러주니 너ᄂᆞᆫ 목에 칼이 아니 들가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="16" n="2">호령이 진동ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="16" n="3">문군ᄉᆡ 셔리 갓흔 호령을 드르니 간담이 셔늘ᄒᆞ며 혼이 나간 사ᄅᆞᆷᄀᆞᆺ치 졍신을 차리지 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="16" n="4">거역지 못ᄒᆞᆯ 쥴 알고 곳 문을 열어 주거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="16" n="5">셔ᄉᆡᆼ이 부인과 아ᄎᆡ를 ᄂᆡ보ᄂᆡ고 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="16" n="6">내 이졔 나오기 어려온 문을 인도ᄒᆞ여 잘 나오게 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="16" n="7">낭ᄌᆞ들은 속졀업ᄂᆞᆫ ᄯᆞᆫ ᄉᆡᆼ각 말고 동셔남북을 물론ᄒᆞ고 가고 십흔 ᄃᆡ로 ᄲᅡᆯ니 가셔</sent>
+<sent type="main" lang="kor" page="16" n="8">아모조록 욕을 면ᄒᆞ고 살기를 바랄 거시요</sent>
+<sent type="main" lang="kor" page="16" n="9">ᄂᆡ 보니 부인은 유복ᄌᆡ 잇ᄂᆞᆫ가 십흐니</sent>
+<sent type="main" lang="kor" page="16" n="10">목슴을 보젼ᄒᆞ여 쳔ᄒᆡᆼ으로 아달을 보셔셔</sent><!--'보셔셔'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="11">후ᄉᆞ를 의탁ᄒᆞ시고 부인이 이럿틋 욕을 보온 일을 원슈을 갑게 ᄒᆞ옵소셔</sent><!--'부인이 이럿틋'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="12">ᄂᆡ가 비록 몸이 맛도록 부인과 아ᄎᆡ를 다리고 동구ᄭᆞ지 인도ᄒᆞᆯ 슈 잇스나</sent>
+<sent type="main" lang="kor" page="16" n="13">만일 일이 탈노되면 피ᄎᆞ의 사지도 못ᄒᆞᆯ 쥴 아ᄂᆞᆫ ᄇᆡ니 어셔 속히 가소셔 ᄒᆞᆫᄃᆡ</sent><!--'만일 일이'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="14">아ᄎᆡ와 부인이 말을 듯고 감격ᄒᆞ여 무슈이 ᄉᆞ례ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="16" n="15">그 자리에 안져 아ᄎᆡ에 손을 잡고 통곡ᄒᆞ다가 ᄉᆞ면을 둘너보니</sent>
+<sent type="main" lang="kor" page="16" n="16">쳡쳡ᄒᆞᆫ 산즁에 초목이 무셩ᄒᆞ고</sent><!--'쳡쳡ᄒᆞᆫ'의 뒤에 오는 '쳡'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="17">각ᄉᆡᆨ 금수에 소ᄅᆡᄂᆞᆫ 사ᄅᆞᆷ의 심회를 돕ᄂᆞᆫ 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="16" n="18">ᄯᅩ 한 편을 바라보니 황ᄋᆡᆼ이 ᄶᅡᆨ을 짓고 호졉이 쌍을 지어</sent>
+<sent type="main" lang="kor" page="16" n="19">이리져리 왕ᄅᆡᄒᆞᆷ을 보고 심신이 산란ᄒᆞ여 춍망 즁 도라셔니</sent>
+<sent type="main" lang="kor" page="16" n="20">흉흉ᄒᆞᆫ 바다물은 ᄐᆡ산 ᄀᆞᆺ튼 노을 치고</sent><!--'흉흉ᄒᆞᆫ'의 뒤에 오는 '흉'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="21">일셰ᄂᆞᆫ 졈졈 느져지ᄂᆞᆫᄃᆡ</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="22">물결을 바라보고 학ᄉᆞ를 보고져 ᄒᆞᆫ들 엇지 만나리요</sent>
+<sent type="main" lang="kor" page="16" n="23">부인이 근력이 시진ᄒᆞ고 창망ᄒᆞᆫ 구름 속 셕양이 다 진ᄒᆞ고 황혼이 일으ᄆᆡ</sent>
+<sent type="main" lang="kor" page="16" n="24">길을 ᄌᆡ촉ᄒᆞ여 산간으로 나려가니</sent>
+<sent type="main" lang="kor" page="16" n="25">길은 졈졈 ᄒᆞ고 부인이 발이 아푸ᄆᆡ 눈물만 흘니고</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="26">총총이 가다가 아ᄎᆡ 부인다려 일ᄋᆞᄃᆡ</sent><!--총총이''의 뒤에 오는 '총'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="27">ᄂᆡ 신이 발이 편ᄒᆞ니 부인은 신을 밧고아 신으옵소셔 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="16" n="28">부인이 이 말 듯고 밧구어 신엇더니</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16-17" n="29">젹이 편ᄒᆞᆫ지라</sent><!--편^ᄒᆞᆫ지라-->
+</pages>
+
+<pages n="17">
+<img n="17">https://kohico.kr/_media/image/간행년도_간략서명_권차/17.jpg</img>
+<sent type="main" lang="kor" page="17" n="1">밤은 졈졈 깁허오고 촌락이 어ᄃᆡᆫ지 아지 못ᄒᆞ여 방황ᄒᆞ며 ᄉᆞ면을 ᄉᆞᆲ혀보니</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="2">달빗츤 명낭ᄒᆞ나 마ᄋᆞᆷ에 답답ᄒᆞ여 엇지ᄒᆞᆯ 줄 모르ᄂᆞᆫ지라</sent><!--'답답ᄒᆞ여'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="3">호랑이ᄂᆞᆫ 휘파람을 ᄒᆞ고 학의 소ᄅᆡᄂᆞᆫ 쳥아ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="17" n="4">두견ᄉᆡᄂᆞᆫ 창ᄌᆞ가 터지도록 슯히 울어 사ᄅᆞᆷ의 심ᄉᆞ를 살난케 ᄒᆞᄂᆞᆫ도다</sent>
+<sent type="main" lang="kor" page="17" n="5">아ᄎᆡ의 손을 붓들고 팔ᄌᆞ를 한탄ᄒᆞ며 길을 ᄎᆞ져 압흐로 나아가니</sent>
+<sent type="main" lang="kor" page="17" n="6">밤이 다 가고 일츌동령ᄒᆞ엿ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="17" n="7">날은 밝엇스나 걱졍 근심이 ᄉᆡᆼ기여 셔쥰이 올ᄭᅡ ᄒᆞ여 두리 슯히 울며 길을 ᄌᆡ촉ᄒᆞ여 가더니</sent>
+<sent type="main" lang="kor" page="17" n="8">깁흔 우물이 길가의 잇거ᄂᆞᆯ 아ᄎᆡ 우물을 보더니 눈물을 흘니며 왈</sent>
+<sent type="main" lang="kor" page="17" n="9">셰상에 팔ᄌᆞ 긔박ᄒᆞ야 졀ᄒᆡᆼ이 용렬ᄒᆞᆫ 탓으로 셔가의게 더러온 몸이 되엿스니</sent>
+<sent type="main" lang="kor" page="17" n="10">ᄉᆡᆼ각ᄒᆞ면 일시인들 엇지 셰상의 잇스리오</sent>
+<sent type="main" lang="kor" page="17" n="11">쳔만 번 쥭고져 ᄒᆞ되 셔가 놈의 ᄆᆡ이여 쥭지 못ᄒᆞ고 간장만 녹이다가</sent>
+<sent type="main" lang="kor" page="17" n="12">쳔만 ᄯᅳᆺ밧게 부인이 ᄯᅩᄒᆞᆫ 잡힌 ᄇᆡ 되ᄆᆡ ᄯᅩ ᄒᆞᆫ가지라</sent>
+<sent type="main" lang="kor" page="17" n="13">나와 갓치 붓그러온 몸은 쥭어 황텬의 가지 못ᄒᆞᆯ 몸이 되엿더니</sent>
+<sent type="main" lang="kor" page="17" n="14">셔쥰의 아오 셔ᄉᆡᆼ의 은혜를 닙어 몸을 흉ᄒᆞᆫ 곳에셔 버셔나게 인도ᄒᆞ야 쥬엇스나</sent>
+<sent type="main" lang="kor" page="17" n="15">살기를 도모ᄒᆞ고 주야를 고ᄉᆡᆼᄒᆞ며 길을 가되 향방 못ᄒᆞ고 길에셔 이갓치 방황ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="17" n="16">만일 셔가가 술이 ᄭᆡ고 보면 ᄎᆞ질 터이니</sent><!--'셔가가'의 뒤에 오는 '가'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="17">이 ᄉᆡᆼ각을 ᄒᆞ면 몸이 소ᄉᆞ치고 마ᄋᆞᆷ이 ᄯᅥᆯ니ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="17" n="18">이 놈은 ᄌᆡ조가 비상ᄒᆞ고 쳔리 밧 일을 능히 아ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="kor" page="17" n="19">이갓치 ᄒᆞ다ᄂᆞᆫ 피ᄎᆞ의 살기를 도모치 못ᄒᆞᆯ 거시오니</sent>
+<sent type="main" lang="kor" page="17" n="20">쳔만 번 혜아려도 살어ᄂᆞᆯ 계ᄎᆡᆨ이 업스니 내 이 우물에 ᄲᅡ져 셰상ᄉᆞ를 이져바리고 죽ᄉᆞᆸ거니와</sent>
+<sent type="main" lang="kor" page="17" n="21">부인은 심덕으로 셔가 놈의게 버셔나 붓그러옴을 면ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="17" n="22">젼일을 ᄉᆡᆼ각지 마시고 모진 마ᄋᆞᆷ 돌니여 쳔금 갓흔 몸을 자취업시 은신ᄒᆞᄉᆞ 아모조록 사라잇다가</sent>
+<sent type="main" lang="kor" page="17-18" n="23">하ᄂᆞᆯ이 구버 ᄉᆞᆲ히ᄉᆞ 귀ᄌᆞ를 졈지ᄒᆞ시면 부인의 쳔만 가지 원억을 씻고</sent><!--원억을 ^ 씻고-->
+</pages>
+
+<pages n="18">
+<img n="18">https://kohico.kr/_media/image/간행년도_간략서명_권차/18.jpg</img>
+<sent type="main" lang="kor" page="18" n="1">ᄯᅩᄒᆞᆫ 원슈라도 갑흘 거시오니 부인은 아모조록 깁히 ᄉᆡᆼ각ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="18" n="2">우리 이곳에셔 리별ᄒᆞᆷ을 조곰 셥셥이 ᄉᆡᆼ각마시고 평안이 가실 거시요</sent><!--'셥셥이'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="3">우리가 우연이 셔로 맛나 오날날ᄭᆞ지 갓치 지ᄂᆡᆫ 일을 닐닐이 ᄉᆡᆼ각ᄒᆞ오면</sent><!--'닐닐이'의 뒤에 오는 '닐'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="4">눈물노 셔로 이별이 되오니 피ᄎᆞ 훌훌ᄒᆞᆫ ᄯᅳᆺ을 엇지ᄒᆞᆯ가</sent><!--'훌훌ᄒᆞᆫ'의 뒤에 오는 '훌'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="5">죽어 지하의 가온들 엇지 이즈리요</sent>
+<sent type="main" lang="kor" page="18" n="6">내 이졔 부인 신을 밧구어 신은 거슬 우물가에 버셔 놋코 물에 ᄲᅡ지면</sent>
+<sent type="main" lang="kor" page="18" n="7">셔가ᄂᆞᆫ 부인 신을 아ᄂᆞᆫ 바이오니</sent>
+<sent type="main" lang="kor" page="18" n="8">졔가 우리를 ᄎᆞ져 올 ᄯᆡ에 이거ᄉᆞᆯ 보면</sent>
+<sent type="main" lang="kor" page="18" n="9">부인이 우물에 ᄲᅡ진 줄 알고 이 우물을 칠 거시니</sent>
+<sent type="main" lang="kor" page="18" n="10">이럴 즈음에 부인은 길을 속히 ᄒᆞ시고 몸을 잘 간슈ᄒᆞ사 ᄂᆡᄂᆡ 평안ᄒᆞ시면</sent><!--'ᄂᆡᄂᆡ'의 뒤에 오는 'ᄂᆡ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="11">셔로 만나 뵐 날이 잇슬 거시니 밧비 가라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="18" n="12">ᄃᆡ셩통곡ᄒᆞ며 즉시 입엇든 치마로 낫츨 가리고 신을 우물가의 버셔 놋코 몸을 날녀 들거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="18" n="13">부인이 밋쳐 구치 못ᄒᆞ여 쥭ᄂᆞᆫ 양을 보고 마ᄋᆞᆷ의 황황ᄒᆞ다가</sent><!--'황황ᄒᆞ다가'의 뒤에 오는 '황'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="14">문득 ᄉᆡᆼ각ᄒᆞ고 셔가의게 잡힐가 ᄒᆞ야 쳔방디츅 갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="18" n="15">로즁에셔 한 녀승이 지나다가 부인을 보고 문왈</sent>
+<sent type="main" lang="kor" page="18" n="16">엇지ᄒᆞ여 이런 험산 즁에 독ᄒᆡᆼ으로 가ᄂᆞᆫ다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="18" n="17">부인을 자셔이 보니 슈ᄉᆡᆨ이 만면ᄒᆞ고 용모ᄂᆞᆫ 초최ᄒᆞ여 의상은 남누ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="18" n="18">그즁에 은은ᄒᆞᆫ 미ᄉᆡᆨ이 감취엿고 ᄒᆡᆼ동이 짐짓 아름다온 녀ᄌᆡ러라</sent><!--'은은ᄒᆞᆫ'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="19">부인이 승이 뭇ᄂᆞᆫ 말을 듯고 공손이 ᄃᆡ왈</sent>
+<sent type="main" lang="kor" page="18" n="20">나ᄂᆞᆫ 미쳔ᄒᆞᆫ 사ᄅᆞᆷ으로 마ᄋᆞᆷ의 슯흔 일이 무슈ᄒᆞ여 진졍키 바이 어렵기로</sent>
+<sent type="main" lang="kor" page="18" n="21">집을 하직ᄒᆞ고 무가ᄀᆡᆨ으로 지향 업시 단이며 구경도 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="18" n="22">됴흔 ᄉᆞ찰이나 ᄎᆞ져가 승이나 되여 산즁에셔 마ᄋᆞᆷ을 삭이고</sent>
+<sent type="main" lang="kor" page="18" n="23">내의 소원을 붓쳐님게 츅원을 쥬야로 ᄒᆞ야 소원이나 일우어 볼가 ᄒᆞ고 지금 승당을 찻ᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="18" n="24">하ᄂᆞᆯ이 나를 불상이 녁이시고 션ᄉᆞ를 맛나게 ᄒᆞ시니 감ᄉᆞᄒᆞᆷ을 측량치 못ᄒᆞᆯ지라</sent>
+<sent type="main" lang="kor" page="18-19" n="25">바라건ᄃᆡ 션ᄉᆞᄂᆞᆫ 나를 바리지 말고 갓치 가기를 바라오니 ᄯᅳᆺ이 엇더ᄒᆞ시닛가</sent><!--나를 ^ 바리지-->
+</pages>
+
+<pages n="19">
+<img n="19">https://kohico.kr/_media/image/간행년도_간략서명_권차/19.jpg</img>
+<sent type="main" lang="kor" page="19" n="1">승이 부인의 ᄋᆡ걸ᄒᆞᆷ을 보고 불상이 여겨 허락ᄒᆞ고 다리고 졀의 이르니</sent>
+<sent type="main" lang="kor" page="19" n="2">그 졀 승이 부인 옴을 보고 일졔이 나와 마져 드려</sent>
+<sent type="main" lang="kor" page="19" n="3">좌를 졍ᄒᆞ고 안기를 쳥ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="19" n="4">부인 마ᄋᆞᆷ의 깃부고 고마온 말을 측량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="19" n="5">승들이 부인의 ᄒᆡᆼ동을 보니 반다시 범연ᄒᆞᆫ 사ᄅᆞᆷ이 아니라</sent>
+<sent type="main" lang="kor" page="19" n="6">분명 경셩 ᄉᆞ부ᄃᆡᆨ 부인이 무ᄉᆞᆷ 일노 ᄒᆡᆼ장을 싸가지고</sent>
+<sent type="main" lang="kor" page="19" n="7">흣흔 머리를 집어 언ᄭᅩ 옥 갓흔 얼골에 눈물 자취가 분명ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="19" n="8">황황ᄒᆞᆫ 모양이 나타ᄂᆞ니</sent><!--'황황ᄒᆞᆫ'의 뒤에 오는 '황'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="9">무ᄉᆞᆷ 죄를 지고 이리 오시나뇨 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="19" n="10">승들이 ᄎᆞ례로 무르니</sent>
+<sent type="main" lang="kor" page="19" n="11">부인이 조곰도 신ᄉᆡᆨ이 변치 안이ᄒᆞ고 ᄃᆡ답ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="19" n="12">나ᄂᆞᆫ 졀강 사ᄅᆞᆷ으로 일즉이 지아비 쥭고 참아 ᄀᆡ가치 못ᄒᆞ고 젹막ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="19" n="13">혼ᄌᆞ 몸으로 살 마ᄋᆞᆷ이 업고 졂은 계집이 덤덤이 집에 잇다가</sent><!--'덤덤이'의 뒤에 오는 '덤'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="14">강포ᄒᆞᆫ 사ᄅᆞᆷ의게 욕을 볼가 ᄒᆞ야 마ᄋᆞᆷ에 울젹ᄒᆞᆫ ᄉᆡᆼ각이 이러나</sent><!--'ᄉᆡᆼ각이 이러나'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="15">지향 업시 나와 보니 ᄯᅩᄒᆞᆫ 길에셔 욕을 보기 십상팔구요</sent>
+<sent type="main" lang="kor" page="19" n="16">악ᄒᆞᆫ 도젹은 쳐쳐에 잇셔 귀에 들니는 말이 누ᄒᆞᆫ 말만 드러오니</sent><!--'쳐쳐에'의 뒤에 오는 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="17">ᄉᆞ셰 난쳐ᄒᆞ고 갈 바를 아지 못ᄒᆞ다가 마ᄋᆞᆷ의 ᄭᆡ닷기를</sent>
+<sent type="main" lang="kor" page="19" n="18">ᄂᆡ가 집을 ᄯᅥ나기ᄂᆞᆫ ᄂᆡ 몸을 졍결케 ᄒᆞ려 ᄒᆞ고 나왓더니</sent>
+<sent type="main" lang="kor" page="19" n="19">도리여 위경을 만이 지ᄂᆡ니 속언의 왈 조약돌을 면ᄒᆞ면 슈만 셕이 온단 말이 ᄂᆡ게 일웟다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="19" n="20">졀간을 차져가 승이 되여 셰상을 평안케 보ᄂᆡ고 죽어 디하의 도라가되</sent>
+<sent type="main" lang="kor" page="19" n="21">됴흔 귀신이 되여 쳔만의 낭군을 맛나 그리든 회포를 푸러 볼가 ᄉᆡᆼ각ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="19" n="22">원ᄒᆞᄂᆞᆫ 마ᄋᆞᆷ이 불연이 ᄉᆡᆼ기여 ᄭᆡ닷고 졀을 ᄎᆞ져 왓스니</sent>
+<sent type="main" lang="kor" page="19" n="23">션ᄉᆞ들은 나의 ᄒᆡᆼᄉᆡᆨ을 조곰도 의심치 말고 나를 도으라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="19" n="24">눈물이 눈의 가득ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="19" n="25">승들이 이 말을 다 듯고 잔잉이 역이더라</sent><!--'승들이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="26">이윽고 승들이 의론ᄒᆞ기를</sent>
+<sent type="main" lang="kor" page="19" n="27">이 졀은 산고곡심ᄒᆞ야 드러올 사ᄅᆞᆷ이 업스나 속인으로 잇ᄂᆞᆫ 거시 불가ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="19-20" n="28">삭발ᄒᆞᆷ이 급ᄒᆞᆫ즉 부인은 셥셥이 듯들 마소셔 ᄒᆞᆫᄃᆡ</sent><!--'셥셥이'의 뒤에 오는 '셥'은 재점으로 표기되어 있음--><!--부^인은-->
+</pages>
+
+<pages n="20">
+<img n="20">https://kohico.kr/_media/image/간행년도_간략서명_권차/20.jpg</img>
+<sent type="main" lang="kor" page="20" n="1">부인이 이 말을 듯고 ᄂᆡ렴에 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="20" n="2">속언의 졀에 온 녀ᄌᆞ라 ᄒᆞᄂᆞᆫ 말도 잇건니와 지금 당ᄒᆞ여 못ᄒᆞᆯ 거슨 아니로ᄃᆡ</sent>
+<sent type="main" lang="kor" page="20" n="3">마ᄋᆞᆷ을 진졍치 못ᄒᆞ여 이갓치 비창ᄒᆞ니 졍지ᄒᆞ엿다가 ᄭᆞᄭᅳ리이다 ᄒᆞ고 셰월을 보ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="20" n="4">일일은 학ᄉᆞ가 셔가의게 ᄭᅳ을녀 물에 넘어가든 형상을 ᄉᆡᆼ각ᄒᆞ니</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="5">눈에 암암ᄒᆞ고 주야로 가ᄉᆞᆷ에 사못쳐 안ᄉᆡᆨ에 나타ᄂᆞ니</sent><!--'암암ᄒᆞ고'의 뒤에 오는 '암'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="6">승들이 이거ᄉᆞᆯ 짐작ᄒᆞ고 위로ᄒᆞ며 죠흔 음식으로 권ᄒᆞ되 목이 미여 먹지를 못ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="20" n="7">각셜 잇ᄯᆡ 셔가 놈이 술이 ᄭᆡ여 ᄉᆞ면을 ᄉᆞᆲ혀보니 부인과 아ᄎᆡ 두 사ᄅᆞᆷ이 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="20" n="8">마ᄋᆞᆷ의 ᄉᆡᆼ각ᄒᆞ기를 졔 아오 셔ᄉᆡᆼ이 져를 ᄭᅬ여 계교의 ᄲᅡ진 줄 알고</sent>
+<sent type="main" lang="kor" page="20" n="9">셔ᄉᆡᆼ을 불너 ᄭᅮ지지며 왈</sent><!--'ᄭᅮ지지며'의 뒤에 오는 '지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="10">너ᄂᆞᆫ 동긔 졍의 엇지ᄒᆞ야 부인을 ᄲᆡ여 돌녓스니 지금 일으라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="20" n="11">호령이 셔리 갓거ᄂᆞᆯ 셔ᄉᆡᆼ이 이 말 듯고 답왈</sent>
+<sent type="main" lang="kor" page="20" n="12">형ᄭᅴ셔 이갓치 ᄒᆞ시니 엿줄 말ᄉᆞᆷ은 업스나</sent>
+<sent type="main" lang="kor" page="20" n="13">그 부인으로 말ᄒᆞ오면 남편이 물에셔 쥭고 마ᄋᆞᆷ이 어ᄃᆡ 진졍 못ᄒᆞᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="20" n="14">형ᄃᆡᆨ으로 잡혀오나 마ᄋᆞᆷ의 조흔 ᄯᅳᆺ은 업셔쓸 거시오</sent>
+<sent type="main" lang="kor" page="20" n="15">ᄯᅩ 겸ᄒᆞ여 쥭기를 두려ᄒᆞ지 아니ᄒᆞᄂᆞᆫ 부인을 무심이 아ᄎᆡ로 ᄒᆞ여 ᄉᆞᆲ히라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="20" n="16">술이 취ᄒᆞ여 혼몽셰계에 잇스니 이 즁에 무ᄉᆞᆷ 일을 못ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="20" n="17">ᄒᆞᆫ 녀ᄌᆞᄂᆞᆫ 편셩이라 하고자 ᄒᆞ면 슈화를 불계ᄒᆞ고 ᄒᆡᆼᄒᆞᄂᆞᆫ 셩질이 엇지 되엿ᄂᆞᆫ지 알 슈 업ᄂᆞᆫ 일을</sent>
+<sent type="main" lang="kor" page="20" n="18">형ᄭᅴ셔ᄂᆞᆫ 동ᄉᆡᆼ만 원망을 ᄒᆞ고 ᄲᆡ여 갓다 ᄒᆞ니 엇지 이ᄃᆡ지 ᄋᆡᄆᆡᄒᆞᆫ 말을 ᄒᆞ시ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="20" n="19">비록 동긔 간이나 이런 셥셥ᄒᆞᆫ 말을 ᄒᆞ시니</sent><!--'셥셥ᄒᆞᆫ'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="20">마ᄋᆞᆷ의 셥셥ᄒᆞ옵고 비록 동긔간이나 마ᄋᆞᆷ이 형과 다름으로</sent><!--'셥셥ᄒᆞ옵고'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="21">일언 일은 즐기지 아니ᄒᆞ고 살녀줄 사ᄅᆞᆷ 잇스면 ᄒᆡᆼᄒᆞᆯ지라도</sent>
+<sent type="main" lang="kor" page="20" n="22">남의 원악ᄒᆞᆫ 일을 결코 아니ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ이니</sent>
+<sent type="main" lang="kor" page="20" n="23">형은 ᄯᅳᆺ을 혜아려 보시고 올흔 ᄯᅳᆺ으로 ᄒᆡᆼᄒᆞ소셔 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="20" n="24">셔쥰이 이 말을 듯더니 </sent><!--'셔쥰이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20-21" n="25">얼골이 붉으락 푸르락 ᄒᆞ며 살긔가 가득ᄒᆞᆫ 눈방울을 굴니며</sent><!--붉^으락-->
+</pages>
+
+<pages n="21">
+<img n="21">https://kohico.kr/_media/image/간행년도_간략서명_권차/21.jpg</img>
+<sent type="main" lang="kor" page="21" n="1">화침 마진 졔쥬 ᄉᆡᆼ마ᄀᆞᆺ치 이리 ᄯᅱ며 져리 ᄯᅱ며 갈팡질팡ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="21" n="2">군ᄉᆞ를 호령ᄒᆞ여 부르더니 문을 슈직ᄒᆞ던 군ᄉᆞ를 잡어드리라 ᄒᆞ고 소ᄅᆡ를 벽력ᄀᆞᆺ치 지르거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="21" n="3">군ᄉᆡ 황급ᄒᆞ여 즉시 잡어오니 셔쥰이 호령ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="21" n="4">어늬 문 슈직군ᄉᆞ가 문을 열어 향일 다려온 부인과 집에 잇던 아ᄎᆡᄂᆞᆫ 집에 업스니</sent>
+<sent type="main" lang="kor" page="21" n="5">어늬 문 군ᄉᆡ 열어 쥬엇ᄂᆞᆫ지 바로 알외라</sent>
+<sent type="main" lang="kor" page="21" n="6">만일 그러치 못ᄒᆞ면 한ᄆᆡ에 쥭이리라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="21" n="7">군ᄉᆡ 이 말을 듯고 문을 열어쥰 군ᄉᆞ가 듯기ᄂᆞᆫ ᄒᆞ엿스나</sent>
+<sent type="main" lang="kor" page="21" n="8">이 말을 토셜ᄒᆞ면 나ᄂᆞᆫ 형벌을 당ᄒᆞᄂᆞᆫ 거시 당연ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="21" n="9">마ᄋᆞᆷ이 착ᄒᆞ고 남을 구졔ᄒᆞ여 불상ᄒᆞᆫ 사ᄅᆞᆷ을 인도ᄒᆞ여 ᄉᆡᆼ방활방을 가르쳐 줄 ᄲᅮᆫ 안이라</sent>
+<sent type="main" lang="kor" page="21" n="10">우리 무리에게도 인ᄌᆞᄒᆞᆷ을 이르고 인졍이 만흐신 셔ᄉᆡᆼ이 형의게 욕을 면치 못ᄒᆞᆯ 거시요</sent>
+<sent type="main" lang="kor" page="21" n="11">ᄯᅩ 겸ᄒᆞ야 부인과 아ᄎᆡ가 잡히여 쥭을 거시니</sent>
+<sent type="main" lang="kor" page="21" n="12">사ᄅᆞᆷ이 셰상의 나셔 남을 살녀쥬지ᄂᆞᆫ 못ᄒᆞ나 남이 살녀쥬려 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="21" n="13">길을 가르쳐 쥭을 곳을 면케 ᄒᆞᆫ 거ᄉᆞᆯ ᄃᆡ강 짐작ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="21" n="14">ᄂᆡ 비록 셔쥰의게 이 말을 ᄒᆞ야 죽을지라도 안이 ᄒᆞ겟노라 ᄒᆞ고 ᄃᆡ답ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="21" n="15">도모지 그런 일이 업ᄉᆞᆸ고 문을 열러 쥰 일이 업노라 ᄒᆞ고 ᄯᅡᆨ 잡어ᄯᅴ여 ᄃᆡ답ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="21" n="16">쥰이 말을 듯고 듼소 ᄯᅱ듯ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="21" n="17">간질ᄒᆞᄂᆞᆫ 사ᄅᆞᆷᄀᆞᆺ치 궤침을 질질 흘니고 좌불안셕터니</sent><!--'질질'의 뒤에 오는 '질'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="18">엇지 ᄉᆡᆼ각ᄒᆞ고 군ᄉᆞ를 다리고 ᄉᆞ면으로 찻더니</sent>
+<sent type="main" lang="kor" page="21" n="19">문득 한 곳을 가니 우물 겻헤 만셕당혜 한 켜레 노혓ᄂᆞᆫᄃᆡ ᄌᆞ셔이 보니 ᄌᆞᄉᆞ의 부인 신이라</sent>
+<sent type="main" lang="kor" page="21" n="21">셔쥰이 보고 ᄃᆡ경ᄒᆞ며 군ᄉᆞ를 명ᄒᆞ야 그 우물을 푸라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="21" n="22">군ᄉᆡ 명을 듯고 어긔지 못ᄒᆞ야 물을 푸니 그 우물이 깁기ᄂᆞᆫ 이십칠 쳑 가량이오</sent>
+<sent type="main" lang="kor" page="21" n="23">물나ᄂᆞᆫ ᄉᆡᆷ은 ᄉᆞ방으로 잇기로 사ᄅᆞᆷ이 푸기 어려온지라</sent>
+<sent type="main" lang="kor" page="21" n="24">셔쥰이 보다가 다 푸지 못ᄒᆞᆯ 쥴 알고 공연이 노를 ᄂᆡ여</sent>
+</pages>
+
+<pages n="22">
+<img n="22">https://kohico.kr/_media/image/간행년도_간략서명_권차/22.jpg</img>
+<sent type="main" lang="kor" page="22" n="1">눈을 몹시 ᄯᅳ고 한탄ᄒᆞ며 군ᄉᆞ만 ᄭᅮ지지며</sent><!--'ᄭᅮ지지며'의 뒤에 오는 '지'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="2">우물가로 도라단이며 ᄋᆡ쓰ᄂᆞᆫ 거동을 봄ᄋᆡ 가히 우습도다</sent>
+<sent type="main" lang="kor" page="22" n="3">셔쥰이 ᄒᆞᆯ 일 업셔 군ᄉᆞ로 함ᄭᅴ 집으로 도라와 ᄎᆞ질 ᄉᆡᆼ각도 안이ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="22" n="4">ᄎᆞ셜 잇ᄯᆡ 부인은 셔쥰의 집에셔 나와 길에셔 아ᄎᆡᄂᆞᆫ 속졀업시 우물에 들어가고</sent>
+<sent type="main" lang="kor" page="22" n="5">나ᄂᆞᆫ 졀에 올나와 여러날 잇셔 보니 </sent>
+<sent type="main" lang="kor" page="22" n="6">승들에 인심이 슌박ᄒᆞ고 겸ᄒᆞ야 공슌ᄒᆞᆷ이 참 도승이러라</sent>
+<sent type="main" lang="kor" page="22" n="7">부인이 어진 ᄒᆡᆼ실노 교훈ᄒᆞ야 가르치며 의복들도 ᄭᅮ미여 쥬엇더니</sent>
+<sent type="main" lang="kor" page="22" n="8">그 후브터 여러 승들이 공슌ᄒᆞ고 부인을 일카르며 칭찬ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="22" n="9">ᄯᅩ 겸ᄒᆞ야 셔로 졍리가 친동긔ᄀᆞᆺ치 녁이더라</sent>
+<sent type="main" lang="kor" page="22" n="10">셰월이 여류ᄒᆞ야 ᄌᆞᄉᆞ로 더부러 황쥬로 ᄯᅥ나올 ᄯᆡ에 잉ᄐᆡᄒᆞᆫ 지 삼삭이이더니 넌짓고 십삭이 되여</sent>
+<sent type="main" lang="kor" page="22" n="11">일일은 부인 잇ᄂᆞᆫ 방에 향ᄂᆡ 진동ᄒᆞ며</sent><!--'일일은'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="12">부인이 졍신이 아득ᄒᆞ고 몸이 곤핍더니</sent>
+<sent type="main" lang="kor" page="22" n="13">문득 옥 ᄀᆞᆺ흔 긔남ᄌᆞ를 ᄉᆡᆼᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="22" n="14">승들이 이거슬 보고 크게 놀나며 의론이 분분ᄒᆞ야</sent><!--'분분ᄒᆞ야'의 뒤에 오는 '분'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="15">우리들은 이 졀에 승이 되야 여러 ᄒᆡ 누취ᄒᆞᆫ 일이 업더니</sent>
+<sent type="main" lang="kor" page="22" n="16">이졔 불길ᄒᆞᆫ 일을 보니 도리혀 붓그럽고</sent>
+<sent type="main" lang="kor" page="22" n="17">후일에 아모라도 이 졀에 오면 승들이 이런 붓그러올 ᄃᆡ가 어ᄃᆡ 잇슬가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="22" n="18">ᄯᅩᄒᆞᆫ 일언 일을 속인이 알고 보면 큰 화를 면치 못ᄒᆞᆯ 거시라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="22" n="19">승들의 공론이 분분ᄒᆞᆫ지라</sent><!--'분분ᄒᆞᆫ지라'의 뒤에 오는 '분'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="20">부인이 비록 아희ᄂᆞᆫ 나핫스나 깃붐은 고ᄉᆞᄒᆞ고 승들이 이갓치 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="22" n="21">도리여 셜상가상이 되여 슯흔 즁 더욱 슯흠을 익이지 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="22" n="22">일쵼 간장이 봄눈 슬듯ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="22" n="23">용뫼 초ᄎᆈᄒᆞ고 골슈의 병이 나셔 병셰 날노 위즁ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="22" n="24">승들이 놀나 화를 볼가 ᄒᆞ야 여러 승들이 약을 쓰며 부쳐ᄭᅴ 불공도 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="22" n="25">ᄆᆞᄋᆞᆷ을 위로도 ᄒᆞ야 텬ᄒᆡᆼ으로 병이 나흔지라</sent>
+<sent type="main" lang="kor" page="22" n="26">여러 승들이 이 연유를 오ᄂᆞᆯᄂᆞᆯᄭᆞ지 몰나 ᄯᅩ 한 번 무러보니</sent><!--'오ᄂᆞᆯᄂᆞᆯᄭᆞ지'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="22" n="27">부인이 조곰도 두리지 아니ᄒᆞ고 지ᄂᆡ든 일을 자셔이 말ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="22-23" n="28">그 즁 늙은 승이 나와 간권ᄒᆞ야 왈</sent><!--나와 ^ 간권ᄒᆞ야-->
+</pages>
+
+<pages n="23">
+<img n="23">https://kohico.kr/_media/image/간행년도_간략서명_권차/23.jpg</img>
+<sent type="main" lang="kor" page="23" n="1">부인에 말ᄉᆞᆷ을 드르니</sent>
+<sent type="main" lang="kor" page="23" n="2">불상ᄒᆞ고 고ᄉᆡᆼ도 만히 ᄒᆞ얏스며</sent><!--'불상ᄒᆞ고 고ᄉᆡᆼ도'의 뒤에 오는 '고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="3">위경을 이ᄀᆞᆺ치 지ᄂᆡ고 목숨을 보젼ᄒᆞ야 이곳에 와 ᄯᅩᄒᆞᆫ 조흔 경ᄉᆞ를 보시니</sent>
+<sent type="main" lang="kor" page="23" n="4">즐거오신 말은 일우 측량치 못ᄒᆞ겟스나</sent>
+<sent type="main" lang="kor" page="23" n="5">경력도 계시고 ᄯᅩᄒᆞᆫ 상인과ᄂᆞᆫ 다르시고 ᄉᆞ부ᄃᆡᆨ 부인이라</sent>
+<sent type="main" lang="kor" page="23" n="6">졀이라 ᄒᆞᄂᆞᆫ 것은 승들이 모혀 몸이 졍결ᄒᆞ야 붓쳐만 셤기ᄂᆞᆫ 쥴은 삼쳑동ᄌᆞ라도 아ᄂᆞᆫ 바이온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="23" n="7">만일 졀의셔 승이 아희를 낫다 ᄒᆞ면 속은 남이 모르고 부졍ᄒᆞᆫ 말이 촌가의 나가면</sent>
+<sent type="main" lang="kor" page="23" n="8">여러 승의 더러온 말을 엇지 면하며 어ᄃᆡ가 발명ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="23" n="9">바라건ᄃᆡ 부인은 ᄆᆞᄋᆞᆷ의 셥셥ᄒᆞ고 ᄋᆡ다르나</sent><!--'셥셥ᄒᆞ고'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="10">아기를 싸셔 길의 두면 응당 ᄌᆞ식 업ᄂᆞᆫ 사ᄅᆞᆷ이 다려갈 거시니</sent>
+<sent type="main" lang="kor" page="23" n="11">셥셥이 마시고 이ᄀᆞᆺ치 ᄒᆞ시면</sent><!--'셥셥이'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="12">소승이 엿보고 ᄋᆡ기를 가져가ᄂᆞᆫ 집을 ᄌᆞ셔이 아라올 거시니</sent>
+<sent type="main" lang="kor" page="23" n="13">그리 아시고 후일 장셩ᄒᆞ거든 ᄎᆞ져 볼 거시니 념려 마시고</sent>
+<sent type="main" lang="kor" page="23" n="14">만일 그러치 못ᄒᆞ시면 아기를 다리고 근쳐에 잇지 말고 멀니 가소셔 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="23" n="15">부인이 승들에 말을 듯고 창황망조ᄒᆞ야 눈물을 흘니며 탄ᄉᆡᆨᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="23" n="16">사ᄅᆞᆷ이 셰상에 나셔 부모게 공경ᄒᆞ고 부부간 ᄒᆡ로ᄒᆞ며</sent><!--'부부간'의 뒤에 오는 '부'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="17">집에 잇셔 빈부간에 남녀를 ᄉᆡᆼᄒᆞ면 사ᄅᆞᆷ 사ᄅᆞᆷ이 다 즐겨ᄒᆞ고</sent><!--'사ᄅᆞᆷ 사ᄅᆞᆷ이'의 뒤에 오는 '사ᄅᆞᆷ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23" n="18">슈명장슈ᄒᆞ야 오ᄅᆡ 살기를 원ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ을 부모들이 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="23" n="19">나ᄂᆞᆫ 엇지ᄒᆞ야 남편을 원통이 일코 ᄯᅩᄒᆞᆫ 아ᄃᆞᆯ을 낫스나 이거슬 귀ᄒᆞᆫ 쥴 모르고</sent>
+<sent type="main" lang="kor" page="23" n="20">일노 ᄒᆞ야 근심과 걱졍이 되니 내 팔ᄌᆞ 이ᄀᆞᆺ치 긔박ᄒᆞᆫ고 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="23" n="21">ᄋᆡ기를 붓들고 무슈이 통곡ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="23" n="22">이졔 간난아희를 안고 젹막ᄒᆞᆫ 산곡 즁에 졍쳐업시 단이다가</sent>
+<sent type="main" lang="kor" page="23" n="23">늙도 점도 아니ᄒᆞᆫ 인ᄉᆡᆼ이 욕보기를 면치 못ᄒᆞᆯ 것이오</sent>
+<sent type="main" lang="kor" page="23" n="24">산즁에 못된 즘승을 맛나면 쥭기를 면치 못ᄒᆞ고 죽기ᄂᆞᆫ 십상이면 팔구라</sent>
+<sent type="main" lang="kor" page="23" n="25">내가 이 아희를 잘 길너 쟝셩ᄒᆞ면 젼후 셔름을 다 바리고 의지ᄒᆞ야 지ᄂᆡᆯ가 ᄒᆞ얏더니</sent>
+<sent type="main" lang="kor" page="23-24" n="26">이졔 노승이 이ᄀᆞᆺ치 말을 ᄒᆞ니 ᄉᆞ리 당연ᄒᆞ고</sent><!--'노승이 이ᄀᆞᆺ치'의 뒤에 오는 '이'는 재점으로 표기되어 있음--><!--노^승이-->
+
+</pages>
+
+<pages n="24">
+<img n="24">https://kohico.kr/_media/image/간행년도_간략서명_권차/24.jpg</img>
+<sent type="main" lang="kor" page="24" n="1">다만 나를 위ᄒᆞ야 이갓치 의견을 ᄂᆡ시니 감격ᄒᆞᆫ 말ᄉᆞᆷ 엇지 ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="24" n="2">노승 말ᄉᆞᆷᄃᆡ로 이것을 바려 길에 두면 누가 거두며 엇던 사ᄅᆞᆷ이 다려다 기르기를 엇지 바라며</sent>
+<sent type="main" lang="kor" page="24" n="3">ᄯᅩᄒᆞᆫ 밤을 자게 되면 바닥이 ᄎᆞ고 우흐로 ᄂᆡᆼ긔가 덥혀 어린 거시 엇지 살기를 발아며</sent>
+<sent type="main" lang="kor" page="24" n="4">ᄯᅩᄒᆞᆫ 험노에 무ᄉᆞᆷ 즘승이 아니 단일가</sent>
+<sent type="main" lang="kor" page="24" n="5">엇던 즘승에 밥이 될ᄂᆞᆫ지 ᄉᆡᆼ각ᄒᆞ면 몸이 소ᄉᆞ치며 금창이 터지ᄂᆞᆫ 듯ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="24" n="6">찰하리 우리 모ᄌᆡ 죽으니만 갓지 못ᄒᆞ다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="24" n="7">죽으려 ᄒᆞ니 승들이 대경ᄒᆞ야 부인의 손을 잡고 말류ᄒᆞ며 위로 왈</sent>
+<sent type="main" lang="kor" page="24" n="8">우리도 사ᄅᆞᆷ이라 인ᄉᆡᆼ을 엇지 귀ᄒᆞᆫ 줄을 모르며</sent>
+<sent type="main" lang="kor" page="24" n="9">ᄋᆡ지즁지ᄒᆞᄂᆞᆫ ᄯᅳᆺ이 업스며 됴흔 일을 모르ᄂᆞᆫ ᄇᆡ 아니엿마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="24" n="10">부인은 ᄉᆡᆼ각지 못ᄒᆞ시고 도리여 승들이 ᄒᆞᄂᆞᆫ 말을 곡ᄒᆞ게 아시니</sent>
+<sent type="main" lang="kor" page="24" n="11">지기일이오 미지기이라</sent>
+<sent type="main" lang="kor" page="24" n="12">엇지 이갓치 ᄉᆡᆼ각ᄒᆞ시ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="24" n="13">부인ᄭᅴ셔도 경셩 ᄉᆞ부ᄃᆡᆨ 부인으로 나라의 명을 밧들어셔 됴흔 벼살노 가시다가</sent>
+<sent type="main" lang="kor" page="24" n="14">운쉬 불ᄒᆡᆼᄒᆞ시와 ᄌᆞᄉᆞᄂᆞᆫ 도젹의게 죽으시고</sent>
+<sent type="main" lang="kor" page="24" n="15">부인은 텬ᄒᆡᆼ으로 도뎍의 욕을 면ᄒᆞ야 이곳에 와 명을 보젼ᄒᆞ셧기로</sent>
+<sent type="main" lang="kor" page="24" n="16">우리 ᄉᆡᆼ각에 어린 ᄋᆞ희ᄂᆞᆫ 밧게 두면 ᄌᆞ식 업ᄂᆞᆫ ᄉᆞᄅᆞᆷ이 다려다가 잘 길너 ᄌᆞ식을 삼을 슈 잇고</sent>
+<sent type="main" lang="kor" page="24" n="17">ᄯᅩᄒᆞᆫ 목슴을 보젼ᄒᆞ야 살면 이후의 혈육을 차질가 ᄒᆞ여 이 ᄀᆞᆺ치 의론ᄒᆞᆫ 것시요</sent>
+<sent type="main" lang="kor" page="24" n="18">만일 부인이 아기를 위ᄒᆞ야 다리고 나갈 것 갓흐면</sent>
+<sent type="main" lang="kor" page="24" n="19">두리 다 목숨을 보젼ᄒᆞ기 어렵기ᄂᆞᆫ 어ᄃᆡ 가 의지ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="24" n="20">어ᄂᆡ 졀의셔 깃버ᄒᆞᆯ 사ᄅᆞᆷ이 업겟기로 쳣ᄌᆡ 부인을 위ᄒᆞ야 이ᄀᆞᆺ치 ᄒᆞᆫ 일이오니</sent>
+<sent type="main" lang="kor" page="24" n="21">부인은 조곰도 셥셥히 ᄉᆡᆼ각 마시고 승의 말을 깁히 ᄉᆡᆼ각ᄒᆞ소셔</sent><!--'셥셥히'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="22">승들이 부인을 구졔코져 이리 ᄒᆞ오니 그리 아시고</sent>
+<sent type="main" lang="kor" page="24" n="23">만일 부인이 아기를 바리시지 안이ᄒᆞ실지라도 승들이 거두어 길에 ᄀᆞᆺ다가 두어</sent>
+<sent type="main" lang="kor" page="24-25" n="24">어ᄃᆡ로 가ᄂᆞᆫ 거ᄉᆞᆯ 승들이 은신ᄒᆞ고 직희여</sent><!--은신^ᄒᆞ고-->
+</pages>
+
+<pages n="25">
+<img n="25">https://kohico.kr/_media/image/간행년도_간략서명_권차/25.jpg</img>
+<sent type="main" lang="kor" page="25" n="1">어ᄂᆡ 집으로 가ᄂᆞᆫ 거슬 ᄌᆞ셔이 알어다가 부인을 평안케 ᄒᆞ려 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="25" n="2">부인은 깁히 ᄉᆡᆼ각ᄒᆞ소셔 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="25" n="3">부인이 이 말을 듯고 할일 업셔 아기를 안고 슬피 울며 팔ᄌᆞ를 ᄉᆡᆼ각ᄒᆞ고 더욱 ᄋᆡ통ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="25" n="4">아기를 싸셔 바리려 ᄒᆞᆫ들 ᄒᆡᆼ즁에 피륙이 업고</sent>
+<sent type="main" lang="kor" page="25" n="5">다만 시모게셔 셔로 리별ᄒᆞᆯ ᄯᆡ에 쥬시던 깁젹삼ᄲᅮᆫ이라</sent>
+<sent type="main" lang="kor" page="25" n="6">나삼을 펼쳐 놋코 아기를 싸고 소ᄆᆡ 속에 봉ᄎᆡ와 아희의 ᄉᆡᆼ월ᄉᆡᆼ시 ᄉᆞ쥬를 써</sent>
+<sent type="main" lang="kor" page="25" n="7">한듸 싸고 승을 쥬어 보ᄂᆡᆯ ᄯᆡ에 앙텬통곡ᄒᆞ며 승다려 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="25" n="8">션ᄉᆞᄂᆞᆫ 나를 위ᄒᆞ야 이ᄀᆞᆺ치 ᄒᆞ니 더 ᄒᆞᆯ 말이 업스나</sent>
+<sent type="main" lang="kor" page="25" n="9">이 아희 다려가ᄂᆞᆫ 곳을 자셔이 알어쥬면 이런 고마올 ᄃᆡ 없고</sent>
+<sent type="main" lang="kor" page="25" n="10">ᄯᅩ ᄂᆡ 마음이 잠시라도 편할 터이니 부ᄃᆡ 가셔 이 일을 알어 오기 ᄇᆞ라노라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="25" n="11">아기를 만지며 슯허ᄒᆞ며 긔졀ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="25" n="12">승들이 부인을 위로ᄒᆞ고 아희를 안고 졀문을 나셔 길노 가ᄆᆡ</sent>
+<sent type="main" lang="kor" page="25" n="13">부인이 아희 가ᄂᆞᆫ 곳을 알녀 ᄒᆞ고 승을 죳ᄎᆞ 나가니</sent>
+<sent type="main" lang="kor" page="25" n="14">눈물이 압흘 가리워 아모뎬 줄 모를네라</sent>
+<sent type="main" lang="kor" page="25" n="15">부인이 ᄒᆞᆯ 일 업셔 졀노 드러올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="25" n="16">마ᄋᆞᆷ의 비창ᄒᆞᆷ이 학ᄉᆞ를 이별ᄒᆞᆯ ᄯᆡ나 다름이 업고 무궁ᄒᆞᆫ 근심이 비ᄒᆞᆯ ᄯᆡ 업더라</sent>
+<sent type="main" lang="kor" page="25" n="17">여러 승들이 아희를 다리고 눈치잇게 산즁에 목동들 단이ᄂᆞᆫ 길을 차져 두엇더니</sent>
+<sent type="main" lang="kor" page="25" n="18">맛ᄎᆞᆷ 초부 지나거ᄂᆞᆯ 승들이 ᄉᆞᆯ펴보니</sent>
+<sent type="main" lang="kor" page="25" n="19">초부 아희를 보고 놀나며 불상이 너겨 즉시 아희를 집어 품에 두고</sent>
+<sent type="main" lang="kor" page="25" n="20">초부 혼자 말노</sent>
+<sent type="main" lang="kor" page="25" n="21">이 ᄋᆞ희ᄂᆞᆫ 뉘 집에셔 ᄂᆡ여다가 바렷ᄂᆞᆫ지 알 슈 업거니와</sent>
+<sent type="main" lang="kor" page="25" n="22">이 아희의 얼골을 보니 이후의 텬하를 호령ᄒᆞ고 만ᄇᆡᆨ셩을 다ᄉᆞ리며 친만신하를 붓들 권셰가 잇스니 짐짓 긔남ᄌᆞ요</sent>
+<sent type="main" lang="kor" page="25" n="23">ᄯᅩᄒᆞᆫ 용ᄆᆡᆼ이 은은ᄒᆞ거ᄂᆞᆯ</sent><!--'은은ᄒᆞ거ᄂᆞᆯ'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="24">ᄂᆡ 이졔 집 쥬인이 아달이 업셔 근심ᄒᆞᆷ을 보앗스니</sent>
+<sent type="main" lang="kor" page="25" n="25">내 이졔 이 아희를 다리고 가셔 이런 말을 ᄒᆞ야 잘 기르라 권ᄒᆞ야 기르면 좃코</sent>
+<sent type="main" lang="kor" page="25" n="26">그러치 못ᄒᆞ면 ᄂᆡ가 어렵지마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="25-26" n="27">다른 사ᄅᆞᆷ을 구ᄒᆞ여 줄지라도 인명이 불상ᄒᆞ야 보고 엇지 도라가리요 ᄒᆞ며</sent><!--사^ᄅᆞᆷ을-->
+</pages>
+
+<pages n="26">
+<img n="26">https://kohico.kr/_media/image/간행년도_간략서명_권차/26.jpg</img>
+<sent type="main" lang="kor" page="26" n="1">아기를 안고 가ᄂᆞᆫ 거슬 승들이 보니 황텬탑으로 드러가ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="26" n="2">이것ᄉᆞᆯ 보고 승들이 도라와 부인ᄭᅴ 여러가지 일을 자셔이 말ᄒᆞ얏더니</sent>
+<sent type="main" lang="kor" page="26" n="3">부인이 이 말을 듯고 대경ᄒᆞ며 말ᄒᆞ기를</sent><!--'부인이 이'의 뒤에 오는 '이'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="4">내 드르니 셔쥰이란 놈이 산다 ᄒᆞᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="26" n="5">만일 초부가 그 집 ᄉᆞᄅᆞᆷ ᄀᆞᆺ흐면 원슈ᄂᆞᆫ 외나무 다리에 만난다 ᄒᆞᆷ과 ᄀᆞᆺ치</sent>
+<sent type="main" lang="kor" page="26" n="6">이와 ᄀᆞᆺ흘 것 ᄀᆞᆺ흐면 이 일을 엇지ᄒᆞ나 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="26" n="7">더욱 두려ᄒᆞ며 좌불안셕ᄒᆞ며 승을 보고 눈물을 흘리ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="26" n="8">ᄎᆞ셜 잇ᄯᆡ 승들이 이 말을 듯고 이상이 넉여 왈</sent>
+<sent type="main" lang="kor" page="26" n="9">아희를 길에 ᄇᆞ려 엇던 사ᄅᆞᆷ이던지 다려간 거살 이ᄃᆡ지 ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="26" n="10">ᄯᅩᄒᆞᆫ 황텬탑 ᄂᆡ에ᄂᆞᆫ 엇지 셔쥰 ᄲᅮᆫ이리오</sent>
+<sent type="main" lang="kor" page="26" n="11">여러 사ᄅᆞᆷ이 사ᄂᆞᆫ 터이에 엇지 이ᄀᆞᆺ치 ᄉᆡᆼ각ᄒᆞ시고 근심ᄒᆞ시ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="26" n="12">그러나 이 말이 ᄎᆞᄎᆞ 누셜되면 이 졀이 장ᄎᆞ 화도 잇슬 거시요</sent><!--'ᄎᆞᄎᆞ'의 뒤에 오는 'ᄎᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="13">황텬탑의 잇ᄂᆞᆫ 셔쥰이 알고 보면 부인이 욕볼가 더욱 두려오니</sent>
+<sent type="main" lang="kor" page="26" n="14">부인은 이곳을 ᄯᅥ나 ᄇᆡ위암이란 졀이 잇스되 ᄉᆞ람들이 아즉 모르ᄂᆞᆫ 곳이요</sent>
+<sent type="main" lang="kor" page="26" n="15">그 졀 즁은 셔쳔 셔역국 부쳐와 방불이 되엿스니 그 졀에 가 계시면</sent>
+<sent type="main" lang="kor" page="26" n="16">죽을 일이라도 족히 면ᄒᆞᆯ 거시니 부인은 그 졀노 가소셔 ᄒᆞ고 간청ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="26" n="17">부인이 이 말을 듯고 ᄒᆡᆼ장을 슈습ᄒᆞ고 ᄯᅥᄂᆞᆯᄉᆡ 승들이 부인을 다리고 ᄇᆡ위암으로 올나가니</sent>
+<sent type="main" lang="kor" page="26" n="18">길은 옥으로 모은 듯ᄒᆞ고 좌우 산슈ᄂᆞᆫ 신긔ᄒᆞ고 향긔로온 초목은 참쳔ᄒᆞ여 진실노 별유텬디 비인간이라</sent>
+<sent type="main" lang="kor" page="26" n="19">졀을 ᄎᆞ져 ᄎᆞᄎᆞ 올나가니</sent><!--'ᄎᆞᄎᆞ'의 뒤에 오는 'ᄎᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="20">누각은 총총ᄒᆞ고</sent><!--'총총ᄒᆞ고'의 뒤에 오는 '총'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="21">풍경소ᄅᆡᄂᆞᆫ 졍졍ᄒᆞ야 산간에 어리엿고</sent><!--'졍졍ᄒᆞ야'의 뒤에 오는 '졍'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="22">화초ᄂᆞᆫ 작작ᄒᆞ야 장녀ᄒᆞᆫ 거동이 오히려 션경 ᄀᆞᆺ고</sent><!--'작작ᄒᆞ야'의 뒤에 오는 '작'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="26" n="23">승을 보니 다 신션 ᄀᆞᆺ흐며 셰상 일은 젹연히 모르더라</sent>
+<sent type="main" lang="kor" page="26-27" n="24">승들이 부인 옴을 보고 나와 ᄇᆡ례ᄒᆞ여 왈</sent><!--ᄇᆡ례ᄒᆞ^여-->
+</pages>
+
+<pages n="27">
+<img n="27">https://kohico.kr/_media/image/간행년도_간략서명_권차/27.jpg</img>
+<sent type="main" lang="kor" page="27" n="1">부인은 어ᄃᆡ 계시건ᄃᆡ 이 산고곡심ᄒᆞᆫ 험한 길에 엇지ᄒᆞ야 이ᄀᆞᆺ치 졀을 차져 오시ᄂᆞ잇가 ᄒᆞ면서</sent>
+<sent type="main" lang="kor" page="27" n="2">공슌이 영졉ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="27" n="3">부인이 가장 깃버ᄒᆞ며 삼가 말ᄒᆞ야 그 슈ᄉᆡᆨ을 뵈지 안이ᄒᆞ고 공슌이 답왈</sent>
+<sent type="main" lang="kor" page="27" n="4">나ᄂᆞᆫ 졍쳐업시 단이ᄂᆞᆫ 무가ᄀᆡᆨ으로 길을 가다가 길을 일코</sent>
+<sent type="main" lang="kor" page="27" n="5">ᄎᆞ졈ᄎᆞ졈 이곳ᄭᆞ지 드러왓더니</sent><!--'ᄎᆞ졈ᄎᆞ졈'의 뒤에 오는 'ᄎᆞ졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="6">사람 살 곳은 골골마다 잇다 ᄒᆞᆷ과 ᄀᆞᆺ치 이ᄀᆞᆺ치 됴흔 대찰과</sent><!--'골골마다'의 뒤에 오는 '골골'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="7">ᄯᅩᄒᆞᆫ 여러분 도승들이 이ᄀᆞᆺ치 쳔한 ᄉᆞ람을 더럽다 안이ᄒᆞ시고 영졉ᄭᆞ지 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="27" n="8">ᄆᆞᄋᆞᆷ의 깃브오며 감격ᄒᆞᆫ 말을 엇지 다 ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="27" n="9">바라건대 노승은 이 ᄀᆞᆺ흔 ᄉᆞ람을 불상이 보ᄉᆞ</sent>
+<sent type="main" lang="kor" page="27" n="10">갈 바를 아지 못ᄒᆞ고 졍쳐읍시 단니ᄂᆞᆫ 사람을 구ᄒᆞ소셔</sent>
+<sent type="main" lang="kor" page="27" n="11">지금 가려ᄒᆞ오나 험ᄒᆞᆫ 길에 여러ᄂᆞᆯ 고ᄉᆡᆼ을 ᄒᆞ고 몸도 곤핍ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="27" n="12">ᄯᅩ 겸ᄒᆞ야 발병이 나셔 말이 안이오니</sent>
+<sent type="main" lang="kor" page="27" n="13">이 졀의셔 몃칠 류ᄒᆞ야 감이 엇더ᄒᆞ올ᄂᆞᆫ지 허락ᄒᆞ시면 감격ᄒᆞ겟ᄂᆞ이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="27" n="14">승들이 듯고 노소 업시 허락ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="27" n="15">부인이 허락ᄒᆞᆷ을 듯고 ᄆᆞᄋᆞᆷ이 젹이 다ᄒᆡᆼᄒᆞ야</sent>
+<sent type="main" lang="kor" page="27" n="16">여러 ᄂᆞᆯ 승들과 ᄀᆞᆺ치 동식 동슉 동거ᄒᆞ여 ᄌᆡ조를 비교ᄒᆞ야 보니</sent>
+<sent type="main" lang="kor" page="27" n="17">비록 승들이 ᄌᆡ조가 만흐나 부인게ᄂᆞᆫ 밋치지 못ᄒᆞᆷ으로</sent>
+<sent type="main" lang="kor" page="27" n="18">즁에 션ᄉᆡᆼ이 되여 여러 가지를 ᄀᆞ라쳐 쥬니</sent><!--'되여 여러'의 뒤에 오는 '여'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="19">즁들이 ᄌᆡ조 만흔지라 잘 ᄇᆡ호고 셔로 ᄉᆞ랑ᄒᆞ야 잘 지ᄂᆡᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="27" n="20">여러ᄂᆞᆯ 잇셔 보니 한젹ᄒᆞ고 승들이 ᄒᆡᆼ위가 유화ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="27" n="21">신긔ᄒᆞᆫ 음식과 ᄆᆞᆰ은 향취와 됴흔 공긔ᄂᆞᆫ ᄉᆞ람의 음식을 잘 소화ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="27" n="22">병이 업게 ᄒᆞ나 쥬야로 슯흠이 관역의 살촉 박이듯이 슯흠이 잠겨스니</sent>
+<sent type="main" lang="kor" page="27" n="23">젹젹한 공산에 울고가ᄂᆞᆫ 저 두견의 소ᄅᆡ와</sent><!--'젹젹한'의 뒤에 오는 '젹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="24">젹막ᄒᆞᆫ 산슈의 은은ᄒᆞᆫ 풍경소ᄅᆡᄂᆞᆫ ᄉᆞ람의 슈심을 돕고 회포ᄅᆞᆯ 졍치 못ᄒᆞ고</sent><!--'은은ᄒᆞᆫ'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="25">낫이면 월누의 올나 셔산의 지ᄂᆞᆫ ᄒᆡᄅᆞᆯ 구경ᄒᆞ고 동령의 돗ᄂᆞᆫ 달을 창연이 바라보며</sent>
+<sent type="main" lang="kor" page="27-28" n="36">슯흐다 우리 낭군의 일월 ᄀᆞᆺ흔 얼골이 ᄒᆡᄀᆞᆺ치 물에 ᄯᅥ러져 속졀업시 되엿스니</sent><!--ᄯᅥ^러져-->
+</pages>
+
+<pages n="28">
+<img n="28">https://kohico.kr/_media/image/간행년도_간략서명_권차/28.jpg</img>
+<sent type="main" lang="kor" page="28" n="1">우리 ᄌᆞᄉᆞᄂᆞᆫ 언졔나 만나볼가</sent>
+<sent type="main" lang="kor" page="28" n="2">일월도 한 번 가면 ᄯᅩ 볼 수 잇건만ᄂᆞᆫ 우리 낭군은 한 번 드러간 후 도라나올 줄 웨 모르ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="28" n="3">이 ᄂᆡ 몸은 속졀업시 되엿도다</sent>
+<sent type="main" lang="kor" page="28" n="4">텬디간의 금슈와 초목들도 자웅과 쌍이 잇고 금슈 곤츙 미물도 유즁에 자웅이 잇거든</sent>
+<sent type="main" lang="kor" page="28" n="5">쓸ᄃᆡ업ᄂᆞᆫ 이 몸은 독슈공방 홀노 되엿스니 살어셔 쓸ᄃᆡ업고</sent>
+<sent type="main" lang="kor" page="28" n="6">슬하의 ᄌᆞ식 하ᄂᆞ 길에 바린 것을 ᄉᆡᆼ각ᄒᆞ고 울다가</sent>
+<sent type="main" lang="kor" page="28" n="7">눈물을 거두고 방의 드러와 승들노 ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="28" n="8">소담한 말노 소일ᄒᆞ며 침소에 드러가 단침을 의지ᄒᆞ고 누엇더니</sent>
+<sent type="main" lang="kor" page="28" n="9">어지러온 버레지ᄂᆞᆫ ᄉᆞ야의 울어 ᄉᆞ람의 근심을 돕ᄂᆞᆫ 듯ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="28" n="10">조희창은 바람이 부러 ᄶᅵ여질 듯한데 </sent>
+<sent type="main" lang="kor" page="28" n="11">잠간 조을자 ᄒᆞ니 이불이 알고 찬 긔운이 쓸쓸ᄒᆞ니</sent><!--'쓸쓸ᄒᆞ니'의 뒤에 오는 '쓸'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="12">어ᄂᆡ ᄯᆡ나 ᄯᅳᆺᄯᅳᆺᄒᆞᆯ고 ᄒᆞ며</sent><!--'ᄯᅳᆺᄯᅳᆺ'의 뒤에 오는 'ᄯᅳᆺ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="13">한슘을 쉬며 탄식ᄒᆞ고 잠을 일우지 못ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="28" n="14">이 젹의 셔쥰의 집 종이 나무ᄅᆞᆯ ᄀᆞᆺ다가 길의셔 바린 아희ᄅᆞᆯ 보니</sent>
+<sent type="main" lang="kor" page="28" n="15">불상ᄒᆞ야 다려왓스ᄂᆞ 젼붓터 드른 ᄇᆡ라</sent>
+<sent type="main" lang="kor" page="28" n="16">쥬인ᄭᅴ셔 슬하의 일졈 혈육이 업셔 항상 근심ᄒᆞ시기로</sent>
+<sent type="main" lang="kor" page="28" n="17">문득 ᄉᆡᆼ각ᄒᆞ고 다려 왓ᄉᆞ오니 ᄯᅳᆺ의 엇더ᄒᆞ온잇가</sent>
+<sent type="main" lang="kor" page="28" n="18">셔쥰이 이 말을 돗고 긔특이 넉여 일변 깃버ᄒᆞ며 다려온 아희ᄅᆞᆯ 보니</sent>
+<sent type="main" lang="kor" page="28" n="19">옥 ᄀᆞᆺ흔 얼골에 아름다옴이 잇고</sent>
+<sent type="main" lang="kor" page="28" n="20">눈셥ᄉᆞ이에 은은한 ᄌᆡ조 무쌍ᄒᆞ거ᄂᆞᆯ</sent><!--'은은한'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="21">ᄆᆞᄋᆞᆷ에 대희ᄒᆞ야 아ᄃᆞᆯ을 삼으려 ᄒᆞ고 군즁에 령을 ᄂᆡ려 오날 아ᄃᆞᆯ 읏은 거살 말ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="28" n="22">만일 이 아희 자란 후라도 이 말을 누셜치 말ᄂᆞ ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="28" n="23">그날붓터 ᄉᆞ랑ᄒᆞ며 금지옥엽ᄀᆞᆺ치 ᄒᆞ고 항상 ᄆᆞᄋᆞᆷ의 깃버ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="28" n="24">이ᄯᆡ 부인이 아기ᄅᆞᆯ 셔가가 다려다가 기르ᄂᆞᆫ 줄 모르고</sent><!--'셔가가'의 뒤에 오는 '가'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28" n="25">셔가도 역시 부인의 아ᄃᆞᆯ인 줄 모르고 아ᄃᆞᆯ을 삼엇더라</sent>
+<sent type="main" lang="kor" page="28-29" n="26">부인이 ᄇᆡ위암의 잇셔 몸은 편ᄒᆞᄂᆞ ᄆᆞᄋᆞᆷ은 항상 어지럽고 살ᄂᆞᆫᄒᆞᆷ을 층량치 못ᄒᆞᆯ 즈음의</sent><!--ᄒᆞᆷ^을-->
+</pages>
+
+<pages n="29">
+<img n="29">https://kohico.kr/_media/image/간행년도_간략서명_권차/29.jpg</img>
+<sent type="main" lang="kor" page="29" n="1">셰월은 여류ᄒᆞ야 ᄌᆞᄉᆞ 죽은 날이 왓ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="29" n="2">부인이 망극ᄒᆞ고 슯흔 ᄆᆞᄋᆞᆷ을 비ᄒᆞᆯ ᄯᆡ 업고</sent>
+<sent type="main" lang="kor" page="29" n="3">ᄯᅩ한 밥 한그릇이라도 헐 수 업스니 금창이 터지ᄂᆞᆫ 듯ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="29" n="4">노승다려 왈</sent>
+<sent type="main" lang="kor" page="29" n="5">내가 이 졀에 온 지ᄂᆞᆫ 얼마 되지 못ᄒᆞ엿스ᄂᆞ 여러 존ᄉᆞ들이 ᄂᆞᄅᆞᆯ 보호ᄒᆞ고 도아쥬어</sent>
+<sent type="main" lang="kor" page="29" n="6">오ᄂᆞᆯᄂᆞᆯᄭᆞ지 지ᄂᆡ옵ᄂᆞᆫᄃᆡ 금일을 당ᄒᆞ야</sent><!--'오ᄂᆞᆯᄂᆞᆯᄭᆞ지'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="7">슯흔 ᄆᆞᄋᆞᆷ이 잇셔 노승을 보고 말ᄒᆞ고져 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="29" n="8">본ᄅᆡ 졀강 ᄯᅡ에 ᄉᆞ더니 젼 소 승상의 ᄌᆞ부 되여 승상에 ᄉᆞ랑이 후ᄒᆞᄉᆞ 잘 지ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="29" n="9">남편이 ᄂᆞ라의 몸을 밧쳐 츙심을 다ᄒᆞ옵더니</sent>
+<sent type="main" lang="kor" page="29" n="10">텬ᄌᆞ 어엿비 넉이ᄉᆞ 한림학ᄉᆞ 겸 황쥬ᄌᆞᄉᆞᄅᆞᆯ 졔수ᄒᆞ심으로 거역지 못ᄒᆞ야 노친부모ᄅᆞᆯ 이별ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="29" n="11">황쥬 물가에 다다러 ᄇᆡᄅᆞᆯ 타고 건너려 ᄒᆞᆯ ᄯᆡ에</sent><!--'다다러'의 뒤에 오는 '러'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="12">도뎍을 맛ᄂᆞ 자ᄉᆞᄂᆞᆫ 물에 쥭은 ᄇᆡ 되고 다리고 가든 하솔들도 다 쥭이고</sent>
+<sent type="main" lang="kor" page="29" n="13">ᄂᆞᄂᆞᆫ 도뎍의게 잡히여 욕을 보게 되엿더니</sent>
+<sent type="main" lang="kor" page="29" n="14">하ᄂᆞᆯ이 도으ᄉᆞ 도뎍의 아오가 그 형상을 보고 가긍이 넉여 살니고져 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="29" n="15">그 형을 슐을 취ᄒᆞ게 ᄒᆞ고 여러가지 말노 칭찬ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="29" n="16">도뎍이 듯기에 즐겨ᄒᆞ고 ᄎᆞᆷ으로 ᄒᆞᄂᆞᆫ 말인 줄 알고 하ᄂᆞᆫ 말을 고지 듯고 됴하ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="29" n="17">올 ᄯᆡ에 슐이 취ᄒᆞ야 잘ᄉᆡ</sent>
+<sent type="main" lang="kor" page="29" n="18">동ᄉᆡᆼ니 날과 아ᄎᆡᄅᆞᆯ 인도ᄒᆞ야 문을 ᄂᆞ게 ᄒᆞ야 쥬기로 갈 바ᄅᆞᆯ 아지 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="29" n="19">아ᄎᆡ에 손을 붓잡고 통곡ᄒᆞ다가 문득 ᄉᆡᆼ각ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="29" n="20">도뎍이 우리ᄅᆞᆯ 도쥬한 줄 알면 불원쳔리ᄒᆞ고 올 터이니 이곳에셔 지쳬말고 길을 밧비 가자 ᄒᆞ고 갈 ᄉᆡ</sent>
+<sent type="main" lang="kor" page="29" n="21">길에 우물이 잇거ᄂᆞᆯ 아ᄎᆡᄂᆞᆫ 우물에 죽은 ᄇᆡ 되고</sent>
+<sent type="main" lang="kor" page="29" n="22">이ᄂᆡ 뭄은 목슴이 즁ᄒᆞ야 죽기를 무릅쓰고 지향업시 산즁 험한 길노 쥭기ᄅᆞᆯ 다ᄒᆞ야 ᄒᆡᆼᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="29" n="23">한 곳을 바라보니 큰 누각이 보이거ᄂᆞᆯ ᄆᆞᄋᆞᆷ에 다ᄒᆡᆼᄒᆞ야</sent>
+<sent type="main" lang="kor" page="29" n="24">ᄎᆞ졈ᄎᆞ졈 올ᄂᆞ가니 녀승들이 ᄂᆞ와 맛거ᄂᆞᆯ 드러가 승들과 지ᄂᆡ더니</sent><!--'ᄎᆞ졈ᄎᆞ졈'의 뒤에 오는 'ᄎᆞ졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29-30" n="25">이ᄯᆡ 잉ᄐᆡ한 지 십삭이 되야 아기ᄅᆞᆯ ᄂᆞ흐니 남ᄌᆡ라</sent><!--남ᄌᆡ^라-->
+</pages>
+
+<pages n="30">
+<img n="30">https://kohico.kr/_media/image/간행년도_간략서명_권차/30.jpg</img>
+<sent type="main" lang="kor" page="30" n="1">승들이 이거슬 보고 놀ᄂᆞ며</sent><!--'승들이 이거슬'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="2">졀의 누명이 잇슬가 ᄒᆞ야 아기를 ᄂᆡ여 바리고</sent>
+<sent type="main" lang="kor" page="30" n="3">부인은 이 졀의 잇지 말고 ᄇᆡ위암이라 ᄒᆞᄂᆞᆫ 곳으로 가소셔 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="4">인도ᄒᆞ기로 이곳에 와 잇슨 지 몃 ᄂᆞᆯ이 못되야</sent>
+<sent type="main" lang="kor" page="30" n="5">우리 ᄌᆞᄉᆞ의 소긔가 도라오니 엇지 슯흐지 안이ᄒᆞ릿가 ᄒᆞ고 탄식ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="30" n="6">승들이 부인 경상을 보고 잔잉이 녁여 즉시 됴흔 슐과 음식으로 ᄒᆞ야곰</sent>
+<sent type="main" lang="kor" page="30" n="7">이 ᄂᆞᆯ 밤의 졍셩으로 지ᄂᆡ여 부인의 ᄆᆞᄋᆞᆷ을 위로ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="30" n="8">부인이 이거슬 보고 감격ᄒᆞᆷ을 칭량치 못ᄒᆞ고 ᄌᆞ긔 신셰ᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="30" n="9">슯히 울다가 긔운이 진ᄒᆞ야 홀연이 잠이 드니</sent>
+<sent type="main" lang="kor" page="30" n="10">학ᄉᆞ 홀연이 드러와 부인을 보고 눈물을 흘니며 일너 ᄀᆞ라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="30" n="11">부인을 이별한 후 ᄂᆞᄂᆞᆫ 하ᄂᆞᆯ이 도으ᄉᆞ 물에 흘너셔 가더니</sent>
+<sent type="main" lang="kor" page="30" n="12">맛ᄎᆞᆷ 션인이 ᄂᆞ를 구ᄒᆞ야 내몸은 잘 잇스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="30" n="13">우리 셔로 상봉ᄒᆞᆯ 긔약이 밋치지 못ᄒᆞ야 셔로 만ᄂᆞ기를 원ᄒᆞ고 쥬야 츅슈ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="30" n="14">장ᄎᆞ 만ᄂᆞᆯ ᄂᆞᆯ이 잇슬 거시니</sent><!--'만ᄂᆞᆯ ᄂᆞᆯ이'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="15">부인은 속졀업시 셜허 말고 이 졀에 잇스면</sent>
+<sent type="main" lang="kor" page="30" n="16">얼마 후에 셔로 상봉ᄒᆞ여 그리고 못 잇던 회포ᄅᆞᆯ 다 풀고</sent>
+<sent type="main" lang="kor" page="30" n="17">고향으로 도라가 부모ᄅᆞᆯ 다시 만ᄂᆞ 볼 터이니</sent>
+<sent type="main" lang="kor" page="30" n="18">슯흔 ᄆᆞᄋᆞᆷ을 ᄉᆡᆼ각지 말고 잘 잇스라 ᄒᆞ고 문을 열고 ᄂᆞ아가며 눈물을 흘니거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="30" n="19">부인이 일구월심에 원ᄒᆞ기ᄂᆞᆫ 학ᄉᆞᄅᆞᆯ 한 번 보기ᄅᆞᆯ 원ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="30" n="20">물에 고혼된 학ᄉᆞᄅᆞᆯ 엇지 만ᄂᆞ기ᄅᆞᆯ 바라며 엇지 ᄯᅳᆺᄒᆞᆯ가 ᄒᆞᆯ 즈음에</sent>
+<sent type="main" lang="kor" page="30" n="21">쳔만의외에 학ᄉᆞᄅᆞᆯ 만ᄂᆞ 젼후 말을 듯고 즐겨ᄒᆞᄂᆞᆫ ᄆᆞᄋᆞᆷ으로 듯더니</sent>
+<sent type="main" lang="kor" page="30" n="22">홀연 ᄂᆞ가거ᄂᆞᆯ 부인이 소ᄆᆡ를 붓들고 급히 감을 무르려 한 즉 발셔 간 ᄃᆡ 업ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="30" n="23">부인이 놀ᄂᆞ ᄭᆡᄃᆞ르니 ᄌᆞᄉᆞ의 소상졔 지ᄂᆡᄂᆞᆫ 상 압히거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="30" n="24">상의 촉불은 휘황한ᄃᆡ ᄉᆞ면을 둘너보니 인젹이 고요ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="30" n="25">승들이 각각 방에 도라가 자ᄂᆞᆫ지라</sent><!--'각각'의 뒤에 오는 '각'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="26">부인이 고히 넉여 이거시 자취가 업스니 남가일몽이로다</sent>
+<sent type="main" lang="kor" page="30-31" n="27">마ᄋᆞᆷ이 살ᄂᆞᆫᄒᆞ야 더욱 망극지통을 엇지 금ᄒᆞ리요</sent><!--망극지^통을-->
+</pages>
+
+<pages n="31">
+<img n="31">https://kohico.kr/_media/image/간행년도_간략서명_권차/31.jpg</img>
+<sent type="main" lang="kor" page="31" n="1">부인이 마ᄋᆞᆷ을 진졍ᄒᆞ고 여러ᄂᆞᆯ을 지ᄂᆡ더니 한탄ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="31" n="2">ᄌᆞᄉᆞᄅᆞᆯ 만ᄂᆞ보고 고락간의 자미잇게 말 한마듸 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="31" n="3">셥셥기도 칭량업고 이별ᄒᆞᆷ도 긔지업도다</sent><!--'셥셥기도'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="4">쥭으려 ᄆᆡᆼ셰ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="31" n="5">금일 당ᄒᆞ야 ᄌᆞᄉᆞ에 말이 귀에 ᄌᆡᆼᄌᆡᆼᄒᆞ고</sent><!--ᄌᆡᆼᄌᆡᆼᄒᆞ고-''의 뒤에 오는 'ᄌᆡᆼ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="6">눈에 암암ᄒᆞ며 내 마ᄋᆞᆷ을 위로ᄒᆞ야 여러가지로 ᄂᆞᄅᆞᆯ 이 ᄀᆞᆺ치 위로ᄒᆞᄂᆞᆫ 거시 도시 헛된 일이요</sent>
+<sent type="main" lang="kor" page="31" n="7">ᄯᅩ한 ᄭᅮᆷ이 비록 허사로다</sent>
+<sent type="main" lang="kor" page="31" n="8">쥭으려 ᄆᆡᆼ셰ᄒᆞᆷ을 푸러바리고 슈심으로 일을 삼고</sent>
+<sent type="main" lang="kor" page="31" n="9">별누에 올ᄂᆞ가 벗을 삼아 츄월츈풍 지ᄂᆡ노니 셰월은 유슈ᄀᆞᆺ치 학ᄉᆞ로 이별한 지 십 년이라</sent>
+<sent type="main" lang="kor" page="31" n="10">각셜 이ᄯᆡ 졍부인은 졀강의 잇셔 아ᄃᆞᆯ과 며ᄂᆞ리를 만리타ᄒᆡᆼ에 보ᄂᆡᆫ 후로</sent>
+<sent type="main" lang="kor" page="31" n="11">여러 ᄒᆡ 소식이 업셔 쥬야로 근심과 념녜로 거ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="31" n="12">일일은 황쥬 ᄇᆡᆨ셩이 텬ᄌᆞᄭᅴ 장계가 올ᄂᆞ왓스되</sent>
+<sent type="main" lang="kor" page="31" n="13">텬ᄌᆞᄭᅴ셔 황쥬 ᄇᆡᆨ셩을 ᄉᆞ랑ᄒᆞ옵셔 ᄌᆞᄉᆞᄅᆞᆯ 보ᄂᆡ셧다 ᄒᆞ옵ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="31" n="14">ᄇᆡᆨ셩들이 오날날ᄭᆞ지 ᄌᆞᄉᆞ의 죵젹을 탐지ᄒᆞ와도 아지 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="31" n="15">ᄯᅩ한 황쥬골노 말ᄒᆞ오면 ᄇᆡᆨ셩들이 도탄중에 잇ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="31" n="16">바라건ᄃᆡ 다른 ᄌᆞᄉᆞᄅᆞᆯ 보ᄂᆡ 쥬심을 원ᄒᆞᄂᆞ이다 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="31" n="17">텬ᄌᆞㅣ 밧어 보시고 대경ᄒᆞ야 ᄌᆞᄉᆞ의 본집으로 긔별ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="31" n="18">졍부인이 이 소식을 드르시고 대경 질ᄉᆡᆨᄒᆞ시며 ᄌᆞᄉᆞ를 이별한 지 여러 ᄒᆡ에 소식이 돈졀ᄒᆞ기에</sent>
+<sent type="main" lang="kor" page="31" n="19">의심이 잇셔 쥬야에 근심과 걱졍이 되더니</sent>
+<sent type="main" lang="kor" page="31" n="20">오ᄂᆞᆯ 이런 말을 드르니 망극ᄒᆞ며 쥬야로 걱졍ᄒᆞ며 ᄋᆡ통ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="31" n="21">잇ᄯᆡ 부인이 불연듯이 학ᄉᆞ를 마ᄋᆞᆷ의 보고 십허 학ᄉᆞ 잇든 방에 드러가 쓰든 그릇을 만지며 통곡ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="31" n="22">보ᄂᆞᆫ 사ᄅᆞᆷ 뉘 안이 울니뇨</sent>
+<sent type="main" lang="kor" page="31" n="23">부인이 ᄌᆞᄉᆞ의 긔별 드른 후의 마ᄋᆞᆷ이 더욱 갑갑ᄒᆞ야</sent><!--'갑갑ᄒᆞ야'의 뒤에 오는 '갑'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="24">ᄉᆡᆼ각다 못ᄒᆞ야 문복ᄌᆞ의게 문복이나 ᄒᆞ야보랴 ᄒᆞ고 하인의게 불너오라 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="31-32" n="25">즉시 불너오거ᄂᆞᆯ 부인이 복ᄌᆞ의게 말ᄒᆞ고 복차를 후이 놋코 일너 왈</sent><!--부인^이-->
+</pages>
+
+<pages n="32">
+<img n="32">https://kohico.kr/_media/image/간행년도_간략서명_권차/32.jpg</img>
+<sent type="main" lang="kor" page="32" n="1">우리 학ᄉᆞᄭᅴ셔 년젼에 황쥬ᄌᆞᄉᆞ로 갓ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="32" n="2">기간 소식은 죵죵 드르나</sent><!--'죵죵'의 뒤에 오는 '죵'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="3">몸이 엇더ᄒᆞ며 남의 관ᄌᆡ 구셜이나 업슬ᄂᆞᆫ지 궁금ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="32" n="4">ᄯᅩᄒᆞᆫ 길이 멀어 가 볼 슈 업기로 ᄆᆞᄋᆞᆷ에 됴흔 말이나 듯ᄌᆞ ᄒᆞ고 ᄒᆞᄂᆞᆫ 거시니</sent>
+<sent type="main" lang="kor" page="32" n="5">졍셩과 마ᄋᆞᆷ을 다ᄒᆞ야 괘를 푸러 보라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="32" n="6">복ᄌᆡ 즉시 ᄒᆞᆫ 괘를 부러 보니</sent>
+<sent type="main" lang="kor" page="32" n="7">그 괘에 속이 이상ᄒᆞ야</sent><!--'속이 이상ᄒᆞ야'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="8">입맛을 ᄶᅧᆨᄶᅧᆨᄒᆞ며 졍씨 부인ᄭᅴ</sent><!--'ᄶᅧᆨᄶᅧᆨᄒᆞ며'의 뒤에 오는 'ᄶᅧᆨ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="9">졈괘를 푸러 말ᄉᆞᆷᄒᆞ겟ᄉᆞ오니 드르소셔</sent>
+<sent type="main" lang="kor" page="32" n="10">뎜괘를 보니 학ᄉᆞᄭᅴ셔 황쥬 물가의 가셔 ᄇᆡ를 타고 가시려 ᄒᆞ실ᄉᆡ</sent>
+<sent type="main" lang="kor" page="32" n="11">한 도뎍을 맛ᄂᆞ ᄃᆡᄒᆡ에 원혼이 되여 죽을 거슬 상고션을 맛ᄂᆞ 구ᄒᆞᆷ을 밧어 지금 살어 몸은 편ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="32" n="12">쥬야 근심에 잇셔 어ᄂᆡ ᄯᆡᄂᆞ 고향에 도라가 모ᄌᆡ 셔로 만ᄂᆞ볼가 탄식ᄒᆞᄂᆞᆫ 괘라 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="32" n="13">부인이 이 말을 듯더니 좌불안셕ᄒᆞ며 추연 탄식ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="32" n="14">산쳔과 물ᄉᆡᆨ은 의구ᄒᆞ다마ᄂᆞᆫ ᄌᆞᄉᆞ를 리별ᄒᆞᆫ 후에</sent>
+<sent type="main" lang="kor" page="32" n="15">ᄯᅩ다시 못보게 되니 이런 원통ᄒᆞᆫ 일이 어ᄃᆡ 잇스리요 ᄒᆞ며 통곡ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="32" n="16">셰상의 이런 일이 어ᄃᆡ 잇슬가 자탄ᄌᆞ가 ᄒᆞᆯ ᄯᆡ에 산쳔초목이 다 슬허ᄒᆞᄂᆞᆫ 것 ᄀᆞᆺ더라</sent>
+<sent type="main" lang="kor" page="32" n="17">각셜 잇ᄯᆡ 부인이 슯흔 ᄆᆞᄋᆞᆷ을 진졍ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="32" n="18">답답ᄒᆞᆫ 속을 엇지ᄒᆞ면 죠흘가 ᄒᆞ고</sent><!--'답답ᄒᆞᆫ'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32" n="19">후원에 드러가 ᄭᅩᆺ도 구경ᄒᆞ며 젼에 학ᄉᆞ가 심은 텬도화 나무를 만지며 혼자 말노</sent>
+<sent type="main" lang="kor" page="32" n="20">이 집에 반가온 일과 됴흔 경ᄉᆞ가 잇스려면</sent>
+<sent type="main" lang="kor" page="32" n="21">나무입과 ᄭᅩᆺ치 피여 사ᄅᆞᆷ의 ᄆᆞᄋᆞᆷ을 ᄭᆡ치게 ᄒᆞᄂᆞᆫ 일이 잇셧고</sent>
+<sent type="main" lang="kor" page="32" n="22">ᄯᅩ 집에 됴흔 경ᄉᆞᄂᆞ ᄯᅩ 타향에 잇다 도라올 긔한이 되거ᄂᆞ 벼살노 말ᄒᆞᆯ지라도 승직이 되려면</sent>
+<sent type="main" lang="kor" page="32" n="23">입ᄉᆡ와 ᄭᅩᆺ치 졀긔를 물론ᄒᆞ고 ᄀᆞᄅᆞ쳐 쥬고</sent>
+<sent type="main" lang="kor" page="32" n="24">아희를 낫튼지 과거를 ᄒᆞ던지 외방골을 가게 되면</sent>
+<sent type="main" lang="kor" page="32" n="25">쳔도 나무에 ᄭᅩᆺ이 피ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="32-33" n="26">이런 근심이 잇스니 도라오기를 쥬야 바라고 쳔도 나무의 ᄭᅩᆺ 피기만 기ᄃᆞ리나</sent><!--나무의 ^ ᄭᅩᆺ-->
+</pages>
+
+<pages n="33">
+<img n="33">https://kohico.kr/_media/image/간행년도_간략서명_권차/33.jpg</img>
+<sent type="main" lang="kor" page="33" n="1">학ᄉᆞ 이리 되엿거ᄂᆞᆯ 엇지 피기를 바라리요</sent>
+<sent type="main" lang="kor" page="33" n="2">ᄉᆡᆼ각ᄒᆞ면 답답ᄒᆞ고 이졔 우리 학ᄉᆞ 집을 이별ᄒᆞᆫ 지 여러 ᄒᆡ에 도라올 한도 되엿건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="33" n="3">소식이 돈졀ᄒᆞ고 문복ᄌᆞ의 말과 ᄀᆞᆺ틀진ᄃᆡ</sent>
+<sent type="main" lang="kor" page="33" n="4">어ᄃᆡ 가 쥭엇ᄂᆞᆫ지 살엇ᄂᆞᆫ지 ᄉᆡᆼ각ᄒᆞ면 일각이 여삼츄요 </sent>
+<sent type="main" lang="kor" page="33" n="5">보고 십흔 ᄆᆞᄋᆞᆷ이야 일우 칭량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="33" n="6">부인이 학ᄉᆞ의 아오 소운으로 의론ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="33" n="7">오날ᄭᆞ지 형의 소식을 듯지 못ᄒᆞ야 궁금ᄒᆞ고 엇지된 일을 몰낫던이</sent>
+<sent type="main" lang="kor" page="33" n="8">황쥬 ᄇᆡᆨ셩의게 이 ᄀᆞᆺ흔 소식을 드른 즉 일시를 머물 길이 업시 곳 ᄂᆞ려가 볼 거시ᄂᆞ</sent>
+<sent type="main" lang="kor" page="33" n="9">ᄆᆞᄋᆞᆷ을 진졍키 어렵기로 됴흔 소식이ᄂᆞ 드를가 ᄒᆞ야 문복ᄌᆞ의게 무러 보앗더니</sent>
+<sent type="main" lang="kor" page="33" n="10">반가온 말은 고ᄉᆞᄒᆞ고 도리여 답답ᄒᆞᆫ 말을 ᄒᆞ야 ᄆᆞᄋᆞᆷ을 이ᄀᆞᆺ치 편치 못ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="33" n="11">ᄎᆞᆷ으로 쥭엇ᄂᆞᆫ지 살엇ᄂᆞᆫ지 ᄉᆡᆼ각ᄒᆞ면 엇지 일시를 머므러 지쳬ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="33" n="12">이졔 너ᄂᆞᆫ 황쥬 디방을 밧비 나려가</sent>
+<sent type="main" lang="kor" page="33" n="13">형의 일을 탐지ᄒᆞ여 엇지된 ᄉᆞ건을 ᄌᆞ셔이 알고</sent>
+<sent type="main" lang="kor" page="33" n="14">더케 되얏ᄂᆞᆫ지 알어 만일 네 형에 일ᄒᆡᆼ을 다 다리고 오라 ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="33" n="15">즉시 인마를 ᄎᆞ려 소운을 보ᄂᆡᆯᄉᆡ 부인이 여러 번 부탁ᄒᆞ고 눈물을 흘니고 통곡ᄒᆞ며 왈</sent>
+<sent type="main" lang="kor" page="33" n="16">나의 장ᄌᆞᄂᆞᆫ 나라 일노 작별ᄒᆞᆫ 지 십 년에 죠흔 쇼식을 못 들고</sent>
+<sent type="main" lang="kor" page="33" n="17">슬하의 ᄎᆞᄌᆞ 운이 오ᄂᆞᆯ날 먼 지방을 가니 속졀업시 간쟝만 슬더라</sent>
+<sent type="main" lang="kor" page="33" n="18">소운이 마지 못ᄒᆞ야 모친ᄭᅴ 하직ᄒᆞᆯ 시에 슯허ᄒᆞ심을 위로ᄒᆞ야 ᄀᆞᄅᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="33" n="19">모친은 넘어 념녜 마옵소셔</sent>
+<sent type="main" lang="kor" page="33" n="20">소ᄌᆞ가 형을 ᄎᆞ지라 가오면 곳 만ᄂᆞᆯ 터이오니</sent>
+<sent type="main" lang="kor" page="33" n="21">도라오기를 기ᄃᆞ리시고 ᄂᆡᄂᆡ 안녕ᄒᆞ옵소셔 ᄒᆞ고</sent><!--'ᄂᆡᄂᆡ'의 뒤에 오는 'ᄂᆡ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33" n="22">집을 ᄯᅥᄂᆞᆯᄉᆡ 서로 바창ᄒᆞᆷ을 칭량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="33" n="23">각셜 잇ᄯᆡ ᄌᆞᄉᆞ에 부인이 ᄇᆡ위암에 잇셔 셰월을 보ᄂᆡᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="33" n="24">바린 ᄌᆞ식을 ᄉᆡᆼ각ᄒᆞ고 쥬야 근심이 ᄐᆡ산ᄀᆞᆺ치 싸힌 즁</sent>
+<sent type="main" lang="kor" page="33" n="25">드르니 바린 ᄌᆞ식을 황텬탑에 사ᄂᆞᆫ 셔쥰에 집에 가 길니엿다 ᄒᆞ며</sent>
+</pages>
+
+<pages n="34">
+<img n="34">https://kohico.kr/_media/image/간행년도_간략서명_권차/34.jpg</img>
+<sent type="main" lang="kor" page="34" n="1">그 ᄒᆡᆼ실이 아름다옴을 칭량치 못ᄒᆞ야 셔쥰이 더욱 ᄉᆞ랑ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="34" n="2">일홈을 운경이라 ᄒᆞ고 셔가 셩을 이어 산다 ᄒᆞᄂᆞᆫ 말을 부인이 듯고</sent>
+<sent type="main" lang="kor" page="34" n="3">더욱 슯허ᄒᆞ며 탄식ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="34" n="4">텬디도 무심ᄒᆞ고 신명도 고이ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="34" n="5">셔쥰은 이 아희와 원슈요 ᄂᆡ ᄭᅮᆷ에라도 ᄌᆞᄉᆞ의 원슈를 갑고자 ᄒᆞᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="34" n="6">이졔 ᄂᆡ ᄌᆞ식이 그 놈 손에 길니여 ᄌᆞ식이 되엿다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="34" n="7">이런 슯흐고 원통ᄒᆞᆫ 일이 어ᄃᆡ 잇슬가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="34" n="8">쟝ᄎᆞ 엇지ᄒᆞ면 죠흘ᄂᆞᆫ지 근심ᄒᆞ고 잇더라</sent>
+<sent type="main" lang="kor" page="34" n="9">이ᄯᆡ 운경이 졈졈 자라ᄆᆡ 나히 만코 지각이 잇셔 탄식ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="34" n="10">사ᄅᆞᆷ이 셰샹에 나ᄆᆡ 부모의 슬하에 잇셔</sent>
+<sent type="main" lang="kor" page="34" n="11">입신양명ᄒᆞ고 부모를 영화롭게 ᄒᆞ난 거시 남의 ᄌᆞ식에 직ᄎᆡᆨ이요</sent>
+<sent type="main" lang="kor" page="34" n="12">양친이 계셔 부모의 ᄉᆞ랑ᄒᆞᆷ을 밧고 셰상의 락을 보지 못ᄒᆞ고 부친 ᄉᆞ랑만 보고 모친은 엇지 되셧ᄂᆞᆫ지</sent>
+<sent type="main" lang="kor" page="34" n="13">오ᄂᆞᆯᄂᆞᆯᄭᆞ지 그 곡졀을 아지 못ᄒᆞ겟스니</sent>
+<sent type="main" lang="kor" page="34" n="14">어미 업시 난 사ᄅᆞᆷ이 셰샹에 엇지 용납ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="34" n="15">찰하리 셰상의 업셔져 모로니만 갓지 못ᄒᆞ다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="34" n="16">죽으려 ᄒᆞ거ᄂᆞᆯ 셔쥰이 이 말을 듯고 일너 왈</sent>
+<sent type="main" lang="kor" page="34" n="17">사ᄅᆞᆷ이 어미 업시 잇슬 슈 잇스며 그런 리치가 어ᄃᆡ 잇스랴</sent>
+<sent type="main" lang="kor" page="34" n="18">사ᄅᆞᆷ이라ᄂᆞᆫ 것은 텬디 음양 리치와 ᄀᆞᆺ흐여 홀노 ᄌᆞ식을 나흘 수 업ᄂᆞᆫ ᄇᆡ여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="34" n="19">엇지 이ᄃᆡ지 근심ᄒᆞᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="34" n="20">녯젹 산 졍긔를 타고난 자룡 ᄀᆞᆺ흔 사ᄅᆞᆷ이 아니여든</sent>
+<sent type="main" lang="kor" page="34" n="21">엇지 그럿키를 ᄇᆞ라리요</sent>
+<sent type="main" lang="kor" page="34" n="22">너희 모친은 너를 ᄇᆡ화쓸 ᄯᆡ에 몸이 곤핍ᄒᆞ고 편치를 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="34" n="23">십삭을 겨우 지ᄂᆡ ᄒᆡ산 후의 긔운이 업고 우연 득병ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="34" n="24">심이 병세 위급ᄒᆞ더니 삼칠일에 셰상을 ᄇᆞ려셔 원산의 쟝ᄉᆞᄒᆞ고</sent>
+<sent type="main" lang="kor" page="34" n="25">너를 기를 ᄯᆡ에 금지옥엽ᄀᆞᆺ치 길너 장셩토록 ᄋᆡ를 써셔</sent>
+<sent type="main" lang="kor" page="34" n="26">이후 쥭은 후에 봉졔ᄉᆞᄂᆞ 밧들가 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="34" n="27">이졔 이 ᄀᆞᆺ흔 말을 ᄂᆡ 압헤 ᄒᆞ니 일언 불효가 어ᄃᆡ 잇스랴</sent>
+<sent type="main" lang="kor" page="34-35" n="28">네 ᄉᆡᆼ각에 남ᄃᆡ 지 부모가 잇ᄂᆞᆫᄃᆡ 자랄 ᄯᆡ 보지 못ᄒᆞ고 자라셔 유한 될 쥴은 안다마ᄂᆞᆫ</sent><!--ᄯᆡ ^ 보지-->
+</pages>
+
+<pages n="35">
+<img n="35">https://kohico.kr/_media/image/간행년도_간략서명_권차/35.jpg</img>
+<sent type="main" lang="kor" page="35" n="1">쥭ᄂᆞᆫ다 ᄒᆞᆷ은 남의 ᄌᆞ식 직분을 못ᄒᆞ고 도리여 불효ᄌᆞ의 반렬에 잇스니</sent>
+<sent type="main" lang="kor" page="35" n="2">셰상에 잇지 못ᄒᆞᆯ 사ᄅᆞᆷ이니 죽ᄂᆞᆫ 것이 맛당ᄒᆞᆯ 거시라</sent>
+<sent type="main" lang="kor" page="35" n="3">그러나 사ᄅᆞᆷ이 어진 ᄆᆞᄋᆞᆷ을 가지면 산에 올나가 호랑이를 피ᄒᆞᆯ 거시요</sent>
+<sent type="main" lang="kor" page="35" n="4">물에 들되 변치 안이ᄒᆞ고 미련ᄒᆞᆫ 사ᄅᆞᆷ도 ᄭᆡ다르면 어진 사ᄅᆞᆷ이 될 거시오</sent>
+<sent type="main" lang="kor" page="35" n="5">진실노 셩인이 안이면 허물이 업슬 슈 업스ᄂᆞ 곳치기 쉬운지라</sent>
+<sent type="main" lang="kor" page="35" n="6">나 한 일을 남이 그르다 ᄒᆞ거든 ᄲᅡᆯ니 곳치면 올흔 일을 ᄉᆡᆼ각ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="35" n="7">넌들 엇지 군ᄌᆞ 되기가 어려오랴</sent>
+<sent type="main" lang="kor" page="35" n="8">군ᄌᆞ에 길이 멀지 안이ᄒᆞ것마ᄂᆞᆫ 길에 가ᄂᆞᆫ 사ᄅᆞᆷ이 희소ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="35" n="9">셩인이 글에 긔록ᄒᆞ야 구뷔구뷔 ᄀᆞᄅᆞ첫스니</sent><!--'구뷔구뷔'의 뒤에 오는 '구뷔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35" n="10">ᄆᆞᄋᆞᆷ을 굿게 잡아 항상 부모를 잇지 말면 이 길이 머지 안이ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="35" n="11">ᄐᆡ고 젹의 요슌이 닥어 게시고 공ᄆᆡᆼᄭᅴ셔 이 길노 드러 빗ᄂᆞᆫ 일홈이 이졔ᄭᆞ지 일으거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="35" n="12">사ᄅᆞᆷ마다 어렵고 멀다 ᄒᆞ야 어진 ᄒᆡᆼ실의 들지 안이ᄒᆞ니 엇지 슬프지 안이ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="35" n="13">너ᄂᆞᆫ 이런 일은 못ᄒᆞᆯ망졍 부모 압헤셔 죽ᄂᆞᆫ다 ᄒᆞ니 이런 불효가 어ᄃᆡ 잇스랴</sent>
+<sent type="main" lang="kor" page="35" n="14">네가 뎌럿틋ᄒᆞ니 내 심이 탄식ᄒᆞᆯ ᄲᅮᆫ이라</sent>
+<sent type="main" lang="kor" page="35" n="15">운경이 이 말을 듯고</sent>
+<sent type="main" lang="kor" page="35" n="16">어미가 불ᄒᆡᆼᄒᆞ야 죽으셧다 ᄒᆞ오니 신톄 모신 산이 어ᄃᆡ 잇ᄂᆞᆫ잇가 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="35" n="17">셔쥰이 왈 네가 이ᄀᆞᆺ치 말을 ᄒᆞ니 도리여 붓그럽다</sent>
+<sent type="main" lang="kor" page="35" n="18">내가 일즉이 너를 ᄀᆞᄅᆞ쳐 다 일을 거슬 이졔 와셔 네가 보고져 ᄒᆞᆯ ᄯᆡ에 ᄀᆞᄅᆞ치게 되얏스니</sent>
+<sent type="main" lang="kor" page="35" n="19">부모된 직ᄎᆡᆨ을 못ᄒᆞ얏스나 네 ᄀᆞᄅᆞ쳐 쥬리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="35" n="20">다리고 가나 쥭지 안이ᄒᆞᆫ 무덤이 어ᄃᆡ 잇슬가</sent>
+<sent type="main" lang="kor" page="35" n="21">셔쥰이 젼의 다리고 사든 계집에 무덤을 ᄀᆞᄅᆞ쳐 쥬니</sent>
+<sent type="main" lang="kor" page="35" n="22">운경이 무덤을 보고 슯허ᄒᆞ며 통곡ᄒᆞ다가 제문 지여 졔ᄉᆞ를 지ᄂᆡᆯᄉᆡ 보ᄂᆞᆫ 사ᄅᆞᆷ들이 웃지 안ᄂᆞᆫ ᄌᆡ 업더라</sent>
+<sent type="main" lang="kor" page="35" n="23">이러구러 셰월은 무뎡ᄒᆞ고 광음은 여류ᄒᆞ야 운경의 나히 십칠셰라</sent>
+<sent type="main" lang="kor" page="35-36" n="24">글이 문장이요 얼골은 관옥 ᄀᆞᆺ고 신션 ᄀᆞᆺ흔 풍ᄎᆡ 뉘 아니 칭찬ᄒᆞ리요</sent><!--문장이요 ^ 얼골은-->
+</pages>
+
+<pages n="36">
+<img n="36">https://kohico.kr/_media/image/간행년도_간략서명_권차/36.jpg</img>
+<sent type="main" lang="kor" page="36" n="1">이럼으로 셔쥰이 운경을 더욱 ᄉᆞ랑ᄒᆞ고 부ᄌᆡ 졍이 극진ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="36" n="2">셩즁 사ᄅᆞᆷ들이 운경의 덕화를 못ᄂᆡ 일캇더라</sent>
+<sent type="main" lang="kor" page="36" n="3">각셜 이ᄯᆡ 텬하ㅣ ᄐᆡ평ᄒᆞ고 나라에 경ᄉᆞ 잇셔 각도 각읍에 훈령ᄒᆞ얏스되</sent>
+<sent type="main" lang="kor" page="36" n="4">모월 모일은 특별 과거이니 류리ᄒᆞᆫ 션ᄇᆡ들은 속속히 상경케 ᄒᆞ라고 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="36" n="5">이ᄯᆡ 운경이 황텬ᄯᅡᆼ에셔 유명ᄒᆞᆫ 션ᄇᆡ로셔 풍운월누를 벗을 삼고</sent>
+<sent type="main" lang="kor" page="36" n="6">단소를 부러 모든 사ᄅᆞᆷ의 ᄆᆞᄋᆞᆷ을 비창ᄒᆞ게도 ᄒᆞ며 즐기게도 ᄒᆞ며 ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="36" n="7">츄월 강산의 두목지 젹숑ᄌᆞ 엄군평 등이 가다가 머무ᄂᆞᆫ 듯ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="36" n="8">이 단소ᄂᆞᆫ 소학ᄉᆞ 황쥬ᄌᆞᄉᆞ로 갈 ᄯᆡ에 몸에 진이고 가다가 셔쥰에게 쥭고</sent>
+<sent type="main" lang="kor" page="36" n="9">단소ᄂᆞᆫ 셔쥰이 아인 ᄇᆡ 되야 아ᄎᆡ와 부인을 일코 ᄆᆞᄋᆞᆷ의 분ᄒᆞᆷ을 이긔지 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="36" n="10">단소로 벗을 삼다가 운경이를 쥬엇더니 텬하에 명창이라</sent>
+<sent type="main" lang="kor" page="36" n="11">운경이 울젹ᄒᆞᆫ 마ᄋᆞᆷ이 이러나면 ᄌᆡ조를 밋고 ᄒᆡᆼ장을 슈습ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="36" n="12">은자 슈만 량과 단소를 ᄒᆡᆼ즁에 너허 말게 실고</sent>
+<sent type="main" lang="kor" page="36" n="13">셔쥰에게 하직ᄒᆞ고 경셩으로 ᄒᆡᆼᄒᆞ야 갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="36" n="14">셕각은 암암ᄒᆞ고 고봉한 산 우에셔 한 노인이 안져 쳥학 ᄒᆞᆫ 쌍과 동ᄌᆞ 일 명을 보ᄂᆡ여 부르거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="36" n="15">운경이 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="36" n="16">쳔만 장이ᄂᆞ 되ᄂᆞᆫᄃᆡ 엇지 올나가리요 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="36" n="17">동ᄌᆡ 답왈</sent><!--'답왕'이라 표기되어 있음-->
+<sent type="main" lang="kor" page="36" n="18">이 학을 타시면 올나가시리이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="36" n="19">운경이 동ᄌᆞ의 말을 듯고 학을 타고 올으니 평디 길이나 다름 업더라</sent>
+<sent type="main" lang="kor" page="36" n="20">운경이 학의 나려 노인ᄭᅴ ᄌᆡᄇᆡᄒᆞ고 공슌이 뵈온ᄃᆡ 노인 왈</sent>
+<sent type="main" lang="kor" page="36" n="21">그ᄃᆡᄂᆞᆫ 뉘집 공ᄌᆞ로셔 어ᄃᆡ로 가며 무ᄉᆞᆷ 일노 이ᄃᆡ지 급히 가ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="36" n="22">운경이 답왈</sent>
+<sent type="main" lang="kor" page="36" n="23">소ᄌᆞᄂᆞᆫ 황텬탑의 사ᄂᆞᆫ 셔쥰의 아ᄃᆞᆯ 운경이옵더니</sent>
+<sent type="main" lang="kor" page="36" n="24">나라의셔 어진 션ᄇᆡ를 모흐시고 과거를 쥬신다 ᄒᆞ오ᄆᆡ</sent>
+<sent type="main" lang="kor" page="36" n="25">소ᄌᆡ 비록 ᄌᆡ조 업ᄉᆞ오나 텬ᄌᆞ의 넓은 은혜를 입ᄉᆞ와</sent>
+<sent type="main" lang="kor" page="36-37" n="26">부모의게 영화를 뵈이고 문호를 빗내고져 ᄒᆞ야 급히 가ᄂᆞ이다</sent><!--ᄒᆞ^야-->
+</pages>
+
+<pages n="37">
+<img n="37">https://kohico.kr/_media/image/간행년도_간략서명_권차/37.jpg</img>
+<sent type="main" lang="kor" page="37" n="1">노인이 잠간 웃고 왈</sent>
+<sent type="main" lang="kor" page="37" n="2">나도 인간 공명이란 거슬 여러 번 지ᄂᆡᆺ것만 사ᄅᆞᆷ이 이거슬 ᄇᆞ라지 안이ᄒᆞᆯ 거시라</sent>
+<sent type="main" lang="kor" page="37" n="3">나ᄂᆞᆫ 인간에 잇셔 나라를 위ᄒᆞ야 츙셩을 다ᄒᆞ다가 시운이 불ᄒᆡᆼᄒᆞ야 산즁에 들어</sent>
+<sent type="main" lang="kor" page="37" n="4">노ᄇᆡᆨ량의 도를 ᄒᆡᆼᄒᆞ야 지금 ᄂᆡ 몸이 편ᄒᆞ고 산즁의 ᄉᆞ무한 신은 나ᄲᅮᆫ인가 ᄉᆡᆼ각이오</sent>
+<sent type="main" lang="kor" page="37" n="5">내가 단일 ᄯᆡ에ᄂᆞᆫ 쳥학을 타고 동ᄌᆞ로 ᄒᆞ야 옥뎌를 취ᄒᆞ고 단이니 신션인가 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="37" n="6">셰상의 인간 공명과 산즁에 입ᄒᆞ야 도덕을 슝상ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="37" n="7">오날날 비교ᄒᆞ면 엇지 공명이 당ᄒᆞ리요</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="8">그러나 네 부모ᄂᆞᆫ ᄉᆞ방으로 유리ᄒᆞᄂᆞᆫᄃᆡ 너ᄂᆞᆫ 지금 말ᄒᆞ기ᄅᆞᆯ 부모게 영화ᄅᆞᆯ 뵈이고 문호를 빗ᄂᆡᆫ다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="37" n="9">부모ᄅᆞᆯ ᄉᆡᆼ각지 안이ᄒᆞ고 엇지ᄒᆞ야 이ᄃᆡ지 무심ᄒᆞ냐</sent>
+<sent type="main" lang="kor" page="37" n="10">이번 과거 볼 ᄯᆡ에 졍셩을 다ᄒᆞ야 입신냥명ᄒᆞ야 부모ᄅᆞᆯ 만나 은혜ᄅᆞᆯ 갑흐라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="37" n="11">인ᄒᆞ야 다과ᄅᆞᆯ 쥬어 먹게 ᄒᆞ고 동ᄌᆞᄅᆞᆯ 명ᄒᆞ야 션약 셰봉을 쥬며 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="37" n="12">그ᄃᆡ 모친은 쥭지 안이ᄒᆞ야 만날 터이니</sent>
+<sent type="main" lang="kor" page="37" n="13">만날 ᄯᆡ에 지ᄂᆡ기 어려올 ᄯᆡ에 이 약을 쓰라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="37" n="14">ᄯᅩ 황셩으로 가ᄂᆞᆫ 길에 졀강으로 갈 터이니</sent>
+<sent type="main" lang="kor" page="37" n="15">그곳셔 됴흔 일을 볼 거시니 명심ᄒᆞ고 명심ᄒᆞ야라 ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="37" n="16">운경이 노인의 ᄒᆞ신 말ᄉᆞᆷ을 듯고 ᄆᆞᄋᆞᆷ의 경괴ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="37" n="17">ᄯᅩᄒᆞᆫ 내 모친이 어ᄃᆡ 계신지 뭇고져 ᄒᆞ야 눈을 들고 보니</sent>
+<sent type="main" lang="kor" page="37" n="18">노인이 ᄂᆡ당으로 드러가 누워 계시다 ᄒᆞ거날</sent>
+<sent type="main" lang="kor" page="37" n="19">무어ᄉᆞᆯ 일흔 사ᄅᆞᆷ과 ᄀᆞᆺ치 졍신업시 장승 모양으로 웃둑이 셔셔 나오기ᄅᆞᆯ 가다리더니</sent><!--'셔셔'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="20">문득 한 션관이 학을 타고 가며 부르거ᄂᆞᆯ 노인이 부르ᄂᆞᆫ 소ᄅᆡᄅᆞᆯ 듯고 즉시 쳥학을 타고 조ᄎᆞ가거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="37" n="21">운경이 셔셔 듯다가 노인이 ᄯᅥ남을 보고 모친의 일을 무ᄅᆞᆯ 곳이 업셔</sent><!--'셔셔'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="22">할 일 업시 황셩을 향ᄒᆞ고 ᄯᅥ나갈ᄉᆡ 말을 타고 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="37" n="23">어미 발셔 쥭엇다 ᄒᆞ야 ᄂᆡ 모친 묘하의 가셔 졔문 지여 졔ᄅᆞᆯ 지ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="37-38" n="24">ᄯᅩ 부친게 황셩의 가노라고 잠간 동안 이별이 되엿ᄂᆞᆫᄃᆡ</sent><!--가^노라고-->
+</pages>
+
+<pages n="38">
+<img n="38">https://kohico.kr/_media/image/간행년도_간략서명_권차/38.jpg</img>
+<sent type="main" lang="kor" page="38" n="1">동셔남북 ᄉᆞ방 길노 유리ᄒᆞᆫ다 ᄒᆞ니 이 말이 미상ᄒᆞᆫ ᄯᅳᆺ이 잇고</sent>
+<sent type="main" lang="kor" page="38" n="2">도ᄉᆞ의 말이 상실치 못ᄒᆞᆫ듯 ᄒᆞ나 도리혀 ᄉᆡᆼ각ᄒᆞᆯ 일이라</sent>
+<sent type="main" lang="kor" page="38" n="3">ᄂᆡ 부친은 모든 일에 강포ᄒᆞ고 남을 ᄒᆡᄒᆞ며</sent>
+<sent type="main" lang="kor" page="38" n="4">사ᄅᆞᆷ을 ᄒᆡᄒᆞᄂᆞᆫ 일과 ᄂᆡ여 ᄶᅩᆺ치며 남의 ᄌᆡ물과 아름다온 계집이 잇스면 탐ᄒᆞᄂᆞᆫ 일이 만흔 고로</sent>
+<sent type="main" lang="kor" page="38" n="5">ᄂᆡ ᄉᆡᆼ각건ᄃᆡ 모친을 ᄂᆡ여 ᄶᅩᆺ고 나ᄅᆞᆯ 속엿ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="38" n="6">그러치 안이ᄒᆞ면 ᄂᆡ가 쥭어 디하의 가 부모ᄅᆞᆯ ᄎᆞ져 볼 거ᄉᆞᆯ 미리 예언인가 ᄌᆞ탄ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="38" n="7">ᄆᆞᄋᆞᆷ을 진졍치 못ᄒᆞ고 황셩으로 갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="38" n="8">졀강 ᄯᅡ에 다다러 한 곳을 ᄇᆞ라보니 큰 집이 잇거ᄂᆞᆯ</sent><!--'다다러'의 뒤에 오는 '다'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="9">자세 보니 쥬궁ᄑᆡ궐이 영농ᄒᆞ고 긔이ᄒᆞᆫ 초목과 각ᄉᆡᆨ화초ᄂᆞᆫ 만발ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="38" n="10">그 아름답고 번화ᄒᆞᆷ을 칭량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="38" n="11">운경이 그 집에 드러가 쥬인을 부르니 그 집 종이 나아오거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="38" n="12">나ᄂᆞᆫ 황도로 가ᄂᆞᆫ 사ᄅᆞᆷ으로 맛ᄎᆞᆷ 지나다가 집을 보니 아름다온 즁</sent>
+<sent type="main" lang="kor" page="38" n="13">길을 밧비 가ᄂᆞᆫ 고로 목이 갈ᄒᆞ기로 물을 쳥ᄒᆞ야 갈증을 면코져 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="38" n="14">물을 먹기ᄅᆞᆯ 바라고 드러왓노라</sent>
+<sent type="main" lang="kor" page="38" n="15">종이 이 말을 듯고 물을 ᄯᅥ다 ᄃᆡ졉ᄒᆞᆫ 후에 운경을 잠간 보니</sent><!--'종이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="16">그 얼골과 음셩이 황쥬ᄌᆞᄉᆞ로 가신 쥬인ᄃᆡᆨ 학ᄉᆞ의 음셩과 방불ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="38" n="17">얼골이 학ᄉᆞ가 오신 듯ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="38" n="18">비록 남의 집 종이로되 학ᄉᆞᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ고 눈물을 흘니고 금치 못ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="38" n="19">운경이 종의 슯허ᄒᆞᆷ을 보고 고히이 넉여 문왈</sent><!--'보고 고히이'의 뒤에 오는 '고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="20">네 나ᄅᆞᆯ 보고 무ᄉᆞᆷ 연고로 이ᄀᆞᆺ치 우ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="38" n="21">그 종이 ᄃᆡ답ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="38" n="22">공ᄌᆞᄅᆞᆯ 뵈오니 ᄃᆡᆨ 쥬인 되시ᄂᆞᆫ 학ᄉᆞ와 음셩 ᄀᆞᆺ흐시고</sent>
+<sent type="main" lang="kor" page="38" n="23">ᄯᅩᄒᆞᆫ 얼골을 뵈오니 더욱 ᄀᆞᆺ흐시기로 학ᄉᆞᄅᆞᆯ ᄉᆡᆼ각ᄒᆞ고 우나이다</sent>
+<sent type="main" lang="kor" page="38" n="24">운경이 문 왈</sent>
+<sent type="main" lang="kor" page="38" n="25">학ᄉᆞᄂᆞᆫ 어ᄃᆡ 가셧스며 ᄃᆡᆨ을 ᄯᅥᄂᆞ신 지 얼마 동안이ᄂᆞ 되엿ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="38" n="26">종이 답 왈</sent>
+<sent type="main" lang="kor" page="38" n="27">학ᄉᆞᄭᅴ셔 황쥬ᄌᆞᄉᆞ로 ᄂᆞ려가신 지 십칠 년이로되</sent>
+<sent type="main" lang="kor" page="38" n="28">오ᄂᆞᆯᄂᆞᆯᄭᆞ지 소식이 돈졀ᄒᆞ시고 죽으셧ᄂᆞᆫ지 아지 못ᄒᆞ홉고 잇ᄉᆞᆸᄂᆞᆫ 즁</sent><!--'오ᄂᆞᆯᄂᆞᆯᄭᆞ지'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38-39" n="29">공ᄌᆞᄅᆞᆯ 뵈오니 학ᄉᆞ님의 ᄉᆡᆼ각이 심즁에 발ᄒᆞ와 뵈옵고 슯허ᄒᆞ엿ᄉᆞ오며</sent><!--공^자ᄅᆞᆯ-->
+</pages>
+
+<pages n="39">
+<img n="39">https://kohico.kr/_media/image/간행년도_간략서명_권차/39.jpg</img>
+<sent type="main" lang="kor" page="39" n="1">아모리 밧부시ᄂᆞ 초당의 잠간 쉬이시면 연고ᄅᆞᆯ 자셔이 알욀이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="39" n="2">운경이 다시 문 왈</sent>
+<sent type="main" lang="kor" page="39" n="3">이 ᄯᅡ은 어ᄃᆡ며 이 ᄃᆡᆨ은 누구시며 무엇ᄒᆞ시ᄂᆞᆫ ᄃᆡᆨ인고</sent>
+<sent type="main" lang="kor" page="39" n="4">종이 답 왈</sent>
+<sent type="main" lang="kor" page="39" n="5">이 ᄯᅡ은 졀강 ᄯᅡ이요 젼 조승상 소 학ᄉᆞ의 ᄃᆡᆨ이로소이다</sent>
+<sent type="main" lang="kor" page="39" n="6">운경이 오다가 길에셔 노인을 맛ᄂᆞ 셔로 슈답ᄒᆞᆷ을 ᄉᆡᆼ각ᄒᆞ고 타고 가든 말을 ᄆᆡ고 쵸당으로 드러가니</sent>
+<sent type="main" lang="kor" page="39" n="7">집이 가장 졍쇄ᄒᆞ고 장녀ᄒᆞᄂᆞ 인젹이 업고 젹젹ᄒᆞ거ᄂᆞᆯ 그 죵의게 문 왈</sent>
+<sent type="main" lang="kor" page="39" n="8">이 ᄃᆡᆨ 남종이 잇ᄂᆞᆫ냐</sent>
+<sent type="main" lang="kor" page="39" n="9">그 종이 눈물지며 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="39" n="10">이 ᄃᆡᆨ 노승상의 자졔 학ᄉᆞᄭᅴ셔 황쥬ᄌᆞᄉᆞ로 가실 ᄯᆡ에 모시고 갓ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="39" n="11">그러면 이 ᄃᆡᆨ에ᄂᆞᆫ 누구가 계시며 가ᄉᆞᄅᆞᆯ 누가 ᄉᆞᆲ혀가ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="39" n="12">죵이 답 왈 이 집에 계시기ᄂᆞᆫ ᄃᆡ부인게셔 홀노 계시고</sent>
+<sent type="main" lang="kor" page="39" n="13">아즉 남은 종들노 의지ᄒᆞ고 계시ᄂᆞ 조셕으로 학ᄉᆞᄅᆞᆯ 기ᄃᆡ리며</sent>
+<sent type="main" lang="kor" page="39" n="14">ᄒᆞᆼ상 근심 즁에 계심을 낫낫치 말을 ᄒᆞ니 운경이 그 말을 ᄌᆞ셔이 듯고</sent>
+<sent type="main" lang="kor" page="39" n="15">그 경상이 참혹ᄒᆞ고 젹막ᄒᆞᆷ을 칭량치 못ᄒᆞ거니와</sent>
+<sent type="main" lang="kor" page="39" n="16">잠간 과거 ᄎᆞ로 지ᄂᆡ가ᄂᆞᆫ 사ᄅᆞᆷ을 보고 여러 가지ᄅᆞᆯ 말ᄒᆞ며 슬워ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="39" n="17">그 곡졀을 아지 못ᄒᆞᆯ 일이라 ᄒᆞ신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="39" n="18">시비 답 왈 우리 ᄃᆡᆨ 학ᄉᆞᄭᅴ옵셔 황쥬ᄌᆞᄉᆞ로 가신 후의 소식이 돈졀ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="39" n="19">오날ᄭᆞ지 ᄉᆞᄉᆡᆼ을 모르고 ᄉᆡᆼ각ᄒᆞ건ᄃᆡ 필경 즁노의셔 모진 도뎍을 만ᄂᆞ 죽엇거ᄂᆞ</sent>
+<sent type="main" lang="kor" page="39" n="20">창ᄒᆡ의 ᄇᆡᄅᆞᆯ 파션ᄒᆞ엿ᄉᆞᆸ거ᄂᆞ 양단 즁 의심이 잇ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="39" n="21">오날날ᄭᆞ지 소식을 모르옵고 ᄯᅩ 승상 부인이며 우리 비복 등이 망극ᄒᆞ야</sent><!--'오날날ᄭᆞ지'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="39" n="22">슈다ᄒᆞᆫ 셰월을 눈물노 지ᄂᆡ더니 오날 맛ᄎᆞᆷ 공ᄌᆞ를 보니</sent>
+<sent type="main" lang="kor" page="39" n="23">얼골과 풍ᄎᆡ 우리 ᄃᆡᆨ 학ᄉᆞ게셔 오신듯 ᄒᆞ와 반갑ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="39" n="24">비회ᄅᆞᆯ 금치 못ᄒᆞ와 이리 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="39" n="25">운경이 이 말을 듯고 우스며 왈</sent><!--'운경이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="39" n="26">텬하의 사ᄅᆞᆷ이 ᄀᆞᆺ흔 얼골이 만커ᄂᆞᆯ 얼골이 ᄀᆞᆺ다고 리허ᄅᆞᆯ 자셔이 아지도 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="39-40" n="27">그ᄃᆡ지 셜워ᄒᆞᄂᆞ뇨 ᄒᆞ고 </sent><!--그^ᄃᆡ지-->
+</pages>
+
+<pages n="40">
+<img n="40">https://kohico.kr/_media/image/간행년도_간략서명_권차/40.jpg</img>
+<sent type="main" lang="kor" page="40" n="1">ᄂᆡ렴의 고히이 넉이ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="40" n="2">종이 즉시 드러가 대부인ᄭᅴ ᄌᆞ셰한 말을 고ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="40" n="3">부인이 듯고 일변 반겨ᄒᆞ며 ᄯᅩ한 슯허ᄒᆞ야 눈물을 금치 못ᄒᆞ고 종을 불너 젼갈ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="40" n="4">젼일 뵈인 젹 업스ᄂᆞ 공ᄌᆞ를 한 번 구경코져 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="40" n="5">공ᄌᆞᄂᆞᆫ 늙은이 망령을 허물치 말고 즁당으로 드러오시면 반갑게 뵈옵겟ᄂᆞ이다 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="40" n="6">운경이 종으로 ᄒᆞ야곰 젼갈ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="40" n="7">소ᄌᆞᄂᆞᆫ 맛ᄎᆞᆷ 황도로 가옵다가 부인 ᄃᆡᆨ을 구경ᄒᆞ온즉 경치도 됴흘 ᄲᅮᆫ 아니라</sent>
+<sent type="main" lang="kor" page="40" n="8">겸ᄒᆞ야 목이 갈ᄒᆞ야 물을 엇어 먹고자 ᄒᆞ와 드러왓ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="40" n="9">노비로 ᄒᆞ야 물을 쥬시고 ᄯᅩᄒᆞᆫ 초당의 드러와 잠시라도 ᄉᆔ게 ᄒᆞ시ᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="40" n="10">ᄯᅩ 이ᄀᆞᆺ치 말ᄉᆞᆷ을 ᄒᆞ옵시니 감격ᄒᆞ온 말ᄉᆞᆷ은 층량치 못ᄒᆞ건이와</sent>
+<sent type="main" lang="kor" page="40" n="11">져 ᄀᆞᆺ흔 사ᄅᆞᆷ을 보시고자 ᄒᆞ오ᄂᆞ 남녀가 유별ᄒᆞ오니 소ᄌᆡ 부인을 뵈옵기 황공ᄒᆞ여이다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="40" n="12">죵의게 젼갈 ᄃᆡ답ᄒᆞ엿더니 부인이 종을 보ᄂᆡ여 ᄌᆡ삼 쳥ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="40" n="13">운경이 마지 못ᄒᆞ야 노비ᄅᆞᆯ ᄯᅡ라 중당으로 드러가 부인ᄭᅴ 뵈온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="40" n="14">부인이 답례ᄒᆞ고 운경을 한 번 바라보ᄆᆡ</sent>
+<sent type="main" lang="kor" page="40" n="15">얼골이 아름답고 슘은 ᄌᆡ조 눈셥 ᄉᆞ이에 은은이 감초엿거ᄂᆞᆯ</sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40" n="16">부인이 학ᄉᆞᄅᆞᆯ ᄂᆞ흘 ᄯᆡ에 이 사ᄅᆞᆷ의 얼골ᄀᆞᆺ치 되엿든 ᄉᆡᆼ각이 불 이듯ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="40" n="17">학ᄉᆞ 보고 십흔 ᄆᆞᄋᆞᆷ이 일각이 삼츄 ᄀᆞᆺ타여 ᄆᆞᄋᆞᆷ을 진졍키 어려오며</sent>
+<sent type="main" lang="kor" page="40" n="18">비록 년소한 사ᄅᆞᆷ이ᄂᆞ 초면에 읏지ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="40" n="19">부인 왈 ᄂᆞᄂᆞᆫ 소 승상의 안ᄒᆡ옵더니 운쉬 불ᄒᆡᆼᄒᆞ야</sent>
+<sent type="main" lang="kor" page="40" n="20">승상ᄭᅴ셔 셰상을 ᄇᆞ리시고 장ᄌᆞ 소위와 ᄎᆞᄌᆞ 소운을 다리고 잇ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="40" n="21">텬ᄌᆞᄭᅴ옵셔 소위로 ᄒᆞ야금 한림학ᄉᆞ 겸 황쥬ᄌᆞᄉᆞᄅᆞᆯ 졔수ᄒᆞ시기로</sent>
+<sent type="main" lang="kor" page="40" n="22">황명을 거역지 못ᄒᆞ야 보ᄂᆡᆫ 지 십칠 년이 되도록 소식이 업셔 쥬야로 근심ᄒᆞᄂᆞᆫ 중</sent>
+<sent type="main" lang="kor" page="40" n="23">황쥬 ᄇᆡᆨ셩의게 소식을 드르니 ᄌᆞᄉᆞ를 못 보앗다 ᄒᆞ기로</sent>
+<sent type="main" lang="kor" page="40" n="24">이 일이 답답ᄒᆞ고 괴이ᄒᆞ야</sent><!--'답답ᄒᆞ고'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40-41" n="25">문복ᄌᆞ의게 무르니</sent><!--문복ᄌᆞ의게 ^ 무르니-->
+</pages>
+
+<pages n="41">
+<img n="41">https://kohico.kr/_media/image/간행년도_간략서명_권차/41.jpg</img>
+<sent type="main" lang="kor" page="41" n="1">살기ᄂᆞᆫ 살엇스ᄂᆞ 근심중에 잇노라 ᄒᆞ기로</sent>
+<sent type="main" lang="kor" page="41" n="2">이 말을 드르니 ᄆᆞᄋᆞᆷ을 진졍치 못ᄒᆞ야 둘ᄌᆡ 아달 운을 보ᄂᆡ여</sent>
+<sent type="main" lang="kor" page="41" n="3">졔 형의 종젹을 ᄎᆞ지라 나간 지 칠팔 년이 되엿스되 소식과 종젹을 알 수 업고</sent>
+<sent type="main" lang="kor" page="41" n="4">이 젹막ᄒᆞᆫ 늙은 몸이 죽지도 안이ᄒᆞ고 사라 잇셔</sent>
+<sent type="main" lang="kor" page="41" n="5">ᄒᆞᆼ상 근심ᄒᆞ며 걱졍으로 셰월을 보ᄂᆡᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="41" n="6">동창의 돗ᄂᆞᆫ 달과 셔창의 지ᄂᆞᆫ ᄒᆡᄅᆞᆯ 의지ᄒᆞ야 날마다 기ᄃᆞ리며 간장만 썩이더니</sent>
+<sent type="main" lang="kor" page="41" n="7">오날 그ᄃᆡ에 얼골과 풍ᄎᆡᄅᆞᆯ 보니 우리 학ᄉᆞ와 방불ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="41" n="8">자연 비감ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 졍치 못ᄒᆞ야 이리ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="41" n="9">늙은 사ᄅᆞᆷ의 말을 허물치 말ᄂᆞ</sent>
+<sent type="main" lang="kor" page="41" n="10">그ᄃᆡ 셩명은 무엇이며 거쥬ᄂᆞᆫ 어ᄃᆡ며 무ᄉᆞᆷ 일노 어ᄃᆡᄅᆞᆯ 가ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="41" n="11">운경이 공슌이 답 왈</sent>
+<sent type="main" lang="kor" page="41" n="12">셩은 셔요 일홈은 운경이옵던이 살기ᄂᆞᆫ 황텬탑의 사옵고</sent>
+<sent type="main" lang="kor" page="41" n="13">ᄂᆞ희ᄂᆞᆫ 십칠 셰에 황도로 ᄒᆡᆼᄒᆞ와 텬ᄌᆞ의 은혜로 ᄇᆡᆨ두ᄂᆞ 면ᄒᆞ옵기ᄅᆞᆯ ᄇᆞ랄가 ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="41" n="14">지금 과거를 보라 가옵다가 귀문에 지ᄂᆡ옵더니</sent>
+<sent type="main" lang="kor" page="41" n="15">부인ᄭᅴ옵셔 져ᄅᆞᆯ 더럽다 안이ᄒᆞ시고 즁당ᄭᆞ지 일으게 ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="41" n="16">부인ᄭᅴ셔 심중ᄉᆞᄅᆞᆯ 일일이 말ᄉᆞᆷᄒᆞ오니</sent><!--'일일이'의 뒤에 오는 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="17">감격ᄒᆞᆫ 말ᄉᆞᆷ은 일우 칭량치 못ᄒᆞ오ᄂᆞ</sent>
+<sent type="main" lang="kor" page="41" n="18">비록 ᄂᆞ히 어리고 경력이 업ᄉᆞ오ᄂᆞ 부인ᄭᅴ셔 이쳐럼 ᄒᆞ시오니</sent>
+<sent type="main" lang="kor" page="41" n="19">참혹ᄒᆞ신 형상을 뵈오ᄆᆡ 도리여 심ᄉᆡ 불안ᄒᆞ야이다</sent>
+<sent type="main" lang="kor" page="41" n="20">부인이 이 말을 듯고 ᄯᅩ 가라ᄃᆡ</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="21">ᄂᆡ 집의 긔이ᄒᆞᆫ ᄭᅩᆺᄂᆞ무가 잇셔 무ᄉᆞᆷ 경ᄉᆞ가 잇던지 외방을 단여올 ᄯᆡ던지</sent>
+<sent type="main" lang="kor" page="41" n="22">반가온 손님이 오려면 이 ᄭᅩᆺ치 피ᄂᆞᆫᄃᆡ 슈삼 일 젼붓터 ᄭᅩᆺ과 입ᄉᆡ가 피엿기로</sent>
+<sent type="main" lang="kor" page="41" n="23">ᄉᆡᆼ각에 무ᄉᆞᆷ 즐겁고 깃분 일이 잇슬가 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="41" n="24">그ᄃᆡ가 우리 집을 오려고 이ᄀᆞᆺ치 피엿ᄂᆞᆫ도다 ᄒᆞᆫ 즉</sent>
+<sent type="main" lang="kor" page="41" n="25">운경이 이 말을 듯고 이상ᄒᆞ고 긔히 여겨</sent><!--'운경이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="26">그 남우ᄂᆞᆫ 무ᄉᆞᆷ ᄂᆞ무이온ᄃᆡ 사ᄅᆞᆷ이 오고 가ᄂᆞᆫ 거ᄉᆞᆯ 분간ᄒᆞ니 ᄎᆞᆷ 이상ᄒᆞᆫ ᄭᅩᆺ이로소이다</sent>
+<sent type="main" lang="kor" page="41" n="37">부인이 가라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="41" n="38">이 ᄂᆞ무 일홈은 텬도화라 ᄒᆞ고 승상이 황도에 계실 ᄯᆡ에 중갑을 쥬고</sent>
+</pages>
+
+<pages n="42">
+<img n="42">https://kohico.kr/_media/image/간행년도_간략서명_권차/42.jpg</img>
+<sent type="main" lang="kor" page="42" n="1">텬도화ᄅᆞᆯ 구ᄒᆞ야 우리 집 화원 중에 두엇스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="42" n="2">집에 경ᄉᆞ 업스면 비록 츈졀을 당ᄒᆞᆯ지라도 피지 안코</sent>
+<sent type="main" lang="kor" page="42" n="3">무ᄉᆞᆷ 영화가 잇스려면 엄동셜한을 당ᄒᆞᆯ지라도 ᄭᅩᆺ치 피여 영화ᄂᆞ기 젼 삼 일을 미리 피여 낙홰 지ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="42" n="4">이거스로 우리 집에셔 증험을 ᄒᆞᄂᆞᆫ ᄇᆡ라</sent>
+<sent type="main" lang="kor" page="42" n="5">운경이 이 말을 듯고 이상이 넉이며 문 왈</sent><!--'운경이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="6">이번 일에도 ᄭᅩᆺ치 피엿ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="42" n="7">부인이 왈 삼 일 젼붓터 피기로 이번의 됴흔 경ᄉᆞ가 잇던지</sent>
+<sent type="main" lang="kor" page="42" n="8">그러치 안이ᄒᆞ면 ᄌᆞᄉᆞ가 올가 ᄒᆞ엿더니 쳔만의외에 ᄀᆡᆨ이 올 쥴 엇지 ᄯᅳᆺᄒᆞ엿스리요</sent>
+<sent type="main" lang="kor" page="42" n="9">이번의 ᄭᅩᆺ 핀 거슨 그ᄃᆡ를 위ᄒᆞ야 가라친 거시로다</sent>
+<sent type="main" lang="kor" page="42" n="10">운경이 가라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="42" n="11">ᄭᅩᆺ 핀 지 삼 일이면 입과 ᄭᅩᆺ이 ᄀᆞᆺ치 낙화엽이 된다 ᄒᆞ니 가지로 이상ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="42" n="12">그 리유ᄅᆞᆯ 자셔이 알고져 ᄒᆞ야 몃칠 유ᄒᆞ야 구경코자 ᄒᆞᄂᆞ니 부인은 허락ᄒᆞ시리잇가</sent>
+<sent type="main" lang="kor" page="42" n="13">부인이 이 말을 듯고 깃버 즉시 허락ᄒᆞ고 머므르게 ᄒᆞ더라</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="14">ᄎᆞ셜 잇ᄯᆡ 운경이 외당에 유ᄒᆞ며 텬도화ᄅᆞᆯ 보니 과연 삼 일 되더니</sent>
+<sent type="main" lang="kor" page="42" n="15">ᄭᅩᆺ과 입피 ᄯᅥ러지거ᄂᆞᆯ 운경이 이거ᄉᆞᆯ 보고 긔히이 넉이며 ᄒᆞᄂᆞᆫ 말이</sent><!--'운경이 이거ᄉᆞᆯ'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42" n="16">봄이 인간의 도라오니 ᄭᅩᆺ치 피여 인간을 희롱ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="42" n="17">오날 이 ᄭᅩᆺ으로 깃분 경ᄉᆞᄅᆞᆯ 셩취ᄒᆞ겟스니 엇지 깃부지 안이ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="42" n="18">ᄂᆞ뷔ᄂᆞᆫ ᄭᅩᆺ츨 보면 즐겨ᄒᆞ고 됴와ᄒᆞ되 ᄭᅩᆺ치 낙화 되면</sent>
+<sent type="main" lang="kor" page="42" n="19">스ᄉᆞ로 물너가니 이ᄂᆡ 몸도 이곳에 잇다가 도라감 ᄀᆞᆺ흘가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="42" n="20">ᄆᆞᄋᆞᆷ의 ᄉᆡᆼ각ᄒᆞ되 텬도화 피ᄂᆞᆫ 거ᄉᆞᆯ 보니 ᄂᆞ뷔ᄅᆞᆯ 쳥ᄒᆞᆷ도 ᄀᆞᆺ고 ᄯᅩᄒᆞᆫ 이상ᄒᆞᆫ 일이라</sent>
+<sent type="main" lang="kor" page="42" n="21">ᄂᆡ가 황도를 향ᄒᆞ고 올 ᄯᆡ에 산상의셔 한 노인이 불너 허든 말을 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="42" n="22">졍셩이 지극ᄒᆞ여야 부모를 차져 보리라 ᄒᆞ신 말ᄉᆞᆷ이 가이 슈상ᄒᆞ고 이상ᄒᆞᄂᆞ 읏지 이런 일을 ᄭᆡ다르리오</sent>
+<sent type="main" lang="kor" page="42-43" n="23">오날 밤의 됴흔 경ᄉᆞ를 셩취ᄒᆞᆫ 듯 ᄆᆞᄋᆞᆷ 즐겁고 혼이 ᄂᆞ라 구소운외에 잇ᄂᆞᆫ 듯ᄒᆞ야</sent><!--듯ᄒᆞ^야-->
+</pages>
+
+<pages n="43">
+<img n="43">https://kohico.kr/_media/image/간행년도_간략서명_권차/43.jpg</img>
+<sent type="main" lang="kor" page="43" n="1">오날 부인을 뫼시고 여러가지 일을 ᄉᆡᆼᄒᆞ니 한심ᄒᆞ고 답답ᄒᆞᆫ 일이 한두 가지 아니요</sent>
+<sent type="main" lang="kor" page="43" n="2">쳡쳡 싸혓고 ᄯᅩ ᄉᆡᆼ각ᄒᆞ니 셔가의게 자라남을 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="43" n="3">과연 ᄂᆡ 부친이 아니라 내가 그 손의 양육 밧어 길닌 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="43" n="4">이곳을 당ᄒᆞ여 부인을 맛나 여러 슈말을 드르니 ᄆᆞᄋᆞᆷ의 가장 슈상ᄒᆞ고 의심이 잇도다</sent>
+<sent type="main" lang="kor" page="43" n="5">ᄯᅩᄒᆞᆫ 부인이 나ᄅᆞᆯ 보고 ᄌᆞ긔 아ᄃᆞᆯ과 방불ᄒᆞ여 져ᄃᆡ지 나ᄅᆞᆯ 보고 슯허ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="43" n="6">엇지된 일인지 내 ᄆᆞᄋᆞᆷ도 비창ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="43" n="7">쳐음으로 맛ᄂᆞᆫ 사ᄅᆞᆷ으로 슈문슈답ᄒᆞᆷ이 비록 친쳑보다 더ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="43" n="8">ᄉᆡᆼ각건ᄃᆡ 길에 올 ᄯᆡ에 노인이 말ᄉᆞᆷᄒᆞ시기ᄅᆞᆯ 부모ᄅᆞᆯ 졍셩을 다ᄒᆞ여야 ᄎᆞ지리라 ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="43" n="9">이 부인이 내 모친인지 나의 조모인지 확실치 못ᄒᆞ니 무ᄉᆞᆷ 증거로 ᄒᆞ여 ᄎᆞ져 볼가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="43" n="10">앙텬탄식ᄒᆞ다가 황도에 갈 일ᄶᅡ가 급ᄒᆞᆷ으로 ᄒᆡᆼ장을 슈습ᄒᆞ여 ᄯᅥ나려 ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="43" n="11">부인이 이르되</sent>
+<sent type="main" lang="kor" page="43" n="12">소 승상은 경셩ᄃᆡ가로 번셩ᄒᆞ고 벼살이 일품에 이르러 집ᄂᆡ ᄉᆞ번ᄒᆞ던이</sent>
+<sent type="main" lang="kor" page="43" n="13">내게 이르러 아들 형뎨를 두어 장ᄌᆞᄂᆞᆫ 나라의 몸을 밧쳐 만리 타향에 가셔 이십 년이 되도록 종뎍과 ᄉᆞᄉᆡᆼ을 모르니</sent>
+<sent type="main" lang="kor" page="43" n="14">ᄉᆡᆼ각ᄒᆞ건ᄃᆡ 험ᄒᆞᆫ 길을 갈 ᄯᆡ에 필경 도뎍을 만나 쥭엇거나</sent>
+<sent type="main" lang="kor" page="43" n="15">창망ᄒᆞᆫ ᄃᆡᄒᆡᄅᆞᆯ 건너다가 심한 풍파ᄅᆞᆯ 익이지 못ᄒᆞ여 파션이 되여 모든 일ᄒᆡᆼ이 몰ᄉᆞᄒᆞ여 슈즁 원흔 된 듯ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="43" n="16">ᄉᆡᆼ각ᄒᆞ면 금창이 터지ᄂᆞᆫ 듯ᄒᆞ고 ᄆᆞᄋᆞᆷ을 진졍ᄒᆞᆯ 바이 업셔 ᄒᆞᆼ상 셜위ᄒᆞᄂᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="43" n="17">소 승상의 집이 영이 졀손이 되엿스니 ᄉᆡᆼ각ᄒᆞ면 망극지 안이리요 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="43" n="18">슯히 울며 운경다려 왈</sent>
+<sent type="main" lang="kor" page="43" n="19">공ᄌᆞᄂᆞᆫ 나의 혈육이 안이나 우리 학ᄉᆞ의 풍ᄎᆡᄅᆞᆯ 가졋고</sent>
+<sent type="main" lang="kor" page="43" n="20">ᄯᅩ 셔로 이ᄀᆞᆺ치 만나ᄂᆞᆫ 것도 젼ᄉᆡᆼ의 큰 인연을 ᄆᆡ져</sent>
+<sent type="main" lang="kor" page="43" n="21">ᄎᆞ셰의 맛나 서로 졍곡에 말과 고락간 여러가지ᄅᆞᆯ 서로 말ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="43" n="22">ᄯᅩ 나ᄂᆞᆫ 외로온 사ᄅᆞᆷ이 되여 의지ᄒᆞᆯ 곳도 업고 바랄 곳도 바이 업셔</sent>
+<sent type="main" lang="kor" page="43-44" n="23">희로ᄋᆡ락이 도모지 업서 이졔 죽을 날이나 기ᄃᆞ리고 잇슬 다름이오니</sent><!--업^서-->
+</pages>
+
+<pages n="44">
+<img n="44">https://kohico.kr/_media/image/간행년도_간략서명_권차/44.jpg</img>
+<sent type="main" lang="kor" page="44" n="1">깁히 ᄉᆡᆼ각ᄒᆞ시고 공ᄌᆞ와 이졔 이별이 훌훌이 되니</sent><!--'훌훌이'의 뒤에 오는 '훌'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="2">셥셥ᄒᆞ온 말ᄉᆞᆷ을 읏지 다ᄒᆞ릿가</sent><!--'셥셥ᄒᆞ온'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="3">이번에 황셩의 가 쳔ᄒᆡᆼ으로 과거ᄒᆞ시거든 지나실 길에 차지시고</sent>
+<sent type="main" lang="kor" page="44" n="4">만일 시운이 불ᄒᆡᆼᄒᆞ여 과거ᄅᆞᆯ 못할지라도 ᄎᆞ자보아 원ᄒᆞᄂᆞᆫ 일이 업게 ᄒᆞ소셔 ᄒᆞ고 통곡ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="44" n="5">운경이 ᄎᆞᆷ연ᄒᆞᆷ을 층량치 못ᄒᆞ여 부인ᄭᅴ 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="44" n="6">부인ᄭᅴ셔 이 ᄀᆞᆺ흔 사ᄅᆞᆷ을 이쳐럼 귀히 넉이시고 더욱 ᄉᆞ랑ᄒᆞ옵시니 목셕인들 엇지 이즈릿가</sent>
+<sent type="main" lang="kor" page="44" n="7">황도ᄅᆞᆯ 가면 회환이 어늬 ᄯᆡ 되올지 조만을 긔필치 못ᄒᆞ겟ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="44" n="8">만일 회환ᄒᆞ오면 과문불입ᄒᆞ올잇가</sent>
+<sent type="main" lang="kor" page="44" n="9">부인은 과도이 ᄉᆡᆼ각 마시옵고</sent>
+<sent type="main" lang="kor" page="44" n="10">ᄂᆡᄂᆡ 안녕ᄒᆞ옵시기ᄅᆞᆯ ᄇᆞ라ᄂᆞ이다 ᄒᆞ고</sent><!--'ᄂᆡᄂᆡ'의 뒤에 오는 '내'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="11">부인ᄭᅴ 하직ᄒᆞ고 길을 ᄌᆡ촉ᄒᆞ여 황도의 득달ᄒᆞ니 녹슈 쳥운에 션ᄇᆡ 구름 모히듯ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="44" n="12">즉시 ᄉᆞ관을 졍ᄒᆞ고 장즁에 드러가니 상이 친림ᄒᆞ시고 글졔를 현졔판의 붓쳤거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="44" n="13">운이 즉시 용연에 먹을 갈고 황모필 흠셕 풀어 일필휘지ᄒᆞ여 션장ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="44" n="14">텬ᄌᆡ 보시고 아름다이 녁이ᄉᆞ 방문에 장원으로써 부르ᄉᆞ 실ᄂᆡᄅᆞᆯ ᄌᆡ촉ᄒᆞ시고 장악을 ᄉᆞ급ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="44" n="15">장안ᄃᆡ로 상으로 나아올ᄉᆡ 명망이 당시의 진동ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="44" n="16">텬ᄌᆞㅣ 더욱 ᄉᆞ랑ᄒᆞ여 벼살을 도도사 한님학ᄉᆞᄅᆞᆯ 졔슈ᄒᆞ시니</sent><!--'도도사'의 뒤에 오는 '도'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="17">운경이 ᄆᆞᄋᆞᆷ의 더욱 깃부나 근심이 ᄐᆡ산 ᄀᆞᆺ고 부모를 ᄉᆡᆼ각ᄒᆞ여 쥬야 셜워ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="44" n="18">각셜 잇ᄯᆡ 만조 ᄇᆡᆨ관을 모흐고 조졍ᄉᆞᄅᆞᆯ 의론ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="44" n="19">한 신하ㅣ 텬ᄌᆞᄭᅴ 쥬 왈</sent>
+<sent type="main" lang="kor" page="44" n="20">이졔 듯ᄉᆞ오니 각도 각읍에 흉년이 드러 ᄇᆡᆨ셩이 도탄즁의 드러 부지할 슈 업고</sent>
+<sent type="main" lang="kor" page="44" n="21">긔근을 면치 못ᄒᆞ여 쥭ᄂᆞᆫ ᄌᆡ 부지기슈라 ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="44" n="22">각도 방ᄇᆡᆨ들은 ᄇᆡᆨ셩의 원억을 모르고 옥셕을 분변치 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="44" n="23">이런 연고로 국셰가 말이 못 되고 렬국의 슈치ᄅᆞᆯ 면치 못ᄒᆞ겟ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="44-45" n="24">이번 방문에 급졔ᄒᆞᆫ 운경은 젼학ᄉᆞ 소위에 ᄌᆡ조와 ᄯᅩ 셩품 어질미 갓ᄉᆞ와 ᄇᆡᆨ셩을 가히 ᄉᆞ랑ᄒᆞ올지니</sent><!--운경^은-->
+</pages>
+
+<pages n="45">
+<img n="45">https://kohico.kr/_media/image/간행년도_간략서명_권차/45.jpg</img>
+<sent type="main" lang="kor" page="45" n="1">운경으로써 각도 각읍 도어ᄉᆞᄅᆞᆯ 졔슈ᄒᆞ시면</sent>
+<sent type="main" lang="kor" page="45" n="2">ᄇᆡᆨ셩의 ᄆᆞᄋᆞᆷ을 안돈케 ᄒᆞ야 국ᄐᆡ민안ᄒᆞ고 가급인족 ᄒᆞ겟ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="45" n="3">셩상은 깁히 통촉ᄒᆞ옵심을 바라ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="45" n="4">텬ᄌᆞㅣ 이 말을 드르시고 즉시 운경으로써 각도 어ᄉᆞᄅᆞᆯ 졔슈ᄒᆞ시고 가라ᄉᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="45" n="5">경으로 각도 안찰어ᄉᆞᄅᆞᆯ 보ᄂᆡᄂᆞ니 아모조록 ᄇᆡᆨ셩의 ᄆᆞᄋᆞᆷ을 안돈케 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="45" n="6">각읍 슈령 방ᄇᆡᆨ이 불측지인이 잇셔 죄ᄅᆞᆯ 범ᄒᆞ고 ᄇᆡᆨ셩의 ᄌᆡ물을 토ᄉᆡᆨᄒᆞᄂᆞᆫ ᄌᆡ 잇거든 션참후계ᄒᆞ라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="45" n="7">운경이 황명을 밧ᄌᆞ와 텬ᄌᆞᄭᅴ ᄉᆞ은슉ᄇᆡᄒᆞ고 길을 ᄯᅥ날ᄉᆡ</sent>
+<sent type="main" lang="kor" page="45" n="8">각도 각읍 각면 각촌 각동을 물론ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="45" n="9">방방곡곡이 젼령ᄒᆞ여 왈</sent><!--'방방곡곡이'의 뒤에 오는 '방'과 '곡'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="45" n="10">ᄇᆡᆨ셩들이 원악ᄒᆞᆫ 일이 잇거든 관곽ᄉᆞ로 ᄃᆡ령ᄒᆞ라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="45" n="11">션문 노코 위의ᄅᆞᆯ ᄀᆞᆺ초아 졀강으로 먼져 나려올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="45" n="12">잇ᄯᆡ 졍부인이 운경을 작별ᄒᆞᆫ 지 삼 년의 소식을 듯지 못ᄒᆞ고 황도의 잇단 말도 못 드러</sent>
+<sent type="main" lang="kor" page="45" n="13">쥬야 궁금ᄒᆞ게 지ᄂᆡ나 종시 오지 안이ᄒᆞ니 부인이 더욱 셜워ᄒᆞ며 한탄ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="45" n="14">남의 ᄌᆞ식이란 거시 무졍ᄒᆞ고 야슉ᄒᆞᆯ사 황도의 올나가 과거ᄅᆞᆯ 보고 나려갈 ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="45" n="15">나ᄅᆞᆯ 찻지 안이ᄒᆞ니 무졍ᄒᆞ도다 졔가 날 ᄀᆞᆺ흐면 엇지 그져 가리요 ᄒᆞ시더라</sent>
+<sent type="main" lang="kor" page="45" n="16">잇ᄯᆡ 운경이 졀강 ᄯᅡ 소 승상 ᄃᆡᆨ을 드러가니 부인은 후원 텬도화 나무 아ᄅᆡ 잇셔</sent>
+<sent type="main" lang="kor" page="45" n="17">삼 일 젼붓터 ᄭᅩᆺ 피운 거살 보고 슯흔 중 즐겨ᄒᆞ며 하ᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="45" n="18">텬도홰 피엿스니 됴흔 경ᄉᆞ 잇슬가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="45" n="19">ᄯᅩ 황쥬ᄌᆞᄉᆞ로 간 소위가 도라오ᄂᆞᆫ가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="45" n="20">운경은 ᄉᆡᆼ각도 안이ᄒᆞ고 쥬야 기ᄃᆞ리더니</sent>
+<sent type="main" lang="kor" page="45" n="21">운경이 부인ᄭᅴ 뵈거ᄂᆞᆯ 부인이 ᄉᆞᆲ혀보니 젼에 과거 보라 가든 운경이라</sent>
+<sent type="main" lang="kor" page="45" n="22">부인이 대희ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="45" n="23">그동안 황도에 가 잘 잇셧스며 그ᄅᆡ 이 길에 과거ᄒᆞ엿ᄂᆞᆫ지 듯고져 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="45" n="24">운경이 답 왈</sent>
+<sent type="main" lang="kor" page="45-46" n="25">황도에 가 ᄉᆞ관의 잇셔 몸이 편ᄒᆞᆫ 즁 이번 길에 황은을 닙ᄉᆞ와 장원급졔ᄒᆞ고</sent><!--편^ᄒᆞᆫ-->
+</pages>
+
+<pages n="46">
+<img n="46">https://kohico.kr/_media/image/간행년도_간략서명_권차/46.jpg</img>
+<sent type="main" lang="kor" page="46" n="1">한림학ᄉᆞ 겸 각도 각읍 안찰어ᄉᆞᄅᆞᆯ 졔슈ᄒᆞ시기로 령을 밧ᄌᆞ옵고</sent>
+<sent type="main" lang="kor" page="46" n="2">지금 나려가ᄂᆞᆫ 길에 부인 ᄃᆡᆨ에 와셔 잠간 뵈옵고져 왓ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="46" n="3">부인ᄭᅴ셔 텬도화 아ᄅᆡ 계시기로 뵈엿ᄉᆞ오며 텬도화ᄅᆞᆯ 보오니</sent>
+<sent type="main" lang="kor" page="46" n="4">ᄃᆡᆨ에 무ᄉᆞᆷ 즐거옴과 반가온 소식을 드르시겟ᄉᆞ오니 이러케 반가오실 ᄯᆡ 어ᄃᆡ 잇스릿가</sent>
+<sent type="main" lang="kor" page="46" n="5">ᄒᆞᆯ 즘에 승상ᄃᆡᆨ 상하 노복이 학ᄉᆞᄅᆞᆯ 보고 즐겨ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="46" n="6">부인이 이 말을 듯고</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="7">그ᄃᆡ 공명이 져럿틋 놉하스니 ᄆᆞᄋᆞᆷ의 깃부고 즐거온 말 읏지 다 ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="46" n="8">나ᄂᆞᆫ 학ᄉᆡ 과거ᄒᆞ고 그져 지나간 쥴 알고 무뎡이 녁이고</sent>
+<sent type="main" lang="kor" page="46" n="9">ᄆᆞᄋᆞᆷ이 셥셥ᄒᆞ야 잇ᄂᆞᆫ 즁</sent><!--'셥셥ᄒᆞ야'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="10">이럿틋 ᄎᆞ즈니 학ᄉᆞᄅᆞᆯ 본 듯</sent>
+<sent type="main" lang="kor" page="46" n="11">탐탐 반갑기 긔지 업네</sent><!--'탐탐'의 뒤에 오는 '탐'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="12">져럿틋 귀히 되엿스니 일우 치하ᄒᆞᆯ 말이 업거이와</sent>
+<sent type="main" lang="kor" page="46" n="13">ᄆᆞᄋᆞᆷ의 ᄉᆡᆼ각ᄒᆞ기ᄅᆞᆯ 공ᄌᆞ의 언ᄉᆞ와 ᄒᆡᆼ동과 ᄆᆞᄋᆞᆷ과 용모가 우리 학ᄉᆞ와 ᄀᆞᆺ트나</sent>
+<sent type="main" lang="kor" page="46" n="14">셔가라 ᄒᆞ니 하일 업건이와</sent>
+<sent type="main" lang="kor" page="46" n="15">우리 집 후원의 텬도화ᄂᆞᆫ 증험ᄒᆞᄂᆞᆫ ᄭᅩᆺ치라 우리 집 사ᄅᆞᆷ이 안이면</sent>
+<sent type="main" lang="kor" page="46" n="16">이ᄃᆡ지 즐거워 ᄭᅩᆺ치 안이 피건마ᄂᆞᆫ 아지 못게라 엇지ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="46" n="17">공ᄌᆞ 우리 집의 올 ᄯᆡ마다 피엿스니 고이ᄒᆞ고 이상ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="46" n="18">ᄯᅩ 부인이 운경다려 왈 공ᄌᆞ 자라든 일을 ᄌᆞ셔이 이르라 ᄒᆞ신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="46" n="19">어사 대답ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="46" n="20">ᄯᅩ한 부인게셔 학사ᄅᆞᆯ 이별ᄒᆞᆫ 지 슈십 년의 용모 풍ᄎᆡᄅᆞᆯ 엇지 모르잇가</sent>
+<sent type="main" lang="kor" page="46" n="21">ᄯᅩ한 운경은 나히 이십 되엿스니 일노써 과도히 ᄉᆡᆼ각 마시고 셜워 마시옵소셔</sent>
+<sent type="main" lang="kor" page="46" n="22">셰상의 ᄀᆞᆺ흔 사ᄅᆞᆷ도 만사옵고 셩졍과 ᄒᆡᆼ동이 ᄀᆞᆺ흔 사ᄅᆞᆷ도 만이 잇스나</sent>
+<sent type="main" lang="kor" page="46" n="23">그 사ᄅᆞᆷ을 ᄃᆡᄒᆞ면 ᄀᆞᆺ지 안을 거시요</sent>
+<sent type="main" lang="kor" page="46" n="24">ᄯᅩ 의심ᄒᆞ시고 아ᄃᆞᆯ이라고 ᄒᆞ지 못ᄒᆞ옵기ᄂᆞᆫ 이ᄯᆡ ᄌᆞ사ᄭᅴ셔 나히 이십 셰 갑졀은 되셧슬 거시니</sent>
+<sent type="main" lang="kor" page="46" n="25">ᄯᅩ 일노써 ᄉᆡᆼ각지 마옵소셔</sent>
+<sent type="main" lang="kor" page="46" n="26">부인이 이 말을 듯고</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46-47" n="27">그러ᄒᆞᆫᄯᅳᆺᄒᆞ나 내 ᄉᆡᆼ각의 우리 혈육이 안이면 엇지ᄒᆞ여 텬도화 피여 증험ᄒᆞ게 ᄒᆞ니</sent><!--증험ᄒᆞ게 ^ ᄒᆞ니-->
+</pages>
+
+<pages n="47">
+<img n="47">https://kohico.kr/_media/image/간행년도_간략서명_권차/47.jpg</img>
+<sent type="main" lang="kor" page="47" n="1">내 말은 미상ᄒᆞ여 ᄒᆞᆫ 말이니 이상ᄒᆞ고 필유곡졀이 잇ᄂᆞᆫ 일이라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="47" n="2">인ᄒᆞ여 어ᄉᆞ에 관듸 소ᄆᆡᄅᆞᆯ 붓들고 슯히 울거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="47" n="3">ᄇᆡᆨ발노안의 눈물이 비오듯 ᄒᆞ니 어ᄉᆞㅣ ᄯᅩ 창연ᄒᆞ야 공순이 졀ᄒᆞ고 다시 이러나 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="47" n="4">소ᄌᆡ 엇지 부인ᄭᅴ 긔망ᄒᆞ여 알외릿가</sent>
+<sent type="main" lang="kor" page="47" n="5">소ᄉᆡᆼ은 근본 황텬탑의 거ᄉᆡᆼᄒᆞᄂᆞᆫ 셔쥰의 아ᄃᆞᆯ노셔 부친의 은덕으로 글을 ᄇᆡ화</sent>
+<sent type="main" lang="kor" page="47" n="6">오날날 션ᄇᆡ라 칭ᄒᆞ옵고</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="47" n="7">나이 졈졈 자라ᄆᆡ 울젹ᄒᆞ여</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="47" n="8">텬하 졔일 강산을 구경도 ᄒᆞ고 셰월을 보ᄂᆡ려 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="47" n="9">텬ᄌᆞᄭᅴ셔 각도 각읍에 발령ᄒᆞ여 모월 모일은 과거ᄅᆞᆯ 보일 터이니</sent>
+<sent type="main" lang="kor" page="47" n="10">향곡 션ᄇᆡᄂᆞᆫ 일ᄌᆞᄅᆞᆯ 일치 말고 오라 ᄒᆞ시기에</sent>
+<sent type="main" lang="kor" page="47" n="11">황도로 갈 ᄯᆡ에 부인을 뵈옵고 ᄯᅩᄒᆞᆫ 국은이 망극ᄒᆞ여 장원급졔ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="47" n="12">한림학ᄉᆞ 겸 각도 각읍 안찰도어ᄉᆞᄅᆞᆯ 졔슈ᄒᆞ시기로</sent>
+<sent type="main" lang="kor" page="47" n="13">지금 나려가ᄂᆞᆫ 길에 부인 ᄃᆡᆨ을 지나지 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="47" n="14">ᄯᅩᄒᆞᆫ 소ᄌᆞᄅᆞᆯ ᄉᆞ량ᄒᆞ시오니 엇지 이져ᄇᆞ리며</sent>
+<sent type="main" lang="kor" page="47" n="15">엇지 부인ᄭᅴ 조금이라도 긔망ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="47" n="16">부인ᄭᅴ셔 근 이십 년을 장ᄌᆞ와 ᄎᆞᄌᆞ를 다 이별ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="47" n="17">오ᄂᆞᆯᄭᆞ지 지ᄂᆡ시니 심즁에 무ᄉᆞᆷ ᄯᅳᆺ이 업겟ᄉᆞ오며</sent>
+<sent type="main" lang="kor" page="47" n="18">ᄯᅩᄒᆞᆫ 겸ᄒᆞ여 ᄃᆡᆨ에셔도 이와 ᄀᆞᆺ흔 벼살노 셰월을 보ᄂᆡ시다가</sent>
+<sent type="main" lang="kor" page="47" n="19">지금 부인만 한젹이 계시오니 무ᄉᆞᆷ ᄉᆡᆼ각이 업스릿가</sent>
+<sent type="main" lang="kor" page="47" n="20">부인은 과도이 ᄉᆡᆼ각 마시고 계시면 소ᄌᆞᄂᆞᆫ 비록 남이나 부인에 졍곡을 ᄉᆡᆼ각ᄒᆞ오면 엇지 이즈릿가</sent>
+<sent type="main" lang="kor" page="47" n="21">소ᄌᆞ 비록 나히 이십 셰나 나라의 어ᄉᆞ를 졔수ᄒᆞ심으로 가오니</sent>
+<sent type="main" lang="kor" page="47" n="22">위엄이 일광 ᄀᆞᆺ고 그 권셰 뉘가 거력ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="47" n="23">소ᄌᆞ가 황쥬로 몬져 나려가 ᄌᆞᄉᆞ의 일을 탐지ᄒᆞ여 츄문ᄒᆞ올 거시니</sent>
+<sent type="main" lang="kor" page="47" n="24">부인은 념녀 ᄆᆞᄋᆞᆸ시고 ᄃᆡᆨ에 평안이 계시면 학ᄉᆞ의 일을 먼져 젼달ᄒᆞ겟삽고</sent>
+<sent type="main" lang="kor" page="47" n="25">그러치 못ᄒᆞ면 황셩에 도라와 국ᄉᆞᄅᆞᆯ 결단ᄒᆞᆫ 후에 부인 말ᄉᆞᆷ을 텬ᄌᆞᄭᅴ 엿ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="47" n="26">소씨 형적ᄅᆞᆯ 차질 방침을 알외여 소씨ᄃᆡᆨ 후ᄉᆞᄅᆞᆯ 잇게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="47-48" n="27">부인에 원한ᄒᆞ시던 ᄆᆞᄋᆞᆷ을 풀게 ᄒᆞ겟ᄉᆞ오니</sent><!--부^인에-->
+</pages>
+
+<pages n="48">
+<img n="48">https://kohico.kr/_media/image/간행년도_간략서명_권차/48.jpg</img>
+<sent type="main" lang="kor" page="48" n="1">부인은 셥셥다 마옵시고</sent><!--'셥셥다'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="2">내내 안녕ᄒᆞ옵소셔 ᄒᆞ거ᄂᆞᆯ</sent><!--'내내'의 뒤에 오는 '내'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="3">ᄎᆞ셜 부인이 운경의 말을 드르시고 일너 왈</sent>
+<sent type="main" lang="kor" page="48" n="4">어ᄉᆡ 이ᄀᆞᆺ치 말ᄉᆞᆷᄒᆞ오니 감격ᄒᆞᆫ 말을 엇지 다ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="48" n="5">만일 하ᄂᆞᆯ이 도으ᄉᆞ 학ᄉᆞ 형뎨ᄅᆞᆯ 차져주면 은혜 ᄇᆡᆨ골난망이요</sent>
+<sent type="main" lang="kor" page="48" n="6">만일 못 ᄎᆞ지면 계후ᄒᆞ여 주심을 바라ᄂᆞ니다</sent>
+<sent type="main" lang="kor" page="48" n="7">학ᄉᆞ와 며나리 이별ᄒᆞᆯ ᄯᆡ에 졍표ᄒᆞᆯ 거시 업셔 깁으로 뎍삼을 지어</sent>
+<sent type="main" lang="kor" page="48" n="8">하나ᄂᆞᆫ 나삼 속에 봉ᄎᆡᄅᆞᆯ 싸셔 쥬어 보ᄂᆡ고 하ᄂᆞᄂᆞᆫ 내게 잇스니</sent>
+<sent type="main" lang="kor" page="48" n="9">이 젹삼을 가졋다가 의심이 나고 ᄎᆞ져도 말을 고지 듯지 안니ᄒᆞᆯ ᄯᆡ</sent>
+<sent type="main" lang="kor" page="48" n="10">이 젹ᄉᆞᆷ을 쥬면 졍령이 알고 의심이 업시 나의 회포를 알 거시니</sent>
+<sent type="main" lang="kor" page="48" n="11">그ᄃᆡ 일노써 증험ᄒᆞ여 ᄎᆞ지라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="48" n="12">어ᄉᆞ다려 왈 그ᄃᆡ 나히 이십 셰라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="48" n="13">ᄉᆡᆼ월ᄉᆡᆼ일이 어ᄂᆡ 달ᄶᅳᆷ 되며 일ᄌᆞᄂᆞᆫ 몃칠 날이요</sent>
+<sent type="main" lang="kor" page="48" n="14">어ᄉᆞㅣ 이 말ᄉᆞᆷ을 듯고 ᄉᆡᆼ월 일자를 쟈셔히 엿ᄌᆞ오니 부인이 왈</sent>
+<sent type="main" lang="kor" page="48" n="15">학ᄉᆞ와 나의 며나리 셔로 이별ᄒᆞᆯ ᄯᆡ 잉ᄐᆡᄒᆞᆫ 지 삼삭이라</sent>
+<sent type="main" lang="kor" page="48" n="16">달슈를 혜아리건ᄃᆡ 그ᄃᆡ와 동갑이라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="48" n="17">더욱 슯허ᄒᆞ며 보고 십흔 마ᄋᆞᆷ이 불 이듯 ᄒᆞ거ᄂᆞᆯ 마음을 진졍ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="48" n="18">나의 며나리ᄂᆞᆫ 어ᄃᆡ 가 사럿ᄂᆞᆫ지 쥭엇ᄂᆞᆫ지 알 수 업고</sent>
+<sent type="main" lang="kor" page="48" n="19">그동안 무ᄉᆞ이 ᄒᆡ산ᄒᆞ얏ᄂᆞᆫ가 낫치 못ᄒᆞ고 죽엇ᄂᆞᆫ지 소식이 망연ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="48" n="20">이내 셜름 뉘 알니요 ᄒᆞ시며 진졍치 못ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="48" n="21">잇ᄯᆡ 어ᄉᆡ 부인ᄭᅴ셔 이ᄀᆞᆺ치 창연ᄒᆞ시고 금창이 터지도록 통곡ᄒᆞᆷ을 ᄎᆞᆷ아 못 볼너라</sent>
+<sent type="main" lang="kor" page="48" n="22">이러구러 일낙셔산ᄒᆞ고 월츌동령ᄒᆞ니 부인은 ᄂᆡ당으로 드러가시고</sent>
+<sent type="main" lang="kor" page="48" n="23">초당의 젹막히 혼자 잇셔 승상 ᄃᆡᆨ 일을 셰셰곰곰 ᄉᆡᆼ각ᄒᆞ니</sent><!--'셰셰곰곰'의 뒤에 오는 '셰'와 '곰'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="24">잠을 일우지 못ᄒᆞ여 마ᄋᆞᆷ이 비감ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="48" n="25">동창의 명월을 ᄃᆡᄒᆞ여 ᄒᆡᆼ즁에 통소를 ᄂᆡ여 한 곡됴 부니</sent>
+<sent type="main" lang="kor" page="48-49" n="26">야심 삼경에 난ᄃᆡ 업ᄂᆞᆫ 통소 소ᄅᆡ 외당으로 나거ᄂᆞᆯ</sent><!--'통소 소ᄅᆡ'의 뒤에 오는 '소'는 재점으로 표기되어 있음--><!--외당으로 ^ 나거ᄂᆞᆯ-->
+</pages>
+
+<pages n="49">
+<img n="49">https://kohico.kr/_media/image/간행년도_간략서명_권차/49.jpg</img>
+<sent type="main" lang="kor" page="49" n="1">종들이 나와 보고 ᄃᆡ경실ᄉᆡᆨᄒᆞ며</sent>
+<sent type="main" lang="kor" page="49" n="2">수군수군 ᄒᆞᄂᆞᆫ 말이 이상ᄒᆞ도다</sent><!--'수군수군'의 뒤에 오는 '수'와 '군'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="3">통소를 보니 반갑고 반갑도다</sent>
+<sent type="main" lang="kor" page="49" n="4">종들이 어ᄉᆞᄭᅴ 문 왈</sent>
+<sent type="main" lang="kor" page="49" n="5">이 통소를 어ᄃᆡ셔 나셧기로 이 야심ᄒᆞᆫ 즁에 불어 사ᄅᆞᆷ의 마ᄋᆞᆷ을 어지러이 ᄒᆞ시ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="49" n="6">어ᄉᆞㅣ ᄃᆡ 왈</sent>
+<sent type="main" lang="kor" page="49" n="7">단소ᄂᆞᆫ ᄂᆡ 집에 잇든 물건이요</sent>
+<sent type="main" lang="kor" page="49" n="8">ᄯᅩ 이 단소ᄂᆞᆫ ᄂᆡ의 부친이 잘 부시ᄂᆞᆫ 고로 ᄇᆡ화 부더니</sent>
+<sent type="main" lang="kor" page="49" n="9">이번에 황도의 갈 ᄯᆡ에 ᄒᆡᆼ즁에 두어 달은 명랑ᄒᆞ고 마ᄋᆞᆷ이 울젹ᄒᆞ며 젹막ᄒᆞᆫ ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="49" n="10">한 번 부러 일노써 벗을 삼고 밤을 지ᄂᆡᆺ노라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="49" n="11">그 종드리 듯고 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="49" n="12">어ᄉᆞᄭᅴ 알외나니 이 단소ᄂᆞᆫ 우리 ᄃᆡᆨ 학ᄉᆞᄭᅴ셔 가지시든 단소라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="49" n="13">울며 부인ᄭᅴ 드러가 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="49" n="14">소녀들이 금야 삼경의 외당으로셔 은은이 단소 소ᄅᆡ 들니기로 </sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음--><!--'단소 소ᄅᆡ'의 뒤에 오는 '소'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="15">마ᄋᆞᆷ의 반갑고 즐겨</sent>
+<sent type="main" lang="kor" page="49" n="16">학ᄉᆞᄭᅴ서 오시ᄂᆞᆫ가 ᄒᆞ여 급히 나가 보니</sent>
+<sent type="main" lang="kor" page="49" n="17">어ᄉᆞᄭᅴ셔 동창에 빗친 달을 벗을 ᄉᆞᆷ고 상령산 일곡을 쉬지도 안코 시럼 업시 불기로</sent>
+<sent type="main" lang="kor" page="49" n="18">소녀들이 자셔이 보니 그젼 학ᄉᆞ 부시던 단소요</sent>
+<sent type="main" lang="kor" page="49" n="19">그 곡됴도 학ᄉᆞ 부시던 한 곡됴기로 무러보오니</sent>
+<sent type="main" lang="kor" page="49" n="20">어ᄉᆞ ᄃᆡ답이 우리 집의 잇ᄂᆞᆫ 단소요</sent>
+<sent type="main" lang="kor" page="49" n="21">우리 부친이 가ᄅᆞ쳐 쥬시고 이번 길에 ᄒᆡᆼ즁에 가지고 단이다가</sent>
+<sent type="main" lang="kor" page="49" n="22">마ᄋᆞᆷ이 울울ᄒᆞ고 비창ᄒᆞᆯ ᄯᆡ 이와 ᄀᆞᆺ치 부노라 ᄒᆞ기에</sent><!--'울울ᄒᆞ고'의 뒤에 오는 '울'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49" n="23">어ᄉᆞ게 말ᄉᆞᆷᄒᆞ옵기를 그 단소ᄂᆞᆫ 우리 ᄃᆡᆨ 학ᄉᆞ의 단소가 분명ᄒᆞ다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="49" n="24">부인ᄭᅴ 드러왓ᄂᆞ이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="49" n="25">부인이 침셕의 누엇다가 학ᄉᆞ의 단소가 왓다 ᄒᆞᄂᆞᆫ 말을 듯고 ᄃᆡ경ᄒᆞ여 밧비 나와</sent>
+<sent type="main" lang="kor" page="49" n="26">어ᄉᆞ다려 단소를 구경ᄒᆞᄌᆞ 쳥ᄒᆞ니 단소를 즉시 ᄂᆡ여 보이가ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="49" n="27">부인이 단소를 보시고 물건은 우리 학ᄉᆞ의 단소라 ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="49" n="28">단소를 붓잡고 통곡ᄒᆞ시거ᄂᆞᆯ 어ᄉᆡ 민망이 넉여 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="49" n="29">부인은 의심치 마르소셔 이 단소ᄂᆞᆫ 소ᄌᆞ 션셰붓터 나려오ᄂᆞᆫ 셰젼지 물건이라 ᄒᆞ오니 자셔이 보소셔 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="49-50" n="30">부인이 이 말을 듯고 눈물을 거두고 ᄌᆞ셰이 보니 과연 승상 물건이라</sent><!--눈물^을-->
+</pages>
+
+<pages n="50">
+<img n="50">https://kohico.kr/_media/image/간행년도_간략서명_권차/50.jpg</img>
+<sent type="main" lang="kor" page="50" n="1">부인이 어ᄉᆞ다려 왈</sent>
+<sent type="main" lang="kor" page="50" n="2">이 단소ᄂᆞᆫ 셔촉 ᄉᆞ신으로 가실 ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="50" n="3">단소 소ᄅᆡ를 됴와ᄒᆞ시ᄂᆞᆫ 고로</sent><!--'단소 소ᄅᆡ를'의 뒤에 오는 '소'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="4">특별이 옥으로 만다라 가지고 오셧스되</sent>
+<sent type="main" lang="kor" page="50" n="5">소ᄅᆡ 씩씩ᄒᆞ고 쳥아ᄒᆞ며 사ᄅᆞᆷ의 ᄆᆞᄋᆞᆷ 좃ᄎᆞ 즐거오면</sent><!--'씩씩ᄒᆞ고'의 뒤에 오는 '씩'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="6">쳥아한 소ᄅᆡ로 사ᄅᆞᆷ의 ᄆᆞᄋᆞᆷ을 즐겁게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="50" n="7">슯흐면 쳐량ᄒᆞᆫ 즁 일촌 간장이 녹ᄂᆞᆫ듯 ᄒᆞ야 이 소ᄅᆡ로 셰월을 보ᄂᆡ다가</sent>
+<sent type="main" lang="kor" page="50" n="8">승상ᄭᅴ셔 시운이 불ᄒᆡᆼᄒᆞ여 림종시에 장ᄌᆞ 학ᄉᆞ의게 젼ᄒᆞ신 고로</sent>
+<sent type="main" lang="kor" page="50" n="9">학ᄉᆡ 항상 즐거ᄒᆞ고 세월을 보ᄂᆡ더니 이번 황쥬로 갈 ᄯᆡ에 가지고 가더니</sent>
+<sent type="main" lang="kor" page="50" n="10">오ᄂᆞᆯᄂᆞᆯ 단소의 쥬인은 보지 못ᄒᆞ고</sent><!--'오ᄂᆞᆯᄂᆞᆯ'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="11">물건만 보앗스니 이 단소가 뉘게로붓터 왓ᄂᆞ뇨 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="50" n="12">언필에 왈 이 단쇼를 주던 사ᄅᆞᆷ은 학ᄉᆞ의 ᄉᆞᄉᆡᆼ을 알 거시니 그ᄃᆡᄂᆞᆫ 긔망치 말나 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="50" n="13">단쇼를 만지며 대셩통곡 왈</sent>
+<sent type="main" lang="kor" page="50" n="14">학ᄉᆞᄂᆞᆫ 어ᄃᆡ 가고 슈즁에 가지고 노든 물건은 이십 년 만의 왓ᄂᆞᆫ가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="50" n="15">슯허ᄒᆞ시며 울거ᄂᆞᆯ 노복들이 단쇼를 보고 안이 울니 업더라</sent>
+<sent type="main" lang="kor" page="50" n="16">어ᄉᆞㅣ 그 경상을 참아 보지 못ᄒᆞ야 마음의 ᄌᆞ연 비창ᄒᆞ고 슯흔 마ᄋᆞᆷ이 홀연 드러가고</sent>
+<sent type="main" lang="kor" page="50" n="17">ᄯᅩᄒᆞᆫ 이 곡졀을 도모지 모를 것이라 ᄒᆞ며 다시 ᄃᆡ답ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="50" n="18">부인의 말ᄉᆞᆷ을 듯ᄉᆞ오니 ᄆᆞᄋᆞᆷ이 ᄌᆞ연 비감ᄒᆞ오며</sent>
+<sent type="main" lang="kor" page="50" n="19">부인ᄭᅴ셔 운경을 보고 장ᄌᆞ 학ᄉᆞ와 방불허다 ᄒᆞ시더니</sent>
+<sent type="main" lang="kor" page="50" n="20">이졔 ᄯᅩᄒᆞᆫ 단쇼도 나의 학ᄉᆞ 단쇼라 ᄒᆞ시오니 그 일을 도모지 알 수 업ᄉᆞᆸ고</sent>
+<sent type="main" lang="kor" page="50" n="21">이 일에 ᄃᆡᄒᆞ여ᄂᆞᆫ 부인만이 이리 ᄒᆞ시기ᄂᆞᆫ 거시 안이라</sent>
+<sent type="main" lang="kor" page="50" n="22">ᄃᆡᆨ에 여러 노비도 이ᄀᆞᆺ치 ᄒᆞ니 분명 학ᄉᆞ의 단쇼라 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="50" n="23">의심컨ᄃᆡ 학ᄉᆞ의 단쇼 ᄀᆞᆺ흐면 엇지ᄒᆞ여 쇼ᄌᆞ 집 세젼지 물건이 되릿가</sent>
+<sent type="main" lang="kor" page="50" n="24">단쇼라 ᄒᆞᄂᆞᆫ 거슨 쇼ᄅᆡ ᄀᆞᆺ고 부ᄂᆞᆫ ᄯᅳᆺ도 ᄀᆞᆺ흐니</sent>
+<sent type="main" lang="kor" page="50" n="25">엇지ᄒᆞ여 학ᄉᆞ의 단쇼를 분명이 아시ᄂᆞ잇가 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="50" n="26">부인이 이 말을 듯고</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="27">그럴듯ᄒᆞ나 공ᄌᆞᄂᆞᆫ 자셔이 드르소셔</sent>
+<sent type="main" lang="kor" page="50-51" n="28">이 단쇼를 본 곳셔 ᄒᆞᆯ ᄯᆡ에 뒤구멍 아ᄅᆡ에</sent><!--아ᄅᆡ^에-->
+</pages>
+
+<pages n="51">
+<img n="51">https://kohico.kr/_media/image/간행년도_간략서명_권차/51.jpg</img>
+<sent type="main" lang="kor" page="51" n="1">은은이 옥속에 삭엿스되 쇼연의 단소라 ᄒᆞ엿스나</sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="2">쇽으로 은은이 삭인 고로 모를 사ᄅᆞᆷ이 만코</sent><!--'은은이'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="3">다만 집의 사ᄅᆞᆷ은 다 알 거시요</sent>
+<sent type="main" lang="kor" page="51" n="4">ᄯᅩ 확실ᄒᆞᆫ 증거가 잇ᄂᆞ니 학ᄉᆡ 황쥬로 나려갈 ᄯᆡ에 총급히 가ᄂᆞᆫ 고로</sent>
+<sent type="main" lang="kor" page="51" n="5">단쇼 넛ᄂᆞᆫ 집을 이져 오날 내게 잇스니</sent>
+<sent type="main" lang="kor" page="51" n="6">집 씨여 보면 자연 알 거시라 ᄒᆞ시고 노비를 불너 ᄂᆡ여 오라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="51" n="7">노비 명을 듯고 즉시 ᄂᆡ당의 드러가 단쇼 집을 ᄂᆡ여다 씨여보니</sent>
+<sent type="main" lang="kor" page="51" n="8">조곰도 허슈치 안이ᄒᆞ고 ᄭᅩᆨ 만ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="51" n="9">부인이 두 손에 들고 어ᄉᆞ를 뵈여 왈</sent>
+<sent type="main" lang="kor" page="51" n="10">이거슬 씨여보니 ᄭᅩᆨ 맛고 허슈ᄒᆞᆫ 곳이 업스니 엇지 ᄂᆡ 집 단쇼가 안이리오</sent>
+<sent type="main" lang="kor" page="51" n="11">ᄂᆡ 집에 잇ᄂᆞᆫ 텬도화가 공ᄌᆞ 왕ᄂᆡ시에 ᄭᅩᆺ치 피기로 이상히 넉엿더니 과연 반가온 일이 잇셧고</sent>
+<sent type="main" lang="kor" page="51" n="12">ᄯᅩ 그ᄃᆡᄂᆞᆫ 남의 ᄌᆞ손이라 ᄒᆞᆫ갓 풍ᄎᆡ와 얼골이 학ᄉᆞ와 ᄀᆞᆺ흐니 이상ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="51" n="13">학ᄉᆞ가 가졋든 단쇼ᄂᆞᆫ ᄌᆞ긔 잇든 집을 도라옴으로 텬도화 반가옴을 익이지 못ᄒᆞ여 ᄭᅩᆺ이 피엿스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="51" n="14">사ᄅᆞᆷ은 우ᄆᆡᄒᆞ야 이 물건이 쳐음브터 온 줄을 몰ᄂᆞ스니 도리여 초목만 ᄀᆞᆺ지 못ᄒᆞ도다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="51" n="15">공ᄌᆞ 왕ᄂᆡ시에 ᄭᅩᆺ과 입ᄉᆡ 피여 이ᄀᆞᆺ치 깃분 물건을 보게 ᄒᆞ니 엇지 아름답지 아니ᄒᆞ리요 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="51" n="16">어ᄉᆞㅣ 이 거동을 보고 마음에 의심ᄒᆞᄂᆞ 분명이 어려셔붓터 단쇼를 집에셔 보고</sent>
+<sent type="main" lang="kor" page="51" n="17">부형이 ᄂᆞ를 쥰 거라 ᄒᆞ고 ᄌᆡ삼 ᄉᆡᆼ각ᄒᆞ고 발명ᄒᆞᄆᆡ</sent>
+<sent type="main" lang="kor" page="51" n="18">졍부인이 이 말을 듯고 ᄒᆞᆯ 일 업셔 어ᄉᆞ다려 왈</sent>
+<sent type="main" lang="kor" page="51" n="19">그러ᄒᆞ면 세상의 갓흔 단쇼도 만코 그ᄃᆡ도 학ᄉᆞ와 방불ᄒᆞ기에 이갓치 ᄒᆞᄂᆞᆫ 거시니</sent>
+<sent type="main" lang="kor" page="51" n="20">너머 발명ᄒᆞᆯ 거시 업스ᄂᆞ 일은 이상ᄒᆞ고 고이ᄒᆞ도다 ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="51" n="21">어ᄉᆞ의 마음이 살ᄂᆞᆫᄒᆞ여 진졍키 어려온지라</sent>
+<sent type="main" lang="kor" page="51" n="22">내가 길에 올 ᄯᆡ에 로즁에셔 한 노인을 맛ᄂᆞ 문답ᄒᆞᆯ ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="51" n="23">과거를 ᄒᆞ려 ᄒᆞ거든 부모를 차져야 ᄒᆞᆯ 거시오</sent>
+<sent type="main" lang="kor" page="51" n="24">부모를 차지려 ᄒᆞ면 졍셩을 다ᄒᆞ여야 ᄒᆞᆯ 거시니 그리 알고</sent>
+<sent type="main" lang="kor" page="51-52" n="25">ᄯᅩ 션약 셰 ᄀᆡ를 쥬며 급ᄒᆞᆫ 일이 잇거든 쓰라 한 일을 ᄉᆡᆼ각ᄒᆞ니</sent><!--쥬며 ^ 급ᄒᆞᆫ-->
+</pages>
+
+<pages n="52">
+<img n="52">https://kohico.kr/_media/image/간행년도_간략서명_권차/52.jpg</img>
+<sent type="main" lang="kor" page="52" n="1">오ᄂᆞᆯ 졍씨 부인이 ᄂᆞ를 ᄉᆞ랑ᄒᆞ고 ᄯᅩᄒᆞᆫ 학ᄉᆞ와 ᄀᆞᆺ고 겸ᄒᆞ여 단쇼를 보더니 더욱 반겨ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="52" n="2">그 곡졀을 뮤르니 이상ᄒᆞᆫ 즁 노인이 말ᄉᆞᆷᄒᆞ신 거시 잇ᄯᆡ를 두고 ᄀᆞᄅᆞ치심인가</sent>
+<sent type="main" lang="kor" page="52" n="3">ᄯᅩ 다른 곳에 가셔 맛ᄂᆞᆯ 일을 말ᄉᆞᆷᄒᆞ엿ᄂᆞᆫ지 졍신을 차릴 수 업시 살ᄂᆞᆫᄒᆞ고</sent>
+<sent type="main" lang="kor" page="52" n="4">ᄯᅩ 그 노인이 뭇지 안이ᄒᆞᄂᆞᆫ 말ᄉᆞᆷ을 ᄂᆡ계다가 이쳐럼 ᄒᆞ셧스니</sent>
+<sent type="main" lang="kor" page="52" n="5">ᄂᆞᄂᆞᆫ 필유 곡졀이 잇ᄂᆞᆫ 사ᄅᆞᆷ이라</sent>
+<sent type="main" lang="kor" page="52" n="6">노인으로 말ᄒᆞ면 우리와 다르고</sent>
+<sent type="main" lang="kor" page="52" n="7">산즁에 잇셔 로ᄇᆡᆨ량의 교훈을 밧어 신션이 되엿스니 범인과ᄂᆞᆫ 다를 거신ᄃᆡ</sent>
+<sent type="main" lang="kor" page="52" n="8">ᄂᆞ를 보고 이ᄀᆞᆺ치 ᄒᆞ시니 이상ᄒᆞ도다</sent>
+<sent type="main" lang="kor" page="52" n="9">내 부친이 ᄂᆡ 부친 안이며</sent>
+<sent type="main" lang="kor" page="52" n="10">모친이 죽엇다 ᄒᆞ더니 내 모친이 안인가</sent>
+<sent type="main" lang="kor" page="52" n="11">우연이 황도 ᄂᆡ왕의 이 집을 들넛더니 이ᄃᆡ지 심ᄒᆞ고 ᄂᆞ를 더욱 ᄉᆞ랑ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="52" n="12">모든 일을 ᄌᆞ셔이 알냐 ᄒᆞ니 가위 ᄉᆡᆼ각ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="52" n="13">의심이 잇고 ᄂᆞᄂᆞᆫ 셔가가 안이라</sent><!--'셔가가'의 뒤에 오는 '가'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="14">필연 소가가 셔씨게 길닌 듯 십흐ᄂᆞ 젹확ᄒᆞᆫ 증거 업고</sent><!--'소가가'의 뒤에 오는 '가'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="15">ᄯᅩ 이ᄀᆞᆺ치 부인이 분명히 말ᄒᆞ며 분명ᄒᆞᆫ 소 학ᄉᆞ의 물건이라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="52" n="16">내 지금 ᄯᅥᄂᆞᆯ지라도 후일을 아지 못ᄒᆞ겟기로</sent>
+<sent type="main" lang="kor" page="52" n="17">됴흔 말노 부인을 위로ᄒᆞ고 ᄂᆡ 후ᄉᆞ를 보리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="52" n="18">어ᄉᆡ 부인ᄭᅴ 하직ᄒᆞ려 ᄒᆞᆯᄉᆡ 부인을 위ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="52" n="19">소ᄌᆡ 비록 ᄂᆞ히 어리ᄂᆞ 부인ᄭᅴ옵셔 마ᄋᆞᆷ이 소ᄉᆡᆼ으로 ᄒᆞ여금 이ᄀᆞᆺ치 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="52" n="20">도리여 뵈옵지 안이ᄒᆞᆷ만 ᄀᆞᆺ지 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="52" n="21">ᄯᅩ 소ᄉᆡᆼ으로 말ᄒᆞᆯ지라도 부인의 말을 여러 번 거역ᄒᆞᄂᆞᆫ 것 ᄀᆞᆺᄉᆞ와 ᄆᆞ음이 불안ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="52" n="22">단소로 말ᄒᆞ오면 이 물건은 셔가의 셰젼지 물건이오나</sent>
+<sent type="main" lang="kor" page="52" n="23">그 이허를 분명이 알 슈 업ᄉᆞᆸ기로 드리지 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="52" n="24">지금 가려ᄒᆞ고 ᄒᆡᆼ장을 슈습ᄒᆞ니 부인은 ᄆᆞ음을 편이ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="52" n="25">후일 상봉ᄒᆞᆯ 날에 다시 뵈올 일이 잇ᄉᆞ올 터이오니</sent>
+<sent type="main" lang="kor" page="52" n="26">그ᄯᆡ 일이 확실ᄒᆞ고 모든 일을 다 자셔이 알어 조쳐ᄒᆞ겟ᄉᆞ옵고</sent>
+<sent type="main" lang="kor" page="52-53" n="27">ᄯᅩ 겸ᄒᆞ여 황쥬 가셔소라도 자연이 쥬인을 차져 갈 거시니</sent><!--가셔^소라도-->
+</pages>
+
+<pages n="53">
+<img n="53">https://kohico.kr/_media/image/간행년도_간략서명_권차/53.jpg</img>
+<sent type="main" lang="kor" page="53" n="1">조곰도 의심치 마시고 ᄂᆡᄂᆡ 안녕ᄒᆞ심을 츅복ᄒᆞᄂᆞ이다 ᄒᆞ고 하직ᄒᆞ거ᄂᆞᆯ</sent><!--'ᄂᆡᄂᆡ'의 뒤에 오는 '내'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="2">부인과 노복들이 셜워ᄒᆞ며 이ᄀᆞᆺ치 훌훌이 감을</sent><!--'훌훌이'의 뒤에 오는 '훌'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="3">셥셥이 ᄉᆡᆼ각ᄒᆞ고 부인 왈</sent><!--'셥셥이'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="4">그ᄃᆡ 엇지 이ᄀᆞᆺ치 쇽히 가려ᄒᆞᄂᆞᆫ요 내가 어ᄉᆞ로 사괸 지 오ᄅᆡ지 못ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="53" n="5">졍리로 말ᄒᆞ면 일가 친쳑과 ᄀᆞᆺ치 ᄉᆞ랑ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="53" n="6">오날날 당ᄒᆞ여 못ᄒᆞᆯ 의론이 업시 ᄒᆞᄂᆞᆫ 즁</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="7">나의 마음을 ᄉᆡᆼ각ᄒᆞ고 실즁에 한된 확ᄉᆞ를 차져 보마 ᄒᆞ여 이 ᄀᆞᆺ치 깃부고 즐걸 ᄯᆡ 업시 지ᄂᆡᄂᆞᆫ 터에</sent>
+<sent type="main" lang="kor" page="53" n="8">ᄯᅳᆺ밧게 길을 ᄌᆡ촉ᄒᆞ고 홀지에 이별ᄒᆞ려 ᄒᆞ니 내 마음이 편치 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="53" n="9">어ᄉᆞ를 그간 단쇼로 ᄒᆞ여 괴롭게 ᄒᆞᆷ으로 마음의 감졍이 ᄂᆞ 이러ᄒᆞᆫ가 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="53" n="10">어ᄉᆞᄂᆞᆫ 몃칠 더 유ᄒᆞᆷ이 엇더ᄒᆞ뇨</sent>
+<sent type="main" lang="kor" page="53" n="11">어ᄉᆡ 이 말을 듯고 ᄃᆡ경 실ᄉᆡᆨᄒᆞ며 부인ᄭᅴ 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="53" n="12">이런 말ᄉᆞᆷ은 두 번도 마옵소셔</sent>
+<sent type="main" lang="kor" page="53" n="13">소ᄉᆡᆼ이 부인 말ᄉᆞᆷ을 거역지 못ᄒᆞ여 몃칠 유ᄒᆞ겟ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="53" n="14">셥셥이 ᄉᆡᆼ각 마소셔 ᄒᆞ고 아즉 유련ᄒᆞ더라</sent><!--'셥셥이'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="15">이ᄯᆡ 어ᄉᆞㅣ 부인ᄭᅴ 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="53" n="16">오ᄂᆞᆯ 이곳셔 유ᄒᆞᆷ 동안 할 일도 업고 심심ᄒᆞ오니</sent><!--'심심ᄒᆞ오니'의 뒤에 오는 '심'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="17">부인ᄃᆡᆨ을 ᄌᆞ셔이 구경ᄒᆞ고 화원에 텬도화 나무도 볼가 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="53" n="18">부인이 즉시 어ᄉᆞ를 다리고 구경 식일ᄉᆡ 학ᄉᆞ 잇든 방을 가니</sent>
+<sent type="main" lang="kor" page="53" n="19">셔안의 틔ᄭᅳᆯ이 가득ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="53" n="20">학ᄉᆞ 쓰든 그릇도 진ᄋᆡ가 가득ᄒᆞ고</sent><!--'진ᄋᆡ가 가득ᄒᆞ고'의 뒤에 오는 '가'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="21">분벽 ᄉᆞ창도 젹요ᄒᆞ고 옥등은 예란듯시 걸녀 잇ᄂᆞᆫ데</sent>
+<sent type="main" lang="kor" page="53" n="22">젹막ᄒᆞᆫ 빈방 안으로 드러가더니 학ᄉᆞ를 ᄉᆡᆼ각ᄒᆞ고 셔안을 의지ᄒᆞ여 ᄋᆡ연이 울거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="53" n="23">어ᄉᆞㅣ 마음이 비감ᄒᆞ여 참아 보기에 어려온지라</sent>
+<sent type="main" lang="kor" page="53" n="24">부인ᄭᅴ 위로ᄒᆞ여 모시고 화계에 올ᄂᆞ감ᄋᆡ 각ᄉᆡᆨ 화초 만발ᄒᆞᆫ 즁</sent>
+<sent type="main" lang="kor" page="53" n="25">찬란ᄒᆞᆫ 텬도화 한숑이 피엿스되 오ᄉᆡᆨ이 령롱ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="53" n="26">닙흔 봄을 맛난것 갓치 화려ᄒᆞᆫ 츈풍을 넘노ᄂᆞᆫ 듯ᄒᆞ며</sent>
+</pages>
+
+<pages n="54">
+<img n="54">https://kohico.kr/_media/image/간행년도_간략서명_권차/54.jpg</img>
+<sent type="main" lang="kor" page="54" n="1">그 향긔로운 긔운이 봄 갓더라</sent>
+<sent type="main" lang="kor" page="54" n="2">어ᄉᆞㅣ 이거살 보고 긔이히 녁여 만지며 왈</sent>
+<sent type="main" lang="kor" page="54" n="3">ᄭᅩᆺ치야 나ᄂᆞᆫ 네 임ᄌᆞ 안이로되 ᄂᆞ의 ᄂᆡ왕시에 피여 과ᄀᆡᆨ에 심ᄉᆞ를 ᄉᆡ롭게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="54" n="4">홀노 계신 부인의 마음을 슯흐게 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="54" n="5">너ᄂᆞᆫ 어이 된 나무완ᄃᆡ 사ᄅᆞᆷ의 마음을 즐겁게도 ᄒᆞ고 슬푸게도 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="54" n="6">비록 초목이ᄂᆞ 신령ᄒᆞᆫ 사ᄅᆞᆷ보다 월등ᄒᆞ니 가히 아름다온 즁</sent>
+<sent type="main" lang="kor" page="54" n="7">네 몸의 향긔가 궁즁을 진동케 ᄒᆞ니 ᄂᆡ음ᄉᆡ를 됴타 아니ᄒᆞᆯ 이 업ᄀᆡᆺ도다</sent>
+<sent type="main" lang="kor" page="54" n="8">네 이갓치 긔묘ᄒᆞᆫ ᄂᆞ무로셔 반가온 긔별을 한 번 뵈여 쥬렴으ᄂᆞ ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="54" n="9">어ᄉᆞ 마ᄋᆞᆷ이 감동ᄒᆞ여 눈물이 흐르ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="54" n="10">부인이 이 거동을 보고 이상이 넉여 어ᄉᆞ다려 왈</sent>
+<sent type="main" lang="kor" page="54" n="11">마ᄋᆞᆷ을 엇지 이갓치 비감ᄒᆞ너뇨</sent>
+<sent type="main" lang="kor" page="54" n="12">어ᄉᆡ 부인ᄭᅴ 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="54" n="13">ᄃᆡᆨ을 구경ᄒᆞᆯ 시에 학ᄉᆞ 계시든 방을 가보니</sent>
+<sent type="main" lang="kor" page="54" n="14">부인 비창ᄒᆞ신 일을 말ᄒᆞ면 더ᄒᆞᆯ 말이 업ᄉᆞᆸ거니와</sent>
+<sent type="main" lang="kor" page="54" n="15">소ᄉᆡᆼ이 방을 구경ᄒᆞᆯ ᄯᆡ에 마ᄋᆞᆷ의 학ᄉᆞ 뵈올 ᄉᆡᆼ각이 불연듯ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="54" n="16">마ᄋᆞᆷ을 진졍치 못ᄒᆞ고 화계로 도라가 텬도화를 보니</sent>
+<sent type="main" lang="kor" page="54" n="17">이름다온 소식을 젼ᄒᆞ여 깃분 일을 잘ᄒᆞᄂᆞᆫ 고로</sent>
+<sent type="main" lang="kor" page="54" n="18">이번에 텬도화를 보고 반가온 말을 젼ᄒᆞ라 ᄒᆞᆷ은 학ᄉᆞ를 곳 오실 일을 가ᄂᆡ의 진동케 ᄒᆞ라 ᄒᆞ고 경계ᄒᆞ엿스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="54" n="19">마ᄋᆞᆷ을 진졍치 못ᄒᆞ여 잇스ᄂᆞ 부인ᄭᅴ셔 홀노 근심ᄒᆞ심을 소ᄉᆡᆼ 마ᄋᆞᆷ의 걱졍이옵고</sent>
+<sent type="main" lang="kor" page="54" n="20">심회를 익이지 못ᄒᆞ여 률 네 귀를 지으리라</sent>
+<sent type="main" lang="kor" page="54" n="21">그 글에 ᄀᆞᄅᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="54" n="22">일동룡문 졀계지ᄒᆞ니 슈긔션방은 만자페요</sent>
+<sent type="main" lang="kor" page="54" n="23">슈의어ᄉᆞ도 졀강을 화계 텬도는 위수ᄀᆡ라</sent>
+<sent type="main" lang="kor" page="54" n="24">가인 당상부인 음이요 심회 일파 삼쳑금ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="54" n="25">쳘향문하 도보영을 셰상입암 슈쇄인을</sent>
+</pages>
+
+<pages n="55">
+<img n="55">https://kohico.kr/_media/image/간행년도_간략서명_권차/55.jpg</img>
+<sent type="main" lang="kor" page="55" n="1">이 글을 ᄒᆡ셕ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="55" n="2">심화를 익이지 못ᄒᆞ여 마음을 위로ᄒᆞᆷ이라 부인ᄭᅴ 하직ᄒᆞ고 길을 ᄯᅥ날ᄉᆡ</sent>
+<sent type="main" lang="kor" page="55" n="3">어ᄉᆡ 졀강으로 오기ᄭᆞ지 송ᄉᆞ를 결단치 안이ᄒᆞ고 왓는지라</sent>
+<sent type="main" lang="kor" page="55" n="4">각셜 잇ᄯᆡ 어ᄉᆞㅣ 길을 ᄯᅥᄂᆞ 각관의 ᄎᆞᆷᄎᆞᆷ 드러 ᄇᆡᆨ셩의 일과 관장의 일을 옥셕을 분간ᄒᆞ니</sent><!--'ᄎᆞᆷᄎᆞᆷ'의 뒤에 오는 'ᄎᆞᆷ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="5">어ᄉᆞ의 명쳘ᄒᆞ다 ᄒᆞᆷ이 쳐쳐의 진동ᄒᆞᆫ지라</sent><!--'쳐쳐의'의 뒤에 오는 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="6">어ᄉᆞㅣ 골골마다 소 학ᄉᆞ 종젹을 츄심ᄒᆞ라 션문관 ᄌᆞᄒᆞ여 보ᄂᆡ며</sent><!--'골골마다'의 뒤에 오는 '골'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="7">잇ᄯᆡ 어ᄉᆡ 숑결ᄒᆞ기를 한결갓치 ᄒᆞ여 여러 골을 지ᄂᆡ여 한 골에 쉬으려 ᄒᆞᆯᄉᆡ</sent><!--'ᄒᆞ여 여러'의 뒤에 오는 '여'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="8">ᄇᆡᆨ셩의 소지와 원셩이 다슈히 잇거ᄂᆞᆯ ᄎᆞ례로 보니 소 학사의 원졍이 잇거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="55" n="9">심히 반가와 모든 소지와 문셔ᄂᆞᆫ 져바리고 학사 원졍을 ᄉᆞᆲ혀보니</sent>
+<sent type="main" lang="kor" page="55" n="10">그 글에 ᄒᆞ엿스되 젼 한림학사 겸 황쥬ᄌᆞ사 소위ᄂᆞᆫ 총망 즁 글월을 어사젼의 올니ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="55" n="11">하관은 졀강 ᄯᅡ 소 승상의 아ᄃᆞᆯ이옵더니 ᄂᆞ이 십칠 셰에 급졔ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="55" n="12">겸 한림학사로셔 모년 모월의 국은을 닙사와 황쥬ᄌᆞ사를 졔슈ᄒᆞ시ᄆᆡ</sent>
+<sent type="main" lang="kor" page="55" n="13">가쇽을 다리고 홀노 계신 노모ᄭᅴ 하직ᄒᆞ고 황쥬 물가를 다다르ᄆᆡ 슈로를 건네려ᄒᆞ온즉</sent>
+<sent type="main" lang="kor" page="55" n="14">일엽 션이 업고 건네기 망연ᄒᆞ더니 한 편을 바라보니 한 쥬졈이 잇기로 밤을 지ᄂᆡᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="55" n="15">잇ᄯᆡ 황쳔탑에 사ᄂᆞᆫ 셔쥰이라 하ᄂᆞᆫ 놈이 불측한 흉계를 ᄂᆡ여 ᄇᆡ 한 쳑을 가지고 와 건네라 ᄒᆞ기로</sent>
+<sent type="main" lang="kor" page="55" n="16">ᄆᆞᄋᆞᆷ의 깃거ᄒᆞ고 ᄯᅩ 나히 졂어 그 놈에 ᄭᅬ에 ᄲᅡ져 조곰도 의심치 아니ᄒᆞ고 물을 건너옵더니</sent>
+<sent type="main" lang="kor" page="55" n="17">ᄇᆡᄅᆞᆯ ᄒᆡ즁에 두고 닷ᄎᆞᆯ 쥬더니 하관의 일ᄒᆡᆼ을 다 쥭이고</sent><!--'ᄒᆡ즁에'가 원문에는 '히즁에'라 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="18">하관을 동여 물에 더지고 하관에 안ᄒᆡᄂᆞᆫ 다려다가</sent>
+<sent type="main" lang="kor" page="55" n="19">졔 계집으로 삼으려 ᄒᆞᆫ 계교ᄅᆞᆯ 엇지 알엇스리요</sent>
+<sent type="main" lang="kor" page="55-56" n="20">셰상에 이런 변이 날 쥴 엇지 ᄯᅳᆺᄒᆞ엿ᄉᆞ올잇가</sent><!--ᄯᅳᆺᄒᆞ^엿ᄉᆞ올잇가-->
+</pages>
+
+<pages n="56">
+<img n="56">https://kohico.kr/_media/image/간행년도_간략서명_권차/56.jpg</img>
+<sent type="main" lang="kor" page="56" n="1">하관이 ᄒᆡ즁에 드러 원혼이 될 거살 하ᄂᆞᆯ이 도으ᄉᆞ</sent>
+<sent type="main" lang="kor" page="56" n="2">물에 둥실둥실 ᄯᅥ 가다가</sent><!--'둥실둥실'의 뒤에 오는 '둥'과 '실'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="3">우연이 상고션에 부듸쳐도 아지 못ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="56" n="4">그 ᄇᆡ 상고들이 신톄ᄅᆞᆯ 보고 불상이 넉여 몰에셔 건져ᄂᆡ니</sent>
+<sent type="main" lang="kor" page="56" n="5">목슴은 겨우 보젼ᄒᆞ엿스나 몸이 반ᄉᆡᆼ반ᄉᆞ 되여 ᄇᆡ에셔 여러 날 고ᄉᆡᆼᄒᆞ여 낫스나</sent>
+<sent type="main" lang="kor" page="56" n="6">ᄉᆡᆼ각ᄒᆞ면 졍신이 아득ᄒᆞ고 고항을 ᄉᆡᆼ각ᄒᆞ면 구만리 ᄀᆞᆺ고</sent>
+<sent type="main" lang="kor" page="56" n="7">목슴이 살엇스나 뉘가 황쥬ᄌᆞᄉᆞ로 알니잇가</sent>
+<sent type="main" lang="kor" page="56" n="8">벽항궁촌에 드러 여러가지 상일ᄒᆞ여 목슴을 보젼ᄒᆞ기로 고향을 가지 못ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="56" n="9">동가슉 셔가식ᄒᆞ며 ᄉᆞ방으로 유리ᄀᆡ걸ᄒᆞ야 단인 지 이십 년이옵고</sent>
+<sent type="main" lang="kor" page="56" n="10">노모 슬하ᄅᆞᆯ ᄯᅥ난 이후로 ᄉᆞᄉᆡᆼ존망을 모르옵고</sent>
+<sent type="main" lang="kor" page="56" n="11">장장 츈일 긴긴 날을 슈심즁 지ᄂᆡ오며</sent><!--'장장 츈일 긴긴'의 뒤에 오는 '장'과 '긴'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="12">하관의 안ᄒᆡ로 말ᄒᆞ오면 물에 ᄲᅡ져 이별ᄒᆞᆯ ᄯᆡ 잉ᄐᆡᄒᆞᆫ 지 삼삭이 되야 이 변을 당ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="56" n="13">그간 사럿스면 ᄌᆞ녀간 나하써도 셔가 숀에 ᄉᆞ지 못ᄒᆞ엿슬 거시오</sent>
+<sent type="main" lang="kor" page="56" n="14">이 놈 원슈ᄅᆞᆯ 갑지 못ᄒᆞ고 죽ᄉᆞ오면 눈을 감지 못ᄒᆞᆯ지라</sent>
+<sent type="main" lang="kor" page="56" n="15">바라건ᄃᆡ 어ᄉᆞᄂᆞᆫ 황명을 밧ᄌᆞ와 각도 각읍의 원억ᄒᆞᆫ ᄇᆡᆨ셩의 일을 밝혀 명쳘이 살피옵셔</sent>
+<sent type="main" lang="kor" page="56" n="16">ᄇᆡᆨ셩의 원망이 업게 ᄒᆞ라 ᄒᆞ고 보ᄂᆡ시니</sent>
+<sent type="main" lang="kor" page="56" n="17">옥셕을 촉하의 분셕ᄒᆞ여 셔가 놈은 원슈ᄅᆞᆯ 갑게 쥭여쥬시고</sent>
+<sent type="main" lang="kor" page="56" n="18">하관의 안ᄒᆡᄂᆞᆫ 무죄ᄒᆞ오니 명쳘ᄒᆞ신 쳐분을 바라ᄂᆞ이다 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="56" n="19">ᄎᆞ셜 잇ᄯᆡ 어ᄉᆞㅣ ᄌᆞᄉᆞ의 원졍ᄒᆞᆫ 글을 자셔이 보고</sent>
+<sent type="main" lang="kor" page="56" n="20">ᄆᆞᄋᆞᆷ의 의심이 무궁ᄒᆞ야</sent><!--'ᄆᆞᄋᆞᆷ의 의심이'의 뒤에 오는 '의'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56" n="21">어ᄉᆞㅣ 즉시 ᄉᆞ령으로 ᄒᆞ야 소 학ᄉᆞᄅᆞᆯ 부르라 ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="56" n="22">ᄉᆞ령이 명을 듯고 학ᄉᆞᄅᆞᆯ ᄎᆞ지라 나갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="56" n="23">학ᄉᆞㅣ 잇ᄯᆡ 원졍을 드리고 나아올 ᄯᆡ에 그 골 리방을 보고 무러 왈</sent>
+<sent type="main" lang="kor" page="56" n="24">어ᄉᆞᄂᆞᆫ 어ᄃᆡ 사시며 뉘 집 공ᄌᆞ시뇨</sent>
+<sent type="main" lang="kor" page="56" n="25">리방이 답왈 어ᄉᆞ 사시ᄂᆞᆫ 곳은 황텬 ᄯᅡ의 사ᄂᆞᆫ 셔쥰 ᄃᆡ감의 ᄌᆞ졔라 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="56" n="26">학ᄉᆡ 이 말을 듯더니 ᄃᆡ경 왈</sent><!--이 ^ 말을-->
+</pages>
+
+<pages n="57">
+<img n="57">https://kohico.kr/_media/image/간행년도_간략서명_권차/57.jpg</img>
+<sent type="main" lang="kor" page="57" n="1">내가 일을 경솔이 ᄒᆞ엿고나</sent>
+<sent type="main" lang="kor" page="57" n="2">ᄂᆡ 운슈가 불ᄒᆡᆼᄒᆞ야 동셔남북으로 유리ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="57" n="3">동가슉 셔가식ᄒᆞᆷ을 괴로이 ᄉᆡᆼ각ᄒᆞ고 잇슬 ᄯᆡ에 풍편의 드른즉</sent>
+<sent type="main" lang="kor" page="57" n="4">텬ᄌᆞᄭᅴ셔 각도 각읍에 원억ᄒᆞᆫ ᄇᆡᆨ셩과 각읍 관장이 ᄇᆡᆨ셩의게 토ᄉᆡᆨᄒᆞ야</sent>
+<sent type="main" lang="kor" page="57" n="5">ᄇᆡᆨ셩을 무죄이 ᄯᅡ리고 억울이 ᄒᆞᄂᆞᆫ 일과</sent>
+<sent type="main" lang="kor" page="57" n="6">ᄯᅩ 그외에 잘못된 거살 구분 옥셕ᄒᆞ라 ᄒᆞ신 말을 드른 고로</sent>
+<sent type="main" lang="kor" page="57" n="7">심즁에 쳘쳔지원 잇기로 어ᄉᆞ ᄂᆞ려오시면</sent>
+<sent type="main" lang="kor" page="57" n="8">셔쥰에 일을 드러 원졍을 지여 드리리라 ᄒᆞ고</sent><!--'드리리라'의 뒤에 오는 '리'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="9">급ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 진졍ᄒᆞ고 잇다가</sent>
+<sent type="main" lang="kor" page="57" n="10">어ᄉᆞ 온단 말을 듯고 분ᄒᆞᆫ ᄆᆞᄋᆞᆷ을 익이지 못ᄒᆞ야 이ᄀᆞᆺ치 경솔이 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="57" n="11">어ᄉᆞ의 셩명을 아지 못ᄒᆞ고 어ᄉᆞ의 부친을 ᄃᆡᄒᆞ야 원졍을 ᄒᆞ야 원슈ᄅᆞᆯ 갑게 쥭여달ᄂᆞ ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="57" n="12">속담의 일으기ᄅᆞᆯ 혹을 ᄯᅦ이라 갓다 붓치고 온단 말이 ᄂᆡ 일에 맛쳣고</sent>
+<sent type="main" lang="kor" page="57" n="13">원슈ᄅᆞᆯ 갑흐려다가 ᄂᆡ가 쥭게 되야스니 텬디망아요 비젼지죄라</sent>
+<sent type="main" lang="kor" page="57" n="14">셜상에 가상으로 이 일을 장찻 엇지ᄒᆞ면 됴흘ᄂᆞᆫ지 답답ᄒᆞ고</sent><!--'답답ᄒᆞ고'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="15">만일 어ᄉᆞ가 글을 보고 분긔를 익이지 못ᄒᆞ야 ᄂᆞᄅᆞᆯ 잡으라 ᄒᆞ면 승텬 입지 못ᄒᆞ고 잡힐 터이니</sent>
+<sent type="main" lang="kor" page="57" n="16">찰하이 이곳에 잇지 말고 도쥬ᄒᆞᆷ만 ᄀᆞᆺ지 못ᄒᆞ다 ᄒᆞ며 탄식ᄒᆞ고 통곡ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="57" n="17">ᄂᆡ가 도쥬ᄒᆞ다 잡혀 욕을 보고 쥭을 거시 안이라</sent>
+<sent type="main" lang="kor" page="57" n="18">ᄂᆡ 읍ᄂᆡ 잇셔 텬ᄒᆡᆼ으로 살면 됴코</sent>
+<sent type="main" lang="kor" page="57" n="19">만일 죽게 되면 찰하리 물에 ᄲᅡ져 죽으니만 ᄀᆞᆺ지 못ᄒᆞᆫ 거산</sent>
+<sent type="main" lang="kor" page="57" n="20">더욱 고ᄉᆡᆼᄒᆞ고 지ᄂᆡ든 거살 ᄉᆡᆼ각ᄒᆞ면 지원극통ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="57" n="21">하ᄂᆞᆯ을 우러러 탄식ᄒᆞ며 긔졀ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="57" n="22">ᄌᆞᄉᆞ 쥬인 ᄒᆞ엿던 집이셔 구ᄒᆞ고 그 곡졀을 무르니</sent>
+<sent type="main" lang="kor" page="57" n="23">학ᄉᆞ 겨우 졍신올 차려 젼ᄉᆞ 일을 다 말ᄒᆞ니 관광ᄒᆞ든 사ᄅᆞᆷ이 뉘 안이 불상타 ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="57" n="24">이럼으로 학ᄉᆞ의 죵뎍을 감초아 쥬더라</sent>
+<sent type="main" lang="kor" page="57" n="25">잇ᄯᆡ에 사령이 학ᄉᆞᄅᆞᆯ 차지되 간 곳을 아지 못ᄒᆞ야 어ᄉᆞᄭᅴ 가 알외야</sent>
+<sent type="main" lang="kor" page="57" n="26">원졍을 올닌 학ᄉᆞᄅᆞᆯ 차지되 잇ᄂᆞᆫ 곳이 업ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="57-58" n="27">다시 구ᄉᆡᆨᄒᆞ야 보오면 차질ᄂᆞᆫ지 알 수 업ᄉᆞ오니 통촉ᄒᆞ심을 바라ᄂᆞ이다</sent><!--다시 ^ 구ᄉᆡᆨᄒᆞ야-->
+</pages>
+
+<pages n="58">
+<img n="58">https://kohico.kr/_media/image/간행년도_간략서명_권차/58.jpg</img>
+<sent type="main" lang="kor" page="58" n="1">어ᄉᆡ 이 말을 듯고 고히이 넉여 엇지ᄒᆞ면 차질가 ᄒᆞ고 ᄉᆡᆼ각ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="58" n="2">잇ᄯᆡ ᄇᆡ위암에셔 어ᄉᆞ 온단 말을 듯고 즁덜이 부인ᄭᅴ 말ᄒᆞ니 부인이 노승을 불너 왈</sent>
+<sent type="main" lang="kor" page="58" n="3">ᄂᆡ 몸이 이 졀에 드러온 지 이십 년의 골슈에 ᄇᆡᆨ인 심회ᄅᆞᆯ 숨기고</sent><!--'몸이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="4">오날날ᄭᆞ지 ᄂᆡ게 잇ᄂᆞᆫ 근심을 뉘 알니오</sent>
+<sent type="main" lang="kor" page="58" n="5">오날 드르니 명쳘ᄒᆞᆫ 어ᄉᆡ ᄂᆡ림ᄒᆞᄉᆞ</sent><!--'오날날ᄭᆞ지'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="6">옥셕을 분간ᄒᆞ야 남의 원억을 안찰ᄒᆞ신다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="58" n="7">잇ᄯᆡ를 맛ᄂᆞ ᄂᆞ의 원슈된 일을 숨기리오 ᄒᆞ고</sent><!--'맛ᄂᆞ ᄂᆞ의'의 뒤에 오는 'ᄂᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="8">노승의게 지필을 쳥ᄒᆞ야 원졍을 지려ᄒᆞᆯ ᄯᆡ에 노승들이 그 연유ᄅᆞᆯ 뭇거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="58" n="9">부인이 먼져 눈물을 흘니고 젼후 ᄉᆞᄅᆞᆯ ᄃᆡ강 말ᄒᆞ야 승들을 알게 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="58" n="10">승들이 눈물을 흘니며 셔가의 불측ᄒᆞᆫ 일을 일우 칭량치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="58" n="11">부인ᄭᅴ 즉시 지필을 드린ᄃᆡ 부인이 원졍을 지여 그 졀 승들을 쥬니</sent>
+<sent type="main" lang="kor" page="58" n="12">승들이 보고 그졔야 ᄌᆡ상의 부인인 쥴 알고 공슌ᄒᆞᆷ이 더욱 ᄉᆡ롭더라</sent>
+<sent type="main" lang="kor" page="58" n="13">잇ᄯᆡ ᄒᆞᆫ 졂은 승으로 ᄒᆞ야금 원졍을 쥬어 어ᄉᆞᄭᅴ 밧치게 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="58" n="14">어ᄉᆡ 곤핍ᄒᆞ야 셔안을 의지ᄒᆞ고 동창에 명월을 ᄃᆡᄒᆞ여</sent>
+<sent type="main" lang="kor" page="58" n="15">심회도 울젹ᄒᆞ고 달도 명낭ᄒᆞ야 잠을 일우지 못ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="58" n="16">ᄒᆡᆼ즁에 단소ᄅᆞᆯ ᄂᆡ ᄒᆞᆫ 곡조를 쳥아ᄒᆞ게 부러 ᄆᆞᄋᆞᆷ을 젹이 위로ᄒᆞ며 심ᄉᆞᄅᆞᆯ 안심ᄒᆞᆯ 지음의</sent>
+<sent type="main" lang="kor" page="58" n="17">다시 ᄉᆡᆼ각ᄒᆞ고 고이 여겨</sent>
+<sent type="main" lang="kor" page="58" n="18">등촉을 도도고 학ᄉᆞ의 원졍을 ᄌᆞ셔이 보니</sent><!--'도도고'의 뒤에 오는 '도'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="19">승상 ᄃᆡᆨ 졍부인의 말ᄉᆞᆷ이 올토다</sent>
+<sent type="main" lang="kor" page="58" n="20">날을 의심 ᄂᆡ고 학ᄉᆞ와 방불ᄒᆞ다 ᄒᆞ심을 이졔 와 ᄭᆡ다르니</sent>
+<sent type="main" lang="kor" page="58" n="21">ᄂᆡ 모친이 셔가의게 잡혀 갓다가 날을 ᄂᆞ은 후에 졍령이 쥭으심이 올토다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="58" n="22">잠을 일우지 못ᄒᆞ고 더욱이 심회 울젹ᄒᆞ야 등촉을 도드고 안졋더니</sent>
+<sent type="main" lang="kor" page="58" n="23">믄득 녀승이 셔간을 가지고 와 드리거ᄂᆞᆯ 밧어 보니 한 원졍이라</sent>
+<sent type="main" lang="kor" page="58" n="24">그 글에 ᄒᆞ엿스되</sent>
+</pages>
+
+<pages n="59">
+<img n="59">https://kohico.kr/_media/image/간행년도_간략서명_권차/59.jpg</img>
+<sent type="main" lang="kor" page="59" n="1">졀강 ᄯᅡ에 사ᄂᆞᆫ 젼 한림학ᄉᆞ 겸 황쥬ᄌᆞᄉᆞ의 쳐 리씨ᄂᆞᆫ 쳔만 욕ᄉᆞ무지ᄒᆞᆫ 원졍을 어ᄉᆞ 탑하에 올니ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="59" n="2">소녀ᄂᆞᆫ ᄉᆞ부의 녀ᄌᆞㅣ로셔 ᄃᆡ승상 소연의 며ᄂᆞ리압더니 남편 소위로 ᄒᆞ야 황쥬ᄌᆞᄉᆞᄅᆞᆯ 졔수ᄒᆞ시ᄆᆡ</sent>
+<sent type="main" lang="kor" page="59" n="3">늙은 시모ᄭᅴ 하직ᄒᆞ고 쳡에 지아비로 더부러 ᄒᆞᆫ가디로 황쥬로 가옵다가</sent>
+<sent type="main" lang="kor" page="59" n="4">황텬탑 셔쥰의 ᄇᆡᄅᆞᆯ 만ᄂᆞ 일ᄒᆡᆼ을 다 싯고 건네다가</sent>
+<sent type="main" lang="kor" page="59" n="5">셔쥰이 불측디심을 품고 학ᄉᆞᄅᆞᆯ 동여 물에 넛코 일ᄒᆡᆼ을 다 죽이고</sent>
+<sent type="main" lang="kor" page="59" n="6">소녀를 강포ᄒᆞᆫ 욕을 면치 못ᄒᆞ게 되엿ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="59" n="7">셔쥰의 동ᄉᆡᆼ 셔ᄉᆡᆼ이 졔 형을 속이고 쇼녀ᄅᆞᆯ 불상이 넉여 아ᄎᆡ와 쇼녀를 북문으로 ᄂᆡ여 보ᄂᆡ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="59" n="8">밧비 도망ᄒᆞ다가 아ᄎᆡᄂᆞᆫ 움물에 ᄲᅡ져 쥭고</sent>
+<sent type="main" lang="kor" page="59" n="9">소녀ᄂᆞᆫ 쳡쳡한 산즁으로 가다가</sent><!--'쳡쳡한'의 뒤에 오는 '쳡'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="10">맛ᄎᆞᆷ 녀승을 맛나 잔명을 보젼ᄒᆞ고 졀의 잇ᄉᆞᆸ더니</sent>
+<sent type="main" lang="kor" page="59" n="11">텬ᄒᆡᆼ으로 ᄋᆞᄃᆞᆯ을 나으니 졀간의 두지 못ᄒᆞ고 싀모ᄭᅴ셔 상별ᄒᆞᆯ ᄯᆡ에 나삼 봉ᄎᆡ를 한데 싸고</sent>
+<sent type="main" lang="kor" page="59" n="12">ᄉᆡᆼ월ᄉᆡᆼ일 ᄉᆞ쥬 써셔 나삼 쇽에 너허 길가의 두엇더니</sent>
+<sent type="main" lang="kor" page="59" n="13">맛ᄎᆞᆷ 목동들이 지나다가 아희 경상이 ᄎᆞᆷ혹ᄒᆞᆷ을 잔잉이 녁여 즉시 거두어 안고 황텬탑으로 ᄀᆞᆺ다 ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="59" n="14">바린 ᄌᆞ식에 유무를 모르옵고 쥬야로 근심 즁에 잇셔 그 경상을 엇지 다ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="59" n="15">이 졀의 잇ᄂᆞᆫ 지 이십 년이라 슯흐다</sent>
+<sent type="main" lang="kor" page="59" n="16">셰월을 근심으로 지ᄂᆡ오니 이십 년 동안 간장만 슬어지고 인명은 보젼ᄒᆞ오나</sent>
+<sent type="main" lang="kor" page="59" n="17">바린 아희를 쥬야 ᄉᆞ모ᄒᆞ기ᄂᆞᆫ 엇지ᄒᆞ면 아달을 ᄎᆞ져</sent>
+<sent type="main" lang="kor" page="59" n="18">져의 부친이 셔쥰의게 쥭음을 일으고 원슈나 갑흘가 ᄇᆞ라고</sent>
+<sent type="main" lang="kor" page="59" n="19">소녀ᄂᆞᆫ 시모 졍부인을 만셰토록 ᄉᆞ모ᄒᆞ고 별셰ᄒᆞ신 후 지셩으로 신령을 위ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="59" n="20">불ᄒᆡᆼᄒᆞ야 셰상을 이별ᄒᆞ면 시모 발치에 뭇쳐 묘하의 흙이 되고져 원이오니</sent>
+<sent type="main" lang="kor" page="59-60" n="21">ᄌᆞ식의 ᄉᆞᄉᆡᆼ도 모르고 이졔ᄂᆞᆫ 산즁에셔 죽어 원혼을 면치 못ᄒᆞ겟ᄉᆞᆸ더니</sent><!--원^혼을-->
+</pages>
+
+<pages n="60">
+<img n="60">https://kohico.kr/_media/image/간행년도_간략서명_권차/60.jpg</img>
+<sent type="main" lang="kor" page="60" n="1">쳔반 듯밧 명쳘ᄒᆞ신 어ᄉᆞᄭᅴ셔 ᄂᆡ림ᄒᆞ신다 ᄒᆞ옵기</sent>
+<sent type="main" lang="kor" page="60" n="2">어ᄉᆞ 젼에 쇼녀 원통ᄒᆞᆷ을 지어 원슈를 갑하쥴가 쳔만 ᄇᆞ라옵고</sent>
+<sent type="main" lang="kor" page="60" n="3">더욱 원ᄒᆞ옵기ᄂᆞᆫ 길에 바린 아들의게 ᄉᆡᆼ월ᄉᆡᆼ시 ᄉᆞ쥬를 나삼의 봉ᄎᆡ와 ᄀᆞᆺ치 싸셔 바렷ᄉᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="60" n="4">듯ᄉᆞ오니 지금 황쳔탄에 잇셔 자란다 ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="60" n="5">명쳘ᄒᆞ신 어ᄉᆞᄭᅴ옵셔 ᄎᆞ져 쥬시면 은혜 ᄇᆡᆨ골난망이ᄋᆞᆸ기의 슯흔 졍곡을 두어 자로 올니나이다 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="60" n="6">잇ᄯᆡ 어ᄉᆡ 글을 보니 ᄂᆡ렴의 망극ᄒᆞ여 눈물을 흘니고 슯허ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="60" n="7">어ᄉᆡ ᄌᆞ탄ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="60" n="8">학ᄉᆞ 원졍과 리 부인 원졍을 비교ᄒᆞ면 ᄀᆞᆺ흔 ᄯᅳᆺ이나 ᄃᆡ동소이ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="60" n="9">겸ᄒᆞ야 서씨를 원슈를 갑하달나 ᄒᆞ엿스니</sent>
+<sent type="main" lang="kor" page="60" n="10">분명 학ᄉᆡ 황쥬로 갈 ᄯᆡ에 학ᄉᆞ를 물에 더지고 일ᄒᆡᆼ을 다 죽이고</sent>
+<sent type="main" lang="kor" page="60" n="11">리씨를 취ᄒᆞ려다가 서ᄉᆡᆼ으로 ᄒᆞ야 불ᄒᆡᆼ이 욕을 면ᄒᆞ고 졀간을 ᄎᆞ쳐 유ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="60" n="12">아달을 ᄉᆡᆼᄒᆞ니 졀간에 부당ᄒᆞᆫ 고로 바렷더니</sent>
+<sent type="main" lang="kor" page="60" n="13">서씨 품의 길녀 자랏ᄂᆞᆫ가 곰곰 ᄉᆡᆼ각ᄒᆞ고</sent><!--'곰곰'의 뒤에 오는 '곰'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="60" n="14">노즁에셔 노인이 말ᄉᆞᆷᄒᆞ기를 부모를 졍셩것 차지라 ᄒᆞ셧고</sent>
+<sent type="main" lang="kor" page="60" n="15">황도 갈 ᄯᆡ에 졀강 ᄯᅡ 졍부인이 나를 보고 반기며 즐겨ᄒᆞ시며 슯허도 ᄒᆞ시고 통곡도 ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="60" n="16">학ᄉᆞ와 ᄀᆞᆺ다 ᄒᆞ시고 ᄉᆞ랑ᄒᆞ샤 친ᄌᆞᄀᆞᆺ치 넉이실 ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="60" n="17">황쥬ᄌᆞᄉᆞ로 나려갈 ᄯᆡ 며나리 잉ᄐᆡᄒᆞᆫ 디 삼삭이요</sent>
+<sent type="main" lang="kor" page="60" n="18">나ᄉᆞᆷ 봉ᄎᆡ를 리별 졍표로 쥬엇다 ᄒᆞ시더니</sent>
+<sent type="main" lang="kor" page="60" n="19">리씨 원졍을 밧아 보니 과연 이 말과 ᄀᆞᆺ흔디라</sent>
+<sent type="main" lang="kor" page="60" n="20">리씨 부인을 곳 불너 자셔ᄒᆞᆫ 말을 듯고 나 가진 나삼을 보이여 보고 반겨ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="60" n="21">의심 업ᄂᆞᆫ 나의 모친이 분명ᄒᆞ니 ᄂᆡ 부르리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="60" n="22">즉시 승을 ᄎᆞ디니 그 승이 원졍을 드리고 나오다가 하인다려</sent>
+<sent type="main" lang="kor" page="60" n="23">어ᄉᆞᄂᆞᆫ 어ᄃᆡ 계시며 존셩은 무엇이라 ᄒᆞᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="60" n="24">하인이 답 왈 황텬탑에셔 사ᄂᆞᆫ 셔쥰의 ᄌᆞ뎨라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="60-61" n="25">승이 듯고 대경ᄒᆞ야 졀에 올ᄂᆞ가 부인을 뵈옵고 원망ᄒᆞ야 왈</sent><!--듯^고-->
+</pages>
+
+<pages n="61">
+<img n="61">https://kohico.kr/_media/image/간행년도_간략서명_권차/61.jpg</img>
+<sent type="main" lang="kor" page="61" n="1">어ᄉᆞ의 셩명을 무르니 황텬탑의 사ᄂᆞᆫ 셔쥰에 아들이라 ᄒᆞ더라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="61" n="2">부인이 이 말을 듯고</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="3">ᄃᆡ경 질ᄉᆡᆨᄒᆞ야 왈 이졔ᄂᆞᆫ ᄂᆡ가 죽ᄂᆞᆫ도다</sent>
+<sent type="main" lang="kor" page="61" n="4">사ᄅᆞᆷ이 셰상의 나셔 락을 모르고 운쉬 불ᄒᆡᆼᄒᆞ야 남편을 물의 원혼이 되게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="61" n="5">아달 잇든 거살 ᄂᆡ여 바리고 이십 년 동안을 산즁에셔 셰월을 보ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="61" n="6">ᄯᆡ를 맛ᄂᆞ 아달이나 ᄎᆞ디면 남편의 원슈ᄂᆞ 갑고</sent>
+<sent type="main" lang="kor" page="61" n="7">황도로 가셔 늙은 노모를 다시 맛ᄂᆞ보고 죽도록 모시다가 죽을가 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="61" n="8">시운이 불ᄒᆡᆼ하여 일이 이갓치 되엿스니</sent>
+<sent type="main" lang="kor" page="61" n="9">셰상에 잇셔 이십 년 동안 무졍 셰월노 디ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="61" n="10">오날ᄂᆞᆯ 당하여 심중에 잇든 일을 다 풀고 쥭으면 디하의 가도 올흔 귀신이 되올가 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="61" n="11">쇽언에 원슈ᄂᆞᆫ 외나무 다리에 맛난다ᄂᆞᆫ 말이 ᄂᆡ게 일으럿고</sent>
+<sent type="main" lang="kor" page="61" n="12">ᄂᆡ가 살어 잇스면 이 졀의 승들도 큰 화를 면치 못ᄒᆞᆯ 거시니</sent>
+<sent type="main" lang="kor" page="61" n="13">ᄂᆡ 찰하리 쥭어 셰상을 잇ᄂᆞᆫ 거시 올타 ᄒᆞ고 ᄌᆞ결코자 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="61" n="14">승들이 부인의 탄식ᄒᆞ고 심즁의 잇ᄂᆞᆫ 말을 드르니 비록 쳘셕 간장이라도 불상치 안이ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="61" n="15">승들이 일ᄋᆞᄃᆡ 부인은 과도이 걱졍 마시고 ᄆᆞᄋᆞᆷ을 졍디ᄒᆞ소셔</sent>
+<sent type="main" lang="kor" page="61" n="16">우리 비록 승이 되야 잇스ᄂᆞ 쥭어도 앗갑디 안이ᄒᆞ오니</sent>
+<sent type="main" lang="kor" page="61" n="17">오날 그 동졍을 보아셔 만일 ᄯᅳᆺ과 ᄀᆞᆺ디 못ᄒᆞ고 부인이 욕을 보고 죽을 디경이면</sent>
+<sent type="main" lang="kor" page="61" n="18">우리 무리도 쥭기를 결단ᄒᆞᆯ 거시니 부인은 과도이 마르시고 심졍을 편안이 ᄒᆞ소셔 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="61" n="19">부인이 이 말을 드르나 망극ᄒᆞᆷ은 측량치 못ᄒᆞ더라</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="20">ᄎᆞ셜 어ᄉᆞㅣ 학ᄉᆞ의 원졍과 리씨에 원졍을 비교ᄒᆞ야 밤이 맛도록 보고 ᄆᆞᄋᆞᆷ에 혜오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="61" n="21">ᄂᆡ 이졔 이곳에 와셔 부모를 ᄎᆞ져 볼 쥴 ᄯᅳᆺᄒᆞ엿스리요</sent>
+<sent type="main" lang="kor" page="61" n="22">이졔 ᄂᆡ 부모 이곳에 계시니 차져 보고 ᄂᆡ 원슈를 갑푸리라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="61" n="23">ᄆᆞᄋᆞᆷ의 결심ᄒᆞ고 밤이면 잠을 일우디 못ᄒᆞ더니 몸이 곤ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="61-62" n="24">잠간 침셕의 누엇더니 비몽ᄉᆞ몽간에 산상의셔 뵈이든 로인이 일ᄋᆞᄃᆡ</sent><!--잠^간-->
+</pages>
+
+<pages n="62">
+<img n="62">https://kohico.kr/_media/image/간행년도_간략서명_권차/62.jpg</img>
+<sent type="main" lang="kor" page="62" n="1">공명이 놉고 몸이 뎌ᄀᆞᆺ치 귀히 되엿스니</sent>
+<sent type="main" lang="kor" page="62" n="2">긔회를 일치 말고 졍셩을 다ᄒᆞ야 부모를 찻고 원슈를 갑흐라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="62" n="3">ᄂᆞᄂᆞᆫ 네 조부 되ᄂᆞᆫ 사ᄅᆞᆷ이라 ᄒᆞ고 간 ᄃᆡ 업거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="62" n="4">놀ᄂᆞ ᄭᆡ다르니 남가일몽이라</sent>
+<sent type="main" lang="kor" page="62" n="5">더욱 심ᄉᆡ 살ᄂᆞᆫᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="62" n="6">각셜 잇ᄯᆡ 셔쥰이 황텬탑의 잇셔 운경을 황셩에 보ᄂᆡᆫ 후</sent>
+<sent type="main" lang="kor" page="62" n="7">ᄆᆞᄋᆞᆷ이 항상 셥셥ᄒᆞ야 쥬야로 원ᄒᆞ기ᄂᆞᆫ</sent><!--'셥셥ᄒᆞ야'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="8">운이 급졔ᄒᆞ야 가지고 오기를 기ᄃᆞ리더니</sent>
+<sent type="main" lang="kor" page="62" n="9">일일은 드르니 운경이 급졔ᄒᆞ고</sent><!--'일일은'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="10">한림학ᄉᆞ 겸 각도 안찰어ᄉᆞ로 온다 ᄒᆞᄂᆞᆫ 말을 듯고</sent>
+<sent type="main" lang="kor" page="62" n="11">ᄆᆞᄋᆞᆷ의 즐겁고 깃붐을 익이지 못ᄒᆞ고 ᄆᆞᄋᆞᆷ의 보고 십흔 ᄯᅳᆺ이 불 이듯ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="62" n="12">위의를 ᄀᆞᆺ초아 길을 ᄒᆡᆼᄒᆞ여 마즁을 나갈ᄉᆡ</sent>
+<sent type="main" lang="kor" page="62" n="13">각관의셔 어ᄉᆞ 부형이란 말을 듯고 각별이 례ᄅᆞᆯ ᄎᆞ려 공슌이 ᄃᆡ졉ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="62" n="14">셔쥰이 졔 아ᄃᆞᆯ 형셰와 권셰ᄅᆞᆯ 밋고</sent>
+<sent type="main" lang="kor" page="62" n="15">긔운이 양양자득ᄒᆞ야</sent><!--'양양자득ᄒᆞ야'의 뒤에 오는 '양'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="16">각읍에 ᄒᆡᆼᄑᆡ 뭇쌍ᄒᆞ고 무슈 작폐ᄒᆞ니 열읍 슈령과 도ᄂᆡ ᄇᆡᆨ셩이 감이 원망치 못ᄒᆞ고 관광ᄒᆞᆯ 다름이라</sent>
+<sent type="main" lang="kor" page="62" n="17">셔쥰이 운을 밋고 도로에 지ᄂᆡᆯ ᄯᆡ면 ᄇᆡᆨ셩이 원슈ᄀᆞᆺ치 녁이더라</sent>
+<sent type="main" lang="kor" page="62" n="18">이 젹에 어ᄉᆞㅣ 위션 각관의 공ᄉᆞᄒᆞ여 보ᄂᆡ되</sent>
+<sent type="main" lang="kor" page="62" n="19">황텬탑의 ᄉᆞᄂᆞᆫ 셔쥰이란 도뎍놈이 황명을 밧ᄌᆞ와 황쥬 ᄯᅡ에 ᄌᆞᄉᆞ의 일ᄒᆡᆼ을 겁탈ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="62" n="20">ᄌᆞᄉᆞᄂᆞᆫ 죽이고 부인은 탈취ᄒᆞ엿스니 그 놈을 잡아 올니라</sent>
+<sent type="main" lang="kor" page="62" n="21">이ᄯᆡ 셔쥰이 길을 ᄌᆡ촉ᄒᆞ여 그 골에 오니 어ᄉᆡ 본관을 마조 보ᄂᆡ여</sent>
+<sent type="main" lang="kor" page="62" n="22">나ᄂᆞᆫ ᄉᆞ신으로 임의ᄃᆡ로 ᄯᅥ나지 못ᄒᆞ니 공ᄉᆞᄅᆞᆯ 다 맛하 다ᄉᆞ리고 ᄉᆞᆲ히라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="62" n="23">즉시 됴흔 ᄉᆞ쳐를 졍ᄒᆞ야 준 후 쳘긔와 군ᄉᆞㅣ 쳔여 원으로 슈직ᄒᆞ라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="62" n="24">어ᄉᆞ 거짓 칭병ᄒᆞ고 공ᄉᆞ 안이ᄒᆞ고 밤이 깁흔 후의 평복을 닙고</sent>
+<sent type="main" lang="kor" page="62-63" n="25">읍ᄂᆡ로 단이며 원졍을 지어 드린 학ᄉᆞ를 차져도 업ᄂᆞᆫ지라</sent><!--차져도 ^ 업ᄂᆞᆫ지라-->
+</pages>
+
+<pages n="63">
+<img n="63">https://kohico.kr/_media/image/간행년도_간략서명_권차/63.jpg</img>
+<sent type="main" lang="kor" page="63" n="1">할 일 업셔 ᄉᆞ쳐로 도라와 밤을 지ᄂᆡ고 잇흔날 밤의 젼과 ᄀᆞᆺ치 슌ᄒᆡᆼᄒᆞ다가 한 집에 이르니</sent>
+<sent type="main" lang="kor" page="63" n="2">한 사ᄅᆞᆷ이 곤ᄒᆞᆫ 얼골노 의복은 남누ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="63" n="3">헌옷 ᄉᆞᄆᆡ로 무릅을 가리오고 독슈공방 홀노 안졋거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="63" n="4">한 번 ᄇᆞ라보니 가장 소탈ᄒᆞᆫ 션ᄇᆡ라</sent>
+<sent type="main" lang="kor" page="63" n="5">어ᄉᆡ ᄂᆡ심의 학ᄉᆞ신가 ᄒᆞ여 쳔연이 드러가 례ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="63" n="6">학ᄉᆞㅣ 급히 이러나 답례 왈</sent>
+<sent type="main" lang="kor" page="63" n="7">그ᄃᆡ 엇더ᄒᆞᆫ 사ᄅᆞᆷ이완ᄃᆡ 날 ᄀᆞᆺ흔 걸ᄀᆡᆨ을 보고 몬져 졀ᄒᆞ시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="63" n="8">어ᄉᆞㅣ 답 왈</sent>
+<sent type="main" lang="kor" page="63" n="9">나도 ᄒᆡᆼᄀᆡᆨ이옵더니 뵈온즉 나히 만흐시니 장유지졀을 안이ᄒᆞ올잇가</sent>
+<sent type="main" lang="kor" page="63" n="10">학ᄉᆡ 어ᄉᆞ의게 졍소ᄒᆞᆫ 후 ᄒᆡᆼ여 잡힐가 항상 의심ᄒᆞᄂᆞᆫ 고로 셩명을 변ᄒᆞ고 잇ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="63" n="11">어ᄉᆡ 문 왈 존셩이 무엇시며 어ᄃᆡ 사시ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="63" n="12">학ᄉᆞ 답 왈 이 ᄀᆞᆺ흔 사ᄅᆞᆷ이 셩명이 어ᄃᆡ 잇슬잇가 거ᄒᆞ기ᄂᆞᆫ 졀강 ᄯᅡ에 사ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="63" n="13">어ᄉᆞㅣ 짐작ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="63" n="14">나ᄂᆞᆫ 황도 사옵더니 이곳에 올 ᄯᆡ에 졀강으로 지ᄂᆡᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="63" n="15">날이 졈을기로 한 집에셔 밤을 지ᄂᆡᆯᄉᆡ 쥬인ᄃᆡᆨ 셩함을 무르니</sent>
+<sent type="main" lang="kor" page="63" n="16">그 집 노비 왈 이 ᄃᆡᆨ은 소 승상 ᄃᆡᆨ이라 ᄒᆞ기에 밤을 지ᄂᆡ고 왓ᄉᆞ오나</sent>
+<sent type="main" lang="kor" page="63" n="17">졀강 ᄯᅡ에 살어계시면 그 ᄃᆡᆨ을 알으시ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="63" n="18">학ᄉᆞㅣ 놀나며 답 왈</sent>
+<sent type="main" lang="kor" page="63" n="19">소 승상 ᄃᆡᆨ 겻ᄒᆡ셔 살 ᄲᅮᆫ 안니라 유동지친이로소이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="63" n="20">어ᄉᆞㅣ 문 왈 그 ᄃᆡᆨ ᄃᆡ부인이 ᄉᆡᆼ존ᄒᆞ여 계신이잇가</sent>
+<sent type="main" lang="kor" page="63" n="21">내가 그 ᄃᆡᆨ의 유ᄒᆞᆯ ᄯᆡ에 무르니 ᄃᆡ부인 졍씨 계시오나</sent>
+<sent type="main" lang="kor" page="63" n="22">승상 ᄌᆞ뎨 소위 형뎨ᄅᆞᆯ 리별ᄒᆞᆫ 지 이십 년이라 소식이 돈졀ᄒᆞ니 쥭은 거시 분명ᄒᆞ도다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="63" n="23">쥬야로 ᄋᆡ통ᄒᆞ시고 마ᄋᆞᆷ의 근심이 계심으로 긔운이 ᄃᆡᄑᆡᄒᆞ고 ᄉᆞᄉᆡᆼ이 조셕에 잇다 ᄒᆞ더이다</sent>
+<sent type="main" lang="kor" page="63" n="24">학ᄉᆞ 이 말을 듯고 홀연 망극ᄒᆞ여 부인 ᄉᆡᆼ각을 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="63" n="25">눈물이 흐르거ᄂᆞᆯ 엇지 감초리요</sent>
+<sent type="main" lang="kor" page="63" n="26">안슈 흐름이 쳔슈뎡의 ᄉᆡᆷ솟듯 ᄒᆞ니 엇지 눈물을 감초리요</sent>
+<sent type="main" lang="kor" page="63" n="27">어ᄉᆞㅣ 이윽히 보다가 문 왈</sent>
+<sent type="main" lang="kor" page="63" n="28">승상 ᄃᆡᆨ 부인과 남이라 ᄒᆞ더니 엇지 져ᄃᆡ지 비감ᄒᆞ신잇가</sent>
+<sent type="main" lang="kor" page="63-64" n="29">학ᄉᆞ 왈 비록 남이나 동ᄂᆡ에 잇셔 ᄂᆡ 집은 가난ᄒᆞ고 그 ᄃᆡᆨ은 유여ᄒᆞᆫ 고로</sent><!--학ᄉᆞ ^ 왈-->
+</pages>
+
+<pages n="64">
+<img n="64">https://kohico.kr/_media/image/간행년도_간략서명_권차/64.jpg</img>
+<sent type="main" lang="kor" page="64" n="1">부인의 은덕을 만이 입고 자랏스니 부모지졍이나 다름이 업노라</sent>
+<sent type="main" lang="kor" page="64" n="2">오날날 ᄉᆡ로이 소식을 드르니</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="3">ᄆᆞᄋᆞᆷ을 졍치 못ᄒᆞ노라 ᄒᆞ고 ᄯᅩ 문 왈</sent>
+<sent type="main" lang="kor" page="64" n="4">학ᄉᆞ 아우 소운이란 사ᄅᆞᆷ을 맛나 보셧ᄂᆞ뇨 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="64" n="5">어ᄉᆞㅣ 왈 못 보앗고 학ᄉᆞ 황쥬로 간 후 소식이 업산 지 십 년이라</sent>
+<sent type="main" lang="kor" page="64" n="6">학ᄉᆞ의 죵젹 차지려 ᄒᆞ고 보ᄂᆡᆺ더니 운이ᄭᅡ지 ᄯᅩ 십 년이로되 소식이 돈졀ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="64" n="7">그 일노 더욱 셜워ᄒᆞ시고 쥬야로 장ᄌᆞ 학ᄉᆞ와 ᄎᆞ자 운을 만나보기를 원ᄒᆞ신다 ᄒᆞ더이다</sent>
+<sent type="main" lang="kor" page="64" n="8">학ᄉᆞ ᄯᅩ 이 말을 듯고 경상이 ᄎᆞᆷ혹ᄒᆞ여 뵈이니</sent>
+<sent type="main" lang="kor" page="64" n="9">어ᄉᆞㅣ 다시 무러 왈 엇지 남이시면 신ᄉᆡᆨ이 져럿트시 변ᄒᆞ시며 그ᄃᆡ지 ᄒᆞ시ᄂᆞ잇가</sent>
+<sent type="main" lang="kor" page="64" n="10">학ᄉᆞㅣ 답 왈 만리타향에 여러 ᄒᆡ 잇셔 그 ᄃᆡᆨ 소식을 모르더니</sent>
+<sent type="main" lang="kor" page="64" n="11">오날날 동향 사ᄅᆞᆷ을 맛나</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="12">부모ᄀᆞᆺ치 지ᄂᆡ든 사ᄅᆞᆷ의 소식을 젼ᄒᆞ기에</sent>
+<sent type="main" lang="kor" page="64" n="13">그 부인 졍곡에 말ᄉᆞᆷ을 드르니 셕목이라도 읏지 ᄐᆡ연 무심ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="64" n="14">슈만리 고향 소식을 듯고 내 일을 ᄉᆡᆼ각ᄒᆞᆫ들 엇지 슯흐지 안이ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="64" n="15">ᄯᅩ 문 왈 나ᄂᆞᆫ 각도 각읍 안찰어ᄉᆞ로 오신 이와 친ᄒᆞ니 원졍소지ᄅᆞᆯ 드릴 사ᄅᆞᆷ이 잇스면</sent>
+<sent type="main" lang="kor" page="64" n="16">날더러 일으면 송ᄉᆞᄒᆞ기 어렵지 안이ᄒᆞᆯ 터이오</sent>
+<sent type="main" lang="kor" page="64" n="17">ᄯᅩ 겸ᄒᆞ여 날과 친ᄒᆞᆷ이 자별ᄒᆞ니 무ᄉᆞᆷ 원통ᄒᆞᆫ 일이 계시뇨</sent>
+<sent type="main" lang="kor" page="64" n="18">학ᄉᆞㅣ 어ᄉᆞ에 말을 듯고 더욱 의심ᄒᆞ여 곳 피코ᄌᆞ ᄒᆞᄂᆞᆫ 눈치 잇거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="64" n="19">어ᄉᆞ 이 눈치ᄅᆞᆯ 알고 위로ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="64" n="20">나ᄂᆞᆫ 남이 슯허ᄒᆞᆷ을 보면 죽기로써 구졔ᄒᆞ옵더니</sent>
+<sent type="main" lang="kor" page="64" n="21">ᄂᆡ 이졔 졀강으로 황도를 가려 ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="64" n="22">소ᄌᆞᄉᆞ ᄉᆞ쳐로 가셔셔 한가지로 머므다가</sent><!--'가셔셔'의 뒤에 오는 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="23">날과 동ᄒᆡᆼᄒᆞ여 고향의 도라가 부모 친쳑을 보시면 엇더ᄒᆞ온잇가 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="64" n="24">학ᄉᆞ 이 말을 듯더니 눈물을 거두고</sent>
+<sent type="main" lang="kor" page="64" n="25">그ᄃᆡ 말과 갓흐면 은혜 ᄇᆡᆨ골ᄂᆞᆫ망이요</sent>
+<sent type="main" lang="kor" page="64" n="26">쥭어 디하에 갈지라도 은혜를 엇지 이즈릿가</sent>
+<sent type="main" lang="kor" page="64-65" n="27">몸을 이러 졀ᄒᆞ려 ᄒᆞ거날 어ᄉᆞㅣ 민망이 넉여 졀ᄒᆞ여 왈</sent><!--ᄒᆞ거^날-->
+</pages>
+
+<pages n="65">
+<img n="65">https://kohico.kr/_media/image/간행년도_간략서명_권차/65.jpg</img>
+<sent type="main" lang="kor" page="65" n="1">너머 과도ᄒᆞ도다 ᄒᆞ고 소ᄆᆡ를 잡고 한가지로 나와</sent>
+<sent type="main" lang="kor" page="65" n="2">ᄉᆞ쳐의 와 편이 잇게 ᄒᆞ고 됴흔 음식과 의복을 ᄀᆞᆺ초와 닙게 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="65" n="3">어ᄉᆞᄂᆞᆫ 즉시 동헌으로 드러와 ᄉᆔ며 하인을 보ᄂᆡ여 젼갈ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="65" n="4">학ᄉᆞ 깃버 바다 보오니 어ᄉᆞㅣ 보ᄂᆡᆫ 거시여ᄂᆞᆯ 놀납고 두려워ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="65" n="5">어ᄉᆞ 즉시 학ᄉᆞ ᄉᆞ쳐ᄒᆞᆫ 쥬인을 불너 왈</sent>
+<sent type="main" lang="kor" page="65" n="6">네 집에 계신 손님을 잘 슈직ᄒᆞ라 ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="65" n="7">ᄉᆞ쳐 주인이 분부를 듯고 도라가 학ᄉᆞᄭᅴ 알왼ᄃᆡ</sent>
+<sent type="main" lang="kor" page="65" n="8">학ᄉᆞㅣ ᄃᆡ경ᄒᆞ여 탄식ᄒᆞᄂᆞᆫ 말이 이졔ᄂᆞᆫ 도쥬도 못ᄒᆞ고 </sent><!--'말이 이졔ᄂᆞᆫ'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="65" n="9">ᄭᅩᆷ작업시 함졍에 든 범이로다</sent>
+<sent type="main" lang="kor" page="65" n="10">내가 ᄉᆞ쳐의 잇슬 ᄯᆡ에 드러와 여러 가지 말을 드를 ᄯᆡ에 여러가지 의심이 잇ᄉᆞ오나</sent>
+<sent type="main" lang="kor" page="65" n="11">맛ᄎᆞᆷ 그럴ᄯᅳᆺ십지 안이ᄒᆞ여 여러 가지로 속을 ᄲᅩᆸ아 말ᄒᆞᄂᆞᆫ 거슬 ᄭᆡ닷지 못ᄒᆞ고 듯다가</sent>
+<sent type="main" lang="kor" page="65" n="12">나종 말ᄒᆞᄂᆞᆫ 눈치를 알고 위로ᄒᆞ여 도주ᄒᆞ려 ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="65" n="13">황도를 갓치 가자 ᄒᆞᄂᆞᆫ 말의 반가옵고 깃버 허락ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="65" n="14">이럿케 잡어다가 ᄉᆞ쳐의 구류ᄒᆞᆯ 쥴 엇지 ᄯᅳᆺᄒᆞ엿스리요 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="65" n="15">이졔ᄂᆞᆫ 죽을 쥴 알고 탄식ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="65" n="16">ᄎᆞ셜 어ᄉᆡㅣ 학ᄉᆞ를 차져 ᄉᆞ쳐의 모시고 ᄇᆡ위암 졀을 차자가고져 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="65" n="17">일셰 황혼이 된 고로 날이 밝기를 기다릴ᄉᆡ 동창의 명월은 죠요ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="65" n="18">공산 작규ᄂᆞᆫ 슬피 울고가ᄂᆞᆫ 소ᄅᆡ 사ᄅᆞᆷ의 마ᄋᆞᆷ을 비창케 ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="65" n="19">ᄒᆡᆼ즁에 단소를 ᄂᆡ여 한 곡됴를 부니 밤은 야심ᄒᆞ고 달빗츤 ᄂᆞᆫ난을 의지ᄒᆞᆫ 듯ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="65" n="20">찬 이슬은 풀의 져져 휘질근ᄒᆞ고</sent><!--'져져'의 뒤에 오는 '져'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="65" n="21">원산에 솟젹다ᄉᆡᄂᆞᆫ 밤 가ᄂᆞᆫ 쥴 모르고 창ᄌᆡ ᄭᅳᆫ허지도록 우ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="65" n="22">단소 일곡을 쳥아ᄒᆞ게 상령상됴로 부니</sent>
+<sent type="main" lang="kor" page="65" n="23">단쇼 쇼ᄅᆡ ᄎᆞᆷ 쳥아ᄒᆞ여 신션이 하강ᄒᆞᆫ 듯</sent><!--'단쇼 쇼ᄅᆡ'의 뒤에 오는 '쇼'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="65" n="24">마음을 일노 위로ᄒᆞ여 밤을 ᄌᆡᄂᆡ고 하ᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="65" n="25">황도로 향ᄒᆞᆯ ᄯᆡ 산상의셔 신션이 말ᄉᆞᆷᄒᆞ되</sent>
+<sent type="main" lang="kor" page="65" n="26">졍셩이 지극ᄒᆞ여야 부모를 맛나고 공명을 일운다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="65-66" n="27">무ᄉᆞᆷ 약을 셰 ᄀᆡ 쥬거ᄂᆞᆯ 마지 못ᄒᆞ여 바다쓰나 그 말을 허슈이 넉엿더니</sent><!--셰 ^ ᄀᆡ-->
+</pages>
+
+<pages n="66">
+<img n="66">https://kohico.kr/_media/image/간행년도_간략서명_권차/66.jpg</img>
+<sent type="main" lang="kor" page="66" n="1">잇ᄯᆡ를 당ᄒᆞ야 보니 ᄭᆡ닷겟고 명심ᄒᆞᆯ 말ᄉᆞᆷ이라</sent>
+<sent type="main" lang="kor" page="66" n="2">셔쥰이 내 부친이면 엇지 졍셩을 다ᄒᆞ야 부모를 ᄎᆞ지라 ᄒᆞ기 만무ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="66" n="3">ᄯᅩ 졀강 ᄯᅡ 승상ᄃᆡᆨ을 ᄉᆡᆼ각ᄒᆞ면 분명 나ᄂᆞᆫ 셔가ᄂᆞᆫ 안인가 의심ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="66" n="4">ᄯᅩ 원졍을 자셔이 보니 부친이 황쥬로 나려 오시다가 ᄒᆡ즁의 ᄲᅡ져 죽을 거살 하ᄂᆞᆯ이 도으ᄉᆞ</sent>
+<sent type="main" lang="kor" page="66" n="5">잔명을 보존ᄒᆞ야 계시고 모친은 셔가의 욕을 면ᄒᆞ시고 ᄇᆡ위암에 계셔 나를 나흐ᄉᆞ 바리여</sent>
+<sent type="main" lang="kor" page="66" n="6">셔가의 집에셔 길녀 날노 ᄒᆞ여곰 셔가의 원슈를 갑게 창텬이 졍ᄒᆞ심이라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="66" n="7">밤이 ᄆᆞᆺ도록 눈물올 금지 못ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="66" n="8">밤을 지ᄂᆡ고 명일에 분부ᄒᆞ야 ᄇᆡ위암 아ᄂᆞᆫ 군관을 명ᄒᆞ야 일너 왈</sent>
+<sent type="main" lang="kor" page="66" n="9">너ᄂᆞᆫ 졀에 가셔 승들을 놀ᄂᆡ지 말고 이 글을 승을 주고</sent>
+<sent type="main" lang="kor" page="66" n="10">일을 아ᄂᆞᆫ 승을 다리고 오라</sent>
+<sent type="main" lang="kor" page="66" n="11">만일 졀에 가셔 승을 놀ᄂᆡᆺ다 ᄒᆞᄂᆞᆫ 말을 듯고 보면 졀에 갓든 하인은 즁형을 당ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="66" n="12">어ᄉᆞ의 령을 듯고 즉시 ᄇᆡ위암 졀에 올나가니 모든 승들이 놀나거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="66" n="13">군관이 젼령을 ᄂᆡ여 승을 쥬니 승들이 보니 ᄒᆞ엿스되</sent>
+<sent type="main" lang="kor" page="66" n="14">리 부인의 원졍을 보니 ᄎᆞᆷ혹ᄒᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="66" n="15">글을 자셔이 보니 고금에 업고 ᄯᅩᄒᆞᆫ □□ 이러ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="66" n="16">이런 부인이 산즁 조고마ᄒᆞᆫ 졀의 잇서</sent>
+<sent type="main" lang="kor" page="66" n="17">셰월을 ᄯᅳᆺ업시 슯흔 즁 보ᄂᆡᆯ ᄯᆡ에</sent>
+<sent type="main" lang="kor" page="66" n="18">심회 비창ᄒᆞᆷ을 읏지 말ᄒᆞᆯ가</sent>
+<sent type="main" lang="kor" page="66" n="19">이졔 왕명을 밧ᄌᆞ와 ᄇᆡᆨ셩의 원억ᄒᆞᆫ 일을 ᄉᆞᆲ혀 마음을 안찰ᄒᆞ라 ᄒᆞ고 나를 보ᄂᆡ신 거시니</sent>
+<sent type="main" lang="kor" page="66" n="20">됴곰도 두려워 말고 그 부인의 일을 ᄌᆞ셰 아ᄂᆞᆫ 승으로 도라와 명ᄇᆡᆨ히 말ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="66" n="21">일을 자셔이 알고 부인 아달도 차질 거시요 원졍에 말ᄒᆞᆫ 일을 다 ᄒᆞ련이와</sent>
+<sent type="main" lang="kor" page="66" n="22">그러치 못ᄒᆞ면 일을 조쳐 ᄒᆞᆯ 수 업스니 부인ᄭᅴ 알고 속히 나려오라 ᄒᆞ엿스며</sent>
+<sent type="main" lang="kor" page="66-67" n="23">ᄯᅩ 부인의 원졍을 ᄌᆞ셰 보니</sent><!--원졍을 ^ ᄌᆞ셰-->
+</pages>
+
+<pages n="67">
+<img n="67">https://kohico.kr/_media/image/간행년도_간략서명_권차/67.jpg</img>
+<sent type="main" lang="kor" page="67" n="1">아희를 발일 ᄯᆡ 봉ᄎᆡ를 ᄂᆞ삼 속에 싸셔 바렷다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="67" n="2">아희 셩명을 쓰지 안이ᄒᆞ엿스니 이도 ᄌᆞ셰 알어야 차져 볼 거시요</sent>
+<sent type="main" lang="kor" page="67" n="3">모든 일을 조쳐ᄒᆞ겟노라 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="67" n="4">부인이 이 글을 보고 반가온 마음을 익이지 못ᄒᆞ여 승다려 일ᄋᆞᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="5">어ᄉᆞ가 우리를 속이ᄂᆞᆫ 말이라도 이와 ᄀᆞᆺ치 ᄒᆞ엿스니 한 번 가볼 일이ᄂᆞ</sent>
+<sent type="main" lang="kor" page="67" n="6">근본을 말ᄒᆞ면 원졍을 드린 사ᄅᆞᆷ은 승이요</sent>
+<sent type="main" lang="kor" page="67" n="7">근원은 ᄂᆡ니 승을 불너 ᄌᆞ셔이 알고 ᄂᆞ를 죽이던지 살니던지</sent>
+<sent type="main" lang="kor" page="67" n="8">원을 푸러 쥬던지 내가 죽던지 양단 간의 귀졍이 날 거시요</sent>
+<sent type="main" lang="kor" page="67" n="9">ᄯᅩ 욕을 불지라도 내가 보고 쥭을지라도 내가 쥭을 거시니</sent>
+<sent type="main" lang="kor" page="67" n="10">승들은 의심 말고 ᄂᆞ려가 말만 ᄌᆞ셔이 ᄒᆞ여 쥬면</sent>
+<sent type="main" lang="kor" page="67" n="11">그 뒤ᄂᆞᆫ ᄂᆡ 담당ᄒᆞᆯ 터이니 뉘 ᄂᆞ려갈고</sent>
+<sent type="main" lang="kor" page="67" n="12">한 승이 ᄂᆞ와 일아ᄃᆡ</sent>
+<sent type="main" lang="kor" page="67" n="13">어ᄉᆞᄭᅴ셔 우리를 살살 달ᄂᆡ여 불너 가건이와</sent><!--'살살'의 뒤에 오는 '살'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="14">부인 원졍의 어ᄉᆞ에 부친을 쥭여달ᄂᆞ ᄒᆞ엿스니 엇지 무ᄉᆞᄒᆞ리요 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="67" n="15">군관과 ᄀᆞᆺ치 ᄂᆞ려가니 군관이 현달ᄒᆞᆫᄃᆡ 어ᄉᆞ 보고 승다려 왈</sent>
+<sent type="main" lang="kor" page="67" n="16">오ᄂᆞᆯ 너를 부르기ᄂᆞᆫ 너희 졀의 리씨 부인이 계신다</sent>
+<sent type="main" lang="kor" page="67" n="17">승이 ᄃᆡ답ᄒᆞ야 왈 과연 그러ᄒᆞ외다</sent>
+<sent type="main" lang="kor" page="67" n="18">그러면은 조곰도 두러워 말고 부인 사상을 드러 말ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="67" n="19">이 일은 젼번의 리씨가 원졍을 드리되 자셰ᄒᆞᆫ 일 모르겟고</sent>
+<sent type="main" lang="kor" page="67" n="20">아달 ᄎᆞ져달ᄂᆞ ᄒᆞ엿기에 그 이허를 알냐 ᄒᆞᄂᆞᆫ 거시니 긔망치 말ᄂᆞ</sent>
+<sent type="main" lang="kor" page="67" n="21">승이 고두사례 왈</sent>
+<sent type="main" lang="kor" page="67" n="22">소승등은 죄가 업ᄉᆞᆸ고 부인의 일이 ᄎᆞᆷ혹ᄒᆞ고 불상ᄒᆞ여 승들이 그 도아줌으로</sent>
+<sent type="main" lang="kor" page="67" n="23">일언 일과 무ᄉᆞᆷ 일이던지 우리ᄂᆞᆫ 심브름 ᄲᅮᆫ이외다</sent>
+<sent type="main" lang="kor" page="67" n="24">부인이 소승 졀에 올ᄂᆞ오신 후로부터 심즁에 심ᄉᆞ를 항상 슯흐게 지ᄂᆡ며</sent>
+<sent type="main" lang="kor" page="67" n="25">ᄯᅩ 젹막히 안져 셰월을 보ᄂᆡ는 즁에 쳔만 ᄯᅳᆺ외의 어ᄉᆞ 오신단 말을 듯고 원졍을 지어 밧쳣스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="67" n="26">그 부인이 의지할 곳 업ᄉᆞ와 승이ᄂᆞ 될가 ᄒᆞ고 올ᄂᆞ온 거시오</sent>
+<sent type="main" lang="kor" page="67-68" n="27">오ᄂᆞᆯᄂᆞᆯ 우리 션ᄉᆡᆼ이옵고 기간의 셰월을 덧업시 지ᄂᆡ옵다가</sent><!--셰월^을-->
+</pages>
+
+<pages n="68">
+<img n="68">https://kohico.kr/_media/image/간행년도_간략서명_권차/68.jpg</img>
+<sent type="main" lang="kor" page="68" n="1">쳔만에 어사 오신단 말을 듯고 슈일 젼에 원졍 짓ᄂᆞᆫ 거살 보고 그졔야 소승들이 알엇삽지</sent>
+<sent type="main" lang="kor" page="68" n="2">그 젼은 무가ᄀᆡᆨ이 되여 의지ᄒᆞᆯ 곳도 업고 ᄯᅩ 이러ᄒᆞᆫ 일이 잇ᄉᆞᆸᄂᆞᆫ지 아지 못ᄒᆞ엿ᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="68" n="3">어ᄉᆞㅣ 이 말을 듯고 그러면 부인이 머리를 ᄭᅡᆨ거 계시냐</sent>
+<sent type="main" lang="kor" page="68" n="4">승이 답 왈 말ᄉᆞᆷ은 승이라 ᄒᆞ시되</sent>
+<sent type="main" lang="kor" page="68" n="5">오ᄂᆞᆯᄂᆞᆯᄭᆞ지 삭발치 안이ᄒᆞ시기로</sent><!--'오ᄂᆞᆯᄂᆞᆯᄭᆞ지'의 뒤에 오는 'ᄂᆞᆯ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="6">승들이 수상이들 역이ᄂᆞ니다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="68" n="7">어ᄉᆞ ᄯᅩ 문 왈 그 부인이 신쳬 강건ᄒᆞ시며 긔운은 엇더ᄒᆞ시뇨</sent>
+<sent type="main" lang="kor" page="68" n="8">승이 답 왈 소승에 졀이 비록 젹ᄉᆞ오ᄂᆞ</sent>
+<sent type="main" lang="kor" page="68" n="9">졀벽 강산 깁사와 샤ᄅᆞᆷ이 드러오지 못ᄒᆞ옵고</sent>
+<sent type="main" lang="kor" page="68" n="10">은은ᄒᆞᆫ 풍경은 풍운을 둘넛ᄂᆞᆫ 듯ᄒᆞ고</sent><!--'은은ᄒᆞᆫ'의 뒤에 오는 '은'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="11">젹막ᄒᆞᆫ 산즁에 벽수ᄂᆞᆫ 잔잔ᄒᆞ고 부쳐젼의 조셕으로 고양이 잇삽고</sent><!--'잔잔ᄒᆞ고'의 뒤에 오는 '잔'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="12">각항 ᄎᆡ소와 산즁에 됴흔 물건이 ᄭᅳᆫ일 ᄯᆡ가 업고</sent>
+<sent type="main" lang="kor" page="68" n="13">눈에 보이ᄂᆞᆫ 거시 월류졍 동졍호에 돗ᄂᆞᆫ 달과 황ᄒᆡ슈에 지는 ᄒᆡ를 구경ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="68" n="14">쳥송뎡 ᄇᆡᆨ학을 두어 시시로 ᄯᆡ를 맛쳐</sent><!--'시시로'의 뒤에 오는 '시'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="15">청아ᄒᆞᆫ 소ᄅᆡ를 ᄒᆞ여 사ᄅᆞᆷ의 마음을 즐겁게 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="68" n="16">불경이ᄂᆞ 외옵고 션약을 장복ᄒᆞ시고 쇄락ᄒᆞᆫ 음식으로 지ᄂᆡ시니</sent>
+<sent type="main" lang="kor" page="68" n="17">얼골과 긔운이 쇽가의셔 엇지 당ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="68" n="18">부인ᄭᅴ셔 이십 년 젼 졀의 오실 ᄯᆡ와 ᄀᆞᆺᄉᆞ외다</sent>
+<sent type="main" lang="kor" page="68" n="19">어사ㅣ ᄯᅩ 문 왈 부인 년셰가 몃치ᄂᆞ 되여 계시던야</sent>
+<sent type="main" lang="kor" page="68" n="20">승 왈 삼십칠 세라 ᄒᆞ시더이다</sent>
+<sent type="main" lang="kor" page="68" n="21">어사ㅣ 이 말을 드르시고 슯허ᄒᆞᆷ을 익이지 못ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="68" n="22">눈물이 쌍쌍이 ᄯᅥ러지더라 어사ㅣ 승다려 왈</sent><!--'쌍쌍이'의 뒤에 오는 '쌍'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="23">부인의 원졍을 보니 아희를 바린 승이 잇다 ᄒᆞ니 그 승을 네 아ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="68" n="24">승이 답 왈 아ᄂᆞ이다 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="68" n="25">어ᄉᆞㅣ 왈 그러면 네 밧비 가셔 다려오라 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="68" n="26">그 승이 령을 듯고 졀노 올ᄂᆞ가 어ᄉᆞ의 분부ᄃᆡ로 아희 바린 승을 다리고 현신ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="68" n="27">어ᄉᆞㅣ 왈 승은 져리 올ᄂᆞ안지라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="68" n="28">소찬으로 됴흔 음식을 먹이고 ᄌᆞ셔이 무러 왈</sent>
+<sent type="main" lang="kor" page="68-69" n="29">모년 모월에 ᄇᆡ위암 졀에 계신 리씨의 아회를 길에 바럿다 ᄒᆞ니 그 말이 올흐냐</sent><!--리 ^ 씨의-->
+</pages>
+
+<pages n="69">
+<img n="69">https://kohico.kr/_media/image/간행년도_간략서명_권차/69.jpg</img>
+<sent type="main" lang="kor" page="69" n="1">승이 답 왈 그런 일이 잇사오ᄂᆞ</sent>
+<sent type="main" lang="kor" page="69" n="2">ᄉᆞ셰 부득ᄒᆞ와 그리 ᄒᆞ엿스ᄂᆞ 인명을 엇지 바리릿가마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="69" n="3">부인을 위ᄒᆞ야 그리ᄒᆞ옵고 ᄋᆡ기를 바려 쥭을 것 ᄀᆞᆺ흐면 소승들이 말류라도 ᄒᆞ옵겟지만</sent>
+<sent type="main" lang="kor" page="69" n="4">승들이 멸문디화를 당ᄒᆞ겟ᄉᆞᆸ기로 부인과 의론ᄒᆞ고 이리된 일이오니</sent>
+<sent type="main" lang="kor" page="69" n="5">깁히 통촉ᄒᆞᄉᆞ ᄋᆡᄆᆡ무죄한 승들에 허물을 용셔ᄒᆞ소셔 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="69" n="6">어ᄉᆞㅣ 위로 왈 내 몬져 네 죄 안인 쥴은 알건이와 조곰도 무셔워 말고 뭇ᄂᆞᆫ 말을 잘 ᄃᆡ답ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="69" n="7">그 아기를 뉘가 길은다 ᄒᆞᄂᆞᆫ지 쥭엇다 ᄒᆞᄂᆞᆫ지 소식을 모르ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="69" n="8">승이 답 왈 황텬탑에 사시ᄂᆞᆫ 셔 장군 ᄃᆡᆨ의셔 기른다 ᄒᆞ되 ᄌᆞ셔이 모르ᄂᆞ이다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="69" n="9">승이 안젼의 알외기 황송ᄒᆞ오ᄂᆞ 소승은 듯사오니</sent>
+<sent type="main" lang="kor" page="69" n="10">어사ᄭᅴ옵셔 황텬탑 셔 장군의 ᄌᆞ뎨라 ᄒᆞ오니 엇디 모르시고 승다려 무르시ᄂᆞᆫ잇가</sent>
+<sent type="main" lang="kor" page="69" n="11">어사ㅣ 이 말을 듯고 한숨디며 왈</sent>
+<sent type="main" lang="kor" page="69" n="12">내가 알 것 ᄀᆞᆺ흐면 너희ᄅᆞᆯ 불너 알고자 ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="69" n="13">사쳐ᄒᆞᆫ 쥬인을 불너 분부 왈</sent>
+<sent type="main" lang="kor" page="69" n="14">이 즁을 극진이 후ᄃᆡᄒᆞ고 보ᄂᆡ디 말ᄂᆞ ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="69" n="15">그 승들이 공연이 쥭을 쥴 알고 잇더니 잇ᄯᆡ 어ᄉᆡ 부모 차질 긔회를 엇엇스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="69" n="16">일변 깃부기도 ᄒᆞ고 일변 분ᄒᆞ여 셔쥰을 잡아 원슈 갑기를 ᄉᆡᆼ각ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="69" n="17">어사ㅣ 셔씨의게 거즛 문안ᄒᆞ고 그 즁 먼져 잡혀와 종노릇ᄒᆞ든 ᄌᆞ를 넌짓이 불너다 뭇기를</sent>
+<sent type="main" lang="kor" page="69" n="18">모년 모월의 길에 바린 아ᄒᆡ를 뉘 다려다 길넛ᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="69" n="19">노복이 듯더니</sent>
+<sent type="main" lang="kor" page="69-70" n="20">이런 말ᄉᆞᆷ을 뉘게 드르셧ᄂᆞᆫ지 모르거니와 도모디 그런 일이 업노라 ᄒᆞ고</sent><!--드^르셧ᄂᆞᆫ지-->
+</pages>
+
+<pages n="70">
+<img n="70">https://kohico.kr/_media/image/간행년도_간략서명_권차/70.jpg</img>
+<sent type="main" lang="kor" page="70" n="1">쳔연이 긔이거늘 어사ㅣ ᄃᆡ로ᄒᆞ야 좌우 ᄂᆞ졸노 ᄒᆞ여곰 형벌을 갓초고 호령이 텬디 진동ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="70" n="2">종들이 이것을 보고 두려워ᄒᆞ며 항복ᄒᆞ여 시종이 여일ᄒᆞ게 엿ᄌᆞ오니</sent>
+<sent type="main" lang="kor" page="70" n="3">어ᄉᆡ ᄋᆡᆨ이를 무엇에 쌋드냐</sent>
+<sent type="main" lang="kor" page="70" n="4">비복등이 엿ᄌᆞ오ᄃᆡ ᄂᆞ삼의 싸고 봉ᄎᆡ를 그 쇽에 너헛더이다</sent>
+<sent type="main" lang="kor" page="70" n="5">어ᄉᆡ 이 말을 듯고 노복을 보ᄂᆡ고 어사ㅣ 말과 물건이 원졍 말과 갓고</sent>
+<sent type="main" lang="kor" page="70" n="6">황도로 갈 ᄯᆡ에 졀강 ᄯᅡ에 졍 부인의 집에셔 유ᄒᆞᆯ 졔</sent>
+<sent type="main" lang="kor" page="70" n="7">그 부인이 리씨 ᄌᆞ부로 리별시에 ᄂᆞ삼 봉ᄎᆡ를 쥬엇단 말을 드럿고</sent>
+<sent type="main" lang="kor" page="70" n="8">ᄯᅩ 노비ᄒᆞᄂᆞᆫ 말을 드르니 의심 업ᄂᆞᆫ ᄂᆡ로다 노복이 도라오며 셔로 말ᄒᆞ기를</sent>
+<sent type="main" lang="kor" page="70" n="9">셰상의 밋을 사ᄅᆞᆷ이 업도다 뎨 지금 몸이 뎌리 되여 ᄂᆞ라의 은혜로 어사를 ᄒᆞ엿스ᄂᆞ</sent>
+<sent type="main" lang="kor" page="70" n="10">양육부를 져갓치 ᄒᆞ니 ᄃᆡ감이 알으시면 좃치 못ᄒᆞᆯ리라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="70" n="11">그 즁에 의심ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="70" n="12">ᄎᆞ셜 어사ㅣ 학사의 원졍과 부인의 원졍을 사ᄆᆡ에 넛코</sent>
+<sent type="main" lang="kor" page="70" n="13">학사 계신 사관의 가셔 뵈옵고 원졍을 ᄂᆡ여 뵈이거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="70" n="14">학사 놀ᄂᆞᄂᆞᆫ지라 어사ㅣ 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="70" n="15">소ᄌᆞ의 몸이 어명을 밧자와 남의 원억을 탐문ᄒᆞ옵더니</sent>
+<sent type="main" lang="kor" page="70" n="16">이졔 장노의 원수를 갑흐려 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="70" n="17">학ᄉᆡ 그졔야 어사에 손을 잡고 왈</sent>
+<sent type="main" lang="kor" page="70" n="18">어ᄉᆡ 이졔 ᄂᆡ 원슈를 갑허 쥬마 ᄒᆞ시니 더ᄒᆞᆯ 말 업시 깃붐을 엇지 칭량ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="70" n="19">바라건ᄃᆡ 노모 뵈옵기가 일각이 삼츄 갓ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="70" n="20">쇽히 ᄎᆞ져 뵈옵기ᄂᆞᆫ 어ᄉᆞ의 손의 달녓스니 밋노라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="70" n="21">슯히 울거ᄂᆞᆯ 어사ㅣ 그졔야 부친인 쥴 알고 업ᄃᆡ여 통곡 왈</sent>
+<sent type="main" lang="kor" page="70" n="22">불효ᄌᆞ 운경은 이곳 와셔 뵈옵ᄂᆞ이다 ᄒᆞ고 일어ᄂᆞ지 안커ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="70" n="23">학사 아모란 쥴 모르고 놀ᄂᆞ거ᄂᆞᆯ 어ᄉᆞ 이러ᄂᆞ 젼후 ᄉᆞ연을 고ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="70" n="24">학ᄉᆞ 그졔야 아ᄃᆞᆯ인 쥴 알고 셔로 안고 통곡ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="70-71" n="25">관광ᄒᆞ는 ᄌᆡ 슯허ᄒᆞ지 안이리 업더라</sent><!--슯허ᄒᆞ지 ^ 안이리-->
+</pages>
+
+<pages n="71">
+<img n="71">https://kohico.kr/_media/image/간행년도_간략서명_권차/71.jpg</img>
+<sent type="main" lang="kor" page="71" n="1">학ᄉᆞ 문 왈 ᄂᆞᄂᆞᆫ 너ᄅᆞᆯ 보앗거니와</sent>
+<sent type="main" lang="kor" page="71" n="2">네 모ᄂᆞᆫ 엇지 되엿ᄂᆞᆫ지 알 수 업고 ᄉᆞᄉᆡᆼ을 모르니</sent>
+<sent type="main" lang="kor" page="71" n="3">답답ᄒᆞᆫ 말 엇지 다ᄒᆞ며 이졔 당ᄒᆞ여 하ᄂᆞᆯ이 불상이 넉이ᄉᆞ</sent><!--'답답ᄒᆞᆫ'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="71" n="4">이ᄀᆞᆺ치 상면ᄒᆞ여 반갑게 보ᄂᆞ 일변 깃부고 일변 답답ᄒᆞ기ᄂᆞᆫ</sent><!--'답답ᄒᆞ기ᄂᆞᆫ'의 뒤에 오는 '답'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="71" n="5">네 모ᄅᆞᆯ 못 만ᄂᆞ니 원통디원ᄒᆞ고 셔가의 원슈를 엇지ᄒᆞ면 갑흘ᄂᆞᆫ지 일시 밧브고ᄂᆞ</sent>
+<sent type="main" lang="kor" page="71" n="6">아모리 ᄉᆡᆼ각ᄒᆞ여도 셔가 솜씨에 견ᄃᆡ지 못ᄒᆞ고 쥭엇기가 십상이면 팔구ᄂᆞᆫ 될 듯ᄒᆞ다 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="71" n="7">눈물을 흘니ᄂᆞᆫ지라 어ᄉᆞ 잇ᄯᆡ에 부친의 탄식ᄒᆞ심을 듯고 ᄀᆞ라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="8">부모 팔ᄌᆞㅣ 험악ᄒᆞ옵고 소ᄌᆡ ᄂᆞ히 이십이로되</sent>
+<sent type="main" lang="kor" page="71" n="9">모친에 얼골을 뵈옵지 못ᄒᆞ옵고 이제 부친을 맛ᄂᆞ 뵈오니 깃부고</sent>
+<sent type="main" lang="kor" page="71" n="10">ᄯᅩ 부친 말ᄉᆞᆷ을 듯ᄉᆞ오니 소ᄌᆡ 불효ᄅᆞᆯ 엇지 면ᄒᆞ릿가</sent>
+<sent type="main" lang="kor" page="71" n="11">부친은 과도이 셜워 마옵소셔</sent>
+<sent type="main" lang="kor" page="71" n="12">엇던 승이 원졍을 드리기로 보니 리씨라 ᄒᆞ옵ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="13">ᄉᆞ연은 황쥬 물가의셔 셔쥰의게 욕을 보고 부친이 물에 드신 것과</sent>
+<sent type="main" lang="kor" page="71" n="14">몸을 피ᄒᆞ시와 졀에 잇셔 셰월을 보ᄂᆡ든 일과</sent>
+<sent type="main" lang="kor" page="71" n="15">져ᄅᆞᆯ ᄂᆞ하 ᄇᆞ린 일을 소상 분명ᄒᆞ옵기로</sent>
+<sent type="main" lang="kor" page="71" n="16">모친 뵈옵기 삼츄 ᄀᆞᆺᄉᆞᆸ기로 원졍을 가지고 ᄇᆡ위암이란 졀노 가ᄂᆞᆫ 길에</sent>
+<sent type="main" lang="kor" page="71" n="17">부친을 몬져 뵈엿ᄉᆞ오니 부친은 이 원졍을 보옵소셔 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="18">학ᄉᆞ 이 말을 듯고</sent>
+<sent type="main" lang="kor" page="71" n="19">그러면 네 모친 원졍을 보니 뎨일 글시가 가장 반갑고 온갓 말이 지ᄂᆡ든 일과 ᄀᆞᆺ흔지라</sent>
+<sent type="main" lang="kor" page="71" n="20">글을 보다가 넉슬 일코 실셩ᄒᆞᆫ 사ᄅᆞᆷ 갓더라</sent>
+<sent type="main" lang="kor" page="71" n="21">학ᄉᆞ 졍신을 차려 일라ᄃᆡ 네 ᄇᆡ위암을 아ᄂᆞᆫ냐</sent>
+<sent type="main" lang="kor" page="71" n="22">어ᄉᆞ 답 왈 ᄇᆡ위암 즁을 다려다가 두엇ᄂᆞ니이다</sent>
+<sent type="main" lang="kor" page="71" n="23">학ᄉᆞㅣ 왈 그러ᄒᆞ면 읏지 ᄒᆞ려느냐</sent>
+<sent type="main" lang="kor" page="71" n="24">어ᄉᆞㅣ 답 왈 ᄇᆡ위암이 이곳셔 멀고 ᄯᅩᄒᆞᆫ 소ᄌᆞᄂᆞᆫ 이곳셔 일을 조쳐ᄒᆞ고 가겟ᄉᆞ오니</sent>
+<sent type="main" lang="kor" page="71" n="25">부친은 뎌 승을 다리고 먼져 가옵소셔 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="71" n="26">ᄉᆞ쳐의 두엇든 승을 불너 이라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="71" n="27">ᄂᆞᄂᆞᆫ 너희들에 은혜를 만이 닙어</sent>
+<sent type="main" lang="kor" page="71" n="28">오날날ᄭᆞ지 리씨 부인을 공괴ᄒᆞ여</sent><!--'오날날ᄭᆞ지'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="71-72" n="29">신톄가 강건ᄒᆞ시고 ᄯᅩ 겸ᄒᆞ여 이런 일에도 몸을 앗기지 안이ᄒᆞ고</sent><!--강건ᄒᆞ시^고-->
+</pages>
+
+<pages n="72">
+<img n="72">https://kohico.kr/_media/image/간행년도_간략서명_권차/72.jpg</img>
+<sent type="main" lang="kor" page="72" n="1">쥭기ᄅᆞᆯ 다ᄒᆞ여 셩심을 다ᄒᆞ야 도아 들이니</sent>
+<sent type="main" lang="kor" page="72" n="2">내 승들의게 상급ᄒᆞ여도 밧지 안이ᄒᆞ니 도리여 미안ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="72" n="3">이ᄯᆡ를 당ᄒᆞ여 부인의 소원이 일은 고로 그 연유ᄅᆞᆯ 다 말ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="72" n="4">자셔이 듯고 학ᄉᆞ를 잘 인도ᄒᆞ여 ᄇᆡ위암ᄭᆞ지 이르게 ᄒᆞ라 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="72" n="5">노비ᄅᆞᆯ 후이 쥬니 승들이 그졔야 무ᄉᆞᄒᆞ고 리씨의 원졍ᄃᆡ로 일이 되ᄂᆞᆫ 쥴 알고 ᄉᆞ례ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="72" n="6">학ᄉᆞᄅᆞᆯ 인도ᄒᆞ며 즐거옴을 층량치 못ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="72" n="7">학ᄉᆞㅣ 승을 ᄯᅡ라 ᄇᆡ위암으로 올ᄂᆞ가며 한탄ᄒᆞᄂᆞᆫ 말이</sent>
+<sent type="main" lang="kor" page="72" n="8">소상강 반쥭ᄀᆞᆺ치 ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="72" n="9">이러구러 ᄇᆡ위암 졀 동구에 다다르니</sent><!--'다다르니'의 뒤에 오는 '다'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="10">법당은 반공에 놉히 잇고</sent>
+<sent type="main" lang="kor" page="72" n="11">산은 모란병 둘너친 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="72" n="12">시ᄂᆡ물은 졸졸 흐르ᄂᆞᆫ도다</sent><!--'졸졸'의 뒤에 오는 '졸'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="13">잇ᄯᆡ 부인이 승을 보ᄂᆡ고 궁금ᄒᆞ여 무ᄉᆞᆷ 화가 잇슬가 ᄒᆞ녀 근심 중</sent>
+<sent type="main" lang="kor" page="72" n="14">월류뎡의 올ᄂᆞ 바라보며 한탄ᄒᆞ더니</sent>
+<sent type="main" lang="kor" page="72" n="15">날이 셕양에 이르더니 두견은 슯히 울고 금풍은 소슬ᄒᆞᆫᄃᆡ 엇지 슯흐지 안이ᄒᆞ리요</sent>
+<sent type="main" lang="kor" page="72" n="16">맛ᄎᆞᆷ 졀 동구ᄅᆞᆯ 바라보니 승과 속ᄀᆡᆨ이 오거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="72" n="17">ᄆᆞᄋᆞᆷ의 이상ᄒᆞ여 자셔이 보니 의심 업ᄂᆞᆫ 학ᄉᆞㅣ 분명ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="72" n="18">부인이 혜오ᄃᆡ 우리 학ᄉᆞ 상별ᄒᆞᆫ 지 이십 년이라</sent>
+<sent type="main" lang="kor" page="72" n="19">학ᄉᆞ의 형용이 눈에 ᄇᆞᆲ혀 이러ᄒᆞᆫ가 ᄒᆞ고 자연 비감ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="72" n="20">졈졈 ᄀᆞᆺ가이 오ᄆᆡ 자셔이 보니</sent><!--'졈졈'의 뒤에 오는 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="21">학ᄉᆞ의 거동이 쳔연ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="72" n="22">ᄆᆞᄋᆞᆷ의 ᄉᆡᆼ각ᄒᆞ되 학ᄉᆞᄂᆞᆫ 쥭은 사ᄅᆞᆷ이라 이 졀을 차져 올 ᄇᆡ 만무ᄒᆞ고 엇던 사ᄅᆞᆷ인고 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="72" n="23">ᄀᆞᆺ튼 이도 만토다 ᄒᆞ고 갓가이 오기ᄅᆞᆯ 기ᄃᆞ리더니</sent>
+<sent type="main" lang="kor" page="72" n="24">승이 압셔오며 급히 고왈 학사 오시ᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="72" n="25">이 말을 듯고 부인이 아모란 쥴 모르고 창황이 ᄂᆞ아와 본즉 과연 학ᄉᆞ라</sent>
+<sent type="main" lang="kor" page="72" n="26">부인이 쳔만 의외에 물에 ᄲᅡ져 쥭엇던 가군을 만ᄂᆞ니 놀납고 졍신이 아득ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="72" n="27">아모 말도 못ᄒᆞ고 학ᄉᆞ의 소ᄆᆡᄅᆞᆯ 잡고 통곡ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="72" n="28">학ᄉᆞ ᄯᅩᄒᆞᆫ 이십여 년 그리든 부인을 창망이 맛ᄂᆞ</sent>
+<sent type="main" lang="kor" page="72-73" n="29">셔로 붓들고 슯히 우니</sent><!--붓^들고-->
+</pages>
+
+<pages n="73">
+<img n="73">https://kohico.kr/_media/image/간행년도_간략서명_권차/73.jpg</img>
+<sent type="main" lang="kor" page="73" n="1">산승과 일월과 초목이며 산슈들과 금슈ᄭᆞ지라도 슯허ᄒᆞᄂᆞᆫ 듯ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="73" n="2">셔로 만ᄂᆞ 그리든 졍리ᄅᆞᆯ 엇지ᄒᆞᆯᄂᆞᆫ지 만ᄂᆞ보ᄂᆞᆫ 즁에 한 승이 드러오며</sent>
+<sent type="main" lang="kor" page="73" n="3">어ᄉᆞ 오신다 ᄒᆞ거늘</sent>
+<sent type="main" lang="kor" page="73" n="4">부인은 아즉 그 ᄉᆞ연을 모르ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="73" n="5">어ᄉᆡ 문에 드러오며 엿ᄌᆞ오ᄃᆡ</sent>
+<sent type="main" lang="kor" page="73" n="6">바렷든 ᄌᆞ식 운경은 모친을 뵈옵ᄂᆞ이다 ᄒᆞ고 통곡ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="73" n="7">부인이 이 말을 듯고 ᄃᆡ경 질ᄉᆡᆨᄒᆞ야 긔졀ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="73" n="8">어ᄉᆞㅣ 망극ᄒᆞ야 젼에 신션이 쥬던 약을 쓰니 이윽고 졍신을 ᄎᆞ리거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="73" n="9">어ᄉᆞ와 부인이 셔로 맛ᄂᆞ 일희일비ᄒᆞ니 승들이 보고 칭찬ᄒᆞ야 왈</sent>
+<sent type="main" lang="kor" page="73" n="10">우리 ᄂᆞ히 만흐ᄂᆞ 만고에 듬은 일이라 ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="73" n="11">ᄎᆞ셜 어ᄉᆞㅣ 부인을 모시고 어ᄉᆞ ᄉᆞ쳐로 가려 ᄒᆞ니 부인이 승들을 리별ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="73" n="12">우리 셔로 만ᄂᆞ 이십 년 동안을 지ᄂᆡᆯ ᄯᆡ에 피ᄎᆞ에 혐이 업시 셔로 ᄉᆞ랑ᄒᆞᆷ이 친형뎨와 ᄀᆞᆺ치 지ᄂᆡ고</sent>
+<sent type="main" lang="kor" page="73" n="13">ᄯᅩ 겸ᄒᆞ야 내 일노 ᄒᆞ야곰 ᄋᆡᄅᆞᆯ 무슈이 쓰고</sent>
+<sent type="main" lang="kor" page="73" n="14">오날날ᄭᆞ지 됴흔 음식과 됴흔 션약으로 ᄂᆞᄅᆞᆯ 먹여 몸을 강건케 ᄒᆞ고</sent><!--'오날날ᄭᆞ지'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="15">이졔 당ᄒᆞ야 심즁에 잇ᄂᆞᆫ 소원을 다 일워</sent>
+<sent type="main" lang="kor" page="73" n="16">그리든 남편과 쥬야 일구월심 발아고</sent>
+<sent type="main" lang="kor" page="73" n="17">차져 보기ᄅᆞᆯ 원ᄒᆞ든 아달을 맛낫스니 명쳘ᄒᆞ신 하ᄂᆞ님이 도으신가 ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="73" n="18">ᄯᅩ ᄂᆞᄂᆞᆫ 이 졀에 잇셔 쥭을 ᄯᆡᄭᆞ지 셰월을 ᄀᆞᆺ치 지ᄂᆡᆯ가 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="73" n="19">어ᄉᆞㅣ ᄂᆞᄅᆞᆯ 만ᄂᆞᆫ 후로 즐거워ᄒᆞ야 이 졀을 이별ᄒᆞ고 ᄀᆞᆺ치 가게 되니</sent>
+<sent type="main" lang="kor" page="73" n="20">셔로 셥셥ᄒᆞᆷ을 칭량치 못ᄒᆞᆯ너라 말을 맛치고 ᄯᅥ날ᄉᆡ</sent><!--'셥셥ᄒᆞᆷ을'의 뒤에 오는 '셥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="21">승들이 다 ᄇᆡᄒᆡᆼᄒᆞ며 이십 년 깁흔 졍을 피ᄎᆞ 못ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="73" n="22">눈물이 비오듯 ᄒᆞ며 셔로 붓들고 통곡ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="73" n="23">어ᄉᆡ 부인을 뫼시고 ᄂᆞ오며 승다려 ᄉᆞ례 왈</sent>
+<sent type="main" lang="kor" page="73" n="24">부인을 뫼시고 이십 년 간고ᄅᆞᆯ 한가지로 ᄒᆞ니 은혜 ᄐᆡ산이 가ᄇᆡ압다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="73" n="25">은금과 보화ᄅᆞᆯ 만이 쥬어 상급ᄒᆞ니 승들이 밧지 안이ᄒᆞ고 이라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="73" n="26">보화란 거슨 우리 쓸 ᄯᆡ도 업거니와</sent>
+<sent type="main" lang="kor" page="73-74" n="27">셔로 ᄆᆞᄋᆞᆷ을 쥭을 ᄯᆡᄭᆞ지 잇지 말고 지ᄂᆡᄂᆞᆫ 거시 은금 보화보다도 낫다 ᄒᆞ니</sent><!--지ᄂᆡ^ᄂᆞᆫ-->
+</pages>
+
+<pages n="74">
+<img n="74">https://kohico.kr/_media/image/간행년도_간략서명_권차/74.jpg</img>
+<sent type="main" lang="kor" page="74" n="1">부인은 리별ᄒᆞᄂᆞᆫ 졍을 ᄋᆡ원이 슯허ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="74" n="2">어ᄉᆞㅣ 부모ᄅᆞᆯ 모시고 ᄀᆡᆨᄉᆞ로 ᄂᆞ려올ᄉᆡ</sent>
+<sent type="main" lang="kor" page="74" n="3">좌우의 긔치 검극과 ᄂᆞ졸이 시립ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="74" n="4">각읍 슈령과 ᄇᆡᆨ셩들이 구름 모히듯 ᄒᆞ고 위의 찰ᄂᆞᆫᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="74" n="5">어ᄉᆞㅣ 즉시 잔ᄎᆡᄅᆞᆯ ᄇᆡ셜ᄒᆞ고 즐기더니 이ᄯᆡ 학ᄉᆞ 아우 소운이 어ᄉᆞ게 졍소ᄒᆞ여 왈</sent>
+<sent type="main" lang="kor" page="74" n="6">민은 졀강 ᄯᅡ 사ᄂᆞᆫ 사ᄅᆞᆷ으로셔 부모를 리별ᄒᆞ고 ᄂᆞ온 지 십 년이옵고</sent>
+<sent type="main" lang="kor" page="74" n="7">ᄂᆞ히ᄂᆞᆫ 삼십사 셰ᄂᆞ 젼 황쥬ᄌᆞ사로 ᄂᆞ려가든 소 학ᄉᆞᄂᆞᆫ 민에 형이온ᄃᆡ</sent>
+<sent type="main" lang="kor" page="74" n="8">노복을 다리고 가온 지 이십 년의 종젹을 모로와 사면팔방 졍쳐읍시 단이옵다가</sent>
+<sent type="main" lang="kor" page="74" n="9">고향으로 도라가려 ᄒᆞ옵다가</sent>
+<sent type="main" lang="kor" page="74" n="10">듯사온즉 명쳘ᄒᆞᆫ 어사ᄂᆞ리 셧다기로 소원을 일을가 ᄒᆞ여 글을 밧치오니</sent>
+<sent type="main" lang="kor" page="74" n="11">형에 종젹을 ᄎᆞ져 가지고 민과 ᄀᆞᆺ치 회환을 ᄇᆞ라오니</sent>
+<sent type="main" lang="kor" page="74" n="12">명쳘ᄒᆞ신 어ᄉᆞ젼의 두어 ᄌᆞ 글을 올니오니</sent>
+<sent type="main" lang="kor" page="74" n="13">깁히 통촉ᄒᆞ심을 쳔만 바라ᄂᆞ이다 ᄒᆞ엿더라</sent>
+<sent type="main" lang="kor" page="74" n="14">소지ᄅᆞᆯ 졍ᄒᆞ고 문밧게 셧더니</sent>
+<sent type="main" lang="kor" page="74" n="15">ᄎᆞ셜 어사ㅣ 이 글을 보고 대경ᄒᆞ여 즉시 부르시니</sent>
+<sent type="main" lang="kor" page="74" n="16">하인이 ᄂᆞ와 소지 졍ᄒᆞᆫ 사ᄅᆞᆷ을 찻거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="74" n="17">소운이 ᄃᆡ답ᄒᆞ니 하인이 왈 어사ᄭᅴ셔 부르신다 ᄒᆞ고 ᄌᆡ촉ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="74" n="18">소운이 ᄃᆡ경ᄒᆞ여 아모리 ᄒᆞᆯ 쥴 모르더니</sent>
+<sent type="main" lang="kor" page="74" n="19">문득 보니 학사ㅣ 부쳐 안졋거ᄂᆞᆯ 심즁에 고히이 넉여 엇지된 일인지 아지 못ᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="74" n="20">ᄆᆞᄋᆞᆷ의 반가옴을 익이지 못ᄒᆞ여 관광ᄒᆞ고 어ᄉᆞ의 말을 기ᄃᆞ리려 ᄒᆞ고 잇더니</sent>
+<sent type="main" lang="kor" page="74" n="21">학ᄉᆞ 일어ᄂᆞ 운에 손을 잡고 ᄃᆡ셩통곡ᄒᆞ며 눈물을 금치 못ᄒᆞ며 슯허ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="74" n="22">운이 문 왈 형ᄭᅴ셔 어ᄉᆞᄅᆞᆯ 친ᄒᆞ신잇가</sent>
+<sent type="main" lang="kor" page="74" n="23">학ᄉᆡ 답 왈 ᄂᆡ 자식이오 운에 질이라 ᄒᆞ고 눈물을 흘니더라</sent>
+<sent type="main" lang="kor" page="74-75" n="24">학ᄉᆡ 어사다려 이ᄂᆞᆫ 너희 삼촌이라 ᄒᆞ니</sent><!--학ᄉᆡ ^ 어사다려-->
+</pages>
+
+<pages n="75">
+<img n="75">https://kohico.kr/_media/image/간행년도_간략서명_권차/75.jpg</img>
+<sent type="main" lang="kor" page="75" n="1">어ᄉᆡ 졀ᄒᆞ고 손을 붓잡고 슯허ᄒᆞ며 왈</sent>
+<sent type="main" lang="kor" page="75" n="2">셰상의 남ᄋᆡ 부모ᄅᆞᆯ 모르옵고 팔ᄌᆞ 긔박ᄒᆞ여 남의 손에 길녀</sent>
+<sent type="main" lang="kor" page="75" n="3">이십 년 만에 부모ᄅᆞᆯ 맛ᄂᆞ 뵈온이 엇지 자식이라 ᄒᆞ올잇가</sent>
+<sent type="main" lang="kor" page="75" n="4">집안이 운수 불ᄒᆡᆼᄒᆞ여 이ᄀᆞᆺ치 되엿사오ᄂᆞ 이제 텬우신조ᄒᆞ와</sent>
+<sent type="main" lang="kor" page="75" n="5">쥭엇든 부친과 유리ᄒᆞ여 단이시든 모친을 차져 뵈오니</sent>
+<sent type="main" lang="kor" page="75" n="6">이졔 쥭어 디하의 갈지라도 여한이 업슬가 ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="75" n="7">언필에 학ᄉᆡ ᄯᅩ ᄀᆞ라ᄃᆡ</sent>
+<sent type="main" lang="kor" page="75" n="8">내 부모 쳐ᄌᆞ를 일코 물에 ᄲᅡ져 죽을 거ᄉᆞᆯ</sent>
+<sent type="main" lang="kor" page="75" n="9">상고션이 구ᄒᆞᆫ 말을 낫낫치 하고</sent><!--'낫낫치'의 뒤에 오는 '낫'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="10">ᄯᅩᄒᆞᆫ 셔로 만ᄂᆞᆫ 거시 ᄭᅮᆷ인지 ᄉᆡᆼ신지 졍신이 아득ᄒᆞ며 모친을 ᄉᆡᆼ각ᄒᆞ오면</sent>
+<sent type="main" lang="kor" page="75" n="11">우리 둘이 나오고 이십 년 동안 존망을 아지 못ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="75" n="12">ᄉᆡᆼ각ᄒᆞ면 일시를 견ᄃᆡᆯ 수 업노라 ᄒᆞ고 눈물이 비 오듯 ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="75" n="13">소운이 이 말을 듯고 답답ᄒᆞ고 분ᄒᆞᆷ을 익이지 못ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="75" n="14">이ᄯᆡ 어사ㅣ 잔ᄎᆡ를 다 파ᄒᆞ고 부모와 슉부를 ᄉᆞ쳐로 뫼시고 셔쥰 잡기ᄅᆞᆯ 의론ᄒᆞᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="75" n="15">학사ㅣ 이라ᄃᆡ 내 드르니 황텬탑에 사ᄂᆞᆫ 셔가 놈이 이곳의 왓다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="75" n="16">어ᄃᆡ 잇ᄂᆞᆫ지 아지 못ᄒᆞᄂᆞ 더욱 두려오며 너ᄂᆞᆫ 그 손의 길녓스니 엇지 ᄃᆡ졉지 안이리요</sent>
+<sent type="main" lang="kor" page="75" n="17">어ᄉᆞㅣ 답 왈 셔쥰을 잡아두고 군사로 슈직ᄒᆞ라 ᄒᆞ엿스니 엇지 두려오며</sent>
+<sent type="main" lang="kor" page="75" n="18">쳐치ᄒᆞ기 어렵지 안이ᄒᆞ오니 부친은 ᄯᅳᆺ을 편안케 ᄒᆞ옵소셔</sent>
+<sent type="main" lang="kor" page="75" n="19">겻혜 셧든 사ᄅᆞᆷ들이 이 말을 듯더니</sent>
+<sent type="main" lang="kor" page="75" n="20">어ᄉᆡ 비록 나이 어리ᄂᆞ 벼ᄉᆞᆯ이 놉고 소견이 넓고 만고의 영웅이라</sent>
+<sent type="main" lang="kor" page="75" n="21">일월지ᄂᆡ에 부모와 슉부 셔로 만ᄂᆞ 만단심회를 다 푸러 바리니</sent>
+<sent type="main" lang="kor" page="75" n="22">이ᄂᆞᆫ 쳔츄만셰의 일언 일은 쳐음이라 ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="75" n="23">각셜 잇ᄯᆡ 군관등을 분부ᄒᆞ여 왈 셔쥰을 잡아올니라</sent>
+<sent type="main" lang="kor" page="75" n="24">셔쥰이 그 곡졀을 모르고 잡혀 드러가니</sent>
+<sent type="main" lang="kor" page="75" n="25">어ᄉᆡ 호령이 셔리ᄀᆞᆺ치 독ᄒᆞᆫ 긔운으로 군ᄉᆞ로 명ᄒᆞ여 ᄭᅮᆯ니라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="75-76" n="26">셔쥰이 ᄃᆡ경ᄒᆞ여 어ᄉᆞ를 ᄭᅮ지지며 왈</sent><!--ᄃᆡ경ᄒᆞ여 ^ 어ᄉᆞ를-->
+</pages>
+
+<pages n="76">
+<img n="76">https://kohico.kr/_media/image/간행년도_간략서명_권차/76.jpg</img>
+<sent type="main" lang="kor" page="76" n="1">운경아 너ᄂᆞᆫ 엇지 실혼ᄒᆞ엿ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="76" n="2">네 아비를 이리ᄒᆞ고 엇지 셰상의 ᄒᆡᆼ셰를 ᄒᆞ랴ᄂᆞᆫ냐</sent>
+<sent type="main" lang="kor" page="76" n="3">너ᄂᆞᆫ 황명을 밧ᄌᆞ와 각도 각읍 각동 각촌 ᄇᆡᆨ셩을 안돈ᄒᆞ고 불의 관원을 중치ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="76" n="4">모든 ᄇᆡᆨ셩의 ᄆᆞᄋᆞᆷ을 편이ᄒᆞ야 국ᄐᆡ민안ᄒᆞ고 가급인족ᄒᆞ라 ᄒᆞᄂᆞᆫ 명으로 졔수ᄒᆞ심을 밧ᄌᆞ와</sent>
+<sent type="main" lang="kor" page="76" n="5">쳐음 공ᄉᆞ로 네 아비 몬져 이ᄀᆞᆺ치 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="76" n="6">쳣ᄯᆡ 국가에 욕되게 ᄒᆞ고 둘ᄌᆡ로 말ᄒᆞ면 불효의 비ᄒᆞᆯ 슈 업스니</sent>
+<sent type="main" lang="kor" page="76" n="7">엇지 어ᄉᆞ 안찰이라 ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="76" n="8">너붓터 치죄ᄒᆞ여 형벌이 합당ᄒᆞ다 ᄒᆞ고 호령이 상풍ᄀᆞ치 ᄒᆞ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="76" n="9">어ᄉᆡ 들은 쳬 안이ᄒᆞ고 즉시 셔쥰의 다리고 온 종다려 은근이 일너 왈</sent>
+<sent type="main" lang="kor" page="76" n="10">길에셔 아희 다려 올 ᄯᆡ에 ᄂᆞ삼과 봉ᄎᆡ 잇스니 드리라 ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" lang="kor" page="76" n="11">종이 황급ᄒᆞ여 갓다 드리거ᄂᆞᆯ 어ᄉᆞ 밧어 부인ᄭᅴ 드리니 부인이 ᄂᆞ삼 봉ᄎᆡ를 보고 슯히 울거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="76" n="12">어ᄉᆞㅣ ᄯᅩ 졍씨가 쥬시던 ᄂᆞ삼을 드리니 부인이 다 보시고</sent>
+<sent type="main" lang="kor" page="76" n="13">싀모 ᄉᆡᆼ각을 ᄒᆞ고 못ᄂᆡ 더욱 슯허ᄒᆞ시더라</sent>
+<sent type="main" lang="kor" page="76" n="14">이 젹의 셔쥰을 크게 ᄭᅮ지져 왈</sent>
+<sent type="main" lang="kor" page="76" n="15">너ᄂᆞᆫ 드르라 텬ᄌᆞ의 어명을 밧아 황쥬ᄌᆞᄉᆞ로 ᄂᆞ려가ᄂᆞᆫ 소위 일ᄒᆡᆼ과</sent>
+<sent type="main" lang="kor" page="76" n="16">ᄌᆞᄉᆞ를 물에 더지고 종인을 다 쥭이며</sent>
+<sent type="main" lang="kor" page="76" n="17">그 부인 리씨를 취ᄒᆞ여 강포ᄒᆞᆫ 욕을 뵈이고 ᄂᆞ를 어더다 길넛스니</sent>
+<sent type="main" lang="kor" page="76" n="18">너도 ᄂᆞᆫ 쥴 모르고 ᄂᆞ도 넌 쥴 모르고 길녓스니 피ᄎᆞ에 모를 ᄯᅳᆺᄒᆞᄂᆞ</sent>
+<sent type="main" lang="kor" page="76" n="19">사ᄅᆞᆷ의 일력으로 못ᄒᆞᄂᆞᆫ 거시요 하ᄂᆞᆯ이 미웃게 보ᄉᆞ</sent>
+<sent type="main" lang="kor" page="76" n="20">그 원슈 손의 길니여 원슈를 갑흐라 ᄒᆞ신 일이ᄆᆡ</sent>
+<sent type="main" lang="kor" page="76" n="21">셔젹은 셜워 말고 종용이 죽으라 ᄒᆞ고 호령이 진동ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="76" n="22">셔쥰이 이 말을 듯고</sent><!--'셔쥰이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="23">눈만 ᄭᅮᆷ젹ᄭᅮᆷ젹ᄒᆞ며 ᄒᆞᄂᆞᆫ 말이</sent><!--'ᄭᅮᆷ젹ᄭᅮᆷ젹ᄒᆞ며'의 뒤에 오는 'ᄭᅮᆷ'과 '젹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="24">할 말은 업스ᄂᆞ 그ᄃᆡ가 내 손에 길니여 져리 귀이 되엿스니 그도 ᄯᅩᄒᆞᆫ 은혜라</sent>
+<sent type="main" lang="kor" page="76" n="25">비록 쥭을 죄ᄂᆞ 자란 일을 ᄉᆡᆼ각ᄒᆞ고 은혜를 잇지 말ᄂᆞ ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="76" n="26">고ᄀᆡ를 숙이거ᄂᆞᆯ 어ᄉᆡ 고셩ᄃᆡ질 왈 너ᄂᆞᆫ 무삼 말을 ᄒᆞᄂᆞ뇨</sent>
+<sent type="main" lang="kor" page="76-77" n="27">군ᄉᆞ를 호령ᄒᆞ며 쥭일 긔계를 차리거ᄂᆞᆯ 잇ᄃᆡ 셔쥰이 자탄 왈</sent><!--차^리거ᄂᆞᆯ-->
+</pages>
+
+<pages n="77">
+<img n="77">https://kohico.kr/_media/image/간행년도_간략서명_권차/77.jpg</img>
+<sent type="main" lang="kor" page="77" n="1">녯사ᄅᆞᆷ의 말과 갓치 상아ᄅᆡ 호랑이를 길넛다 ᄒᆞᄂᆞᆫ 말이 ᄭᅩᆨ 내게 두고 ᄒᆞᆫ 말이라</sent>
+<sent type="main" lang="kor" page="77" n="2">어ᄉᆞ를 우러러 바라보고 왈</sent><!--'우러러'의 뒤에 오는 '러'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="3">그ᄃᆡᄂᆞᆫ 길닌 ᄉᆡᆼ각을 ᄒᆞ소셔</sent>
+<sent type="main" lang="kor" page="77" n="4">아ᄌᆞᄂᆞᆫ ᄇᆡ은망덕ᄒᆞ면 셰상의 용납지 못ᄒᆞᄂᆞ니 ᄇᆞ라건ᄃᆡ 살기를 ᄇᆞ라노라 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="77" n="5">업ᄃᆡ려 눈을 부릅ᄯᅳ고 운동치 안이ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="77" n="6">어ᄉᆞㅣ 보지 안이ᄒᆞ고 차로창으로 ᄒᆞ여곰 큰 톱으로 셔쥰의 목을 켜셔 쥭이라 호령이 셔리 ᄀᆞᆺ거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="77" n="7">차로창이 즉시 톱으로 켜셔 쥭이ᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="77" n="8">잇ᄯᆡ 어ᄉᆡ 부모의 원슈ᄂᆞᆫ 갑허스ᄂᆞ 그 집에 가셔 길니여 잔ᄲᅧ가 굴거지고</sent>
+<sent type="main" lang="kor" page="77" n="9">오날날ᄭᆞ지 그 은혜인 쥴 아ᄂᆞᆫ지라</sent><!--'오날날ᄭᆞ지'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="10">그러나 은혜는 은혜요 ᄌᆞ식 되여 부모 원슈 갑ᄂᆞᆫ 거시</sent>
+<sent type="main" lang="kor" page="77" n="11">도리에 당연ᄒᆞᆫ 거슨 삼쳑동ᄌᆞ라도 다 아ᄂᆞᆫ 바이라</sent>
+<sent type="main" lang="kor" page="77" n="12">어ᄉᆡ 그 공으로 초상 장ᄉᆞ를 극진이 잘 지ᄂᆡ고 셔쥰에 아오 셔ᄉᆡᆼ을 불너</sent>
+<sent type="main" lang="kor" page="77" n="13">어ᄉᆞ와 부인이 각별 치하ᄒᆞ고 상을 후이 쥬니 밧지 안이ᄒᆞᄂᆞᆫ지라</sent>
+<sent type="main" lang="kor" page="77" n="14">어ᄉᆡ 졀강으로 치ᄒᆡᆼ을 밧비 찰일ᄉᆡ 이런 경ᄉᆞ는 일우 칭냥치 못ᄒᆞᆯ너라</sent>
+<sent type="main" lang="kor" page="77" n="15">만경파 ᄒᆡ슈 즁 ᄲᅡ졋던 부친과 일허ᄇᆞ린 모친과 십 년 젼의 이별ᄒᆞ온 슉부와</sent>
+<sent type="main" lang="kor" page="77" n="16">이십 년 동안 남의 손의 가셔 길니던 운경은</sent>
+<sent type="main" lang="kor" page="77" n="17">오날날 텬ᄒᆡᆼ으로 셔로 만ᄂᆞ 황도를 향ᄒᆞ고 갈 졔</sent><!--'오날날'의 뒤에 오는 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="18">그 위의ᄂᆞᆫ 십 리에 버렷스니 구경ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ 구름ᄀᆞᆺ치 모혀ㅅ더라</sent>
+<sent type="main" lang="kor" page="77" n="19">ᄎᆞ셜 잇ᄯᆡ 승상부인이 쥬야 근심ᄒᆞ며 어ᄉᆞ 오기만 기ᄃᆞ리고 셰월을 보ᄂᆡ더니</sent>
+<sent type="main" lang="kor" page="77" n="20">일일은 ᄆᆞᄋᆞᆷ이 울울ᄒᆞ여 화원의 드러가니 텬도화가 피엿거ᄂᆞᆯ</sent><!--'일일은 ᄆᆞᄋᆞᆷ이 울울ᄒᆞ여'의 뒤에 오는 '일'과 '울'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="21">졍부인이 ᄭᅩᆺ찰 보고 탄 왈 ᄂᆡ 집에 무ᄉᆞᆷ 경ᄉᆞㅣ 잇스리요</sent>
+<sent type="main" lang="kor" page="77" n="22">장ᄌᆞᄂᆞᆫ 황쥬ᄌᆞᄉᆞ 간 지 이십 년의 ᄉᆞᄉᆡᆼ존망을 아지 못ᄒᆞ여 ᄎᆞ자를 보ᄂᆡᆫ 지 십 년에 소식좃ᄎᆞ 돈졀ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="77" n="23">어ᄃᆡ 가 쥭엇ᄂᆞᆫ지 살엇ᄂᆞᆫ지 알 수 업고</sent>
+<sent type="main" lang="kor" page="77" n="24">즁간에 친ᄒᆞᆫ 어ᄉᆞ 운경은 단여오마 ᄒᆞ더니 소식좃ᄎᆞ 돈졀ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="77-78" n="25">우리 집에 무ᄉᆞᆷ 경ᄉᆞ 잇스리오</sent><!--무^ᄉᆞᆷ-->
+</pages>
+
+<pages n="78">
+<img n="78">https://kohico.kr/_media/image/간행년도_간략서명_권차/78.jpg</img>
+<sent type="main" lang="kor" page="78" n="1">텬도화ᄂᆞᆫ 져ᄀᆞᆺ치 반기것만 ᄂᆞ의 ᄆᆞᄋᆞᆷ은 어ᄃᆡ다가 의지ᄒᆞᆯ가</sent>
+<sent type="main" lang="kor" page="78" n="2">원산을 ᄇᆞ라보고 탄식ᄒᆞᆯ 즈음의 노비 급히 드러오며 왈</sent>
+<sent type="main" lang="kor" page="78" n="3">지금 보온이 어ᄉᆞ와 학ᄉᆞ와 부인과 소운이 일시에 모혀 오ᄂᆞ이다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="78" n="4">부인이 이 말을 듯고</sent><!--'부인이 이'의 뒤에 오는 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="78" n="5">ᄭᅮᆷ인지 ᄉᆡᆼ시인지 졍신이 혼돈ᄒᆞ여</sent>
+<sent type="main" lang="kor" page="78" n="6">혼이 업ᄂᆞᆫ 사ᄅᆞᆷᄀᆞᆺ치 엇지ᄒᆞᆯ 쥴 모르고 벙벙이 셧더니</sent><!--'벙벙이'의 뒤에 오는 '벙'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="78" n="7">잇ᄯᆡ 학ᄉᆞㅣ 노모를 붓들고 통곡ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="78" n="8">이십 년 회포를 못ᄂᆡ 일우시며 학ᄉᆞ와 부인이 통곡ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="78" n="9">부인 졍씨 겨우 졍신을 차려 보니 ᄆᆞᄋᆞᆷ의 엇덧타 ᄒᆞᆯ 슈 업셔</sent>
+<sent type="main" lang="kor" page="78" n="10">여광여취ᄒᆞ야 부인과 학사를 붓들고 소운과 어사를 압헤 셰우고</sent>
+<sent type="main" lang="kor" page="78" n="11">멀고 먼 황텬길에 쥭은 사ᄅᆞᆷ들이 다시 사러온단 법이 잇ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="78" n="12">ᄒᆡ슈 창파만경 즁에 ᄇᆡᆨ골이 되엿슬 졔 어늬 사ᄅᆞᆷ이 살녀왓ᄂᆞ</sent>
+<sent type="main" lang="kor" page="78" n="13">뉘 집 ᄌᆞ손이 뫼셔왓ᄂᆞ 학사 네가 일졍 살어왓ᄂᆞ</sent>
+<sent type="main" lang="kor" page="78" n="14">북방 쳘리 만리 황텬탑에 잡혀갓던 ᄂᆞ의 ᄌᆞ부</sent>
+<sent type="main" lang="kor" page="78" n="15">만경창파 ᄃᆡᄒᆡ 즁에 이십 년 젼 일은 학사 만ᄂᆞ 볼 쥴과</sent>
+<sent type="main" lang="kor" page="78" n="16">이십 년 젼 ᄇᆞ렷든 손ᄌᆞ 만ᄂᆞ 원슈 갑고 만ᄂᆞ 볼 쥴 몽즁에ᄂᆞ ᄉᆡᆼ각ᄒᆞᆯ가 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="78" n="17">통곡긔졀ᄒᆞ시거ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="78" n="18">어ᄉᆡ 약을 가져 구ᄒᆞ고 셔로 질길ᄉᆡ</sent>
+<sent type="main" lang="kor" page="78" n="19">일가 친쳑이며 원근 인민이 어사의 덕화를 일캇더라</sent>
+<sent type="main" lang="kor" page="78" n="20">잇ᄯᆡ 학사와 어사ㅣ 졍부인ᄭᅴ 여ᄎᆞ여ᄎᆞᄒᆞᆫ 연유를 졀졀이 다 말ᄉᆞᆷᄒᆞ니</sent><!--'여ᄎᆞ여ᄎᆞᄒᆞᆫ'의 뒤에 오는 '여'와 'ᄎᆞ'는 재점으로 표기되어 있음--><!--'졀졀이'의 뒤에 오는 '졀'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="78" n="21">졍부인이 그졔야 어사ᄂᆞᆫ 손ᄌᆞ인 쥴 알고 각별 ᄉᆞ랑ᄒᆞ시더라</sent>
+<sent type="main" lang="kor" page="78" n="22">ᄎᆞ셜 어사ㅣ 황실에 드러가 텬ᄌᆞᄭᅴ 슉ᄇᆡᄒᆞ고 왈</sent>
+<sent type="main" lang="kor" page="78" n="23">차진 사연과 셔쥰이 쥭인 일과 슉부 차진 일을 계달ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="78" n="24">텬ᄌᆡ 드르시고 긔특이 녁여</sent>
+<sent type="main" lang="kor" page="78" n="25">경은 국가 일을 이ᄀᆞᆺ치 츙셩되이 ᄒᆞ고 ᄯᅩ 겸ᄒᆞ여 부모를 찻고</sent>
+<sent type="main" lang="kor" page="78-79" n="26">텬하의 용ᄆᆡᆼ 잇셔 ᄂᆞ라 권셰로도 못 잡ᄂᆞᆫ ᄃᆡ젹 괴슈를 잡어 쥭엿다 ᄒᆞ며</sent><!--ᄒᆞ^며-->
+</pages>
+
+<pages n="79">
+<img n="79">https://kohico.kr/_media/image/간행년도_간략서명_권차/79.jpg</img>
+<sent type="main" lang="kor" page="79" n="1">ᄇᆡᆨ셩의 ᄆᆞᄋᆞᆷ을 안졍ᄒᆞ엿스니 나라의 이만치 영화론 일이 업도다 ᄒᆞ옵시고</sent>
+<sent type="main" lang="kor" page="79" n="2">즉시 어사로 졀강ᄌᆞ사를 졔수ᄒᆞ시고 학사로 황쥬ᄌᆞ사를 졔수ᄒᆞ시며</sent>
+<sent type="main" lang="kor" page="79" n="3">학사 ᄃᆡ부인으로 가자를 나리사 졍경부인을 봉ᄒᆞ시고 리 부인을 졍렬부인을 봉ᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="79" n="4">소운으로 한림학사를 졔수ᄒᆞ시고 운경으로 이부상셔를 봉ᄒᆞ시니</sent>
+<sent type="main" lang="kor" page="79" n="5">소 씨에 공명이 일국의셔 진동ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="79" n="6">이럼으로 셰상 사ᄅᆞᆷ이 칭찬 안이리 업더라</sent>
+<sent type="main" lang="kor" page="79" n="7">셰월이 여류ᄒᆞ여 소 학사의 형뎨 ᄌᆞ손이 만당ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="79" n="8">부귀 승승ᄒᆞ니 국가의 쥬셕지신이라 슯흐다</sent><!--'승승ᄒᆞ니'의 뒤에 오는 '승'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="79" n="9">노모ㅣ 우연 득병ᄒᆞ야 별셰ᄒᆞ시니 학사ㅣ 형뎨 망극하여 션산의 장례ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="79" n="10">이ᄯᆡ 학사ㅣ ᄯᅩ 별셰ᄒᆞ시니 운경과 모든 자뎨 ᄋᆡ훼ᄒᆞ니 텬ᄌᆞᄭᅴ셔 상공례로 장사 지ᄂᆡ라 ᄒᆞ시더라</sent>
+<sent type="main" lang="kor" page="79" n="11">셰월이 여류ᄒᆞ여 삼 년을 지셩으로 지ᄂᆡ고 모친을 뫼시고 지ᄂᆡᆯᄉᆡ</sent>
+<sent type="main" lang="kor" page="79" n="12">잇ᄯᆡ 운경이 졀강 ᄯᅡ 녀ᄌᆞ로 뎡혼ᄒᆞ여 례를 ᄀᆞᆺ초와 ᄒᆡᆼᄒᆞ시고</sent>
+<sent type="main" lang="kor" page="79" n="13">모를 봉양ᄒᆞ고 일남이녀를 두엇스니</sent>
+<sent type="main" lang="kor" page="79" n="14">ᄌᆞ손창셩 부귀강령 만ᄃᆡ유젼ᄒᆞ고 셰월을 요슌ᄀᆞᆺ치 지ᄂᆡ더라</sent>
+<sent type="main" lang="kor" page="79" n="15">소학ᄉᆞ젼 죵</sent>
+</pages>
+
+</doc>
+

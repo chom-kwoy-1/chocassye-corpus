@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">청구영언</title>
+<title lang="chi">靑丘永言</title>
+<full_name>청구영언</full_name>
+<nikl_name>청구영언_진본</nikl_name>
+<general_name>청구영언</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>진본</version><!--珍本-->
+<volume n=""/>
+<author>김천택</author><!--金天澤-->
+<date>1728</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>김천택 편 청구영언 영인편</title>
+<pubPlace>서울</pubPlace>
+<publisher>국립한글박물관</publisher>
+<date>2017</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/05/16</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/05/29</date>
+<respStmt>
+<resp>입력자</resp><name>성우철</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="1a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="title" lang="kor" page="1a" n="1">靑丘永言</sent>
+</pages>
+
+<pages n="2a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="2a" n="1">오ᄂᆞᆯ이 오ᄂᆞᆯ이쇼셔 每日에 오ᄂᆞᆯ이쇼셔</sent><!--뒤쪽 '오ᄂᆞᆯ이쇼셔'의 '이'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="2a" n="2">뎜그디도 새디도 마르시고</sent>
+<sent type="main" lang="kor" page="2a" n="3">새라난 ᄆᆡ양 쟝식에 오ᄂᆞᆯ이쇼셔</sent>
+<sent type="main" lang="kor" page="2a" n="4">이바 楚ㅅ 사ᄅᆞᆷ들아 네 님금이 어듸 가니</sent>
+<sent type="main" lang="kor" page="2a" n="5">六里靑山이 뉘 ᄯᅡ히 되닷 말고</sent>
+<sent type="main" lang="kor" page="2a" n="6">우리도 武關 다든 後ㅣ니 消息 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="2a" n="7">부헙코 섬ᄭᅥ올슨 아마도 西楚覇王</sent>
+<sent type="main" lang="kor" page="2a" n="8">긔ᄯᅩᆼ 天下야 어드나 못 어드나</sent>
+<sent type="main" lang="kor" page="2a" n="9">千里馬 絶對佳人을 누를 주고 가리오</sent>
+<sent type="main" lang="kor" page="2a" n="10">흐리누거 괴ᄋᆞ시든 어누거 좃니읍시</sent>
+<sent type="main" lang="kor" page="2a" n="11">뎐ᄎᆞ뎐ᄎᆞ에 벗님의 뎐ᄎᆞ로셔</sent><!--두 번째 '뎐ᄎᆞ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="2a" n="12">雪綿子ㅅ 가싀로온 듯이 범그려어 노읍셔</sent>
+</pages>
+
+<pages n="2b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="2b" n="1">ᄋᆞ자 내 黃毛試筆 墨을 뭇쳐 窓 밧긔 디거고</sent>
+<sent type="main" lang="kor" page="2b" n="2">이제 도라가면 어들 법 잇거마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="2b" n="3">아므나 어더 가뎌서 그려 보면 알리라</sent>
+<sent type="main" lang="kor" page="2b" n="4">어져 내일이야 그릴 줄을 모로ᄃᆞ냐</sent>
+<sent type="main" lang="kor" page="2b" n="5">이시라 ᄒᆞ더면 가랴마ᄂᆞᆫ 제 구ᄐᆡ야</sent>
+<sent type="main" lang="kor" page="2b" n="6">보내고 그리ᄂᆞᆫ 情은 나도 몰라 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="3a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="3a" n="1">白雪이 ᄌᆞ자진 골에 구루미 머흐레라</sent>
+<sent type="main" lang="kor" page="3a" n="2">반가온 梅花ᄂᆞᆫ 어ᄂᆡ 곳에 픠엿ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="3a" n="3">夕陽에 홀로 셔 이셔 갈 곳 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="3a" n="4">이 몸이 주거 주거 一百番 고쳐 주거</sent>
+<sent type="main" lang="kor" page="3a" n="5">白骨이 塵土ㅣ 되여 넉시라도 잇고 업고</sent>
+<sent type="main" lang="kor" page="3a" n="6">님 向ᄒᆞᆫ 一片丹心이야 가싈 줄이 이시랴</sent>
+<sent type="main" lang="kor" page="3a" n="7">江湖에 봄이 드니 미친 興이 절로 난다</sent>
+<sent type="main" lang="kor" page="3a" n="8">濁醪溪邊에 錦鱗魚ㅣ 안ᄌᆔ로다</sent>
+<sent type="main" lang="kor" page="3a" n="9">이 몸이 閑暇ᄒᆡ옴도 亦君恩이샷다</sent>
+<sent type="main" lang="kor" page="3a" n="10">江湖에 녀름이 드니 草堂에 일이 업다</sent>
+<sent type="main" lang="kor" page="3a" n="11">有信ᄒᆞᆫ 江波ᄂᆞᆫ 보내ᄂᆞ니 ᄇᆞ람이로다</sent>
+<sent type="main" lang="kor" page="3a" n="12">이 몸이 서ᄂᆞᆯᄒᆡ옴도 亦君恩이샷다</sent>
+</pages>
+
+<pages n="3b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="3b" n="1">江湖에 ᄀᆞᄋᆞᆯ이 드니 고기마다 ᄉᆞᆯ져 잇다</sent>
+<sent type="main" lang="kor" page="3b" n="2">小艇에 그믈 시러 흘리 ᄠᅴ여 더뎌 두고</sent>
+<sent type="main" lang="kor" page="3b" n="3">이 몸이 消日ᄒᆡ옴도 亦君恩이샷다</sent>
+<sent type="main" lang="kor" page="3b" n="4">江湖에 겨월이 드니 눈 기픠 자히 남다</sent>
+<sent type="main" lang="kor" page="3b" n="5">삿갓 빗기 ᄡᅳ고 누역으로 오슬 삼아</sent>
+<sent type="main" lang="kor" page="3b" n="6">이 몸이 칩지 아니ᄒᆡ옴도 亦君恩이샷다</sent>
+<sent type="main" lang="kor" page="3b" n="7">朔風은 나모 긋ᄐᆡ 불고 明月은 눈 속에 ᄎᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="3b" n="8">萬里 邊城에 一長劍 집고 셔셔</sent>
+<sent type="main" lang="kor" page="3b" n="9">긴 ᄑᆞ람 큰 ᄒᆞᆫ 소릐에 거칠 거시 업세라</sent>
+<sent type="main" lang="kor" page="3b" n="10">長白山에 旗ᄅᆞᆯ 곳고 豆滿江에 ᄆᆞᆯ을 싯겨</sent>
+<sent type="main" lang="kor" page="3b" n="11">서근 져 션븨야 우리 아니 ᄉᆞ나희냐</sent>
+<sent type="main" lang="kor" page="3b" n="12">엇덧타 麟閣畵像을 누고 몬져 ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="3b" n="13">首陽山 ᄇᆞ라보며 夷齊를 恨하노라</sent>
+<sent type="main" lang="kor" page="3b" n="14">주려 주글진들 採薇도 ᄒᆞᄂᆞᆫ 것가</sent>
+</pages>
+
+<pages n="4a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="4a" n="1">비록애 푸새앳 거신들 긔 뉘 ᄯᅡ헤 낫ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="4a" n="2">이 몸이 주거 가셔 무어시 될ᄭᅩ ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="4a" n="3">蓬萊山 第一峰에 落落長松 되야 이셔</sent><!--뒤쪽의 '落'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="4a" n="4">白雪이 滿乾坤ᄒᆞᆯ 제 獨也靑靑ᄒᆞ리라</sent><!--뒤쪽의 '靑'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="4a" n="5">千萬里 머나먼 길에 고온 님 여희ᄋᆞᆸ고</sent>
+<sent type="main" lang="kor" page="4a" n="6">내 ᄆᆞ음 둘 듸 업서 냇ᄀᆞ에 안자이다</sent>
+<sent type="main" lang="kor" page="4a" n="7">져 물도 내 안 ᄀᆞᆺ도다 우러 밤길 녜놋다</sent>
+<sent type="main" lang="kor" page="4a" n="8">이 즁에 시름 업스니 漁夫의 生涯로다</sent>
+<sent type="main" lang="kor" page="4a" n="9">一葉扁舟ᄅᆞᆯ 萬頃波에 ᄠᅴ여 두고</sent>
+<sent type="main" lang="kor" page="4a" n="10">人世ᄅᆞᆯ 다 니젯거니 날 가ᄂᆞᆫ 줄을 안가</sent>
+<sent type="main" lang="kor" page="4a" n="11">구버ᄂᆞᆫ 千尋綠水 도라보니 萬疊靑山</sent>
+<sent type="main" lang="kor" page="4a" n="12">十丈紅塵이 언매나 ᄀᆞ련ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="4a" n="13">江湖에 月白ᄒᆞ거든 더옥 無心ᄒᆞ얘라</sent>
+<sent type="main" lang="kor" page="4a" n="14">靑荷에 밥을 ᄡᆞ고 綠柳에 고기 ᄭᅦ여</sent>
+<sent type="main" lang="kor" page="4a" n="15">蘆荻花叢에 ᄇᆡ ᄆᆡ야 □…□</sent><!--'두고 一般 淸'으로 추정됨-->
+</pages>
+
+<pages n="4b">
+<sent type="main" lang="kor" page="4b" n="1">意味ᄅᆞᆯ 어ᄂᆡ 分이 아ᄅᆞ실고</sent>
+<sent type="main" lang="kor" page="4b" n="2">山頭에 閑雲이 起ᄒᆞ고 水中에 白鷗ㅣ 飛라</sent>
+<sent type="main" lang="kor" page="4b" n="3">無心코 多情ᄒᆞ니 이 두 거시로다</sent>
+<sent type="main" lang="kor" page="4b" n="4">一生애 시ᄅᆞᆷ을 닛고 너ᄅᆞᆯ 조차 노로리라</sent>
+<sent type="main" lang="kor" page="4b" n="5">長安을 도라보니 北闕이 千里로다</sent>
+<sent type="main" lang="kor" page="4b" n="6">漁舟에 누어신들 니즌 스치 이시랴</sent>
+<sent type="main" lang="kor" page="4b" n="7">두어라 내 시름 아니라 濟世賢이 업스랴</sent>
+</pages>
+
+<pages n="6a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="6a" n="1">ᄆᆞᄋᆞᆷ이 어린 後ㅣ니 ᄒᆞᄂᆞᆫ 일이 다 어리다</sent>
+<sent type="main" lang="kor" page="6a" n="2">萬重雲山에 어ᄂᆡ 님 오리마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="6a" n="3">지ᄂᆞᆫ 닙 부ᄂᆞᆫ ᄇᆞ람에 ᄒᆡᆼ혀 긘가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="6a" n="4">이셩져셩 ᄒᆞ니 이론 일이 무스 일고</sent>
+<sent type="main" lang="kor" page="6a" n="5">흐롱하롱 ᄒᆞ니 歲月이 거의로다</sent>
+<sent type="main" lang="kor" page="6a" n="6">두어라 已矣已矣여니 아니 놀고 어이리</sent><!--뒤쪽의 '已矣'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="6a" n="7">ᄒᆞᆫ ᄃᆞᆯ 셜흔 날에 盞을 아니 노핫노라</sent>
+<sent type="main" lang="kor" page="6a" n="8">ᄑᆞᆯ 病도 아니 들고 입덧도 아니 난다</sent>
+<sent type="main" lang="kor" page="6a" n="9">每日에 病 업슨 덧으란 ᄭᆡ지 말미 엇더리</sent>
+<sent type="main" lang="kor" page="6a" n="10">드른 말 卽時 닛고 본 일도 못 본 드시</sent>
+<sent type="main" lang="kor" page="6a" n="11">내 人事ㅣ 이러홈애 ᄂᆞᆷ의 是非 모를로다</sent>
+<sent type="main" lang="kor" page="6a" n="12">다만지 손이 셩ᄒᆞ니 盞 잡기만 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="6b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="6b" n="1">이런들 엇더ᄒᆞ며 져런들 엇더ᄒᆞ료</sent>
+<sent type="main" lang="kor" page="6b" n="2">草野 愚生이 이러타 엇러ᄒᆞ료</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="6b" n="3">ᄒᆞ믈며 泉石膏肓을 고쳐 므슴ᄒᆞ료</sent>
+<sent type="main" lang="kor" page="6b" n="4">烟霞로 집을 삼고 風月로 벗을 사마</sent>
+<sent type="main" lang="kor" page="6b" n="5">太平聖代에 病으로 늘거 가뇌</sent>
+<sent type="main" lang="kor" page="6b" n="6">이 쥬ᇰ에 ᄇᆞ라ᄂᆞᆫ 일은 허믈이나 업고쟈</sent>
+<sent type="main" lang="kor" page="6b" n="7">淳風이 죽다 ᄒᆞ니 眞實로 거즛말이</sent>
+<sent type="main" lang="kor" page="6b" n="8">人性이 어지다 ᄒᆞ니 眞實 올흔 말이</sent>
+<sent type="main" lang="kor" page="6b" n="9">天下에 許多 英才ᄅᆞᆯ 소겨 말슴ᄒᆞᆯ가</sent>
+<sent type="main" lang="kor" page="6b" n="10">幽蘭이 在谷ᄒᆞ니 自然이 듯디 죠희</sent>
+<sent type="main" lang="kor" page="6b" n="11">白雪이 在山ᄒᆞ니 自然이 보디 죠해</sent>
+<sent type="main" lang="kor" page="6b" n="12">이 쥬ᇰ에 彼美一人을 뎌옥 닛디 못ᄒᆞ얘</sent>
+<sent type="main" lang="kor" page="6b" n="13">山前에 有臺ᄒᆞ고 臺下에 有水ㅣ로다</sent>
+<sent type="main" lang="kor" page="6b" n="14">ᄠᅦ 만흔 ᄀᆞᆯ며기ᄂᆞᆫ 오명가명 ᄒᆞ거든</sent>
+<sent type="main" lang="kor" page="6b" n="15">엇더타 皎皎白駒ᄂᆞᆫ 멀리 ᄆᆞ음 ᄒᆞᄂᆞᆫ고</sent><!--뒤쪽의 '皎'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="6b" n="16">春風에 花滿山ᄒᆞ고 秋夜에 月滿臺라</sent>
+<sent type="main" lang="kor" page="6b" n="17">四時 佳興이 사ᄅᆞᆷ과 한가지라</sent>
+<sent type="main" lang="kor" page="6b-7a" n="18">ᄒᆞ믈며 魚躍鳶飛 雲影天光이야 어ᄂᆡ 그지 이시리</sent><!--ᄒᆞ믈며 ^ 魚躍鳶飛-->
+</pages>
+
+<pages n="7a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="7a" n="1">天雲帶 도라드러 玩樂齋 蕭灑ᄒᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="7a" n="2">萬卷 生涯로 樂事ㅣ 無窮ᄒᆞ얘라</sent>
+<sent type="main" lang="kor" page="7a" n="3">이 쥬ᇰ에 往來風流ᄅᆞᆯ 닐러 므슴ᄒᆞᆯ고</sent>
+<sent type="main" lang="kor" page="7a" n="4">雷霆이 破山ᄒᆞ여도 聾者ᄂᆞᆫ 못 듯ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="7a" n="5">白日이 中天ᄒᆞ야도 瞽者ᄂᆞᆫ 못 보ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="7a" n="6">우리ᄂᆞᆫ 耳目聰明 男子로 聾瞽ᄀᆞᆺ지 마로리</sent>
+<sent type="main" lang="kor" page="7a" n="7">古人도 날 못 보고 나도 古人 못 뵈</sent>
+<sent type="main" lang="kor" page="7a" n="8">古人 못 봐도 녀ᄃᆞᆫ 길 알픠 잇ᄂᆡ</sent>
+<sent type="main" lang="kor" page="7a" n="9">녀ᄃᆞᆫ 길 알픠 잇거든 아니 녀고 엇졀고</sent>
+<sent type="main" lang="kor" page="7a" n="10">當時에 녀ᄃᆞᆫ 길흘 몃 ᄒᆡ를 ᄇᆞ려 두고</sent>
+<sent type="main" lang="kor" page="7a" n="11">어듸 가 ᄃᆞᆫ니다가 이제야 도라온고</sent>
+<sent type="main" lang="kor" page="7a" n="12">이제야 도라오나니 년듸 ᄆᆞ음 마로리</sent>
+<sent type="main" lang="kor" page="7a" n="13">靑山은 엇졔ᄒᆞ여 萬古에 프르르며</sent><!--뒤쪽의 '르'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="7a" n="14">流水ᄂᆞᆫ 엇졔ᄒᆞ여 晝夜애 긋지 아니ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="7a" n="15">우리도 그치지 마라 萬古常靑 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="7b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="7b" n="1">愚夫도 알며 ᄒᆞ거니 긔 아니 쉬온가</sent>
+<sent type="main" lang="kor" page="7b" n="2">聖人도 못다 ᄒᆞ시니 긔 아니 어려온가</sent>
+<sent type="main" lang="kor" page="7b" n="3">쉽거나 어렵거나 즁에 늙ᄂᆞᆫ 줄을 몰래라</sent>
+</pages>
+
+<pages n="8a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="8a" n="1">아바님 날 나흐시고 어마님 날 기르시니</sent>
+<sent type="main" lang="kor" page="8a" n="2">두 分곳 아니면 이 몸이 사라시랴</sent>
+<sent type="main" lang="kor" page="8a" n="3">하ᄂᆞᆯ ᄀᆞᆺ튼 恩德을 어듸 다혀 갑ᄉᆞ올고</sent>
+<sent type="main" lang="kor" page="8a" n="4">兄아 아으야 네 ᄉᆞᆯ을 ᄆᆞᆫ져 보아</sent>
+<sent type="main" lang="kor" page="8a" n="5">뉘손ᄃᆡ 타 낫관ᄃᆡ 양ᄌᆞ조차 ᄀᆞᆺ트슨다</sent><!--'낫관ᄃᆡ'의 'ᄃᆡ'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="8a" n="6">ᄒᆞᆫ 졋 먹고 자라나시니 닷 ᄆᆞ음을 먹지마라</sent>
+<sent type="main" lang="kor" page="8a" n="7">님금과 百姓과 ᄉᆞ이 하ᄂᆞᆯ과 ᄯᅡ히로되</sent>
+<sent type="main" lang="kor" page="8a" n="8">내의 셜온 일을 다 아로려 ᄒᆞ시거든</sent>
+<sent type="main" lang="kor" page="8a" n="9">우린들 ᄉᆞᆯ진 미나리ᄅᆞᆯ 혼자 어이 머그리</sent>
+<sent type="main" lang="kor" page="8a" n="10">어버이 사라신 제 셤길 일란 다ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="8a" n="11">지나간 後ㅣ면 애ᄃᆞᆲ다 엇지ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="8a" n="12">平生에 곳쳐 못ᄒᆞᆯ 일이 잇분인가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="8b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="8b" n="1"> ᄒᆞᆫ몸 둘헤 ᄂᆞᆫ화 夫婦ᄅᆞᆯ 삼기실샤</sent>
+<sent type="main" lang="kor" page="8b" n="2">이신 제 ᄒᆞᆷᄭᅴ 늙고 주그면 ᄒᆞᆫ□ □다</sent><!--'ᄃᆡ 간'으로 추정됨-->
+<sent type="main" lang="kor" page="8b" n="3">어듸셔 망녕앳 거시 눈 흘긔려 ᄒᆞᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="8b" n="4">간나희 가ᄂᆞᆫ 길흘 ᄉᆞ나희 에도드시</sent>
+<sent type="main" lang="kor" page="8b" n="5">ᄉᆞ나희 녜ᄂᆞᆫ 길흘 계집이 츼도드시</sent>
+<sent type="main" lang="kor" page="8b" n="6">제 남진 제 계집 아니여든 일홈 뭇지 마로려</sent>
+<sent type="main" lang="kor" page="8b" n="7">네 아들 孝經 닑ᄃᆞ니 어드록 ᄇᆡ환ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="8b" n="8">내 아들 小學은 모릐면 ᄆᆞ츨로다</sent>
+<sent type="main" lang="kor" page="8b" n="9">어ᄂᆡ 제 이 두 글 ᄇᆡ화 어질거든 보려뇨</sent>
+<sent type="main" lang="kor" page="8b" n="10">ᄆᆞ을 사람들아 올흔 일 ᄒᆞ쟈스라</sent>
+<sent type="main" lang="kor" page="8b" n="11">사ᄅᆞᆷ이 되야 나셔 올치옷 못ᄒᆞ면은</sent>
+<sent type="main" lang="kor" page="8b" n="12">ᄆᆞ쇼ᄅᆞᆯ 갓 곳갈 ᄡᅴ워 밥 머기나 다르랴</sent>
+<sent type="main" lang="kor" page="8b" n="13">ᄑᆞᆯ목 쥐시거든 두 손으로 바치리라</sent>
+<sent type="main" lang="kor" page="8b" n="14">나갈 듸 계시거든 막대 들고 조츠리라</sent>
+<sent type="main" lang="kor" page="8b" n="15">鄕飮酒 다 罷ᄒᆞᆫ 後에 뫼셔 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="8b" n="16">ᄂᆞᆷ으로 삼긴 즁에 벗ᄀᆞᆺ치 有信ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="8b" n="17">내의 왼 일을 다 니로려 ᄒᆞ노매라</sent>
+<sent type="main" lang="kor" page="8b" n="18">이 몸이 벗님곳 아니면 사ᄅᆞᆷ 되미 쉬올가</sent>
+</pages>
+
+<pages n="9a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="9a" n="1">어와 져 族下야 밥 업시 엇지ᄒᆞᆯ고</sent>
+<sent type="main" lang="kor" page="9a" n="2">어와 져 아자바 옷 업시 엇지ᄒᆞᆯ고</sent>
+<sent type="main" lang="kor" page="9a" n="3">머흔 일 다 닐러스라 돌보고쟈 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="9a" n="4">네 집 喪事들은 어도록 ᄎᆞᆯ호슨다</sent>
+<sent type="main" lang="kor" page="9a" n="5">네 ᄠᆞᆯ 書房은 언제나 마치ᄂᆞ슨다</sent>
+<sent type="main" lang="kor" page="9a" n="6">내게도 업다 커니와 돌보고져 ᄒᆞ노라</sent><!--'돌보고져'의 '고'는 '져'로 썼던 것을 세필로 바로잡은 것임-->
+<sent type="main" lang="kor" page="9a" n="7">오ᄂᆞᆯ도 다 새거다 호뫼 메오 가쟈스라</sent>
+<sent type="main" lang="kor" page="9a" n="8">내 논 다 ᄆᆡ여든 네 논 졈 ᄆᆡ야 주마</sent>
+<sent type="main" lang="kor" page="9a" n="9">올 길헤 ᄲᅩᆼ ᄯᅡ다가 누에 머켜 보쟈스라</sent>
+<sent type="main" lang="kor" page="9a" n="10">비록 못 니버도 ᄂᆞᆷ의 오슬 앗지 마라</sent>
+<sent type="main" lang="kor" page="9a" n="11">비록 못 머거도 ᄂᆞᆷ의 밥을 비지 마라</sent>
+<sent type="main" lang="kor" page="9a" n="12">ᄒᆞᆫ 적곳 ᄯᆡ 시ᄅᆞᆫ 後ㅣ면 고쳐 싯기 어려우니</sent>
+<sent type="main" lang="kor" page="9a" n="13">雙六 將碁 ᄒᆞ지 마라 訟事ㅅ 글월 ᄒᆞ지 마라</sent>
+<sent type="main" lang="kor" page="9a" n="14">집 배야 므슴ᄒᆞ며 ᄂᆞᆷ의 怨讐될 줄 엇지</sent>
+<sent type="main" lang="kor" page="9a" n="15">나라히 法을 셰오샤 罪 인ᄂᆞᆫ 줄을 모로ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="9a" n="16">이고 진 져 늘그니 짐 푸러 날을 주오</sent>
+<sent type="main" lang="kor" page="9a" n="17">나ᄂᆞᆫ 져멋거니 돌히라 무거올가</sent>
+<sent type="main" lang="kor" page="9a" n="18">늙기도 셜웨라 커든 짐을 조차 지실가</sent>
+</pages>
+
+<pages n="9b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="9b" n="1">江原道 百姓들아 兄弟訟事 마라스라</sent>
+<sent type="main" lang="kor" page="9b" n="2">죵ᄭᅱ 밧ᄭᅱᄂᆞᆫ 엇기에 쉽거니와</sent>
+<sent type="main" lang="kor" page="9b" n="3">□□ 가 또 어들 거□□ □긧할긧 ᄒᆞᄂᆞᆫ다</sent><!--각기 '어ᄃᆡ'와 '시라 흘'로 추정됨-->
+<sent type="main" lang="kor" page="9b" n="4">남진 죽고 우ᄂᆞᆫ 눈물 두 졋에 ᄂᆞ리 흘러</sent>
+<sent type="main" lang="kor" page="9b" n="5">졋 마시 ᄧᆞ다 ᄒᆞ고 子息은 보채거든</sent>
+<sent type="main" lang="kor" page="9b" n="6">져 놈아 어ᄂᆡ 안흐르 계집 되라 ᄒᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="9b" n="7">光化門 드리ᄃᆞ라 內兵曹 上直房에</sent>
+<sent type="main" lang="kor" page="9b" n="8">ᄒᆞᄅᆞᆺ밤 다섯 更에 스믈석 點 치ᄂᆞᆫ 소릐</sent>
+<sent type="main" lang="kor" page="9b" n="9">그 덧에 陳跡이 되도다 ᄭᅮᆷ이론 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="9b" n="10">蓬萊山 님 계신 듸 五更 친 나믄 소릐</sent>
+<sent type="main" lang="kor" page="9b" n="11">城 너머 구롬 지나 客窓에 들리ᄂᆞ다</sent>
+<sent type="main" lang="kor" page="9b" n="12">江南에 ᄂᆞ려옷 가면 그립거든 엇지리</sent>
+<sent type="main" lang="kor" page="9b" n="13">ᄡᅳᆫ ᄂᆞ믈 데온 물이 고기도곤 마시 이셰</sent>
+<sent type="main" lang="kor" page="9b" n="14">草屋 조븐 줄이 긔 더욱 내 分이라</sent>
+<sent type="main" lang="kor" page="9b" n="15">다만당 님 그린 타스로 시름 계워 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="9b" n="16">劉伶은 언제 사ᄅᆞᆷ고 晉 적의 高士ㅣ로다</sent>
+<sent type="main" lang="kor" page="9b" n="17">季涵은 긔 뉘런고 當代에 狂生이라</sent>
+<sent type="main" lang="kor" page="9b" n="18">두어라 高士 狂生을 무러 무슴ᄒᆞ리</sent>
+</pages>
+
+<pages n="10a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="10a" n="1">이바 이 집 사ᄅᆞᆷ아 이 셰간 엇지 살리</sent>
+<sent type="main" lang="kor" page="10a" n="2">솟벼 다 ᄯᆞ리고 죡박귀 다 업괴야</sent>
+<sent type="main" lang="kor" page="10a" n="3">ᄒᆞ물며 기울 계대 니거든 누를 밋고 살리</sent>
+<sent type="main" lang="kor" page="10a" n="4">기울 계대 니거니ᄯᆞ나 죡박귀 업거니ᄯᆞ나</sent>
+<sent type="main" lang="kor" page="10a" n="5">비록 이 셰간 板蕩ᄒᆞᆯ만졍</sent>
+<sent type="main" lang="kor" page="10a" n="6">고온 님 괴기옷 괴면 그를 밋고 살리</sent>
+<sent type="main" lang="kor" page="10a" n="7">므스 일 이루리라 十年 지이 너를 조차</sent>
+<sent type="main" lang="kor" page="10a" n="8">내 ᄒᆞᆫ 일 업시셔 외다 마다 ᄒᆞᄂᆞᆫ이</sent>
+<sent type="main" lang="kor" page="10a" n="9">이제야 絶交篇 지여 餞送ᄒᆞ되 엇더리</sent>
+<sent type="main" lang="kor" page="10a" n="10">일이나 일우려 ᄒᆞ면 처엄에 사괴실가</sent>
+<sent type="main" lang="kor" page="10a" n="11">보면 반기실싀 나도 조차 ᄃᆞᆫ니ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="10a" n="12">眞實로 외다옷 ᄒᆞ시면 마ᄅᆞ신들 아니랴</sent>
+<sent type="main" lang="kor" page="10a" n="13">내 말 고쳐 드러 너 업스면 못 살려니</sent>
+<sent type="main" lang="kor" page="10a" n="14">머흔 일 구즌 일 널로 ᄒᆞ여 다 닛거든</sent>
+<sent type="main" lang="kor" page="10a" n="15">이제야 ᄂᆞᆷ 괴려 ᄒᆞ여 녯 밧 말고 엇지리</sent>
+<sent type="main" lang="kor" page="10a" n="16">一定 百年 산들 긔 아니 草草ᄒᆞᆫ가</sent><!--뒤쪽의 '草'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10a" n="17">草草ᄒᆞᆫ 浮生이 므스 일 ᄒᆞ려 ᄒᆞ여</sent><!--뒤쪽의 '草'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10a" n="18">내 자바 勤ᄒᆞ는 盞을 덜 머그려 ᄒᆞᄂᆞ니</sent>
+</pages>
+
+<pages n="10b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="10b" n="1">예셔 ᄂᆞᆯ애를 드러 두세 번만 부츠며ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="10b" n="2">蓬萊山 第一峰에 고온 님 보□□□</sent><!--'련마ᄂᆞᆫ'으로 추정됨-->
+<sent type="main" lang="kor" page="10b" n="3">ᄒᆞ다가 못ᄒᆞᄂᆞᆫ 일은 닐러 므슴ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="10b" n="4">이 몸 허러 내여 낸물에 ᄯᅴ오고져</sent>
+<sent type="main" lang="kor" page="10b" n="5">이 물이 우러 녜여 漢江 여흘 되다 ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="10b" n="6">그제야 님 그린 내 病이 헐ᄒᆞᆯ 법도 잇ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="10b" n="7">내 ᄆᆞ음 버혀 내여 뎌 ᄃᆞᆯ을 ᄆᆡᆼ글고져</sent>
+<sent type="main" lang="kor" page="10b" n="8">九萬里 長天에 번드시 결려 이셔</sent>
+<sent type="main" lang="kor" page="10b" n="9">고온 님 계신 고ᄃᆡ 가 비최여나 보리라</sent><!--'계신'의 '신'은 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="10b" n="10">興亡이 數ㅣ 업스니 帶方城이 秋草ㅣ로다</sent>
+<sent type="main" lang="kor" page="10b" n="11">나 모론 지난 일난 牧笛에 부쳐 부고</sent>
+<sent type="main" lang="kor" page="10b" n="12">이 죠흔 太平烟花에 ᄒᆞᆫ 盞 호되 엇더라</sent>
+<sent type="main" lang="kor" page="10b" n="13">申君望 校理ㅅ 적의 내 마ᄎᆞᆷ 修撰으로</sent>
+<sent type="main" lang="kor" page="10b" n="14">上下番 ᄀᆞ초와 勤政門 밧기러니</sent>
+<sent type="main" lang="kor" page="10b" n="15">고온 님 玉 ᄀᆞᆺ튼 양ᄌᆡ 눈에 암암ᄒᆞ여라</sent><!--뒤쪽의 '암'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10b" n="16">南極 老人星이 息影亭에 비최여셔</sent>
+<sent type="main" lang="kor" page="10b" n="17">滄海桑田이 슬ᄏᆞ장 뒤눕도록</sent>
+<sent type="main" lang="kor" page="10b" n="18">가지록 새 빗츨 내여 그믈 뉘를 모론다</sent>
+</pages>
+
+<pages n="11a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="11a" n="1">臺 우희 셧ᄂᆞᆫ 느틔 몃 ᄒᆡ나 ᄌᆞ랏ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="11a" n="2">ᄡᅵ 지여 난 휘추리 저ᄀᆞᆺ치 늙도록애</sent>
+<sent type="main" lang="kor" page="11a" n="3">그제야 ᄯᅩ ᄒᆞᆫ 盞 부어 다시 獻壽ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="11a" n="4">靑天 구룸 밧긔 노피 ᄯᅳᆫ 鶴이러니</sent>
+<sent type="main" lang="kor" page="11a" n="5">人間이 죠ᄐᆞ냐 므스므라 ᄂᆞ려온다</sent>
+<sent type="main" lang="kor" page="11a" n="6">쟝짓치 다 ᄯᅥ러지도록 ᄂᆞ라갈 줄 모로ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="11a" n="7">거문고 大絃을 치니 ᄆᆞ음이 다 눅ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="11a" n="8">子絃에 羽調 올라 漠漠調 쇠온 말이</sent>
+<sent type="main" lang="kor" page="11a" n="9">셟기ᄂᆞᆫ 젼혀 아니되 離別 엇지ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="11a" n="10">長짓치 다 지게야 ᄂᆞᆯ애ᄅᆞᆯ 고쳐 드러</sent>
+<sent type="main" lang="kor" page="11a" n="11">靑天 구룸 속에 소솝 ᄯᅥ 올은 말이</sent>
+<sent type="main" lang="kor" page="11a" n="12">싀훤코 훤츨ᄒᆞᆫ 世界ᄅᆞᆯ 다시 보고 말와라</sent>
+<sent type="main" lang="kor" page="11a" n="13">新院 院主ㅣ 되여 녈 손님을 지내ᄋᆞᆸᄂᆡ</sent><!--뒤쪽의 '院'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11a" n="14">가거니 오거니 人事도 하도 할샤</sent>
+<sent type="main" lang="kor" page="11a" n="15">안자셔 보노라 ᄒᆞ니 슈고로와ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="11a" n="16">新院 院主ㅣ 되여 되롱 삿갓 메오 이고</sent><!--뒤쪽의 '院'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11a" n="17">細雨斜風에 一竿竹 빗기 드러</sent>
+<sent type="main" lang="kor" page="11a" n="18">紅蓼花 白蘋洲渚에 오명가명 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="11b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="11b" n="1">新院 院主ㅣ 되여 柴扉ᄅᆞᆯ 고쳐 닷고</sent><!--뒤쪽의 '院'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11b" n="2">流水靑山을 벗 사마 더졋노라</sent>
+<sent type="main" lang="kor" page="11b" n="3">아□□ 碧蹄에 손이라 커든 날나 가다 ᄒᆞ고려</sent><!--'ᄒᆡ야'로 추정됨-->
+<sent type="main" lang="kor" page="11b" n="4">長沙王 賈太傅 혜건대 우읍괴야</sent>
+<sent type="main" lang="kor" page="11b" n="5">ᄂᆞᆷ 대되 근심을 제 혼자 맛다 이셔</sent>
+<sent type="main" lang="kor" page="11b" n="6">긴 한숨 눈물도 過커든 에에ᄒᆞᆯ 줄 엇졔오</sent>
+<sent type="main" lang="kor" page="11b" n="7">내 양ᄌᆞ ᄂᆞᆷ만 못ᄒᆞᆫ 줄 나도 잠간 알건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="11b" n="8">臙脂도 ᄇᆞ려 잇고 粉ᄯᆡ도 아니 미ᄂᆡ</sent>
+<sent type="main" lang="kor" page="11b" n="9">이러코 괴실가 ᄠᅳᆺ은 젼혀 아니 먹노라</sent>
+<sent type="main" lang="kor" page="11b" n="10">나모도 病이 드니 亭子ㅣ라도 쉬리 업다</sent>
+<sent type="main" lang="kor" page="11b" n="11">豪華히 셔신 제ᄂᆞᆫ 오리 가리 다 쉬더니</sent>
+<sent type="main" lang="kor" page="11b" n="12">닙 지고 柯枝 져즌 後ㅣ니 새도 아니 온다</sent>
+<sent type="main" lang="kor" page="11b" n="13">어화 버힐시고 落落長松 버힐시고</sent>
+<sent type="main" lang="kor" page="11b" n="14">져근덧 두던들 棟梁材 되리러니</sent>
+<sent type="main" lang="kor" page="11b" n="15">어즈버 明堂이 기울거든 무서스로 바치러뇨</sent>
+<sent type="main" lang="kor" page="11b" n="16">中書堂 白玉杯ᄅᆞᆯ 十年 만에 고쳐 보기</sent>
+<sent type="main" lang="kor" page="11b" n="17">ᄆᆞᆰ고 흰 빗츤 녜온 듯ᄒᆞ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="11b" n="18">엇더타 사ᄅᆞᆷ의 ᄆᆞ음은 朝夕變을 ᄒᆞᆫ다</sent>
+</pages>
+
+<pages n="12a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="12a" n="1">재 너머 成勸農 집의 술 닉단 말 어제 듯고</sent>
+<sent type="main" lang="kor" page="12a" n="2">누은 쇼 발로 박차 언치 노하 지즐 ᄐᆞ고</sent>
+<sent type="main" lang="kor" page="12a" n="3">아ᄒᆡ야 네 勸農 계시냐 鄭座首 왓다 ᄉᆞ뢰라</sent>
+<sent type="main" lang="kor" page="12a" n="4">어화 棟梁材ᄅᆞᆯ 져리ᄒᆞ여 어이ᄒᆞᆯ고</sent>
+<sent type="main" lang="kor" page="12a" n="5">헐ᄯᅳ더 기운 집의 議論도 하도 할샤</sent>
+<sent type="main" lang="kor" page="12a" n="6">뭇 지위 고ᄌᆞ 자만 들고 헵ᄯᅳ다가 말년ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="12a" n="7">風波에 일니ᄃᆞᆫ ᄇᆡ 어드러로 가닷 말고</sent>
+<sent type="main" lang="kor" page="12a" n="8">구룸이 머흘거든 처엄에 날 줄 엇지</sent>
+<sent type="main" lang="kor" page="12a" n="9">허술ᄒᆞᆫ ᄇᆡ 가진 分ᄂᆡᄂᆞᆫ 모다 조심ᄒᆞ시소</sent>
+<sent type="main" lang="kor" page="12a" n="10">져긔 셧ᄂᆞᆫ 져 소나모 셤도 셜샤 길ᄀᆞ에 가</sent>
+<sent type="main" lang="kor" page="12a" n="11">져녀마 드리혀져 굴헝에 셔고라쟈</sent>
+<sent type="main" lang="kor" page="12a" n="12">ᄉᆞᆺ 듸고 도츼 멘 分ᄂᆡᄂᆞᆫ 다 지그려 ᄒᆞᆫ다</sent>
+</pages>
+
+<pages n="12b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="12b" n="1">ᄃᆞᆯ ᄇᆞᆯ근 五禮城에 혀나믄 벗이 안자</sent>
+<sent type="main" lang="kor" page="12b" n="2">故鄕感淚ᄅᆞᆯ 뉘 아니 지리마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="12b-13a" n="3">아마도 爲國丹忱은 나ᄡᅮᆫ인가 ᄒᆞ노라</sent><!--아^마도-->
+</pages>
+
+<pages n="13a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="13a" n="1">太平天地間에 簞瓢ᄅᆞᆯ 두러 메고</sent>
+<sent type="main" lang="kor" page="13a" n="2">두 ᄉᆞ매 느리혀고 우즑우즑 ᄒᆞᄂᆞᆫ ᄠᅳᆺ은</sent>
+<sent type="main" lang="kor" page="13a" n="3">人世에 걸닌 일 업스니 그ᄅᆞᆯ 죠하 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="13a" n="4">嚴冬에 뵈옷 닙고 岩穴에 눈비 마자</sent>
+<sent type="main" lang="kor" page="13a" n="5">구룸 ᄭᅵᆫ 볏뉘ᄅᆞᆯ ᄧᅬᆫ 적이 업건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="13a" n="6">西山에 ᄒᆡ 지다 ᄒᆞ니 눈물 계워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="13a" n="7">樂只쟈 오ᄂᆞᆯ이여 즐거온쟈 今日이야</sent>
+<sent type="main" lang="kor" page="13a" n="8">즐거온 오ᄂᆞᆯ이 ᄒᆡᆼ혀 아니 져물셰라</sent>
+<sent type="main" lang="kor" page="13a" n="9">每日에 오ᄂᆞᆯ ᄀᆞᆺ트면 므슴 시ᄅᆞᆷ 이시리</sent>
+<sent type="main" lang="kor" page="13a" n="10">이 뫼흘 허러 내여 져 바흘 몌오며ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="13a" n="11">蓬萊山 고온 님을 거러가도 보련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="13a" n="12">이 몸이 精衛鳥 ᄀᆞ틔야 바잔일만 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="13b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="13b" n="1">綠草 晴江上에 구레 버슨 ᄆᆞᆯ이 되야</sent>
+<sent type="main" lang="kor" page="13b" n="2">ᄯᅢᄯᅢ로 머리 드러 北向ᄒᆞ여 우ᄂᆞᆫ ᄠᅳᆺ은</sent><!--뒤쪽의 'ᄯᅢ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13b" n="3">夕陽이 재 너머가매 님자 그려 우노라</sent>
+<sent type="main" lang="kor" page="13b" n="4">어제 오ᄃᆞᆫ 눈이 沙堤에도 오돗ᄃᆞᆫ가</sent>
+<sent type="main" lang="kor" page="13b" n="5">눈이 모래 ᄀᆞᆺ고 모래도 눈이로다</sent>
+<sent type="main" lang="kor" page="13b" n="6">아마도 世上일이야 다 이런가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="13b" n="7">盤中 早紅감이 고와도 보이ᄂᆞ다</sent>
+<sent type="main" lang="kor" page="13b" n="8">柚子ㅣ 아니라도 품엄즉ᄒᆞ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="13b" n="9">품어 가 반기리 업슬싀 글로 셜워ᄒᆞᄂᆞ이다</sent>
+<sent type="main" lang="kor" page="13b" n="10">王祥의 鯉魚 잡고 孟宗의 竹笋 것거</sent>
+<sent type="main" lang="kor" page="13b" n="11">검던 머리 희도록 老萊子의 오슬 닙고</sent>
+<sent type="main" lang="kor" page="13b" n="12">一生애 養志誠孝ᄅᆞᆯ 曾子ᄀᆞᆺ치 ᄒᆞ리이다</sent>
+<sent type="main" lang="kor" page="13b" n="13">萬鈞을 느려 내야 길게 길게 노를 ᄭᅩ와</sent><!--뒤쪽의 '길게'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13b" n="14">九萬里 長天에 가ᄂᆞᆫ ᄒᆡᄅᆞᆯ 자바 ᄆᆡ야</sent>
+<sent type="main" lang="kor" page="13b" n="15">北堂에 鶴髮雙親을 더듸 늙게 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="14a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="14a" n="1">群鳳 모도신 듸 외가마귀 드러오니</sent>
+<sent type="main" lang="kor" page="14a" n="2">白玉 ᄡᅡ힌 듸 돌 ᄒᆞ나 ᄀᆞᆺ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="14a" n="3">鳳凰도 飛鳥와 類ㅣ시니 뫼셔 논들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="14a" n="4">큰 盞에 ᄀᆞ득 부어 醉토록 머그며셔</sent>
+<sent type="main" lang="kor" page="14a" n="5">萬古 英雄을 손 고바 혀여 보니</sent>
+<sent type="main" lang="kor" page="14a" n="6">아마도 劉伶 李白이 내 벗인가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="14b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="14b" n="1">時節도 져러ᄒᆞ니 人事도 이러ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="14b" n="2">이러ᄒᆞ거니 어이 져러 아닐소□</sent><!--'냐'로 추정됨-->
+<sent type="main" lang="kor" page="14b" n="3">이런쟈 져런쟈 ᄒᆞ니 한숨 계워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="14b" n="4">江湖에 期約을 두고 十年을 奔走ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="14b" n="5">그 모른 白鷗ᄂᆞᆫ 더듸 온다 ᄒᆞ건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="14b" n="6">聖恩이 至重ᄒᆞ시니 갑고 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="14b" n="7">鐵嶺 노픈 峰에 쉬여 넘ᄂᆞᆫ 져 구룸아</sent>
+<sent type="main" lang="kor" page="14b" n="8">孤臣 寃淚ᄅᆞᆯ 비 사마 ᄯᅴ여다가</sent>
+<sent type="main" lang="kor" page="14b" n="9">님 계신 九重 深處에 ᄲᅮ려 본들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="14b" n="10">님을 미들 것가 못 미들슨 님이시라</sent>
+<sent type="main" lang="kor" page="14b" n="11">미더온 時節도 못 미들 줄 아라스라</sent>
+<sent type="main" lang="kor" page="14b" n="12">밋기야 어려와마ᄂᆞᆫ 아니 밋고 어이리</sent>
+<sent type="main" lang="kor" page="14b" n="13">秋山이 夕陽을 ᄠᅴ고 江心에 ᄌᆞᆷ겻ᄂᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="14b" n="14">一竿竹 두러 메고 小艇에 안자시니</sent>
+<sent type="main" lang="kor" page="14b" n="15">天公이 閑暇히 녀겨 ᄃᆞᆯ을 조차 보내도다</sent>
+</pages>
+
+<pages n="15a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="15a" n="1">長劍을 ᄲᅡ혀 들고 白頭山에 올라 보니</sent>
+<sent type="main" lang="kor" page="15a" n="2">大明天地에 腥塵이 ᄌᆞᆷ겨셰라</sent>
+<sent type="main" lang="kor" page="15a" n="3">언제나 南北風塵을 헤쳐 볼고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="15a" n="4">靑草 우거진 골에 자ᄂᆞᆫ다 누엇ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="15a" n="5">紅顔을 어듸 두고 白骨만 무쳣ᄂᆞᆫ이</sent>
+<sent type="main" lang="kor" page="15a" n="6">盞 자바 勸ᄒᆞ리 업스니 그를 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="15a" n="7">貧賤을 ᄑᆞᆯ랴 ᄒᆞ고 權門에 드러가니</sent>
+<sent type="main" lang="kor" page="15a" n="8">침 업슨 흥졍을 뉘 몬져 ᄒᆞ쟈 ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="15a" n="9">江山과 風月을 달라 ᄒᆞ니 그ᄂᆞᆫ 그리 못ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="15a" n="10">天地 몃 번ᄧᅢ며 英雄은 누고 누고</sent><!--뒤쪽의 '누고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="15a" n="11">萬古興亡이 수후ᄌᆞᆷ에서 ᄭᅮᆷ이여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="15a" n="12">어듸셔 망녕엣 거슨 노지 말라 ᄒᆞᄂᆞ니</sent>
+</pages>
+
+<pages n="15b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="15b" n="1">離別ᄒᆞ던 날에 피눈물이 난지 만지</sent>
+<sent type="main" lang="kor" page="15b" n="2">鴨綠江 ᄂᆞ린 물이 프른 빗치 젼혀 □ᄂᆡ</sent><!--'업'으로 추정됨-->
+<sent type="main" lang="kor" page="15b" n="3">ᄇᆡ 우희 허여 셴 沙工이 처음 보롸 ᄒᆞᄃᆞ라</sent>
+<sent type="main" lang="kor" page="15b" n="4">閑山셤 ᄃᆞᆯ ᄇᆞᆯ근 밤의 戍樓에 혼자 안자</sent>
+<sent type="main" lang="kor" page="15b" n="5">큰 칼 녀픠 ᄎᆞ고 기픈 시ᄅᆞᆷ ᄒᆞᄂᆞᆫ 적의</sent>
+<sent type="main" lang="kor" page="15b" n="6">어듸셔 一聲 胡笳ᄂᆞᆫ ᄂᆞᆷ의 애ᄅᆞᆯ 긋ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="15b" n="7">아ᄒᆡ야 구럭 망태 어두 西山에 날 늣거다</sent>
+<sent type="main" lang="kor" page="15b" n="8">밤 지낸 고사리 ᄒᆞ마 아니 늘그리야</sent>
+<sent type="main" lang="kor" page="15b" n="9">이 몸이 이 푸새 아니면 朝夕 어이 지내리</sent>
+<sent type="main" lang="kor" page="15b" n="10">아ᄒᆡ야 되롱 삿갓 ᄎᆞᆯ화 東澗에 비 지거다</sent>
+<sent type="main" lang="kor" page="15b" n="11">기나긴 낙대에 미ᄂᆞᆯ 업슨 낙시 ᄆᆡ야</sent>
+<sent type="main" lang="kor" page="15b" n="12">져 고기 놀라지 마라 내 興계워ᄒᆞ노라</sent>
+</pages>
+
+<pages n="16a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="16a" n="1">아ᄒᆡ야 粥朝飯 다오 南畝에 일 만해라</sent>
+<sent type="main" lang="kor" page="16a" n="2">서투론 ᄯᅡ부를 눌 마조 자부려뇨</sent>
+<sent type="main" lang="kor" page="16a" n="3">두어라 聖世躬耕도 亦君恩이시니라</sent>
+<sent type="main" lang="kor" page="16a" n="4">아ᄒᆡ야 쇼 며겨 내여 北郭에 새 술 먹쟈</sent>
+<sent type="main" lang="kor" page="16a" n="5">大醉ᄒᆞᆫ 얼굴을 ᄃᆞᆯ빗쳬 시러 오니</sent>
+<sent type="main" lang="kor" page="16a" n="6">어즈버 羲皇上人을 오ᄂᆞᆯ 다시 보와다</sent>
+<sent type="main" lang="kor" page="16a" n="7">山村에 눈이 오니 돌길이 무쳐셰라</sent>
+<sent type="main" lang="kor" page="16a" n="8">柴扉ᄅᆞᆯ 여지 마라 날 ᄎᆞ즈리 뉘 이시리</sent>
+<sent type="main" lang="kor" page="16a" n="9">밤쥬ᇰ만 一片明月이 긔 벗인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="16a" n="10">功名이 긔 무엇고 헌신ᄧᅡᆨ 버스니로다</sent>
+<sent type="main" lang="kor" page="16a" n="11">田園에 도라오니 麋鹿이 벗이로다</sent>
+<sent type="main" lang="kor" page="16a" n="12">百年을 이리 지냄도 亦君恩이로다</sent>
+</pages>
+
+<pages n="16b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="16b" n="1">草木이 다 埋沒ᄒᆞᆫ 제 松竹만 프르럿다</sent>
+<sent type="main" lang="kor" page="16b" n="2">風霜 섯거 친 제 네 무스 일 혼자 프른</sent>
+<sent type="main" lang="kor" page="16b" n="3">두어라 내 性이어니 무러 무슴ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="16b" n="4">四皓ㅣ 진짓 것가 留侯의 奇計로다</sent>
+<sent type="main" lang="kor" page="16b" n="5">眞實로 四皓ㅣ면은 一定 아니 나오려니</sent>
+<sent type="main" lang="kor" page="16b" n="6">그려도 아니냥ᄒᆞ여 呂氏客이 되도다</sent>
+<sent type="main" lang="kor" page="16b" n="7">兩生이 긔 뉘런고 眞實로 高士ㅣ로다</sent>
+<sent type="main" lang="kor" page="16b" n="8">秦 ᄧᅥᆨ의 일흠 업고 漢 ᄧᅥᆨ의 아니 나니</sent>
+<sent type="main" lang="kor" page="16b" n="9">엇덧타 叔孫通은 오라 말라 ᄒᆞᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="16b" n="10">어젯밤 눈 온 後에 ᄃᆞᆯ이 조차 비최엿다</sent>
+<sent type="main" lang="kor" page="16b" n="11">눈 後 ᄃᆞᆯ빗치 ᄆᆞᆯ그미 그지업다</sent>
+<sent type="main" lang="kor" page="16b" n="12">엇더타 天末浮雲은 오락가락 ᄒᆞᄂᆞ뇨</sent>
+</pages>
+
+<pages n="17a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="17a" n="1">냇ᄀᆞ에 ᄒᆡ오라바 므스 일 셔 잇ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="17a" n="2">無心ᄒᆞᆫ 져 고기를 여어 무슴ᄒᆞ려ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="17a" n="3">아마도 ᄒᆞᆫ 믈에 잇거니 니저신들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="17a" n="4">혓가레 기나 쟈르나 기동이 기우나 트나</sent>
+<sent type="main" lang="kor" page="17a" n="5">數間茅屋을 쟈근 줄 웃지 마라</sent>
+<sent type="main" lang="kor" page="17a" n="6">어즈버 滿山蘿月이 다 내 거신가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17a" n="7">蒼梧山 ᄒᆡ 진 후에 二妃ᄂᆞᆫ 어듸 간고</sent>
+<sent type="main" lang="kor" page="17a" n="8">ᄒᆞᆷᄭᅴ 못 주근들 셔롬이 엇더ᄐᆞᆫ고</sent>
+<sent type="main" lang="kor" page="17a" n="9">千古에 이 ᄠᅳᆺ 알니ᄂᆞᆫ 댓숩핀가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17a" n="10">술 먹고 노ᄂᆞᆫ 일을 나도 왼 줄 알건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="17a" n="11">信陵君 무덤 우희 밧 가ᄂᆞᆫ 줄 못 보신가</sent>
+<sent type="main" lang="kor" page="17a" n="12">百年이 亦草草ᄒᆞ니 아니 놀고 엇지ᄒᆞ리</sent><!--뒤쪽의 '草'는 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="17b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="17b" n="1">神仙을 보려 ᄒᆞ고 弱水를 건너가니</sent>
+<sent type="main" lang="kor" page="17b" n="2">玉女 金童이 다 나와 뭇ᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="17b" n="3">歲星이 어듸 나간고 긔 날인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="17b" n="4">얼일샤 져 鵬鳥ㅣ야 웃노라 져 鵬鳥ㅣ야</sent>
+<sent type="main" lang="kor" page="17b" n="5">九萬里 長天에 므스 일로 올라간다</sent>
+<sent type="main" lang="kor" page="17b" n="6">굴헝에 볍새 ᄎᆞᆷ새ᄂᆞᆫ 못내 즐겨 ᄒᆞᄂᆞ다</sent>
+<sent type="main" lang="kor" page="17b" n="7">날을 뭇지 마라 前身이 柱下史ㅣ뢰</sent>
+<sent type="main" lang="kor" page="17b" n="8">靑牛로 나간 後에 몃 ᄒᆡᆫ마ᄂᆡ 도라온다</sent>
+<sent type="main" lang="kor" page="17b" n="9">世間이 하 多事ᄒᆞ니 온동만동 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="17b" n="10">是非 업슨 後ㅣ라 榮辱이 다 不關타</sent>
+<sent type="main" lang="kor" page="17b" n="11">琴書를 흐튼 後에 이 몸이 閑暇ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="17b" n="12">白鷗ㅣ야 機事를 니즘은 너와 낸가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="18a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="18a" n="1">아츰은 비 오ᄃᆞ니 느지니ᄂᆞᆫ ᄇᆞ람이로다</sent>
+<sent type="main" lang="kor" page="18a" n="2">千里 萬里ㅅ 길헤 風雨ᄂᆞᆫ 무스 일고</sent>
+<sent type="main" lang="kor" page="18a" n="3">두어라 黃昏이 머럿거니 수여 간들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="18a" n="4">내 가슴 헤친 피로 님의 양ᄌᆞ 그려 내여</sent>
+<sent type="main" lang="kor" page="18a" n="5">高堂素壁에 거러 두고 보고지고</sent>
+<sent type="main" lang="kor" page="18a" n="6">뉘라셔 離別을 삼겨 사ᄅᆞᆷ 죽게 ᄒᆞᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="18a" n="7">寒食 비온 밤의 봄빗치 다 퍼졋다</sent>
+<sent type="main" lang="kor" page="18a" n="8">無情ᄒᆞᆫ 花柳도 ᄯᅢ를 아라 픠엿거든</sent>
+<sent type="main" lang="kor" page="18a" n="9">엇더타 우리의 님은 가고 아니 오ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="18a" n="10">어젯밤 비온 後에 石榴곳이 다 픠엿다</sent>
+<sent type="main" lang="kor" page="18a" n="11">芙蓉塘畔에 水晶簾을 거두고</sent>
+<sent type="main" lang="kor" page="18a" n="12">눌 向ᄒᆞᆫ 기픈 시름을 못내 프러ᄒᆞᄂᆞ뇨</sent>
+</pages>
+
+<pages n="18b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="18b" n="1">窓 밧긔 워석버석 님이신가 니러 보니</sent>
+<sent type="main" lang="kor" page="18b" n="2">蕙蘭蹊徑에 落葉은 므스 일고</sent>
+<sent type="main" lang="kor" page="18b" n="3">어즈버 有限ᄒᆞᆫ 肝腸이 다 그츨가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="18b" n="4">銀釭에 불 ᄇᆞᆰ고 獸爐에 香이 진지</sent>
+<sent type="main" lang="kor" page="18b" n="5">芙蓉 기픈 帳에 혼자 ᄭᆡ야 안자시니</sent>
+<sent type="main" lang="kor" page="18b" n="6">엇더타 헌ᄉᆞᄒᆞᆫ 져 更點아 ᄌᆞᆷ 못 드러 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="18b" n="7">봄이 왓다 ᄒᆞ되 消息을 모로더니</sent>
+<sent type="main" lang="kor" page="18b" n="8">냇ᄀᆞ에 프른 버들 네 몬져 아도괴야</sent>
+<sent type="main" lang="kor" page="18b" n="9">어스버 人間離別을 ᄯᅩ 엇지 ᄒᆞᄂᆞ다</sent>
+<sent type="main" lang="kor" page="18b" n="10">人間을 ᄯᅥ나니ᄂᆞᆫ 이 몸이 閑暇ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="18b" n="11">簑衣를 니믜ᄎᆞ고 釣磯로 올라가니</sent>
+<sent type="main" lang="kor" page="18b" n="12">운노라 太公望은 나간 줄을 몰래라</sent>
+</pages>
+
+<pages n="19a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="19a" n="1">南山 기픈 골에 두어 이랑 니러 두고</sent>
+<sent type="main" lang="kor" page="19a" n="2">三神山 不死藥을 다 ᄏᆡ야 심근 말이</sent>
+<sent type="main" lang="kor" page="19a" n="3">어즈버 滄海桑田을 혼자 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="19a" n="4">술이 몃 가지오 淸酒와 濁酒ㅣ로다</sent>
+<sent type="main" lang="kor" page="19a" n="5">먹고 醉ᄒᆞᆯ션정 淸濁이 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="19a" n="6">ᄃᆞᆯ ᄇᆞᆰ고 風淸한 밤이여니 아니 ᄭᆡᆫ들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="19a" n="7">반되 불이 되다 반되지 웨 불일소냐</sent>
+<sent type="main" lang="kor" page="19a" n="8">돌히 별이 되다 돌이지 웨 별일소냐</sent>
+<sent type="main" lang="kor" page="19a" n="9">불인가 별인가 ᄒᆞ니 그를 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="19a" n="10">곳 지고 속닙 나니 時節도 變ᄒᆞ거다</sent>
+<sent type="main" lang="kor" page="19a" n="11">풀 소게 푸른 버레 나뷔 되야 ᄂᆞ다ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="19a" n="12">뉘라셔 造化를 자바 千變萬化 ᄒᆞᄂᆞᆫ고</sent>
+</pages>
+
+<pages n="19b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="19b" n="1">느저 날셔이고 大古ㅅ 적을 못 보완쟈</sent>
+<sent type="main" lang="kor" page="19b" n="2">結繩을 罷ᄒᆞᆫ 後에 世故도 하도 할샤</sent>
+<sent type="main" lang="kor" page="19b" n="3">ᄎᆞᆯ하로 酒鄕에 드러 이 世界를 니즈리라</sent>
+<sent type="main" lang="kor" page="19b" n="4">罇中에 술이 잇고 座上에 손이 ᄀᆞ득</sent>
+<sent type="main" lang="kor" page="19b" n="5">大兒 孔文擧를 고쳐 어더 볼 ᄭᅥ이고</sent>
+<sent type="main" lang="kor" page="19b" n="6">어즈버 世間餘子를 닐러 므슴ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="19b" n="7">노래 삼긴 사ᄅᆞᆷ 시름도 하도 할샤</sent>
+<sent type="main" lang="kor" page="19b" n="8">닐러 다 못 닐러 불러나 푸돗ᄃᆞᆫ가</sent>
+<sent type="main" lang="kor" page="19b" n="9">眞實로 풀릴 거시면은 나도 불러 보리라</sent>
+<sent type="main" lang="kor" page="19b" n="10">步虛子 ᄆᆞᆺ츤 後에 與民樂을 니어 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="19b" n="11">羽調 界面調에 客興이 더어셰라</sent>
+<sent type="main" lang="kor" page="19b" n="12">아ᄒᆡ야 商聲을 마라 ᄒᆡ 져믈가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="20a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="20a" n="1">陶淵明 주근 後에 ᄯᅩ 淵明이 나닷 말이</sent>
+<sent type="main" lang="kor" page="20a" n="2">밤ᄆᆞ을 녜 일홈이 마초와 ᄀᆞ틀시고</sent>
+<sent type="main" lang="kor" page="20a" n="3">도라와 守拙田園이야 긔오 내오 다르랴</sent>
+</pages>
+
+<pages n="20b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="20b" n="1">功名도 니젓노라 富貴도 니젓노라</sent>
+<sent type="main" lang="kor" page="20b" n="2">世上 번우한 일 다 주어 니젓노라</sent>
+<sent type="main" lang="kor" page="20b" n="3">내 몸을 내ᄆᆞ자 니즈니 ᄂᆞᆷ이 아니 니즈랴</sent>
+<sent type="main" lang="kor" page="20b" n="4">뒷집의 술ᄡᆞᆯ을 ᄭᅮ니 거츤 보리 말 못 ᄎᆞ다</sent>
+<sent type="main" lang="kor" page="20b" n="5">즈는 것 마고 ᄯᅵ허 쥐비저 괴야 내니</sent>
+<sent type="main" lang="kor" page="20b" n="6">여러 날 주렷ᄃᆞᆫ 입이니 ᄃᆞ나 ᄡᅳ나 어이리</sent>
+<sent type="main" lang="kor" page="20b" n="7">江山 閑雅ᄒᆞᆫ 風景 다 주어 맛다 이셔</sent>
+<sent type="main" lang="kor" page="20b" n="8">내 혼자 님자여니 뉘라셔 ᄃᆞ톨소니</sent>
+<sent type="main" lang="kor" page="20b" n="9">ᄂᆞᆷ이야 숨ᄭᅮ지 너긴들 ᄂᆞᆫ화 볼 줄 이시랴</sent>
+<sent type="main" lang="kor" page="20b" n="10">딜가마 조히 싯고 바회 아래 ᄉᆡᆷ물 기러</sent>
+<sent type="main" lang="kor" page="20b" n="11">ᄑᆞᆺ쥭 ᄃᆞᆯ게 ᄡᅮ고 저리지이 ᄭᅳ어내니</sent>
+<sent type="main" lang="kor" page="20b" n="12">世上에 이 두 마시야 ᄂᆞᆷ이 알가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="20b" n="13">어와 져 白鷗야 므슴 슈고 ᄒᆞᄂᆞ슨다</sent>
+<sent type="main" lang="kor" page="20b" n="14">ᄀᆞᆯ숩흐로 바자니며 고기 엇기 ᄒᆞᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="20b" n="15">날ᄀᆞᆺ치 군ᄆᆞ음 업시 ᄌᆞᆷ만 들면 엇더리</sent>
+<sent type="main" lang="kor" page="20b" n="16">茅簷 기나긴 ᄒᆡ에 ᄒᆡ올 일이 아조 업서</sent>
+<sent type="main" lang="kor" page="20b" n="17">蒲團에 낫ᄌᆞᆷ 드러 夕陽에 지자 ᄭᆡ니</sent>
+<sent type="main" lang="kor" page="20b" n="18">門 밧긔 뉘 ᄋᆞᄒᆞᆷ ᄒᆞ며 낙시 가쟈 ᄒᆞᄂᆞ니</sent>
+</pages>
+
+<pages n="21a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="21a" n="1">三公이 貴타 ᄒᆞᆫ들 이 江山과 밧골소냐</sent>
+<sent type="main" lang="kor" page="21a" n="2">扁舟에 ᄃᆞᆯ을 싯고 낙대를 흣더질 제</sent>
+<sent type="main" lang="kor" page="21a" n="3">이 몸이 이 淸興 가지고 萬戶侯ᅟᅵᆫ들 부르랴</sent><!--'이 淸興'에서 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21a" n="4">秋江 ᄇᆞᆯ근 ᄃᆞᆯ에 一葉舟 혼자 저어</sent>
+<sent type="main" lang="kor" page="21a" n="5">낙대를 ᄯᅥᆯ쳐 드니 자ᄂᆞᆫ 白鷗 다 놀란다</sent>
+<sent type="main" lang="kor" page="21a" n="6">어듸셔 一聲 漁笛은 조차 興을 돕ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="21a" n="7">헛글고 싯근 文書 다 주어 후리치고</sent>
+<sent type="main" lang="kor" page="21a" n="8">匹馬 秋風에 채를 쳐 도라오니</sent>
+<sent type="main" lang="kor" page="21a" n="9">아므리 ᄆᆡ인 새 노히다 이대도록 싀훤ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="21a" n="10">대막대 너를 보니 有信ᄒᆞ고 반갑괴야</sent>
+<sent type="main" lang="kor" page="21a" n="11">나니 아ᄒᆡᆺ 적의 너를 ᄐᆞ고 ᄃᆞ니더니</sent>
+<sent type="main" lang="kor" page="21a" n="12">이제란 窓 뒤헤 셧다가 날 뒤셰고 ᄃᆞᆫ녀라</sent>
+<sent type="main" lang="kor" page="21a" n="13">世上 사ᄅᆞᆷ들이 다 ᄡᅳ러 어리더라</sent>
+<sent type="main" lang="kor" page="21a" n="14">죽을 줄 알면셔 놀 줄만 모로더라</sent>
+<sent type="main" lang="kor" page="21a" n="15">우리ᄂᆞᆫ 그런 줄 알모로 長日醉로 노노라</sent><!--뒤쪽의 '노'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21a" n="16">ᄉᆞ람이 주는 後에 다시 사니 보왓ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="21a" n="17">왓노라 ᄒᆞ니 업고 도라와ᄂᆞᆯ 보니 업다</sent>
+<sent type="main" lang="kor" page="21a" n="18">우리는 그런 줄 알모로 사라신 제 노노라</sent>
+</pages>
+
+<pages n="21b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="21b" n="1">黃河水 ᄆᆞᆰ단 말가 聖人이 나셔도다</sent>
+<sent type="main" lang="kor" page="21b" n="2">草野群賢이 다 니러나닷 말가</sent>
+<sent type="main" lang="kor" page="21b" n="3">어즈버 江山風月을 눌을 주고 갈소니</sent>
+<sent type="main" lang="kor" page="21b" n="4">셰버들 柯枝 것거 낙근 고기 ᄭᅯ여 들고</sent>
+<sent type="main" lang="kor" page="21b" n="5">酒家를 ᄎᆞ즈려 斷橋로 건너가니</sent>
+<sent type="main" lang="kor" page="21b" n="6">왼 골에 杏花 져 ᄡᅡ히니 갈 길 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="21b" n="7">東風이 건듯 부러 積雪을 다 노기니</sent>
+<sent type="main" lang="kor" page="21b" n="8">四面靑山이 녜 얼골 나노매라</sent>
+<sent type="main" lang="kor" page="21b" n="9">귀 밋틔 ᄒᆡ 무근 서리ᄂᆞᆫ 녹을 줄을 모른다</sent>
+<sent type="main" lang="kor" page="21b" n="10">崔行首 ᄧᅮᆨ달힘 ᄒᆞ새 趙同甲 곳달힘 ᄒᆞ새</sent>
+<sent type="main" lang="kor" page="21b" n="11">ᄃᆞᆯᄧᅵᆷ 게ᄧᅵᆷ 오려 點心 날 시기소</sent>
+<sent type="main" lang="kor" page="21b" n="12">每日에 이렁셩 굴면 므슴 시름 이시랴</sent>
+<sent type="main" lang="kor" page="21b" n="13">風波에 놀란 沙工 ᄇᆡ ᄑᆞ라 ᄆᆞᆯ을 사니</sent>
+<sent type="main" lang="kor" page="21b" n="14">九折羊腸이 물도곤 어려왜라</sent>
+<sent type="main" lang="kor" page="21b" n="15">이 後란 ᄇᆡ도 ᄆᆞᆯ도 말고 밧 갈기만 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="22a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="22a" n="1">ᄃᆞ나 ᄡᅳ나 니濁酒 죠코 대테 메온 질병드리 더옥 죠희</sent>
+<sent type="main" lang="kor" page="22a" n="2">어론쟈 박구기ᄅᆞᆯ 둥지둥둥 ᄠᅴ여 두고</sent><!--'둥지둥둥'에서 세 번째 '둥'은 재점으로 표기되어 잇음-->
+<sent type="main" lang="kor" page="22a" n="3">아희야 저리짐칄만정 업다 말고 내여라</sent>
+<sent type="main" lang="kor" page="22a" n="4">술을 醉케 먹고 두렷이 안자시니</sent>
+<sent type="main" lang="kor" page="22a" n="5">億萬 시름이 가노라 下直ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="22a" n="6">아ᄒᆡ야 盞 ᄀᆞ득 부어라 시ᄅᆞᆷ 餞送ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="22a" n="7">金樽에 ᄀᆞ득ᄒᆞᆫ 술을 슬커장 거후르고</sent>
+<sent type="main" lang="kor" page="22a" n="8">醉ᄒᆞᆫ 後 긴 노래에 즐거오미 그지업다</sent>
+<sent type="main" lang="kor" page="22a" n="9">어즈버 夕陽이 盡타 마라 ᄃᆞᆯ이 조차 오노매</sent>
+<sent type="main" lang="kor" page="22a" n="10">君平이 旣棄世ᄒᆞ니 世亦棄君平이</sent>
+<sent type="main" lang="kor" page="22a" n="11">醉狂은 上之上이오 時事ᄂᆞᆫ 更之更이라</sent>
+<sent type="main" lang="kor" page="22a" n="12">다만지 淸風明月은 간 곳마다 좃닌다</sent>
+</pages>
+
+<pages n="23a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="23a" n="1">靑春에 곱던 양ᄌᆞ 님으뢰야 다 늙거다</sent>
+<sent type="main" lang="kor" page="23a" n="2">이제 님이 보면 날인 줄 아르실가</sent>
+<sent type="main" lang="kor" page="23a" n="3">아모나 내 形容 그려다가 님의손ᄃᆡ 드리고져</sent>
+<sent type="main" lang="kor" page="23a" n="4">君山을 削平턴들 洞庭湖ㅣ 너를랏다</sent>
+<sent type="main" lang="kor" page="23a" n="5">桂樹ᄅᆞᆯ 버히던들 ᄃᆞᆯ이 더욱 ᄇᆞᆯ글 거슬</sent>
+<sent type="main" lang="kor" page="23a" n="5">ᄠᅳᆺ 두고 이로지 못ᄒᆞ고 늙기 셜워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="23a" n="6">日中 三足鳥ㅣ야 가지 말고 내 말 드러</sent>
+<sent type="main" lang="kor" page="23a" n="7">너희ᄂᆞᆫ 反哺鳥ㅣ라 鳥中之曾參이로니</sent>
+<sent type="main" lang="kor" page="23a" n="8">北堂에 鶴髮雙親을 더듸 늙게 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="23a" n="9">西湖 눈 진 밤의 ᄃᆞᆯ빗치 낫 ᄀᆞᆺᄐᆞᆫ 제</sent>
+<sent type="main" lang="kor" page="23a" n="10">鶴氅을 님의ᄎᆞ고 江皐로 ᄂᆞ려가니</sent>
+<sent type="main" lang="kor" page="23a" n="11">蓬海에 羽衣仙人을 마조 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="23a" n="12">니영이 다 거두치니 울잣신들 셩ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="23a-23b" n="13">불 아니 다힌 房에 긴 밤 어이 새오려니</sent><!--새^오려니-->
+</pages>
+
+<pages n="23b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="23b" n="1">아ᄒᆡᄂᆞᆫ 世事ᄅᆞᆯ 모로고 이야지야 ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="23b" n="2">淨友亭 도라드러 最樂堂 閑暇ᄒᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="23b" n="3">琴書 生涯로 樂書ㅣ 無窮ᄒᆞ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="23b" n="4">이 밧긔 淸風明月이야 어ᄂᆡ 그지 이시리</sent>
+<sent type="main" lang="kor" page="23b" n="5">山은 잇건마ᄂᆞᆫ 물은 간 듸 업다</sent>
+<sent type="main" lang="kor" page="23b" n="6">晝夜로 흐르니 나믄 물이 이실소냐</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="23b" n="7">아마도 千年 流水ᄂᆞᆫ 나도 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="23b" n="8">ᄃᆞᆯ은 언제 나며 술은 뉘 삼긴고</sent>
+<sent type="main" lang="kor" page="23b" n="9">劉伶이 업슨 後에 太白이도 간 듸 업다</sent>
+<sent type="main" lang="kor" page="23b" n="10">아마도 무를 듸 업스니 홀로 醉코 놀리라</sent>
+<sent type="main" lang="kor" page="23b" n="11">이도 聖恩이오 뎌도 聖恩이라</sent>
+<sent type="main" lang="kor" page="23b" n="12">모도신 公子님ᄂᆡ 아ᄂᆞᆫ가 모로ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="23b" n="13">眞實로 이 ᄠᅳᆺ을 아ᄅᆞ셔 同樂太平 ᄒᆞ오리라</sent>
+<sent type="main" lang="kor" page="23b" n="14">이 술이 天香酒ㅣ라 모다 대되 슬타 마소</sent>
+<sent type="main" lang="kor" page="23b" n="15">令辰에 醉ᄒᆞᆫ 後에 解酲杯 다시 ᄒᆞ새</sent>
+<sent type="main" lang="kor" page="23b" n="16">ᄒᆞ믈며 聖代를 만나 아니 醉코 어이리</sent>
+</pages>
+
+<pages n="24a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="24a" n="1">天寶山 ᄂᆞ린 물을 金谷村에 흘려 두고</sent>
+<sent type="main" lang="kor" page="24a" n="2">玉流堂 지은 ᄠᅳᆺ을 아ᄂᆞᆫ다 모로ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="24a" n="3">眞實로 이 ᄠᅳᆺ을 알면 날인 줄을 알리라</sent>
+<sent type="main" lang="kor" page="24a" n="4">玉流堂 됴탓 말 듯고 金谷村에 드러가니</sent>
+<sent type="main" lang="kor" page="24a" n="5">天寶山下에 玉流水ㅅ ᄲᅮᆫ이로다</sent>
+<sent type="main" lang="kor" page="24a" n="6">두어라 樂山樂水를 알리 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24a" n="7">山아 首陽山아 伯夷 叔齊 어듸 가니</sent>
+<sent type="main" lang="kor" page="24a" n="8">萬古淸節을 두고 간 줄 뉘 아ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="24a" n="9">어즈버 堯天舜日이야 親히 본가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24a" n="10">太公의 釣魚臺를 계유 구러 ᄎᆞ자가니</sent>
+<sent type="main" lang="kor" page="24a" n="11">江山도 그지업고 志槩도 새로왜라</sent>
+<sent type="main" lang="kor" page="24a" n="12">眞實로 萬古英風을 다시 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="24a" n="13">灤河水 도라드니 師尙父의 釣磯로다</sent>
+<sent type="main" lang="kor" page="24a" n="14">渭水風烟이야 古今에 다를소냐</sent>
+<sent type="main" lang="kor" page="24a" n="15">어즈버 玉璜畢事를 親히 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="24a" n="16">首陽山 ᄂᆞ린 물이 釣魚臺로 가다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="24a" n="17">太公이 낙던 고기 나도 낙가 보련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="24a" n="18">그 고기 至今히 업스니 물동말동 ᄒᆞ여라</sent>
+</pages>
+
+<pages n="24b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="24b" n="1">日月도 녜과 ᄀᆞᆺ고 山川도 依舊ᄒᆞ되</sent>
+<sent type="main" lang="kor" page="24b" n="2">大明文物은 쇼졀업시 간 듸 업다</sent>
+<sent type="main" lang="kor" page="24b" n="3">두어라 天運이 循環ᄒᆞ니 다시 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24b" n="4">笛童을 아픠 셰고 楓嶽을 ᄎᆞ자오니</sent>
+<sent type="main" lang="kor" page="24b" n="5">神仙은 어듸 가고 鶴巢만 나만ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="24b" n="6">아므나 赤松子 만나든 날 왓더라 닐러라</sent>
+<sent type="main" lang="kor" page="24b" n="7">平生에 일이 업서 山水間에 노니다가</sent>
+<sent type="main" lang="kor" page="24b" n="8">江湖에 님자 되니 世上 일 다 니제라</sent>
+<sent type="main" lang="kor" page="24b" n="9">엇더타 江山風月이 긔 벗인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24b" n="10">天恩이 ᄀᆞ이 업서 代마다 덥혀 두고</sent>
+<sent type="main" lang="kor" page="24b" n="11">太平聖世에 가플 일이 어려왜라</sent>
+<sent type="main" lang="kor" page="24b" n="12">두어라 爲國忠心을 永世不忘 ᄒᆞ오리라</sent>
+<sent type="main" lang="kor" page="24b" n="13">石上에 自古桐을 석 자만 버혀 내면</sent>
+<sent type="main" lang="kor" page="24b" n="14">一張玄琴이 自然이 되련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="24b" n="15">아마도 高山流水를 알리 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="24b" n="16">솔아 심긴 솔아 네 어이 심겻ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="24b" n="17">遲遲澗畔을 어듸 두고 예 와 셧ᄂᆞᆫ</sent><!--뒤쪽의 '遲'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24b" n="18">眞實로 鬱鬱ᄒᆞᆫ 晩翠를 알리 업서 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="25a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="25a" n="1">ᄒᆡ 져 어돕거ᄂᆞᆯ 밤쥬ᇰ만 너겻더니</sent>
+<sent type="main" lang="kor" page="25a" n="2">덧업시 ᄇᆞᆯ가지니 새날이 되야괴야</sent>
+<sent type="main" lang="kor" page="25a" n="3">歲月이 流水 ᄀᆞ트니 늙기 셜워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="25a" n="4">제 分 죠흔 줄을 ᄆᆞ음에 定ᄒᆞᆫ 後에</sent>
+<sent type="main" lang="kor" page="25a" n="5">功名富貴로 草屋을 밧골손가</sent>
+<sent type="main" lang="kor" page="25a" n="6">世俗에 버서난 後ㅣ면 自行自處ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="25a" n="7">天理ᄅᆞᆯ 알쟉시면 天道ㅣ라타 뉘 모로리</sent>
+<sent type="main" lang="kor" page="25a" n="8">忠孝大義ᄂᆞᆫ 修身에 ᄃᆞᆯ년ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="25a" n="9">事業을 節義로 行ᄒᆞ면 긔 올흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="25a" n="10">德으로 일삼으면 제 分인 줄 제 모로며</sent>
+<sent type="main" lang="kor" page="25a" n="11">懲忿을 져버 보면 窒慾인들 뉘 모로리</sent>
+<sent type="main" lang="kor" page="25a" n="12">學文을 보뵈로 아라야 去取適中 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="25a" n="13">말슴을 ᄀᆞᆯ희여 내면 결올 일이 바히 업고</sent>
+<sent type="main" lang="kor" page="25a" n="14">無逸을 쵸하ᄒᆞ면 貧慾인들 이실소냐</sent>
+<sent type="main" lang="kor" page="25a" n="15">一毫ㅣ나 밧긔 일 ᄒᆞ면 헷工夫ᅟᅵᆫ가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="25a" n="16">어져 내 말 듯소 君子工夫 다ᄒᆞᆫ 後에</sent>
+<sent type="main" lang="kor" page="25a" n="17">死生을 뉘 알관ᄃᆡ 老少로 ᄃᆞ톨손가</sent>
+<sent type="main" lang="kor" page="25a" n="18">그려도 餘日이 이시니 學文이나 ᄒᆞ리라</sent><!--'이시니'의 '이'는 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="25b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="25b" n="1">사람이 삼긴 後에 天性을 가져 이셔</sent>
+<sent type="main" lang="kor" page="25b" n="2">善惡을 分別ᄒᆞ면 孔孟인들 부를소냐</sent>
+<sent type="main" lang="kor" page="25b" n="3">이 밧긔 說話 만ᄒᆞ니 그를 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="25b" n="4">어버이 날 나흐셔 어질과쟈 길러 내니</sent>
+<sent type="main" lang="kor" page="25b" n="5">이 두 分 아니시면 내 몸 나셔 어질소냐</sent><!--원문에는 '어질소소냐'로 되어 있으나 '어질소냐'로 교정함-->
+<sent type="main" lang="kor" page="25b" n="6">아마도 至極ᄒᆞᆫ 恩德을 못내 가파 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="25b" n="7">우리 몸 갈라 난들 두 몸이라 아지 마소</sent>
+<sent type="main" lang="kor" page="25b" n="8">分形連氣ᄒᆞ니 이 니론 兄弟니라</sent>
+<sent type="main" lang="kor" page="25b" n="9">兄弟 아이 ᄠᅳᆺ을 아라 自友自恭 ᄒᆞ쟈스라</sent>
+<sent type="main" lang="kor" page="25b" n="10">男女有別ᄒᆞᆫ 줄 사ᄅᆞᆷ마다 알년마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="25b" n="11">學文을 모로면 알가 아니 어려온랴</sent>
+<sent type="main" lang="kor" page="25b" n="12">眞實로 國法이 이시니 無別無行ᄒᆞ지 마라</sent>
+<sent type="main" lang="kor" page="25b" n="13">져무니 어룬 뫼셔 간 듸마다 ᄎᆞ례곳 알면</sent>
+<sent type="main" lang="kor" page="25b" n="14">無知ᄒᆞᆫ 愚氓들도 아니 아지 못ᄒᆞ려니</sent>
+<sent type="main" lang="kor" page="25b" n="15">ᄒᆞ믈며 人倫을 알려 ᄒᆞ면 이 아니코 어이리</sent>
+<sent type="main" lang="kor" page="25b" n="16">ᄂᆞᆷ으로셔 親ᄒᆞᆫ 사ᄅᆞᆷ 벗이라 닐러시니</sent>
+<sent type="main" lang="kor" page="25b" n="17">有信곳 아니ᄒᆞ면 사괼 줄이 이실소냐</sent>
+<sent type="main" lang="kor" page="25b" n="18">우리ᄂᆞᆫ 어진 벗 아라셔 責善을 바다 보리라</sent>
+</pages>
+
+<pages n="26a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="26a" n="1">鄕黨은 禮 ᄇᆞ르니 어ᄂᆡ 사ᄅᆞᆷ 無禮ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="26a" n="2">無知ᄒᆞᆫ 少年들이 年齒를 제 몰라도</sent>
+<sent type="main" lang="kor" page="26a" n="3">그러나 人形을 가져시니 ᄇᆡ화 알가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="26b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="26b" n="1">東窓이 ᄇᆞᆯ갓ᄂᆞ냐 노고지리 우지진다</sent>
+<sent type="main" lang="kor" page="26b" n="2">쇼 칠 아ᄒᆡᄂᆞᆫ 여태 아니 니런ᄂᆞ냐</sent>
+<sent type="main" lang="kor" page="26b" n="3">재 너머 ᄉᆞ래 긴 밧츨 언제 갈려 ᄒᆞᄂᆞ니</sent>
+</pages>
+
+<pages n="27a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="27a" n="1">ᄃᆞᆺᄂᆞᆫ ᄆᆞᆯ 셔셔 늙고 드ᄂᆞᆫ 칼 보뫼거다</sent>
+<sent type="main" lang="kor" page="27a" n="2">無情歲月은 白髮을 ᄌᆡ촉ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="27a" n="3">聖主의 累世鴻恩을 못 가플가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="27a" n="4">胸中에 불이 나니 五臟이 다 ᄐᆞ 간다</sent>
+<sent type="main" lang="kor" page="27a" n="5">神農氏 ᄭᅮᆷ에 보와 불 ᄭᅳᆯ 藥 무러 보니</sent>
+<sent type="main" lang="kor" page="27a" n="6">忠節과 慷慨로 난 불이니 ᄭᅳᆯ 藥 업다 ᄒᆞᄃᆞ라</sent>
+<sent type="main" lang="kor" page="27a" n="7">公庭에 吏退ᄒᆞ고 ᄒᆞᆯ 일이 아조 업서</sent>
+<sent type="main" lang="kor" page="27a" n="8">扁舟에 술을 싯고 侍中臺 ᄎᆞ자가니</sent>
+<sent type="main" lang="kor" page="27a" n="9">蘆花에 수만흔 ᄀᆞᆯ며기는 제 벗인가 ᄒᆞᄃᆞ라</sent>
+<sent type="main" lang="kor" page="27a" n="10">술 ᄭᆡ야 니러 안자 거믄고를 戱弄ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="27a" n="11">窓 밧긔 셧ᄂᆞᆫ 鶴이 즐겨서 넘ᄂᆞᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="27a" n="12">아ᄒᆡ야 나믄 술 부어라 興이 다시 오노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="27a" n="13">좌내 집의 술 닉거든 부듸 날 부르시소</sent>
+<sent type="main" lang="kor" page="27a" n="14">내 집의 곳 픠여든 나도 좌내 請ᄒᆡ 옴ᄉᆡ</sent>
+<sent type="main" lang="kor" page="27a" n="15">百年 ᄯᅥᆺ 시ᄅᆞᆷ 니즐 일을 議論코져 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="27b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="27b" n="1">거믄고 술 ᄭᅩ자 노코 호졋이 낫ᄌᆞᆷ 든 제</sent>
+<sent type="main" lang="kor" page="27b" n="2">柴門 犬吠聲에 반가온 벗 오도괴야</sent>
+<sent type="main" lang="kor" page="27b" n="3">아ᄒᆡ야 點心도 ᄒᆞ려니와 외자 濁酒 내여라</sent>
+<sent type="main" lang="kor" page="27b" n="4">자 나믄 보라매를 엇그제 ᄀᆞᆺ 손 ᄯᅥ혀</sent>
+<sent type="main" lang="kor" page="27b" n="5">ᄲᅢ짓체 방올 ᄃᆞ라 夕陽애 밧고 나니</sent>
+<sent type="main" lang="kor" page="27b" n="6">丈夫의 平生 得意ᄂᆞᆫ 잇분인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="27b" n="7">벼슬을 저마다 ᄒᆞ면 農夫ᄒᆞ리 뉘 이시며</sent>
+<sent type="main" lang="kor" page="27b" n="8">醫員이 病 고치면 北邙山이 져려ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="27b" n="9">아ᄒᆡ야 盞 ᄀᆞ특 부어라 내 ᄠᅳᆺ대로 ᄒᆞ리라</sent><!--'부어라'의 '부'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="27b" n="10">벼슬이 貴타 ᄒᆞᆫ들 이 내 몸에 비길소냐</sent>
+<sent type="main" lang="kor" page="27b" n="11">蹇驢ᄅᆞᆯ 밧비 모라 故山으로 도라오니</sent>
+<sent type="main" lang="kor" page="27b" n="12">어듸셔 急ᄒᆞᆫ 비 ᄒᆞᆫ 줄기에 出塵行裝 시서고</sent>
+<sent type="main" lang="kor" page="27b" n="13">諫死ᄒᆞᆫ 朴坡州ㅣ야 주그라 셜워 마라</sent>
+<sent type="main" lang="kor" page="27b" n="14">三百年 綱常을 네 혼자 붓들거다</sent>
+<sent type="main" lang="kor" page="27b" n="15">우리의 聖君不遠復이 네 죽긴가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="28a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="28a" n="1">사ᄅᆞᆷ이 삼겨나셔 皐陶稷契 못 될지면</sent>
+<sent type="main" lang="kor" page="28a" n="2">千古往牒에 ᄯᅩ 눌을 부러ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="28a" n="3">五湖에 扁舟烟月이 明哲인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28a" n="4">金壇이 雄豪ᄒᆞ고 黃閣이 尊重ᄒᆞᆫ들</sent>
+<sent type="main" lang="kor" page="28a" n="5">功業이 蕭條ᄒᆞ여 富貴만 ᄒᆞ량이면</sent>
+<sent type="main" lang="kor" page="28a" n="6">ᄎᆞᆯ하리 靑山綠水에 逸民이나 되오리라</sent>
+<sent type="main" lang="kor" page="28a" n="7">이런들 엇더ᄒᆞ며 져런들 엇더ᄒᆞ료</sent>
+<sent type="main" lang="kor" page="28a" n="8">萬壽山 드렁츩이 얼거진들 엇더ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="28a" n="9">우리도 이ᄀᆞᆺ치 얼거져 百年ᄭᆞ지 누리리라</sent><!--뒤쪽의 '리'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="28a" n="10">靑石嶺 지나거냐 草河口ㅣ 어듸ᄆᆡ오</sent>
+<sent type="main" lang="kor" page="28a" n="11">胡風도 ᄎᆞᆷ도 ᄎᆞᆯ샤 구즌 비ᄂᆞᆫ 무스 일고</sent>
+<sent type="main" lang="kor" page="28a" n="12">아므나 行色 그려내여 님 계신 듸 드리고쟈</sent>
+</pages>
+
+<pages n="00">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="28b" n="1">朝天路 보뫼닷 말가 玉河舘이 뷔닷 말가</sent>
+<sent type="main" lang="kor" page="28b" n="2">大明 崇楨이 어드러로 가시건고</sent>
+<sent type="main" lang="kor" page="28b" n="3">三百年 事大誠信이 ᄭᅮᆷ이런가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28b" n="4">앗가야 사ᄅᆞᆷ 되랴 온몸에 짓치 도쳐</sent>
+<sent type="main" lang="kor" page="28b" n="5">九萬里 長天에 프드득 소사올라</sent>
+<sent type="main" lang="kor" page="28b" n="6">님 계신 九重宮闕을 구버 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="28b" n="7">秋水ᄂᆞᆫ 天一色이오 龍舸ᄂᆞᆫ 泛中流ㅣ라</sent>
+<sent type="main" lang="kor" page="28b" n="8">簫鼓一聲에 解萬古之愁兮로다</sent>
+<sent type="main" lang="kor" page="28b" n="9">우리도 萬民 ᄃᆞ리고 同樂太平ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="28b" n="10">鴨綠江 ᄒᆡ 진 後에 에엿분 우리 님이</sent>
+<sent type="main" lang="kor" page="28b" n="11">燕雲萬里ᄅᆞᆯ 어듸라고 가시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="28b" n="12">봄 풀이 프르고 프르거든 卽時 도라오쇼셔</sent>
+</pages>
+
+<pages n="29a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="29a" n="1">하ᄂᆞᆯ이 놉다 ᄒᆞ고 발 져겨 셔지 말며</sent>
+<sent type="main" lang="kor" page="29a" n="2">ᄯᅡ히 두텁다고 ᄆᆞ이 ᄇᆞᆲ지 마롤 거시</sent>
+<sent type="main" lang="kor" page="29a" n="3">하ᄂᆞᆯ ᄯᅡ 놉고 두터워도 내 조심을 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="29a" n="4">窓 밧긔 아ᄒᆡ 와셔 오ᄂᆞᆯ이 새ᄒᆡ오 커ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="29a" n="5">東窓을 열쳐 보니 녜 돗ᄃᆞᆫ ᄒᆡ 도닷다</sent>
+<sent type="main" lang="kor" page="29a" n="6">아ᄒᆡ야 萬古 ᄒᆞᆫ ᄒᆡ니 後天에 와 닐러라</sent>
+<sent type="main" lang="kor" page="29a" n="7">말하면 雜類라 ᄒᆞ고 말 아니면 어리다 ᄒᆞᄂᆡ</sent>
+<sent type="main" lang="kor" page="29a" n="8">貧寒을 ᄂᆞᆷ이 웃고 富貴들 새오ᄂᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="29a" n="9">아마도 이 하ᄂᆞᆯ 아레 사롤 일이 어려왜라</sent>
+<sent type="main" lang="kor" page="29a" n="10">늙고 病든 몸이 가다가 아므듸나</sent>
+<sent type="main" lang="kor" page="29a" n="11">절로 소슨 뫼헤 손조 밧 가로리라</sent>
+<sent type="main" lang="kor" page="29a" n="12">結實이 언매리마ᄂᆞᆫ 連命이나 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="29a" n="13">荊山에 璞玉을 어더 世上 사ᄅᆞᆷ 뵈라 가니</sent>
+<sent type="main" lang="kor" page="29a" n="14">것치 돌이여니 속 알리 뉘 이시리</sent>
+<sent type="main" lang="kor" page="29a" n="15">두어라 알닌들 업스랴 돌인 드시 잇거라</sent>
+<sent type="main" lang="kor" page="29a" n="16">人生을 혜여ᄒᆞ니 ᄒᆞᆫ바탕 ᄭᅮᆷ이로다</sent>
+<sent type="main" lang="kor" page="29a" n="17">죠흔 일 구즌 일 ᄭᅮᆷ 속에 ᄭᅮᆷ이여니</sent>
+<sent type="main" lang="kor" page="29a" n="18">두어라 ᄭᅮᆷ ᄀᆞᆺ튼 人生이 아니 놀고 어이리</sent>
+</pages>
+
+<pages n="29b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="29b" n="1">주려 주그려 ᄒᆞ고 首陽山에 드럿거니</sent>
+<sent type="main" lang="kor" page="29b" n="2">현마 고사리ᄅᆞᆯ 머그려 ᄏᆡ야시랴</sent>
+<sent type="main" lang="kor" page="29b" n="3">物性이 구븐 즐 믜워 펴 보려고 ᄏᆡ미라</sent>
+<sent type="main" lang="kor" page="29b" n="4">屈原 忠魂 ᄇᆡ에 너흔 고기 采石江에 긴 고래 되야</sent>
+<sent type="main" lang="kor" page="29b" n="5">李謫仙 등에 언ᄭᅩ 하ᄂᆞᆯ 우희 올ᄂᆞ시니</sent><!--'올ᄂᆞ시니'의 'ᄂᆞ'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="29b" n="6">에제ᄂᆞᆫ 새 고기 낫거니 낙가 ᄉᆞᆷ다 엇더리</sent>
+<sent type="main" lang="kor" page="29b" n="7">忠臣의 속ᄆᆞ음을 그 님금이 모로므로</sent>
+<sent type="main" lang="kor" page="29b" n="8">九原 千載에 다 스러ᄒᆞ려니와</sent>
+<sent type="main" lang="kor" page="29b" n="9">比干은 ᄆᆞ음을 뵈야시니 므슴 恨이 이시리</sent>
+<sent type="main" lang="kor" page="29b" n="10">唐虞도 죠커니와 夏商周ㅣ 더옥 죠희</sent>
+<sent type="main" lang="kor" page="29b" n="11">이제를 혜여ᄒᆞ니 어ᄂᆡ 적만 ᄒᆞᆫ 거이고</sent>
+<sent type="main" lang="kor" page="29b" n="12">堯天에 舜日이 ᄇᆞᆯ가시니 아모 젠줄 몰래라</sent>
+</pages>
+
+<pages n="30a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="30a" n="1">늙기 셜은 줄을 모로고나 늘것ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="30a" n="2">春光이 덧이 업서 白髮이 절로 낫다</sent>
+<sent type="main" lang="kor" page="30a" n="3">그러나 少年 ᄶᅥᆨ ᄆᆞ음은 감ᄒᆞᆫ 일이 업세라</sent>
+<sent type="main" lang="kor" page="30a" n="4">綠楊 春三月을 자바 ᄆᆡ야 둘 거시면</sent>
+<sent type="main" lang="kor" page="30a" n="5">센 머리 ᄲᅩ바 내여 ᄎᆞᆫᄎᆞᆫ 동혀 두련마ᄂᆞᆫ</sent><!--뒤쪽의 'ᄎᆞᆫ'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30a" n="6">올ᄒᆡ도 그리 못ᄒᆞ고 그저 노화 보내거다</sent>
+<sent type="main" lang="kor" page="30a" n="7">松壇에 선ᄌᆞᆷ ᄭᆡ야 醉眼을 드러보니</sent>
+<sent type="main" lang="kor" page="30a" n="8">夕陽 浦口에 나드ᄂᆞ니 白鷗ㅣ로다</sent>
+<sent type="main" lang="kor" page="30a" n="9">어즈버 이 江山風景이야 어ᄂᆡ 그지 이시리</sent>
+<sent type="main" lang="kor" page="30a" n="10">功名을 즐겨 마라 榮辱이 半이로다</sent>
+<sent type="main" lang="kor" page="30a" n="11">富貴ᄅᆞᆯ 貪치 마라 危機를 ᄇᆞᆲᄂᆞ니라</sent>
+<sent type="main" lang="kor" page="30a" n="12">우리ᄂᆞᆫ 一身이 閑暇커니 두려온 일 업세라</sent>
+<sent type="main" lang="kor" page="30a" n="13">크나큰 바회 우희 네 사ᄅᆞᆷ이 閑暇롭다</sent>
+<sent type="main" lang="kor" page="30a-30b" n="14">紫芝歌ᄒᆞᆫ 曲調ᄅᆞᆯ 오ᄂᆞᆯ이야 드를런가</sent><!--오ᄂᆞᆯ이야 ^ 드를런가-->
+</pages>
+
+<pages n="30b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="30b" n="1">이後ᄂᆞᆫ 나 ᄒᆞ나 더ᄒᆞ니 五皓ㅣ 될가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="30b" n="2">내 精靈 술에 섯겨 님의 속에 흘러드러</sent>
+<sent type="main" lang="kor" page="30b" n="3">九回肝膓을 다 ᄎᆞ자 ᄃᆞᆫ닐만졍</sent>
+<sent type="main" lang="kor" page="30b" n="4">날 닛고 ᄂᆞᆷ 向ᄒᆞᆫ ᄆᆞ음을 다 스로려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="30b" n="5">江湖에 ᄇᆞ린 몸이 白鷗와 벗이 되야</sent>
+<sent type="main" lang="kor" page="30b" n="6">漁艇을 흘리 노코 玉簫를 노피 부니</sent>
+<sent type="main" lang="kor" page="30b" n="7">아마도 世上興味ᄂᆞᆫ 잇분인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="30b" n="8">겨월이 다 지나고 봄 節이 도라오니</sent>
+<sent type="main" lang="kor" page="30b" n="9">萬鶴千峰에 푸른 빗치 새로왜라</sent>
+<sent type="main" lang="kor" page="30b" n="10">아ᄒᆡ야 江湖에 ᄇᆡ ᄯᅴ오고 낙대 推尋ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="30b" n="11">이 몸이 ᄒᆞᆯ 일 업서 西湖ᄅᆞᆯ ᄎᆞ자가니</sent>
+<sent type="main" lang="kor" page="30b" n="12">自沙淸江에 ᄂᆞ니ᄂᆞ니 白鷗ㅣ로다</sent>
+<sent type="main" lang="kor" page="30b" n="13">어듸셔 漁歌一曲이 이 내 興을 돕ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="30b" n="14">蓼花에 ᄌᆞᆷ든 白鷗 선ᄌᆞᆷ ᄭᆡ야 ᄂᆞ지 마라</sent>
+<sent type="main" lang="kor" page="30b" n="15">나도 일 업서 江湖客이 되엿노라</sent>
+<sent type="main" lang="kor" page="30b" n="16">이 後ᄂᆞᆫ ᄎᆞ즈리 업스니 너를 조차 놀리라</sent>
+</pages>
+
+<pages n="31a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="31a" n="1">塵埃에 무친 分ᄂᆡ 이 내 말 드러 보소</sent>
+<sent type="main" lang="kor" page="31a" n="2">富貴功名이 됴타도 ᄒᆞ려니와</sent>
+<sent type="main" lang="kor" page="31a" n="3">갑업슨 江山風景이 긔 죠흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="31a" n="4">紅塵을 다 ᄯᅥᆯ치고 竹杖芒鞋 집고 신고</sent>
+<sent type="main" lang="kor" page="31a" n="5">玄琴을 두러 메고 洞天으로 드러가니</sent>
+<sent type="main" lang="kor" page="31a" n="6">어듸셔 ᄧᅡᆨ 을흔 鶴唳聲이 구룸 밧긔 들닌다</sent>
+<sent type="main" lang="kor" page="31a" n="7">玉盆에 심근 梅花 ᄒᆞᆫ 柯枝 것거 내니</sent>
+<sent type="main" lang="kor" page="31a" n="8">곳도 됴커니와 暗香이 더옥 죠타</sent>
+<sent type="main" lang="kor" page="31a" n="9">두어라 것근 곳이니 ᄇᆞ릴 줄이 이시랴</sent><!--'이시랴'의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31a" n="10">구레 버슨 千里馬를 뉘라셔 자바다가</sent>
+<sent type="main" lang="kor" page="31a" n="11">조쥭 ᄉᆞᆯ믄 콩을 ᄉᆞᆯ지게 머겨 둔들</sent>
+<sent type="main" lang="kor" page="31a" n="12">本性이 왜양ᄒᆞ거니 이실 줄이 이시랴</sent><!--'이시랴'의 '이'는 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="31b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="31b" n="1">내 몸에 病이 만하 世上에 ᄇᆞ리이여</sent>
+<sent type="main" lang="kor" page="31b" n="2">是非榮辱을 오로 다 니저마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="31b" n="3">다만지 淸閑一癖이 매 부르기 죠해라</sent>
+<sent type="main" lang="kor" page="31b" n="4">丈夫로 삼겨나셔 立身揚名 못ᄒᆞᆯ지면</sent>
+<sent type="main" lang="kor" page="31b-32a" n="5">ᄎᆞᆯ하리 ᄯᅥᆯ치고 일 업시 늘그리라</sent><!--늘^그리라-->
+</pages>
+
+<pages n="32a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="32a" n="1">이밧긔 碌碌ᄒᆞᆫ 營爲에 걸릴길 줄 이시랴</sent>
+<sent type="main" lang="kor" page="32a" n="2">百世를 닷 못 사라 七八十만 살지라도</sent>
+<sent type="main" lang="kor" page="32a" n="3">벗고 굼지 말고 病 업시 누리다가</sent>
+<sent type="main" lang="kor" page="32a" n="4">有子코 有孫ᄒᆞ오면 긔 願인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="32a" n="5">春風桃李花들아 고은 양ᄌᆞ 쟈랑 말고</sent>
+<sent type="main" lang="kor" page="32a" n="6">長松綠竹을 歲寒에 보려므나</sent>
+<sent type="main" lang="kor" page="32a" n="7">亭亭코 落落한 節을 고칠 줄이 이시랴</sent><!--'亭亭'에서 뒤쪽의 '亭' '落落'에서 뒤쪽의 '落', '이시랴'의 '이'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32a" n="8">唐虞ᄂᆞᆫ 언제 時節 孔孟은 뉘시런고</sent>
+<sent type="main" lang="kor" page="32a" n="9">淳風禮樂이 戰國이 되야시니</sent>
+<sent type="main" lang="kor" page="32a" n="10">이 몸이 서근 션븨로 擊節悲歌 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="32a" n="11">泰山에 올라 안자 四海를 구버 보니</sent>
+<sent type="main" lang="kor" page="32a" n="12">天地四方이 훤츨도 ᄒᆞ져이고</sent>
+<sent type="main" lang="kor" page="32a" n="13">丈夫의 浩然之氣를 오ᄂᆞᆯ이야 알괘라</sent>
+<sent type="main" lang="kor" page="32a" n="14">不忠不孝ᄒᆞ고 罪만흔 이 내 몸이</sent>
+<sent type="main" lang="kor" page="32a" n="15">苟苟히 사라 이셔 ᄒᆡ온 일 업거니와</sent><!--뒤쪽의 '苟'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="32a" n="16">그러나 太平聖代에 늙기 셜워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="32a" n="17">오ᄂᆞᆯ은 川獵ᄒᆞ고 來日은 山行 가ᄉᆡ</sent>
+<sent type="main" lang="kor" page="32a-32b" n="18">곳다림 모릐 ᄒᆞ고 降神으란 글픠 ᄒᆞ리</sent><!--글픠 ᄒᆞ^리-->
+</pages>
+
+<pages n="32b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="32b" n="1">그글픠 邊射會ᄒᆞᆯ 제 各持壺果 ᄒᆞ시소</sent>
+<sent type="main" lang="kor" page="32b" n="2">蘭干에 지혀 안자 玉笛을 빗기 부니</sent>
+<sent type="main" lang="kor" page="32b" n="3">五月 江城에 흣듯ᄂᆞ니 梅花ㅣ로다</sent>
+<sent type="main" lang="kor" page="32b" n="4">ᄒᆞᆫ 曲調 舜琴에 섯거 百工相和ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="32b" n="5">景星出 慶雲興ᄒᆞ니 日月이 光華ㅣ로다</sent>
+<sent type="main" lang="kor" page="32b" n="6">三王 禮樂이오 五帝ㅣ 文物이로다</sent>
+<sent type="main" lang="kor" page="32b" n="7">四海로 太平酒 비저 萬姓同醉ᄒᆞ리라</sent>
+</pages>
+
+<pages n="33a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="33a" n="1">榮辱이 竝行ᄒᆞ니 富貴도 不關ᄐᆞ라</sent>
+<sent type="main" lang="kor" page="33a" n="2">第一 江山에 내 혼자 님자 되야</sent>
+<sent type="main" lang="kor" page="33a" n="3">夕陽에 낙싯대 두러 메고 오명가명 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="33a" n="4">白鷗ㅣ야 말 무러 보쟈 놀라지 마라스라</sent>
+<sent type="main" lang="kor" page="33a" n="5">名區勝地ᄅᆞᆯ 어듸어듸 ᄇᆞ렷ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="33a" n="6">날ᄃᆞ려 仔細히 닐러든 네와 게 가 놀리라</sent>
+<sent type="main" lang="kor" page="33a" n="7">蘆花 기픈 곳에 落霞를 빗기 ᄯᅴ고</sent>
+<sent type="main" lang="kor" page="33a" n="8">三三五五히 섯거 노ᄂᆞᆫ 져 白鷗ㅣ야</sent><!--'三三五五히'에서 뒤쪽의 '三, 五'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33a" n="9">므서세 ᄌᆞᆷ챡ᄒᆞ엿관ᄃᆡ 날 온 줄을 모로ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="33a" n="10">南山 ᄂᆞ린 골에 五穀을 ᄀᆞ초 심거</sent>
+<sent type="main" lang="kor" page="33a" n="11">먹고 못 나마도 긋지나 아니ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="33a" n="12">그 밧긔 녀나믄 富貴야 ᄇᆞ랄 줄이 이시랴</sent>
+<sent type="main" lang="kor" page="33a" n="13">울 밋 陽地ㅅ 편에 외ᄡᅵ를 ᄲᅧ허 두고</sent>
+<sent type="main" lang="kor" page="33a" n="14">ᄆᆡ거니 붓도도와 빗김에 달화 내니</sent><!--뒤쪽의 '도'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33a" n="15">어즈버 東陵瓜地ᄂᆞᆫ 예야 긘가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="33a" n="16">田園에 나믄 興을 전나귀에 모도 싯고</sent>
+<sent type="main" lang="kor" page="33a" n="17">溪山 니근 길로 훙치며 도라와셔</sent>
+<sent type="main" lang="kor" page="33a" n="18">아ᄒᆡ 琴書를 다스려라 나믄 ᄒᆡ를 보내리라</sent>
+</pages>
+
+<pages n="33b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="33b" n="1">雲霄에 오로젼들 ᄂᆞ래 업시 어이ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="33b" n="2">蓬島로 가쟈 ᄒᆞ니 舟楫을 어이ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="33b" n="3">ᄎᆞᆯ하리 山林에 主人 되야 이 世界를 니즈리라</sent>
+<sent type="main" lang="kor" page="33b" n="4">知足이면 不辱이오 知止면 不殆라 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="33b" n="5">功成名遂ᄒᆞ면 마ᄂᆞᆫ 거시 긔 올흐니</sent>
+<sent type="main" lang="kor" page="33b" n="6">어즈버 宦海諸君子ᄂᆞᆫ 모다 조심ᄒᆞ시소</sent>
+<sent type="main" lang="kor" page="33b" n="7">綠駬霜躋 櫪上에셔 늙고 龍泉雪鍔 匣裏에 운다</sent>
+<sent type="main" lang="kor" page="33b" n="8">丈夫의 혜은 ᄠᅳᆺ을 쇽졀업시 못 이로고</sent>
+<sent type="main" lang="kor" page="33b" n="9">귀밋테 흰 털이 ᄂᆞᆯ니니 글을 셜워ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="33b" n="10">長劍을 ᄲᅡ혀 들고 다시 안자 혜아리니</sent>
+<sent type="main" lang="kor" page="33b" n="11">胸中에 머근 ᄠᅳᆺ이 邯鄲步ㅣ 되야괴야</sent>
+<sent type="main" lang="kor" page="33b" n="12">두어라 이 ᄯᅩ한 命이여니 닐러 므슴ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="33b" n="13">生前에 富貴키는 一杯酒만ᄒᆞᆫ 것 업고</sent>
+<sent type="main" lang="kor" page="33b" n="14">死後風流ᄂᆞᆫ 陌上花ᄲᅮᆫ이여니</sent>
+<sent type="main" lang="kor" page="33b" n="15">므스 일 이 죠흔 聖世에 아니 醉코 어이리</sent>
+<sent type="main" lang="kor" page="33b" n="16">내 부어 勸ᄒᆞᄂᆞᆫ 盞을 덜 머그려 辭讓 마소</sent>
+<sent type="main" lang="kor" page="33b" n="17">花開鶯啼ᄒᆞ니 이 아니 됴흔 ᄯᅢᆫ가</sent>
+<sent type="main" lang="kor" page="33b" n="18">엇더라 明年看花伴이 눌과 될 줄 알리오</sent>
+</pages>
+
+<pages n="34a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="34a" n="1">ᄒᆞᆫ ᄃᆞᆯ 셜흔 날에 醉ᄒᆞᆫ 날이 몃 날이리</sent>
+<sent type="main" lang="kor" page="34a" n="2">盞 자븐 날이야 眞實로 내 날이라</sent>
+<sent type="main" lang="kor" page="34a" n="3">그날곳 지나간 後ㅣ면 뉘 집 날이 될 줄 알리</sent>
+<sent type="main" lang="kor" page="34a" n="4">사ᄅᆞᆷ이 ᄒᆞᆫ 번 늘근 後에 다시 져머 보ᄂᆞᆫ 것가</sent>
+<sent type="main" lang="kor" page="34a" n="5">更少年ᄒᆞ닷 말이 千萬古에 업슨 말이</sent>
+<sent type="main" lang="kor" page="34a" n="6">우리ᄂᆞᆫ 그런 줄 알므로 ᄆᆡ양 醉코 노노라</sent>
+<sent type="main" lang="kor" page="34a" n="7">人生을 혜아리니 아마도 늣거웨라</sent>
+<sent type="main" lang="kor" page="34a" n="8">旅逆光陰에 시름이 半이여니</sent>
+<sent type="main" lang="kor" page="34a" n="9">므스 일 몃 百年 살리라 아니 놀고 어이리</sent>
+<sent type="main" lang="kor" page="34a" n="10">世上 사ᄅᆞᆷ들아 이 내 말 드러 보소</sent>
+<sent type="main" lang="kor" page="34a" n="11">靑春이 ᄆᆡ양이며 白髮이 검ᄂᆞᆫ 것가</sent>
+<sent type="main" lang="kor" page="34a" n="12">엇더라 有限ᄒᆞᆫ 人生이 아니 놀고 어이리</sent>
+<sent type="main" lang="kor" page="34a" n="13">梅窓에 月上ᄒᆞ고 竹逕에 風淸ᄒᆞᆫ 제</sent>
+<sent type="main" lang="kor" page="34a" n="14">素琴을 빗기 안고 두세 曲調 흣ᄐᆞ다가</sent>
+<sent type="main" lang="kor" page="34a" n="15">醉ᄒᆞ고 花塢에 져 이셔 夢羲皇을 ᄒᆞ놋다</sent>
+</pages>
+
+<pages n="34b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="34b" n="1">泰山에 올라 안자 天下를 두로 보니</sent>
+<sent type="main" lang="kor" page="34b" n="2">世路ㅣ 多岐ᄒᆞ여 어이 져리 머흔 게고</sent>
+<sent type="main" lang="kor" page="34b" n="3">阮籍이 이러ᄒᆞᆷ으로 窮途哭을 ᄒᆞ닷다</sent>
+<sent type="main" lang="kor" page="34b" n="4">堯日月 舜乾坤은 녜대로 잇것마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="34b" n="5">世上 人事ᄂᆞᆫ 어이 져리 달란ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="34b" n="6">이 몸이 느저 난 줄을 못내 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="34b" n="7">人間 번우한 일을 다 주어 후리치고</sent>
+<sent type="main" lang="kor" page="34b" n="8">康衢烟月에 일 업시 노닐며셔</sent>
+<sent type="main" lang="kor" page="34b" n="9">어즈버 聖化千載애 이러구러 지내리라</sent>
+<sent type="main" lang="kor" page="34b" n="10">尼山에 降彩ᄒᆞ샤 大聖人을 내오시니</sent>
+<sent type="main" lang="kor" page="34b" n="11">繼王聖 開來學에 德業도 노프실샤</sent>
+<sent type="main" lang="kor" page="34b" n="12">아마도 群聖中 集大成은 夫子ㅣ신가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="34b" n="13">遏人慾 存天理ᄂᆞᆫ 秋天에 氣象이오</sent>
+<sent type="main" lang="kor" page="34b" n="14">知言養氣ᄂᆞᆫ 古今에 긔 뉘런고</sent>
+<sent type="main" lang="kor" page="34b" n="15">아마도 擴前聖所未發은 孟軻ㅣ신가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="34b" n="16">杜拾遺의 忠君愛國이 日月로 爭光ᄒᆞᆯ로다</sent>
+<sent type="main" lang="kor" page="34b" n="17">間關劒閣에 ᄠᅳᆺ 둘 듸 젼혀 업서</sent>
+<sent type="main" lang="kor" page="34b" n="18">어즈버 無限丹衷을 一部詩에 부치도다</sent>
+</pages>
+
+<pages n="35a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="35a" n="1">岳鵬擧의 一生肝膽이 석지 아닌 忠孝ㅣ로다</sent>
+<sent type="main" lang="kor" page="35a" n="2">背上四字ᄂᆞᆫ 무어시라 ᄒᆞ엿ᄃᆞᆫ고</sent>
+<sent type="main" lang="kor" page="35a" n="3">南枝上 一片宋日이 耿耿丹衷에 비최엿다</sent><!--뒤쪽의 '耿'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35a" n="4">北扉下 져믄 날에 에엿불슨 文天祥이여</sent><!--뒤쪽의 '에'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35a" n="5">八年燕霜에 검ᄃᆞᆫ 머리 다 희거다</sent>
+<sent type="main" lang="kor" page="35a" n="6">至今히 從容就死를 못내 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="35a" n="7">沃野千里 긴 담 안헤 阿房宮을 노피 짓고</sent>
+<sent type="main" lang="kor" page="35a" n="8">當年에 어린 ᄠᅳᆺ은 萬歲計를 ᄒᆞ려ᄐᆞ니</sent>
+<sent type="main" lang="kor" page="35a" n="9">어ᄂᆡ덧 陳迹이 되도다 긔 뉘 타슬 사므리</sent><!--'되도다'의 '도'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="35a" n="10">莊生의 ᄒᆞᄂᆞᆫ 일이 아마도 多事ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="35a" n="11">斥鸚大鵬을 벼겨 므슴ᄒᆞ렷ᄐᆞᆫ고</sent>
+<sent type="main" lang="kor" page="35a" n="12">두어라 物之不齊를 견훌 줄이 이시랴</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="35a" n="13">賀季眞의 鏡湖水ᄂᆞᆫ 榮寵으로 어덧거니</sent>
+<sent type="main" lang="kor" page="35a" n="14">비록 말고젼들 므슴 핑계 ᄒᆞ려니오</sent>
+<sent type="main" lang="kor" page="35a" n="15">엇더타 내의 이 江山은 걸닌 곳 업세라</sent>
+<sent type="main" lang="kor" page="35a" n="16">叩馬諫不聽커ᄂᆞᆯ 首陽山에 드러가서</sent>
+<sent type="main" lang="kor" page="35a" n="17">周粟을 아니 먹고 ᄆᆞ츰내 餓死키ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="35a" n="18">千秋에 賊子의 ᄆᆞ음을 것거 보려 홈이라</sent>
+</pages>
+
+<pages n="35b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="35b" n="1">靑山裏 碧溪水ㅣ야 수이 감을 쟈랑 마라</sent>
+<sent type="main" lang="kor" page="35b" n="2">一到滄海ᄒᆞ면 도라오기 어려오니</sent>
+<sent type="main" lang="kor" page="35b" n="3">明月이 滿空山ᄒᆞ니 수여 간들 엇더리</sent>
+</pages>
+
+<pages n="36a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="36a" n="1">冬至ㅅ ᄃᆞᆯ 기나긴 밤을 한 허리를 버혀 내여</sent>
+<sent type="main" lang="kor" page="36a" n="2">春風 니불 아레 서리서리 너헛다가</sent><!--뒤쪽의 '서리'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36a" n="3">어론 님 오신 날 밤이여든 구뷔구뷔 펴리라</sent><!--뒤쪽의 '구뷔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36a" n="4">내 언제 無心ᄒᆞ여 님을 언제 소겻관ᄃᆡ</sent>
+<sent type="main" lang="kor" page="36a" n="5">月沉三更에 온 ᄠᅳᆺ이 젼혀 업ᄂᆡ</sent>
+<sent type="main" lang="kor" page="36a" n="6">秋風에 지ᄂᆞᆫ 닙 소릐야 낸들 어이ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="36a" n="7">相公을 뵈온 後에 事事를 밋ᄌᆞ오매</sent><!--뒤쪽의 '事'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="36a" n="8">拙直ᄒᆞᆫ ᄆᆞ음에 病들가 念慮ㅣ러니</sent>
+<sent type="main" lang="kor" page="36a" n="9">이리마 져리챠 ᄒᆞ시니 百年同抱ᄒᆞ리이다</sent>
+<sent type="main" lang="kor" page="36a" n="10">梅花 녯 등걸에 봄졀이 도라오니</sent>
+<sent type="main" lang="kor" page="36a" n="11">녯 퓌던 柯枝에 픠염즉도 ᄒᆞ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="36a" n="12">春雪이 亂紛紛ᄒᆞ니 픨동말동 ᄒᆞ여라</sent><!--뒤족의 '紛'은 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="36b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="36b" n="1">활 지어 ᄑᆞᆯ헤 걸고 칼 ᄀᆞ라 녀폐 ᄎᆞ고</sent>
+<sent type="main" lang="kor" page="36b" n="2">鐵瓮城 邊에 筒盖 볘고 누어시니</sent>
+<sent type="main" lang="kor" page="36b" n="3">보완다 보괴라 솔의에 ᄌᆞᆷ 못 드러 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="36b" n="4">뉘라셔 날 늙다ᄂᆞᆫ고 늘근이도 이러ᄒᆞᆫ가</sent>
+<sent type="main" lang="kor" page="36b" n="5">곳 보면 반갑고 盞 보면 우음 난다</sent>
+<sent type="main" lang="kor" page="36b" n="6">春風에 흣ᄂᆞᄂᆞᆫ 白髮이야 낸들 어이ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="36b" n="7">이 몸이 ᄡᅳᆯ 듸 업서 世上이 ᄇᆞ리오매</sent>
+<sent type="main" lang="kor" page="36b" n="8">西湖 녯 집을 다시 ᄡᅳᆯ고 누어시니</sent>
+<sent type="main" lang="kor" page="36b" n="9">一身이 閑暇ᄒᆞᆯᄧᅵ나 님 못 뵈와 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="37a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="37a" n="1">나의 님 向ᄒᆞᆫ ᄠᅳᆺ이 주근 後ㅣ면 엇더ᄒᆞᆯ지</sent>
+<sent type="main" lang="kor" page="37a" n="2">桑田이 變ᄒᆞ여 碧海ᄂᆞᆫ 되려니와</sent>
+<sent type="main" lang="kor" page="37a" n="3">님 向ᄒᆞᆫ 一片丹心이야 가싈 줄이 이시랴</sent><!--'이시랴'의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37a" n="4">가마귀 눈비 마자 희ᄂᆞᆫ 듯 검노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="37a" n="5">夜光明月이 밤인들 어두오랴</sent>
+<sent type="main" lang="kor" page="37a" n="6">님 向ᄒᆞᆫ 一片丹心이야 고칠 줄이 이시랴</sent><!--'이시랴'의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37a" n="7">간밤의 우던 여흘 슬피 우러 지내여다</sent>
+<sent type="main" lang="kor" page="37a" n="8">이제야 ᄉᆡᆼ각ᄒᆞ니 님이 우러 보내도다</sent>
+<sent type="main" lang="kor" page="37a" n="9">져 물이 거스리 흐로고져 나도 우러 녜리라</sent>
+<sent type="main" lang="kor" page="37a" n="10">늙고 病든 몸이 北向ᄒᆞ여 우니노라</sent>
+<sent type="main" lang="kor" page="37a" n="11">님 向ᄒᆞᆫ ᄆᆞ음을 뉘 아니 두리마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="37a" n="12">ᄃᆞᆯ ᄇᆞᆯ고 밤 긴 적이면 나ᄲᅮᆫ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="37a" n="13">님이 혜오시매 나ᄂᆞᆫ 젼혀 미덧ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="37a" n="14">날 ᄉᆞ랑ᄒᆞ던 情을 뉘손ᄃᆡ 옴기신고</sent>
+<sent type="main" lang="kor" page="37a" n="15">처음에 믜시던 거시면 이대도록 셜오랴</sent>
+<sent type="main" lang="kor" page="37a" n="16">어제 감던 머리 현마 오ᄂᆞᆯ 다 셸소냐</sent>
+<sent type="main" lang="kor" page="37a" n="17">鏡裏衰容이 이 어인 늘그니오</sent>
+<sent type="main" lang="kor" page="37a" n="18">님 계셔 뉜다 ᄒᆞ셔든 내 긔로라 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="37b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="37b" n="1">이리 혜고 져리 혜니 쇽절업슨 혬만 만희</sent><!--뒤쪽의 '만'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37b" n="2">業 구즌 人生이 살고져 사란ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="37b" n="3">至今히 사라 잇기ᄂᆞᆫ 님을 보려 ᄒᆞᆷ이라</sent>
+<sent type="main" lang="kor" page="37b" n="4">靑山아 웃지 마라 白雲아 譏弄마라</sent>
+<sent type="main" lang="kor" page="37b" n="5">白髮 紅塵에 내 즐겨 ᄃᆞᆫ니더냐</sent>
+<sent type="main" lang="kor" page="37b" n="6">聖恩이 至重ᄒᆞ시니 갑고 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="37b" n="7">故園 花竹들아 우리를 웃지 마라</sent>
+<sent type="main" lang="kor" page="37b" n="8">林泉 舊約이야 니즌 적이 업건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="37b" n="9">聖恩이 至重ᄒᆞ시니 갑고 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="37b" n="10">江湖에 봄이 드니 이 몸이 일이 하다</sent><!--'일이'의 '이'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="37b" n="11">나ᄂᆞᆫ 그믈 깁고 아ᄒᆡᄂᆞᆫ 밧츨 가니</sent>
+<sent type="main" lang="kor" page="37b" n="12">뒷 뫼헤 엄기ᄂᆞᆫ 藥을 언제 ᄏᆡ랴 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="37b" n="13">冊 덥고 窓을 여니 江湖에 ᄇᆡ ᄯᅥ 잇다</sent>
+<sent type="main" lang="kor" page="37b" n="14">往來 白鷗ᄂᆞᆫ 무슴 ᄠᅳᆺ 머것ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="37b" n="15">앗구려 功名도 말고 너ᄅᆞᆯ 조차 놀리라</sent>
+<sent type="main" lang="kor" page="37b" n="16">池塘에 비 ᄲᅮ리고 楊柳에 ᄂᆡ ᄭᆡ인 제</sent>
+<sent type="main" lang="kor" page="37b" n="17">沙工은 어듸 가고 뷘 ᄇᆡ만 ᄆᆡ엿ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="37b" n="18">夕陽에 ᄧᅡᆨ 일흔 ᄀᆞᆯ며기ᄂᆞᆫ 오락가락 ᄒᆞ노매</sent>
+</pages>
+
+<pages n="38a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="38a" n="1">졋 소릐 반겨 듯고 竹窓을 밧비 여니</sent>
+<sent type="main" lang="kor" page="38a" n="2">細雨 長堤에 쇠 등에 아ᄒᆡ로다</sent>
+<sent type="main" lang="kor" page="38a" n="3">아ᄒᆡ야 江湖에 봄 들거다 낙대 推尋ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="38a" n="4">아ᄒᆡ야 그믈 내여 漁舡에 시러 노코</sent>
+<sent type="main" lang="kor" page="38a" n="5">달 괸 술 막 걸러 酒樽에 다마 두고</sent>
+<sent type="main" lang="kor" page="38a" n="6">어즈버 ᄇᆡ 아직 노치 마라 ᄃᆞᆯ 기드려 가리라</sent>
+<sent type="main" lang="kor" page="38a" n="7">秋江에 밤이 드니 물결이 ᄎᆞ노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="38a" n="8">낙시 드리치니 고기 아니 무노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="38a" n="9">無心ᄒᆞᆫ ᄃᆞᆯ빗만 싯고 뷘 ᄇᆡ 저어 오노라</sent>
+<sent type="main" lang="kor" page="38a" n="10">우ᄂᆞᆫ 거슨 버국이가 프른 거슨 버들숩가</sent>
+<sent type="main" lang="kor" page="38a" n="11">漁村 두세 집이 ᄂᆡᆺ 속에 날락들락</sent>
+<sent type="main" lang="kor" page="38a" n="12">夕陽에 款乃聲 듯거든 더옥 無心ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="38a" n="13">功名富貴과란 世上 사ᄅᆞᆷ 맛져 두고</sent>
+<sent type="main" lang="kor" page="38a" n="14">말 업슨 江山에 일 업시 누어시니</sent>
+<sent type="main" lang="kor" page="38a" n="15">봄비에 절로 난 山菜 긔 分인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="38a" n="16">말 업슨 靑山이오 態 업슨 流水로다</sent>
+<sent type="main" lang="kor" page="38a" n="17">王喬 赤松外에 날 알니 업것마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="38a" n="18">어듸셔 망녕엣 거슨 오라 말라 ᄒᆞᄂᆞ니</sent>
+</pages>
+
+<pages n="38b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="38b" n="1">淸凉山 六六峰을 아ᄂᆞ니 나와 白鷗</sent>
+<sent type="main" lang="kor" page="38b" n="2">白鷗ㅣ야 헌ᄉᆞᄒᆞ랴 못 미들슨 桃花ㅣ로다</sent>
+<sent type="main" lang="kor" page="38b" n="3">桃花ㅣ야 ᄯᅥ나지 마라 漁舟子ㅣ 알가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="38b" n="4">時節이 太平토다 이 몸이 閑暇커니</sent>
+<sent type="main" lang="kor" page="38b" n="5">竹林 프른 곳에 午鷄聲 아니런들</sent>
+<sent type="main" lang="kor" page="38b" n="6">기픠 든 一場 華胥夢을 어ᄂᆡ 벗이 ᄭᆡ오리</sent>
+<sent type="main" lang="kor" page="38b" n="7">아ᄒᆡᄂᆞᆫ 藥 ᄏᆡ라 가고 竹亭은 뷔엿ᄂᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="38b" n="8">흐터진 바독을 뉘 주어 다믈소니</sent>
+<sent type="main" lang="kor" page="38b" n="9">醉ᄒᆞ고 松下에 져셔니 節 ᄀᆞᄂᆞᆫ 줄 몰래라</sent>
+<sent type="main" lang="kor" page="38b" n="10">목 불근 山上雉와 홰에 안즌 松骨이와</sent>
+<sent type="main" lang="kor" page="38b" n="11">집압 논 무살미에 고기 엇ᄂᆞᆫ 白鷺ㅣ로다</sent>
+<sent type="main" lang="kor" page="38b" n="12">草堂에 너희곳 아니면 날 보내기 어려왜라</sent>
+<sent type="main" lang="kor" page="38b" n="13">ᄯᅴ 업슨 손이 오나늘 갓 버슨 主人이 나셔</sent>
+<sent type="main" lang="kor" page="38b" n="14">여나모 亭子에 박將碁 버려 노코</sent>
+<sent type="main" lang="kor" page="38b" n="15">아ᄒᆡ야 濁酒 걸러라 외 안ᄌᆔᆫ들 못 머그랴</sent>
+<sent type="main" lang="kor" page="38b" n="16">새벽 비 일 갠 날에 닐거스라 아ᄒᆡ들아</sent>
+<sent type="main" lang="kor" page="38b" n="17">뒷 뫼헤 고사리 ᄒᆞ마 아니 ᄌᆞ라시랴</sent>
+<sent type="main" lang="kor" page="38b" n="18">오ᄂᆞᆯ은 일 것거 오ᄂᆞ라 새 술 안쥬ᄒᆞ리라</sent>
+</pages>
+
+<pages n="39a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="39a" n="1">還上도 ᄐᆞ 와 잇고 小川魚도 어더 잇고</sent>
+<sent type="main" lang="kor" page="39a" n="2">비즌 술 새로 닉고 뫼헤 ᄃᆞᆯ이 ᄇᆞᆯ가셰라</sent>
+<sent type="main" lang="kor" page="39a" n="3">곳 픠고 거믄고 이시니 벗 請ᄒᆞ여 놀리라</sent>
+<sent type="main" lang="kor" page="39a" n="4">집方席 내지 마라 落葉엔들 못 안즈랴</sent>
+<sent type="main" lang="kor" page="39a" n="5">솔불 혀지 마라 어제 진 ᄃᆞᆯ 도다 온다</sent>
+<sent type="main" lang="kor" page="39a" n="6">아ᄒᆡ야 濁酒山菜ᅟᅵᆯ만졍 업다 말고 내여라</sent>
+<sent type="main" lang="kor" page="39a" n="7">世上이 말 하거ᄂᆞᆯ ᄯᅥᆯ치고 드러가니</sent>
+<sent type="main" lang="kor" page="39a" n="8">一頃 荒田과 八百 桑株ᄲᅮᆫ이로다</sent>
+<sent type="main" lang="kor" page="39a" n="9">生利야 不足다마ᄂᆞᆫ 시름 업서 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="39a" n="10">忠誠이 첫 ᄠᅳᆺ이러니 님으뢰야 마롼졔고</sent>
+<sent type="main" lang="kor" page="39a" n="11">두어라 엇지ᄒᆞ리 天分이 그러커니</sent>
+<sent type="main" lang="kor" page="39a" n="12">ᄎᆞᆯ하리 江湖에 主人 되야 이 世界를 니즈리라</sent>
+<sent type="main" lang="kor" page="39a" n="13">비 오ᄂᆞᆫ 날 들에 가랴 사립 닷고 쇼 머겨라</sent>
+<sent type="main" lang="kor" page="39a" n="14">마히 ᄆᆡ양이랴 장기 연장 다스려라</sent>
+<sent type="main" lang="kor" page="39a" n="15">쉬다가 개ᄂᆞᆫ ᄂᆞᆯ 보와 ᄉᆞ래 긴 밧 갈리라</sent>
+<sent type="main" lang="kor" page="39a" n="16">삿갓세 되롱이 닙고 細雨中에 호믜 메고</sent>
+<sent type="main" lang="kor" page="39a" n="17">山田을 흣ᄆᆡ다가 綠陰에 누어시니</sent>
+<sent type="main" lang="kor" page="39a" n="18">牧童이 牛羊을 모라 ᄌᆞᆷ든 날을 ᄭᆡ와다</sent>
+</pages>
+
+<pages n="39b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="39b" n="1">대쵸 볼 불근 골에 밤은 어이 ᄠᅳᆺ드르며</sent>
+<sent type="main" lang="kor" page="39b" n="2">벼 뷘 그르헤 게ᄂᆞᆫ 어이 ᄂᆞ리ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="39b" n="3">술 닉쟈 체쟝ᄉᆞ 도라가니 아니 먹고 어이리</sent>
+<sent type="main" lang="kor" page="39b" n="4">오려 고개 속고 열무우 ᄉᆞᆯ졋ᄂᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="39b" n="5">낙시에 고기 물고 게ᄂᆞᆫ 어이 ᄂᆞ리ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="39b" n="6">아마도 農家에 ᄆᆞᆯ근 맛시 이 죠흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="39b" n="7">치위를 마글션졍 구ᄐᆡ야 비단옷가</sent>
+<sent type="main" lang="kor" page="39b" n="8">고폰 ᄇᆡ 몌올션졍 山菜라타 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="39b" n="9">이 밧긔 잡시름 업스면 긔 죠흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="39b" n="10">시름이 업슬션졍 富貴功名 관계ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="39b" n="11">ᄆᆞ음이 편ᄒᆞᆯ션졍 ᄂᆞᆷ이 웃다 어이ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="39b" n="12">엇더타 守拙安貧을 나ᄂᆞᆫ 죠화ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="39b" n="13">내 오ᄉᆡ 내 밥 먹고 내 집의 누어시니</sent>
+<sent type="main" lang="kor" page="39b" n="14">귀에 잡말 업고 是非에 걸릴소냐</sent>
+<sent type="main" lang="kor" page="39b" n="15">百年을 이리 지내미 긔 分인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="39b" n="16">이셩졍셩 다 지내고 흐롱하롱 인 일 업ᄂᆡ</sent>
+<sent type="main" lang="kor" page="39b" n="17">功名도 어근버근 世事도 싱슝샹슝</sent>
+<sent type="main" lang="kor" page="39b" n="18">每日에 ᄒᆞᆫ 盞 두 盞 ᄒᆞ여 이렁져렁 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="40a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="40a" n="1">이러타 져러탓 말이 오로 다 두리슝슝</sent>
+<sent type="main" lang="kor" page="40a" n="2">잇거나 사거나 기픈 盞에 ᄀᆞ득 부어</sent>
+<sent type="main" lang="kor" page="40a" n="3">每日에 長醉不醒ᄒᆞ면 긔 죠흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="40a" n="4">이러거든 채 어리거나 밋치거든 채 밋치거나</sent>
+<sent type="main" lang="kor" page="40a" n="5">어린 듯 밋친 듯 아ᄂᆞᆫ 듯 모로ᄂᆞᆫ 듯</sent>
+<sent type="main" lang="kor" page="40a" n="6">이런가 져런가 ᄒᆞ니 아므란 줄 몰래라</sent>
+<sent type="main" lang="kor" page="40a" n="7">世事ㅣ 삼ᄭᅥ울이라 허틀고 ᄆᆡ쳐세라</sent>
+<sent type="main" lang="kor" page="40a" n="8">거귀여 드리치고 나 몰래라 ᄒᆞ고라쟈</sent>
+<sent type="main" lang="kor" page="40a" n="9">아ᄒᆡ야 덩덕궁 북 쳐라 이야지야 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="40a" n="10">그러ᄒᆞ거니 어이 아니 그러ᄒᆞ리</sent>
+<sent type="main" lang="kor" page="40a" n="11">이리도 그러그러 져리도 그러그러</sent><!--'그러그러'에서 뒤쪽의 '그러'는 모두 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40a" n="12">아마도 그러그러ᄒᆞ니 ᄒᆞᆫ숨 계워ᄒᆞ노라</sent><!--뒤쪽의 '그러'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40a" n="13">흥흥 노래ᄒᆞ고 덩덕궁 북을 치고</sent><!--뒤쪽의 '흥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40a" n="14">宮商角徵羽를 마초리ᄭᅧᆼᄒᆞ엿ᄃᆞ니</sent>
+<sent type="main" lang="kor" page="40a" n="15">어긔고 다 齟齬ᄒᆞ니 허허 웃고 마노라</sent><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40a" n="16">萬頃 蒼波水로도 다 못 시슬 千古愁를</sent>
+<sent type="main" lang="kor" page="40a" n="17">一壺酒 가지고 오ᄂᆞᆯ이야 시서괴야</sent>
+<sent type="main" lang="kor" page="40a" n="18">太白이 이ᄒᆞᆷ으로 長醉不醒 ᄒᆞ닷다</sent>
+</pages>
+
+<pages n="40b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="40b" n="1">술을 내 즐기더냐 狂藥인줄 알건마ᄂᆞᆫ</sent><!--'알건마ᄂᆞᆫ'의 'ᄂᆞᆫ'은 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="40b" n="2">一寸肝膓에 萬斛愁 너허 두고</sent>
+<sent type="main" lang="kor" page="40b" n="3">醉ᄒᆞ여 ᄌᆞᆷ든 덧이나 시름 닛쟈 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="40b" n="4">人生이 둘가 셋가 이 몸이 네다섯가</sent>
+<sent type="main" lang="kor" page="40b" n="5">비러 온 人生에 ᄭᅮ어 온 몸 가지고셔</sent>
+<sent type="main" lang="kor" page="40b" n="6">平生에 사롤 일만 ᄒᆞ고 언제 놀려 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="40b" n="7">一定 百年산들 百年이 긔 언매라</sent>
+<sent type="main" lang="kor" page="40b" n="8">疾病憂患 더니 남ᄂᆞᆫ 날 아조 젹의</sent>
+<sent type="main" lang="kor" page="40b" n="9">두어라 非百歲人生이 아니 놀고 어이리</sent>
+<sent type="main" lang="kor" page="40b" n="10">白沙場 紅蓼邊에 구버기ᄂᆞᆫ 白鷺들아</sent>
+<sent type="main" lang="kor" page="40b" n="11">口腹을 못 몌워 뎌다지 굽니ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="40b" n="12">一身이 閑暇ᄒᆞᆯ션졍 ᄉᆞᆯ져 무슴ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="40b" n="13">쥐 ᄎᆞᆫ 쇼로기들아 ᄇᆡ 부로롸 쟈랑 마라</sent>
+<sent type="main" lang="kor" page="40b" n="14">淸江 여왼 鶴이 주리다 부를소냐</sent>
+<sent type="main" lang="kor" page="40b" n="15">내 몸이 閑暇ᄒᆞ야마ᄂᆞᆫ ᄉᆞᆯ 못 진들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="40b" n="16">내ᄒᆡ 죠타ᄒᆞ고 ᄂᆞᆷ 슬흔 일 ᄒᆞ지말며</sent>
+<sent type="main" lang="kor" page="40b" n="17">ᄂᆞᆷ이 ᄒᆞᆫ다 ᄒᆞ고 義 아니면 좃지 말니</sent>
+<sent type="main" lang="kor" page="40b" n="18">우리ᄂᆞᆫ 天性을 직희여 삼긴 대로 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="41a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="41a" n="1">듯ᄂᆞᆫ 말 보ᄂᆞᆫ 일을 事理에 비겨 보와</sent>
+<sent type="main" lang="kor" page="41a" n="2">올흐면 ᄒᆞᆯ지라도 그르면 마롤 거시</sent>
+<sent type="main" lang="kor" page="41a" n="3">平生에 말슴을 ᄀᆞᆯ희내면 므슴 是非 이시리</sent>
+<sent type="main" lang="kor" page="41a" n="4">ᄂᆞᆷ이 害ᄒᆞᆯ지라도 나ᄂᆞᆫ 아니 겨로리라</sent>
+<sent type="main" lang="kor" page="41a" n="5">ᄎᆞᆷ으면 德이오 겨로면 ᄀᆞᆺᄐᆞ리니</sent>
+<sent type="main" lang="kor" page="41a" n="6">구부미 제게 잇거니 ᄀᆞᆯ올 줄이 이시랴</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41a" n="7">가마귀 검거라 말고 ᄒᆡ오라비 셸 줄 어이</sent>
+<sent type="main" lang="kor" page="41a" n="8">검거니 셰거니 一便도 ᄒᆞᆫ져이고</sent>
+<sent type="main" lang="kor" page="41a" n="9">우리ᄂᆞᆫ 수리 두루미라 검도 셰도 아녜라</sent>
+<sent type="main" lang="kor" page="41a" n="10">넙엿ᄒᆞ쟈 ᄒᆞ니 모난 듸 ᄀᆞ일셰라</sent>
+<sent type="main" lang="kor" page="41a" n="11">두렷ᄒᆞ쟈 ᄒᆞ니 ᄂᆞᆷ의손ᄃᆡ 둘릴셰라</sent>
+<sent type="main" lang="kor" page="41a" n="12">外 두렷 內 번듯ᄒᆞ면 ᄀᆡ둘릴 줄 이시랴</sent>
+<sent type="main" lang="kor" page="41a" n="13">琵琶를 두러 메고 玉欄干에 지혀시니</sent>
+<sent type="main" lang="kor" page="41a" n="14">東風細雨에 ᄠᅳᆺ드ᄂᆞ니 桃花ㅣ로다</sent>
+<sent type="main" lang="kor" page="41a" n="15">春鳥도 送春을 슬허 百般啼를 ᄒᆞ놋다</sent>
+<sent type="main" lang="kor" page="41a" n="16">곳이 진다 ᄒᆞ고 새들아 슬허 마라</sent>
+<sent type="main" lang="kor" page="41a" n="17">ᄇᆞ람에 흣ᄂᆞᆯ리니 곳의 탓 아니로다</sent>
+<sent type="main" lang="kor" page="41a" n="18">가노라 희짓ᄂᆞᆫ 봄을 새와 므슴ᄒᆞ리오</sent>
+</pages>
+
+<pages n="41b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="41b" n="1">구룸이 無心탄 말이 아마도 虛浪ᄒᆞ다</sent>
+<sent type="main" lang="kor" page="41b" n="2">中天에 ᄯᅥ 이셔 任意로 ᄃᆞᆫ니면서</sent>
+<sent type="main" lang="kor" page="41b" n="3">구ᄐᆡ야 光明ᄒᆞᆫ 날빗츨 ᄯᆞ라가며 덥ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="41b" n="4">구룸아 너ᄂᆞᆫ 어이 ᄒᆡᆺ비츨 ᄀᆞᆷ초ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="41b" n="5">油然作雲하면 大旱에 죠커니와</sent>
+<sent type="main" lang="kor" page="41b" n="6">北風이 ᄉᆞᆯ하져 불 제 볏뉘 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="41b" n="7">ᄋᆞ자 내 少年이야 어드러로 간 거이고</sent>
+<sent type="main" lang="kor" page="41b" n="8">酒色에 ᄌᆞᆷ겨신 제 白髮과 밧괴도다</sent>
+<sent type="main" lang="kor" page="41b" n="9">이제야 아므리 ᄎᆞ즌들 다시 오기 쉬오랴</sent>
+<sent type="main" lang="kor" page="41b" n="10">半 나마 늘거시니 다시 졈든 못ᄒᆞ여도</sent>
+<sent type="main" lang="kor" page="41b" n="11">이後ㅣ나 늙지 말고 ᄆᆡ양 이만 ᄒᆞ엿고쟈</sent>
+<sent type="main" lang="kor" page="41b" n="12">白髮아 네나 짐쟉ᄒᆞ여 더듸 늙게 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="41b" n="13">ᄂᆞᆷ도 준 배 업고 바든 바도 업건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="41b" n="14">怨讐 白髮이 어더러셔 온 거이고</sent>
+<sent type="main" lang="kor" page="41b" n="15">白髮이 公道ㅣ 업도다 날을 몬져 늙킨다</sent>
+<sent type="main" lang="kor" page="41b" n="16">희여 검을지라도 희ᄂᆞᆫ 거시 셔로려든</sent>
+<sent type="main" lang="kor" page="41b" n="17">희여 못 검ᄂᆞᆫ듸 ᄂᆞᆷ의 몬져 흴 줄 어이</sent>
+<sent type="main" lang="kor" page="41b" n="18">白髮이 公道ㅣ 쟉도다 날을 몬져 ᄇᆡ얀다</sent>
+</pages>
+
+<pages n="42a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="42a" n="1">靑春 少年들아 白髮 老人 웃지 마라</sent>
+<sent type="main" lang="kor" page="42a" n="2">공번되 하ᄂᆞᆯ 아래 넨들 ᄆᆡ양 져머시랴</sent>
+<sent type="main" lang="kor" page="42a" n="3">우리도 少年 行樂이 어제론 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="42a" n="4">귀밋치 셰여시니 ᄂᆞᆷ이 늙다 ᄒᆞ려니와</sent>
+<sent type="main" lang="kor" page="42a" n="5">내 ᄆᆞ음 져믈션졍 ᄂᆞᆷ의 말 허믈ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="42a" n="6">곳과 술 죠히 너기기야 엇ᄃᆞᆫ 老人 이시리</sent><!--뒤쪽의 '기'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42a" n="7">나의 未平ᄒᆞᆫ ᄠᅳᆺ을 日月ᄭᅦ 뭇ᄌᆞᆸᄂᆞ니</sent>
+<sent type="main" lang="kor" page="42a" n="8">九萬里 長天에 무스 일 ᄇᆡ얏바셔</sent>
+<sent type="main" lang="kor" page="42a" n="9">酒色에 못 슬믠 이 몸을 수이 늙게 ᄒᆞᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="42a" n="10">金烏 玉兎들아 뉘 너를 ᄧᅩᆺ니관ᄃᆡ</sent>
+<sent type="main" lang="kor" page="42a" n="11">九萬里 長天에 허위허위 ᄃᆞᆫ니ᄂᆞᆫ다</sent><!--뒤쪽의 '허위'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42a" n="12">이後란 十里에 ᄒᆞᆫ 번식 쉬염쉬염 니거라</sent><!--뒤쪽의 '쉬염'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42a" n="13">노프나 노픈 남게 날 勸ᄒᆞ여 오려 두고</sent>
+<sent type="main" lang="kor" page="42a" n="14">이보오 벗님ᄂᆡ야 흔드지나 마르되야</sent>
+<sent type="main" lang="kor" page="42a" n="15">ᄂᆞ려져 죽기ᄂᆞᆫ 셟지 아녀 님 못 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="42a" n="16">간밤의 부던 ᄇᆞ람에 눈서리 치단 말가</sent>
+<sent type="main" lang="kor" page="42a" n="17">落落長松이 다 기우러 가노ᄆᆡ라</sent><!--뒤쪽의 '落'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="42a" n="18">ᄒᆞ믈며 못다 픤 곳이야 닐러 므슴ᄒᆞ리오</sent>
+</pages>
+
+<pages n="42b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="42b" n="1">어인 벌리완ᄃᆡ 落落長松 다 먹ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="42b" n="2">부리 긴 져고리ᄂᆞᆫ 어ᄂᆡ 곳에 가 잇ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="42b" n="3">空山에 落木聲 들릴 제 내 안 둘 듸 업세라</sent>
+<sent type="main" lang="kor" page="42b" n="4">小園 百花叢에 ᄂᆞ니ᄂᆞᆫ 나뷔들아</sent>
+<sent type="main" lang="kor" page="42b" n="5">香내를 죠히 너겨 柯枝마다 안지 마라</sent>
+<sent type="main" lang="kor" page="42b" n="6">夕陽에 숨ᄭᅮ즌 거믜 그믈 걸 여은다</sent>
+<sent type="main" lang="kor" page="42b" n="7">굼벙이 매암이 되야 ᄂᆞ래 도쳐 ᄂᆞ라올라</sent>
+<sent type="main" lang="kor" page="42b" n="8">노프나 노픈 남게 소릐ᄂᆞᆫ 죠커니와</sent>
+<sent type="main" lang="kor" page="42b" n="9">그 우희 거믜줄 이시니 그를 조심ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="42b" n="10">興亡이 有數ᄒᆞ니 滿月臺도 秋草ㅣ로다</sent>
+<sent type="main" lang="kor" page="42b" n="11">五百年 王業이 牧笛에 부쳐시니</sent>
+<sent type="main" lang="kor" page="42b" n="12">夕陽에 지나ᄂᆞᆫ 客이 눈물계워 ᄒᆞᄃᆞ라</sent>
+<sent type="main" lang="kor" page="42b" n="13">五百年 都邑地를 匹馬로 도라드니</sent>
+<sent type="main" lang="kor" page="42b" n="14">山川은 依舊ᄒᆞ되 人傑은 간 듸 업다</sent>
+<sent type="main" lang="kor" page="42b" n="15">어즈버 太平烟月이 ᄭᅮᆷ이런가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="42b" n="16">梨花에 月白ᄒᆞ고 銀漢이 三更인 제</sent>
+<sent type="main" lang="kor" page="42b" n="17">一枝春心을 子規ㅣ야 아라마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="42b" n="18">多情도 病이냥ᄒᆞ여 ᄌᆞᆷ 못 드러 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="43a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="43a" n="1">金爐에 香盡ᄒᆞ고 漏聲이 殘ᄒᆞ도록</sent>
+<sent type="main" lang="kor" page="43a" n="2">어듸 가 이셔 뉘 ᄉᆞ랑 바치다가</sent>
+<sent type="main" lang="kor" page="43a" n="3">月影이 上蘭干ᄏᆡ야 ᄆᆡᆨ 바드라 왓ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="43a" n="4">梨花雨 흣ᄲᅮ릴 제 울며 잡고 離別ᄒᆞᆫ 님</sent>
+<sent type="main" lang="kor" page="43a" n="5">秋風落葉에 저도 날 ᄉᆡᆼ각ᄂᆞᆫ가</sent>
+<sent type="main" lang="kor" page="43a" n="6">千里에 외로온 ᄭᅮᆷ만 오락가락 ᄒᆞ노매</sent>
+<sent type="main" lang="kor" page="43a" n="7">이 몸이 싀여져셔 졉동새 넉시 되야</sent>
+<sent type="main" lang="kor" page="43a" n="8">梨花 픤 柯枝 속닙헤 ᄡᆡ엿다가</sent>
+<sent type="main" lang="kor" page="43a" n="9">밤즁만 ᄉᆞᆯ하져 우러 님의 귀에 들리리라</sent><!--뒤쪽의 '리'는 재점으로 표기되어 잇음-->
+<sent type="main" lang="kor" page="43a" n="10">ᄉᆞ랑 거즛말이 님 날 ᄉᆞ랑 거즛말이</sent>
+<sent type="main" lang="kor" page="43a" n="11">ᄭᅮᆷ에 뵌닷 말이 긔 더옥 거즛말이</sent>
+<sent type="main" lang="kor" page="43a" n="12">날ᄀᆞᆺ치 ᄌᆞᆷ 아니 오면 어ᄂᆡ ᄭᅮᆷ에 뵈이리</sent>
+<sent type="main" lang="kor" page="43a" n="13">十年을 經營ᄒᆞ여 草廬 三間 지여내니</sent>
+<sent type="main" lang="kor" page="43a" n="14">나 ᄒᆞᆫ 간 ᄃᆞᆯ ᄒᆞᆫ 간에 淸風 ᄒᆞᆫ 간 맛져 두고</sent>
+<sent type="main" lang="kor" page="43a" n="15">江山은 들일 듸 업스니 둘러 두고 보리라</sent>
+<sent type="main" lang="kor" page="43a" n="16">술을 醉케 먹고 오다가 空山에 지니</sent>
+<sent type="main" lang="kor" page="43a" n="17">뉘 날 ᄭᆡ오리 天地卽衾枕이로다</sent>
+<sent type="main" lang="kor" page="43a" n="18">狂風이 細雨를 모라 ᄌᆞᆷ든 날을 ᄭᆡ와다</sent>
+</pages>
+
+<pages n="43b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="43b" n="1">비즌 술 다 머그니 먼듸셔 벗이 왓다</sent>
+<sent type="main" lang="kor" page="43b" n="2">술집은 졔연마ᄂᆞᆫ 헌 옷세 언마 주리</sent>
+<sent type="main" lang="kor" page="43b" n="3">아ᄒᆡ야 셔기지 말고 주ᄂᆞᆫ 대로 바다라</sent>
+<sent type="main" lang="kor" page="43b" n="4">三角山 푸른 빗치 中天에 소사올라</sent>
+<sent type="main" lang="kor" page="43b" n="5">鬱葱 佳氣란 象闕에 부쳐 두고</sent>
+<sent type="main" lang="kor" page="43b" n="6">江湖에 盞 잡은 늘그니란 ᄆᆡ양 醉케 ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="43b" n="7">泰山이 놉다 ᄒᆞ되 하ᄂᆞᆯ 아레 뫼히로다</sent>
+<sent type="main" lang="kor" page="43b" n="8">오르고 ᄯᅩ 오로면 못 오를 理 업건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="43b" n="9">사ᄅᆞᆷ이 제 아니 오르고 뫼흘 놉다 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="43b" n="10">十年 ᄀᆞ온 칼이 匣裏에 우노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="43b" n="11">關山을 ᄇᆞ라보며 ᄯᅢᄯᅢ로 ᄆᆞᆫ져 보니</sent><!--뒤쪽의 'ᄯᅢ'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="43b" n="12">丈夫의 爲國功勳을 어ᄂᆡ ᄯᅢ에 드리올고</sent>
+<sent type="main" lang="kor" page="43b" n="13">天下 匕首劍을 ᄒᆞᆫ듸 모하 뷔를 ᄆᆡ야</sent>
+<sent type="main" lang="kor" page="43b" n="14">南蠻北狄을 다 ᄡᅳ러 ᄇᆞ린 後에</sent>
+<sent type="main" lang="kor" page="43b" n="15">그 쇠로 홈의를 ᄆᆡᆼ그라 江上田을 ᄆᆡ리라</sent>
+<sent type="main" lang="kor" page="43b" n="16">一生에 願ᄒᆞ기를 羲皇 時節 못 난 줄이</sent>
+<sent type="main" lang="kor" page="43b" n="17">草衣를 무릅고 木實을 머글만졍</sent>
+<sent type="main" lang="kor" page="43b" n="18">人心이 淳厚ᄒᆞ던 줄을 못내 불워ᄒᆞ노라</sent>
+</pages>
+
+<pages n="44a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="44a" n="1">靑山 自負松아 네 어이 누엇ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="44a" n="2">狂風을 못 이긔여 불희 져저 누엇노라</sent>
+<sent type="main" lang="kor" page="44a" n="3">가다가 良工을 만나거든 날 옛ᄃᆞ라 ᄒᆞ고려</sent>
+<sent type="main" lang="kor" page="44a" n="4">ᄃᆞᆯ이 두렷ᄒᆞ여 碧空에 걸려시니</sent>
+<sent type="main" lang="kor" page="44a" n="5">萬古風霜에 ᄯᅥ러졈즉ᄒᆞ다마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="44a" n="6">至今히 醉客을 爲ᄒᆞ여 長照無樽ᄒᆞ노매</sent>
+<sent type="main" lang="kor" page="44a" n="7">가마귀 ᄡᅡ호ᄂᆞᆫ 골에 白鷺ㅣ야 가지마라</sent>
+<sent type="main" lang="kor" page="44a" n="8">셩낸 가마귀 흰빗ᄎᆞᆯ 새올셰라</sent>
+<sent type="main" lang="kor" page="44a" n="9">淸江에 잇것 시슨 몸을 더러일가 ᄒᆞᄂᆞ라</sent>
+<sent type="main" lang="kor" page="44a" n="10">ᄒᆡ도 나지 계면 山河로 도라 지고</sent>
+<sent type="main" lang="kor" page="44a" n="11">ᄃᆞᆯ도 보롬 後ㅣ면 ᄒᆞᆫᄀᆞ보터 이저온다</sent>
+<sent type="main" lang="kor" page="44a" n="12">世上에 富貴功名이 다 이런가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="44a" n="13">北海上 져믄 날에 울고 가ᄂᆞᆫ 져 기러기</sent>
+<sent type="main" lang="kor" page="44a" n="14">내 말슴 드러다가 金尙書ㅅ게 ᄉᆞ롸 주렴</sent>
+<sent type="main" lang="kor" page="44a" n="15">수羊이 삿기 칠 덧으란 ᄎᆞᆷ으쇼셔 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="44a" n="16">胸中에 머근 ᄠᅳᆺ을 속졀업시 못 이로고</sent>
+<sent type="main" lang="kor" page="44a" n="17">半世 紅塵에 ᄂᆞᆷ의 우음 된져이고</sent>
+<sent type="main" lang="kor" page="44a" n="18">두어라 時乎時乎니 恨ᄒᆞᆯ 줄이 이시랴</sent><!--뒤쪽의 '時乎'는 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="44b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="44b" n="1">ᄒᆡ 다 져믄 날에 지져귀ᄂᆞᆫ ᄎᆞᆷ새들아</sent>
+<sent type="main" lang="kor" page="44b" n="2">죠고마ᄒᆞᆫ 몸이 半柯枝도 足ᄒᆞ거든</sent>
+<sent type="main" lang="kor" page="44b" n="3">ᄒᆞ믈며 크나큰 수풀을 ᄭᅴ여 무슴ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="44b" n="4">假使 주글지라도 明堂이 뷘 듸 업ᄂᆡ</sent>
+<sent type="main" lang="kor" page="44b" n="5">三神山 不死藥을 다 ᄏᆡ야 머글만졍</sent>
+<sent type="main" lang="kor" page="44b" n="6">海中에 새 뫼 나거든 게 가 들려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="44b" n="7">蒼梧山 聖帝魂이 구룸 조ᄎᆞ 瀟湘에 ᄂᆞ려</sent>
+<sent type="main" lang="kor" page="44b" n="8">半夜에 흘러드러 竹間雨 되온 ᄠᅳᆺ은</sent>
+<sent type="main" lang="kor" page="44b" n="9">二妃의 千年 淚痕을 못내 시서 홈이라</sent>
+<sent type="main" lang="kor" page="44b" n="10">洞庭 ᄇᆞᆯ근 ᄃᆞᆯ이 楚懷王의 넉시 되야</sent>
+<sent type="main" lang="kor" page="44b" n="11">七百里 平에 두렷이 비쵠 ᄠᅳᆺ은</sent>
+<sent type="main" lang="kor" page="44b" n="12">屈三閭 魚腹裏忠誠을 못내 ᄇᆞᆯ켜 홈이라</sent>
+<sent type="main" lang="kor" page="44b" n="13">楚江 漁夫들아 고기 낫가 ᄉᆞᆷ지 마라</sent>
+<sent type="main" lang="kor" page="44b" n="14">屈三閭 忠魂이 魚腹裏에 드럿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="44b" n="15">아므리 鼎鑊에 ᄉᆞᆯ믄들 變ᄒᆞᆯ 줄이 이시랴</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44b" n="16">공번된 天下業을 힘으로 어들 것가</sent>
+<sent type="main" lang="kor" page="44b" n="17">秦宮室 불 질음도 오히려 無道커든</sent>
+<sent type="main" lang="kor" page="44b" n="18">ᄒᆞ믈며 義帝를 주기고 하ᄂᆞᆯ 罪를 免ᄒᆞ랴</sent>
+</pages>
+
+<pages n="45a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="45a" n="1">ᄇᆞ람에 휘엿노라 구븐 솔 웃지 마라</sent>
+<sent type="main" lang="kor" page="45a" n="2">春風에 픠온 곳이 ᄆᆡ양에 고아시랴</sent>
+<sent type="main" lang="kor" page="45a" n="3">風飄飄 雪紛紛ᄒᆞᆯ 제 네야 날을 부르리라</sent>
+<sent type="main" lang="kor" page="45a" n="4">눈 마자 휘어진 대를 뉘라셔 굽다ᄐᆞᆫ고</sent>
+<sent type="main" lang="kor" page="45a" n="5">구블 節이면 눈 속에 프를소냐</sent>
+<sent type="main" lang="kor" page="45a" n="6">아마도 細寒孤節은 너ᄲᅮᆫ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="45a" n="7">空山이 寂寞ᄒᆞᆫ듸 슬피우ᄂᆞᆫ 져 杜鵑아</sent>
+<sent type="main" lang="kor" page="45a" n="8">蜀國 興亡이 어제 오ᄂᆞᆯ 아니여ᄂᆞᆯ</sent>
+<sent type="main" lang="kor" page="45a" n="9">至今히 피나게 우러 ᄂᆞᆷ의 애를 긋나니</sent>
+<sent type="main" lang="kor" page="45a" n="10">이리도 太平聖代 져리도 聖代太平</sent>
+<sent type="main" lang="kor" page="45a" n="11">堯之日月이오 堯之乾坤이로다</sent>
+<sent type="main" lang="kor" page="45a" n="12">우리도 太平聖代에 놀고 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="45a" n="13">ᄆᆞ음아 너ᄂᆞᆫ 어이 ᄆᆡ양에 져멋ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="45a" n="14">내 늘글 적이면 넨들 아니 늘글소냐</sent>
+<sent type="main" lang="kor" page="45a" n="15">아마도 너 죳녀 ᄃᆞᆫ니다가 ᄂᆞᆷ 우일가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="45a" n="16">녯적의 이러ᄒᆞ면 形容이 나마실가</sent>
+<sent type="main" lang="kor" page="45a" n="17">愁心이 실이 되야 구뷔구뷔 ᄆᆡ쳐 이셔</sent><!--뒤쪽의 '구뷔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="45a" n="18">아므리 푸로 ᄒᆞ되 긋 간 듸를 몰래라</sent>
+</pages>
+
+<pages n="45b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="45b" n="1">泰山이 平地 되고 河海 陸地 되도록</sent>
+<sent type="main" lang="kor" page="45b" n="2">北堂 俱慶下에 忠孝로 일삼다가</sent>
+<sent type="main" lang="kor" page="45b" n="3">聖代에 稷契이 되야 늘글 뉘를 모르리라</sent>
+<sent type="main" lang="kor" page="45b" n="4">곳은 밤비에 퓌고 비즌 술 다 닉거다</sent>
+<sent type="main" lang="kor" page="45b" n="5">거문고 가진 벗이 ᄃᆞᆯ ᄒᆞᆷ긔 오마터니</sent>
+<sent type="main" lang="kor" page="45b" n="6">아ᄒᆡ야 茅簷에 ᄃᆞᆯ 올랏다 손 오ᄂᆞᆫ가 보와라</sent>
+</pages>
+
+<pages n="46a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="46a" n="1">主辱臣死ㅣ라 ᄒᆞ니 내 주검즉ᄒᆞ건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="46a" n="2">큰 칼 녀픠 ᄎᆞ고 이제도록 사랏기ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="46a" n="3">聖主의 萬德 中興을 다셔 보려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="46a" n="4">功名도 辱이러라 富貴도 슈괴러라</sent>
+<sent type="main" lang="kor" page="46a" n="5">萬頃蒼波에 白髮 漁翁 되야 이셔</sent>
+<sent type="main" lang="kor" page="46a" n="6">白日이 昭滄浪ᄒᆞᆫ 제 오명가명 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="46a" n="7">곳 지고 속닙 나니 綠陰이 소사난다</sent>
+<sent type="main" lang="kor" page="46a" n="8">솔 柯枝 것거 내여 柳絮를 ᄡᅳ리치고</sent>
+<sent type="main" lang="kor" page="46a" n="9">醉ᄒᆞ여 계유 든 ᄌᆞᆷ은 喚友鶯에 ᄭᆡ괘라</sent>
+<sent type="main" lang="kor" page="46a" n="10">대 심거 울을 삼고 솔 갓고니 亭子ㅣ로다</sent>
+<sent type="main" lang="kor" page="46a" n="11">白雲 더핀 듸 날 인ᄂᆞᆫ 줄 제 뉘 알리</sent>
+<sent type="main" lang="kor" page="46a" n="12">庭畔에 鶴 徘徊ᄒᆞ니 긔 벗인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="46a" n="13">草堂에 일이 업서 거믄고를 베고 누어</sent>
+<sent type="main" lang="kor" page="46a" n="14">太平聖代를 ᄭᅮᆷ에나 보려ᄐᆞ니</sent>
+<sent type="main" lang="kor" page="46a" n="15">門前에 數聲 漁滴이 ᄌᆞᆷ든 날을 ᄭᆡ와다</sent>
+</pages>
+
+<pages n="46b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="46b" n="1">靑山에 눈 노긴 ᄇᆞ람 건듯 불고 간 듸 업다</sent>
+<sent type="main" lang="kor" page="46b" n="2">잠간 비러다가 불리고쟈 마리 우희</sent><!--원문에는 '짐간'으로 되어 있으나 '잠간'으로 교정함-->
+<sent type="main" lang="kor" page="46b" n="3">귀밋ᄐᆡ ᄒᆡ무근 서리를 노겨 볼□ ᄒᆞ노라</sent><!--'가'로 추정됨-->
+<sent type="main" lang="kor" page="46b" n="4">어우하 날 소겨고 秋月春風 날 소겨고</sent>
+<sent type="main" lang="kor" page="46b" n="5">節節이 도라오매 有信히 너겻ᄃᆞ니</sent><!--뒤쪽의 '節'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46b" n="6">白髮란 날 다 맛지고 少年 ᄯᆞ롸 니거니</sent>
+<sent type="main" lang="kor" page="46b" n="7">人生이 可憐ᄒᆞ다 물 우희 萍草ᄀᆞᆺ치</sent>
+<sent type="main" lang="kor" page="46b" n="8">偶然히 만나셔 덧업시 여희거다</sent>
+<sent type="main" lang="kor" page="46b" n="9">이後에 다시 만나면 緣分인가 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="46b" n="10">世上 사ᄅᆞᆷ들이 人生을 둘만 너겨</sent>
+<sent type="main" lang="kor" page="46b" n="11">두고 ᄯᅩ 두고 먹고 놀 줄 모르ᄃᆞ라</sent>
+<sent type="main" lang="kor" page="46b" n="12">주근 後 滿堂 金玉이 뉘 거시라 ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="46b" n="13">이러니 져러니 ᄒᆞ고 世俗 긔별 傳치 마라</sent>
+<sent type="main" lang="kor" page="46b" n="14">ᄂᆞᆷ의 是非ᄂᆞᆫ 나의 알 배 아니로다</sent>
+<sent type="main" lang="kor" page="46b" n="15">瓦樽에 술이 닉어시면 긔 죠흔가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="46b" n="16">이러니 져러니 말고 술만 먹고 노새 그려</sent>
+<sent type="main" lang="kor" page="46b" n="17">먹다가 醉커든 머근 재 ᄌᆞᆷ을 드러</sent>
+<sent type="main" lang="kor" page="46b" n="18">醉ᄒᆞ고 ᄌᆞᆷ든 덧이나 시름 닛쟈 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="47a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="47a" n="1">술 먹고 뷔거를 저긔 먹지 마쟈 盟誓ㅣ러니</sent>
+<sent type="main" lang="kor" page="47a" n="2">盞 잡고 구버 보니 盟誓홈이 虛事ㅣ로다</sent>
+<sent type="main" lang="kor" page="47a" n="3">두어라 醉中盟誓ㅣ를 닐러 므슴ᄒᆞ리오</sent>
+<sent type="main" lang="kor" page="47a" n="4">어우하 날 죽거든 독밧츼집 東山에 무더</sent>
+<sent type="main" lang="kor" page="47a" n="5">白骨이 塵土ㅣ 도여 酒樽이나 ᄆᆡᆼ글고쟈</sent><!--'도여'의 '도'는 세필로 삽입되어 있음-->
+<sent type="main" lang="kor" page="47a" n="6">平生에 덜 먹은 맛슬 다시 다마 보리라</sent>
+<sent type="main" lang="kor" page="47a" n="7">간밤의 부던 ᄇᆞᄅᆞᆷ에 滿庭桃花ㅣ 다 지거다</sent>
+<sent type="main" lang="kor" page="47a" n="8">아ᄒᆡᄂᆞᆫ 뷔를 들고 ᄡᅳ로려 ᄒᆞᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="47a" n="9">落花ᅟᅵᆫ들 곳이 아니라 ᄡᅳ지 만들 엇ᄃᆞ리</sent>
+<sent type="main" lang="kor" page="47a" n="10">엇그제 부던 ᄇᆞ람 江湖에도 부돗ᄃᆞᆫ가</sent>
+<sent type="main" lang="kor" page="47a" n="11">滿江 紅子들이 어이구러 지내연고</sent>
+<sent type="main" lang="kor" page="47a" n="12">山林에 드런 지 오래니 消息 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="47a" n="13">大海에 觀魚躍이오 長室에 任馬飛라</sent>
+<sent type="main" lang="kor" page="47a" n="14">大丈夫ㅣ 되야 나셔 志槩를 모롤 것가</sent>
+<sent type="main" lang="kor" page="47a" n="15">엇더타 博施濟衆이 病 되옴이 이시랴</sent>
+<sent type="main" lang="kor" page="47a" n="16">어져 可憐ᄒᆞ다 宇宙ㅣ 어이 忽忙턴고</sent>
+<sent type="main" lang="kor" page="47a" n="17">南董殿 五絃琴이 어ᄂᆡ ᄯᅢ에 그처진지</sent>
+<sent type="main" lang="kor" page="47a" n="18">春秋에 風雨ㅣ 亂ᄒᆞ니 그를 슬허ᄒᆞ노라</sent>
+</pages>
+
+<pages n="47b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="47b" n="1">仁風이 부ᄂᆞᆫ 날에 鳳凰이 來儀ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="47b" n="2">滿城 桃李ᄂᆞᆫ 지ᄂᆞ니 곳이로다</sent>
+<sent type="main" lang="kor" page="47b" n="3">山林에 구전 솔이야 곳이 잇사 져 보랴</sent>
+<sent type="main" lang="kor" page="47b" n="4">잘새ᄂᆞᆫ 다 ᄂᆞ라들고 새 ᄃᆞᆯ은 도다온다</sent>
+<sent type="main" lang="kor" page="47b" n="5">외나모ᄃᆞ리고 홀로 가ᄂᆞᆫ 져 禪師ㅣ야</sent>
+<sent type="main" lang="kor" page="47b" n="6">네 졀이 언매나 멀관ᄃᆡ 遠鐘聲이 들리ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="47b" n="7">風霜이 섯거 친 날에 ᄀᆞᆺ 픠온 黃菊花를</sent>
+<sent type="main" lang="kor" page="47b" n="8">金盆에 ᄀᆞ득 다마 玉堂에 보내오니</sent>
+<sent type="main" lang="kor" page="47b" n="9">桃李야 곳이오냥 마라 님의 ᄠᅳᆺ을 알괘라</sent>
+<sent type="main" lang="kor" page="47b" n="10">가마귀 검다 ᄒᆞ고 白鷺ㅣ야 웃지 마라</sent>
+<sent type="main" lang="kor" page="47b" n="11">것치 거믄들 속조차 거믈소냐</sent>
+<sent type="main" lang="kor" page="47b" n="12">아마도 것 희고 속 검을슨 너ᄲᅮᆫ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="47b" n="13">煤山閣 寂寞ᄒᆞᆫ듸 草色만 프르럿고</sent>
+<sent type="main" lang="kor" page="47b" n="14">天壽陵 뷔여시니 ᄎᆞᆫ 구룸 ᄌᆞᆷ겨셰라</sent>
+<sent type="main" lang="kor" page="47b" n="15">어즈버 古國 興廢를 못내 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="47b" n="16">世上 사ᄅᆞᆷ들이 입들만 셩ᄒᆞ여셔</sent>
+<sent type="main" lang="kor" page="47b" n="17">제 허믈 젼혀 닛고 ᄂᆞᆷ의 흉보ᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="47b" n="18">ᄂᆞᆷ의 흉보거라 말고 제 허물을 고치고쟈</sent>
+</pages>
+
+<pages n="48a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="48a" n="1">酒客이 淸濁을 ᄀᆞᆯ희랴 ᄃᆞ나 ᄡᅳ나 마고 걸러</sent>
+<sent type="main" lang="kor" page="48a" n="2">잡거니 勸ᄒᆞ거니 量대로 머그리라</sent>
+<sent type="main" lang="kor" page="48a" n="3">醉ᄒᆞ고 草堂 ᄇᆞᆯ근 ᄃᆞᆯ에 누어신들 엇더라</sent>
+<sent type="main" lang="kor" page="48a" n="4">夕陽에 醉興을 계워 나귀 등에 실려시니</sent>
+<sent type="main" lang="kor" page="48a" n="5">十里 溪山이 夢裏에 지내여다</sent>
+<sent type="main" lang="kor" page="48a" n="6">어듸셔 數聲漁笛이 ᄌᆞᆷ든 날을 ᄭᆡ와라</sent>
+<sent type="main" lang="kor" page="48a" n="7">叩馬諫 못 일워든 殷日月에 못 죽던가</sent>
+<sent type="main" lang="kor" page="48a" n="8">首陽山 고사리 긔 뉘 ᄯᅡ헤 나닷 말고</sent>
+<sent type="main" lang="kor" page="48a" n="9">아므리 푸새엣 거신들 먹을 줄이 이시랴</sent>
+<sent type="main" lang="kor" page="48a" n="10">周公도 聖人이샷다 世上 사ᄅᆞᆷ 드러스라</sent>
+<sent type="main" lang="kor" page="48a" n="11">文王의 아들이오 武王의 아이로되</sent>
+<sent type="main" lang="kor" page="48a" n="12">平生에 一毫 驕氣를 내와 뵈미 업ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="48a" n="13">南八兒 南兒ㅣ 死已연졍 不可以不義屈矣여다</sent>
+<sent type="main" lang="kor" page="48a" n="14">웃고 對答ᄒᆞ되 公이 有言敢不死아</sent>
+<sent type="main" lang="kor" page="48a" n="15">千古에 눈물 둔 英雄이 몃몃 줄을 지올고</sent>
+<sent type="main" lang="kor" page="48a" n="16">豪華코 富貴키야 信陵君만 ᄒᆞᆯ가마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="48a" n="17">百年 못ᄒᆞ야셔 무덤 우희 밧츨 가니</sent>
+<sent type="main" lang="kor" page="48a" n="18">ᄒᆞ믈며 녀나믄 丈夫ㅣ야 닐러 무슴ᄒᆞ리오</sent>
+</pages>
+
+<pages n="48b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="48b" n="1">엇그제 쥐비즌 술을 酒桶잇재 메고 나니</sent>
+<sent type="main" lang="kor" page="48b" n="2">집안 아ᄒᆡ들히 허허 쳐 웃ᄂᆞᆫ괴야</sent><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48b" n="3">江湖에 봄 간다 ᄒᆞ니 餞送ᄒᆞ려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="48b" n="4">겨월날 ᄃᆞ스ᄒᆞᆫ 볏츨 님 계신 듸 비최고쟈</sent>
+<sent type="main" lang="kor" page="48b" n="5">봄 미나리 ᄉᆞᆯ진 마슬 님의게 드리고쟈</sent>
+<sent type="main" lang="kor" page="48b" n="6">님이야 무서시 업스리마ᄂᆞᆫ 내 못 니저 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="48b" n="7">어져 世上 사ᄅᆞᆷ 올흔 일도 못다 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="48b" n="8">구ᄐᆡ야 그른 일로 업슨 허믈 싯ᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="48b" n="9">우리ᄂᆞᆫ 이런 줄 아라셔 올흔 일만 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="48b" n="10">白髮이 功名이런들 사ᄅᆞᆷ마다 ᄃᆞ톨지니</sent>
+<sent type="main" lang="kor" page="48b" n="11">날 ᄀᆞᆺ튼 愚拙은 늘거도 못 볼랏다</sent>
+<sent type="main" lang="kor" page="48b" n="12">世上에 至極ᄒᆞᆫ 公道ᄂᆞᆫ 白髮인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="48b" n="13">世事를 내 아더냐 가리라 渭水濱에</sent>
+<sent type="main" lang="kor" page="48b" n="14">벗이 날 ᄭᅴ다 山水조차 날을 ᄭᅴ랴</sent>
+<sent type="main" lang="kor" page="48b" n="15">江湖에 一竿漁夫ㅣ 되야 待天時를 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="48b" n="16">言忠信 行篤敬ᄒᆞ고 그른 일 아니ᄒᆞ면</sent>
+<sent type="main" lang="kor" page="48b" n="17">내 몸에 害 업고 ᄂᆞᆷ 아니 무이ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="48b" n="18">行ᄒᆞ고 餘力이 잇거든 學文조차 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="49a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="49a" n="1">대쵸 볼 블글 柯枝 에후루혀 ᄀᆞᆯ희 ᄯᆞ고</sent>
+<sent type="main" lang="kor" page="49a" n="2">올밤 벙근 柯枝 휘두두려 ᄀᆞᆯ희 주어</sent>
+<sent type="main" lang="kor" page="49a" n="3">벗 모화 草堂에 드러가니 술이 풍풍 이셰라</sent><!--뒤쪽의 '풍'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49a" n="4">외야도 올 타ᄒᆞ고 올희야도 외다 ᄒᆞ니</sent>
+<sent type="main" lang="kor" page="49a" n="5">世上 人事를 아마도 모를로다</sent>
+<sent type="main" lang="kor" page="49a" n="6">ᄎᆞᆯ하리 내 왼 쳬ᄒᆞ고 ᄂᆞᆷ을 올타 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="49a" n="7">百年을 可使人人壽ㅣ라도 憂樂이 中分未百年을</sent>
+<sent type="main" lang="kor" page="49a" n="8">ᄒᆞ믈며 百年 반듯기 어려오니</sent>
+<sent type="main" lang="kor" page="49a" n="9">두어라 百年前ᄭᆞ지란 醉코 놀려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="49a" n="10">桃花 梨花 杏花 芳草들아 一年 春光 恨치마라</sent>
+<sent type="main" lang="kor" page="49a" n="11">너희ᄂᆞᆫ 그리ᄒᆞ여도 興天地無窮이라</sent>
+<sent type="main" lang="kor" page="49a" n="12">우리ᄂᆞᆫ 百歲ㅅᄲᅮᆫ이매 그를 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="49a" n="13">楚覇王 壯ᄒᆞᆫ ᄠᅳᆺ도 죽기도곤 離別 셜어</sent>
+<sent type="main" lang="kor" page="49a" n="14">玉帳 悲歌에 눈믈 지여시나</sent>
+<sent type="main" lang="kor" page="49a" n="15">至今히 烏江 風浪에 우닷 말은 업세라</sent>
+<sent type="main" lang="kor" page="49a" n="16">ᄀᆞ르지나 셰지낫 즁에 주근 後ㅅ면 내 아ᄃᆞ냐</sent>
+<sent type="main" lang="kor" page="49a" n="17">주근 무덤 우희 밧츨 가나 논을 ᄆᆡ나</sent>
+<sent type="main" lang="kor" page="49a" n="18">酒不到劉伶墳上土ㅣ니 아니 놀고 어이리</sent>
+</pages>
+
+<pages n="49b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="49b" n="1">말ᄒᆞ기 죠타 ᄒᆞ고 ᄂᆞᆷ의 말을 마롤 거시</sent>
+<sent type="main" lang="kor" page="49b" n="2">ᄂᆞᆷ의 말 내 ᄒᆞ면 ᄂᆞᆷ도 내 말ᄒᆞᄂᆞᆫ 거시</sent>
+<sent type="main" lang="kor" page="49b" n="3">말로셔 말이 만흐니 말 모로미 죠해라</sent>
+<sent type="main" lang="kor" page="49b" n="4">가더니 니즈냥ᄒᆞ여 ᄭᅮᆷ에도 아니 뵌다</sent><!--뒤쪽의 '니'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="49b" n="5">현마 님이야 그 덧에 니저시랴</sent>
+<sent type="main" lang="kor" page="49b" n="6">내 ᄉᆡᆼ각 애쉬온 젼ᄎᆞ로 님의 타슬 삼노라</sent>
+<sent type="main" lang="kor" page="49b" n="7">섬ᄭᅥᆷ고 놀라올슨 秋天에 기러기로다</sent>
+<sent type="main" lang="kor" page="49b" n="8">너 ᄂᆞ라 나올 제 님이 分明 아라마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="49b" n="9">消息을 못 미처 ᄆᆡᆫ지 우러 녤만 ᄒᆞᄂᆞ다</sent>
+<sent type="main" lang="kor" page="49b" n="10">冬至ㅅᄃᆞᆯ 밤 기닷 말이 나ᄂᆞᆫ 니론 거즛말이</sent>
+<sent type="main" lang="kor" page="49b" n="11">님 오신 날이면 ᄒᆞᄂᆞᆯ조차 무이 너겨</sent>
+<sent type="main" lang="kor" page="49b" n="12">자ᄂᆞᆫ ᄃᆞᆰ 일 ᄭᆡ와 울려 님 가시게 하ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="49b" n="13">雪月이 滿窓ᄒᆞᆫ듸 ᄇᆞ람아 부지 마라</sent>
+<sent type="main" lang="kor" page="49b" n="14">曳履聲 아닌 줄을 判然히 알건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="49b" n="15">그립고 아쉬온 적이면 ᄒᆡᆼ혀 긘가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="49b" n="16">窓 밧ᄀᆡ 셧ᄂᆞᆫ 燭불 눌과 離別ᄒᆞ엿관ᄃᆡ</sent>
+<sent type="main" lang="kor" page="49b" n="17">눈물 흘리며 속 ᄐᆞᄂᆞᆫ 줄 모로ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="49b" n="18">우리도 져 燭불 ᄀᆞ틔여 속 ᄐᆞᄂᆞᆫ 줄 몰래라</sent>
+</pages>
+
+<pages n="50a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="50a" n="1">져 건너 져 뫼흘 보니 눈 와시니 다 희거다</sent>
+<sent type="main" lang="kor" page="50a" n="2">져 눈곳 노그면 프른 빗치 되련마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="50a" n="3">희온 後 못 검ᄂᆞᆫ 거슨 白髮인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="50a" n="4">감쟝새 쟉다 ᄒᆞ고 大鵬아 웃지 마라</sent>
+<sent type="main" lang="kor" page="50a" n="5">九萬里 長天을 너도 ᄂᆞᆯ고 저도 ᄂᆞᆫ다</sent>
+<sent type="main" lang="kor" page="50a" n="6">두어라 一般飛鳥ㅣ니 네오 긔오 다르랴</sent>
+<sent type="main" lang="kor" page="50a" n="7">越相國 范小伯이 名遂功成 못ᄒᆞᆫ 젼에</sent>
+<sent type="main" lang="kor" page="50a" n="8">五湖烟月이 죠흔 줄 아라마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="50a" n="9">西施를 싯노라 ᄒᆞ여 느저 도라 가니라</sent>
+<sent type="main" lang="kor" page="50a" n="10">술 먹지 마쟈 ᄒᆞ니 술이라셔 제 ᄯᆞ론다</sent>
+<sent type="main" lang="kor" page="50a" n="11">먹ᄂᆞᆫ 내 왼가 ᄯᆞ로ᄂᆞᆫ 술이 왼가</sent>
+<sent type="main" lang="kor" page="50a" n="12">盞 잡고 ᄃᆞᆯᄃᆞ려 問ᄂᆞ니 뉘야 왼고 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="50a" n="13">天地도 唐虞ㅅ 적 天地 日月도 唐虞ㅅ 적 日月</sent>
+<sent type="main" lang="kor" page="50a" n="14">天地 日月이 古今에 唐虞ㅣ로되</sent>
+<sent type="main" lang="kor" page="50a" n="15">엇더타 世上 人事ᄂᆞᆫ 나날 달라 가ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="50a" n="16">龍ᄀᆞᆺ치 한 것ᄂᆞᆫ ᄆᆞᆯ게 자 나믄 매를 밧고</sent>
+<sent type="main" lang="kor" page="50a" n="17">夕陽 山路로 개 ᄃᆞ리고 드러가니</sent>
+<sent type="main" lang="kor" page="50a" n="18">아마도 丈夫의 노리ᄂᆞᆫ 이 죠흔가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="50b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="50b" n="1">治天下 五十年에 不知왜라 天下事를</sent>
+<sent type="main" lang="kor" page="50b" n="2">億兆蒼生 엿고쟈 願이러냐</sent>
+<sent type="main" lang="kor" page="50b" n="3">康衢에 童謠를 드르니 太平인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="50b" n="4">南薰殿 ᄃᆞᆯ ᄇᆞᆯ근 밤의 八元八凱 ᄃᆞ리시고</sent>
+<sent type="main" lang="kor" page="50b" n="5">五絃琴 一聲에 解吾民之慍兮로다</sent>
+<sent type="main" lang="kor" page="50b" n="6">우리도 聖主를 뫼으와 同樂太平ᄒᆞ리라</sent>
+</pages>
+
+<pages n="51a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="51a" n="1">조오다가 낙대를 일코 춤추다가 되롱이를 일헤</sent>
+<sent type="main" lang="kor" page="51a" n="2">늘근의 망녕을 白鷗ㅣ야 웃지마라</sent>
+<sent type="main" lang="kor" page="51a" n="3">져 건너 十里 桃花에 春興을 계워하노라</sent>
+<sent type="main" lang="kor" page="51a" n="4">ᄃᆞᆺᄂᆞᆫ ᄆᆞᆯ도 誤往ᄒᆞ면 셔고 셧ᄂᆞᆫ 쇼도 타 ᄒᆞ면 간다</sent>
+<sent type="main" lang="kor" page="51a" n="5">深意山 모진 범도 경셰ᄒᆞ면 도셔ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="51a" n="6">각시ᄂᆡ 엇더니완ᄃᆡ 경셰를 不聽ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="51a" n="7">물 아레 그림자 지니 ᄃᆞ리 우희 쥬ᇰ이 간다</sent>
+<sent type="main" lang="kor" page="51a" n="8">져 쥬ᇰ아 게 서거라 너 가ᄂᆞᆫ 듸 무러 보쟈</sent>
+<sent type="main" lang="kor" page="51a" n="9">손으로 흰 구름 ᄀᆞ르치고 말 아니코 간다</sent>
+<sent type="main" lang="kor" page="51a" n="10">岩畔雪中 孤竹 반갑도 반가왜라</sent>
+<sent type="main" lang="kor" page="51a" n="11">뭇ᄂᆞ니 孤竹아 孤竹君의 네 엇더닌</sent>
+<sent type="main" lang="kor" page="51a" n="12">首陽山 萬古淸風에 夷齊를 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="51a" n="13">ᄉᆞ랑 ᄉᆞ랑 긴긴 ᄉᆞ랑 ᄀᆡ쳔ᄀᆞ치 내내 ᄉᆞ랑</sent><!--두 번째 'ᄉᆞ랑'과 '긴긴'에서 뒤쪽의 '긴', '내내'에서 뒤쪽의 '내'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51a" n="14">九萬里 長空에 넌즈러지고 남ᄂᆞᆫ ᄉᆞ랑</sent>
+<sent type="main" lang="kor" page="51a" n="15">아마도 이 님의 ᄉᆞ랑은 ᄀᆞ업슨가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="51a" n="16">물 애래 셰가랑 모래 아무리 ᄇᆞᆲ다 바자최 나며</sent>
+<sent type="main" lang="kor" page="51a-51b" n="17">님이 날을 아무리 괴다 내 아더냐 님의 안흘</sent><!--아^더냐-->
+</pages>
+
+<pages n="51b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="51b" n="1">狂風에 지부친 沙工 ᄀᆞ치 기픠를 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="51b" n="2">ᄉᆞ랑이 엇더터니 두렷더냐 넙엿더냐</sent>
+<sent type="main" lang="kor" page="51b" n="3">기더냐 쟈르더냐 발을러냐 자힐러냐</sent>
+<sent type="main" lang="kor" page="51b" n="4">지멸이 긴 줄은 모르되 애 그츨 만ᄒᆞ더라</sent>
+<sent type="main" lang="kor" page="51b" n="5">오ᄂᆞᆯ도 죠흔 날이오 이곳도 죠흔 곳이</sent>
+<sent type="main" lang="kor" page="51b" n="6">죠흔 날 죠흔 곳에 죠흔 사람 만나 이셔</sent>
+<sent type="main" lang="kor" page="51b" n="7">죠흔 술 죠흔 안쥬에 죠히 놀미 죠해라</sent>
+<sent type="main" lang="kor" page="51b" n="8">淸明時節 雨紛紛ᄒᆞᆯ 제 나귀 목에 돈을 걸고</sent>
+<sent type="main" lang="kor" page="51b" n="9">酒家ㅣ 어듸ᄆᆡ오 뭇노라 牧童들아</sent>
+<sent type="main" lang="kor" page="51b" n="10">져 건너 杏花ㅣ ᄂᆞᆯ니니 게가 무러 보읍소</sent><!--뒤쪽의 '니'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51b" n="11">靑山도 절로절로 綠水도 절로절로</sent><!--'절로절로'에서 뒤쪽의 '절로'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51b" n="12">山 절로절로 水 절로절로 山水間에 나도 절로</sent><!--'절로절로'에서 뒤쪽의 '절로'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51b" n="13">두어라 절로 ᄌᆞ란 몸이 늙기도 절로절로</sent><!--'절로절로'에서 뒤쪽의 '절로'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51b" n="14">ᄒᆞᆫ 盞 먹새 그려 ᄯᅩ ᄒᆞᆫ 盞 먹새 그려 곳 것거 算 노코 無盡無盡 먹새 그려</sent>
+<sent type="main" lang="kor" page="51b-52a" n="15">이 몸 주근 後에 지게 우희 거적 더퍼 주리혀 ᄆᆡ여 가나 流蘇實帳에 萬人이 우러 녜나 어옥새 속새 덥가나무 白楊 수페 가기곳 가면 누른 ᄒᆡ 흰 ᄃᆞᆯ ᄀᆞᄂᆞᆫ 비 굴근 눈 쇼쇼리 ᄇᆞ람 불 제 뉘 ᄒᆞᆫ 盞 먹쟈 ᄒᆞᆯ고</sent><!--流蘇實帳에 ^ 萬人이--><!--'쇼쇼리'에서 뒤쪽의 '쇼'는 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="52a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="52a" n="1">ᄒᆞ믈며 무덤 우희 ᄌᆡᆫ나비 ᄑᆞ람 불 제 뉘우ᄎᆞᆫ들 엇지리</sent>
+<sent type="main" lang="kor" page="52a" n="2">千秋前 尊貴키야 孟嘗君만 ᄒᆞᆯ가마ᄂᆞᆫ 千秋後 寃痛ᄒᆞᆷ이 孟嘗君이 더옥 셟다</sent>
+<sent type="main" lang="kor" page="52a-52b" n="3">食客이 젹돗ᄃᆞᆫ가 名聲이 괴요ᄐᆞᆫ가 개 盜賊 ᄃᆞᆰ의 우름 人力으로 사라나셔 말이야 주거지여 무덤 우희 가싀 나니 樵童牧竪들이 그 우흐로 것니며셔 슬픈 노래 ᄒᆞᆫ 曲調를 부르리라 혜여실가 雍門調 一曲琴에 孟嘗君의 한숨이 오로ᄂᆞᆫ 듯 ᄂᆞ리ᄂᆞᆫ 듯</sent><!--우^흐로-->
+</pages>
+
+<pages n="52b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="52b" n="1">아ᄒᆡ야 거문고 쳥쳐라 사라신 제 놀리라</sent>
+</pages>
+
+<pages n="53a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="53a" n="1">江原道 皆骨山 감도라 드러 鍮店졀 뒤헤 우둑 션 전나모 긋헤</sent>
+<sent type="main" lang="kor" page="53a" n="2">숭구르혀 안즌 白松骨이도 아므려나 자바 질드려 ᄭᅯᆼ山行 보내ᄂᆞᆫ 듸</sent>
+<sent type="main" lang="kor" page="53a" n="3">우리ᄂᆞᆫ 새 님 거러 두고 질 못 드려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="53a" n="4">金化ㅣ 金城 슈슛대 半 단만 어더 죠고만 말마치 움을 뭇고</sent>
+<sent type="main" lang="kor" page="53a" n="5">조쥭 니쥭 白楊箸로 지거 자내 자소 나ᄂᆞᆫ 매 서로 勸ᄒᆞᆯ망졍</sent>
+<sent type="main" lang="kor" page="53a" n="6">一生에 離別 뉘 모로미 긔 願인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="53a" n="7">人生 시른 수레 가거ᄂᆞᆯ 보고 온다</sent>
+<sent type="main" lang="kor" page="53a" n="8">七十 고개 너머 八十 드르흐로 진동한동 건너가거ᄂᆞᆯ 보고 왓노라</sent>
+<sent type="main" lang="kor" page="53a" n="9">다 가기ᄂᆞᆫ 가ᄃᆞ라마ᄂᆞᆫ 少年 行樂을 못내 닐러 ᄒᆞ더라</sent>
+</pages>
+
+<pages n="53b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="53b" n="1">두고 가ᄂᆞᆫ의 안과 보내고 잇ᄂᆞᆫ의 안과</sent>
+<sent type="main" lang="kor" page="53b" n="2">두고 가ᄂᆞᆫ 이ᄂᆞᆫ 雪擁藍關에 馬不前ᄲᅮᆫ이여니</sent>
+<sent type="main" lang="kor" page="53b" n="3">보내고 잇ᄂᆞᆫ의 안흔 芳草年年에 恨不窮이로다</sent><!--뒤쪽의 '年'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53b" n="4">東山 昨日雨에 老謝와 바독 두고</sent>
+<sent type="main" lang="kor" page="53b" n="5">草堂 今夜月에 謫仙을 만나 酒一斗 詩百篇이로다</sent>
+<sent type="main" lang="kor" page="53b" n="6">來日은 陌上靑樓에 杜陵豪 邯鄲娼과 큰 못ᄀᆞ지 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="53b" n="7">李太白의 酒量은 긔 엇더ᄒᆞ여 一日須傾 三百杯ᄒᆞ며</sent>
+<sent type="main" lang="kor" page="53b" n="8">杜牧之의 風度ᄂᆞᆫ 긔 엇더ᄒᆞ야 醉過楊州ㅣ 橘滿車런고</sent>
+<sent type="main" lang="kor" page="53b" n="9">아마도 이 둘의 風采ᄂᆞᆫ 못내 부러ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="53b" n="10">項羽ㅣ ᄌᆞ컨 天下壯士ㅣ랴마ᄂᆞᆫ 虞美人 離別 泣數行下ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="53b" n="11">唐明皇이 ᄌᆞ컨 濟世英主ㅣ랴마ᄂᆞᆫ 楊貴妃 離別에 우럿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="53b" n="12">ᄒᆞ믈며 녀나믄 丈夫ㅣ야 닐러 무슴ᄒᆞ리오</sent>
+</pages>
+
+<pages n="54a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="54a" n="1">靑개고리 腹疾ᄒᆞ여 주근 날 □의 金두텁 花郞이 즌호고새남 갈싀</sent><!--'밤'으로 추정됨-->
+<sent type="main" lang="kor" page="54a" n="2">靑묍독 겨대ᄂᆞᆫ 杖鼓 던더러쿵 ᄒᆞᄂᆞᆫ듸 黑묍독 典樂이 져 힐니리 ᄒᆞᆫ다</sent>
+<sent type="main" lang="kor" page="54a" n="3">어듸셔 돌 진 가재는 舞鼓를 둥둥 치ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="54a" n="4">大丈夫ㅣ 天地間에 ᄒᆡ올 이 바히 업다</sent>
+<sent type="main" lang="kor" page="54a" n="5">글을 ᄒᆞ쟈 ᄒᆞ니 人生識字ㅣ 憂患始오 칼 ᄡᅳ쟈 ᄒᆞ니 乃知兵者ㅣ 是凶器로다</sent>
+<sent type="main" lang="kor" page="54a" n="6">ᄎᆞᆯ하리 靑樓酒肆로 오락가락 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="54a" n="7">世上 富貴人들아 貧寒士를 웃지 마라</sent>
+<sent type="main" lang="kor" page="54a" n="8">石富萬財로 匹夫에 긋치고 顔貧一瓢도 聖賢에 니르시니</sent>
+<sent type="main" lang="kor" page="54a" n="9">내 몸이 貧寒ᄒᆞ야마ᄂᆞᆫ 내 길을 닥그면 ᄂᆞᆷ의 富貴 부르랴</sent>
+<sent type="main" lang="kor" page="54a" n="10">月黃昏 계여 간 날에 定處 업시 나간 님이</sent>
+<sent type="main" lang="kor" page="54a" n="11">白馬金鞭으로 어듸 가 ᄃᆞᆫ니다가 酒色에 ᄌᆞᆷ기여 도라올 줄 니젓ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="54a" n="12">獨宿孤房ᄒᆞ여 長相思 淚如雨에 轉輾不寢 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="54b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="54b" n="1">ᄋᆞ자 나 ᄡᅳ던 되黃毛筆을 首陽梅月을 흠벅 지거</sent>
+<sent type="main" lang="kor" page="54b" n="2">窓前에 언젓더니 ᄃᆡᆨᄃᆡ글 구우러 ᄯᅩᆨ ᄂᆞ려지거고 이제 도라가면 어들 법 잇건마ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="54b" n="3">아모나 어더 가져셔 그려 보면 알리라</sent>
+<sent type="main" lang="kor" page="54b" n="4">梨花에 露濕도록 뉘게 잡혀 못 오ᄃᆞᆫ고</sent>
+<sent type="main" lang="kor" page="54b" n="5">오쟈락 뷔혀 잡고 가지 마소 ᄒᆞᄂᆞᆫ듸 無端히 ᄯᅥᆯ치고 오쟈 ᄒᆞᆷ도 어렵더라</sent>
+<sent type="main" lang="kor" page="54b" n="6">져 님아 네 안흘 져버 보스라 네오 긔오 다르랴</sent>
+<sent type="main" lang="kor" page="54b" n="7">어이려뇨 어이려뇨 싀어마님아 어이려뇨</sent>
+<sent type="main" lang="kor" page="54b" n="8">쇼대남진의 밥을 담다가 놋쥬걱 ᄌᆞᆯ를 부르쳐시니 이를 어이ᄒᆞ려뇨 싀어마님아</sent>
+<sent type="main" lang="kor" page="54b" n="9">져 아기하 걱졍 마스라 우리도 져머신 제 만히 것거 보왓노라</sent>
+<sent type="main" lang="kor" page="54b" n="10">ᄇᆞ른갑이라 ᄒᆞᄂᆞᆯ로 ᄂᆞᆯ며 두더쥐라 ᄯᅡ흐로 들랴</sent>
+<sent type="main" lang="kor" page="54b" n="11">금죵달이 鐵網에 걸려 플덕플덕 프드덕이니 ᄂᆞᆯ다 긜다 네 어드로 갈다</sent><!--뒤쪽의 '플덕'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54b" n="12">우리도 새 님 거러 두고 플더겨 볼가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="55a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="55a" n="1">각시ᄂᆡ 玉 ᄀᆞᆺ튼 가슴을 어이 구러 다혀 볼고</sent>
+<sent type="main" lang="kor" page="55a" n="2">綿紬紫芝 쟉져구리 속에 깁젹삼 안셥히 되되여 죤득죤득 대히고지고</sent><!--뒤쪽의 '죤득'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55a" n="3">잇다감 ᄯᆞᆷ 나 붓닐 제 ᄯᅥ힐 뉘를 모르리라</sent>
+<sent type="main" lang="kor" page="55a" n="4">솔 아레 에구븐 길로 셋 가ᄂᆞᆫ듸 말잿 즁아</sent>
+<sent type="main" lang="kor" page="55a" n="5">人間離別 獨宿孤房 삼긴 부쳐 어ᄂᆡ 졀에 안젓ᄃᆞ니 문노라 말잿중아</sent>
+<sent type="main" lang="kor" page="55a" n="6">小僧은 아읍지 못ᄒᆞ오니 샹좌 누의 ᄋᆞ나이다</sent>
+<sent type="main" lang="kor" page="55a" n="7">淸風明月 知水仁山 鶴髮烏巾 大賢君子</sent>
+<sent type="main" lang="kor" page="55a" n="8">辛野叟 琅琊翁이 大東에 다시 나 松桂幽栖에 紫芝를 노래ᄒᆞ여 逸趣ㅣ도 노프실샤</sent>
+<sent type="main" lang="kor" page="55a" n="9">비ᄂᆞ니 經綸大志로 聖主를 도와 治國安民ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="55a" n="10">白雲은 千里萬里 明月은 前溪後溪</sent>
+<sent type="main" lang="kor" page="55a" n="11">罷釣歸來ᄒᆞᆯ 제 낫근 고기 ᄭᅯ여 들고 斷橋로 건너 杏花 ᄇᆞ라보며 酒家로 도라드ᄂᆞᆫ 져 늘그니</sent>
+<sent type="main" lang="kor" page="55a" n="12">眞實로 네 興味 언매오 갑 못 칠가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="55b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="55b" n="1">深意山 세네 바회 휘도라 감도라 들 제</sent>
+<sent type="main" lang="kor" page="55b" n="2">五六月 낫 계즉만 살어름 지픤 우희 즌서리 섯거 치고 자최눈 ᄲᅮ렷거ᄂᆞᆯ 보왓ᄂᆞᆫ가 님아 님아</sent><!--뒤쪽의 '님아'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55b" n="3">온 놈이 온 말을 ᄒᆞ여도 님이 짐쟉ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="55b" n="4">日月星辰도 天皇氏ㅅ 적 日月星辰 山河土地도 地皇氏ㅅ 적 山河土地</sent>
+<sent type="main" lang="kor" page="55b" n="5">日月星辰 山河土地 다 天皇氏 地皇氏 적과 ᄒᆞᆫ가지로되</sent>
+<sent type="main" lang="kor" page="55b" n="6">사ᄅᆞᆷ은 므슴 緣故로 人皇氏 적 사ᄅᆞᆷ이 업ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="55b" n="7">一定 百年 살 줄 알면 酒色 ᄎᆞᆷ다 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="55b" n="8">ᄒᆡᆼ혀 ᄎᆞᆷ은 後에 百年을 못 살면 긔 아니 애도론가</sent>
+<sent type="main" lang="kor" page="55b" n="9">人命이 在于天定이라 酒色을 ᄎᆞᆷ은들 百年 살기 쉬우랴</sent>
+<sent type="main" lang="kor" page="55b" n="10">어우하 楚覇王이야 애ᄃᆞᆲ고도 애들애라</sent>
+<sent type="main" lang="kor" page="55b" n="11">力拔山 氣盖世로 仁義를 行ᄒᆞ여 義帝를 아니 주기던들</sent>
+<sent type="main" lang="kor" page="55b" n="12">天下에 沛公이 열 이셔도 束手無策 ᄒᆞᆯ랏다</sent>
+</pages>
+
+<pages n="56a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="56a" n="1">北邙山川이 긔 엇더ᄒᆞ여 古今 사ᄅᆞᆷ 다 가ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="56a" n="2">秦始皇 漢武帝도 採藥救仙ᄒᆞ야 부듸 아니 가랴 ᄒᆞ엿더니</sent>
+<sent type="main" lang="kor" page="56a" n="3">엇더타 驪山風雨와 茂陵松栢을 못내 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="56a" n="4">누고셔 大醉ᄒᆞᆫ 後ㅣ면 온갓 시름 다 닛ᄂᆞᆫ다 턴고</sent>
+<sent type="main" lang="kor" page="56a" n="5">望美人於天一方ᄒᆞᆯ 제면 百盞 머거도 寸功이 젼혀 업ᄂᆡ</sent>
+<sent type="main" lang="kor" page="56a" n="6">ᄒᆞ믈며 白髮倚門望을 더옥 슬허ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="56a" n="7">져멋고쟈 져멋고쟈 열다섯만 져멋고쟈</sent>
+<sent type="main" lang="kor" page="56a" n="8">에엿분 얼골이 냇ᄀᆞ에 셧ᄂᆞᆫ 垂楊버드나모 광대등걸이 되연졔고</sent>
+<sent type="main" lang="kor" page="56a" n="9">우리도 少年 行樂이 어제론 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="56a" n="10">술 먹어 病 업ᄂᆞᆫ 藥과 色ᄒᆞ여 長生ᄒᆞᆯ 藥을</sent>
+<sent type="main" lang="kor" page="56a" n="11">갑 주고 살쟉이면 盟誓ㅣ개지 아모만들 관계ᄒᆞ랴</sent>
+<sent type="main" lang="kor" page="56a" n="11">갑 주고 못 살 藥이니 뉜츼 아라 가며 소로소로 ᄒᆞ여 百年ᄭᆞ지 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="56b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="56b" n="1">粉壁紗窓 三月更에 傾國色에 佳人을 만나</sent>
+<sent type="main" lang="kor" page="56b" n="2">翡翠衾 나소 긋고 琥珀枕 마조 볘고 잇ᄀᆞ지 서로 즐기ᄂᆞᆫ 양 一雙鴛鴦之遊 綠水之波瀾이로다</sent>
+<sent type="main" lang="kor" page="56b" n="3">楚襄王의 巫山 仙女會를 부를 줄이 이시랴</sent><!--뒤쪽의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="56b" n="4">柴扉에 개 즛거ᄂᆞᆯ 님만 너겨 나가 보니</sent>
+<sent type="main" lang="kor" page="56b" n="5">님은 아니 오고 明月이 滿庭ᄒᆞᆫ듸 一陣秋風에 닙 지ᄂᆞᆫ 소릐로다</sent>
+<sent type="main" lang="kor" page="56b" n="6">져 개야 秋風落葉을 헛도이 즈저셔 날 소길 줄 엇졔요</sent>
+<sent type="main" lang="kor" page="56b" n="7">새악시 書房 못 마자 애ᄡᅳ다가 주근 靈魂</sent>
+<sent type="main" lang="kor" page="56b" n="8">건 삼밧 ᄯᅮᆨ삼 되야 龍門山 開骨寺에 니 ᄲᅡ진 늘근 쥬ᇰ놈 들뵈나 되얏다가</sent>
+<sent type="main" lang="kor" page="56b" n="9">잇다감 ᄯᆞᆷ 나 ᄀᆞ려온 제 슬ᄶᅧ겨 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="56b" n="10">靑天 구룸 밧긔 노피 ᄯᅥᆺᄂᆞᆫ 白松骨이</sent>
+<sent type="main" lang="kor" page="56b" n="11">四方 千里를 咫尺만 너기ᄂᆞᆫ듸</sent>
+<sent type="main" lang="kor" page="56b" n="12">엇더타 싀궁츼 뒤져 엇먹ᄂᆞᆫ 올히ᄂᆞᆫ 제 집 門地方 넘나들기를 百千里만 너기더라</sent>
+</pages>
+
+<pages n="57a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="57a" n="1">기러기 외기러기 너 가ᄂᆞᆫ 길히로다</sent>
+<sent type="main" lang="kor" page="57a" n="2">漢陽城臺에 가셔 져근덧 머므러 웨웨쳐 불러 부듸 ᄒᆞᆫ 말만 傳ᄒᆞ야 주렴</sent>
+<sent type="main" lang="kor" page="57a" n="3">우리도 밧비 가ᄂᆞᆫ 길히니 傳ᄒᆞᆯ동 말동 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="57a" n="4">漢武帝의 北斥西擊 諸葛亮의 七縱七擒</sent>
+<sent type="main" lang="kor" page="57a" n="5">晋나라 謝都督의 八公山 威嚴으로 四夷戌狄을 다 ᄡᅳ러 ᄇᆞ린 後에</sent>
+<sent type="main" lang="kor" page="57a" n="6">漠南에 王庭을 업시 ᄒᆞ고 凱歌歸來하여 告厥成功ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="57a" n="7">陽德 孟山 鐵山 嘉山 ᄂᆞ린 물이 浮碧樓로 감도라들고</sent>
+<sent type="main" lang="kor" page="57a" n="8">마흐라기 공이소 斗尾 月溪 ᄂᆞ린 물은 濟川亭으로 도라든다</sent>
+<sent type="main" lang="kor" page="57a" n="9">님 그려 우ᄂᆞᆫ 눈물은 벼갯 모흐로 도라든다</sent>
+<sent type="main" lang="kor" page="57a" n="10">고래 물 혀 채민 바다 宋太祖ㅣ 金陵 치라 도라들 제</sent>
+<sent type="main" lang="kor" page="57a" n="11">曹彬의 드ᄂᆞᆫ 칼로 무지게 휘온 드시 에후루혀 ᄃᆞ리 노코</sent>
+<sent type="main" lang="kor" page="57a" n="12">그 건너 님이 왓다 ᄒᆞ면 상금상금 건너리라</sent>
+</pages>
+
+<pages n="57b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="57b" n="1">司馬遷의 鳴萬古文章 王少의 掃千人筆法</sent>
+<sent type="main" lang="kor" page="57b" n="2">劉伶의 嗜酒와 杜牧之 好色은 百年從事ᄒᆞ면 一身兼備ᄒᆞ려니와</sent>
+<sent type="main" lang="kor" page="57b" n="3">아마도 雙傳키 어려올슨 大舜 曾參 孝와 龍降 比干 忠이로다</sent>
+<sent type="main" lang="kor" page="57b" n="4">大川 바다 한가온대 中針 細針 ᄲᅡ지거다</sent>
+<sent type="main" lang="kor" page="57b" n="5">열나믄 沙工놈이 긋 므된 사엇대를 긋긋치 두러메여 一時에 소릐치고 귀 ᄭᅥ여 내닷 말이 이셔이다 님아 님아</sent>
+<sent type="main" lang="kor" page="57b" n="6">온 놈이 온 말ᄒᆞ여도 님이 짐쟉ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="57b" n="7">碧紗窓이 어른어른 커ᄂᆞᆯ 님만 너겨 나가 보니</sent><!--뒤쪽의 '어른'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57b" n="8">님은 아니 오고 明月이 滿庭ᄒᆞᆫ듸 碧梧桐 져즌 닙헤 鳳凰이 ᄂᆞ려와 짓 다듬ᄂᆞᆫ 그림재로다</sent>
+<sent type="main" lang="kor" page="57b" n="9">모쳐라 밤일싀만졍 ᄂᆞᆷ 우일 번ᄒᆞ괘라</sent>
+<sent type="main" lang="kor" page="57b" n="10">콩밧틔 드러 콩닙 ᄠᅳ더 먹ᄂᆞᆫ 감은 암쇼 아므리 이라타 ᄧᅩ츤들 제 어듸로 가며</sent>
+<sent type="main" lang="kor" page="57b" n="11">니불 아레 든 님을 발로 툭 박ᄎᆞ 미젹미젹 ᄒᆞ며셔 어셔 나가라 ᄒᆞᆫ들 날 ᄇᆞ리고 제 어드로 가리</sent>
+<sent type="main" lang="kor" page="57b" n="12">아마도 ᄡᅡ호고 못 마를슨 님이신가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="58a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="58a" n="1">부러진 활 것거진 툥 ᄯᅢᆫ 銅爐口 메고 怨ᄒᆞᄂᆞ니 黃帝軒轅氏를</sent>
+<sent type="main" lang="kor" page="58a" n="2">相奪與 아닌 前에 人心이 淳厚ᄒᆞ고 天下太平ᄒᆞ여 一萬八千歲 사랏거든</sent>
+<sent type="main" lang="kor" page="58a" n="3">엇더라 習用干戈ᄒᆞ여 後生困케 ᄒᆞ연고</sent>
+<sent type="main" lang="kor" page="58a" n="4">ᄀᆞᄋᆞᆯ비 긔ᄯᅩᆼ 언마 오리 雨裝 直領 내지 마라</sent>
+<sent type="main" lang="kor" page="58a" n="5">十里ㅅ길 긔ᄯᅩᆼ 언마치 가리 등 알코 ᄇᆡ 알코 다리 저ᄂᆞᆫ 나귀를 크나큰 唐채로 쾅쾅 쳐 다 모지 마라</sent>
+<sent type="main" lang="kor" page="58a" n="6">가다가 酒家에 들너든 쉬여 가려 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="58a" n="7">오ᄂᆞᆯ도 져무러지게 져믈면은 새리로다 새면 이 님 가리로다</sent>
+<sent type="main" lang="kor" page="58a" n="8">가면 못 보려니 못 보면 그리려니 그리면 病들려니 病곳 들면 못 살리로다</sent>
+<sent type="main" lang="kor" page="58a" n="9">病드러 못 살 줄 알면서 자고 간들 엇더리</sent>
+<sent type="main" lang="kor" page="58a" n="10">白髮에 환양 노ᄂᆞᆫ 년이 져믄 書房 ᄒᆞ랴 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="58a" n="11">셴 머리에 墨漆ᄒᆞ고 泰山 俊嶺으로 허위허위 너머가다가 과그른 쇠나기에 흰 동졍 거머지고 검던 머리 다 희거다</sent><!--뒤쪽의 '허위'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58a" n="12">그르사 늘근의 所望이라 일락배락 ᄒᆞ노매</sent>
+</pages>
+
+<pages n="58b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="58b" n="1">半 여든에 첫 계집을 ᄒᆞ니 어렷두렷 우벅주벅 주글 번 살 번ᄒᆞ다가</sent>
+<sent type="main" lang="kor" page="58b" n="2">□당탕 드리ᄃᆞ라 이리져리ᄒᆞ니 老都令의 ᄆᆞ음을 흥글항글</sent><!--'와'로 추정됨-->
+<sent type="main" lang="kor" page="58b" n="3">眞實로 이 滋味 아돗던들 긜 적브터 ᄒᆞᆯ랏다</sent>
+<sent type="main" lang="kor" page="58b" n="4">酒色을 삼가란 말이 녯 사ᄅᆞᆷ의 警誡로되</sent>
+<sent type="main" lang="kor" page="58b" n="5">踏靑 登高節에 벗님ᄂᆡ ᄃᆞ리고 詩句를 을플 제 滿樽香醪를 아니 醉키 어리오며</sent>
+<sent type="main" lang="kor" page="58b" n="6">旅館에 寒燈을 對ᄒᆞ여 獨不眠ᄒᆞᆯ 제 玉人을 만나셔 아니 자고 어이리</sent>
+<sent type="main" lang="kor" page="58b" n="7">南薰殿 舜帝琴을 夏殷周에 傳ᄒᆞ오셔</sent>
+<sent type="main" lang="kor" page="58b" n="8">晋漢唐 雜覇干戈와 宋齊梁 風雨乾坤에 王風이 委地ᄒᆞ여 正聲이 긋첫더니</sent>
+<sent type="main" lang="kor" page="58b" n="9">東方에 聖賢이 나 계시니 彈五絃 歌南風을 니여 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="58b" n="10">재 우희 우둑 션 소나모 ᄇᆞ람 불 적마다 흔덕흔덕</sent><!--두 번째 '흔덕'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58b" n="11">개올에 셧ᄂᆞᆫ 버들 므스 일 조차셔 흔들흔들 흔들흔들</sent><!--'흔들흔들'에서 두 번째 '흔들'은 모두 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58b" n="12">님 그려 우ᄂᆞᆫ 눈물을 커니와 입ᄒᆞ고 코ᄂᆞᆫ 어이 므스 일 조차셔 후루룩 비쥭 ᄒᆞ나니</sent>
+</pages>
+
+<pages n="59a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="59a" n="1">쥬ᇰ놈은 승년의 머리털 잡고 승년은 쥬ᇰ놈의 샹토 쥐고</sent>
+<sent type="main" lang="kor" page="59a" n="2">두 ᄭᅳ니 맛ᄆᆡᆺ고 이 왼고 져 왼고 쟉쟈공이 쳔ᄂᆞᆫ듸 뭇 쇼경이 구슬 보니</sent>
+<sent type="main" lang="kor" page="59a" n="3">어듸셔 귀머근 벙어리ᄂᆞᆫ 외다 올타 ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="59a" n="4">아마도 太平ᄒᆞᆯ슨 우리 君親 이 時節이야</sent>
+<sent type="main" lang="kor" page="59a" n="5">聖主ㅣ 有德ᄒᆞ샤 國有風雲慶이오 雙親이 有福ᄒᆞ니 家無桂玉愁ㅣ로다</sent>
+<sent type="main" lang="kor" page="59a" n="6">億兆蒼生이 年豊을 興 계워 白酒黃鷄로 喜互同樂ᄒᆞ놋다</sent>
+<sent type="main" lang="kor" page="59a" n="7">長衫 ᄯᅳ더 즁의 젹삼 짓고 念珠 ᄯᅳ더 당나귀 밀밀치 ᄒᆞ고</sent>
+<sent type="main" lang="kor" page="59a" n="8">釋王世界 極樂世界 觀世音菩薩南無阿彌陀佛 十年工夫도 너 갈 듸로 니거</sent>
+<sent type="main" lang="kor" page="59a" n="9">밤쥬ᇰ만 암居士의 품에 드니 念佛경이 업세라</sent>
+<sent type="main" lang="kor" page="59a" n="10">님 그려 기피 든 病을 어이ᄒᆞ여 곤쳐 낼고</sent>
+<sent type="main" lang="kor" page="59a" n="11">醫員請ᄒᆞ여 命藥ᄒᆞ며 쇼경의게 푸닥거리ᄒᆞ고 무당 불러 당즑글기ᄒᆞᆫ들 이 모진 病이 ᄒᆞ릴소냐</sent>
+<sent type="main" lang="kor" page="59a" n="12">眞實로 님 ᄒᆞᆫ듸 이시면 곳에 죠흘가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="59b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="59b" n="1">노새 노새 ᄆᆡ양 쟝식 노새 낫도 놀고 밤도 노□</sent><!--'새'로 추정됨--><!--두 번째 '노새'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59b" n="2">壁上의 그린 黃鷄 수ᄃᆞᆰ이 두 ᄂᆞ래 탁탁 치며 긴 목을 느리워셔 홰홰 쳐 우도록 노새 그려</sent><!--'탁탁'에서 뒤쪽의 '탁', '홰홰'에서 뒤쪽의 '홰'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59b" n="3">人生이 아ᄎᆞᆷ 이슬이라 아니 놀고 어이리</sent>
+<sent type="main" lang="kor" page="59b" n="4">졋 건너 흰옷 닙은 사ᄅᆞᆷ ᄌᆞᆫ믭고도 양믜왜라</sent>
+<sent type="main" lang="kor" page="59b" n="5">쟈근 돌ᄃᆞ리 건너 큰 돌ᄃᆞ리 너머 밥 ᄯᅱ여 간가 ᄀᆞᄅᆞ ᄯᅱ여 가ᄂᆞᆫ고 애고애고 내 書房 삼고라쟈</sent><!--뒤쪽의 '애고'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59b" n="6">眞實로 내 書房 못 될진대 내 벗의 님이나 되고라쟈</sent>
+<sent type="main" lang="kor" page="59b" n="7">눈섭은 수나뷔 안즌 듯 닛바대ᄂᆞᆫ 박시 ᄭᆞ 셰온 듯</sent>
+<sent type="main" lang="kor" page="59b" n="8">날 보고 당신 웃ᄂᆞᆫ 양은 三色桃花未開峰이 ᄒᆞ릇밤 빗 氣運에 半만 절로 픤 形狀이로다</sent>
+<sent type="main" lang="kor" page="59b" n="9">네 父母 너 삼겨 낼 적의 날만 괴라 삼기도다</sent>
+<sent type="main" lang="kor" page="59b" n="10">드립더 ᄇᆞ득 안으니 셰허리지 ᄌᆞ늑ᄌᆞ늑</sent><!--뒤쪽의 'ᄌᆞ늑'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59b" n="11">紅裳을 거두치니 雪膚之豊肥ᄒᆞ고 擧脚蹲坐ᄒᆞ니 半開한 紅牧丹이 發郁於春風이로다</sent>
+<sent type="main" lang="kor" page="59b" n="12">進進코 又退退ᄒᆞ니 茂林山中에 水舂聲인가 ᄒᆞ노라</sent><!--뒤쪽의 '進'은 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="60a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="60a" n="1">두터비 ᄑᆞ리를 물고 두험 우희 치ᄃᆞ라 안자</sent>
+<sent type="main" lang="kor" page="60a" n="2">것넌 山 ᄇᆞ라보니 白松骨이 ᄯᅥ 잇거ᄂᆞᆯ 가슴이 금즉ᄒᆞ여 풀덕 ᄯᅱ여 내ᄃᆞᆺ다가 두험 아래 쟛바지거고</sent>
+<sent type="main" lang="kor" page="60a" n="3">모쳐라 ᄂᆞᆯ랜 낼싀만졍 에헐질 번ᄒᆞ괘라</sent>
+<sent type="main" lang="kor" page="60a" n="4">千舌羲皇天과 一寸無懷地에 名區勝地를 ᄀᆞᆯ희곡 갈희여 數間茅屋 지여내니</sent>
+<sent type="main" lang="kor" page="60a" n="5">雲山烟水 松風蘿月 野獸山禽이 절로 己物이 되여괴야</sent>
+<sent type="main" lang="kor" page="60a" n="6">아ᄒᆡ야 山翁의 이 富貴를 ᄂᆞᆷᄃᆞ려 ᄒᆡ혀 ᄒᆞᆯ세라</sent>
+<sent type="main" lang="kor" page="60a" n="7">간밤의 大醉ᄒᆞ고 醉ᄒᆞᆫ ᄌᆞᆷ에 ᄭᅮᆷ을 ᄭᅮ니</sent>
+<sent type="main" lang="kor" page="60a" n="8">七尺劍 千里馬로 遼海ᄅᆞᆯ ᄂᆞ라 건너 天驕를 降服 밧고 北闕에 도라와 告闕成功ᄒᆞ여 뵈ᄂᆡ</sent>
+<sent type="main" lang="kor" page="60a" n="9">男兒의 慷慨ᄒᆞᆫ ᄆᆞ음이 胸中에 鬱鬱ᄒᆞ여 ᄭᅮᆷ에 試驗ᄒᆞ노매</sent><!--뒤쪽의 '鬱'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="60a" n="10">萬古 歷代 蕭蕭ᄒᆞᆫ 즁에 明哲保身 누고 누고</sent><!--'蕭蕭ᄒᆞᆫ'에서 뒤쪽의 '蕭', '누고 누고'에서 뒤쪽의 '누고'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="60a" n="11">范蠡의 五湖舟와 張良의 謝病辟穀 疏廣의 散千金과 季鷹의 秋風江東 陶處士의 歸去來辭ㅣ라</sent>
+<sent type="main" lang="kor" page="60a" n="12">이밧긔 碌碌ᄒᆞᆫ 貪官汚吏之輩를 혜여 무슴ᄒᆞ리오</sent><!--뒤쪽의 '碌'은 재점을오 표기되어 있음-->
+</pages>
+
+<pages n="60b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="60b" n="1">李座首ᄂᆞᆫ 암쇼를 ᄐᆞ고 金約正은 질쟝군 메고</sent>
+<sent type="main" lang="kor" page="60b" n="2">南勸農 趙堂掌은 취ᄒᆞ여 뷔거르며 杖鼓 舞鼓에 둥더럭궁 춤추ᄂᆞᆫ괴야</sent>
+<sent type="main" lang="kor" page="60b" n="3">峽裏에 愚氓의 質朴天眞과 太古淳風을 다시 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="60b" n="4">孫約正은 點心 ᄎᆞᆯ히고 李風憲은 酒肴를 쟝만ᄒᆞ소</sent>
+<sent type="main" lang="kor" page="60b" n="5">거믄고 伽倻ㅅ고 奚琴 琵琶 笛 觱篥 杖鼓 舞工人으란 禹堂掌이 ᄃᆞ려오시</sent>
+<sent type="main" lang="kor" page="60b" n="6">글 짓고 노래 부르기와 女技女花看으란 내 다 擔當ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="60b" n="7">平陽 女妓년들의 多紅大緞 치마 義州ㅅ 女妓의 月花紗紬 치마에 藍端</sent>
+<sent type="main" lang="kor" page="60b" n="8">寧海 盈德 쥬탕 각시 ᄉᆡᆼ믜명 감찰 쥬ᇰ쥬ᇰ쥬ᇰ에 ᄒᆡᆼ즈치마 멜ᄭᅵᆫ도 제 色이로다</sent>
+<sent type="main" lang="kor" page="60b" n="9">우리도 이러셩 구우다가 ᄒᆞᆫ 빗 될가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="60b" n="10">白鷗ᄂᆞᆫ 片片 大同江上飛오 長松은 落落 靑流壁上翠라</sent>
+<sent type="main" lang="kor" page="60b" n="11">大野東頭 點點山에 夕陽은 빗견ᄂᆞᆫ듸 長城北面 溶溶水에 一葉漁艇 흘리 저어</sent>
+<sent type="main" lang="kor" page="60b" n="12">大醉코 載妓隨波ᄒᆞ여 錦繡綾羅도 任去來를 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="61a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="61a" n="1">閑碧堂 죠흔 景을 비 갠 後에 올라보니 百尺 元龍과 一川 花月이라</sent>
+<sent type="main" lang="kor" page="61a" n="2">佳人은 滿座ᄒᆞ고 象藥이 喧空ᄒᆞᆫ듸 浩蕩ᄒᆞᆫ 風煙이오 狼藉ᄒᆞᆫ 杯盤이로다</sent>
+<sent type="main" lang="kor" page="61a" n="3">아ᄒᆡ야 盞 ᄀᆞ득 부어라 遠客愁懷를 시서 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="61a" n="4">完山裏 도라 드러 萬頃臺에 올라 보니 三韓古都에 一春光景이라</sent>
+<sent type="main" lang="kor" page="61a" n="5">錦袍羅裙과 酒肴 爛熳ᄒᆞᆫ듸 白雪歌 ᄒᆞᆫ 曲調를 管絃에 섯거 내니</sent>
+<sent type="main" lang="kor" page="61a" n="6">丈夫의 逆旅豪遊 名區壯觀이 오ᄂᆞᆯ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="61a" n="7">綠楊 芳草岸애 쇼 머기ᄂᆞᆫ 아ᄒᆡ들아</sent>
+<sent type="main" lang="kor" page="61a" n="8">압냇 고기와 뒷냇 고기를 다 물 쇽 자바내 다치에 너허 주어든 네 ᄉᆈ궁치에 언저다가 주렴</sent>
+<sent type="main" lang="kor" page="61a" n="9">우리도 밧비 가ᄂᆞᆫ 길히니 못 가져 갈가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="61a" n="10">이바 편메곡들아 듬보기 가거ᄂᆞᆯ 본다</sent>
+<sent type="main" lang="kor" page="61a" n="11">듬보기 셩내여 土卵눈 부릅드고 ᄭᅢ자반 나롯 거스리고 甘苔신 사마 신고 다스마 긴 거리로 가거늘 보고 오롸</sent>
+<sent type="main" lang="kor" page="61a" n="12">가기ᄂᆞᆫ 가더라마ᄂᆞᆫ 蔈古ᄒᆞᆫ 얼굴에 셩이 업시 가ᄃᆞ라</sent>
+</pages>
+
+<pages n="61b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="61b" n="1">ᄃᆡᆨ들에 동난지이 사오 져 쟝스야 네 황후 긔 무서시라 웨ᄂᆞᆫ다 사쟈</sent>
+<sent type="main" lang="kor" page="61b" n="2">外骨 內肉 □□이 上天 前行 後行 小아리 八足 大아리 二足 靑醬 ᄋᆞ스슥 ᄒᆞᄂᆞᆫ 동난지이 사오</sent><!--'兩目'으로 추정됨-->
+<sent type="main" lang="kor" page="61b" n="3">쟝스야 하 거복이 웨지 말고 게젓이라 ᄒᆞ렴은</sent>
+<sent type="main" lang="kor" page="61b" n="4">각시ᄂᆡ 내 妾이 되나 내 각시의 後ㅅ 난편이 되나</sent>
+<sent type="main" lang="kor" page="61b" n="5">곳 본 나뷔 물 본 기러기 줄에 조츤 거뫼 고기 본 가마오지 가지에 젓이오 슈박에 족술이로다</sent>
+<sent type="main" lang="kor" page="61b" n="6">각시ᄂᆡ ᄒᆞ나 水鐵匠의 ᄠᆞᆯ이오 나 ᄒᆞ나 짐匠이로 솟 지고 나믄 쇠로 가마 질가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="61b" n="7">아흔아홉 곱 머근 老丈 濁酒 걸러 醉케 먹고</sent>
+<sent type="main" lang="kor" page="61b" n="8">납죡 됴라ᄒᆞᆫ 길로 이리로 뷧독 져리로 뷧쳑 빗독뷧쳣 뷔거를 적의 웃지 마라 져 靑春 少年 아ᄒᆡ놈들아</sent>
+<sent type="main" lang="kor" page="61b" n="9">少年 적 마음이 어제론 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="61b" n="10">ᄃᆡᆨ들에 나모들 사오 져 쟝스야 네 나모 갑시 언매 웨ᄂᆞᆫ다 사쟈</sent>
+<sent type="main" lang="kor" page="61b" n="11">ᄡᆞ리 남게ᄂᆞᆫ ᄒᆞᆫ 말 치고 검주 남게ᄂᆞᆫ 닷 되를 쳐서 合ᄒᆞ야 혜면 마 닷 되 밧습ᄂᆡ 삿 대혀 보으소 잘 븟슴ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="61b" n="12">ᄒᆞᆫ 적곳 사 ᄯᅡ혀 보며ᄂᆞᆫ ᄆᆡ양 사 ᄯᅡ히쟈 ᄒᆞ리라</sent>
+</pages>
+
+<pages n="62a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="62a" n="1">琵琶야 너ᄂᆞᆫ 어이 간 듸 녠 듸 앙쥬아리ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="62a" n="2">힝금ᄒᆞᆫ 목을 에후로혀 안고 엄파 ᄀᆞᆺ튼 손으로 ᄇᆡ를 쟈바 ᄠᅳᆺ거든 아니 앙쥬아리랴</sent>
+<sent type="main" lang="kor" page="62a" n="3">아마도 大珠小珠 落玉盤ᄒᆞ기는 너ᄲᅮᆫ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="62a" n="4">萬頃蒼波之水에 둥둥 ᄯᅥᆺᄂᆞᆫ 부략금이 게오리들아</sent><!--뒤쪽의 '둥'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62a" n="5">비슬금셩 증경이 동당강셩 너시 두루미들아 너 ᄯᅥᆺᄂᆞᆫ 물 기픠를 알고 둥 ᄯᅥᆺᄂᆞᆫ 모로고 둥 ᄯᅥᆺᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="62a" n="6">우리도 ᄂᆞᆷ의 님 거러두고 기픠를 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="62a" n="7">모시를 이리져리 삼아 두로 삼아 감삼다가</sent>
+<sent type="main" lang="kor" page="62a" n="8">가다가 한가온대 ᄯᅩᆨ 근처지거ᄂᆞᆯ 皓齒丹脣으로 훔ᄲᆞᆯ며 감ᄲᆞᆯ며 纖纖玉手로 두 긋 마조 자바 뱌븨여 니으리라 져 모시를</sent><!--뒤쪽의 '纖'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62a" n="9">엇더타 이 人生 긋처 갈 제 져 모시쳐로 니으리라</sent>
+<sent type="main" lang="kor" page="62a" n="10">南山佳氣 鬱鬱葱葱 漢江流水 浩浩洋洋</sent><!--'鬱鬱葱葱'에서 뒤쪽의 '鬱, 葱', '浩浩洋洋'에서 뒤쪽의 '浩, 洋'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62a" n="11">主上殿下ᄂᆞᆫ 이 山水갓치 山崩水渴토록 聖壽ㅣ 無疆ᄒᆞ샤 千千萬萬歲를 太平을 누리셔든</sent><!--'千千萬萬歲를'에서 뒤쪽의 '千, 萬'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62a" n="12">우리ᄂᆞᆫ 逸民이 되야 康衢烟月에 擊壤歌를 ᄒᆞ오리</sent>
+</pages>
+
+<pages n="62b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="62b" n="1">나ᄂᆞᆫ 님 혜기를 嚴冬雪寒에 孟嘗君의 狐白裘 ᄀᆞᆺ고</sent>
+<sent type="main" lang="kor" page="62b" n="2">님은 날 너기기□ 三角山 中興寺에 이 ᄡᅡ진 늘근 쥬ᇰ□에 살 □□ □□이시로다</sent>
+<sent type="main" lang="kor" page="62b" n="3">ᄧᅡᆨᄉᆞ랑 □즐김ᄒᆞᄂᆞᆫ ᄠᅳᆺ을 하ᄂᆞᆯ이 아르셔 돌려 ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="62b" n="4">窓 내고쟈 窓을 내고쟈 이 내 가슴에 窓 내고쟈</sent>
+<sent type="main" lang="kor" page="62b" n="5">고모장지 셰살장지 들장지 열장지 암돌져귀 수돌져귀 ᄇᆡ목걸새 크나 큰 쟝도리로 ᄯᅮᆼ닥 바가 이 내 가슴에 窓 내고쟈</sent>
+<sent type="main" lang="kor" page="62b" n="6">잇다감 하 답답ᄒᆞᆯ 제면 여다져 볼가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="62b" n="7">天寒코 雪寒ᄒᆞᆫ 날에 님 ᄎᆞ즈라 天上으로 갈 제</sent>
+<sent type="main" lang="kor" page="62b" n="8">신 버서 손에 쥐고 보션 버서 품에 품고 곰뷔님뷔 님뷔곰뷔 쳔방지방 지방쳔방 ᄒᆞᆫ 번도 쉬지 말고 허위허위 올라가니</sent><!--'님뷔곰뷔'의 '님뷔', '지방쳔방'의 '지방'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62b" n="9">보션 버슨 발은 아니 스리되 념의온 가슴이 산득산득 ᄒᆞ여라</sent><!--뒤쪽의 '산득'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62b" n="10">待人難 待人難ᄒᆞ니 鷄三呼ᄒᆞ고 夜五更이라</sent><!--뒤쪽의 '待人難'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62b" n="11">出門望 出門望ᄒᆞ니 靑山은 萬重이오 綠水ᄂᆞᆫ 千回로다</sent><!--뒤쪽의 '出門望'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62b" n="12">이윽고 犬吠ㅅ 소릐에 白馬遊冶郞이 넌즈시 도라드니 반가온 ᄆᆞ음이 無窮 탐탐ᄒᆞ여 오ᄂᆞᆯ밤 서로 즐거오미야 어늬 그지 이시리</sent>
+</pages>
+
+<pages n="63a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="63a" n="1">春風杖策 上蠶頭ᄒᆞ여 漢陽形址를 歷歷히 둘러보니</sent><!--뒤쪽의 '歷'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63a" n="2">仁王 三角은 虎踞龍盤으로 北極을 괴얏고 絡南漢水ᄂᆞᆫ 金帶相連ᄒᆞ여 久遠ᄒᆞᆫ 氣象이 萬千歲之無疆이로다</sent>
+<sent type="main" lang="kor" page="63a" n="3">君修德 臣修政ᄒᆞ니 禮儀東方이 堯之日月이오 舜之乾坤이로다</sent>
+<sent type="main" lang="kor" page="63a" n="4">白華山 上上頭에 落落長松 휘여진 柯枝 우희</sent><!--'上上頭'에서 뒤쪽의 '上', '落落長松'에서 뒤쪽의 '落'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63a" n="5">부헝 放氣 ᄭᅱᆫ 殊常ᄒᆞᆫ 옹도라지 길쥭넙쥭 어틀머틀 믜뭉슈로 ᄒᆞ거라 말고 님의 연장이 그러코라쟈</sent>
+<sent type="main" lang="kor" page="63a" n="6">眞實로 그러곳 ᄒᆞᆯ쟉시면 벗고 굴물진들 셩이 므슴 가싀리</sent>
+<sent type="main" lang="kor" page="63a" n="7">石崇의 累鋸萬財와 杜牧之의 橘滿車風采라도</sent>
+<sent type="main" lang="kor" page="63a" n="8">밤일을 ᄒᆞᆯ 저긔 제 연장 零星ᄒᆞ면 ᄭᅮᆷ자리만 자리라 긔 무서시 貴ᄒᆞᆯ소냐</sent>
+<sent type="main" lang="kor" page="63a" n="9">貧寒코 風渡ㅣ 埋沒ᄒᆞᆯ지라도 졔 거시 무즑ᄒᆞ여 내 것과 如合符節곳 ᄒᆞ면 긔 내 님인가 ᄒᆞ노라</sent>
+</pages>
+
+<pages n="63b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="63b" n="1">개를 여라믄이라 기르되 요 개ᄀᆞᆺ치 얄믜오랴</sent>
+<sent type="main" lang="kor" page="63b" n="2">뮈온 님 오며ᄂᆞᆫ ᄭᅩ리를 홰홰 치며 치ᄯᅱ락 ᄂᆞ리ᄯᅱ락 반겨셔 내ᄃᆞᆺ고 고온 님 오며ᄂᆞᆫ 뒷발을 버동버동 므르락 나으락 캉캉 즈져서 도로 가게 ᄒᆞᆫ다</sent><!--'홰홰'에서 뒤쪽의 '홰', '버동버동'에서 뒤쪽의 '버동', '캉캉'에서 뒤쪽의 '캉'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63b" n="3">쉰 밥이 그릇그릇 난들 너 머길 줄이 이시리</sent><!--뒤쪽의 '그릇'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63b" n="4">귓도리 져 귓도리 에엿부다 져 귓도리</sent>
+<sent type="main" lang="kor" page="63b" n="5">어인 귓도리 지ᄂᆞᆫ 달 새ᄂᆞᆫ 밤의 긴 소릐 쟈른 소릐 節節이 슬픈 소릐 제 혼자 우러 녜어 紗窓 여왼 ᄌᆞᆷ을 ᄉᆞᆯ드리도 ᄭᆡ오ᄂᆞᆫ고야</sent><!--뒤쪽의 '節'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63b" n="6">두어라 제 비록 微物이나 無人洞房에 내 ᄠᅳᆺ 알리ᄂᆞᆫ 저ᄲᅮᆫ인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="63b" n="7">가슴에 궁글 둥시러케 ᄠᅮᆯ고 왼ᄉᆞᆺ기를 눈 길게 너슷너슷 ᄭᅩ와</sent><!--뒤쪽의 '너슷'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63b" n="8">그 궁게 그 ᄉᆞᆺ 너코 두 놈이 두 긋 마조 자바 이리로 훌근 져리로 훌젹 훌근훌젹 ᄒᆞᆯ 저긔ᄂᆞᆫ 나 남즉 ᄂᆞᆷ 대되 그는 아모ᄧᅭ로나 견듸려니와</sent>
+<sent type="main" lang="kor" page="63b" n="9">아마도 님 외오 살라면 그ᄂᆞᆫ 그리 못ᄒᆞ리라</sent>
+</pages>
+
+<pages n="64a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="64a" n="1">얼고 조코 ᄠᅳᆺ 다라온 년아 밋졍조차 不貞ᄒᆞᆫ 년아</sent>
+<sent type="main" lang="kor" page="64a" n="2">엇더ᄒᆞᆫ 어린 놈을 黃昏에 期約ᄒᆞ고 거즛 ᄆᆡᆨ 바다 자고 가란 말이 입으로 ᄎᆞ마 도와 나ᄂᆞᆫ</sent>
+<sent type="main" lang="kor" page="64a" n="3">두어라 娼條冶葉이 本無定主ᄒᆞ고 蕩子之深春好花情이 彼我의 一般이라 허믈ᄒᆞᆯ 줄 이시랴</sent>
+<sent type="main" lang="kor" page="64a" n="4">개야미 불개야미 ᄌᆞᆫ등 부러진 불개야미</sent>
+<sent type="main" lang="kor" page="64a" n="5">압발에 疔腫 나고 뒷발에 죵귀 난 불개야미 廣陵 ᄉᆡᆷ재 너머 드러 가람의 허리를 ᄀᆞ르무러 추혀들고 北海를 건너닷 말이 이셔이다 님아 님아</sent><!--뒤쪽의 '님아'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64a" n="6">온 놈이 온 말을 ᄒᆞ여도 님이 짐쟉ᄒᆞ쇼셔</sent>
+<sent type="main" lang="kor" page="64a" n="7">듕놈도 사ᄅᆞᆷ이냥ᄒᆞ여 자고 가니 그립ᄃᆞ고</sent>
+<sent type="main" lang="kor" page="64a" n="8">쥬ᇰ의 숑낙 나 볘읍고 내 죡도리 쥬ᇰ놈 볘고 쥬ᇰ의 長衫 나 덥습고 내 치마란 쥬ᇰ놈 덥고 자다가 ᄭᆡᄃᆞ르니 둘희 ᄉᆞ랑이 숑낙으로 ᄒᆞ나 죡도리로 ᄒᆞ나</sent>
+<sent type="main" lang="kor" page="64a" n="9">이튼날 ᄒᆞ던 일 ᄉᆡᆼ각ᄒᆞ니 흥글항글 ᄒᆞ여라</sent>
+</pages>
+
+<pages n="64b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="64b" n="1">한숨아 셰한숨아 네 어ᄂᆡ 틈으로 드러온다</sent>
+<sent type="main" lang="kor" page="64b" n="2">고모장ᄌᆞ 셰살장ᄌᆞ 가로다지 여다지에 암돌져귀 수돌저귀 ᄇᆡ목걸새 ᄯᅮᆨ닥 박고 龍 거북 ᄌᆞ물쇠로 수기수기 ᄎᆞ엿ᄂᆞᆫ듸 屛風이라 덜걱 져븐 簇子ㅣ라 ᄃᆡᄃᆡ글 ᄆᆞᆫ다 네 어ᄂᆡ 틈으로 드러온다</sent><!--뒤쪽의 '수기'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64b" n="3">어인지 너 온 날 밤이면 ᄌᆞᆷ 못 드러 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="64b" n="4">平生에 景慕홈은 白香山에 四美風流 駿馬佳人은 丈夫의 壯年豪氣로다</sent>
+<sent type="main" lang="kor" page="64b" n="5">老境生計 移伴ᄒᆞᆯ 제 身兼妻子都三口ㅣ오 鶴與琴書로 共一般이니 긔 더옥 節价廉退</sent>
+<sent type="main" lang="kor" page="64b" n="6">唐時에 三大作文章이 李杜와 竝駕ᄒᆞ여 百代芳名이 서글 줄이 이시랴</sent><!--'이시랴'의 '이'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64b" n="7">靑天에 ᄠᅥᆺᄂᆞᆫ 기러기 ᄒᆞᆫ 雙 漢陽城臺에 잠간 들러 쉬여 갈다</sent>
+<sent type="main" lang="kor" page="64b" n="8">이리로셔 져리로 갈 제 내 消息 들어다가 님의게 傳ᄒᆞ고 져리로셔 이리로 올 제 님의 消息 드러 내손ᄃᆡ 브듸 들러 傳ᄒᆞ여 주렴</sent>
+<sent type="main" lang="kor" page="64b" n="9">우리도 님 보라 밧비 가ᄂᆞᆫ 길히니 傳ᄒᆞᆯ동 말동 ᄒᆞ여라</sent>
+</pages>
+
+<pages n="65a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="65a" n="1">昭烈之大度喜怒를 不形於色과 諸葛亮之王佐大才 三代上人物</sent>
+<sent type="main" lang="kor" page="65a" n="2">五虎大將들의 雄豪之勇力으로 攻城略地ᄒᆞ여 忘身之高節과 愛君之忠義 古今에 ᄧᅡᆨ 업스되</sent>
+<sent type="main" lang="kor" page="65a" n="3">蒼天이 不助順ᄒᆞ샤 中恢를 못 이르고 英雄의 恨을 기쳐 曠百代之尙感어라</sent>
+<sent type="main" lang="kor" page="65a" n="4">色ᄀᆞᆺ치 됴흔 거슬 긔 뉘라셔 말리ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="65a" n="5">穆王은 天子ㅣ로되 瑤臺에 宴樂ᄒᆞ고 項羽ᄂᆞᆫ 天下壯士ㅣ로되 滿營秋月에 悲歌慷慨ᄒᆞ고 明皇은 英主ㅣ로되 解語花離別에 馬嵬驛에 우럿ᄂᆞ니</sent>
+<sent type="main" lang="kor" page="65a" n="6">ᄒᆞ믈며 날 ᄀᆞᆺ튼 小丈夫로 몃 百年 살리라 ᄒᆡ올 일 아니ᄒᆞ고 쇽졀업시 늘그랴</sent>
+<sent type="main" lang="kor" page="65a" n="7">右謹陳所志矣段은 上帝處分ᄒᆞ오쇼셔</sent>
+<sent type="main" lang="kor" page="65a" n="8">酒泉이 無主ᄒᆞ여 久遠陳荒爲有去乎 鑑當情由敎是後에 矣身處許給事를 立旨成爲白只爲</sent>
+<sent type="main" lang="kor" page="65a" n="9">上帝 題辭ㅅ 內에 所訴知悉爲有在果 劉伶李白段置 折授不得爲有去等 况彌 天下公物이라 擅恣安徐向事</sent>
+</pages>
+
+<pages n="65b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="65b" n="1">高臺廣室 나ᄂᆞᆫ 마다 錦衣玉食 더옥 마다</sent>
+<sent type="main" lang="kor" page="65b" n="2">銀金寶貨 奴婢田宅 □□□마 大段쟝옷 密羅珠 겻칼 紫芝鄕織 져고리 ᄯᆞᆫ머리 石雄黃으로 다 ᄭᅮᆷ자리 ᄀᆞᆺ고</sent><!--'緋緞치'로 추정됨-->
+<sent type="main" lang="kor" page="65b" n="3">眞實로 나의 平生 願ᄒᆞ기ᄂᆞᆫ 말 잘ᄒᆞ고 글 잘ᄒᆞ고 얼골 ᄀᆡ자ᄒᆞ고 품자리 잘ᄒᆞᄂᆞᆫ 져믄 書房이로다</sent>
+<sent type="main" lang="kor" page="65b" n="4">長安大道 三月春風 九陌樓臺 雜花芳草</sent>
+<sent type="main" lang="kor" page="65b" n="5">酒伴詩豪 五陵遊俠 桃李蹊 綺羅裙을 다 모하 거ᄂᆞ려 細樂을 前導ᄒᆞ고 歌舞行休ᄒᆞ여 大東乾坤 風月江山 沙門法界 幽僻雲林을 遍踏ᄒᆞ여 도라보니</sent>
+<sent type="main" lang="kor" page="65b" n="6">聖代에 朝野ㅣ 同樂ᄒᆞ여 太平和色이 依依然 三五王風인가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="65b" n="7">泰山이 不讓土壤 故로 大ᄒᆞ고 河海 不澤細流 故로 深ᄒᆞᄂᆞ니</sent>
+<sent type="main" lang="kor" page="65b" n="8">萬古天下 英雄俊傑 建安八字 竹林七賢 李謫仙 蘇東波 ᄀᆞᆺ튼 詩酒風流와 絶代豪士를 어듸 가 어더 니로 다 사괴리</sent>
+<sent type="main" lang="kor" page="65b" n="9">鷰雀도 鴻鵠의 무리라 旅遊狂客이 洛陽才子 모드신 곳에 末地에 參與ᄒᆞ여 놀고 간들 엇더리</sent>
+</pages>
+
+<pages n="66a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="66a" n="1">ᄒᆞᆫ 눈 멀고 ᄒᆞᆫ 다리 절고 痔疾 三年 腸疾 三年 邊頭痛 內丹毒 다 알ᄂᆞᆫ 죠고만 삿기 개고리</sent>
+<sent type="main" lang="kor" page="66a" n="2">一百 쉰 대자 쟝남게 게올을 제 쉬이 너겨 수로록 소로로 소로로 수로록 허위허위 소솝 ᄯᅱ여 올라 안자 ᄂᆞ리실 제란 어이실고 나 몰래라 져 개고리</sent><!--뒤쪽의 '소로로'와 '허위허위'에서 뒤쪽의 '허위'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66a" n="3">우리도 새 님 거러두고 나죵 몰라 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="66a" n="4">증경이 雙雙 綠潭中이오 皓月은 團團 暎窓櫳이라</sent>
+<sent type="main" lang="kor" page="66a" n="5">凄凉ᄒᆞᆫ 羅帷 안헤 蟠蟀은 슬피 울고 人寂夜深ᄒᆞᆫ듸 玉漏潺潺 金爐에 香盡參橫 月落도록 有美故人은 뉘게 자펴 못 오ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="66a" n="6">님이야 날 ᄉᆡᆼ각ᄒᆞ랴마ᄂᆞᆫ 나ᄂᆞᆫ 님ᄲᅮᆫ이매 九回肝腸을 寸寸이 스로다가 ᄉᆞ라져 주글만졍 나ᄂᆞᆫ 닛지 모ᄒᆞ얘</sent>
+<sent type="main" lang="kor" page="66a" n="7">져 건너 月仰 바회 우희 밤쥬ᇰ마치 부엉이 울면</sent>
+<sent type="main" lang="kor" page="66a" n="8">녯 사ᄅᆞᆷ 니론 말이 ᄂᆞᆷ의 싀앗 되야 ᄌᆞᆺ믭고 양믜와 百般巧邪ᄒᆞᄂᆞᆫ 져믄 妾년이 急殺 마자 죽ᄂᆞᆫ다 ᄒᆞ데</sent>
+<sent type="main" lang="kor" page="66a" n="9">妾이 對答ᄒᆞ되 안해님겨오셔 망년된 말 마오 나ᄂᆞᆫ 듯ᄌᆞ오니 家翁을 薄待ᄒᆞ고 妾 새옴 甚히 ᄒᆞ시ᄂᆞᆫ 늘근 안ᄒᆡ님 몬져 죽ᄂᆞᆫ다데</sent>
+</pages>
+
+<pages n="66b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="66b" n="1">밋난편 廣州ㅣ ᄡᆞ리뷔 쟝ᄉᆞ 쇼대난편 朔寧 닛뷔 쟝ᄉᆞ</sent>
+<sent type="main" lang="kor" page="66b" n="2">눈경에 거론 님은 ᄯᅮ□ □두려 방망치 쟝ᄉᆞ 돌호로 가마 홍도ᄭᅢ 쟝ᄉᆞ 뷩뷩 도라 물레 쟝ᄉᆞ 우물젼에 치ᄃᆞ라 ᄀᆞᆫ댕ᄀᆞᆫ댕 ᄒᆞ다가 워렁충창 풍 ᄲᅡ져 물 ᄃᆞᆷ복 ᄯᅥ내ᄂᆞᆫ 드레곡지 쟝ᄉᆞ</sent><!--뒤쪽의 'ᄀᆞᆫ댕'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66b" n="3">어듸 가 이 얼올 가지고 죠릐 쟝ᄉᆞ를 못 어드리</sent>
+<sent type="main" lang="kor" page="66b" n="4">男兒의 少年 行樂 ᄒᆡ올 일이 하고 하다</sent>
+<sent type="main" lang="kor" page="66b" n="5">글 닑기 칼 ᄡᅳ기 활 ᄡᅩ기 ᄆᆞᆯ ᄃᆞᆯ니기 벼슬ᄒᆞ기 벗 사괴기 술 먹기 妾ᄒᆞ기 花朝月夕 노리ᄒᆞ기 오로 다 豪氣로다</sent>
+<sent type="main" lang="kor" page="66b" n="6">늙게야 江山에 믈러와셔 밧 갈기 논 ᄆᆡ기 고기 낙기 나모 뷔기 거믄고 ᄐᆞ기 바독 두기 仁山智水遨遊ᄒᆞ기 百年安樂ᄒᆞ여 四時風景이 어ᄂᆡ 그지 이시리</sent>
+<sent type="main" lang="kor" page="66b" n="7">재 너머 莫德의 어마네 莫德이 쟈랑 마라</sent>
+<sent type="main" lang="kor" page="66b" n="8">내 품에 드러셔 돌곗ᄌᆞᆷ 자다가 니 ᄀᆞᆯ고 코 고오고 오좀 ᄉᆞ고 放氣 ᄭᅱ니 盟誓개지 모진 내 맛기 하 즈즐ᄒᆞ다 어셔 ᄃᆞ려니거라 莫德의 어마</sent>
+<sent type="main" lang="kor" page="66b" n="9">莫德의 어미년 내ᄃᆞ라 發明ᄒᆞ야 니르되 우리의 아기ᄯᆞᆯ이 고림症 ᄇᆡ아리와 잇다감 제 症 밧긔 녀나믄 雜病은 어려셔브터 업ᄂᆞ니</sent>
+</pages>
+
+<pages n="67a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="67a" n="1">어이 못 오던다 므스 일로 못 오던다</sent>
+<sent type="main" lang="kor" page="67a" n="2">너 오ᄂᆞᆫ 길 우희 무쇠로 城을 ᄡᆞ고 城 안헤 담 ᄡᆞ고 담 안헤란 집을 짓고 집 안헤란 두지 노코 두지 안헤 樻를 노코 樻 안헤 너를 結縛ᄒᆞ여 노코 雙ᄇᆡ목 외걸새에 龍 거북 ᄌᆞ믈쇠로 수기수기 ᄌᆞᆷ갓더냐 네 어이 그리 아니 오던다</sent>
+<sent type="main" lang="kor" page="67a" n="3">ᄒᆞᆫ ᄃᆞᆯ이 셜흔 날이여니 날 보라 올 ᄒᆞᆯ리 업스랴</sent>
+<sent type="main" lang="kor" page="67a" n="4">얽고 검고 킈 큰 구레나롯 그것조차 길고 넙다</sent>
+<sent type="main" lang="kor" page="67a" n="5">쟘지 아닌 놈 밤마다 ᄇᆡ에 올라 죠고만 구멍에 큰 연장 너허 두고 흘근할젹 ᄒᆞᆯ 제ᄂᆞᆫ 愛情은 ᄏᆞ니와 泰山이 덥누로ᄂᆞᆫ 듯 ᄌᆞᆫ放氣 소릐에 졋 먹던 힘이 다 ᄡᅳ이노ᄆᆡ라</sent>
+<sent type="main" lang="kor" page="67a" n="6">아므나 이 놈을 ᄃᆞ려다가 百年同住ᄒᆞ고 永永 아니 온들 어ᄂᆡ 개ᄯᆞᆯ년이 싀앗새옴ᄒᆞ리오</sent><!--뒤쪽의 '永'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67a" n="7">洛陽城裏 方春和時에 草木群生이 皆樂이라</sent>
+<sent type="main" lang="kor" page="67a-67b" n="8">冠者 五六人과 童子 六七 거ᄂᆞ리고 文殊 中興으로 白雲峰 登臨ᄒᆞ니 天文이 咫尺이라 拱北三角은 □國無疆이오 丈夫의 胸襟에 雲夢을 ᄉᆞᆷ겻ᄂᆞᆫ 듯 九天銀瀑에 塵纓□ □□ 後에 踏歌行休ᄒᆞ여 太學으로 도라오니</sent><!--□^國無疆이오-->
+</pages>
+
+<pages n="67b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="67b" n="00">曾點의 詠歸高風 밋처 본 듯ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="67b" n="00">寒松亭 자긴 솔 버혀 죠고만 ᄇᆡ 무어 ᄐᆞ고</sent>
+<sent type="main" lang="kor" page="67b" n="00">술이라 안쥬 거믄고 伽倻ㅅ고 奚琴 琵琶 笛 觱篥 杖鼓 舞鼓 工人과 安岩山 ᄎᆞ돌 一番 부쇠 나젼대 귀지삼이 江陵女妓 三陟 쥬탕년 다 몰쇽 싯고 ᄃᆞᆯ ᄇᆞᆯ근 밤의 鏡浦臺에 가셔</sent>
+<sent type="main" lang="kor" page="67b" n="00">大醉코 扣枻乘流ᄒᆞ여 叢石亭 金蘭窟과 永郞湖 仙遊潭에 任去來를 ᄒᆞ리라</sent>
+<sent type="main" lang="kor" page="67b" n="00">나모도 바히 돌도 업슨 뫼헤 매게 ᄧᅩ친 가토릐 안과</sent>
+<sent type="main" lang="kor" page="67b" n="00">大川 바다 한가온대 一千石 시른 ᄇᆡ에 노도 일코 닷도 일코 뇽총도 근코 돗대도 것고 치도 ᄲᅡ지고 ᄇᆞ람 부러 물결 치고 안개 뒤섯계 ᄌᆞ자진 날에 갈 길은 千里 萬里 나믄듸 四面이 거머어득 져뭇 天地寂莫 가치노올 ᄯᅥᆺᄂᆞᆫ듸 水賊 만난 都沙工의 안과</sent>
+<sent type="main" lang="kor" page="67b-68a" n="00">엇그제 님 여흰 내 안히야 엇다가 ᄀᆞ을ᄒᆞ리오</sent><!--엇그제 ^ 님-->
+</pages>
+
+<pages n="68a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="68a" n="1">싀어마님 며느라기 낫바 벽 바흘 구루지 마오</sent>
+<sent type="main" lang="kor" page="68a" n="2">빗에 바든 며ᄂᆞ린가 갑세 쳐 오 며ᄂᆞ린가 밤나모 서근 들걸에 휘초리 나니ᄀᆞᆺ치 알살픠신 싀아바님 볏 뵌 ᄉᆈᆺ동ᄀᆞᆺ치 되죵고신 싀어마님 三年 겨론 망태에 새 송곳 부리ᄀᆞᆺ치 ᄲᅭ족ᄒᆞ신 싀누으님 당피 가론 밧틔 돌피 나니ᄀᆞᆺ치 ᄉᆡ노란 욋곳 ᄀᆞᆺ튼 피ᄯᅩᆼ 누ᄂᆞᆫ 아ᄃᆞᆯ ᄒᆞ나 두고</sent>
+<sent type="main" lang="kor" page="68a" n="3">건 밧틔 멋곳 ᄀᆞᆺ튼 며ᄂᆞ리를 어듸를 낫바 ᄒᆞ시ᄂᆞᆫ고</sent>
+<sent type="main" lang="kor" page="68a" n="4">언덕 문희여 조븐 길 몌오거라 말고 두던이나 문희여 너른 구멍 조피 되야</sent>
+<sent type="main" lang="kor" page="68a" n="5">水口門 내ᄃᆞ라 豆毛鋪 漢江 露梁 銅雀이 龍山 三浦 여흘목으로 ᄃᆞᆫ니며 ᄂᆞ리 두져 먹고 치두져 먹ᄂᆞᆫ 되강오리 목이 힝금커라 말고 大牧官 女妓 小各官 쥬탕이 와당탕 내ᄃᆞ라 두 손으로 붓잡고 부드드 ᄯᅥᄂᆞᆫ이 내 므스거시나 힝금코라쟈</sent><!--'露梁'의 '梁'은 세필로 삽입되어 있음--><!--'부드드'에서 뒤쪽의 '드'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68a" n="6">眞實로 거러곳 ᄒᆞᆯ쟉시면 愛夫ㅣ 될가 ᄒᆞ노라</sent>
+<sent type="main" lang="kor" page="68a" n="7">天君衙門에 仰呈所志爲去乎 依所訴題給ᄒᆞ오쇼셔</sent>
+<sent type="main" lang="kor" page="68a-68b" n="8">人間 白髮이 平生에 □엄으로 ᄎᆞ마 못 볼 老人 광대 靑春少年들을 미러 가며 다 ᄠᅴ오되 그 즁□ 英雄豪傑으란 부듸 몬져 늙게 ᄒᆞ니 右良辭緣을 細細參商ᄒᆞ야 白髮禁止爲白只爲</sent><!--□^엄으로-->
+</pages>
+
+<pages n="68b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="68b" n="1">天君이 題辭를 ᄒᆞ오샤ᄃᆡ 世間公道를 白髮로 맛져 이셔 貴人頭上段置 撓改치 못ᄒᆞ거든 너ᄯᆞ려 分揀不得이라 相老施行向事</sent>
+<sent type="main" lang="kor" page="68b" n="2">니르랴 보쟈 니르랴 보쟈 내 아니 니르랴 내 남진 ᄃᆞ려</sent><!--'아니 니르랴'에서 뒤쪽의 '니'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68b" n="3">거즛 거스로 물 깃ᄂᆞᆫ 쳬ᄒᆞ고 통으란 ᄂᆞ리와 우물젼에 노코 ᄯᅩ아리 버서 통조지에 걸고 건넌집 쟈근 金書房을 눈ᄀᆡ야 불러ᄂᆡ여 두 손목 마조 덤셕 쥐고 슈근슈근 말ᄒᆞ다가 삼밧트로 드러가셔 므스 일 ᄒᆞ던지 ᄌᆞᆫ 삼은 ᄡᅳ러지고 굴근 삼대 ᄞᅳᆺ만 나마 우즑우즑 ᄒᆞ더라 ᄒᆞ고 내 아니 니르랴 내 남진ᄃᆞ려</sent><!--'슈근슈근, 우즑우즑'에서 뒤쪽의 '슈근, 우즑', '아니 니르랴'에서 뒤쪽의 '니'는 각기 재점으로 표기되어 있음'-->
+<sent type="main" lang="kor" page="68b" n="4">져 아희 입이 보도라와 거즛말 마라스라 우리ᄂᆞᆫ ᄆᆞ을 지서미라 실삼 죠곰 ᄏᆡ더니라</sent>
+<sent type="main" lang="kor" page="68b" n="5">쳥울치 뉵ᄂᆞᆯ 메토리 신고 휘대 長衫 두루혀 메고</sent>
+<sent type="main" lang="kor" page="68b-69a" n="6">瀟湘斑竹 열두 ᄆᆞ듸를 불흿재 ᄲᅢ쳐 집고 ᄆᆞ르 너머 재 너머 들 건너 벌 건너 靑山石逕으로 횟근누은 누은횟근 횟근동 너머 가읍거늘 보온가 못 보온가 긔 우리 난편 禪師 즁이</sent><!--靑山石逕으^로--><!--'누은횟근'의 '누은'과 '횟근동'의 '횟근'은 각기 재점으로 표기되어 있음--> 
+</pages>
+
+<pages n="69a">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="69a" n="1">ᄂᆞᆷ이셔 쥬ᇰ이라 ᄒᆞ여도 밤즁만 ᄒᆞ여셔 玉人 ᄀᆞᆺ튼 가슴 우희 슈박 ᄀᆞᆺ튼 머리를 둥글ᄭᅥᆯᄭᅥᆯ ᄭᅥᆯᄭᅥᆯ둥굴 둥굴둥실 둥굴러 긔여 올라올 져긔ᄂᆞᆫ 내사 죠해 즁 書房이</sent><!--'ᄭᅥᆯᄭᅥᆯ둥굴'의 'ᄭᅥᆯᄭᅥᆯ', '둥굴둥실'의 '둥굴'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69a" n="2">鎭國名山 萬杖峰이 靑天削出 金芙蓉이라</sent>
+<sent type="main" lang="kor" page="69a" n="3"> 巨壁은 屹立ᄒᆞ여 北祖三角이오 奇岩은 斗起ᄒᆞ여 南案蠶頭ㅣ로다 左龍은 駱山 右虎 仁王 瑞色은 盤空ᄒᆞ여 象闕에 어릐엿고 淑氣ᄂᆞᆫ 鍾英ᄒᆞ여 人傑을 비저내니 美哉라 我東山河之固여 聖代衣冠 太平文物이 萬萬歲之金湯이로다</sent>
+<sent type="main" lang="kor" page="69a" n="4">年豊코 國泰民安ᄒᆞ듸 九秋楓菊에 麟遊를 보려 ᄒᆞ고 面岳登臨ᄒᆞ여 醉飽盤桓ᄒᆞ오며셔 感激君恩ᄒᆞ여이다</sent>
+<sent type="main" lang="kor" page="69a" n="5">이제ᄂᆞᆫ 못 보게도 ᄒᆞ얘 못 볼시ᄂᆞᆫ 的實커다</sent>
+<sent type="main" lang="kor" page="69a-69b" n="6">萬里 가ᄂᆞᆫ 길헤 海口絶息ᄒᆞ고 銀河水 건너 ᄯᅱ여 北海 ᄀᆞ리지고 風土ㅣ 切甚ᄒᆞᆫ듸 深意山 ᄀᆞᆯ가마귀 太□□ □슭으로 골각골각 우닐며 □□□ □히 □…□ 죽ᄂᆞᆫ □□ 내 어듸 가셔 님 ᄎᆞ자 보리</sent><!--太□□ ^ □슭으로--><!--뒤쪽의 '골각'은 재점으로 표기되어 있음-->
+</pages>
+
+<pages n="69b">
+<img n="00">https://kohico.kr/_media/image/서명/00.jpg</img>
+<sent type="main" lang="kor" page="69b" n="1">아ᄒᆡ□ □□ □□□든 주려 죽단 말 ᄉᆡᆼ심도 말고 ᄡᅡᆯᄡᅡᆯ이 그리다가 어즐 病 어더셔 갓과 ᄲᅧ만 나마 달바조 밋트로 아장밧삭 건니다가 쟈근 쇼마 보신 後에 니마 우희 손을 언ᄭᅩ ᄒᆞᆫ 가레 추혀 들고 쟛바져 죽다 ᄒᆞ여라</sent>
+<sent type="main" lang="kor" page="69b" n="2">님이 오마 ᄒᆞ거ᄂᆞᆯ 져녁 밥을 일 지어 먹고</sent>
+<sent type="main" lang="kor" page="69b" n="3">中門 나셔 大門 나가 地方 우희 치ᄃᆞ라 안자 以手로 加額ᄒᆞ고 오ᄂᆞᆫ가 가ᄂᆞᆫ가 건넌山 ᄇᆞ라보니 거머횟들 셔 잇거ᄂᆞᆯ 져야 님이로다 보션 버서 품에 품고 신 버서 손에 쥐고 곰븨님븨 쳔방지방 지방쳔방 즌 듸 ᄆᆞ른 듸 ᄀᆞᆯ희지 말고 워렁충창 건너가셔 情엣 말 ᄒᆞ려 ᄒᆞ고 겻눈을 흘긧 보니 上年七月 열사흔날 ᄀᆞᆯ가 벅긴 주추리 삼대 ᄉᆞᆯ드리도 날 소겨다</sent><!--'가ᄂᆞᆫ가'의 첫 번째 '가', '지방쳔방'의 '지방'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69b" n="4">모쳐라 밤일싀만졍 ᄒᆡᆼ혀 낫이런들 ᄂᆞᆷ 우일 번ᄒᆞ괘라</sent>
+</pages>
+
+</doc>
+

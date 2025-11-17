@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">가례언해</title>
+<title lang="chi">家禮諺解</title>
+<full_name>가례언해</full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<nikl_name>가례언해</nikl_name><!--국립국어원(NIKL) 국어 어원사전 편찬 일반서명-->
+<general_name>가례언해</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name>가례언해; 가례해; 가언</another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고]가례;[디]가례해;가언;[우]가례;[이]가언;[표]가언;</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version>규장각본</version><!--청구기호: 奎1506. 권1 영본. 서울대 규장각, 가람문고, 경북대 도서관, 연세대 도서관, 고려대 도서관, 고려대 도서관 경화당문고, 장서각, 일본 동경대 오구라문고, 한글박물관 등에 있음.-->
+<volume n="4"/><!--가례언해범례, 가례도언해, 가례서언해, 가례언해 권지일 포함-->
+<author>신식</author>
+<date>1632</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>家禮諺解 券四</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각 영인본</publisher>
+<date>1983</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2016/02/15</date>
+<respStmt>
+<resp>입력자</resp><name>최종원</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>박진호</name>
+</respStmt>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>입력자</resp><name>이강혁</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정한데로</name>
+</respStmt>
+<item>한문 원문을 추가함</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/1632_가례언해04/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="1">家禮諺解券之四</sent>
+<sent type="title2" lang="chi" page="01a" n="2">昏禮</sent>
+<sent type="title3" lang="chi" page="01a" n="3">議昏</sent>
+<sent type="main" lang="chi" page="01a" n="4">男子ᄂᆞᆫ 年十六으로 至三十이오</sent>
+<sent type="main" lang="kor" page="01a" n="4">男子ᄂᆞᆫ 나히 十六으로 三十에 니ᄅᆞ고</sent>
+<sent type="main" lang="chi" page="01a" n="5">女子ᄂᆞᆫ 年十四로 至二十에</sent>
+<sent type="main" lang="kor" page="01a" n="5">女子ᄂᆞᆫ 나히 十四로 二十에 니ᄅᆞ매</sent>
+<sent type="anno" lang="chi" page="01a" n="6">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="01a" n="6">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="01a" n="7">古者男三十而娶</sent>
+<sent type="anno" lang="kor" page="01a" n="7">古者의 男은 三十에 娶쳐ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="01a" n="8">女二十而嫁</sent>
+<sent type="anno" lang="kor" page="01a" n="8">女는 二十에 혼嫁ᄒᆞ더니</sent>
+<sent type="anno" lang="chi" page="01a-01b" n="9">今令文男年十五 女年十三以上 並聴昏嫁</sent>
+<sent type="anno" lang="kor" page="01a-01b" n="9">이제 令文에 男年이 十五와 女年이 十三以上으로 다 昏嫁호믈 듣게 ᄒᆞ여시니</sent><!--三^以-->
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/1632_가례언해04/01b.jpg</img>
+<sent type="anno" lang="chi" page="01b" n="1">今為此説 所以參古今之道</sent>
+<sent type="anno" lang="kor" page="01b" n="1">이제 이 말 ᄒᆞ요ᄆᆞᆫ ᄡᅥ 古今에 道ᄅᆞᆯ 參샹ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="01b" n="2">酌禮令之典 順天地之理</sent>
+<sent type="anno" lang="kor" page="01b" n="2">禮令 의中을 짐酌ᄒᆞ며 天地의 理ᄅᆞᆯ 順게 ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="01b" n="3">合人情之宜也</sent>
+<sent type="anno" lang="kor" page="01b" n="3">人情의 맛당호ᄆᆞᆯ 合케 ᄒᆞᆫ 배니라</sent>
+<sent type="main" lang="chi" page="01b" n="4">身及主昏者ᅟᅵ 無期以上喪이라야 乃可成昏이니라</sent>
+<sent type="main" lang="kor" page="01b" n="4">당身과 밋 主昏ᄒᆞᄂᆞᆫ 者ᅟᅵ 朞 以上 喪이 업서야 이에 可히 成昏ᄒᆞᆯ디니라</sent>
+<sent type="anno" lang="chi" page="01b" n="5">大功未葬 亦不可主昏</sent>
+<sent type="anno" lang="kor" page="01b" n="5">大功이 영葬 몯ᄒᆞ야셔ᄂᆞᆫ ᄯᅩᄒᆞᆫ 可히 主昏티 몯ᄒᆞᆯ디니라</sent>
+<sent type="anno" lang="chi" page="01b-02a" n="6">凡主昏如冠禮主人之法</sent>
+<sent type="anno" lang="kor" page="01b-02a" n="6">믈읫 主昏ᄂᆞᆫ 冠禮예 主人이 法 ᄀᆞᄐᆞ니</sent><!--이 ^ 法-->
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/1632_가례언해04/02a.jpg</img>
+<sent type="anno" lang="chi" page="02a" n="1">但宗子自昏 則以族人之長為主</sent>
+<sent type="anno" lang="kor" page="02a" n="1">다만 宗子ᅟᅵ 제昏ᄒᆞ면 族人의 얼운으로ᄡᅥ 主ᄅᆞᆯ 사ᄆᆞ라</sent>
+<sent type="main" lang="chi" page="02a" n="2">必先使媒氏로 往來通言ᄒᆞ야</sent>
+<sent type="main" lang="kor" page="02a" n="2">반ᄃᆞ시 몬져 듕인으로 ᄒᆡ여 往來ᄒᆞ야 말ᄉᆞᆷ을 통ᄒᆞ야</sent>
+<sent type="main" lang="chi" page="02a" n="3">俟女氏許之 然後에 納采ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="02a" n="3">女氏 편의 許락호ᄆᆞᆯ 기ᄃᆞᆯ워 그린 後에 納采ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="02a" n="4">司馬溫公曰</sent>
+<sent type="anno" lang="kor" page="02a" n="4">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="02a" n="5">凡議昏姻 當先察其　與婦之性行 及家法何如</sent>
+<sent type="anno" lang="kor" page="02a" n="5">믈읫 昏姻을 議논호매 맛當이 몬져 그 壻와 다ᄆᆞᆺ 婦의 性行과 밋 家法이 엇더호ᄆᆞᆯ ᄉᆞᆯ피고</sent>
+<sent type="anno" lang="chi" page="02a" n="6">勿苟慕其富貴</sent>
+<sent type="anno" lang="kor" page="02a" n="6">苟챠히 그 富貴호ᄆᆞᆯ ᄉᆞ慕티 말올디니</sent>
+<sent type="anno" lang="chi" page="02a-02b" n="7">壻茍賢矣 今雖貧賤 安知異時不富貴乎</sent>
+<sent type="anno" lang="kor" page="02a-02b" n="7">壻ᅟᅵ 진실로 어딜면 이제 비록 貧賤ᄒᆞ나 다ᄅᆞᆫ 時졀의 富貴티 아닐 줄을 엇디 알□□</sent><!--賤^ᄒᆞ-->
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/1632_가례언해04/02b.jpg</img>
+<sent type="anno" lang="chi" page="02b" n="1">茍為不肖 今雖富盛</sent>
+<sent type="anno" lang="kor" page="02b" n="1">실로 不肖ᄒᆞ면 이제 비록 富盛ᄒᆞ나</sent><!--'실로'는 '진실로'로 추정-->
+<sent type="anno" lang="chi" page="02b" n="2">安知異時不貧賤乎</sent>
+<sent type="anno" lang="kor" page="02b" n="2">다ᄅᆞᆫ 時졀의 貧賤티 아닐 줄을 엇디 알리오</sent>
+<sent type="anno" lang="chi" page="02b" n="3">婦者 家之所由盛衰也</sent>
+<sent type="anno" lang="kor" page="02b" n="3">婦ᅟᅵ란 거ᄉᆞᆫ 집의 말ᄆᆡ아마 盛ᄒᆞ며 衰ᄒᆞᄂᆞᆫ 배니</sent>
+<sent type="anno" lang="chi" page="02b" n="4">茍慕其一時之富貴而娶之</sent>
+<sent type="anno" lang="kor" page="02b" n="4">苟챠히 그 一時의 富貴ᄅᆞᆯ ᄉᆞ慕ᄒᆞ야 娶ᄒᆞ면</sent>
+<sent type="anno" lang="chi" page="02b" n="5">彼挾其富貴 鮮有不輕其夫而傲其舅姑</sent>
+<sent type="anno" lang="kor" page="02b" n="5">뎨 그 富貴ᄅᆞᆯ ᄞᅧ셔 그 남편을 가ᄇᆡ야이 녀기며 싀어버이ᄅᆞᆯ 업쇼이 녀기디 아니리 젹ᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="02b" n="6">養成驕妬之性 異日為患 庸有極乎</sent>
+<sent type="anno" lang="kor" page="02b" n="6">驕만ᄒᆞ고 새오ᄂᆞᆫ 性을 쳐 일오면 다ᄅᆞᆫ 나ᄅᆡ 患이 되미 엇디 ᄀᆞ이 이시리오</sent>
+<sent type="anno" lang="chi" page="02b" n="7">借使因婦財以致富</sent>
+<sent type="anno" lang="kor" page="02b" n="7">가使 婦의 財믈을 因ᄒᆞ야 ᄡᅥ 富호믈 닐위고</sent>
+<sent type="anno" lang="chi" page="02b" n="8">依婦勢以取貴</sent>
+<sent type="anno" lang="kor" page="02b" n="8">婦의 勢ᄅᆞᆯ 依지ᄒᆞ야 ᄡᅥ 貴호ᄆᆞᆯ 取ᄒᆞ나</sent>
+<sent type="anno" lang="chi" page="02b-03a" n="9">茍有丈夫之志氣者 能無媿乎</sent>
+<sent type="anno" lang="kor" page="02b-03a" n="9">진실로 丈夫의 志氣ᄅᆞᆯ 든ᄂᆞᆫ 者ᅟᅵ면 能히 붓그러우미 업스랴</sent><!--氣^ᄅᆞᆯ-->
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/1632_가례언해04/03a.jpg</img>
+<sent type="anno" lang="chi" page="03a" n="1">又世俗好於襁褓童幼之時 輕許為昏</sent>
+<sent type="anno" lang="kor" page="03a" n="1">ᄯᅩ 世俗이 기ᄉᆡ ᄡᆞ여 어려신 제 輕히 昏인을 許호ᄆᆞᆯ 됴히 녀기며</sent>
+<sent type="anno" lang="chi" page="03a" n="2">亦有指腹為昏者</sent>
+<sent type="anno" lang="kor" page="03a" n="2">ᄯᅩ ᄇᆡᄅᆞᆯ ᄀᆞᄅᆞ쳐 昏인ᄒᆞ쟈 ᄒᆞ리 잇다가</sent>
+<sent type="anno" lang="chi" page="03a" n="3">及其既長 或不肖無賴</sent>
+<sent type="anno" lang="kor" page="03a" n="3">그 □의 ᄌᆞ라매 미처ᄂᆞᆫ 或 不肖ᄒᆞ야 無賴ᄒᆞ거나</sent><!--'□' 판독모호. '임'으로 추정-->
+<sent type="anno" lang="chi" page="03a" n="4">或身有惡疾</sent>
+<sent type="anno" lang="kor" page="03a" n="4">或 몸의 惡疾을 듯거나</sent>
+<sent type="anno" lang="chi" page="03a" n="5">或家貧凍餒</sent>
+<sent type="anno" lang="kor" page="03a" n="5">或 집이 가난ᄒᆞ야 얼며 주리거나</sent>
+<sent type="anno" lang="chi" page="03a" n="6">或喪服相仍</sent>
+<sent type="anno" lang="kor" page="03a" n="6">或 喪服이 서ᄅᆞ 仍ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="03a" n="7">或從宦達方</sent>
+<sent type="anno" lang="kor" page="03a" n="7">或 먼ᄃᆡ 벼ᄉᆞᆯᄒᆞ여 가거나 ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="03a" n="8">遂至棄信負約</sent>
+<sent type="anno" lang="kor" page="03a" n="8">드듸여 信을 ᄇᆞ리며 언約을 져ᄇᆞ리매 니ᄅᆞ러</sent>
+<sent type="anno" lang="chi" page="03a" n="9">速獄致訟者多矣</sent>
+<sent type="anno" lang="kor" page="03a" n="9">獄ᄉᆞᄅᆞᆯ 速ᄒᆞ며 訟ᄉᆞᄅᆞᆯ 닐윌 者ᅟᅵ 만ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="03a" n="10">是以 先祖太尉嘗曰</sent>
+<sent type="anno" lang="kor" page="03a" n="10">이러모로ᄡᅥ 先祖 太尉 일즉 ᄀᆞᄅᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="03a" n="11">吾家男女 必俟旣長 然後議昏</sent>
+<sent type="anno" lang="kor" page="03a" n="11">우리집의 男女는 반ᄃᆞ시 임의 ᄌᆞ라믈 기ᄃᆞ론 後에 議昏ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="03a-03b" n="12">旣通書 不數月必成昏</sent>
+<sent type="anno" lang="kor" page="03a-03b" n="12">임의 通書호매 두어 ᄃᆞᆯ 몯ᄒᆞ여셔 반ᄃᆞ시 成昏ᄒᆞᄂᆞᆫ 故로</sent><!--임^의-->
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/1632_가례언해04/03b.jpg</img>
+<sent type="anno" lang="chi" page="03b" n="1">故終身無此悔</sent>
+<sent type="anno" lang="kor" page="03b" n="1">終身토록 이런 뉘우츠미 업다 ᄒᆞ시니</sent>
+<sent type="anno" lang="chi" page="03b" n="2">乃子孫所當法也</sent>
+<sent type="anno" lang="kor" page="03b" n="2">이 子孫의 맛당히 法 바ᄃᆞᆯ 배니라</sent>
+<sent type="title3" lang="chi" page="03b" n="3">納采</sent>
+<sent type="title3" lang="kor" page="03b" n="3">納采</sent>
+<sent type="anno" lang="chi" page="03b" n="4">納其采擇之禮</sent>
+<sent type="anno" lang="kor" page="03b" n="4">그 采擇ᄒᆞᄂᆞᆫ 禮ᄅᆞᆯ 納호미니</sent>
+<sent type="anno" lang="chi" page="03b" n="5">即今世俗所謂言定也</sent>
+<sent type="anno" lang="kor" page="03b" n="5">이제 世俗의 닐온 바 言定호미라</sent>
+<sent type="main" lang="chi" page="03b" n="6">主人이 具書ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="03b" n="6">主人이 이무ᄅᆞᆯ ᄀᆞ초라</sent>
+<sent type="anno" lang="chi" page="03b" n="7">主人即主昏者</sent>
+<sent type="anno" lang="kor" page="03b" n="7">主人은 곧 主昏ᄒᆞᄂᆞᆫ 者ᅟᅵ니</sent>
+<sent type="anno" lang="chi" page="03b" n="8">書用牋紙 如世俗之禮</sent>
+<sent type="anno" lang="kor" page="03b" n="8">이무ᄅᆞᆯ 화牋紙ᄅᆞᆯ ᄡᅥ 世俗의 禮ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="03b" n="9">若族人之子 則其父具書告于宗子</sent>
+<sent type="anno" lang="kor" page="03b" n="9">만일 族人의 子ᅟᅵ어든 그 父ᅟᅵ 이무ᄅᆞᆯ ᄀᆞ초와 宗子ᄭᅴ 告ᄒᆞ라</sent>
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/1632_가례언해04/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="1">夙興ᄒᆞ야 奉以告祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="04a" n="1">일 니러 밧드와 ᄡᅥ 司堂의 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="04a" n="2">如告冠儀</sent>
+<sent type="anno" lang="kor" page="04a" n="2">冠 告ᄒᆞᄂᆞᆫ 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="04a" n="3">其祝版前同</sent>
+<sent type="anno" lang="kor" page="04a" n="3">그 祝版이 前 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="04a" n="4">但云 某之子某</sent>
+<sent type="anno" lang="kor" page="04a" n="4">다만 닐오ᄃᆡ 某之子某ᅟᅵ라 ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="04a" n="5">若某之某親之子某 年已長成 未有伉儷</sent>
+<sent type="anno" lang="kor" page="04a" n="5">若某之某親之子某ᅟᅵ 年已長成호ᄃᆡ 未有伉儷ᅟᅵ러니</sent>
+<sent type="anno" lang="chi" page="04a" n="6">已議娶某官某郡姓名之女 今日納采 不勝感愴</sent>
+<sent type="anno" lang="kor" page="04a" n="6">已議娶某官某郡姓名之女ᄒᆞ야 今日에 納采ᄒᆞ니 不勝感愴이라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="04a" n="7">謹以 後同</sent>
+<sent type="anno" lang="kor" page="04a" n="7">謹 以後ᄂᆞᆫ ᄀᆞᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="04a" n="8">若宗子自昏 則自告</sent>
+<sent type="anno" lang="kor" page="04a" n="8">만일 宗子ᅟᅵ 제 昏ᄒᆞ거든 제 告ᄒᆞ라</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/1632_가례언해04/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="1">乃使子弟로 爲使者ᄒᆞ야 如女氏어든</sent>
+<sent type="main" lang="kor" page="04b" n="1">이에 子弟로 ᄒᆡ여 使者ᄅᆞᆯ 사마 女氏의게 니거든</sent>
+<sent type="main" lang="chi" page="04b" n="2">女氏主人이 出見使者ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="04b" n="2">女氏□ 主人이나 使者ᄅᆞᆯ 보라</sent>
+<sent type="anno" lang="chi" page="04b" n="3">使者盛服如女氏</sent>
+<sent type="anno" lang="kor" page="04b" n="3">使者ᅟᅵ 盛服ᄒᆞ고 女氏의게 니거든</sent>
+<sent type="anno" lang="chi" page="04b" n="4">女氏亦宗子為主</sent>
+<sent type="anno" lang="kor" page="04b" n="4">女氏의게셔도 ᄯᅩ 宗子ᅟᅵ 主ᅟᅵ 될디니</sent>
+<sent type="anno" lang="chi" page="04b" n="5">主人盛服出見使者</sent>
+<sent type="anno" lang="kor" page="04b" n="5">主人이 盛服ᄒᆞ고 나 使者ᄅᆞᆯ 보되</sent>
+<sent type="anno" lang="chi" page="04b" n="6">非宗子之女</sent>
+<sent type="anno" lang="kor" page="04b" n="6">宗子의 女ᅟᅵ 아니어든</sent>
+<sent type="anno" lang="chi" page="04b" n="7">則其父位於主人之右 尊則少進 卑則少退</sent>
+<sent type="anno" lang="kor" page="04b" n="7">그 父ᅟᅵ 主人의 右에 位ᄒᆞ야 尊ᄒᆞ면 져기 낫고 卑ᄒᆞ면 져기 므르라</sent>
+<sent type="anno" lang="chi" page="04b" n="8">啜茶畢 使者起 致辭曰</sent>
+<sent type="anno" lang="kor" page="04b" n="8">茶 먹기 ᄆᆞᆺ고 使者ᅟᅵ 니러셔 말ᄉᆞᆷ을 닐위여 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="04b-05a" n="9">吾子有惠 貺室某也 某之某親某官有先人之禮</sent>
+<sent type="anno" lang="kor" page="04b-05a" n="9">吾子ᅟᅵ 有惠ᄒᆞ샤 貺室某也 ᄒᆞ시니 某之某親某官이 有先人之禮ᄒᆞ야</sent><!--官^이-->
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/1632_가례언해04/05a.jpg</img>
+<sent type="anno" lang="chi" page="05a" n="1">使某請納采</sent>
+<sent type="anno" lang="kor" page="05a" n="1">使某로 請納采라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="05a" n="2">從者以書進 使者以書授主人</sent>
+<sent type="anno" lang="kor" page="05a" n="2">從者ᅟᅵ 書로ᄡᅥ 나아든 使者ᅟᅵ 書로ᄡᅥ 主人을 주어든</sent>
+<sent type="anno" lang="chi" page="05a" n="3">主人對曰</sent>
+<sent type="anno" lang="kor" page="05a" n="3">主人이 對ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="05a" n="4">某之子若妹姪孫 惷愚又弗能教</sent>
+<sent type="anno" lang="kor" page="05a" n="4">某之子ᅟᅵ라 ᄒᆞ거나 若妹姪孫ᅟᅵ 憃愚ᄒᆞ고 又弗能敎ᅟᅵ언마ᄂᆞᆫ</sent>
+<sent type="anno" lang="chi" page="05a" n="5">吾子命之</sent>
+<sent type="anno" lang="kor" page="05a" n="5">吾子ᅟᅵ 命之ᄒᆞ시니</sent>
+<sent type="anno" lang="chi" page="05a" n="6">某不敢辭</sent>
+<sent type="anno" lang="kor" page="05a" n="6">某ᅟᅵ 不敢辭ᅟᅵ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="05a" n="7">北向再拜 使者避不答拜</sent>
+<sent type="anno" lang="kor" page="05a" n="7">北向再拜ᄒᆞ여든 使者ᅟᅵ 避ᄒᆞ야 答拜 말라</sent>
+<sent type="anno" lang="chi" page="05a" n="8">使者請退俟命 出就次</sent>
+<sent type="anno" lang="kor" page="05a" n="8">使者ᅟᅵ 믈러셔 命을 기ᄃᆞᆯ워지라 請ᄒᆞ고 나와 막 次의 나아가라</sent>
+<sent type="anno" lang="chi" page="05a" n="9">若許嫁者 於主人爲姑姊</sent>
+<sent type="anno" lang="kor" page="05a" n="9">만일 許嫁者ᅟᅵ 主人의게 姑ᅟᅵ어나 妹ᅟᅵ어나 ᄒᆞ면</sent>
+<sent type="anno" lang="chi" page="05a-05b" n="10">則不云舂愚又不能敎</sent>
+<sent type="anno" lang="kor" page="05a-05b" n="10">憃愚又不能敎ᅟᅵ라 니ᄅᆞ디 말라</sent><!--ᄅᆞ^디-->
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/1632_가례언해04/05b.jpg</img>
+<sent type="anno" lang="chi" page="05b" n="1">餘辭並同</sent>
+<sent type="anno" lang="kor" page="05b" n="1">녀나믄 말ᄉᆞᆷ은 다 ᄀᆞᄐᆞ니라</sent>
+<sent type="main" lang="chi" page="05b" n="2">遂奉書ᄒᆞ야 以告于祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="05b" n="2">드듸여 書ᄅᆞᆯ 받드와 ᄡᅥ 祠堂의 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05b" n="3">如壻家之儀</sent>
+<sent type="anno" lang="kor" page="05b" n="3">壻家의 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="05b" n="4">祝版前同</sent>
+<sent type="anno" lang="kor" page="05b" n="4">祝版이 前과 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="05b" n="5">但云 某之第幾女</sent>
+<sent type="anno" lang="kor" page="05b" n="5">다만 닐오ᄃᆡ 某之第幾女ᅟᅵ라 ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="05b" n="6">若某親某之第幾女 年漸長成</sent>
+<sent type="anno" lang="kor" page="05b" n="6">若某親某之第幾女ᅟᅵ 年漸長成ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="05b" n="7">已許嫁某官某郡姓名之子</sent>
+<sent type="anno" lang="kor" page="05b" n="7">已許嫁某官某郡姓名之子ᅟᅵ라 ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="05b" n="8">若某親某 今日納采</sent>
+<sent type="anno" lang="kor" page="05b" n="8">若某親某ᄒᆞ야 今日에 納采ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="05b" n="9">不勝感愴 謹以後同</sent>
+<sent type="anno" lang="kor" page="05b" n="9">不勝感愴이라 ᄒᆞ라 謹以後ᄂᆞᆫ ᄀᆞᄐᆞ니라</sent>
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/1632_가례언해04/06a.jpg</img>
+<sent type="main" lang="chi" page="06a" n="1">出ᄒᆞ야 以復書로 授使者ᄒᆞ고 遂禮之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="06a" n="1">나와 답장으로ᄡᅥ 使者ᄅᆞᆯ 주고 드듸여 禮ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06a" n="2">主人出 延使者升堂 授以復書</sent>
+<sent type="anno" lang="kor" page="06a" n="2">主人이 나와 使者ᄅᆞᆯ 마자 堂의 올라셔 답장으로ᄡᅥ 주어든</sent>
+<sent type="anno" lang="chi" page="06a" n="3">使者受之 請退</sent>
+<sent type="anno" lang="kor" page="06a" n="3">使者ᅟᅵ 받고 믈러 니거지라</sent>
+<sent type="anno" lang="chi" page="06a" n="4">主人請禮賓 乃以酒饌禮使者</sent>
+<sent type="anno" lang="kor" page="06a" n="4">請ᄒᆞ여든 主人이 禮賓ᄒᆞ야지라 請ᄒᆞ고 이에 酒饌으로ᄡᅥ 使者ᄅᆞᆯ 禮ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06a" n="5">使者至是 始與主人交拜揖 如常日賓客之禮</sent>
+<sent type="anno" lang="kor" page="06a" n="5">使者ᅟᅵ 이에 니ᄅᆞ러 비로소 主人으로 더브러 서ᄅᆞ 拜ᄒᆞ며 揖ᄒᆞ기ᄅᆞᆯ 常시 賓客禮ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06a" n="6">其從者亦禮之别室 皆酬以幣</sent>
+<sent type="anno" lang="kor" page="06a" n="6">그 從者ᄅᆞᆯ ᄯᅩ 別室의 가 禮ᄒᆞ고 다 幣ᄇᆡᆨ으로ᄡᅥ 주라</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/1632_가례언해04/06b.jpg</img>
+<sent type="main" lang="chi" page="06b" n="1">使者ᅟᅵ 復命이어든</sent>
+<sent type="main" lang="kor" page="06b" n="1">使者ᅟᅵ 復命ᄒᆞ여든</sent>
+<sent type="main" lang="chi" page="06b" n="2">壻氏主人이 復以告于祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="06b" n="2">壻氏의 主人이 다시 ᄡᅥ 祠堂의 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06b" n="3">不用祝</sent>
+<sent type="anno" lang="kor" page="06b" n="3">祝문을 ᄡᅳ디 말라</sent>
+<sent type="title3" lang="chi" page="06b" n="4">納幣</sent>
+<sent type="title3" lang="kor" page="06b" n="4">納幣</sent>
+<sent type="anno" lang="chi" page="06b" n="5">古禮 有問名納吉</sent>
+<sent type="anno" lang="kor" page="06b" n="5">古禮예 問名ᄒᆞ며 納吉호미 잇더니</sent>
+<sent type="anno" lang="chi" page="06b" n="5">今不能盡用 止用納采納幣 以從簡便</sent>
+<sent type="anno" lang="kor" page="06b" n="5">이제 能히 다 ᄡᅳ디 몯ᄒᆞ아 다만 納采와 納幣ᄅᆞᆯ ᄡᅥ셔 ᄡᅥ곰 簡便호ᄆᆞᆯ 좃노라</sent>
+<sent type="main" lang="chi" page="06b" n="6">納幣ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="06b" n="6">幣ᄅᆞᆯ 納ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="06b" n="7">幣用色繒</sent>
+<sent type="anno" lang="kor" page="06b" n="7">幣ᄅᆞᆯ 色비단을 ᄡᅥ 호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="06b" n="8">貧富隨宜 少不過兩</sent>
+<sent type="anno" lang="kor" page="06b" n="8">貧富ᄅᆞᆯ 隨宜ᄒᆞ야 져거도 두 필에 디오디 말며</sent>
+<sent type="anno" lang="chi" page="06b" n="9">多不踰十</sent>
+<sent type="anno" lang="kor" page="06b" n="9">만하도 열 필에 넘고디 말라</sent>
+<sent type="anno" lang="chi" page="06b-07a" n="10">今人更用釵釧羊酒果實之屬 亦可</sent>
+<sent type="anno" lang="kor" page="06b-07a" n="10">이제 사ᄅᆞᆷ이 다시 釵釧이며 羊酒ᅟᅵ며 果實뉴ᄅᆞᆯ ᄡᅳ니 ᄯᅩ 可ᄒᆞ니라</sent><!--제 ^ 사-->
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/1632_가례언해04/07a.jpg</img>
+<sent type="main" lang="chi" page="07a" n="1">具書ᄒᆞ야 遣使如女氏어든</sent>
+<sent type="main" lang="kor" page="07a" n="1">이무ᄅᆞᆯ ᄀᆞ초와 使ᄅᆞᆯ 보내여 女氏의게 니거든</sent>
+<sent type="main" lang="chi" page="07a" n="2">女氏受書ᅟᅵ며 復書ᅟᅵ며 禮賓ᅟᅵ며 使者ᅟᅵ 復命을 並同納采之儀ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="07a" n="2">女氏편이 이무 받기며 이무 ᄃᆡ답ᄒᆞ기며 賓을 禮ᄒᆞ기며 使者ᅟᅵ 復命ᄒᆞ기ᄅᆞᆯ 다 納采ᄒᆞᄂᆞᆫ 녜 ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="07a" n="3">禮如納采</sent>
+<sent type="anno" lang="kor" page="07a" n="3">禮 納采ᄒᆞᆯ 적 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="07a" n="4">但不告廟 使者致辭 改采爲幣</sent>
+<sent type="anno" lang="kor" page="07a" n="4">다만 告廟ᄒᆞ디 말고 使者ᅟᅵ 致辭ᄒᆞᆯ 제 采ᄅᆞᆯ 고텨 幣라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="07a-07b" n="5">從者以書幣進 使者以書授主人</sent>
+<sent type="anno" lang="kor" page="07a-07b" n="5">從者ᅟᅵ 書와 幣로ᄡᅥ 나아든 使者ᅟᅵ 書로ᄡᅥ 主人을 주어든</sent><!--者^ᅟᅵ-->
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/1632_가례언해04/07b.jpg</img>
+<sent type="anno" lang="chi" page="07b" n="1">主人對曰 吾子順先典 貺某重禮</sent>
+<sent type="anno" lang="kor" page="07b" n="1">主人이 對ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ 吾子ᅟᅵ 順先典ᄒᆞ샤 貺某重禮ᄒᆞ시니</sent>
+<sent type="anno" lang="chi" page="07b" n="2">某不敢辭 敢不承命</sent>
+<sent type="anno" lang="kor" page="07b" n="2">某ᅟᅵ 不敢辭ᄒᆞ노니 敢不承命가 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="07b" n="3">乃受書 執事者受幣</sent>
+<sent type="anno" lang="kor" page="07b" n="3">이에 書ᄅᆞᆯ 밧고 執事者ᅟᅵ 幣ᄅᆞᆯ 밧고</sent>
+<sent type="anno" lang="chi" page="07b" n="4">主人再拜 使者避之 復進請命</sent>
+<sent type="anno" lang="kor" page="07b" n="4">主人이 再拜ᄒᆞ거든 使者ᅟᅵ 避ᄒᆞ엿다가 다시 나아가 請命ᄒᆞ어든</sent>
+<sent type="anno" lang="chi" page="07b" n="5">主人授以復書</sent>
+<sent type="anno" lang="kor" page="07b" n="5">主人이 답書로ᄡᅥ 주라</sent>
+<sent type="anno" lang="chi" page="07b" n="6">餘並同</sent>
+<sent type="anno" lang="kor" page="07b" n="6">녀나믄 거ᄉᆞᆫ 다 ᄀᆞᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="07b" n="7">楊氏復曰</sent>
+<sent type="anno" lang="kor" page="07b" n="7">楊氏 復이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="07b-08a" n="8">昏禮有納采 問名 納吉 納徴 請期 親迎六禮</sent>
+<sent type="anno" lang="kor" page="07b-08a" n="8">昏禮애 納采과 問名과 納吉과 納徵과 請期와 親迎ᄒᆞᄂᆞᆫ 六禮 잇거ᄅᆞᆯ</sent><!--迎^ᄒᆞ-->
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/1632_가례언해04/08a.jpg</img>
+<sent type="anno" lang="chi" page="08a" n="1">家禮略去問名納吉 止用納采納幣 以從簡便</sent>
+<sent type="anno" lang="kor" page="08a" n="1">家禮애 問名과 納吉을 더러 ᄇᆞ리고 다만 納采와 納幣ᄅᆞᆯ ᄡᅳ믄 ᄡᅥ곰 簡便호믈 조ᄎᆞ미이니와</sent>
+<sent type="anno" lang="chi" page="08a" n="2">但親迎以前更有請期一節</sent>
+<sent type="anno" lang="kor" page="08a" n="2">다만 親迎 以前애 다시 請期ᄒᆞᄂᆞᆫ 一節이 이시니</sent>
+<sent type="anno" lang="chi" page="08a" n="3">有不可得而略者</sent>
+<sent type="anno" lang="kor" page="08a" n="3">可히 시러곰 더디 몯ᄒᆞᆯ 者ᅟᅵ 인ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="08a" n="4">今以倒推之</sent>
+<sent type="anno" lang="kor" page="08a" n="4">이제 규例로ᄡᅥ 推이ᄒᆞ건대ᄂᆞᆫ</sent>
+<sent type="anno" lang="chi" page="08a" n="5">請期 具書遣使如女氏</sent>
+<sent type="anno" lang="kor" page="08a" n="5">請期ᄒᆞᆯ 제 書ᄅᆞᆯ ᄀᆞᆺ초와 使쟈ᄅᆞᆯ 보내여 女氏의게 가든</sent>
+<sent type="anno" lang="chi" page="08a" n="6">女氏受書 復書 禮賓</sent>
+<sent type="anno" lang="kor" page="08a" n="6">女氏書ᄅᆞᆯ 受ᄒᆞ며 書ᄅᆞᆯ 復ᄒᆞ며 賓을 禮ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="08a" n="7">使者復命 並同納采之儀</sent>
+<sent type="anno" lang="kor" page="08a" n="7">使者ᅟᅵ 命을 復홈이 다 納采ᄒᆞᄂᆞᆫ 녜와 ᄀᆞᆺᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="08a" n="8">使者致辭曰</sent>
+<sent type="anno" lang="kor" page="08a" n="8">使者ᅟᅵ 말ᄉᆞᆷ을 닐외여 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="08a-08b" n="9">吾子有賜命 某既申受命矣</sent>
+<sent type="anno" lang="kor" page="08a-08b" n="9">吾子ᅟᅵ 주신 命이 이시니 某ᅟᅵ 임의 다시곰 命을 受ᄒᆞ연ᄂᆞᆫ디라</sent><!--某^ᅟᅵ-->
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/1632_가례언해04/08b.jpg</img>
+<sent type="anno" lang="chi" page="08b" n="1">使某也 請吉日</sent>
+<sent type="anno" lang="kor" page="08b" n="1">날로 ᄒᆡ여곰 吉日을 請ᄒᆞ라 ᄒᆞ연ᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="08b" n="2">主人曰 某旣前受命矣</sent>
+<sent type="anno" lang="kor" page="08b" n="2">主人이 ᄀᆞᆯ오ᄃᆡ 某ᅟᅵ 임의 前의 命을 受ᄒᆞ연ᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="08b" n="3">惟命是聽</sent>
+<sent type="anno" lang="kor" page="08b" n="3">오직 命대로 이에 聽호리라</sent>
+<sent type="anno" lang="chi" page="08b" n="4">賓曰 某命某聽命於吉子</sent>
+<sent type="anno" lang="kor" page="08b" n="4">賓이 ᄀᆞᆯ오ᄃᆡ 某ᅟᅵ 某ᄅᆞᆯ 命ᄒᆞ야 吾子ᄭᅴ 命을 듯ᄌᆞ오라 ᄒᆞ연ᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="08b" n="5">主人曰 某固惟命是聽</sent>
+<sent type="anno" lang="kor" page="08b" n="5">主人이 ᄀᆞᆯ오ᄃᆡ 某ᅟᅵ 진실로 오직 命대로 이에 듯ᄌᆞ오리라</sent>
+<sent type="anno" lang="chi" page="08b" n="6">賓曰 某受命 吾子不許 某敢不告期</sent>
+<sent type="anno" lang="kor" page="08b" n="6">賓이 ᄀᆞᆯ오ᄃᆡ 某ᅟᅵ 命을 밧ᄌᆞ오려 ᄒᆞ거ᄅᆞᆯ 吾子ᅟᅵ 許티 아니ᄒᆞ시니 某ᅟᅵ 敢히 期ᄅᆞᆯ 告티 아니랴 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="08b" n="7">曰 某日</sent>
+<sent type="anno" lang="kor" page="08b" n="7">ᄀᆞᆯ오ᄃᆡ 아ᄆᆞ 날이니라</sent>
+<sent type="anno" lang="chi" page="08b" n="8">主人曰 某敢不謹須</sent>
+<sent type="anno" lang="kor" page="08b" n="8">主人이 ᄀᆞᆯ오ᄃᆡ 某ᅟᅵ 敢히 삼가 기ᄃᆞᆯ오디 아니ᄒᆞ랴</sent>
+<sent type="anno" lang="chi" page="08b-09a" n="9">餘並同</sent>
+<sent type="anno" lang="kor" page="08b-09a" n="9">녀나ᄆᆞᆫ 녜ᄂᆞᆫ 다 ᄀᆞᄐᆞ니라</sent><!--ᄆᆞᆫ ^ 녜-->
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/1632_가례언해04/09a.jpg</img>
+<sent type="title3" lang="chi" page="09a" n="1">親迎</sent>
+<sent type="title3" lang="kor" page="09a" n="1">親迎</sent>
+<sent type="anno" lang="chi" page="09a" n="2">朱子曰</sent>
+<sent type="anno" lang="kor" page="09a" n="2">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="09a" n="3">親迎之禮 恐從伊川之説為是</sent>
+<sent type="anno" lang="kor" page="09a" n="3">親迎ᄒᆞᄂᆞᆫ 禮ᄂᆞᆫ 저컨대ᄂᆞᆫ 伊川 말ᄉᆞᆷ을 조ᄎᆞ미 올ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="09a" n="4">近則迎於其國 遠則迎於其館</sent>
+<sent type="anno" lang="kor" page="09a" n="4">갓가오면 그 國의 迎ᄒᆞ고 멀면 그 샤館애 迎ᄒᆞᆯ디니라</sent>
+<sent type="anno" lang="chi" page="09a" n="5">今妻家遠 要行禮</sent>
+<sent type="anno" lang="kor" page="09a" n="5">이제 妻家ᅟᅵ 멀거든 行禮홈을 要구ᄒᆞᆯ 딘대ᄂᆞᆫ</sent>
+<sent type="anno" lang="chi" page="09a" n="6">一則令妻家就近處設一處</sent>
+<sent type="anno" lang="kor" page="09a" n="6">ᄒᆞᆫ 가지로ᄂᆞᆫ 妻家로 ᄒᆡ야곰 近處의 就ᄒᆞ야 ᄒᆞᆫ 處소ᄅᆞᆯ ᄇᆡ設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="09a" n="7">却就彼往迎 歸館行禮</sent>
+<sent type="anno" lang="kor" page="09a" n="7">믄득 뎨 나아가셔 가 迎ᄒᆞ야 샤館의 도라와 行禮ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="09a" n="8">一則妻家出至逺處</sent>
+<sent type="anno" lang="kor" page="09a" n="8">ᄒᆞᆫ 가지로ᄂᆞᆫ 妻家ᅟᅵ 나와 ᄒᆞᆫ 處소애 닐을엇거든</sent>
+<sent type="anno" lang="chi" page="09a" n="9">壻即就彼迎</sent>
+<sent type="anno" lang="kor" page="09a" n="9">壻ᅟᅵ 곳 뎨 나아가 마자 도라와</sent>
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/1632_가례언해04/09b.jpg</img>
+<sent type="anno" lang="chi" page="09b" n="1">歸至家成禮</sent>
+<sent type="anno" lang="kor" page="09b" n="1">집의 닐으러 禮ᄅᆞᆯ 일올디니라</sent>
+<sent type="anno" lang="chi" page="09b" n="2">有問 昏禮</sent>
+<sent type="anno" lang="kor" page="09b" n="2">昏禮ᄅᆞᆯ 뭇ᄌᆞ오리 이쇼ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="09b" n="3">今有士人對俗人結姻</sent>
+<sent type="anno" lang="kor" page="09b" n="3">이제 士人이 이셔 俗人으로 對ᄒᆞ야 혼姻을 結약ᄒᆞᆯ ᄉᆡ</sent>
+<sent type="anno" lang="chi" page="09b" n="4">士人欲行昏禮 而彼家不從 如何</sent>
+<sent type="anno" lang="kor" page="09b" n="4">士人은 昏禮ᄅᆞᆯ 行코져 호ᄃᆡ 뎌 집이 좃디 아니면 엇디ᄒᆞ리잇고</sent>
+<sent type="anno" lang="chi" page="09b" n="5">曰 這也只得宛轉使人去 與他商量</sent>
+<sent type="anno" lang="kor" page="09b" n="5">ᄀᆞᆯᄋᆞ샤ᄃᆡ 이 다만 시러곰 宛轉히 사ᄅᆞᆷ 브려가 뎔로 더브러 商量ᄒᆞ야 홀디니</sent>
+<sent type="anno" lang="chi" page="09b" n="6">但古禮 也省徑 人何苦不行</sent>
+<sent type="anno" lang="kor" page="09b" n="6">다만 古禮 감省ᄒᆞ고 徑편ᄒᆞ니 사ᄅᆞᆷ이 므어슬 苦로이 너겨 行티 아니ᄒᆞ리오</sent>
+<sent type="main" lang="chi" page="09b" n="7">前期一日ᄒᆞ야 女氏使人ᄒᆞ야 張陳其壻之室ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="09b" n="7">ᄒᆞ라 前期ᄒᆞ야 女氏편이 사ᄅᆞᆷ 브려 그 壻의 室을 張陳ᄒᆞ라</sent>
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/1632_가례언해04/10a.jpg</img>
+<sent type="anno" lang="chi" page="10a" n="1">世俗謂之鋪房</sent>
+<sent type="anno" lang="kor" page="10a" n="1">世俗이 鋪房이라 니ᄅᆞᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="10a" n="2">然所張陳者 但氈褥 帳幔 帷幙應用之物</sent>
+<sent type="anno" lang="kor" page="10a" n="2">그러나 張陳ᄒᆞᄂᆞᆫ 바 者ᄂᆞᆫ 다만 氈褥와 帳慢帷幕의 應당히 ᄡᅳᆯ 것만 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="10a" n="3">其衣服鎖之篋笥 不必陳也</sent>
+<sent type="anno" lang="kor" page="10a" n="3">그 衣服은 篋笥의 ᄌᆞᆷ가 두어 구ᄃᆡ여 陳ᄒᆞ디 아닐 거시니라</sent>
+<sent type="anno" lang="chi" page="10a" n="4">司馬溫公曰</sent>
+<sent type="anno" lang="kor" page="10a" n="4">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="10a" n="5">文中子曰</sent>
+<sent type="anno" lang="kor" page="10a" n="5">文中子ᅟᅵ 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="10a" n="6">昏娶而論財 夷虜之道也</sent>
+<sent type="anno" lang="kor" page="10a" n="6">昏娶ᄒᆞᆯ 제 財믈을 의論호ᄆᆞᆫ 오랑캐 道ᅟᅵ라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="10a" n="7">夫昏姻者 所以合二姓之好</sent>
+<sent type="anno" lang="kor" page="10a" n="7">夫 昏姻이란 거ᄉᆞᆫ ᄡᅥ 二姓의 好ᄅᆞᆯ 合ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="10a" n="8">上以事宗廟 下以繼後世也</sent>
+<sent type="anno" lang="kor" page="10a" n="8">우흐로ᄂᆞᆫ 宗廟ᄅᆞᆯ 셤기고 아래로ᄂᆞᆫ ᄡᅥ 後世ᄅᆞᆯ 닛ᄂᆞᆫ 배어ᄅᆞᆯ</sent>
+<sent type="anno" lang="chi" page="10a" n="9">今世俗之貪鄙者 將娶婦 先問資裝之厚薄</sent>
+<sent type="anno" lang="kor" page="10a" n="9">이제 世俗의 貪鄙ᄒᆞᆫ 者ᅟᅵ 將ᄎᆞᆺ 娶婦ᄒᆞᆯ 제 몬져 資裝의 厚薄을 묻고</sent>
+<sent type="anno" lang="chi" page="10a" n="10">將嫁女 先問聘財之多少</sent>
+<sent type="anno" lang="kor" page="10a" n="10">將ᄎᆞᆺ 嫁女ᄒᆞᆯ 제 몬져 聘財의 多少ᄅᆞᆯ 무러 至於 글월을 셰워 언約ᄒᆞ야 닐오ᄃᆡ</sent><!--財^의-->
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/1632_가례언해04/10b.jpg</img>
+<sent type="anno" lang="chi" page="10b" n="1">至於立契約云某物若干 某物若干 以求售其女者</sent>
+<sent type="anno" lang="kor" page="10b" n="1">아ᄆᆞ 거시 아ᄆᆞ만이오 아ᄆᆞ 거시 아ᄆᆞ만이라 ᄒᆞ야 ᄡᅥ 그 女ᄅᆞᆯ ᄑᆞᆯ기ᄅᆞᆯ 求ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="10b" n="2">亦有既嫁而復欺紿負約者</sent>
+<sent type="anno" lang="kor" page="10b" n="2">ᄯᅩ 임의 혼嫁ᄒᆞᆫ 후에 다시 소겨 언約을 져ᄇᆞ릴 이 이시니</sent>
+<sent type="anno" lang="chi" page="10b" n="3">是乃駔儈賣婢鬻奴之法</sent>
+<sent type="anno" lang="kor" page="10b" n="3">이ᄂᆞᆫ 駔儈의 婢ᄅᆞᆯ ᄑᆞᆯ며 奴ᄅᆞᆯ ᄑᆞᄂᆞᆫ 法이니</sent>
+<sent type="anno" lang="chi" page="10b" n="4">豈得謂之士大夫昏姻哉</sent>
+<sent type="anno" lang="kor" page="10b" n="4">엇디 시러곰 士大夫의 昏姻이라 니ᄅᆞ리오</sent>
+<sent type="anno" lang="chi" page="10b" n="5">其舅姑既被欺紿 則殘虐其婦以攄其忿</sent>
+<sent type="anno" lang="kor" page="10b" n="5">그 舅姑ᅟᅵ 임의 소기믈 니브면 그 며ᄂᆞ리ᄅᆞᆯ 殘잉히 침虐ᄒᆞ야 ᄡᅥ 그 忿심을 ᄠᅥᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="10b" n="6">由是愛其女者 務厚其資裝以悦其舅姑者</sent>
+<sent type="anno" lang="kor" page="10b" n="6">이러모로 말ᄆᆡ암아 그 女ᄅᆞᆯ ᄉᆞ랑ᄒᆞᄂᆞᆫ 者ᅟᅵ 그 資裝을 厚케 ᄒᆞ야 ᄡᅥ 그 舅姑ᄅᆞᆯ 깃기믈 힘스니</sent>
+<sent type="anno" lang="chi" page="10b" n="7">殊不知彼貪鄙之人 不可盈厭</sent>
+<sent type="anno" lang="kor" page="10b" n="7">ᄌᆞᄆᆞᆺ 뎌 貪鄙ᄒᆞᆫ 사ᄅᆞᆷ을 可히 ᄎᆡ와 슬믜게 몯ᄒᆞᆯ디라</sent>
+<sent type="anno" lang="chi" page="10b-11a" n="8">資裝既竭 則安用汝女哉</sent>
+<sent type="anno" lang="kor" page="10b-11a" n="8">資裝이 임의 竭진ᄒᆞ면 네 ᄯᆞᆯ을 어ᄃᆡ ᄡᅳ리오</sent><!--資^裝-->
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/1632_가례언해04/11a.jpg</img>
+<sent type="anno" lang="chi" page="11a" n="1">於是 質其女以責貨於女氏</sent>
+<sent type="anno" lang="kor" page="11a" n="1">ᄒᆞᆯ 줄을 아디 몯ᄒᆞ야 이에 그 ᄯᆞᆯ을 볼모 두어 ᄡᅥ곰 女氏의게 ᄌᆡ貨ᄅᆞᆯ 責츌ᄒᆞ게 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="11a" n="2">貨有盡而責無窮</sent>
+<sent type="anno" lang="kor" page="11a" n="2">ᄌᆡ貨ᄂᆞᆫ 盡호미 잇고 責츌ᄒᆞ기ᄂᆞᆫ ᄀᆞ이 업슨 故로</sent>
+<sent type="anno" lang="chi" page="11a" n="3">故昏姻之家 往往終為仇讎矣</sent>
+<sent type="anno" lang="kor" page="11a" n="3">昏姻ᄒᆞᆫ 지비 드믓드믓 내죵애 仇讐ᅟᅵ 되ᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="11a" n="4">是以 世俗生男則喜 生女則戚</sent>
+<sent type="anno" lang="kor" page="11a" n="4">이러모로ᄡᅥ 世俗이 生男ᄒᆞ면 깃거ᄒᆞ고 生女ᄒᆞ면 슬퍼ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="11a" n="5">至有不舉其女者 用此故也</sent>
+<sent type="anno" lang="kor" page="11a" n="5">그 女ᄅᆞᆯ 기ᄅᆞ디 아니리 이시매 니ᄅᆞ니 일로 ᄡᅦᆫ 연故ᅟᅵ라</sent>
+<sent type="anno" lang="chi" page="11a" n="6">然則議昏姻有及於財者</sent>
+<sent type="anno" lang="kor" page="11a" n="6">그런則 昏姻을 議논ᄒᆞᆯ 제 財믈에 미치ᄂᆞᆫ 者ᅟᅵ 잇거ᄃᆞᆫ</sent>
+<sent type="anno" lang="chi" page="11a" n="7">皆勿與為昏姻可也</sent>
+<sent type="anno" lang="kor" page="11a" n="7">다 더브러 昏姻 마로미 可ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="11a-b" n="8">厥明에 壻家ᅟᅵ 設位于室中ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="11a-b" n="8">그 ᅀᅵᄐᆞᆫ날 壻家ᅟᅵ 位ᄅᆞᆯ 室中에 說ᄒᆞ라</sent><!--그 ^ ᅀᅵ-->
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/1632_가례언해04/11b.jpg</img>
+<sent type="anno" lang="chi" page="11b" n="1">設倚卓子兩位 東西相向</sent>
+<sent type="anno" lang="kor" page="11b" n="1">교倚와 卓子 兩位ᄅᆞᆯ 說ᄒᆞ야 東西로 서ᄅᆞ 向케 ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="11b" n="2">蔬果盤盞匕筋 如賓客之禮</sent>
+<sent type="anno" lang="kor" page="11b" n="2">蔬果와 盤盞과 匕筯ᄅᆞᆯ 賓客의 禮ᄀᆞ티 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="11b" n="3">酒壺在東位之後</sent>
+<sent type="anno" lang="kor" page="11b" n="3">酒壺ᄂᆞᆫ 東 녁 位 뒤헤 잇고</sent>
+<sent type="anno" lang="chi" page="11b" n="4">又以卓子置合巹一於其南</sent>
+<sent type="anno" lang="kor" page="11b" n="4">ᄯᅩ 卓子로ᄡᅥ 合巹 ᄒᆞᆫ나ᄒᆞᆯ 그 南의 노코</sent>
+<sent type="anno" lang="chi" page="11b" n="5">又南北 設二盥盆勺於室東隅</sent>
+<sent type="anno" lang="kor" page="11b" n="5">ᄯᅩ 南北의 두셰슈 소라와 구기ᄅᆞᆯ 室 東 녁 모희 設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="11b" n="6">又設酒壺盞注於室外 或別室 以飲從者</sent>
+<sent type="anno" lang="kor" page="11b" n="6">ᄯᅩ 酒壺와 盞注ᄅᆞᆯ 室外예나 或 別室의 設ᄒᆞ야 ᄡᅥ 從子ᄅᆞᆯ 머기게 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="11b" n="7">巹音謹 以小匏一判而兩之</sent>
+<sent type="anno" lang="kor" page="11b" n="7">巹은 쟈근 박 ᄒᆞᆫ나흐로ᄡᅥ ᄠᆞ려 둘ᄒᆡ 낸 거시라</sent>
+<sent type="main" lang="chi" page="11b-12a" n="8">女家ᅟᅵ 設次于外ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="11b-12a" n="8">女家ᅟᅵ 막次를 밧긔 設ᄒᆞ라</sent><!--를 ^ 밧-->
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/1632_가례언해04/12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="1">初昏에 壻ᅟᅵ 盛服ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="12a" n="1">첫어울믜 壻ᅟᅵ 盛服ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="12a" n="2">世俗新壻帶花勝 擁蔽其面</sent>
+<sent type="anno" lang="kor" page="12a" n="2">世俗이 新壻ᄅᆞᆯ 花勝을 ᄯᅴ오고 그 ᄂᆞᆺᄎᆞᆯ 擁蔽ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="12a" n="3">殊失丈夫之容體 勿用可也</sent>
+<sent type="anno" lang="kor" page="12a" n="3">ᄌᆞᄆᆞᆺ 丈夫의 容體ᄅᆞᆯ 일ᄂᆞᆫ디라 ᄡᅳ디 말오미 可ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="12a" n="4">朱子曰 昏禮用命服 乃是古禮</sent>
+<sent type="anno" lang="kor" page="12a" n="4">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ 昏禮애 命服을 ᄡᅳᄆᆞᆫ 곳 이 古禮라</sent>
+<sent type="anno" lang="chi" page="12a" n="5">如士乗墨車而執鴈 皆大夫之禮也</sent>
+<sent type="anno" lang="kor" page="12a" n="5">士ᅟᅵ 墨車ᄅᆞᆯ ᄐᆞ고 鴈ᄋᆞᆯ 자ᄇᆞᆷ ᄀᆞᄐᆞ미 다 大夫의 禮라</sent>
+<sent type="anno" lang="chi" page="12a" n="6">冠帶 只是燕服 非所以重正昏禮</sent>
+<sent type="anno" lang="kor" page="12a" n="6">冠帶ᄅᆞᆯ 오직 이 燕服으로 호미 ᄡᅥ곰 昏녜ᄅᆞᆯ 重히 녀기며</sent>
+<sent type="anno" lang="chi" page="12a-12b" n="7">不若從古之爲正</sent>
+<sent type="anno" lang="kor" page="12a-12b" n="7">正다이 ᄒᆞᄂᆞᆫ 배 아니니 古ᄅᆞᆯ 좃기 正다올만 ᄀᆞᆮ디 몯ᄒᆞ니라</sent><!--ᄒᆞ^ᄂᆞᆫ-->
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/1632_가례언해04/12b.jpg</img>
+<sent type="anno" lang="chi" page="12b" n="1">黃氏瑞節曰 士昏禮謂之攝盛</sent>
+<sent type="anno" lang="kor" page="12b" n="1">黃氏 瑞節이 ᄀᆞᆯ오ᄃᆡ 士昏禮ᄅᆞᆯ 盛을 攝ᄒᆞᆫ다 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="12b" n="2">葢以士而服大夫之服 乗大夫之車</sent>
+<sent type="anno" lang="kor" page="12b" n="2">盖 士로셔 大夫의 服을 니브며 大夫의 車를 ᄐᆞ면</sent>
+<sent type="anno" lang="chi" page="12b" n="3">則當執大夫之贄也</sent>
+<sent type="anno" lang="kor" page="12b" n="3">맛당히 大夫의 贄ᄅᆞᆯ 자브모로 ᄡᅦ니라</sent>
+<sent type="main" lang="chi" page="12b" n="4">主人이 告于祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="12b" n="4">主人이 祠堂의 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="12b" n="5">如納采儀</sent>
+<sent type="anno" lang="kor" page="12b" n="5">納采 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="12b" n="6">祝版前同</sent>
+<sent type="anno" lang="kor" page="12b" n="6">祝版이 前과 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="12b" n="7">但云 某之子某</sent>
+<sent type="anno" lang="kor" page="12b" n="7">다만 닐오ᄃᆡ 某之子某ᅟᅵ라 ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="12b-13a" n="8">若某親之子某 將以今日親迎于某官某郡某氏 不勝感愴</sent>
+<sent type="anno" lang="kor" page="12b-13a" n="8">若某親之子某ᅟᅵ 將以今日에 親迎于某官某郡某氏ᄒᆞ니 不勝感愴이라 ᄒᆞ라</sent><!--官^某-->
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/1632_가례언해04/13a.jpg</img>
+<sent type="anno" lang="chi" page="13a" n="1">謹以後同</sent>
+<sent type="anno" lang="kor" page="13a" n="1">謹 以後ᄂᆞᆫ ᄀᆞᄐᆞ니라</sent>
+<sent type="anno" lang="chi" page="13a" n="2">若宗子自昏 則自告</sent>
+<sent type="anno" lang="kor" page="13a" n="2">만일 宗子ᅟᅵ 제 昏ᄒᆞ거든 제 告ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="13a" n="3">朱子曰</sent>
+<sent type="anno" lang="kor" page="13a" n="3">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="13a" n="4">儀禮雖無娶妻告廟之文</sent>
+<sent type="anno" lang="kor" page="13a" n="4">儀禮예 비록 妻ᄅᆞᆯ 娶ᄒᆞᆯ 제 廟애 告ᄒᆞᄂᆞᆫ 녜文이 업ᄉᆞ나</sent>
+<sent type="anno" lang="chi" page="13a" n="5">而左傳曰 圍布几筵 告於莊共之廟</sent>
+<sent type="anno" lang="kor" page="13a" n="5">左傳의 ᄀᆞᆯ오ᄃᆡ 圍几筵을 布ᄒᆞ고 莊共의 廟애 告ᄒᆞ다 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="13a" n="6">是古人亦有告廟之禮</sent>
+<sent type="anno" lang="kor" page="13a" n="6">이ᄂᆞᆫ 녜사ᄅᆞᆷ이 ᄯᅩᄒᆞᆫ 廟애 告ᄒᆞᄂᆞᆫ 禮 잇도다</sent>
+<sent type="anno" lang="chi" page="13a" n="7">問 今婦人入門 即廟見 蓋擧世行之</sent>
+<sent type="anno" lang="kor" page="13a" n="7">問호ᄃᆡ 이제 婦人이 門의 들매 卽제 가 廟애 見홈을 盖 擧世行ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="13a-13b" n="8">近見鄉里諸賢 頗信左氏先配後祖之説</sent>
+<sent type="anno" lang="kor" page="13a-13b" n="8">요ᄉᆞ이 보니 鄕里예 諸賢이 ᄌᆞᄆᆞᆺ 左氏의 몬져 配ᄒᆞ고 後에 祖ᄒᆞ다 ᄒᆞᄂᆞᆫ 말을 미드니</sent><!--ᄒᆞ^고-->
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/1632_가례언해04/13b.jpg</img>
+<sent type="anno" lang="chi" page="13b" n="1">豈後世紛紛之言 不足據</sent>
+<sent type="anno" lang="kor" page="13b" n="1">엇디 後世예 紛紛ᄒᆞᆫ 말를 足키 의據티 못홈이 아니리오</sent>
+<sent type="anno" lang="chi" page="13b" n="2">莫若從古為正否</sent>
+<sent type="anno" lang="kor" page="13b" n="2">녜ᄅᆞᆯ 조ᄎᆞ미 正홈만 ᄀᆞᆺ디 못ᄒᆞ니잇가 아니잇가</sent>
+<sent type="anno" lang="chi" page="13b" n="3">左氏固難盡信</sent>
+<sent type="anno" lang="kor" page="13b" n="3">ᄀᆞᆯᄋᆞ샤ᄃᆡ 左氏ᄅᆞᆯ 진실로 다 信키 어렵거니와</sent>
+<sent type="anno" lang="chi" page="13b" n="4">然其後説親迎處 亦有布几筵告廟而來之説</sent>
+<sent type="anno" lang="kor" page="13b" n="4">그러나 그 後에 親迎을 닐은 고대 ᄯᅩᄒᆞᆫ 几筵을 布ᄒᆞ고 廟애 告ᄒᆞ고 오다 ᄒᆞᆫ 말이 이시니</sent>
+<sent type="anno" lang="chi" page="13b" n="5">恐所謂後祖者 譏其失此禮耳</sent>
+<sent type="anno" lang="kor" page="13b" n="5">저컨대ᄂᆞᆫ 니른 바 後에 祖ᄒᆞ다 ᄒᆞᆫ 者ᄂᆞᆫ 그 이 禮ᄅᆞᆯ 失홈을 譏롱ᄒᆞᆫ가 ᄒᆞ노라</sent>
+<sent type="main" lang="chi" page="13b" n="6">遂醮其子而命之迎ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="13b" n="6">드듸여 그 子ᄅᆞᆯ 醮ᄒᆞ고 命ᄒᆞ야 마자오라 ᄒᆞ라</sent>
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/1632_가례언해04/13b.jpg</img>
+<sent type="anno" lang="chi" page="14a" n="1">先以卓子設酒注盤盞於堂上</sent>
+<sent type="anno" lang="kor" page="14a" n="1">몬져 卓子로ᄡᅥ 酒注와 盤盞을 堂上의 設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14a" n="2">主人盛服 坐於堂之東序西向</sent>
+<sent type="anno" lang="kor" page="14a" n="2">主人이 盛服ᄒᆞ고 堂 東西의 안자 西向ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14a" n="3">設壻席於其西北南向</sent>
+<sent type="anno" lang="kor" page="14a" n="3">壻의 돗글 그 西北에 設ᄒᆞ야 南向ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="14a" n="4">壻升自西階 立於席西南向</sent>
+<sent type="anno" lang="kor" page="14a" n="4">壻ᅟᅵ 西階로브터 올라 돗 西 녁킈 셔셔 南向ᄒᆞ엿거든</sent>
+<sent type="anno" lang="chi" page="14a" n="5">賛者取盞斟酒 執之詣壻席前</sent>
+<sent type="anno" lang="kor" page="14a" n="5">贊者ᅟᅵ 盞을 가져 술을 브어 잡아 壻의 돗 앏ᄑᆡ 니거든</sent>
+<sent type="anno" lang="chi" page="14a" n="6">壻再拜 升席 南向受盞 跪 祭酒 興</sent>
+<sent type="anno" lang="kor" page="14a" n="6">壻ᅟᅵ 再拜ᄒᆞ고 돗긔 올라 南向ᄒᆞ야 盞을 바다 ᄭᅮ러 술을 祭ᄒᆞ고 니러</sent>
+<sent type="anno" lang="chi" page="14a" n="7">就席末跪 啐酒</sent>
+<sent type="anno" lang="kor" page="14a" n="7">돗그ᄐᆡ 나아가 ᄭᅮ러 술을 져기 먹고</sent>
+<sent type="anno" lang="chi" page="14a" n="8">興 降席西 授賛者盞 又再拜</sent>
+<sent type="anno" lang="kor" page="14a" n="8">니러셔 돗 西에 ᄂᆞ려 贊者ᄅᆞᆯ 盞을 주고 ᄯᅩ 再拜ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14a" n="9">進 詣父坐前 東向跪</sent>
+<sent type="anno" lang="kor" page="14a" n="9">나아 父 안ᄌᆞᆫ 앏ᄑᆡ 가 東向ᄒᆞ야 ᄭᅮᆯ엇거든</sent>
+<sent type="anno" lang="chi" page="14a-14b" n="10">父命之曰 往迎爾相 承我宗事 勉率以敬 若則有常</sent>
+<sent type="anno" lang="kor" page="14a-14b" n="10">父ᅟᅵ 命ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ 往迎爾相ᄒᆞ야 承我宗事ᄒᆞ야 勉率以敬ᄒᆞ야 若則有常ᄒᆞ라 ᄒᆞ여든</sent><!--往^迎-->
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/1632_가례언해04/14b.jpg</img>
+<sent type="anno" lang="chi" page="14b" n="1">壻曰 諾 惟恐不堪 不敢忘命</sent>
+<sent type="anno" lang="kor" page="14b" n="1">壻ᅟᅵ ᄀᆞᆯ오ᄃᆡ 다 惟恐不堪이언뎡 不敢忘命호링이다 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14b" n="2">俛伏 興 出</sent>
+<sent type="anno" lang="kor" page="14b" n="2">업데고 니러 나오라</sent>
+<sent type="anno" lang="chi" page="14b" n="3">非宗子之子 則宗子告于祠堂</sent>
+<sent type="anno" lang="kor" page="14b" n="3">宗子의 子ᅟᅵ 아니어든 宗子ᅟᅵ 祠堂의 告ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="14b" n="4">而其父醮于私室如儀</sent>
+<sent type="anno" lang="kor" page="14b" n="4">그 父ᅟᅵ 私室의셔 醮호ᄆᆞᆯ 녜대로 호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="14b" n="5">但改宗事為家事</sent>
+<sent type="anno" lang="kor" page="14b" n="5">다만 宗事ᄅᆞᆯ 고텨 家事ᅟᅵ라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="14b" n="6">若宗已孤而自昏 則不用此禮</sent>
+<sent type="anno" lang="kor" page="14b" n="6">만일 宗子ᅟᅵ 임의 孤ᄒᆞ여셔 제 昏ᄒᆞ면 이 禮ᄅᆞᆯ ᄡᅳ디 말라</sent>
+<sent type="anno" lang="chi" page="14b" n="7">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="14b" n="7">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="14b-15a" n="8">賛者兩家 各擇親戚婦人習於禮者為之</sent>
+<sent type="anno" lang="kor" page="14b-15a" n="8">贊者ᄅᆞᆯ 兩家ᅟᅵ 各각 親戚읫 婦人이 禮예 한 習ᄒᆞᆫ 者ᄅᆞᆯ ᄀᆞᆯᄒᆡ야 ᄒᆞᆯᄯᅵ니</sent><!--者^ᄅᆞᆯ-->
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/1632_가례언해04/15a.jpg</img>
+<sent type="anno" lang="chi" page="15a" n="1">凡壻及婦人行禮 皆賛者相導之</sent>
+<sent type="anno" lang="kor" page="15a" n="1">믈읫 壻와 밋 婦人이 行ᄒᆞᆯ 禮ᄅᆞᆯ 다 贊者ᅟᅵ 도아 인導ᄒᆞᆯ디니라</sent>
+<sent type="main" lang="chi" page="15a" n="2">壻ᅟᅵ 出ᄒᆞ야 乘馬ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15a" n="2">壻ᅟᅵ 나와 ᄆᆞᆯ ᄐᆞ라</sent>
+<sent type="anno" lang="chi" page="15a" n="3">以二燭前導</sent>
+<sent type="anno" lang="kor" page="15a" n="3">두 燭으로ᄡᅥ 前導ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="15a" n="4">至女家ᄒᆞ야 俟于次ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15a" n="4">女家의 니ᄅᆞ러 막次의셔 기ᄃᆞᆯ오라</sent>
+<sent type="anno" lang="chi" page="15a" n="5">壻下馬于大門外 入俟于次</sent>
+<sent type="anno" lang="kor" page="15a" n="5">壻ᅟᅵ 大門 밧긔 下馬ᄒᆞ야 드러가 막次의셔 기ᄃᆞᆯ오라</sent>
+<sent type="main" lang="chi" page="15a" n="6">女家主人이 告于祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15a" n="6">女家 主人이 祠堂의 告ᄒᆞ라</sent>
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/1632_가례언해04/15b.jpg</img>
+<sent type="anno" lang="chi" page="15b" n="1">如納采儀</sent>
+<sent type="anno" lang="kor" page="15b" n="1">納采 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="15b" n="2">祝版前同</sent>
+<sent type="anno" lang="kor" page="15b" n="2">祝版이 前과 ᄀᆞᄐᆞ되</sent>
+<sent type="anno" lang="chi" page="15b" n="3">但云 某之第幾女</sent>
+<sent type="anno" lang="kor" page="15b" n="3">다만 닐오ᄃᆡ 某之第幾女ᅟᅵ라 ᄒᆞ거나</sent>
+<sent type="anno" lang="chi" page="15b" n="4">若某親某之第幾女 将以今日歸于某官某郡姓名 不勝感愴</sent>
+<sent type="anno" lang="kor" page="15b" n="4">若某親某之第幾女ᅟᅵ 將以今日에 歸于某官某郡姓名ᄒᆞ니 不勝感愴이라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="15b" n="5">謹以後同</sent>
+<sent type="anno" lang="kor" page="15b" n="5">謹 이後ᄂᆞᆫ ᄀᆞᄐᆞ니라</sent>
+<sent type="main" lang="chi" page="15b" n="6">遂醮其女而命之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="15b" n="6">드듸여 그 女ᄅᆞᆯ 醮ᄒᆞ고 命ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="15b" n="7">女盛飾 姆相之 立於室外南向</sent>
+<sent type="anno" lang="kor" page="15b" n="7">女ᅟᅵ 盛히 ᄆᆡ믓고 졋어미 도와 室 밧긔 셔셔 南向ᄒᆞ엿거든</sent>
+<sent type="anno" lang="chi" page="15b" n="8">父坐東序西向 母坐西序東向</sent>
+<sent type="anno" lang="kor" page="15b" n="8">父ᅟᅵ 東序의 안자 西向ᄒᆞ고 母ᅟᅵ 西序의 안자 東向ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="15b-16a" n="9">設女席扵母之東北 南向</sent>
+<sent type="anno" lang="kor" page="15b-16a" n="9">女의 돗글 母의 東北의 設ᄒᆞ야 南向ᄒᆞ고</sent><!--東^北-->
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/1632_가례언해04/16a.jpg</img>
+<sent type="anno" lang="chi" page="16a" n="1">賛者醮以酒如壻禮</sent>
+<sent type="anno" lang="kor" page="16a" n="1">贊者ᅟᅵ 술로ᄡᅥ 醮호ᄆᆞᆯ 壻의 禮ᄀᆞᆺ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="16a" n="2">姆導女出於母左</sent>
+<sent type="anno" lang="kor" page="16a" n="2">졋어미 女ᄅᆞᆯ 인導ᄒᆞ야 母의 左의 나오나든</sent>
+<sent type="anno" lang="chi" page="16a" n="3">父起 命之曰</sent>
+<sent type="anno" lang="kor" page="16a" n="3">父ᅟᅵ 니러나 命ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16a" n="4">敬之 戒之 夙夜無違舅姑之命</sent>
+<sent type="anno" lang="kor" page="16a" n="4">敬之 戒之ᄒᆞ야 夙夜애 無違舅姑之命ᄒᆞ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="16a" n="5">母送至西階上 為之整冠歛帔 命之曰</sent>
+<sent type="anno" lang="kor" page="16a" n="5">母ᅟᅵ 보내여 西階上의 니ᄅᆞ러 爲ᄒᆞ야 화冠을 整케 ᄒᆞ며 帔ᄅᆞᆯ 거두고 命ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="16a" n="6">勉之 敬之 夙夜無違爾閨門之禮</sent>
+<sent type="anno" lang="kor" page="16a" n="6">勉之 敬之ᄒᆞ야 夙夜애 無違爾閨門之禮ᄒᆞ라 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="16a" n="7">諸母 姑 嫂 姊送至於中門之内</sent>
+<sent type="anno" lang="kor" page="16a" n="7">諸 母ᅟᅵ며 姑ᅟᅵ며 嫂ᅟᅵ며 姉ᅟᅵ 보내여 中門 안희 니ᄅᆞ러</sent>
+<sent type="anno" lang="chi" page="16a" n="8">爲之整裙衫 申以父母之命曰</sent>
+<sent type="anno" lang="kor" page="16a" n="8">爲ᄒᆞ야 쵸마며 당衫을 整케 ᄒᆞ고 父母의 命으로ᄡᅥ 다시 닐러 ᄀᆞᆯ오ᄃᆡ</sent><!--ᄡᅥ 다-->
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/1632_가례언해04/16b.jpg</img>
+<sent type="anno" lang="chi" page="16b" n="1">謹聴爾父母之言 夙夜無愆</sent>
+<sent type="anno" lang="kor" page="16b" n="1">謹聽爾父母之言ᄒᆞ야 夙夜애 無愆이라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="16b" n="2">非宗子之女 則宗子告于祠堂</sent>
+<sent type="anno" lang="kor" page="16b" n="2">宗子의 女ᅟᅵ 아니어든 宗子ᅟᅵ 祠堂의 告ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="16b" n="3">而其父醮於私室 如儀</sent>
+<sent type="anno" lang="kor" page="16b" n="3">그 父ᅟᅵ 私室에 가 醮호ᄆᆞᆯ 녜대로 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="16b" n="4">主人이 出迎이어든 壻ᅟᅵ 入ᄒᆞ야 奠雁ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="16b" n="4">主人이 나와 마자든 壻ᅟᅵ 드러가 기러기ᄅᆞᆯ 奠ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="16b" n="5">主人迎壻于門外 揖讓以入</sent>
+<sent type="anno" lang="kor" page="16b" n="5">主人이 壻ᄅᆞᆯ 門外예 가 마자 揖讓ᄒᆞ야ᄡᅥ 드리 오거든</sent>
+<sent type="anno" lang="chi" page="16b" n="6">壻執鴈以從 至于廳事</sent>
+<sent type="anno" lang="kor" page="16b" n="6">壻ᅟᅵ 鴈을 자바 ᄡᅥ 조차가 廳事의 니ᄅᆞ리</sent>
+<sent type="anno" lang="chi" page="16b" n="7">主人升自阼階立 西向</sent>
+<sent type="anno" lang="kor" page="16b" n="7">主人은 阼階로브터 올라셔셔 西向ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="16b-17a" n="8">壻升自西階 北向跪 置鴈於地 主人侍者受之</sent>
+<sent type="anno" lang="kor" page="16b-17a" n="8">壻는 西階로브터 올라 北向ᄒᆞ야 ᄭᅮ러 鴈을 ᄯᅡ희 노하든 主人의 侍者ᅟᅵ 바ᄃᆞ라</sent><!--鴈^을-->
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/1632_가례언해04/17a.jpg</img>
+<sent type="anno" lang="chi" page="17a" n="1">壻俛伏 興 再拜 主人不答拜</sent>
+<sent type="anno" lang="kor" page="17a" n="1">壻ᅟᅵ 업데고 닐어 再拜ᄒᆞ고 主人은 答拜 말라</sent>
+<sent type="anno" lang="chi" page="17a" n="2">若族人之女</sent>
+<sent type="anno" lang="kor" page="17a" n="2">만일 族人의 女ᅟᅵ어든</sent>
+<sent type="anno" lang="chi" page="17a" n="3">則其父從主人出 迎立於其右</sent>
+<sent type="anno" lang="kor" page="17a" n="3">그 父ᅟᅵ 主人 조차 나와 마자 그 右에 셔되</sent>
+<sent type="anno" lang="chi" page="17a" n="4">尊則少進 卑則少退</sent>
+<sent type="anno" lang="kor" page="17a" n="4">尊ᄒᆞ면 져기 낫고 卑ᄒᆞ면 져기 므르라</sent>
+<sent type="anno" lang="chi" page="17a" n="5">凡贄 用生鴈 左首</sent>
+<sent type="anno" lang="kor" page="17a" n="5">므릇 贄□ 生鴈을 ᄡᅥ 호ᄃᆡ 머리ᄅᆞᆯ 左로 가게 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="17a" n="6">以生色繪交絡之 無則刻木爲之</sent>
+<sent type="anno" lang="kor" page="17a" n="6">生色繒으로 ᄡᅥ서 긔워 ᄆᆡ라 업거든 남그로 사겨 ᄆᆡᆼ글디니</sent>
+<sent type="anno" lang="chi" page="17a" n="7">取其順陰陽往來之義</sent>
+<sent type="anno" lang="kor" page="17a" n="7">그 陰陽을 順ᄒᆞ야 往來ᄒᆞᄂᆞᆫ ᄠᅳ들 取ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="17a" n="8">程子曰</sent>
+<sent type="anno" lang="kor" page="17a" n="8">程子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17a" n="9">取其不再偶也</sent>
+<sent type="anno" lang="kor" page="17a" n="9">그 다시 ᄧᅡᆨ 아니믈 取ᄒᆞᆫ 거시라</sent>
+<sent type="anno" lang="chi" page="17a-17b" n="10">問 主人揖　壻入 壻北面而拜</sent>
+<sent type="anno" lang="kor" page="17a-17b" n="10">듯ᄌᆞ오ᄃᆡ 主人이 壻ᄅᆞᆯ 揖ᄒᆞ야 드려ᄃᆞᆫ 壻ᅟᅵ 北面ᄒᆞ야 拜ᄒᆞ고</sent><!--ᅟᅵ ^ 北-->
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/1632_가례언해04/17b.jpg</img>
+<sent type="anno" lang="chi" page="17b" n="1">主人不答拜 何也</sent>
+<sent type="anno" lang="kor" page="17b" n="1">主人이 答拜 아니호믄 엇뎨잇고</sent>
+<sent type="anno" lang="chi" page="17b" n="2">朱子曰</sent>
+<sent type="anno" lang="kor" page="17b" n="2">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="17b" n="3">乃為尊鴈而拜</sent>
+<sent type="anno" lang="kor" page="17b" n="3">이에 奠鴈을 위ᄒᆞ야 拜ᄒᆞᄂᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="17b" n="4">主人自不應答拜</sent>
+<sent type="anno" lang="kor" page="17b" n="4">主人이 즈스로 應당히 答拜 아니ᄒᆞᆯ디니라</sent>
+<sent type="main" lang="chi" page="17b" n="5">姆ᅟᅵ 奉女出ᄒᆞ야 登車ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="17b" n="5">졋어미 女ᄅᆞᆯ 뫼셔 나와 車에 오ᄅᆞ라</sent>
+<sent type="anno" lang="chi" page="17b" n="6">姆奉女出中門</sent>
+<sent type="anno" lang="kor" page="17b" n="6">졋어미 女ᄅᆞᆯ 뫼셔 中門의 나오나든</sent>
+<sent type="anno" lang="chi" page="17b" n="7">壻揖之 降自西階 主人不降</sent>
+<sent type="anno" lang="kor" page="17b" n="7">壻ᅟᅵ 揖ᄒᆞ고 西階로브터 ᄂᆞ리거든 主人은 ᄂᆞ리디 말라</sent>
+<sent type="anno" lang="chi" page="17b" n="8">壻遂出 女從之 壻舉轎簾以俟婦</sent>
+<sent type="anno" lang="kor" page="17b" n="8">壻ᅟᅵ 드듸여 나오나든 女ᅟᅵ 조차와 壻ᅟᅵ 덩발을 들어 ᄡᅥ 기ᄃᆞ로거든</sent>
+<sent type="anno" lang="chi" page="17b-18a" n="9">姆辭曰 未教 不足與禮也</sent>
+<sent type="anno" lang="kor" page="17b-18a" n="9">졋어미 辭양ᄒᆞ야 ᄀᆞᆯ오ᄃᆡ ᄀᆞᄅᆞ치디 몯ᄒᆞ야시니 足히 더브러 禮ᄅᆞᆯ 몯ᄒᆞ링이다 ᄒᆞ고</sent><!--ᄒᆞ^야-->
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/1632_가례언해04/18a.jpg</img>
+<sent type="anno" lang="chi" page="18a" n="1">女乃登車</sent>
+<sent type="anno" lang="kor" page="18a" n="1">女ᅟᅵ 이에 車에 오ᄅᆞ라</sent>
+<sent type="main" lang="chi" page="18a" n="2">壻ᅟᅵ 乘馬ᄒᆞ야 先婦車ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="18a" n="2">壻ᅟᅵ ᄆᆞᆯ을 타 婦의 車에 몬져 가라</sent>
+<sent type="anno" lang="chi" page="18a" n="3">婦車 亦以二燭前導</sent>
+<sent type="anno" lang="kor" page="18a" n="3">婦의 車ᄅᆞᆯ ᄯᅩᄒᆞᆫ 두 燭으로ᄡᅥ 前導ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18a" n="4">司馬温公曰 男率女 女從男</sent>
+<sent type="anno" lang="kor" page="18a" n="4">司馬溫公이 ᄀᆞᆯ오ᄃᆡ 男이 女ᄅᆞᆯ 거ᄂᆞ리고 女ᅟᅵ 男을 조ᄎᆞ니</sent>
+<sent type="anno" lang="chi" page="18a" n="5">夫婦剛柔之義 自此始也</sent>
+<sent type="anno" lang="kor" page="18a" n="5">夫婦의 剛ᄒᆞ며 柔ᄒᆞᆫ 義 일로 브터 비르스니라</sent>
+<sent type="main" lang="chi" page="18a" n="6">至其家ᄒᆞ야 導婦以入ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="18a" n="6">그 집의 니ᄅᆞ러 婦ᄅᆞᆯ 인導ᄒᆞ야ᄡᅥ 드러가라</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/1632_가례언해04/18b.jpg</img>
+<sent type="anno" lang="chi" page="18b" n="1">壻至家 立于廳事</sent>
+<sent type="anno" lang="kor" page="18b" n="1">壻ᅟᅵ 집의 니ᄅᆞ러 廳事의 셔셔</sent>
+<sent type="anno" lang="chi" page="18b" n="2">俟婦下車 揖之 導以入</sent>
+<sent type="anno" lang="kor" page="18b" n="2">婦ᅟᅵ 下車호ᄆᆞᆯ 기ᄃᆞᆯ워 揖ᄒᆞ고 인導ᄒᆞ야ᄡᅥ 드러가라</sent>
+<sent type="main" lang="chi" page="18b" n="3">壻婦ᅟᅵ 交拜ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="18b" n="3">壻와 婦ᅟᅵ 서ᄅᆞ 절ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18b" n="4">婦從者 布壻席扵東方</sent>
+<sent type="anno" lang="kor" page="18b" n="4">婦의 從者ᅟᅵ 壻의 ᄇᆡ席을 東方의 펴고</sent>
+<sent type="anno" lang="chi" page="18b" n="5">壻從者 布婦席於西方</sent>
+<sent type="anno" lang="kor" page="18b" n="5">壻의 從者ᅟᅵ 婦의 ᄇᆡ席을 西方의 펴며</sent>
+<sent type="anno" lang="chi" page="18b" n="6">壻盥于南 婦從者沃之 進帨</sent>
+<sent type="anno" lang="kor" page="18b" n="6">壻ᅟᅵ 南의셔 손 싯거든 婦의 從者ᅟᅵ 믈 치고 슈건 밧ᄌᆞ오며</sent>
+<sent type="anno" lang="chi" page="18b" n="7">婦盥于北 壻從者沃之 進悦</sent>
+<sent type="anno" lang="kor" page="18b" n="7">婦ᅟᅵ 北의셔 손 싯거든 壻의 從者ᅟᅵ 믈 치고 슈건 밧ᄌᆞ오라</sent>
+<sent type="anno" lang="chi" page="18b" n="8">壻揖婦 就席 婦拜 壻答拜</sent>
+<sent type="anno" lang="kor" page="18b" n="8">壻ᅟᅵ 婦ᄅᆞᆯ 揖ᄒᆞ야 ᄇᆡ席의 나아가 婦ᅟᅵ 拜ᄒᆞ여든 壻ᅟᅵ 答拜ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="18b" n="9">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="18b" n="9">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="18b-19a" n="10">從者皆以其家女僕為之</sent>
+<sent type="anno" lang="kor" page="18b-19a" n="10">從者ᄅᆞᆯ 다 그 집 간나ᄒᆡ 죵으로ᄡᅥ ᄒᆞᄂᆞ니</sent><!--나^ᄒᆡ-->
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/1632_가례언해04/19a.jpg</img>
+<sent type="anno" lang="chi" page="19a" n="1">女從者沃壻盥于南</sent>
+<sent type="anno" lang="kor" page="19a" n="1">女의 從者ᅟᅵ 壻의 盥셰ᄅᆞᆯ 南의셔 믈 치고</sent>
+<sent type="anno" lang="chi" page="19a" n="2">壻從者沃女盥於北</sent>
+<sent type="anno" lang="kor" page="19a" n="2">壻의 從者ᅟᅵ 女의 盥셰ᄅᆞᆯ 北의셔 믈 치ᄆᆞᆫ</sent>
+<sent type="anno" lang="chi" page="19a" n="3">夫婦始接 情有廉恥</sent>
+<sent type="anno" lang="kor" page="19a" n="3">夫婦ᅟᅵ 비르소 接ᄒᆞ매 情有廉恥이시니</sent>
+<sent type="anno" lang="chi" page="19a" n="4">從者交導其志</sent>
+<sent type="anno" lang="kor" page="19a" n="4">從者ᅟᅵ 서ᄅᆞ 그 ᄠᅳ들 인導호미라</sent>
+<sent type="anno" lang="chi" page="19a" n="5">女子與丈夫為禮則俠拜</sent>
+<sent type="anno" lang="kor" page="19a" n="5">女子ᅟᅵ 丈夫로 더브러 禮ᄅᆞᆯ ᄒᆞ면 俠拜ᄒᆞᄂᆞ니</sent>
+<sent type="anno" lang="chi" page="19a" n="6">男子以再拜為禮</sent>
+<sent type="anno" lang="kor" page="19a" n="6">男子ᄂᆞᆫ 再拜로ᄡᅥ 禮ᄅᆞᆯ 삼고</sent>
+<sent type="anno" lang="chi" page="19a" n="7">女子以四拜為禮</sent>
+<sent type="anno" lang="kor" page="19a" n="7">女子ᄂᆞᆫ 四拜로ᄡᅥ 禮ᄅᆞᆯ 삼ᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="19a" n="8">古無壻婦交拜之儀 今從俗</sent>
+<sent type="anno" lang="kor" page="19a" n="8">녜ᄂᆞᆫ 壻婦ᅟᅵ 交拜ᄒᆞᄂᆞᆫ 녜 업더니 이제 俗을 조ᄎᆞᆯ디니라</sent>
+<sent type="main" lang="chi" page="19a-19b" n="9">就坐ᄒᆞ야 飮食ᄒᆞ고 畢에 壻ᅟᅵ 出ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="19a-19b" n="9">坐의 나아가 飮食ᄒᆞ고 ᄆᆞᄎᆞ매 壻ᅟᅵ 나오라</sent><!--나^아-->
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/1632_가례언해04/19b.jpg</img>
+<sent type="anno" lang="chi" page="19b" n="1">壻揖婦 就坐</sent>
+<sent type="anno" lang="kor" page="19b" n="1">壻ᅟᅵ 婦ᄅᆞᆯ 揖ᄒᆞ야 坐의 나아가되</sent>
+<sent type="anno" lang="chi" page="19b" n="2">壻東 婦西</sent>
+<sent type="anno" lang="kor" page="19b" n="2">壻ᄂᆞᆫ 東의 ᄒᆞ고 婦ᄂᆞᆫ 西의 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="19b" n="3">從者斟酒 設饌</sent>
+<sent type="anno" lang="kor" page="19b" n="3">從者ᅟᅵ 酒ᄅᆞᆯ 븟고 饌을 設ᄒᆞ여든</sent>
+<sent type="anno" lang="chi" page="19b" n="4">壻 婦祭酒 舉殽</sent>
+<sent type="anno" lang="kor" page="19b" n="4">壻ᅟᅵ며 婦ᅟᅵ 酒를 祭ᄒᆞ고 殽ᄅᆞᆯ 들라</sent>
+<sent type="anno" lang="chi" page="19b" n="5">又斟酒 壻揖婦舉飲 不祭 無殽</sent>
+<sent type="anno" lang="kor" page="19b" n="5">ᄯᅩ 酒ᄅᆞᆯ 브어든 壻ᅟᅵ 婦ᄅᆞᆯ 揖ᄒᆞ야 드러 먹고 祭 아니며 殽ᅟᅵ 업ᄉᆞ니라</sent>
+<sent type="anno" lang="chi" page="19b" n="6">又取巹分置壻婦之前 斟酒</sent>
+<sent type="anno" lang="kor" page="19b" n="6">ᄯᅩ 막잔을 가져 壻와 婦의 앏ᄑᆡ ᄂᆞᆫ화 노코 酒를 브어든</sent>
+<sent type="anno" lang="chi" page="19b" n="7">壻揖婦舉飲 不祭 無殽</sent>
+<sent type="anno" lang="kor" page="19b" n="7">壻ᅟᅵ 婦ᄅᆞᆯ 揖ᄒᆞ야 드러 먹고 祭 아니며 殽ᅟᅵ 업ᄉᆞ니라</sent>
+<sent type="anno" lang="chi" page="19b" n="8">壻出就他室 姆與婦留室中</sent>
+<sent type="anno" lang="kor" page="19b" n="8">壻ᅟᅵ 나와 다ᄅᆞᆫ 室에 나아가든 졋어미 婦로 더브러 室中에 머믈고</sent>
+<sent type="anno" lang="chi" page="19b-20a" n="9">徹饌置室外 設席 壻從者餕婦之餘</sent>
+<sent type="anno" lang="kor" page="19b-20a" n="9">饌믈을 설어 室外예 노코 돗글 設ᄒᆞ야 壻의 從者ᄂᆞᆫ 婦의 나ᄆᆞᆫ 음식을 먹고</sent><!--從^者-->
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/1632_가례언해04/20a.jpg</img>
+<sent type="anno" lang="chi" page="20a" n="1">婦從者餕壻之餘</sent>
+<sent type="anno" lang="kor" page="20a" n="1">婦의 從者ᄂᆞᆫ 壻의 나ᄆᆞᆫ 음식을 머그라</sent>
+<sent type="anno" lang="chi" page="20a" n="2">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="20a" n="2">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="20a" n="3">古者同牢之禮 壻在西 東面</sent>
+<sent type="anno" lang="kor" page="20a" n="3">古者애 同牢ᄒᆞᄂᆞᆫ 禮애 壻ᅟᅵ 西의 이셔 東面ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="20a" n="4">婦在東 西面</sent>
+<sent type="anno" lang="kor" page="20a" n="4">婦ᅟᅵ 東의 이셔 西面ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="20a" n="5">葢古人尚右 故壻在西 尊之也</sent>
+<sent type="anno" lang="kor" page="20a" n="5">盖 古人이 右를 슝尙ᄒᆞᆫ 故로 壻ᅟᅵ 西의 이심믄 尊홈미러니</sent>
+<sent type="anno" lang="chi" page="20a" n="6">今人既尚左 且從俗</sent>
+<sent type="anno" lang="kor" page="20a" n="6">今人은 임의 左ᄅᆞᆯ 슝尙ᄒᆞ니 ᄯᅩᄒᆞᆫ 俗을 조ᄎᆞᆯ디니라</sent>
+<sent type="anno" lang="chi" page="20a" n="7">劉氏璋曰 儀禮疏云 巹謂牢瓢</sent>
+<sent type="anno" lang="kor" page="20a" n="7">劉氏 璋이 ᄀᆞᆯ오ᄃᆡ 儀禮疏애 닐온 巹은 닐온 동牢예 박잔이니</sent>
+<sent type="anno" lang="chi" page="20a" n="8">以一匏分為兩瓢 謂之巹</sent>
+<sent type="anno" lang="kor" page="20a" n="8">ᄒᆞᆫ 박으로ᄡᅥ 分ᄒᆞ야 두 박아지ᄅᆞᆯ ᄆᆡᆼ글믈 닐온 巹이니</sent>
+<sent type="anno" lang="chi" page="20a" n="9">壻之與婦 各執一片以酳</sent>
+<sent type="anno" lang="kor" page="20a" n="9">壻ᅟᅵ 婦로 더브러 各 ᄒᆞᆫ 片을 자바 ᄡᅥ곰 酳ᄒᆞᆫ 故로</sent><!--러 各-->
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/1632_가례언해04/20b.jpg</img>
+<sent type="anno" lang="chi" page="20b" n="1">故云合巹而酳</sent>
+<sent type="anno" lang="kor" page="20b" n="1">닐오ᄃᆡ 巹을 合ᄒᆞ야 酳ᄒᆞ다 ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="20b" n="2">昏義曰 婦至 壻揖婦以入 共牢而食</sent>
+<sent type="anno" lang="kor" page="20b" n="2">昏義예 ᄀᆞᆯ오ᄃᆡ 婦ᅟᅵ 니ᄅᆞ거든 壻ᅟᅵ 婦를 揖ᄒᆞ야 ᄡᅥ곰 드러가 牢ᄅᆞᆯ ᄒᆞᆫ가지로 ᄒᆞ야 食ᄒᆞ며</sent>
+<sent type="anno" lang="chi" page="20b" n="3">合巹而酳 所以合體</sent>
+<sent type="anno" lang="kor" page="20b" n="3">巹을 合ᄒᆞ야 酳홈은 ᄡᅥ곰 禮ᄅᆞᆯ 合ᄒᆞᄂᆞᆫ 배라</sent>
+<sent type="anno" lang="chi" page="20b" n="4">同尊卑 以親之也</sent>
+<sent type="anno" lang="kor" page="20b" n="4">尊卑ᄅᆞᆯ 同케 ᄒᆞ야 ᄡᅥ곰 親케 홈이니라</sent>
+<sent type="main" lang="chi" page="20b" n="5">復入ᄒᆞ야 脫服ᄒᆞ고 燭出ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="20b" n="5">다시 드러가 오ᄉᆞᆯ 벗고 燭블을 내라</sent>
+<sent type="anno" lang="chi" page="20b" n="6">壻脱服 婦從者受之</sent>
+<sent type="anno" lang="kor" page="20b" n="6">壻ᅟᅵ 오ᄉᆞᆯ 버서든 婦의 從者ᅟᅵ 밧고</sent>
+<sent type="anno" lang="chi" page="20b" n="7">婦脱服 壻從者受之</sent>
+<sent type="anno" lang="kor" page="20b" n="7">婦ᅟᅵ 오ᄉᆞᆯ 버서든 壻의 從者ᅟᅵ 바ᄃᆞ라</sent>
+<sent type="anno" lang="chi" page="20b-21a" n="8">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="20b-21a" n="8">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent><!--公^이-->
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/1632_가례언해04/21a.jpg</img>
+<sent type="anno" lang="chi" page="21a" n="1">古詩云</sent>
+<sent type="anno" lang="kor" page="21a" n="1">古詩예 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="21a" n="2">結髪為夫婦</sent>
+<sent type="anno" lang="kor" page="21a" n="2">머리 ᄆᆡ여셔 夫婦ᅟᅵ 되다 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="21a" n="3">言自少年束髪 即為夫婦</sent>
+<sent type="anno" lang="kor" page="21a" n="3">닐온 少年의 머리 다하신 적브터 夫婦ᅟᅵ 되다 호미니</sent>
+<sent type="anno" lang="chi" page="21a" n="4">猶李廣所言結髪與匃奴戰也</sent>
+<sent type="anno" lang="kor" page="21a" n="4">李廣의 닐온 머리 ᄆᆡ여셔 匈奴로 더브러 싸호다 호미 ᄀᆞᆮ거ᄅᆞᆯ</sent>
+<sent type="anno" lang="chi" page="21a" n="5">今世俗昏姻乃有結髪之禮</sent>
+<sent type="anno" lang="kor" page="21a" n="5">이제 世俗이 昏姻ᄒᆞᆯ 제 머리 ᄆᆡᄂᆞᆫ 禮 이시니</sent>
+<sent type="anno" lang="chi" page="21a" n="6">謬誤可笑 勿用可也</sent>
+<sent type="anno" lang="kor" page="21a" n="6">그ᄅᆞ고 可笑로온디라 ᄡᅳ디 말오미 可ᄒᆞ니라</sent>
+<sent type="main" lang="chi" page="21a" n="7">主人이 禮賓ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21a" n="7">主人이 賓의게 禮ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21a" n="8">男賓於外廳 女賓于中堂</sent>
+<sent type="anno" lang="kor" page="21a" n="8">男편 손으란 外廳의 ᄒᆞ고 女편 손으란 中堂의 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="21a" n="9">古禮明日饗從者 今從俗</sent>
+<sent type="anno" lang="kor" page="21a" n="9">古禮예ᄂᆞᆫ 이ᄐᆞᆫ날 從者ᄅᆞᆯ 연饗ᄒᆞ더니 이제 俗을 좃노라</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/1632_가례언해04/21b.jpg</img>
+<sent type="anno" lang="chi" page="21b" n="1">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="21b" n="1">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="21b" n="2">不用樂 註云</sent>
+<sent type="anno" lang="kor" page="21b" n="2">不用樂 註애 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="21b" n="3">曾子問曰</sent>
+<sent type="anno" lang="kor" page="21b" n="3">曾子 問의 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="21b" n="4">娶婦之家 三日不舉樂 思嗣親也</sent>
+<sent type="anno" lang="kor" page="21b" n="4">婦ᄅᆞᆯ 娶ᄒᆞᆫ 집이 三日을 풍뉴ᄅᆞᆯ 드디 아니홈믄 어버이 니으믈 ᄉᆡᆼ각홈미라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="21b" n="5">今俗昏禮用樂 殊為非禮</sent>
+<sent type="anno" lang="kor" page="21b" n="5">이제 셰俗이 昏禮애 풍뉴를 ᄡᅳ미 ᄌᆞᄆᆞᆺ 禮 아니라</sent>
+<sent type="anno" lang="chi" page="21b" n="6">婦見舅姑</sent>
+<sent type="anno" lang="kor" page="21b" n="6">婦見舅姑</sent>
+<sent type="main" lang="chi" page="21b" n="7">明日에 夙興ᄒᆞ야 婦ᅟᅵ 見于舅姑ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="21b" n="7">이ᄐᆞᆫ날 일 닐어 婦ᅟᅵ 舅姑ᄭᅴ 뵈ᄋᆞ오라</sent>
+<sent type="anno" lang="chi" page="21b" n="8">婦夙興盛服俟見</sent>
+<sent type="anno" lang="kor" page="21b" n="8">婦ᅟᅵ 일 니러 盛服ᄒᆞ고 뵈ᄋᆞᆸ기ᄅᆞᆯ 기ᄃᆞ리거든</sent>
+<sent type="anno" lang="chi" page="21b" n="9">舅姑坐於堂上 東西相向</sent>
+<sent type="anno" lang="kor" page="21b" n="9">舅姑ᅟᅵ 堂上의 안자 東西로 서ᄅᆞ 向ᄒᆞ야</sent>
+<sent type="anno" lang="chi" page="21b-22a" n="10">各置卓子於前</sent>
+<sent type="anno" lang="kor" page="21b-22a" n="10">각각 卓子ᄅᆞᆯ 앏ᄑᆡ 노코</sent><!--각 ^ 卓-->
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/1632_가례언해04/22a.jpg</img>
+<sent type="anno" lang="chi" page="22a" n="1">家人男女少於舅姑者 立於兩序 如冠禮之叙</sent>
+<sent type="anno" lang="kor" page="22a" n="1">집사ᄅᆞᆷ의 男이며 女ᅟᅵ 舅姑ᄭᅴ셔 져믄 者ᅟᅵ 兩序의 셔기ᄅᆞᆯ 冠禮 적 ᄎᆞ례ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22a" n="2">婦進 立於阼階下 北面拜舅 升</sent>
+<sent type="anno" lang="kor" page="22a" n="2">婦ᅟᅵ 나아가 阼階下의 셔셔 北面ᄒᆞ야 舅ᄭᅴ 拜례ᄒᆞ고 올라</sent>
+<sent type="anno" lang="chi" page="22a" n="3">奠贄幣于卓子上</sent>
+<sent type="anno" lang="kor" page="22a" n="3">贄와 幣ᄅᆞᆯ 卓子 上의 奠ᄒᆞ여든</sent>
+<sent type="anno" lang="chi" page="22a" n="4">舅撫之 侍者以入</sent>
+<sent type="anno" lang="kor" page="22a" n="4">舅ᅟᅵ 자바 ᄆᆞᆫ지고 侍者ᅟᅵ ᄡᅥ드려 니거든</sent>
+<sent type="anno" lang="chi" page="22a" n="5">婦降 又拜畢</sent>
+<sent type="anno" lang="kor" page="22a" n="5">婦ᅟᅵ ᄂᆞ려 ᄯᅩ 拜례ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22a" n="6">詣西階下 北面拜姑 升 奠贄幣</sent>
+<sent type="anno" lang="kor" page="22a" n="6">ᄆᆞᆺ고 西階下의 가 北面ᄒᆞ야 姑ᄭᅴ 拜례ᄒᆞ고 올라 贄와 幣ᄅᆞᆯ 奠ᄒᆞ여든</sent>
+<sent type="anno" lang="chi" page="22a" n="7">姑舉以授侍者 婦降 又拜</sent>
+<sent type="anno" lang="kor" page="22a" n="7">姑ᅟᅵ 들어 ᄡᅥ 侍者ᄅᆞᆯ 주어든 婦ᅟᅵ ᄂᆞ려 ᄯᅩ 拜례ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22a" n="8">若非宗子之子 而與宗子同居</sent>
+<sent type="anno" lang="kor" page="22a" n="8">만일 宗子의 子ᅟᅵ 아니오 宗子와 더브러 同居ᄒᆞ거든</sent>
+<sent type="anno" lang="chi" page="22a-22b" n="9">則先行此禮於舅姑之私室</sent>
+<sent type="anno" lang="kor" page="22a-22b" n="9">몬져 이 禮ᄅᆞᆯ 舅姑의 私室의 가 行ᄒᆞ고</sent><!--姑^의-->
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/1632_가례언해04/22b.jpg</img>
+<sent type="anno" lang="chi" page="22b" n="1">與宗子不同居 則如上儀</sent>
+<sent type="anno" lang="kor" page="22b" n="1">宗子와 더브러 同거티 아니ᄒᆞ거든 웃 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22b" n="2">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="22b" n="2">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="22b" n="3">古者拜于堂上</sent>
+<sent type="anno" lang="kor" page="22b" n="3">古者애 堂 우희셔 절ᄒᆞ더니</sent>
+<sent type="anno" lang="chi" page="22b" n="4">今拜于下 恭也</sent>
+<sent type="anno" lang="kor" page="22b" n="4">이제 아래셔 절ᄒᆞ니 恭슌ᄒᆞᆫ디라</sent>
+<sent type="anno" lang="chi" page="22b" n="5">可從衆</sent>
+<sent type="anno" lang="kor" page="22b" n="5">可히 衆을 조ᄎᆞᆯ 거시니라</sent>
+<sent type="main" lang="chi" page="22b" n="6">舅姑ᅟᅵ 禮之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="22b" n="6">舅姑ᅟᅵ 禮ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="22b" n="7">如父母醮女之儀</sent>
+<sent type="anno" lang="kor" page="22b" n="7">父母ᅟᅵ 醮女ᄒᆞᄂᆞᆫ 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="22b" n="8">婦ᅟᅵ 見于諸尊長ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="22b" n="8">婦ᅟᅵ 모ᄃᆞᆫ 尊長의게 뵈라</sent>
+<sent type="anno" lang="chi" page="22b" n="9">婦既受禮 降自西階</sent>
+<sent type="anno" lang="kor" page="22b" n="9">婦ᅟᅵ 임의 禮ᄒᆞ시믈 受ᄒᆞ고 西階로브터 ᄂᆞ려</sent>
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/1632_가례언해04/23a.jpg</img>
+<sent type="anno" lang="chi" page="23a" n="1">同居有尊於舅姑者</sent>
+<sent type="anno" lang="kor" page="23a" n="1">同居ᄒᆞᄂᆞᆫ ᄃᆡ 舅姑ᄭᅴ셔 尊ᄒᆞ니 잇거든</sent>
+<sent type="anno" lang="chi" page="23a" n="2">則舅姑以婦 見於其室 如見舅姑之禮</sent>
+<sent type="anno" lang="kor" page="23a" n="2">舅姑ᅟᅵ 婦로ᄡᅥ 그 室의 가 뵈기ᄅᆞᆯ 舅姑 뵈ᄂᆞᆫ 禮ᄀᆞ티 ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="23a" n="3">還拜諸尊長于兩序 如冠禮 無贄</sent>
+<sent type="anno" lang="kor" page="23a" n="3">도라와 모ᄃᆞᆫ 尊長을 兩序의셔 拜ᄒᆞ기ᄅᆞᆯ 冠禮ᄀᆞ티 호ᄃᆡ 贄ᄅᆞᆯ 업시 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="23a" n="4">小郎小姑 皆相拜</sent>
+<sent type="anno" lang="kor" page="23a" n="4">小郎이며 小姑ᄂᆞᆫ 다 서ᄅᆞ 拜ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="23a" n="5">非宗子之子而與宗子同居</sent>
+<sent type="anno" lang="kor" page="23a" n="5">宗子의 子ᅟᅵ 아니오 宗子와 더브러 同居ᄒᆞ거든</sent>
+<sent type="anno" lang="chi" page="23a" n="6">則旣受禮 詣其堂上拜之 如舅姑禮 而還見于兩序</sent>
+<sent type="anno" lang="kor" page="23a" n="6">임의 禮ᄒᆞ시믈 받고 그 堂上의 니ᄅᆞ러 拜호ᄆᆞᆯ 舅姑ᄭᅴ 禮ᄀᆞ티 ᄒᆞ고 도라와 兩序의 가 뵈라</sent>
+<sent type="anno" lang="chi" page="23a" n="7">其宗子及尊長不同居 則廟見而後往</sent>
+<sent type="anno" lang="kor" page="23a" n="7">그 宗子와 밋 尊長이 同居 아니ᄒᆞ거든 ᄉᆞ당의 뵈온 後에 가라</sent>
+<sent type="main" lang="chi" page="23a-23b" n="8">若冢婦 則饋于舅姑ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="23a-23b" n="8">만일 ᄆᆞᆮ며ᄂᆞ리어든 舅姑ᄭᅴ 饋ᄒᆞ라</sent><!--리^어-->
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/1632_가례언해04/23b.jpg</img>
+<sent type="anno" lang="chi" page="23b" n="1">是日食時 婦家具盛饌酒壺</sent>
+<sent type="anno" lang="kor" page="23b" n="1">이날 밥ᄠᅢ예 婦家의셔 盛饌이며 酒壺ᄅᆞᆯ ᄀᆞ초와</sent>
+<sent type="anno" lang="chi" page="23b" n="2">婦從者設疏果卓子于堂上舅姑之前</sent>
+<sent type="anno" lang="kor" page="23b" n="2">婦의 從者ᅟᅵ 蔬果卓子ᄅᆞᆯ 堂上 舅姑 앏ᄑᆡ 設ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="23b" n="3">設盥盆于阼階東南 帨架在東</sent>
+<sent type="anno" lang="kor" page="23b" n="3">盥盆을 阼階 東南의 設ᄒᆞ고 帨架ᄂᆞᆫ 東의 두라</sent>
+<sent type="anno" lang="chi" page="23b" n="4">舅姑就坐</sent>
+<sent type="anno" lang="kor" page="23b" n="4">舅姑ᅟᅵ 坐의 나아 안ᄌᆞ셔든</sent>
+<sent type="anno" lang="chi" page="23b" n="5">婦盥 升自西階 洗盞斟酒 置舅卓子上 降</sent>
+<sent type="anno" lang="kor" page="23b" n="5">婦ᅟᅵ 손 싯고 西階로브터 올라 盞 시서 술 브어 舅의 卓子 우희 노코 ᄂᆞ려</sent>
+<sent type="anno" lang="chi" page="23b" n="6">俟舅飲畢 又拜</sent>
+<sent type="anno" lang="kor" page="23b" n="6">舅ᅟᅵ 자셔 ᄆᆞᄎᆞᄆᆞᆯ 기ᄃᆞ려 ᄯᅩ 拜ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="23b" n="7">遂獻姑進酒</sent>
+<sent type="anno" lang="kor" page="23b" n="7">드듸여 姑의게 獻ᄒᆞ야 술을 進ᄒᆞ여든</sent>
+<sent type="anno" lang="chi" page="23b" n="8">姑受飲畢 婦降 拜</sent>
+<sent type="anno" lang="kor" page="23b" n="8">姑ᅟᅵ 바다 자셔 ᄆᆞ차든 婦ᅟᅵ ᄂᆞ려 拜ᄒᆞ고</sent>
+<sent type="anno" lang="chi" page="23b-24a" n="9">遂執饌升 薦于舅姑之前</sent>
+<sent type="anno" lang="kor" page="23b-24a" n="9">드듸여 饌믈을 자바 올라가 舅姑 앏ᄑᆡ 薦ᄒᆞ고</sent><!--ᄒᆞ^고-->
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/1632_가례언해04/24a.jpg</img>
+<sent type="anno" lang="chi" page="24a" n="1">侍立姑後以俟卒食 徹飯</sent>
+<sent type="anno" lang="kor" page="24a" n="1">姑의 뒤희 뫼ᄋᆞ와 셔셔 ᄡᅥ곰 다 자시ᄆᆞᆯ 기ᄃᆞ려 뫼ᄅᆞᆯ 설고</sent>
+<sent type="anno" lang="chi" page="24a" n="2">侍者徹饌 分置别室</sent>
+<sent type="anno" lang="kor" page="24a" n="2">侍者ᅟᅵ 饌믈을 설어 別室에 ᄂᆞᆫ화 두어든</sent>
+<sent type="anno" lang="chi" page="24a" n="3">婦就餕姑之餘</sent>
+<sent type="anno" lang="kor" page="24a" n="3">婦ᅟᅵ 나아가 姑의 나ᄆᆞᆫ 음식을 먹고</sent>
+<sent type="anno" lang="chi" page="24a" n="4">婦從者餕舅之餘</sent>
+<sent type="anno" lang="kor" page="24a" n="4">婦의 從者ᄂᆞᆫ 舅의 나ᄆᆞᆫ 음식을 먹고</sent>
+<sent type="anno" lang="chi" page="24a" n="5">壻從者又餕婦之餘</sent>
+<sent type="anno" lang="kor" page="24a" n="5">壻의 從者ᄂᆞᆫ ᄯᅩ 婦의 나ᄆᆞᆫ 음식을 머그라</sent>
+<sent type="anno" lang="chi" page="24a" n="6">非宗子之子 則扵私室如儀</sent>
+<sent type="anno" lang="kor" page="24a" n="6">宗子의 子ᅟᅵ 아니어든 私室의셔 녜대로 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="24a" n="7">司馬温公曰</sent>
+<sent type="anno" lang="kor" page="24a" n="7">司馬溫公이 ᄀᆞᆯ오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="24a" n="8">士昏禮 婦盥 饋特豚 合升側載</sent>
+<sent type="anno" lang="kor" page="24a" n="8">士昏禮애 婦ᅟᅵ 盥ᄒᆞ고 特豚을 饋호ᄃᆡ 合升側載라</sent>
+<sent type="anno" lang="chi" page="24a" n="9">註 側載者</sent>
+<sent type="anno" lang="kor" page="24a" n="9">ᄒᆞᆫ 註애 側載라 ᄒᆞᆫ 者는</sent>
+<sent type="anno" lang="chi" page="24a" n="10">右胖 載之舅俎</sent>
+<sent type="anno" lang="kor" page="24a" n="10">올ᄒᆞᆫ ᄧᅡ그란 舅의 俎애 담고</sent>
+<sent type="anno" lang="chi" page="24a" n="11">左胖 載之姑俎</sent>
+<sent type="anno" lang="kor" page="24a" n="11">왼ᄧᅡ그란 姑의 俎애 담으미라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="24a-24b" n="12">今恐貧者不辦殺特</sent>
+<sent type="anno" lang="kor" page="24a-24b" n="12">이제 가난ᄒᆞᆫ 者ᅟᅵ 特ᄉᆡᆼ을 殺키ᄅᆞᆯ 辦츌티 몯ᄒᆞᆯ가 저허ᄒᆞᆫ 故로</sent><!--제 ^ 가-->
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/1632_가례언해04/24b.jpg</img>
+<sent type="anno" lang="chi" page="24b" n="1">故但具盛饌而已</sent>
+<sent type="anno" lang="kor" page="24b" n="1">다만 盛饌을 具ᄒᆞ라 ᄒᆞᆯ ᄯᆞᄅᆞᆷ이니라</sent>
+<sent type="main" lang="chi" page="24b" n="2">舅姑ᅟᅵ 饗之ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="24b" n="2">舅姑ᅟᅵ 饗ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="24b" n="3">如禮婦之儀</sent>
+<sent type="anno" lang="kor" page="24b" n="3">禮婦ᄒᆞᄂᆞᆫ 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="24b" n="4">禮畢 舅姑先降自西階</sent>
+<sent type="anno" lang="kor" page="24b" n="4">禮 ᄆᆞᆺ고 舅姑ᅟᅵ 몬져 西階로브터 ᄂᆞ리거든</sent>
+<sent type="anno" lang="chi" page="24b" n="5">婦降自阼階</sent>
+<sent type="anno" lang="kor" page="24b" n="5">婦ᄂᆞᆫ 阼階로브터 ᄂᆞ리라</sent>
+<sent type="title3" lang="chi" page="24b" n="6">廟見</sent>
+<sent type="title3" lang="kor" page="24b" n="6">廟見</sent>
+<sent type="main" lang="chi" page="24b" n="7">三日에 主人이 以婦로 見于祠堂ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="24b" n="7">사ᄒᆞᆯ만의 主人이 婦로ᄡᅥ 祠堂의 뵈오라</sent>
+<sent type="anno" lang="chi" page="24b" n="8">古者三月而廟見</sent>
+<sent type="anno" lang="kor" page="24b" n="8">古者앤 석ᄃᆞᆯ만의 廟의 뵈더니</sent>
+<sent type="anno" lang="chi" page="24b" n="9">今以其太逺 改用三日</sent>
+<sent type="anno" lang="kor" page="24b" n="9">이제 그 너모 멀모로ᄡᅥ 고텨 三日로ᄡᅥ ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="24b-25a" n="10">如子冠而見之儀 但告辭曰</sent>
+<sent type="anno" lang="kor" page="24b-25a" n="10">子ᅟᅵ 冠ᄒᆞ고 뵈ᄂᆞᆫ 녜ᄀᆞ티 호ᄆᆡ 다만 告辭애 ᄀᆞᆯ오ᄃᆡ</sent><!--ᄀᆞ^티-->
+</pages>
+
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/1632_가례언해04/25a.jpg</img>
+<sent type="anno" lang="chi" page="25a" n="1">子某之婦某氏 敢見</sent>
+<sent type="anno" lang="kor" page="25a" n="1">子某之婦某氏 敢見이라 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="25a" n="2">餘並同</sent>
+<sent type="anno" lang="kor" page="25a" n="2">녀나믄 거ᄉᆞᆫ 다 ᄀᆞᄐᆞ니라</sent>
+<sent type="title3" lang="chi" page="25a" n="3">壻見婦之父母</sent>
+<sent type="title3" lang="kor" page="25a" n="3">壻見婦之父母</sent>
+<sent type="main" lang="chi" page="25a" n="4">明日에 壻ᅟᅵ 往見婦之父母ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="25a" n="4">이ᄐᆞᆫ날 壻ᅟᅵ 가 婦의 父母ᄭᅴ 뵈라</sent>
+<sent type="anno" lang="chi" page="25a" n="5">婦父迎送揖讓 如客禮 拜 即跪而扶之</sent>
+<sent type="anno" lang="kor" page="25a" n="5">婦의 父ᅟᅵ 迎送ᄒᆞ며 揖讓ᄒᆞ기ᄅᆞᆯ 客禮ᄀᆞ티 ᄒᆞ고 拜ᄒᆞ여든 즉제 ᄭᅮ러 븓들라</sent>
+<sent type="anno" lang="chi" page="25a" n="6">入自婦母 婦母闔門左扉 立于門內</sent>
+<sent type="anno" lang="kor" page="25a" n="6">드러가 婦의 母ᄅᆞᆯ 뵈올 제 婦의 母ᅟᅵ 門 左 녁 ᄧᅡᆨ을 닫고 門 안ᄒᆡ 셧거든</sent>
+<sent type="anno" lang="chi" page="25a" n="7">壻拜于門外 皆有幣</sent>
+<sent type="anno" lang="kor" page="25a" n="7">壻ᅟᅵ 문 밧긔셔 拜호ᄃᆡ 다 幣 인ᄂᆞ니라</sent>
+<sent type="anno" lang="chi" page="25a" n="8">婦父非宗子</sent>
+<sent type="anno" lang="kor" page="25a" n="8">婦의 父ᅟᅵ 宗子ᅟᅵ 아니어든</sent>
+<sent type="anno" lang="chi" page="25a-25b" n="9">卽先見宗子夫婦 不用幣</sent>
+<sent type="anno" lang="kor" page="25a-25b" n="9">즉제 몬져 宗子의 夫婦ᄅᆞᆯ 뵈되 幣ᄅᆞᆯ ᄡᅳ디 말고</sent><!--子^의-->
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/1632_가례언해04/25b.jpg</img>
+<sent type="anno" lang="chi" page="25b" n="1">如上儀 然後見婦之父母</sent>
+<sent type="anno" lang="kor" page="25b" n="1">웃 녜ᄀᆞ티 ᄒᆞᆫ 後에 婦의 父母ᄅᆞᆯ 뵈라</sent>
+<sent type="main" lang="chi" page="25b" n="2">次見婦黨諸親ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="25b" n="2">버거 婦의 겨레 모ᄃᆞᆫ 권당을 뵈라</sent>
+<sent type="anno" lang="chi" page="25b" n="3">不用幣 婦女相見 如上儀</sent>
+<sent type="anno" lang="kor" page="25b" n="3">幣ᄅᆞᆯ ᄡᅳ디 말고 婦女ᄂᆞᆫ 서ᄅᆞ 보기ᄅᆞᆯ 웃 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="main" lang="chi" page="25b" n="4">婦家ᅟᅵ 禮壻ᄅᆞᆯ 如常儀ᄒᆞ라</sent>
+<sent type="main" lang="kor" page="25b" n="4">婦家ᅟᅵ 壻ᄅᆞᆯ 禮ᄒᆞ기ᄅᆞᆯ 常시 녜ᄀᆞ티 ᄒᆞ라</sent>
+<sent type="anno" lang="chi" page="25b" n="5">親迎之夕 不當見婦母及諸親</sent>
+<sent type="anno" lang="kor" page="25b" n="5">親迎ᄒᆞᄂᆞᆫ 나죄 맛當히 婦의 母와 밋 모ᄃᆞᆫ 권당을 보며</sent>
+<sent type="anno" lang="chi" page="25b" n="6">及設酒饌 以婦未見舅姑故也</sent>
+<sent type="anno" lang="kor" page="25b" n="6">밋 酒饌을 設티 아니호ᄆᆞᆫ 婦ᅟᅵ 舅姑ᄭᅴ 뵈디 몯ᄒᆞ얏ᄂᆞᆫ 연故로 ᄡᅦ라</sent>
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/1632_가례언해04/26a.jpg</img>
+<sent type="anno" lang="chi" page="26a" n="1">程子曰 昏禮不用樂 幽陰之義</sent>
+<sent type="anno" lang="kor" page="26a" n="1">程子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ 昏禮예 樂을 用티 아니호믄 幽陰ᄒᆞᆫ 義라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="26a" n="2">此説非是</sent>
+<sent type="anno" lang="kor" page="26a" n="2">이 말이 올티 아니ᄒᆞ다</sent>
+<sent type="anno" lang="chi" page="26a" n="3">昏禮豈是幽陰</sent>
+<sent type="anno" lang="kor" page="26a" n="3">昏禮 엇디 이 幽陰ᄒᆞ리오</sent>
+<sent type="anno" lang="chi" page="26a" n="4">但古人重此大禮 嚴肅其事 不用樂也</sent>
+<sent type="anno" lang="kor" page="26a" n="4">다만 古人이 이 大禮ᄅᆞᆯ 重히 ᄒᆞ야 그 이ᄅᆞᆯ 嚴肅키 ᄒᆞ야 樂을 ᄡᅳ디 아니ᄒᆞ니라</sent>
+<sent type="anno" lang="chi" page="26a" n="5">昏禮不賀 人之序也</sent>
+<sent type="anno" lang="kor" page="26a" n="5">昏婦ᄅᆞᆯ 賀례 아니호믄 사ᄅᆞᆷ의 序ᅟᅵ라 ᄒᆞ니</sent>
+<sent type="anno" lang="chi" page="26a" n="6">此説却是</sent>
+<sent type="anno" lang="kor" page="26a" n="6">이 말이 믄득 올타</sent>
+<sent type="anno" lang="chi" page="26a" n="7">婦質明而見姑舅 成婦也</sent>
+<sent type="anno" lang="kor" page="26a" n="7">신婦ᅟᅵ 質明의 舅姑ᄭᅴ 見호믄 婦ᅟᅵ 되여시미오</sent>
+<sent type="anno" lang="chi" page="26a" n="8">三日而後宴樂 禮畢也</sent>
+<sent type="anno" lang="kor" page="26a" n="8">三日 後의 宴樂홈은 禮ᄅᆞᆯ ᄆᆞᄎᆞᆷ이라</sent>
+<sent type="anno" lang="chi" page="26a" n="9">宴不以夜 禮也</sent>
+<sent type="anno" lang="kor" page="26a" n="9">宴을 밤으로ᄡᅥ 아니홈이 禮니라</sent>
+<sent type="anno" lang="chi" page="26a" n="10">朱子曰</sent>
+<sent type="anno" lang="kor" page="26a" n="10">朱子ᅟᅵ ᄀᆞᆯᄋᆞ샤ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="26a" n="11">人著書</sent>
+<sent type="anno" lang="kor" page="26a" n="11">사ᄅᆞᆷ이 書젹을 著슐ᄒᆞᆯ 제</sent>
+<sent type="anno" lang="chi" page="26a-26b" n="12">只是自入些己意 便做病</sent>
+<sent type="anno" lang="kor" page="26a-26b" n="12">오직 이에 즈스로 죠고매나 己意ᄅᆞᆯ 드리면 믄득 病통이 되ᄂᆞ니</sent><!--意^ᄅᆞᆯ-->
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/1632_가례언해04/26b.jpg</img>
+<sent type="anno" lang="chi" page="26b" n="1">司馬與伊川定昏禮</sent>
+<sent type="anno" lang="kor" page="26b" n="1">司馬과 다ᄆᆞᆺ 伊川이 昏禮ᄅᆞᆯ 定호매 다 儀禮ᄅᆞᆯ 依거ᄒᆞ야 ᄒᆞ시되</sent>
+<sent type="anno" lang="chi" page="26b" n="2">都依儀禮 只略改一處 便不是古人意</sent>
+<sent type="anno" lang="kor" page="26b" n="2">다만 잠ᄭᅡᆫ ᄒᆞᆫ 도ᄃᆞᆯ 改ᄒᆞ시니 믄득 이 古人의 ᄠᅳ디 아니라</sent>
+<sent type="anno" lang="chi" page="26b" n="3">司馬云</sent>
+<sent type="anno" lang="kor" page="26b" n="3">司馬ᅟᅵ 닐오ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="26b" n="4">親迎奠雁 見主昏者卽出</sent>
+<sent type="anno" lang="kor" page="26b" n="4">親迎애 奠鴈ᄒᆞ고 主昏ᄒᆞᄂᆞᆫ 者ᄅᆞᆯ 보고 卽제 나오라 ᄒᆞ엿거ᄂᆞᆯ</sent>
+<sent type="anno" lang="chi" page="26b" n="5">伊川却敎拜了 又入堂拜大男小女</sent>
+<sent type="anno" lang="kor" page="26b" n="5">伊川은 믄득 ᄒᆞ여곰 拜호ᄆᆞᆯ ᄆᆞᆺ고 ᄯᅩ 堂의 드러가 大男小女ᄅᆞᆯ 拜ᄒᆞ라 ᄒᆞ시니</sent>
+<sent type="anno" lang="chi" page="26b" n="6">伊川非是 伊川云</sent>
+<sent type="anno" lang="kor" page="26b" n="6">伊川이 올티 아니ᄒᆞ고 伊川이 니ᄅᆞ시되</sent>
+<sent type="anno" lang="chi" page="26b" n="7">婦至次日見舅姑</sent>
+<sent type="anno" lang="kor" page="26b" n="7">신婦ᅟᅵ 至ᄒᆞ야 버근 날애 舅姑ᄭᅴ 뵈고</sent>
+<sent type="anno" lang="chi" page="26b" n="8">三月廟見</sent>
+<sent type="anno" lang="kor" page="26b" n="8">三月애 가廟애 뵈라 ᄒᆞ엿거늘</sent>
+<sent type="anno" lang="chi" page="26b-27a" n="9">司馬却說 婦入門 卽拜影堂</sent>
+<sent type="anno" lang="kor" page="26b-27a" n="9">司馬ᄂᆞᆫ 믄득 닐오ᄃᆡ 신婦ᅟᅵ 門의 드러 卽제 影堂의 拜ᄒᆞ라 ᄒᆞ니</sent><!--婦^ᅟᅵ-->
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/1632_가례언해04/27a.jpg</img>
+<sent type="anno" lang="chi" page="27a" n="1">司馬非是</sent>
+<sent type="anno" lang="kor" page="27a" n="1">司馬ᅟᅵ 올티 아니ᄒᆞ다</sent>
+<sent type="anno" lang="chi" page="27a" n="2">蓋親迎不見妻父母者 婦未見舅姑也</sent>
+<sent type="anno" lang="kor" page="27a" n="2">盖 親迎ᄒᆞᆯ 제 妻父母ᄭᅴ 뵈디 아니ᄒᆞᄂᆞᆫ 者ᄂᆞᆫ 신婦ᅟᅵ 舅姑ᄭᅴ 뵈디 몯ᄒᆞ여시미오</sent>
+<sent type="anno" lang="chi" page="27a" n="3">入門不見舅姑者 未成婦也</sent>
+<sent type="anno" lang="kor" page="27a" n="3">門 의 드러 舅姑ᄭᅴ 뵈디 아니ᄒᆞᄂᆞᆫ 者ᄂᆞᆫ 婦ᅟᅵ 믜디 몯ᄒᆞ여시미니</sent>
+<sent type="anno" lang="chi" page="27a" n="4">今親迎用溫公 入門以後 用伊川</sent>
+<sent type="anno" lang="kor" page="27a" n="4">이제 親迎은 溫公을 ᄡᅳ고 入門 以後ᄂᆞᆫ 伊川을 ᄡᅥ 호ᄃᆡ</sent>
+<sent type="anno" lang="chi" page="27a" n="5">三月廟見 改爲三日云</sent>
+<sent type="anno" lang="kor" page="27a" n="5">三月廟見을 고텨 三日이라 ᄒᆞ노라</sent><!--title: 제목, title2: 중제목, title3: 소제목, main: 본문, anno: 해설-->
+</pages>
+</doc>
+

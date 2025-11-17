@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">추사언간</title>
+<title lang="chi">秋史諺簡</title>
+<full_name>추사언간</full_name>
+<nikl_name>추사언간</nikl_name>
+<general_name>추사언간</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version></version>
+<volume n=""/>
+<sender>김정희(남편)</sender>
+<receiver>예안이씨(아내)</receiver>
+<date>1818-1844</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>조선시대 한글편지 판독자료집 3</title>
+<pubPlace>한국학중앙연구원 어문생활사연구소</pubPlace>
+<publisher>황문환, 임치균, 전경목, 조정아, 황은영</publisher>
+<date>2013</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>20230926</date>
+<respStmt>
+<resp>입력자</resp><name>이홍구</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>허인영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+<!--sender는 '발신자', writer는 '작성자', receiver는 '수신자', year는 '발신 연도', envelop은 '봉투 유형'을 가리키는 속성 정보이다.-->
+<!--'발신자'와 '작성자'는 일반적으로는 동일하나 대필(代筆) 언간의 경우에는 상이하다. 후자의 경우 작성자(즉, 대필자)가 누구인지 분명하면 그것을 밝혀 적고, 분명하지 않으면 '대필자'로만 입력한다. 대필 여부가 의심되나 확실하지 않을 경우에는 writer를 '대필자?'로 입력한다.--> 
+<!--'발신 연도'는 연(年) 단위까지만 입력하되, 정확한 연도를 밝힐 수 없는 편지는 '19세기 중반', '1851~1857년' 등과 같이 그 추정 시기를 입력한다.-->
+<!--봉투가 하나인 '단봉(單封)'은 다시 '별봉(別封, 별도로 만든 것)과 '자봉(自封, 내지가 봉투를 겸한 것)'으로 나뉜다. '별봉'은 envelop1-1로, '자봉'은 envelop1-2로 입력한다. 단봉을 다시 싼 '중봉(重封)'은 envelop2로 입력한다.-->
+<!--언간 자료의 특성상 개별 편지의 상황 정보는 추후 얼마든지 수정될 수 있다.-->
+
+<img n="001">https://kohico.kr/_media/image/이미지_파일_폴더명/001.jpg</img>
+<letter n="001" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">장동 본가 입납 영호 유ᄀᆡᆨ 샹장 이월 십일일 근</sent>
+<sent type="main" n="01">거번 듕노의셔 ᄒᆞ온 편지ᄂᆞᆫ 보와 겨시ᄋᆞᆸ</sent>
+<sent type="main" n="02">그ᄉᆞ이 인편 잇ᄉᆞ오나</sent>
+<sent type="main" n="03">편지 못 보오니</sent>
+<sent type="main" n="04">붓그러워 아니ᄒᆞ야 겨오시ᄋᆞᆸ</sent>
+<sent type="main" n="05">나ᄂᆞᆫ ᄆᆞᄋᆞᆷ이 심히 섭섭ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="06">그동안 일 념이나 되오니</sent>
+<sent type="main" n="07">년ᄒᆞ와 편안이 지내오시고</sent>
+<sent type="main" n="08">대쇼 연고 업ᄉᆞᆸ고</sent>
+<sent type="main" n="09">슈직 범졀이 챡실이 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="10">샤랑의 동쳥직들이 ᄯᅥ나지 아니ᄒᆞᄋᆞᆸ고 잇다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="11">일념이 노히지 아니ᄒᆞ오며</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 오ᄅᆡ간만의 뫼시고 지내니</sent>
+<sent type="main" n="13">든든 깃부기 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="14">그 길의 쳔 니나 쥬류ᄒᆞ야</sent>
+<sent type="main" n="15">이령가 험노의 무슈이 속ᄉᆞᆸ고</sent>
+<sent type="main" n="16">열나흘 만의 득달ᄒᆞ야 와ᄉᆞ오니</sent>
+<sent type="main" n="17">쉬온 지 삼 일이로ᄃᆡ</sent>
+<sent type="main" n="18">참아 곤ᄒᆞ와 못 견ᄃᆡ개ᄉᆞᆸ</sent>
+<sent type="main" n="19">오날 졔녁이 졔ᄉᆞ오니</sent>
+<sent type="main" n="20">형님겨오셔나 번이나 나오시고</sent>
+<sent type="main" n="21">뒤집 진ᄉᆞ나 드러와 지내ᄂᆞᆫ가</sent>
+<sent type="main" n="22">외오셔 이리 념이오며</sent>
+<sent type="main" n="23">내ᄒᆡᆼ은 념후 ᄯᅥ나ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="24">큰아ᄌᆞ마님 겨오셔와 듕슈씨가 올나가오시고</sent>
+<sent type="main" n="25">계슈씨ᄂᆞᆫ 아직 겨시고</sent>
+<sent type="main" n="26">그 회마의 거긔셔 나려오시개 ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="27">나ᄂᆞᆫ 내ᄒᆡᆼ 올나갈 ᄯᆡ의 ᄒᆞᆫ가지로 가랴 ᄒᆞ오니</sent>
+<sent type="main" n="28">시ᄉᆞ 미쳐 드러가올 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="29">그ᄉᆞ이 길이나 마치 찰혀 두개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="30">아모려도 초뉵 즈음으로 ᄯᅥ나오개 ᄒᆞᄋᆞᆸ개ᄉᆞ오니</sent>
+<sent type="main" n="31">미리 ᄎᆞᆯ히시개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="32">아모려도 집일이 말이 못 되오니 이리 답답ᄒᆞᄋᆞᆸ마ᄂᆞᆫ</sent>
+<sent type="main" n="33">얼마 동안이올잇가</sent>
+<sent type="main" n="34">올흔 집일을 게셔을 모도 맛기고</sent>
+<sent type="main" n="35">나ᄂᆞᆫ 걱졍을 마ᄌᆞ ᄒᆞ야ᄉᆞᆸ더니</sent>
+<sent type="main" n="36">그도 다 ᄯᅳᆺ대로 아니 되오니 도로혀 웃ᄉᆞᆸ고</sent>
+<sent type="main" n="37">심난 난쳐ᄒᆞᆫ 일 만ᄉᆞ오니 답답ᄒᆞ올 ᄲᅮᆫ이ᄋᆞᆸ</sent>
+<sent type="main" n="38">내 져고리ᄂᆞᆫ 샹인 편 갓튼 ᄃᆡ을 노치고 언졔 보내랴 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="39">답답도 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="40">평동셔도ᄂᆞᆫ 그ᄉᆞ이 엇더ᄒᆞ오시다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="41">동동ᄒᆞ온 념녀 ᄀᆞ이 업ᄉᆞ오며</sent>
+<sent type="main" n="42">반동 누의님은 드러와 겨오시ᄋᆞᆸ</sent>
+<sent type="main" n="43">어ᄃᆡ셔 온 편지가 보암즉ᄒᆞᄋᆞᆸ기 보내오니</sent>
+<sent type="main" n="44">보오시고 잘 감초와 두ᄋᆞᆸ</sent>
+<sent type="main" n="45">개셔 ᄇᆡ항은 뒤집 진ᄉᆞ가 오개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="46">심요 이만 뎝ᄉᆞᆸ</sent>
+<sent type="main" n="47">편지 써 둔 지 이틀이올더니</sent>
+<sent type="main" n="48">그ᄉᆞ이 ᄒᆞᆫ 슌 글월 보ᄋᆞᆸ고</sent>
+<sent type="main" n="49">ᄯᅩ 다시 쓸 길이 업셔 이만 흘니ᄋᆞᆸ</sent>
+<sent type="main" n="50">십삼일 야 츄셔</sent>
+</letter>
+
+<img n="002">https://kohico.kr/_media/image/이미지_파일_폴더명/002.jpg</img>
+<letter n="002" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="main" n="01">그ᄉᆞ이 년ᄒᆞ야 편지 브쳐ᄉᆞᆸ더니</sent>
+<sent type="main" n="02">다 보와 겨시ᄋᆞᆸ</sent>
+<sent type="main" n="03">념일간 녕으로 드르신다 ᄒᆞ더니</sent>
+<sent type="main" n="04">어ᄂᆡ 날 녕문의 와 겨시ᄋᆞᆸ</sent>
+<sent type="main" n="05">즉금은 한 열흘이나 갓가와ᄉᆞ오니</sent>
+<sent type="main" n="06">도독이나 다 플니시고 뫼와 일양ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="07">아바님겨오셔ᄂᆞᆫ 환슌 후 긔후 일양ᄒᆞ오신지</sent>
+<sent type="main" n="08">복념 브리ᄋᆞᆸ지 못ᄒᆞ오며</sent>
+<sent type="main" n="09">나ᄂᆞᆫ 아직 년고들은 업ᄉᆞᆸ</sent>
+<sent type="main" n="10">거셔ᄂᆞᆫ 엇지 ᄒᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="11">셰간은 뉘가 잡고</sent>
+<sent type="main" n="12">거긔 모양드을 보시니 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="13">실노 념녀 노히이지 아니ᄒᆞ오며</sent>
+<sent type="main" n="14">올 븍경 길의 문포 두엇 필을 어더ᄉᆞ오니</sent>
+<sent type="main" n="15">엇지ᄒᆞ야 입ᄉᆞ오면 죠흘고</sent>
+<sent type="main" n="16">게셔ᄂᆞᆫ 업고 도라 의논ᄒᆞ 길 업ᄉᆞ오니</sent>
+<sent type="main" n="17">엇지면 죠흘지 답답ᄒᆞᆫ 일 만ᄉᆞ오니 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="18">ᄌᆞ시 긔별ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="19">춍춍 이만 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="20">무인 삼월 념팔 샹장</sent>
+</letter>
+
+<img n="003">https://kohico.kr/_media/image/이미지_파일_폴더명/003.jpg</img>
+<letter n="003" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">거번 글월은 못내 뵈온 듯ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 뫼와 일양들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="03">나ᄂᆞᆫ 아직 ᄒᆞᆫ가지오며</sent>
+<sent type="main" n="04">아ᄌᆞ마님겨오셔 학졈으로 미령ᄒᆞ오시다 ᄒᆞ오니 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="05">즉시 ᄭᅫ복ᄒᆞ와 겨오신가복녀 ᄀᆞ이업ᄉᆞᆸ</sent>
+<sent type="main" n="06">내일 죠흔 구경을 마히 ᄒᆞ오실 듯ᄒᆞ오니</sent>
+<sent type="main" n="07">셔올 인ᄂᆞᆫ 샤ᄅᆞᆷ은 더옥 ᄉᆡᆼ각이 아니 나오시개ᄉᆞᆸ</sent>
+<sent type="main" n="08">긔별ᄒᆞ오신 거ᄉᆞᆫ 엇더 엇지ᄒᆞ올잇가</sent>
+<sent type="main" n="09">여긔 두 고대 분부을 ᄒᆞ오라 ᄒᆞ시면</sent>
+<sent type="main" n="10">기ᄃᆞ리 잇ᄉᆞ올이니다</sent>
+<sent type="main" n="11">남은 업셔 다 흰 거시라 ᄒᆞ오니</sent>
+<sent type="main" n="12">여긔셔 남을 드리면 죠흘 드ᄉᆞᄋᆞᆸ마ᄂᆞᆫ</sent>
+<sent type="main" n="13">뉘고더러 드리라 ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="14">기ᄃᆞ리올 밧 수가 업ᄉᆞᆸ</sent>
+<sent type="main" n="15">녕ᄉᆡᆼ 모 옥동곳슨 극픔을 어더시니</sent>
+<sent type="main" n="16">구젼이나 만히 먹이라 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">인편이 급ᄒᆞ야 편지 각각 못ᄒᆞ오며</sent>
+<sent type="main" n="18">혼슈 말은 ᄌᆞ시 듯고</sent>
+<sent type="main" n="19">당홍 삼승은 졔년의도 내여 오지 아니ᄒᆞ고</sent>
+<sent type="main" n="20">올ᄒᆡ도 아니 내여 왓다 ᄒᆞ오니</sent>
+<sent type="main" n="21">이런 낭ᄑᆡ가 업ᄉᆞᆸ</sent>
+<sent type="main" n="22">다홍 삼승을 압집의셔 졔년의도 낭ᄑᆡ을 ᄒᆞ야</sent>
+<sent type="main" n="23">겨요 다ᄅᆞᆫ ᄃᆡ셔 나 쓰와다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="24">무인 ᄉᆞ월 초칠 샹쟝</sent>
+</letter>
+
+<img n="004">https://kohico.kr/_media/image/이미지_파일_폴더명/004.jpg</img>
+<letter n="004" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">녕녕 내아 입납 장동 샹장 근봉</sent>
+<sent type="main" n="01">거번 인편의 뎍ᄉᆞ오시니 보ᄋᆞᆸ고 든든ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 인편 혹 잇ᄉᆞ오ᄃᆡ</sent>
+<sent type="main" n="03">셔역이 극난ᄒᆞ야 못ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="04">ᄃᆈ 만ᄉᆞᆸ</sent>
+<sent type="main" n="05">오쟉 ᄭᅮ지져 겨오시실잇가</sent>
+<sent type="main" n="06">날이 ᄉᆞ월이라 업시 이리 칩ᄉᆞ오니</sent>
+<sent type="main" n="07">뫼와 일양들 ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="09">아바님겨오셔 감후로 미령ᄒᆞ오시다 ᄒᆞ오니 엇더ᄒᆞ오신지</sent>
+<sent type="main" n="09">즉시 평복ᄒᆞ오시고 졔졀이 일양이오신지</sent>
+<sent type="main" n="10">외오셔 초박 ᄀᆞ이업ᄉᆞᆸ</sent>
+<sent type="main" n="11">녕즁 범졀 다 일향 편안ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 아직 ᄒᆞᆫ가지오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="13">온양 편지도 보와 겨오시ᄋᆞᆸ</sent>
+<sent type="main" n="14">용구 올나오ᄂᆞᆫ 편의 와ᄉᆞᆸ더니다</sent>
+<sent type="main" n="15">녕ᄉᆡᆼ 모 편지 ᄌᆞ시 보와시나</sent>
+<sent type="main" n="16">보내 것 아직 오지 아니ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="17">온 후 답셔ᄒᆞ올이다</sent>
+<sent type="main" n="18">호방이 나려가기 춍춍 이만 그치오며</sent>
+<sent type="main" n="19">내내 평안ᄒᆞ오시기 ᄇᆞ라ᄋᆞᆸ</sent>
+<sent type="main" n="20">무인 ᄉᆞ월 념뉵일 샹장</sent>
+</letter>
+
+<img n="005">https://kohico.kr/_media/image/이미지_파일_폴더명/005.jpg</img>
+<letter n="005" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">그ᄉᆞ이 왕ᄂᆡᄒᆞᄂᆞᆫ 인편 잇ᄉᆞ오나</sent>
+<sent type="main" n="02">거긔 편지도 못 보ᄋᆞᆸ고</sent>
+<sent type="main" n="03">나도 못ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="04">섭섭ᄒᆞᄋᆞᆸ기 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="05">날이 증습ᄒᆞᄋᆞᆸ기 심ᄒᆞ와 장마가 되야 가오니</sent>
+<sent type="main" n="06">뫼오셔 편안들 ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="07">념녀 브리지 못ᄒᆞ오며</sent>
+<sent type="main" n="08">대되 무ᄉᆞ들 ᄒᆞ온잇가</sent>
+<sent type="main" n="09">섯믈이 한창 ᄯᆡ오니</sent>
+<sent type="main" n="10">브ᄃᆡ 참외 가튼 것 만이 잡ᄉᆞ오시개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="11">본ᄂᆡ 습도 업ᄂᆞᆫ 긔픔이오니</sent>
+<sent type="main" n="12">금ᄒᆞ리 업시 만열이와 결어 가면 잘 쟈시랴 일컷ᄉᆞᆸ</sent>
+<sent type="main" n="13">나ᄂᆞᆫ 졈졈 슈란ᄒᆞᆫ 일 만ᄉᆞ오니 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="14">만열 혼인은 동지달노 졍ᄒᆞ야시니 긔특ᄒᆞ오며</sent>
+<sent type="main" n="15">압ᄃᆡᆨ의셔 둘재 어마님겨오셔 죵환으로 대간ᄒᆞ오시더니 죠곰 낫ᄌᆞ오시나</sent>
+<sent type="main" n="16">마히 념녀ᄒᆞ야ᄉᆞᆸ더니 다ᄒᆡᆼ이오며</sent>
+<sent type="main" n="17">평동 누의님도 미령이 지내오시더니</sent>
+<sent type="main" n="18">요ᄉᆞ이ᄂᆞᆫ ᄯᅩ 낫ᄌᆞ오시고</sent>
+<sent type="main" n="19">난동 됴집이 회증쳐로 병이 십분 긔괴ᄒᆞ야</sent>
+<sent type="main" n="20">즉금 십여 일의 집증을 못 ᄒᆞ오니</sent>
+<sent type="main" n="21">이런 답답ᄒᆞ올 ᄃᆡ 업ᄉᆞᆸ</sent>
+<sent type="main" n="22">슈란 이만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="23">녕ᄉᆡᆼ 모의개ᄂᆞᆫ 편지 못ᄒᆞ오니 후편 ᄒᆞ올이다</sent>
+<sent type="main" n="24">무인 뉵월 초ᄉᆞ일 샹장</sent>
+</letter>
+
+<img n="006">https://kohico.kr/_media/image/이미지_파일_폴더명/006.jpg</img>
+<letter n="006" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">이 동안은 오ᄅᆡ 쇼식이 업ᄉᆞ오니</sent>
+<sent type="main" n="02">답답 념녀 브리지 못ᄒᆞ오며</sent>
+<sent type="main" n="03">그ᄉᆞ이 엇지 편치 못ᄒᆞ야 지나시다 ᄒᆞ오니</sent>
+<sent type="main" n="04">어ᄃᆡ을 그리 알아 지내와ᄉᆞᆸ</sent>
+<sent type="main" n="05">본증이나 아니올넌가 념녀 측냥업ᄉᆞᆸ</sent>
+<sent type="main" n="06">만념이 극심ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="07">뫼와 일양 평안ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="08">아바님겨오셔ᄂᆞᆫ 셜후ᄂᆞᆫ ᄭᅫ히 낫ᄌᆞ오시고</sent>
+<sent type="main" n="09">세재 진ᄉᆞᄂᆞᆫ 이각이나 ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="10">외오셔 이리 동동ᄒᆞᆫ 념녀 측양업ᄉᆞᆸ</sent>
+<sent type="main" n="11">셔모도 마히 알아 지내야다 ᄒᆞ오니 죵죵 념이오며</sent>
+<sent type="main" n="12">아ᄒᆡ들은 탈 업시 잇ᄉᆞᆸ</sent>
+<sent type="main" n="13">나ᄂᆞᆫ 초ᄉᆞ 졔ᄉᆞ 지내오니</sent>
+<sent type="main" n="14">ᄉᆡ로히 망극지통 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="15">둘재 누의님도 드러오시고</sent>
+<sent type="main" n="16">병듕 챠동셔도 드러와 모히여 지내와시나</sent>
+<sent type="main" n="17">게셔 멀이 겨시니 결연ᄒᆞ기 ᄀᆞ이 업ᄉᆞᆸ</sent>
+<sent type="main" n="18">집안은 대되 무양ᄒᆞ고</sent>
+<sent type="main" n="19">나ᄂᆞᆫ 셔감이 긴ᄒᆞ더니</sent>
+<sent type="main" n="20">ᄯᅩ 죠곰 낫ᄉᆞᆸ</sent>
+<sent type="main" n="21">온양 편지 와기 보내오며</sent>
+<sent type="main" n="22">대되 일양이오신가 보오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="23">개셔ᄂᆞᆫ 편지ᄒᆞᄂᆞᆫ 거ᄉᆞᆯ 못 보오니 엇진 일이ᄋᆞᆸ</sent>
+<sent type="main" n="24">춍춍 이만 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="25">칠월 칠일 샹장</sent>
+</letter>
+
+<img n="007">https://kohico.kr/_media/image/이미지_파일_폴더명/007.jpg</img>
+<letter n="007" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">녕녕 내아 입납 장동 본가 샹장 근봉</sent>
+<sent type="main" n="01">그ᄉᆞ이 혹 인편 이시되</sent>
+<sent type="main" n="02">편지 오ᄅᆡ 못 부치오니</sent>
+<sent type="main" n="03">섭섭ᄒᆞ올 ᄲᅮᆫ이오며</sent>
+<sent type="main" n="04">노염이 극심ᄒᆞ오니</sent>
+<sent type="main" n="05">뫼오셔 년ᄒᆞ야 일양 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="06">녕듕 대쇼다 ᄒᆞᆫ가지ᄋᆞᆸ고</sent>
+<sent type="main" n="07">개셔도 ᄆᆡ양 여름의 본병 긔운이 나시더니 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="09">올흔 그리 지내지 아이시ᄋᆞᆸ</sent>
+<sent type="main" n="09">외오셔 념이오며</sent>
+<sent type="main" n="10">나ᄂᆞᆫ 오날 졔ᄉᆞ 격야ᄒᆞ오시니</sent>
+<sent type="main" n="11">새로히 망극지통 엇지 다 ᄒᆞ올잇가</sent>
+<sent type="main" n="12">졔ᄉᆞᄂᆞᆫ 겨요 챠려 지내오나</sent>
+<sent type="main" n="13">ᄉᆞᄉᆞ 민망ᄒᆞ온 일이 만ᄉᆞ오니</sent>
+<sent type="main" n="14">이리 민연ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="15">나ᄂᆞᆫ 졔ᄉᆞ 후 ᄯᅥ나쟈 ᄒᆞ야더니</sent>
+<sent type="main" n="16">마지못ᄒᆞᆫ 연고 이셔 못 가오니</sent>
+<sent type="main" n="17">아모주록 졔ᄉᆞ 미쳐나 가ᄋᆞᆸ고 시브ᄃᆡ</sent>
+<sent type="main" n="18">이리 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="19">여러 누의님ᄂᆡ도 일양들 지내ᄋᆞᆸ</sent>
+<sent type="main" n="20">춍춍 아모 ᄃᆡ도 편지 못ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="21">칠월 회일 뎡희</sent>
+</letter>
+
+<img n="008">https://kohico.kr/_media/image/이미지_파일_폴더명/008.jpg</img>
+<letter n="008" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">거번 인편의 글월 보ᄋᆞᆸ고 든든ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 날포 되오니</sent>
+<sent type="main" n="03">뫼와 편안들 ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="04">념이오며 친후 ᄯᅩ 치통으로 미녕ᄒᆞ오시다 ᄒᆞ오니</sent>
+<sent type="main" n="05">그동안은 ᄭᅫ히 낫ᄌᆞ오시고</sent>
+<sent type="main" n="06">슌역은 어ᄂᆡ ᄯᆡ 나시ᄂᆞᆫ고</sent>
+<sent type="main" n="07">념녀 측냥업ᄉᆞ오며</sent>
+<sent type="main" n="08">나ᄂᆞᆫ 졔ᄉᆞ 지격ᄒᆞ오시니</sent>
+<sent type="main" n="09">새로히 감모 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="10">졔ᄉᆞ ᄯᅢ가 되올쇼록</sent>
+<sent type="main" n="11">쥬부가 업시 지내오니 민망민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="12">게셔ᄂᆞᆫ 편이 이셔 이런 ᄉᆡᆼ각도 아니ᄒᆞ오시고</sent>
+<sent type="main" n="13">겨오신 일 도로혀 웃ᄉᆞᆸ</sent>
+<sent type="main" n="14">삭예돈은 ᄭᅮ어 쓰오시고</sent>
+<sent type="main" n="15">어ᄂᆡ ᄯᆡ의 갑흐시랴 ᄒᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="16">갑흐시거든 날별이을 ᄒᆞ야 갑개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">주머이 가음은 이 편의 미쳐 못 보내오니</sent>
+<sent type="main" n="18">이후 인편의 즉시 보내올이니다</sent>
+<sent type="main" n="19">나ᄂᆞᆫ 길은 가랴다 못 가ᄋᆞᆸ고 이리 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="20">아직도 긔한이 업시 죠흔 귀경도 못ᄒᆞ고</sent>
+<sent type="main" n="21">더옥 이리 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="22">겨요 이리 그리오며</sent>
+<sent type="main" n="23">셔모의개 각셔 못 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="24">팔월 초오일 뎡희</sent>
+</letter>
+
+<img n="009">https://kohico.kr/_media/image/이미지_파일_폴더명/009.jpg</img>
+<letter n="009" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">내아 입납 장동 본가 답샹장 근봉</sent>
+<sent type="main" n="01">방ᄌᆞ 도라오ᄋᆞᆸᄂᆞᆫ ᄃᆡ 뎍ᄉᆞ오시니 보ᄋᆞᆸ고 든든ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 년ᄒᆞ야 뫼오셔 일양ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="03">슌역이 드러오와 겨오실 거시오니 안녕이 환ᄎᆞᄒᆞ오신가</sent>
+<sent type="main" n="04">념녀 브리ᄋᆞᆸ지 못ᄒᆞ오며</sent>
+<sent type="main" n="05">녕듕 대쇼 다 일향 무ᄉᆞ들ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="06">념일일 졔ᄉᆞ 지나오시니</sent>
+<sent type="main" n="07">년년이 외오셔 망극지통 더옥 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="08">게셔ᄂᆞᆫ 우연이 나려가셔 참ᄉᆞ을 ᄒᆞ오시니 날이여셔 낫ᄉᆞᆸ</sent>
+<sent type="main" n="09">나ᄂᆞᆫ 대되 큰 연고은 업ᄉᆞᆸ고</sent>
+<sent type="main" n="10">시ᄉᆞᄂᆞᆫ 박림ᄒᆞ오시고</sent>
+<sent type="main" n="11">ᄉᆞᄉᆞ 민년ᄒᆞ온 일 만ᄉᆞᆸ</sent>
+<sent type="main" n="12">게셔 길흔 ᄉᆞ셰가 그러ᄒᆞ올 밧 엇지 몬져 오개ᄉᆞᆸ</sent>
+<sent type="main" n="13">내가 나려가쟈 ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" n="14">이리 쳔연ᄒᆞ야 말이 아니 되ᄋᆞᆸ</sent>
+<sent type="main" n="15">옷은 ᄌᆞ시 바다 입개ᄉᆞ오며</sent>
+<sent type="main" n="16">셔올셔 옷 올 줄 모로고</sent>
+<sent type="main" n="17">듕치막 ᄒᆞ나을 장만ᄒᆞ야더니</sent>
+<sent type="main" n="18">둘이 되오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="19">둘재ᄃᆡᆨ 요젼 일은 즉시 분별ᄒᆞ야 주올이니다</sent>
+<sent type="main" n="20">삼승 주머가음은 삼승이 무명 놀기의 극귀ᄒᆞ야</sent>
+<sent type="main" n="21">거위 졀죵이나 다르지 아니ᄒᆞ고 잇ᄂᆞᆫ 거시 고약ᄒᆞ야</sent>
+<sent type="main" n="22">주머 ᄒᆞ지 못ᄒᆞ올 듯ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" n="23">그ᄉᆞ이 못 어더 보내와ᄉᆞᆸ</sent>
+<sent type="main" n="24">그러나마 급급 ᄒᆞ오랴면</sent>
+<sent type="main" n="25">금명 ᄯᅩ 인편 잇ᄉᆞ오니</sent>
+<sent type="main" n="26">샤 보내 올이니다</sent>
+<sent type="main" n="27">셰목 두 필을 어더ᄉᆞ오니</sent>
+<sent type="main" n="28">게셔가 오시면 가을의 겹것 가튼 거시나 ᄒᆞ야 입으면 죠흘 거슬</sent>
+<sent type="main" n="29">아직 두어시니 내년이들 못ᄒᆞ야 입ᄉᆞᆸ</sent>
+<sent type="main" n="30">춍춍 이만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="31">다ᄅᆞᆫ ᄃᆡ 챠마 쓰기 어려워 못 ᄒᆞ오니</sent>
+<sent type="main" n="32">이 일 뎐ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="33">황ᄌᆔ 명지ᄂᆞᆫ 온다 ᄒᆞᄋᆞᆸ고도</sent>
+<sent type="main" n="34">아니 오니 이리 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="35">팔월 회일 샹장</sent>
+</letter>
+
+<img n="010">https://kohico.kr/_media/image/이미지_파일_폴더명/010.jpg</img>
+<letter n="010" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="main" n="01">거번 인편의 뎍ᄉᆞ오시니 든든ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 일양 평안ᄒᆞ오시ᄋᆞᆸ고</sent>
+<sent type="main" n="03">슌녁 ᄒᆡᆼᄎᆞᄂᆞᆫ 안녕이 환ᄎᆞᄒᆞ야 겨오시ᄋᆞᆸ</sent>
+<sent type="main" n="04">복념 ᄀᆞ이 업ᄉᆞ오며</sent>
+<sent type="main" n="05">나ᄂᆞᆫ 대되 일양이오나</sent>
+<sent type="main" n="06">슈란ᄒᆞ온 일 만ᄉᆞ오니 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="07">내ᄒᆡᆼ이 슈이 올 거시오니</sent>
+<sent type="main" n="08">엇지나 찰여 오시ᄋᆞᆸ</sent>
+<sent type="main" n="09">얼나 만이 어더 가지고 오시ᄋᆞᆸ</sent>
+<sent type="main" n="10">웃ᄉᆞᆸ</sent>
+<sent type="main" n="11">평동셔ᄂᆞᆫ 별ᄉᆞ 셔쟝을 ᄒᆞ야</sent>
+<sent type="main" n="12">블시의 연ᄒᆡᆼ을 ᄯᅥ나노라</sent>
+<sent type="main" n="13">누의님이 ᄋᆡ을 퍽 쓰오시나 보ᄋᆞᆸ</sent>
+<sent type="main" n="14">대되들 다른 연고ᄂᆞᆫ 업ᄉᆞ오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="15">춍춍 이만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="16">구월 념뉵일 뎡희</sent>
+</letter>
+
+<img n="011">https://kohico.kr/_media/image/이미지_파일_폴더명/011.jpg</img>
+<letter n="011" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">거번 편지ᄂᆞᆫ 보와 겨오시ᄋᆞᆸ</sent>
+<sent type="main" n="02">그ᄉᆞ이 뫼와 일양들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="03">환슌이 어ᄂᆡ 날 되어 겨오신지</sent>
+<sent type="main" n="04">외오셔 경모 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="05">나ᄂᆞᆫ 대되 일향들 잇ᄉᆞ오며</sent>
+<sent type="main" n="06">길들이 슈이 ᄯᅥ나실 거시니</sent>
+<sent type="main" n="07">어ᄂᆡ 날노 뎡ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="08">ᄌᆞ연 슈요ᄒᆞᆫ 일 만ᄉᆞ오랴 일것ᄉᆞᆸ</sent>
+<sent type="main" n="09">이문동 혼인 무명은 와ᄉᆞ오나</sent>
+<sent type="main" n="10">다 못 쓸 거라 ᄒᆞ오시니</sent>
+<sent type="main" n="11">엇지ᄒᆞ야 그러ᄒᆞ개 ᄒᆞ야 보내와ᄉᆞᆸᄂᆞᆫ지</sent>
+<sent type="main" n="12">안악의셔ᄂᆞᆫ ᄌᆞ시 보지 아니ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="13">겨요 엿ᄌᆞ와 글노 가희여 쓰개 ᄒᆞ야ᄉᆞ오나</sent>
+<sent type="main" n="14">ᄉᆞᄉᆞ의 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="15">뵈 말ᄉᆞᆷ을 ᄒᆞ야ᄯᅥ니</sent>
+<sent type="main" n="16">ᄲᅵ 고이ᄒᆞ야 못ᄒᆞ야 보낸다고</sent>
+<sent type="main" n="17">낭ᄑᆡ을 ᄒᆞ야다 ᄒᆞ오시니</sent>
+<sent type="main" n="18">두 필이 얼마 되올 것 아니오니</sent>
+<sent type="main" n="19">ᄒᆞ야 보내개 셔모와 의논ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="20">둘재 진ᄉᆞ의개도 긔별ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="21">셔모의개 ᄯᅡ로 못 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="22">ᄒᆞᆫ 가지 보ᄋᆞᆸ</sent>
+<sent type="main" n="23">극요 이만 긋치오며</sent>
+<sent type="main" n="24">이 편지 드러가오면</sent>
+<sent type="main" n="25">거위 ᄯᅥ나실 ᄯᆡ가 되올 듯ᄒᆞ오이다</sent>
+<sent type="main" n="26">무인 십월 초오일 샹장</sent>
+</letter>
+
+<img n="012">https://kohico.kr/_media/image/이미지_파일_폴더명/012.jpg</img>
+<letter n="012" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1828">
+<sent type="envelop1-1" n="01">외동 ᄀᆡᆨ듕 입납 장동 샹장</sent>
+<sent type="main" n="01">그리 가신 후 다시 쇼식 막히오니</sent>
+<sent type="main" n="02">그ᄉᆞ이 뫼와 일양 평안ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="03">ᄒᆡ포만의 뫼와 지내오시니</sent>
+<sent type="main" n="04">오쟉 든든ᄒᆞ오시랴 일컷ᄌᆞᆸ고</sent>
+<sent type="main" n="05">노친ᄂᆡ 졔졀 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="06">념녀 브리ᄋᆞᆸ지 못ᄒᆞ오며</sent>
+<sent type="main" n="07">게셔ᄂᆞᆫ 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="08">다시 미령ᄒᆞ야 지내지 아니ᄒᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="09">경경 념이 노히지 못ᄒᆞ오며</sent>
+<sent type="main" n="10">나ᄂᆞᆫ 친후 감긔 미류쳐로 ᄒᆞ오셔</sent>
+<sent type="main" n="11">대단이 미령히 지내오시오시니</sent>
+<sent type="main" n="12">초민ᄒᆞᄋᆞᆸ기 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="13">환녕도 아직 못 ᄒᆞ오시고</sent>
+<sent type="main" n="14">어제 능봉심이 이 ᄃᆞᆯ을 넘기지 못ᄒᆞ오셔</sent>
+<sent type="main" n="15">병환듕 강인ᄒᆞ오셔</sent>
+<sent type="main" n="16">ᄒᆞ로도 다녀오시ᄂᆞᆫ ᄃᆡ로ᄃᆡ</sent>
+<sent type="main" n="17">다년오오셔 더 못 ᄒᆞ오시지ᄂᆞᆫ 아니ᄒᆞ오시나</sent>
+<sent type="main" n="18">죵시 낫지 못ᄒᆞ오시니</sent>
+<sent type="main" n="19">이리 초박ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="20">나도 잇ᄯᆡ가지 낫지 못ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="21">독감을 ᄯᅩ 어더 대단이 알ᄉᆞᆸ더니</sent>
+<sent type="main" n="22">슈일이야 됴곰 낫ᄉᆞ오나</sent>
+<sent type="main" n="23">긔운 슈습이 어렵ᄉᆞ오니 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="24">샹하 여러 집은 대되 별일은 업ᄉᆞᆸ고</sent>
+<sent type="main" n="25">죵씨겨오셔 녜산 쇼분을 오ᄂᆞᆯ ᄯᅥ나오시ᄋᆞᆸ</sent>
+<sent type="main" n="26">셕보ᄂᆞᆫ 진ᄉᆞ을 ᄒᆞ오니 긔특 깃부ᄋᆞᆸ기 엇지 다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="27">누의님겨오셔도 하 됴화ᄒᆞ오시니</sent>
+<sent type="main" n="28">당신은 됴흔 일이 쳐음이라</sent>
+<sent type="main" n="29">남의 업ᄂᆞᆫ 과경이온 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="30">교동 판셔ᄃᆡᆨ의셔도 진ᄉᆞ가 나오니</sent>
+<sent type="main" n="31">노친 시하의 깃부ᄋᆞᆸ</sent>
+<sent type="main" n="32">약은 그ᄉᆞ이 다 잡ᄉᆞ와 겨오실 듯ᄒᆞ오며</sent>
+<sent type="main" n="33">그 ᄯᅥᆯ니ᄂᆞᆫ 증은 다시 관겨치 아니ᄒᆞ옵고 젹긔 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="34">근친을 가셔 노친ᄂᆡ긔 이우나 아니ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="35">광쥬셔ᄂᆞᆫ 슈시 만샥이 되ᄃᆡ</sent>
+<sent type="main" n="36">아직 쇼식이 업ᄉᆞ오시니</sent>
+<sent type="main" n="37">유샥이 되올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="38">숑안 아ᄌᆞ마님겨오셔ᄂᆞᆫ 여긔 겨오실 젹 낙샹을 대단이 ᄒᆞ오셔</sent>
+<sent type="main" n="39">요ᄉᆞ이도 신고ᄒᆞ야 지내오시니</sent>
+<sent type="main" n="40">그런 놀납고 ᄋᆡᆨ회가 어니 잇ᄉᆞ올잇가</sent>
+<sent type="main" n="41">요ᄉᆞ이ᄂᆞᆫ 겨요 긔동은 ᄒᆞ오신다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="42">누의님ᄂᆡ겨오셔ᄂᆞᆫ 아직 일양들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="43">슈시ᄂᆞᆫ 게 더넘을 공여니 맛다 말이 못 되오시니</sent>
+<sent type="main" n="44">ᄉᆞᄉᆞ의 말이 아니 되ᄋᆞᆸ</sent>
+<sent type="main" n="45">녜산 편으로 대강 이리 그리ᄋᆞᆸ</sent>
+<sent type="main" n="46">삼월 회일 元春</sent>
+</letter>
+
+<img n="013">https://kohico.kr/_media/image/이미지_파일_폴더명/013.jpg</img>
+<letter n="013" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1828">
+<sent type="envelop1-1" n="01">외동 입납 장동 샹쟝 근봉</sent>
+<sent type="main" n="01">거번 죵시 ᄒᆡᆼᄎᆞ편 뎍ᄉᆞ오시니 보ᄋᆞᆸ고</sent>
+<sent type="main" n="02">이 동안 일졀 쇼식 업ᄉᆞ오니</sent>
+<sent type="main" n="03">년ᄒᆞ와 뫼와 안녕ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="04">념이오며</sent>
+<sent type="main" n="05">여ᄂᆞᆫ 그ᄉᆞ이 친후 대단이 미령ᄒᆞ오셔 지내오시더</sent>
+<sent type="main" n="06">슈일이야 죠곰 낫ᄌᆞ오시기</sent>
+<sent type="main" n="07">남영으로 오날 환ᄎᆞᄒᆞ와 겨오시나</sent>
+<sent type="main" n="08">오히려 평복지 못ᄒᆞ오신ᄃᆡ</sent>
+<sent type="main" n="09">반일뎡이나 념녀 동동ᄒᆞ오며</sent>
+<sent type="main" n="10">남셩셔ᄂᆞᆫ 죄낭ᄃᆡᆨ이 어제 슌산ᄒᆞ오시고</sent>
+<sent type="main" n="11">아ᄃᆞᆯ을 나으시니</sent>
+<sent type="main" n="12">이런 경ᄉᆞ가 업ᄉᆞᆸ</sent>
+<sent type="main" n="13">산후도 탈이 업다 ᄒᆞ오니 깃부오며</sent>
+<sent type="main" n="14">나ᄂᆞᆫ 잇ᄯᆡ가지 낫지 못ᄒᆞ온ᄃᆡ</sent>
+<sent type="main" n="15">일뎐의 겸보덕을 ᄒᆞ야</sent>
+<sent type="main" n="16">아직 슉ᄉᆞ도 못 ᄒᆞᄋᆞᆸ고 황숑ᄒᆞ오며</sent>
+<sent type="main" n="17">아이의ᄂᆞᆫ 내초로나 오시개 ᄒᆞ쟈 ᄒᆞ야더니</sent>
+<sent type="main" n="18">아모려도 집 일이 말이 못 되어</sent>
+<sent type="main" n="19">일시가 말이 아니 되ᄋᆞᆸ고</sent>
+<sent type="main" n="20">친로가 인마을 어셔 보내야</sent>
+<sent type="main" n="21">어셔 오ᄂᆞᆫ 거시 올타 ᄒᆞ오시기</sent>
+<sent type="main" n="22">인마은 내일 ᄯᅥ나 보내개 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="23">샤ᄅᆞᆷ을 몬져 ᄒᆞ나을 보내여</sent>
+<sent type="main" n="24">미리 아오시게 ᄒᆞ오니</sent>
+<sent type="main" n="25">뎡이의 어려오셔도</sent>
+<sent type="main" n="26">아모려도 오실 길이니</sent>
+<sent type="main" n="27">즉시 ᄎᆞᆯ혀 ᄯᅥ나개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="28">ᄇᆡᄒᆡᆼ을 거긔셔 오개 ᄒᆞ쟈 ᄒᆞ엿더니</sent>
+<sent type="main" n="29">윤셔방 원량이 지친이니</sent>
+<sent type="main" n="30">ᄇᆡᄒᆡᆼ 못ᄒᆞ올 묘리 업셔</sent>
+<sent type="main" n="31">보내개 ᄒᆞ오니</sent>
+<sent type="main" n="32">거긔 샤ᄅᆞᆷ은 슈구을 덜개ᄉᆞᆸ</sent>
+<sent type="main" n="33">겨집죵도 늣졀이을 가개 ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="34">길의나 죠심ᄒᆞ야 오시개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="35">셰셰ᄒᆞᆫ 곡졀은 오시면 아니 아ᄋᆞᆸ</sent>
+<sent type="main" n="36">일시가 말이 못 되ᄋᆞᆸ</sent>
+<sent type="main" n="37">여러 ᄃᆡᆨ들은 큰 연고은 업ᄉᆞᆸ</sent>
+<sent type="main" n="38">잠 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="39">무ᄌᆞ ᄉᆞ월 십팔일 元春</sent>
+</letter>
+
+<img n="014">https://kohico.kr/_media/image/이미지_파일_폴더명/014.jpg</img>
+<letter n="014" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1818">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">어제 인편의 뎍ᄉᆞ온 것 즉시 보오신잇가</sent>
+<sent type="main" n="02">야간 뫼와 일양ᄒᆞ오신가 념이오며</sent>
+<sent type="main" n="03">여ᄂᆞᆫ ᄒᆞᆫ가지로 지내ᄋᆞᆸ고</sent>
+<sent type="main" n="04">남셩 환ᄎᆞᄒᆞ오신 후</sent>
+<sent type="main" n="05">아직 회보 못 듯ᄌᆞ오니 경경ᄒᆞ오며</sent>
+<sent type="main" n="06">인마ᄂᆞᆫ 보내오니</sent>
+<sent type="main" n="07">여러 날 지쳬 마오시고</sent>
+<sent type="main" n="08">즉시 회뎡ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="09">환약과 회환 노슈 두 냥 ᄌᆞ시 밧ᄌᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="10">ᄇᆡᄒᆡᆼ 가ᄂᆞᆫ 샤ᄅᆞᆷ이 ᄯᅥ나기 잠 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="11">ᄉᆞ월 십구일 元春</sent>
+</letter>
+
+<img n="015">https://kohico.kr/_media/image/이미지_파일_폴더명/015.jpg</img>
+<letter n="015" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1829">
+<sent type="envelop1-1" n="01">본가 즉뎐 긔ᄎᆡᆨ 샹장 元春 근봉</sent>
+<sent type="main" n="01">이리 오온 후 날포 되오니</sent>
+<sent type="main" n="02">대되 일양들 지내오시고</sent>
+<sent type="main" n="03">어린 아ᄒᆡ도 잘 잇ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="04">념녀 더옥 동〃ᄒᆞ오며</sent>
+<sent type="main" n="05">오날은 압ᄃᆡᆨ ᄉᆡᆼ진이오시니</sent>
+<sent type="main" n="06">외오셔 경츅ᄒᆞ오며</sent>
+<sent type="main" n="07">나ᄂᆞᆫ 길의ᄂᆞᆫ 자 나려와ᄉᆞ오니 다ᄒᆡᆼ이ᄋᆞᆸ고</sent>
+<sent type="main" n="08">친후ᄂᆞᆫ 여러 쳔니의 ᄲᅵ치시오시나</sent>
+<sent type="main" n="09">죠곰도 관견치 아니ᄒᆞ오시니 다ᄒᆡᆼ이오며</sent>
+<sent type="main" n="10">나도 아직은 별노 탈 업시 이시니 깃부ᄋᆞᆸ</sent>
+<sent type="main" n="11">두 분 아ᄌᆞ마님겨오셔 십뉵 일로 ᄯᅥ나랴 ᄒᆞ오시니</sent>
+<sent type="main" n="12">모히여 잇ᄉᆞᆸ다가 몬져 가오시니 챵결ᄒᆞ오며</sent>
+<sent type="main" n="13">여러 ᄃᆡᆨ의도 일양이ᄋᆞᆸ</sent>
+<sent type="main" n="14">영츈 아ᄌᆞ바님겨오셔ᄂᆞᆫ 나려가오신잇가</sent>
+<sent type="main" n="15">민경의 승즁은 ᄎᆞᆷ혹ᄒᆞ오며</sent>
+<sent type="main" n="16">셕보의 집 역질은 잘ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">고령ᄃᆡᆨ 쟈근 죡쟝이 ᄯᅩ 와셔 야단을 ᄒᆞ다 ᄒᆞ오니</sent>
+<sent type="main" n="18">그ᄉᆞ이 엇지 되어ᄉᆞᆸ</sent>
+<sent type="main" n="19">이리 동동ᄒᆞ오며</sent>
+<sent type="main" n="20">쳥직들의의 챡실이 슈직들 식이시ᄋᆞᆸ</sent>
+<sent type="main" n="21">낫의ᄂᆞᆫ 샤량을 모도 잠으고</sent>
+<sent type="main" n="22">ᄯᅥ나지들 말고 기다려 응변을 ᄒᆞ라 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="23">녕의게도 이리 이르ᄋᆞᆸ</sent>
+<sent type="main" n="24">내 가복도 포을 ᄒᆞ야 올타 ᄒᆞ오니</sent>
+<sent type="main" n="25">엇지면 됴흘지</sent>
+<sent type="main" n="26">뵈가 업ᄉᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="27">여긔셔 어들가 ᄒᆞ나</sent>
+<sent type="main" n="28">이리 답답ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="29">춍춍 이만 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="30">화긔을 됴곰 구ᄒᆞ랴 ᄒᆞ오니</sent>
+<sent type="main" n="31">슬모 됴흘 것 수봉 ᄌᆞ시 긔별ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="32">긔츅 ᄉᆞ월 십삼일 샹장</sent>
+</letter>
+
+<img n="016">https://kohico.kr/_media/image/이미지_파일_폴더명/016.jpg</img>
+<letter n="016" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1829">
+<sent type="envelop1-1" n="01">본가 즉납 긔ᄎᆡᆨ 샹장 元春</sent>
+<sent type="main" n="01">거번 편지ᄂᆞᆫ 드러가ᄉᆞᆸ더니잇가</sent>
+<sent type="main" n="02">슈일 일긔 쳥화ᄒᆞ오니</sent>
+<sent type="main" n="03">일양들 지내오시고</sent>
+<sent type="main" n="04">샹하 다 무양ᄒᆞ오잇가</sent>
+<sent type="main" n="05">오날 아ᄒᆡ 돌시 되오니</sent>
+<sent type="main" n="06">긔특 든든ᄒᆞ오나</sent>
+<sent type="main" n="07">외오셔 볼 길이 업ᄉᆞ니</sent>
+<sent type="main" n="08">섭섭 결연ᄒᆞ기 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="09">응당 돌잡기ᄂᆞᆫ 잘 ᄒᆞᄉᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="10">이리 굼굼ᄒᆞᄋᆞᆸ기 측냥업ᄉᆞ오이다</sent>
+<sent type="main" n="11">여긔ᄂᆞᆫ 뫼와 안녕ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 일양 잘 지내오니</sent>
+<sent type="main" n="13">먹기도 죠곰 낫ᄉᆞᆸ고</sent>
+<sent type="main" n="14">범졀이 셔올보다 나아 지내오니</sent>
+<sent type="main" n="15">ᄭᅫ히 현효 이실가 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="16">샤랑 슈직은 챡실이 ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">셔강 죡쟝은 다시 아니 와ᄉᆞᆸ</sent>
+<sent type="main" n="18">이리 동동ᄒᆞ오이다</sent>
+<sent type="main" n="19">아ᄌᆞ마님겨오셔ᄂᆞᆫ 어제 한겻 ᄯᅥ나 겨오시니</sent>
+<sent type="main" n="20">섭섭 챵연ᄒᆞ오며</sent>
+<sent type="main" n="21">일긔ᄂᆞᆫ 됴ᄉᆞ오니</sent>
+<sent type="main" n="22">잘 가오실 듯ᄒᆞ오이다</sent>
+<sent type="main" n="23">여러 누의님 ᄃᆡᆨ의도 일양이ᄋᆞᆸ고</sent>
+<sent type="main" n="24">민경도 잘 부지ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="25">셕보의 역질은 츌챵ᄒᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="26">안동 샹가 쇼식은 듯지 못ᄒᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="27">장ᄉᆞ나 뎡ᄒᆞ야ᄉᆞᆸᄂᆞᆫ가 ᄒᆞ오며</sent>
+<sent type="main" n="28">므ᄉᆞᆷ 쇼식 잇ᄉᆞᆸ거든</sent>
+<sent type="main" n="29">ᄌᆞ시 알게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="30">ᄇᆡ지 편 춍춍 이만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="31">ᄉᆞ월 십칠일 샹쟝</sent>
+</letter>
+
+<img n="017">https://kohico.kr/_media/image/이미지_파일_폴더명/017.jpg</img>
+<letter n="017" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1828">
+<sent type="envelop1-1" n="01">본가 즉뎐 긔영 ᄎᆡᆨ실 샹장 元春 근봉</sent>
+<sent type="main" n="01">이리 오오나 념은 일시도 그티지 못ᄒᆞ오며</sent>
+<sent type="main" n="02">그ᄉᆞ이 풍한이 고이ᄒᆞ오니</sent>
+<sent type="main" n="03">일양들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="04">ᄯᅩ 듯ᄌᆞ오니</sent>
+<sent type="main" n="05">외동 환후 마히 비경ᄒᆞ오셔</sent>
+<sent type="main" n="06">젼인이 왓ᄉᆞᆸᄂᆞᆫ가 보오니</sent>
+<sent type="main" n="07">념녀 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="08">므ᄉᆞᆷ 증후로 그러ᄒᆞ오신가</sent>
+<sent type="main" n="09">더옥 경경ᄒᆞ와 ᄒᆞ오며</sent>
+<sent type="main" n="10">외오셔 오쟉 심녀 초박ᄒᆞ오실잇가</sent>
+<sent type="main" n="11">향ᄂᆡ의 슈의가 미비ᄒᆞ여 ᄒᆞ오신다 ᄒᆞ더니</sent>
+<sent type="main" n="12">엇지 ᄒᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="13">원삼을 못ᄒᆞ엿다 ᄒᆞ신던 듯ᄒᆞ오니</sent>
+<sent type="main" n="14">거번의 드러간 유록 갑ᄉᆞ로</sent>
+<sent type="main" n="15">급급히 지어 나려 보내오시개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="16">향슈은 젼의 ᄯᅥ다 ᄒᆞ오면 죠흘 듯ᄒᆞ오며</sent>
+<sent type="main" n="17">병환듕 이러 것 ᄒᆞᄋᆞᆸᄂᆞᆫ 것ᄉᆞᆫ ᄯᅩ 죠ᄉᆞ오니 그리ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="18">나ᄂᆞᆫ 이리 와셔 친후 요ᄉᆞ이ᄂᆞᆫ 죠곰 낫ᄌᆞ오시나</sent>
+<sent type="main" n="19">팔목의 담 드오신 것 죵시 낫지 아니시니 답답ᄒᆞ오며</sent>
+<sent type="main" n="20">내일 샤당의 허ᄇᆡᄒᆞ올 날이오나</sent>
+<sent type="main" n="21">외오셔 통확ᄒᆞ오며 챵영은 나려가ᄉᆞᆸ</sent>
+<sent type="main" n="22">이리 동동 이치지 못ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="23">교관은 길의셔 이질이 더ᄒᆞ야</sent>
+<sent type="main" n="24">여긔 와셔도 죵시 낫지 못ᄒᆞ오니 답답ᄒᆞ오이다</sent>
+<sent type="main" n="25">ᄇᆡᄌᆞ 인편이 잇기 대강 뎍ᄉᆞ오며</sent>
+<sent type="main" n="26">샤랑 슈직은 쟉실이 ᄒᆞᆫ다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="27">ᄭᅪᆨ툴도 년ᄒᆞ야 잘 잇ᄉᆞᆸ</sent>
+<sent type="main" n="28">지월 초삼일 元春</sent>
+</letter>
+
+<img n="018">https://kohico.kr/_media/image/이미지_파일_폴더명/018.jpg</img>
+<letter n="018" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1828">
+<sent type="envelop1-1" n="01">샹장 본ᄃᆡᆨ 입납 元春</sent>
+<sent type="main" n="01">그ᄉᆞ이 년ᄒᆞ와 일양들 지내오시고</sent>
+<sent type="main" n="02">대되 무양ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="03">어린 것도 탈 업시 잇ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="04">념녀 브리지 못ᄒᆞ오며</sent>
+<sent type="main" n="05">여긔ᄂᆞᆫ 친후 미령ᄒᆞ오며</sent>
+<sent type="main" n="06">나ᄂᆞᆫ 삼일뎡이나 가다가</sent>
+<sent type="main" n="07">도로 와 시탕 듕 지내오니</sent>
+<sent type="main" n="08">요ᄉᆞ이ᄂᆞᆫ 졔졀이 마히 낫ᄌᆞ오시니</sent>
+<sent type="main" n="09">아이의 놀납ᄉᆞᆸ던 이와ᄂᆞᆫ 다ᄒᆡᆼᄒᆞ오며</sent>
+<sent type="main" n="10">오날은 강인ᄒᆞ와</sent>
+<sent type="main" n="11">쇼셰가지 ᄒᆞ야 보랴 ᄒᆞ오시오니 경ᄒᆡᆼᄒᆞ오이다</sent>
+<sent type="main" n="12">나ᄂᆞᆫ 일양이오며</sent>
+<sent type="main" n="13">집은 아조 잇고 잇ᄉᆞ오니</sent>
+<sent type="main" n="14">게셔만 ᄒᆞ야도 다ᄅᆞᆫ 의심ᄒᆞ실 듯ᄒᆞ오나</sent>
+<sent type="main" n="15">니집 편지가 다 거즌 말이오니</sent>
+<sent type="main" n="16">고지 듯지 마ᄋᆞᆸ</sent>
+<sent type="main" n="17">ᄎᆞᆷ말이라 ᄒᆞ고</sent>
+<sent type="main" n="18">인졔 ᄇᆡᆨ슈지연의 그런 것 걸의깃실잇가 웃ᄉᆞᆸ</sent>
+<sent type="main" n="19">안산셔ᄂᆞᆫ 가신 후 쇼식이나 듯ᄌᆞᆸ고</sent>
+<sent type="main" n="20">여러 누의님ᄂᆡ도 다 일양이 오시ᄋᆞᆸ</sent>
+<sent type="main" n="21">안산 쟝ᄉᆞᄂᆞᆫ 어ᄂᆡ 날이라 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="22">막연이 쇼식도 즉즉 모ᄅᆞ오니</sent>
+<sent type="main" n="23">비렴 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="24">나ᄂᆞᆫ 인졔 ᄉᆡᆼ진 후나 올나가개ᄉᆞᆸ</sent>
+<sent type="main" n="25">토교직 바지 가음으로 보내엿ᄉᆞᆸ더니 바다ᄉᆞᆸ</sent>
+<sent type="main" n="26">그 ᄉᆞ이 여긔셔 옷 ᄒᆞᆫ 벌을 ᄒᆞ야 입으랴 ᄒᆞ더니</sent>
+<sent type="main" n="27">옷시 와ᄉᆞᆸ기 입ᄉᆞᆸ고</sent>
+<sent type="main" n="28">여긔셔 ᄒᆞᄂᆞᆫ 옷슨 굿쳐ᄉᆞᆸ</sent>
+<sent type="main" n="29">챠동셔와 반동셔ᄂᆞᆫ 엇지들 지내오시ᄋᆞᆸ고</sent>
+<sent type="main" n="30">반동셔ᄂᆞᆫ 혼인을 지격ᄒᆞ야</sent>
+<sent type="main" n="31">엇지나 ᄒᆞᄋᆞᆸᄂᆞᆫ 념이올쇼이다</sent>
+<sent type="main" n="32">춍춍 이만 긋치ᄋᆞᆸ</sent>
+<sent type="main" n="33">지월 념뉵일 元春</sent>
+</letter>
+
+<img n="019">https://kohico.kr/_media/image/이미지_파일_폴더명/019.jpg</img>
+<letter n="019" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1828">
+<sent type="main" n="01">거번 인편의 글월 든든ᄒᆞ오며</sent>
+<sent type="main" n="02">겨을날이 고이히 덥ᄉᆞ오니</sent>
+<sent type="main" n="03">요ᄉᆞ이 년ᄒᆞ와 일양 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="04">념녀 ᄀᆞ이업ᄉᆞ오며</sent>
+<sent type="main" n="05">호동 니참판 형님 샹ᄉᆞᄂᆞᆫ ᄎᆞᆷ졀ᄎᆞᆷ졀ᄒᆞ오니</sent>
+<sent type="main" n="06">엇지 다 뎍ᄉᆞ오며</sent>
+<sent type="main" n="07">누의님 졍경 더옥 븟슬 드러 일컷ᄌᆞ올 길 업ᄉᆞᆸ</sent>
+<sent type="main" n="08">샹인도 쳥약ᄒᆞᆫ 아ᄒᆡ가 쳐음으로 기챵을 당ᄒᆞ야 오쟉ᄒᆞ랴</sent>
+<sent type="main" n="09">경경히 잇치일길 업ᄉᆞᆸ</sent>
+<sent type="main" n="10">초샹 ᄯᆡ ᄶᅵ것들은 ᄒᆞ야 보내엿다 ᄒᆞ오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="11">거셔ᄂᆞᆫ 가셔 됴샹이나 ᄒᆞ야 겨시고</sent>
+<sent type="main" n="12">드르니 안산으로들 가신다 ᄒᆞ니</sent>
+<sent type="main" n="13">나ᄂᆞᆫ 가도 못 만나개ᄉᆞ오니</sent>
+<sent type="main" n="14">더옥 심회 뎡ᄒᆞ올 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="15">샹하가ᄂᆞᆫ 다 무ᄉᆞ이들 지내ᄋᆞᆸ고</sent>
+<sent type="main" n="16">챵녕ᄃᆡᆨ은 드러와ᄉᆞᆸ</sent>
+<sent type="main" n="17">아ᄒᆡ도 잘 잇ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="18">감긔로 돗 젹이고 알ᄂᆞᆫ다 ᄒᆞ더니</sent>
+<sent type="main" n="19">즉시 낫ᄌᆞ온가 동ᄒᆞ오며</sent>
+<sent type="main" n="20">나ᄂᆞᆫ 그ᄉᆞ이 친후 감긔로 미령ᄒᆞ오시더니</sent>
+<sent type="main" n="21">요ᄉᆞ이ᄂᆞᆫ 져기 낫ᄌᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="22">일영이 무양ᄒᆞ오며</sent>
+<sent type="main" n="23">교관은 오날 ᄯᅥ나ᄋᆞᆸ고</sent>
+<sent type="main" n="24">나도 ᄉᆡᆼ진이나 지내고 올나갈가 ᄒᆞ더니</sent>
+<sent type="main" n="25">이십이일 하반 미쳐 올나가랴 ᄒᆞ오니</sent>
+<sent type="main" n="26">일시의 뫼시고 잇ᄂᆞᆫ 이 업시 븨개ᄉᆞ오니</sent>
+<sent type="main" n="27">졍이의 뎡 어려오ᄆᆡ</sent>
+<sent type="main" n="28">올나가기로 뎡ᄒᆞ야</sent>
+<sent type="main" n="29">십이일간 ᄯᅥ나 십팔일간 드러가개ᄉᆞᆸ</sent>
+<sent type="main" n="30">토쥬 교직 ᄒᆞᆫ 필 ᄭᅮᆯ 궤 보내오니</sent>
+<sent type="main" n="31">ᄌᆞ시 밧ᄌᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="32">슈이 가개ᄉᆞ오니</sent>
+<sent type="main" n="33">춍춍 이만 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="34">십일월 초구일 샹쟝</sent>
+</letter>
+
+<img n="020">https://kohico.kr/_media/image/이미지_파일_폴더명/020.jpg</img>
+<letter n="020" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1840">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">어ᄂᆡ듯 겨을 되오니</sent>
+<sent type="main" n="02">년ᄒᆞ야 편안이들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="03">경향의셔 다 일양 무고ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="04">쳔안셔 게셔 모양을 보오니</sent>
+<sent type="main" n="05">그러치 아니ᄒᆞᆯ 것 아니오나</sent>
+<sent type="main" n="06">게셔가 그리ᄒᆞ야</sent>
+<sent type="main" n="07">큰 병이 나시면 말이 되개ᄉᆞᆸ</sent>
+<sent type="main" n="08">즉금을 유유 만ᄉᆞ가 집샤ᄅᆞᆷ이 편안들 ᄒᆞ고</sent>
+<sent type="main" n="09">게셔도 더옥 몸을 도라보와</sent>
+<sent type="main" n="10">젼보다 더 보젼ᄒᆞ야야</sent>
+<sent type="main" n="11">이쳔니 대ᄒᆡ 밧긔 잇ᄂᆞᆫ ᄆᆞᄋᆞᆷ을 위로을 ᄒᆞᆯ 거시니</sent>
+<sent type="main" n="12">ᄆᆡ양 목젼의 일만 ᄉᆡᆼ각 마오시고</sent>
+<sent type="main" n="13">널이 ᄉᆡᆼ각ᄒᆞ고</sent>
+<sent type="main" n="14">큰게 ᄆᆞ음을 먹어</sent>
+<sent type="main" n="15">아모듀록 편안이 지내 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="16">집안일이 즉금은 더고 게셔ᄭᅴ 다 달여시니</sent>
+<sent type="main" n="17">응당 그런 도리은 알으시려니와</sent>
+<sent type="main" n="18">동동ᄒᆞᆫ ᄆᆞᄋᆞᆷ은 별노 간졀ᄒᆞ와</sent>
+<sent type="main" n="19">이리 말ᄉᆞᆷ을 구구히 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="20">강동의 모양도 말이 되지 아니ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="21">이 동안 도라간 후의나 엇더ᄒᆞᆫ지</sent>
+<sent type="main" n="22">심간이 어이ᄂᆞᆫ 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="23">먹음ᄉᆡ나 착실이 ᄒᆞ야</sent>
+<sent type="main" n="24">쇼셩이 되게 ᄒᆞ기 경경ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="25">나ᄂᆞᆫ 쳔니을 무ᄉᆞ이 오와</sent>
+<sent type="main" n="26">ᄯᅩ 쳔니 대ᄒᆡ을 거월 이십칠일의 하로 ᄂᆡ의 ᄉᆔ이 건너오며</sent>
+<sent type="main" n="27">무비왕녕이오나</sent>
+<sent type="main" n="28">션듕 샤ᄅᆞᆷ 다 슈질ᄒᆞ야</sent>
+<sent type="main" n="29">졍신을 일허 죵일들 굴머 지내오ᄃᆡ</sent>
+<sent type="main" n="30">나 혼쟈 슈질도 아니ᄒᆞ고</sent>
+<sent type="main" n="31">션샹의 죵일 당풍ᄒᆞ야 안져</sent>
+<sent type="main" n="32">의젼이 밥도 잘 먹고</sent>
+<sent type="main" n="33">그 젼의 년ᄒᆞ야</sent>
+<sent type="main" n="34">물마리을 먹고 오더니</sent>
+<sent type="main" n="35">션샹의셔 된인 밥을 평시와 갓치 먹ᄉᆞ오니</sent>
+<sent type="main" n="36">그도 아니 고이ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="37">대져 나 혼ᄌᆞ 관겨치 아니ᄒᆞ다 말ᄉᆞᆷᄒᆞ올 거시 아니오라</sent>
+<sent type="main" n="38">아모려도 그 ᄃᆡᄒᆡᄂᆞᆫ 샤ᄅᆞᆷ사ᄅᆞᆷ마다 건너오리라 ᄒᆞ고</sent>
+<sent type="main" n="39">권ᄒᆞ야 올 길이 업ᄉᆞᆸᄂᆞᆫᄃᆡ 오니</sent>
+<sent type="main" n="40">항혀 놈이 갓튼 아ᄒᆡ들이 아모 쳘도 모ᄅᆞ고</sent>
+<sent type="main" n="41">망샹을 내올 길이 업ᄉᆞ오니</sent>
+<sent type="main" n="42">미리 그리 아라 챠로개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="43">초일일 대졍 ᄇᆡ쇼의 오오니</sent>
+<sent type="main" n="44">집은 넉넉히 용션ᄒᆞ올 만ᄒᆞᆫ ᄃᆡ을 어더</sent>
+<sent type="main" n="45">ᄒᆞ 간 방의 마로 잇고</sent>
+<sent type="main" n="46">집이 졍ᄒᆞ야</sent>
+<sent type="main" n="47">별노 도ᄇᆡ도 할 것 업시 드러ᄉᆞ오니</sent>
+<sent type="main" n="48">오히려 과ᄒᆞ온 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="49">먹음ᄉᆡᄂᆞᆫ 아직은 가지고 온 반찬이 잇ᄉᆞ오니</sent>
+<sent type="main" n="50">엇지 견ᄃᆡ여 가올 거시오</sent>
+<sent type="main" n="51">ᄉᆡᆼ복이 쇼산이오니</sent>
+<sent type="main" n="52">글노 ᄯᅩ 견ᄃᆡ 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="53">쇠고기ᄂᆞᆫ 졀귀ᄒᆞ오나</sent>
+<sent type="main" n="54">혹 가다가 어더 먹을 도리도 잇ᄉᆞᆸᄂᆞᆫ가 보ᄋᆞᆸ</sent>
+<sent type="main" n="55">아직은 두셔을 졍치 못ᄒᆞ오니</sent>
+<sent type="main" n="56">엇더ᄒᆞᆫ 줄 모ᄅᆞ개ᄉᆞᆸ</sent>
+</letter>
+
+<img n="021">https://kohico.kr/_media/image/이미지_파일_폴더명/021.jpg</img>
+<letter n="021" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">답샹장 근봉</sent>
+<sent type="main" n="01">셰후 쳐음으로 양ᄌᆡ완 편의 글월 보ᄋᆞᆸ고</sent>
+<sent type="main" n="02">그 후 ᄯᅩ 인편의 년ᄒᆞ야 글월 보오니</sent>
+<sent type="main" n="03">인편 업슬 ᄯᆡᄂᆞᆫ 업ᄉᆞᆸ다가</sent>
+<sent type="main" n="04">이시면 ᄯᅩ 겹포 보오니</sent>
+<sent type="main" n="05">든든ᄒᆞ옴 갓가온 ᄃᆡ 갓ᄉᆞ와 일시 위로 되오며</sent>
+<sent type="main" n="06">그ᄉᆞ이 ᄯᅩ 달이 너어ᄉᆞ오니</sent>
+<sent type="main" n="07">년ᄒᆞ와 평안이들 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="08">게셔는 이 ᄉᆞ이 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="09">관겨치 아니타 ᄒᆞ오나</sent>
+<sent type="main" n="10">관계치 아니ᄒᆞ올 니가 잇ᄉᆞᆸ</sent>
+<sent type="main" n="11">아마 먼 ᄃᆡ 샤ᄅᆞᆷ이라고 쇼기ᄂᆞᆫ 듯ᄒᆞ오며</sent>
+<sent type="main" n="12">속미음은 년ᄒᆞ야 ᄌᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="13">게셔가 몸을 보호ᄒᆞ야 가ᄂᆞᆫ 거시</sent>
+<sent type="main" n="14">날 보호ᄒᆞ야 주ᄂᆞᆫ 것시오니</sent>
+<sent type="main" n="15">그리 아오시ᄋᆞᆸ</sent>
+<sent type="main" n="16">챵녕의 요통이 죵시 낫지 못ᄒᆞ다 ᄒᆞ오니</sent>
+<sent type="main" n="17">동동ᄒᆞ온 념녀 측냥 업ᄉᆞᆸ</sent>
+<sent type="main" n="18">경향 대되 일양이ᄋᆞᆸ</sent>
+<sent type="main" n="19">지난 달 회일 졔ᄉᆞ 지나오시니</sent>
+<sent type="main" n="20">쳘쳔쳘디ᄒᆞᆫ 망극지통 더옥 원통 운박ᄒᆞ야</sent>
+<sent type="main" n="21">즉지의 죽어 모로고 시브오니</sent>
+<sent type="main" n="22">고금 쳔하의 이런 샤ᄅᆞᆷ의 졍니 광경이 어ᄃᆡ 잇ᄉᆞ올잇가</sent>
+<sent type="main" n="23">영뉴나 와셔 ᄒᆞᆫ가지로 지내와ᄉᆞᆸ</sent>
+<sent type="main" n="24">나ᄂᆞᆫ 샤라 잇다 ᄒᆞ올 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="25">여긔 지내ᄂᆞᆫ 모양은</sent>
+<sent type="main" n="26">일향 별병은 업ᄉᆞ오니</sent>
+<sent type="main" n="27">완인ᄒᆞ기 엇지 다 이르오며</sent>
+<sent type="main" n="28">먹ᄂᆞᆫ 것도 그 모양이오니</sent>
+<sent type="main" n="29">그리 져리 아니 견ᄃᆡ여 가ᄋᆞᆸ</sent>
+<sent type="main" n="30">일것 ᄒᆞ야 보낸 ᄎᆞᆫ믈은</sent>
+<sent type="main" n="31">마른 것 외의ᄂᆞᆫ 다 샹ᄒᆞ야 먹을 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="32">약식 인졀미가 앗갑ᄉᆞᆸ</sent>
+<sent type="main" n="33">슈이 와도 셩히 오기 어려온ᄃᆡ</sent>
+<sent type="main" n="34">일곱 달만의도 오고</sent>
+<sent type="main" n="35">쉬워야 두어 달만의 오ᄋᆞᆸᄂᆞᆫ 거시</sent>
+<sent type="main" n="36">엇지 셩히 올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="37">셔울셔 보낸 침ᄎᆡᄂᆞᆫ 원악 염을 과히 ᄒᆞᆫ 거시라</sent>
+<sent type="main" n="38">변미ᄂᆞᆫ ᄒᆞ야시나</sent>
+<sent type="main" n="39">그려도 침ᄎᆡ의 쥬린 입이라</sent>
+<sent type="main" n="40">견ᄃᆡ여 먹어ᄉᆞᆸ</sent>
+<sent type="main" n="41">ᄉᆡ오졋ᄂᆞᆫ 변미ᄒᆞ고</sent>
+<sent type="main" n="42">조긔졋과 장복기가 변미 그리 아니ᄒᆞ오니 이샹ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="43">미어와 산포ᄂᆞᆫ 관겨지 아니ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="44">어란 갓튼 거시나</sent>
+<sent type="main" n="45">그 즈음셔 엇기 쉽거든</sent>
+<sent type="main" n="46">어더 보내ᄋᆞᆸ</sent>
+<sent type="main" n="47">산ᄎᆡᄂᆞᆫ 더러 잇나 보ᄃᆡ</sent>
+<sent type="main" n="48">여긔 샤ᄅᆞᆷ은 슌젼 먹지 아니ᄒᆞ오니</sent>
+<sent type="main" n="49">고이ᄒᆞᆫ 풍속이ᄋᆞᆸ</sent>
+<sent type="main" n="50">고ᄉᆞ리 쇼로쟝이와 두릅은 잇기 혹 어더 먹ᄉᆞᆸ</sent>
+<sent type="main" n="51">도모지 져ᄌᆡ와 쟝이 업ᄉᆞ오며</sent>
+<sent type="main" n="52">범 거시 ᄆᆡᄆᆡ가 업ᄉᆞ오니</sent>
+<sent type="main" n="53">이셔도 모로고</sent>
+<sent type="main" n="54">어더 먹기 어렵ᄉᆞᆸ</sent>
+<sent type="main" n="55">의복은 셰초션의 보내신 거ᄉᆞᆫ 다 기로 거시니</sent>
+<sent type="main" n="56">도로혀 웃ᄉᆞᆸ</sent>
+<sent type="main" n="57">도로 보내올 길도 업ᄉᆞᆸ고</sent>
+<sent type="main" n="58">다 아직 두어ᄉᆞ오며</sent>
+<sent type="main" n="59">양ᄌᆡ완 편의 온 의복은</sent>
+<sent type="main" n="60">여름ᄉᆞ리가지 와ᄉᆞ오니</sent>
+<sent type="main" n="61">아직 대여 입ᄉᆞ올가 ᄒᆞ오며</sent>
+<sent type="main" n="62">즉금 입ᄂᆞᆫ 져고리가 마치 ᄒᆞ나을 가지고 입ᄉᆞ오니</sent>
+<sent type="main" n="63">과히 더럽고 더러 ᄒᆡ여져 입기 어려오나</sent>
+<sent type="main" n="64">다른 야로 것 밧고아 입기 어렵고</sent>
+<sent type="main" n="65">죠곰 어려오나 아니 견ᄃᆡᄋᆞᆸ</sent>
+<sent type="main" n="66">가를 미쳐나 ᄒᆞ나 ᄒᆞ야 보내게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="67">그도 미리 부쳐야 ᄯᆡ의 미쳐 입지</sent>
+<sent type="main" n="68">그러치 못ᄒᆞ면 심동 될 념녀가 잇ᄉᆞᆸ</sent>
+<sent type="main" n="69">ᄭᅧ입ᄂᆞᆫ 긴팔 등거리도 ᄒᆞ나 ᄒᆞ야 보내게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="70">밀이</sent>
+</letter>
+
+<img n="022">https://kohico.kr/_media/image/이미지_파일_폴더명/022.jpg</img>
+<letter n="022" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">샹장 녜산</sent>
+<sent type="main" n="01">양ᄌᆡ완 편의 편지ᄂᆞᆫ 이 편과 거위 가치 드러가올 듯ᄒᆞ오며</sent>
+<sent type="main" n="02">갑쇠 오ᄂᆞᆫ ᄃᆡ 글월 보오니</sent>
+<sent type="main" n="03">이 달 초ᄉᆡᆼ 난 안신이오니</sent>
+<sent type="main" n="04">여긔 온 후 이런헌 근신은 쳐음으로 보ᄋᆞᆸ고</sent>
+<sent type="main" n="05">그 젼의 여러 달만의 두 곳의셔 기ᄃᆞ리ᄋᆞᆸ던 것과 현슈이 다르오니</sent>
+<sent type="main" n="06">신긔 이샹ᄒᆞ온 듯ᄒᆞ오이다</sent>
+<sent type="main" n="07">편후 ᄯᅩ 근 이십 일이나 되오니</sent>
+<sent type="main" n="08">대되 일양들 지내오시ᄋᆞᆸ고</sent>
+<sent type="main" n="09">거셔도 년ᄒᆞ야 관겨치 아니ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="10">나앗도다 ᄒᆞ여 겨오시나</sent>
+<sent type="main" n="11">나으실 이가 잇ᄉᆞᆸ</sent>
+<sent type="main" n="12">진졍 나으시면 원외의셔 ᄆᆞᄋᆞᆷ이 위로 되오량마ᄂᆞᆫ</sent>
+<sent type="main" n="13">그러ᄒᆞᆯ 이가 업ᄉᆞ올 듯ᄒᆞ오이다</sent>
+<sent type="main" n="14">강동의 요통은 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="15">일긔의 ᄯᅡ로혀 나아가ᄋᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="16">념녀 동동ᄒᆞ오며</sent>
+<sent type="main" n="17">녕뉴ᄂᆞᆫ 그ᄉᆞ이 와셔 지내다 ᄒᆞ오니</sent>
+<sent type="main" n="18">모히여 든든ᄒᆞ오시랴</sent>
+<sent type="main" n="19">멀니셔 경결ᄒᆞ올 ᄲᅮᆫ이ᄋᆞᆸ</sent>
+<sent type="main" n="20">경향의셔 년ᄒᆞ야 일양들 ᄒᆞ오시다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="21">면면히 경경ᄒᆞ오며</sent>
+<sent type="main" n="22">나ᄂᆞᆫ 거번 긔별 ᄯᆡ와 갓ᄉᆞᆸ</sent>
+<sent type="main" n="23">별탈 업시 잇ᄉᆞ오니</sent>
+<sent type="main" n="24">념녀들 과히 마ᄋᆞᆸ</sent>
+<sent type="main" n="25">이번의 보내신 져고리와 장육 건포 슈ᄃᆡ로 ᄌᆞ시 밧ᄌᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="26">장육이 샹치도 아니ᄒᆞ고</sent>
+<sent type="main" n="27">오ᄅᆡ 두어도 관겨치 아니ᄒᆞ개ᄉᆞ오니</sent>
+<sent type="main" n="28">후의도 그쳐로 아조 말뇌여 보내오면</sent>
+<sent type="main" n="29">관겨치 아니ᄒᆞ올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="30">갑쇠ᄂᆞᆫ 와ᄉᆞ오니</sent>
+<sent type="main" n="31">무쇠 분역ᄒᆞᄋᆞᆸ기ᄂᆞᆫ 다ᄅᆞᆫ 하인보다 낫ᄌᆞ올 듯ᄒᆞ오니 대ᄒᆡᆼ이오나</sent>
+<sent type="main" n="32">엇지 그리 갓개 ᄒᆞ야 지내개ᄉᆞᆸ</sent>
+<sent type="main" n="33">나ᄂᆞᆫ 되어 가ᄂᆞᆫ ᄃᆡ로 지내쟈 졍ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="34">엇지 못 지내개ᄉᆞᆸ</sent>
+<sent type="main" n="35">한의ᄂᆞᆫ 아직 올려 보내오니</sent>
+<sent type="main" n="36">여럿 두고 쟝ᄃᆡ도 ᄒᆞᆯ ᄲᅮᆫ 아니라</sent>
+<sent type="main" n="37">머기고 입피기들 아니 어렵ᄉᆞᆸ</sent>
+<sent type="main" n="38">며ᄂᆞ리ᄂᆞᆫ 무ᄉᆞ이 부지ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="39">방은 ᄒᆞ야 드려ᄉᆞᆸ</sent>
+<sent type="main" n="40">거번 편지의 대강 ᄒᆞ야ᄉᆞᆸ기</sent>
+<sent type="main" n="41">대강 이만 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="42">신츅 윤월 이십일 샹쟝</sent>
+</letter>
+
+<img n="023">https://kohico.kr/_media/image/이미지_파일_폴더명/023.jpg</img>
+<letter n="023" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">답 샹장 근봉</sent>
+<sent type="main" n="01">양ᄌᆡ완 박한의 편의 편지ᄂᆞᆫ 응당 그ᄉᆞ이 보와 겨오실 듯ᄒᆞ오나</sent>
+<sent type="main" n="02">ᄆᆡ양 인편 왕ᄂᆡ가 지쇽을 졍치 못ᄒᆞ오니</sent>
+<sent type="main" n="03">거긔셔도 오쟉 기ᄃᆞ려ᄉᆞᆸ</sent>
+<sent type="main" n="04">거월 슌간 셔울셔 편지 부치 거시</sent>
+<sent type="main" n="05">이 달 초팔의야 보오니</sent>
+<sent type="main" n="06">삼십 일 동안이오나</sent>
+<sent type="main" n="07">오히려 근신이라</sent>
+<sent type="main" n="08">거긔 편지들은 못 보나</sent>
+<sent type="main" n="09">대강 일양들 ᄒᆞᆫ 쇼식은 듯ᄌᆞᆸ고 위로되오며</sent>
+<sent type="main" n="10">요ᄉᆞ이 졈졈 여름이 되여 가오니</sent>
+<sent type="main" n="11">대되들 평안이 지내시ᄋᆞᆸ고</sent>
+<sent type="main" n="12">강동의 요통 엇더ᄒᆞ온고</sent>
+<sent type="main" n="13">죠곰 낫ᄉᆞ온가</sent>
+<sent type="main" n="14">이리 외오셔 동동ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="15">경향의셔도 그동안 다 무양이들 지내ᄋᆞᆸ</sent>
+<sent type="main" n="16">죵죵 념녀오며</sent>
+<sent type="main" n="17">거셔ᄂᆞᆫ 요ᄉᆞ이도 속미음은 ᄌᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="18">나ᄂᆞᆫ 아직 젼과 가치 지내오나</sent>
+<sent type="main" n="19">슈일 담쳬로 거복ᄒᆞ더니</sent>
+<sent type="main" n="20">쇼도도 ᄒᆞ고</sent>
+<sent type="main" n="21">죠곰 낫ᄉᆞᆸ</sent>
+<sent type="main" n="22">뎡월의 부친 강경이 ᄇᆡ가 이 달 초팔의야 드러와셔</sent>
+<sent type="main" n="23">보낸신 찬믈은 ᄌᆞ시 밧ᄌᆞ와ᄉᆞ오나</sent>
+<sent type="main" n="24">ᄌᆞ연이 변미야 엇지 아니ᄒᆞ야개ᄉᆞᆸ</sent>
+<sent type="main" n="25">그러ᄒᆞ되 못 먹지 아니ᄒᆞ개 되오니 ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="26">인졀미ᄂᆞᆫ 모도 석어 바려ᄉᆞᆸ</sent>
+<sent type="main" n="27">그는 ᄒᆞᆯ 길이 업ᄂᆞᆫ 거시니</sent>
+<sent type="main" n="28">후의ᄂᆞᆫ 부질업ᄂᆞᆫ 것</sent>
+<sent type="main" n="29">슈고 드려 포진쳔믈을 어이ᄒᆞ올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="30">쟝으로 만근 거슨 그리 과겨치 아니ᄒᆞ나</sent>
+<sent type="main" n="31">외 쟝과ᄂᆞᆫ 과겨치 아니ᄒᆞ고</sent>
+<sent type="main" n="32">무우 쟝과ᄂᆞᆫ ᄯᅩ 변미ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="33">졋무우ᄂᆞᆫ 죠곰 싀여시나 먹개ᄉᆞᆸ</sent>
+<sent type="main" n="34">겨을의 버슨 옷슬 올녀 보내오디</sent>
+<sent type="main" n="35">진쟉 ᄯᅩ 고쳐 보내셔야 되개ᄉᆞᆸ</sent>
+<sent type="main" n="36">여긔ᄂᆞᆫ 겨을 거슬 여름의 유의ᄒᆞ여야 밋개ᄉᆞᆸ</sent>
+<sent type="main" n="37">바지ᄂᆞᆫ 무명것 고쳐 보내고</sent>
+<sent type="main" n="38">명지 바지ᄂᆞᆫ 보내지 마ᄋᆞᆸ</sent>
+<sent type="main" n="39">여긔 토쥬 바지 ᄒᆞ나 잇ᄂᆞᆫ 것ᄉᆞᆫ</sent>
+<sent type="main" n="40">죠곰 둑겁기 입지 아니ᄒᆞ고 아직 두어ᄉᆞᆸ</sent>
+<sent type="main" n="41">두루막이나 둘 다 고쳐 보내ᄋᆞᆸ</sent>
+<sent type="main" n="42">무명 두루막이가 ᄒᆡ롭지 아니ᄒᆞ오니 샹량ᄒᆞ야 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="43">샤ᄆᆡ 잇ᄂᆞᆫ 두루막이ᄂᆞᆫ 나려온 거시 그ᄃᆡ로 다 이시니</sent>
+<sent type="main" n="44">다시 ᄒᆞ여 보내지 마ᄋᆞᆸ</sent>
+<sent type="main" n="45">여긔셔 죵죵 입ᄂᆞᆫ 거시 아니오니 여럿 부질업ᄉᆞᆸ</sent>
+<sent type="main" n="46">ᄎᆞ동 회갑 의복은 엇지ᄒᆞ야 보내ᄋᆞᆸ</sent>
+<sent type="main" n="47">막연이 ᄉᆡᆼ각ᄲᅮᆫ이오니</sent>
+<sent type="main" n="48">뎡니 견ᄃᆡ기 어렵ᄉᆞᆸ</sent>
+<sent type="main" n="49">회갑날 됴반이나 ᄒᆞ여 ᄌᆞᆸᄉᆞᆸ개</sent>
+<sent type="main" n="50">돈양을 ᄯᅩ 어더 보내여야 ᄒᆞᆯ 거시니</sent>
+<sent type="main" n="51">엇지 요량ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="52">다쇼간 의논들 ᄒᆞ야 ᄒᆞ게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="53">인편 춍춍 대강 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="54">신츅 ᄉᆞ월 이십일 샹장</sent>
+</letter>
+
+<img n="024">https://kohico.kr/_media/image/이미지_파일_폴더명/024.jpg</img>
+<letter n="024" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">한의 올나간 후 삼하가 다 지나되</sent>
+<sent type="main" n="02">쇼식이 인ᄒᆞ야 막히오니</sent>
+<sent type="main" n="03">답답단 말은 헐후ᄒᆞᆫ 말이ᄋᆞᆸ</sent>
+<sent type="main" n="04">하졀이 다 진ᄒᆞ고</sent>
+<sent type="main" n="05">입츄가 되오니</sent>
+<sent type="main" n="06">요ᄉᆞ이 범졀이 엇더ᄒᆞ시ᄋᆞᆸ</sent>
+<sent type="main" n="07">경향의셔들 대되 일양 평안ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="08">강동은 녀름을 엇지 낫ᄉᆞᆸ</sent>
+<sent type="main" n="09">죵죵 념녀ᄲᅮᆫ이오며</sent>
+<sent type="main" n="10">게셔ᄂᆞᆫ 본병환이나 ᄌᆞ로 나지 아니ᄒᆞ야 겨시ᄋᆞᆸ</sent>
+<sent type="main" n="11">그ᄉᆞ이 ᄎᆞ동 회갑이 지내시니</sent>
+<sent type="main" n="12">쳔 니 ᄒᆡ외의 이런 졍니 업ᄉᆞᆸ고</sent>
+<sent type="main" n="13">쇼식도 알 길이 업ᄉᆞ오니</sent>
+<sent type="main" n="14">ᄒᆞᆫ 셰샹이 아니온 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="15">의복은 엇지나 ᄒᆞ야 보내여ᄉᆞᆸ</sent>
+<sent type="main" n="16">그날 여러 누의님ᄂᆡ나 뫼이여 지내시다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">나ᄂᆞᆫ 졸연 학질을 어더 ᄯᅥ여다가</sent>
+<sent type="main" n="18">ᄯᅩ 알코 알코ᄒᆞ기 여러 번 ᄒᆞ야</sent>
+<sent type="main" n="19">석 달을 이리 신고ᄒᆞ오니</sent>
+<sent type="main" n="20">ᄌᆞ연 원긔ᄂᆞᆫ 지치고</sent>
+<sent type="main" n="21">먹지 못ᄒᆞ고</sent>
+<sent type="main" n="22">쇼셩이 죵시 되지 못ᄒᆞ오니</sent>
+<sent type="main" n="23">츄풍이나 나면 죠곰 낫고</sent>
+<sent type="main" n="24">먹기 나은 뒤ᄂᆞᆫ 쇼셩도 될 듯ᄒᆞ오니</sent>
+<sent type="main" n="25">간대로 관겨ᄒᆞ올잇가</sent>
+<sent type="main" n="26">셔올셔 나려온 쟝맛시 다 쇼곰 ᄭᅩᆺ치 푸여</sent>
+<sent type="main" n="27">쓰고 ᄶᅡ셔 갓득ᄒᆞᆫ 비위을 뎡치 못ᄒᆞ오니</sent>
+<sent type="main" n="28">일시가 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="29">경향의 쟝이 엇지 되어ᄉᆞᆸᄂᆞᆫ지</sent>
+<sent type="main" n="30">속편을 어더 나려보내여야 견ᄃᆡ개ᄉᆞᆸ</sent>
+<sent type="main" n="31">셔올셔 진쟝 샬 도리 이시면 다쇼간 샤 보내개 ᄒᆞ야 주ᄋᆞᆸ</sent>
+<sent type="main" n="32">변변치 아니ᄒᆞᆫ 진쟝은 어더 보내여 부질업ᄉᆞᆸ</sent>
+<sent type="main" n="33">거긔 윤ᄉᆡᆼ의개 진쟝이 요ᄉᆞ이도 잇ᄂᆞᆫ지 무러 보ᄋᆞᆸ</sent>
+<sent type="main" n="34">민어을 연ᄒᆞᆫ고 모롬ᄒᆞᆫ 거스로 갈의여 샤셔 보내개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="35">나려온 거슨 살이 셔여</sent>
+<sent type="main" n="36">먹을 길이 업ᄉᆞᆸ더이다</sent>
+<sent type="main" n="37">겨ᄌᆞᄂᆞᆫ 밧ᄂᆞᆫ 것 이실 거시니</sent>
+<sent type="main" n="38">넉넉히 어더 보내ᄋᆞᆸ</sent>
+<sent type="main" n="39">밧그로도 긔별ᄒᆞ야ᄉᆞᆸ</sent>
+<sent type="main" n="40">가을 후의 됴흔 거시로 ᄉᆞ오 졉이 되나 못 되나 션편의 부치고</sent>
+<sent type="main" n="41">어란도 거싀셔 먹을 만ᄒᆞᆫ 것 구ᄒᆞ야 보내ᄋᆞᆸ</sent>
+<sent type="main" n="42">겨요 두어 ᄌᆞ 이리 뎍ᄉᆞ오니</sent>
+<sent type="main" n="43">대강 보오시고 긔별 외라도 ᄉᆡᆼ각ᄒᆞ야 ᄒᆞ개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="44">신츅 뉵월 념이일 샹쟝</sent>
+</letter>
+
+<img n="025">https://kohico.kr/_media/image/이미지_파일_폴더명/025.jpg</img>
+<letter n="025" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">삼하을 인ᄒᆞ야 쇼식 막히오니</sent>
+<sent type="main" n="02">나죵은 이져 바리고 ᄉᆡᆼ각도 아니ᄒᆞᄋᆞᆸ던 ᄎᆞ의</sent>
+<sent type="main" n="03">강경이 션편의 오월 망간 부치신 글월 보ᄋᆞᆸ고</sent>
+<sent type="main" n="04">든든 개위ᄒᆞᄋᆞᆸ기 더옥 다르오나</sent>
+<sent type="main" n="05">챵녕도 학딜로 알코</sent>
+<sent type="main" n="06">이쳔ᄃᆡᆨ의셔도 대단히 편치 못ᄒᆞ오시다 ᄒᆞ오니</sent>
+<sent type="main" n="07">놀나온 념녀 측냥업ᄉᆞᆸ</sent>
+<sent type="main" n="08">그ᄉᆞ이 학질도 이각이 되고</sent>
+<sent type="main" n="09">형님 병환도 낫ᄌᆞ오신가</sent>
+<sent type="main" n="10">이리 동동ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="11">게셔ᄂᆞᆫ 과하을 엇지나 ᄒᆞ야 지내오신고</sent>
+<sent type="main" n="12">념녀 가지가지 경경ᄒᆞ오이다</sent>
+<sent type="main" n="13">나도 ᄯᅩ 학질을 어더</sent>
+<sent type="main" n="14">석 달을 가지고 흘기더니</sent>
+<sent type="main" n="15">요ᄉᆞ이ᄂᆞᆫ 죠곰 낫ᄌᆞ오니</sent>
+<sent type="main" n="16">원긔도 ᄌᆞ연 ᄑᆡᄒᆞ오나</sent>
+<sent type="main" n="17">챠챠 낫ᄌᆞ와 가오니</sent>
+<sent type="main" n="18">깁히 념녀ᄂᆞᆫ ᄒᆞᆯ 거시 아니오니</sent>
+<sent type="main" n="19">과히 ᄋᆡ쓰지 마ᄋᆞᆸ</sent>
+<sent type="main" n="20">초ᄉᆡᆼ의 년ᄒᆞ와 ᄉᆡᆼ진날과 졔ᄉᆞ 지내오시니</sent>
+<sent type="main" n="21">외오셔 망극지통 더옥 원박ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="22">졔ᄉᆞᄂᆞᆫ 엇지나 ᄒᆞ야 지내와ᄉᆞᆸ</sent>
+<sent type="main" n="23">잇ᄯᆡ의 향듕은 더옥 졔품이 무론 어육 과픔ᄒᆞ고 다 어려올 듯ᄒᆞ오니</sent>
+<sent type="main" n="24">그런 ᄉᆡᆼ각을 ᄒᆞ올쇼록</sent>
+<sent type="main" n="25">더옥 ᄌᆈ롭기 측냥ᄒᆞ야 이를 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="26">ᄎᆞ동 회갑의ᄂᆞᆫ 엇지ᄒᆞ야 지내오시고</sent>
+<sent type="main" n="27">형뎨분이나 무히여 겨오시던가 일컷ᄌᆞ오며</sent>
+<sent type="main" n="28">쳔 니 밧긔 이런 졍니 어ᄃᆡ 잇ᄉᆞᆸ</sent>
+<sent type="main" n="29">이번의 보내오신 ᄎᆞᆫ믈은 여슈이 와ᄉᆞᆸ</sent>
+<sent type="main" n="30">민셕어의 약간 두샹 잇ᄉᆞ오나</sent>
+<sent type="main" n="31">못 먹게 되지 아니ᄒᆞ와</sent>
+<sent type="main" n="32">병구의 죠곰 개위가 되오려</sent>
+<sent type="main" n="33">어란도 셩히 와셔 ᄭᅫ히 입맛시 붓치오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="34">이번의 온 진쟝이 집의 것시ᄋᆞᆸ</sent>
+<sent type="main" n="35">죵시 쇼곰 맛시 과ᄒᆞ야</sent>
+<sent type="main" n="36">쓴맛시 나고 단맛시 업ᄉᆞ오니</sent>
+<sent type="main" n="37">그 젼 온 쟝이 면쟝으로 만근 거시 다 그러ᄒᆞ야 먹을 길이 어렵ᄉᆞ오니</sent>
+<sent type="main" n="38">셔올도 그 말 ᄒᆞ야거이와</sent>
+<sent type="main" n="39">죠곰 단맛 잇ᄂᆞᆫ 지령을 살지라도</sent>
+<sent type="main" n="40">죠곰 어더 보내개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="41">ᄇᆡᆨᄌᆞ와 호도가 여긔ᄂᆞᆫ 업ᄂᆞᆫ 거시오니</sent>
+<sent type="main" n="42">어더 보내개 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="43">죠흔 곳감이 거긔셔ᄂᆞᆫ 엇기 어렵지 아니ᄒᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="44">ᄇᆡ편의 ᄉᆞ오 졉 어더 보내야 쥬ᄋᆞᆸ</sent>
+<sent type="main" n="45">ᄒᆡ쇼의ᄂᆞᆫ ᄆᆡ양 구급이 되기 이리 긔별ᄒᆞ오며</sent>
+<sent type="main" n="46">올희도 짐ᄎᆡ와 졋무우 ᄒᆞ야 부치개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="47">짐ᄎᆡᄂᆞᆫ 그리 아니면</sent>
+<sent type="main" n="48">삼동을 어더 먹지 못ᄒᆞ오니</sent>
+<sent type="main" n="49">아조 보낼 그릇싀 담아 보내개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="50">어이 ᄯᅥ나면 ᄯᅩ 변ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="51">인편도 춍춍ᄒᆞ야 겨요 그리ᄋᆞᆸ</sent>
+<sent type="main" n="52">ᄉᆡᆼ각지 못ᄒᆞᄂᆞᆫ 것 ᄉᆡᆼ각ᄒᆞ오셔</sent>
+<sent type="main" n="53">긔별 외라도 ᄉᆡᆼ각ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="54">이번 어란이 그 즈음셔ᄂᆞᆫ 죵죵 나ᄂᆞᆫ 거시오니</sent>
+<sent type="main" n="55">년ᄒᆞ야 구ᄒᆞ야 보ᄋᆞᆸ</sent>
+<sent type="main" n="56">신튝 칠월 십이일 샹쟝</sent>
+<sent type="main" n="57">며ᄂᆞ리ᄂᆞᆫ 병이 ᄭᅫ히 낫ᄌᆞ와ᄉᆞᆸ</sent>
+</letter>
+
+<img n="026">https://kohico.kr/_media/image/이미지_파일_폴더명/026.jpg</img>
+<letter n="026" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">니응경 회편 답셔ᄂᆞᆫ 그 ᄉᆞ이 응당 보오실 듯ᄒᆞ오며</sent>
+<sent type="main" n="02">셩손 오ᄋᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="03">글월 보ᄋᆞᆸ고</sent>
+<sent type="main" n="04">일양들 ᄒᆞ오신 일 든든 깃부오며</sent>
+<sent type="main" n="05">어ᄂᆡ듯 겨을이 ᄯᅩ 되오니</sent>
+<sent type="main" n="06">그 동안 대되 ᄒᆞᆫ가지로들 지내오시ᄋᆞᆸ고</sent>
+<sent type="main" n="07">게셔ᄂᆞᆫ 요ᄉᆞ이 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="08">ᄆᆡ양 잘 잇노라 ᄒᆞ오시나</sent>
+<sent type="main" n="09">말ᄉᆞᆷ이 밋덥지 아니ᄒᆞ오니</sent>
+<sent type="main" n="10">념녀만 무궁ᄒᆞ오며</sent>
+<sent type="main" n="11">강동은 요통 죵시 낫지 못ᄒᆞ야</sent>
+<sent type="main" n="12">셩ᄒᆞᆫ 날이 뎍은가 보오니</sent>
+<sent type="main" n="13">갓득ᄒᆞ 모양이 오작ᄒᆞ야시랴</sent>
+<sent type="main" n="14">이리 동동ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="15">녕뉴ᄂᆞᆫ ᄌᆞᆷ간이라도 와셔 단여가온가 보오니</sent>
+<sent type="main" n="16">든든ᄒᆞ야 지내와 겨시랴 일컷ᄉᆞᆸ</sent>
+<sent type="main" n="17">니쳔ᄃᆡᆨ의셔 요ᄉᆞ이 더 ᄭᅫ복ᄒᆞ야 지내오시고</sent>
+<sent type="main" n="18">회갑이 머지 아니ᄒᆞ야 겨오시니</sent>
+<sent type="main" n="19">경츅ᄒᆞ온 듕 잇ᄯᆡ 아니라도</sent>
+<sent type="main" n="20">당신 신셰 미량ᄒᆞ오신ᄃᆡ</sent>
+<sent type="main" n="21">더고나 죠흔 일을 당ᄒᆞ올쇼록</sent>
+<sent type="main" n="22">심회 더옥 뎡치 못ᄒᆞ오시랴</sent>
+<sent type="main" n="23">이리 외오셔 일커ᄌᆞᆸ고</sent>
+<sent type="main" n="24">집안 어루이 혼ᄌᆞ 규연이 남아 겨오신ᄃᆡ</sent>
+<sent type="main" n="25">뎡니들을 펴올 길이 업ᄉᆞ오니 ᄉᆞᄉᆞ 더옥 한심 억ᄉᆡᆨᄒᆞ오이다</sent>
+<sent type="main" n="26">의복지졀은 엇지나 ᄒᆞ야 보내오시고</sent>
+<sent type="main" n="27">그 날 됴반이라 ᄒᆞ야 잡ᄉᆞ올 도리을</sent>
+<sent type="main" n="28">거긔셔만 말고 녀긔셔도 셔로 의논ᄒᆞ야 결연치 아니ᄒᆞ게 지내게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="29">ᄎᆞ동셔ᄂᆞᆫ 발셔 쟝ᄉᆞ가지 지내온가 보오니</sent>
+<sent type="main" n="30">쳡쳡히 엿일이 되어</sent>
+<sent type="main" n="31">쳔니 밧긔셔 통확 비원ᄒᆞᄋᆞᆸ기</sent>
+<sent type="main" n="32">엇지 형용ᄒᆞ야 이르올잇가</sent>
+<sent type="main" n="33">그 민직쟝 형님 모양 ᄎᆞᆷ아 블샹ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="34">엇지 견ᄃᆡ여 가ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" n="35">이치이지 못ᄒᆞ오며</sent>
+<sent type="main" n="36">셔올 여러 ᄃᆡᆨ은 아직 무양들 ᄒᆞ고</sent>
+<sent type="main" n="37">평동셔ᄂᆞᆫ 심녕 ᄒᆡᆼᄎᆞᄒᆞ오신가 보오나</sent>
+<sent type="main" n="38">아득히 쇼식을 아올 길 업ᄉᆞ오니 경경ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="39">며ᄂᆞ리ᄂᆞᆫ 산월이 되어실 듯ᄒᆞ오니</sent>
+<sent type="main" n="40">그ᄉᆞ이 무어슬 나아ᄉᆞᆸ</sent>
+<sent type="main" n="41">쳣 ᄒᆡ산은 아니나</sent>
+<sent type="main" n="42">무ᄉᆞ이 슌산ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="43">탈이나 업ᄉᆞᆸᄂᆞᆫ가 념이오며</sent>
+<sent type="main" n="44">경쇠ᄃᆡᆨ도 ᄐᆡ듕이라 ᄒᆞ오니</sent>
+<sent type="main" n="45">니집 손ᄌᆞ란 말 우ᄉᆞᆸ고 신긔ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="46">온양셔ᄂᆞᆫ 둉화의 샹ᄉᆞ 놀납고 ᄎᆞᆷ혹ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="47">인긔도 그 만ᄒᆞ니 앗갑고</sent>
+<sent type="main" n="48">그 문듕의 어루이라 ᄒᆞ리 아죠 업셔</sent>
+<sent type="main" n="49">져리 쇠쳬ᄒᆞ야 가ᄋᆞᆸᄂᆞᆫ 일 블샹ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="50">나ᄂᆞᆫ 요ᄉᆞ이야 죠곰 낫개 지내ᄋᆞᆸ고</sent>
+<sent type="main" n="51">음식 먹기도 져기 입맛시 부쳐 여샹이 먹고</sent>
+<sent type="main" n="52">ᄎᆞᆫ도범졀도 여름보단 낫ᄉᆞᆸ고</sent>
+<sent type="main" n="53">혹 가다가 고기 맛도 보오니</sent>
+<sent type="main" n="54">그만ᄒᆞ면 ᄯᅩ 아니 지내야 가올 듯ᄒᆞ오며</sent>
+<sent type="main" n="55">이번의 보내오신 반찬은 다 무ᄉᆞ이 와</sent>
+<sent type="main" n="56">개위을 ᄭᅫ히 ᄒᆞ오니 다ᄒᆡᆼ이오나</sent>
+<sent type="main" n="57">오히려 분슈의 과분ᄒᆞ온 듯ᄒᆞ와</sent>
+<sent type="main" n="58">ᄆᆞ음이 도로혀 긍구ᄒᆞ오며</sent>
+<sent type="main" n="59">쟝맛도 이번은 죠흐니 병집이 별노 업ᄉᆞᆸ고</sent>
+<sent type="main" n="60">쇼쇼 병집 잇다 ᄒᆞ고도</sent>
+<sent type="main" n="61">못 먹개 잣지 아니ᄒᆞ면 먹을 일이지</sent>
+<sent type="main" n="62">엇지 구비ᄒᆞ개 ᄒᆞ야 먹ᄉᆞᆸ</sent>
+<sent type="main" n="63">민어가 죵시 말나 먹기 어렵ᄉᆞ오니</sent>
+<sent type="main" n="64">여긔ᄂᆞᆫ 업ᄉᆞ올 ᄲᅮᆫ 아니라</sent>
+<sent type="main" n="65">ᄎᆞᆫ도의ᄂᆞᆫ 관긴ᄒᆞ온ᄃᆡ</sent>
+<sent type="main" n="66">죵시 삭지 아니ᄒᆞ야 견경ᄒᆞ오니</sent>
+<sent type="main" n="67">병든 니의 십을 길 어려워 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="68">의복도 다 ᄌᆞ시 밧ᄌᆞ와 입개ᄉᆞᆸ</sent>
+<sent type="main" n="69">명지 바지 죵시 ᄆᆞ음의 컬니더니</sent>
+<sent type="main" n="70">무명것 입ᄉᆞ오니 편ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="71">죠초 ᄯᅩ 뎍ᄉᆞᆸ기 이 죠희ᄂᆞᆫ 그만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="72">신츅 십월 초일일 샹쟝</sent>
+</letter>
+
+<img n="027">https://kohico.kr/_media/image/이미지_파일_폴더명/027.jpg</img>
+<letter n="027" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="main" n="01">신년의 대되 일양 평션히 지내오시ᄋᆞᆸ</sent>
+<sent type="main" n="02">지월간 대단이 편치 아니ᄒᆞ야 지내와 겨오신가 보오니</sent>
+<sent type="main" n="03">즉금은 지나온 일이오나</sent>
+<sent type="main" n="04">경념 측냥업ᄉᆞᆸ고</sent>
+<sent type="main" n="05">그 후 ᄭᅫ히 쇼건ᄒᆞ야</sent>
+<sent type="main" n="06">범졀이 평안ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="07">동동ᄒᆞᆫ 념녀 엇지 다 형용ᄒᆞ올잇가</sent>
+<sent type="main" n="08">아ᄃᆞᆯ을 완졍ᄒᆞ와</sent>
+<sent type="main" n="09">죵됴 의탁이 되ᄋᆞᆸ고</sent>
+<sent type="main" n="10">우리가 근 뉵십의 부모 말을 드르니</sent>
+<sent type="main" n="11">문호의 이런 경ᄉᆞ 어ᄃᆡ 잇ᄉᆞᆸ</sent>
+<sent type="main" n="12">아직 보지 못ᄒᆞ야ᄉᆞ오나</sent>
+<sent type="main" n="13">보나 답지 아니ᄒᆞ게 듯ᄌᆞᆸ고</sent>
+<sent type="main" n="14">이리 궁박히 된 ᄯᆡ</sent>
+<sent type="main" n="15">이런 대ᄉᆞ가 슌셩ᄒᆞᄋᆞᆸᄂᆞᆫ 일</sent>
+<sent type="main" n="16">무비 됴션이 음즐ᄒᆞ오시고</sent>
+<sent type="main" n="17">쳔심이 회화ᄒᆞ오시ᄂᆞᆫ 일 가ᄌᆞ와</sent>
+<sent type="main" n="18">더옥 일변 경츅ᄒᆞ고</sent>
+<sent type="main" n="19">일변 긍구ᄒᆞ와</sent>
+<sent type="main" n="20">ᄒᆞᆫ가지로 안ᄌᆞ 보지 못ᄒᆞᄂᆞᆫ 일 섭섭ᄒᆞ오나</sent>
+<sent type="main" n="21">이런 ᄉᆞ졍은 오히려 둘재올쇼이다</sent>
+<sent type="main" n="22">며ᄂᆞ리ᄂᆞᆫ 아직 다려오지 못ᄒᆞ온가 보오니</sent>
+<sent type="main" n="23">ᄉᆞ셰가 그러ᄒᆞ올 듯ᄒᆞ오나</sent>
+<sent type="main" n="24">굼굼ᄒᆞ오며 도모지 문운의 달인 일이오나 뎐혀 교도ᄒᆞ기의 잇ᄉᆞ오니</sent>
+<sent type="main" n="25">ᄆᆞ음이 가지가지 동동 경경ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="26">셰젼 인편 잇ᄉᆞ오나</sent>
+<sent type="main" n="27">게셔 편지 못 보오니</sent>
+<sent type="main" n="28">섭섭 결년ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="29">그리 구긔ᄒᆞ오실 것 잇ᄉᆞᆸ</sent>
+<sent type="main" n="30">새로 아ᄒᆡ을 다리고 과셰을 ᄒᆞ오시니</sent>
+<sent type="main" n="31">집안이 츙영한 듯ᄒᆞ오시랴 요요히 일컷ᄌᆞᆸ고</sent>
+<sent type="main" n="32">게셔가 인ᄌᆞ야 만복을 누리랴시ᄂᆞᆫ가</sent>
+<sent type="main" n="33">이리 ᄯᅩ 일컷ᄉᆞᆸ</sent>
+<sent type="main" n="34">경향의셔들 대되 편길ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="35">강동은 요ᄉᆞ이 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="36">요통으로 년ᄒᆞ야 셩ᄒᆞᆫ 날이 뎍은가 보오니</sent>
+<sent type="main" n="37">실노 념녀 브리올 길 업ᄉᆞ오니다</sent>
+<sent type="main" n="38">나ᄂᆞᆫ 신구셰의 별노 가감이 업시 먹고 쟈고</sent>
+<sent type="main" n="39">무ᄉᆞ 무려ᄒᆞᆫ 샤ᄅᆞᆷ쳐로 지내오니</sent>
+<sent type="main" n="40">엇지 이닥 지완ᄒᆞ온고 ᄒᆞ오며</sent>
+<sent type="main" n="41">강경이 ᄇᆡ편의 글월은 보ᄋᆞᆸ고</sent>
+<sent type="main" n="42">보내오신 찬슈들은 슈ᄃᆡ로 ᄌᆞ시 밧다</sent>
+<sent type="main" n="43">긔별ᄒᆞ신 ᄃᆡ로 먹ᄉᆞ오니</sent>
+<sent type="main" n="44">셔올 맛시라 비위가 열니오나</sent>
+<sent type="main" n="45">이러ᄒᆞ게 ᄒᆞ야다가 쳔니 밧긔셔 구복을 위ᄒᆞ야 ᄒᆞᄋᆞᆸᄂᆞᆫ 일이</sent>
+<sent type="main" n="46">도로혀 어분의 과ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="47">침ᄎᆡ도 그리 변미가 되지 ᄒᆞ와</sent>
+<sent type="main" n="48">침ᄎᆡ을 슌젼 못 어더 먹더니</sent>
+<sent type="main" n="49">이리 먹ᄉᆞ오니</sent>
+<sent type="main" n="50">먹기ᄂᆞᆫ 먹으나 그져 과ᄒᆞᆫ 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="51">의복 온 것도 ᄌᆞ시 바다ᄉᆞᆸ</sent>
+<sent type="main" n="52">셔올셔 보낸 셰초션의 부친 찬슈도</sent>
+<sent type="main" n="53">이번은 그리 과시ᄒᆞ지 아니ᄒᆞ야</sent>
+<sent type="main" n="54">진쟉 오오니</sent>
+<sent type="main" n="55">그리 버린 것 업시 두고 먹개ᄉᆞᆸ</sent>
+<sent type="main" n="56">놈이 어린 것 경증 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="57">요ᄉᆞ이ᄂᆞᆫ 잘 잇ᄉᆞᆸ</sent>
+<sent type="main" n="58">방ᄉᆞ을 변통ᄒᆞ야야 되들 엇지ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="59">편지을 여러 장 쓰니</sent>
+<sent type="main" n="60">뎡신 다 밋지 못ᄒᆞ와</sent>
+<sent type="main" n="61">이만 대강 그치ᄋᆞᆸ</sent>
+<sent type="main" n="62">언제나 ᄉᆡᄒᆡ 쇼식 들을지 지뎡 어렵ᄉᆞᆸ</sent>
+<sent type="main" n="63">임인 원월 초십일 샹쟝</sent>
+</letter>
+
+<img n="028">https://kohico.kr/_media/image/이미지_파일_폴더명/028.jpg</img>
+<letter n="028" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">강경이 편 후 거긔 편지ᄂᆞᆫ 무론 내외ᄒᆞ고 일졀 보지 못ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" n="02">한의 오ᄋᆞᆸᄂᆞᆫᄃᆡ 글월 보ᄋᆞᆸ고</sent>
+<sent type="main" n="03">든든 반갑ᄉᆞᄋᆞᆸ기 더옥 말ᄉᆞᆷ으로 ᄒᆞ올 길 업ᄉᆞ오며</sent>
+<sent type="main" n="04">셰후 편지 부치온 것 어ᄂᆡ ᄯᆡ 보오시지</sent>
+<sent type="main" n="05">심샹ᄒᆞᆫ 졍노와 다르오니 이리 념이오며</sent>
+<sent type="main" n="06">그 대병을 지내오시고</sent>
+<sent type="main" n="07">요ᄉᆞ이야 져기 쇼셩이 되오신가 보오나</sent>
+<sent type="main" n="08">여슈가 죵시 ᄭᅫ복지 못ᄒᆞ오신가 보오니</sent>
+<sent type="main" n="09">게셔도 쇠경이라</sent>
+<sent type="main" n="10">ᄒᆞᆫ번 병 드오시면</sent>
+<sent type="main" n="11">본ᄂᆡ 젹샹젹ᄑᆡᄒᆞ오신 근녁의 오ᄌᆞᆨᄒᆞ오시랴</sent>
+<sent type="main" n="12">이리 동동 념녀 못내 노흘 길 업ᄉᆞᆸ</sent>
+<sent type="main" n="13">졈졈 츈화ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="14">인편 후 ᄯᅩ 달이나 너머ᄉᆞ오니</sent>
+<sent type="main" n="15">범졀 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="16">부ᄃᆡ 게 ᄒᆞᆫ 몸으로만 아지 마오시고</sent>
+<sent type="main" n="17">이 쳔 니 ᄒᆡ외의 인ᄂᆞᆫ ᄆᆞ음을 ᄉᆡᆼ각ᄒᆞ오셔</sent>
+<sent type="main" n="18">십분 신셥ᄒᆞ야 가오시기 ᄇᆞ라오며</sent>
+<sent type="main" n="19">강동도 그리 쟝 셩치 못ᄒᆞ오니</sent>
+<sent type="main" n="20">동동ᄒᆞᆫ 념녀 노히이지 아니ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="21">아ᄒᆡᄂᆞᆫ 두고 볼ᄉᆞ록 샤ᄅᆞᆷ되오미</sent>
+<sent type="main" n="22">가쟝 긔특ᄒᆞ온가 보오니</sent>
+<sent type="main" n="23">일문의 다ᄒᆡᆼᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="24">게셔가 만ᄂᆡ의 효양을 바드랴 그러ᄒᆞ온가</sent>
+<sent type="main" n="25">이리 츅슈ᄒᆞ오며</sent>
+<sent type="main" n="26">부ᄌᆞ간 잇ᄯᆡ가지 못 보오니</sent>
+<sent type="main" n="27">인졍의 뎡 어렵ᄉᆞ오나</sent>
+<sent type="main" n="28">오히려 둘재의 일이오며</sent>
+<sent type="main" n="29">졔가 와셔 보랴 ᄒᆞᆫ다 ᄒᆞ오니</sent>
+<sent type="main" n="30">졍니의 고히치 아니ᄒᆞ오나</sent>
+<sent type="main" n="31">여을 엇지 경경이 올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="32">즉금 우리가 ᄇᆡᆨ슈지년의 겨요 져을 어더 노코</sent>
+<sent type="main" n="33">쳔금만금가치 어로고 고이ᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="34">져을 엇지 여긔 드려보내며</sent>
+<sent type="main" n="35">엇지 드러오개 ᄒᆞᄋᆞᆸ개ᄉᆞᆸ</sent>
+<sent type="main" n="36">졔 ᄒᆞᆫ 놈이 ᄯᅩ 즁난ᄒᆞ기</sent>
+<sent type="main" n="37">우리 두 샤ᄅᆞᆷ만 가지고 ᄒᆞ올 ᄌᆞ식이올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="38">조샹의 듕ᄒᆞ온 거ᄉᆞᆯ</sent>
+<sent type="main" n="39">졔 몸이 시러 노코 잇ᄉᆞ오니</sent>
+<sent type="main" n="40">아모히 부ᄌᆞ지의가 듕ᄒᆞ와도</sent>
+<sent type="main" n="41">죠샹의 듕ᄒᆞ온 것과 비교 못 ᄒᆞᄋᆞᆸᄂᆞᆫ 거시</sent>
+<sent type="main" n="42">여부터 셩현이 질졍ᄒᆞ야</sent>
+<sent type="main" n="43">만셰의 법을 드리오신 거시오니</sent>
+<sent type="main" n="44">더고나 ᄒᆞᆫ 일만 ᄉᆡᆼ각ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="45">그리 ᄒᆞ올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="46">놈이만 ᄒᆞ야도 오지 못ᄒᆞᄋᆞᆸ게 ᄒᆞ온 거슬</sent>
+<sent type="main" n="47">엇지 져을 경이히 오게 ᄒᆞ올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="48">게셔라도 잡고 말녀</sent>
+<sent type="main" n="49">이런 도리을 개유ᄒᆞ야 이르게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="50">나ᄂᆞᆫ 봄이 졈졈 깁허 가오나</sent>
+<sent type="main" n="51">별노 그리 심히 알ᄂᆞᆫ ᄃᆡ 업시</sent>
+<sent type="main" n="52">먹고 ᄌᆞ기 ᄒᆞᆫ가지오니</sent>
+<sent type="main" n="53">완인ᄒᆞ오나 념녀 과히 마ᄋᆞᆸ</sent>
+<sent type="main" n="54">이번의도 보내오신 찬픔은 ᄌᆞ시 바다</sent>
+<sent type="main" n="55">죠히 먹고 개위가 되오니</sent>
+<sent type="main" n="56">먹을 젹마다 ᄂᆡ 분의 과ᄒᆞ온 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="57">며ᄂᆞ리을 ᄯᅩ 슈이 다려오나 보오니</sent>
+<sent type="main" n="58">외오셔 이리 념ᄲᅮᆫ이ᄋᆞᆸ</sent>
+<sent type="main" n="59">범졀이야 그러치 아니ᄒᆞ올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="60">게셔 혼쟈 심녀ᄒᆞ오시ᄂᆞᆫ 것 이리 더옥 념녀오며</sent>
+<sent type="main" n="61">다려온 후 집안 거시 졔 것시오니</sent>
+<sent type="main" n="62">ᄎᆞᄎᆞ ᄒᆞ여 주어 ᄀᆞᄂᆞᆫ 거시 ᄒᆡ롭지 아니ᄒᆞ오니</sent>
+<sent type="main" n="63">목젼 급급ᄒᆞᆫ 것시나 ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="64">가며셔 ᄒᆞ게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="65">졔일 졔ᄉᆞ ᄎᆞ리ᄂᆞᆫ 범ᄇᆡᆨ을 급히 가라치게 ᄒᆞ고</sent>
+<sent type="main" n="66">졔ᄉᆞ 듕ᄒᆞ온 거슬 알게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="67">방ᄉᆞ을 변통ᄒᆞ나 보오니</sent>
+<sent type="main" n="68">그ᄉᆞ이 엇지 ᄒᆞ야ᄉᆞᆸᄂᆞᆫ지</sent>
+<sent type="main" n="69">셩죠가 ᄭᅫ히 되어</sent>
+<sent type="main" n="70">어ᄂᆡ 긔로 다려 오ᄋᆞᆸ</sent>
+<sent type="main" n="71">죠초 뎍ᄉᆞ온 것 잇기 여긔ᄂᆞᆫ 이만 그치ᄋᆞᆸ</sent>
+<sent type="main" n="72">임인 삼월 초ᄉᆞ일 샹쟝</sent>
+</letter>
+
+<img n="029">https://kohico.kr/_media/image/이미지_파일_폴더명/029.jpg</img>
+<letter n="029" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="envelop1-1" n="01">샹장</sent>
+<sent type="main" n="01">한의 회편 답셔ᄂᆞᆫ 진즉 드러가ᄉᆞᆸ던가 ᄒᆞ오며</sent>
+<sent type="main" n="02">이월 념후 셔올셔 난 편지 보오니</sent>
+<sent type="main" n="03">나동 니집 ᄭᅮ긴 일은</sent>
+<sent type="main" n="04">그 어인 일이며 어인 말이ᄋᆞᆸ</sent>
+<sent type="main" n="05">통곡 곡밧 하 ᄎᆞᆷ졀 경통ᄒᆞ오니</sent>
+<sent type="main" n="06">어울너 말이 나지 아니ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="07">강동의 졍니을 ᄉᆡᆼ각ᄒᆞ오면</sent>
+<sent type="main" n="08">살이 어이고 ᄲᅧ가 사라지ᄂᆞᆫ 듯</sent>
+<sent type="main" n="09">엇더ᄒᆞ다 ᄒᆞ올 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="10">이런 ᄎᆞᆷ경 아니라도</sent>
+<sent type="main" n="11">이ᄅᆡ의 오면 그 쇠ᄑᆡᄒᆞᆫ 모양 오쟉지 아니ᄒᆞᆫᄃᆡ</sent>
+<sent type="main" n="12">ᄯᅩ 역니지쳑을 보고</sent>
+<sent type="main" n="13">엇지 견ᄃᆡ여 나ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" n="14">그 ᄯᆞᆯ ᄒᆞ나이 무어시 과ᄒᆞ야</sent>
+<sent type="main" n="15">져 지경을 보오니</sent>
+<sent type="main" n="16">쳔니인니가 엇지 이ᄃᆡ도록 ᄒᆞ온고</sent>
+<sent type="main" n="17">아모려도 알 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="18">죽근 아ᄒᆡᄂᆞᆫ 삼십오 년 인ᄉᆡᆼ이 ᄎᆞᆷ혹 ᄎᆞᆷ혹ᄒᆞ오니</sent>
+<sent type="main" n="19">오히려 졔 신셰의ᄂᆞᆫ 호연ᄒᆞᆯ가 ᄒᆞ오나</sent>
+<sent type="main" n="20">그려도 하 블샹ᄒᆞᆫ 인ᄉᆡᆼ이기</sent>
+<sent type="main" n="21">졔 아비 만경의 이쳑이나 아니 식일가 ᄒᆞ엿더니</sent>
+<sent type="main" n="22">이ᄯᆡ의 이 모양을 ᄒᆞ야 뵈니</sent>
+<sent type="main" n="23">됴믈이 다 그리 만들고 돕ᄂᆞᆫ 듯ᄒᆞ야</sent>
+<sent type="main" n="24">어히 업시 말이 나지 아니ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="25">그ᄉᆞ이 날이 발셔 너머시니</sent>
+<sent type="main" n="26">강동의 범졀이 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="27">과히 샹손치나 아니ᄒᆞ온가</sent>
+<sent type="main" n="28">쳔 니 밧긔셔 동동ᄒᆞᆫ 념녀 형용ᄒᆞ야 엇지 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="29">쇼식도 속속히 드을 길이 업시</sent>
+<sent type="main" n="30">더옥 ᄆᆞ음만 쓰이ᄋᆞᆸ</sent>
+<sent type="main" n="31">발셔 여름이 되엿ᄉᆞ오니</sent>
+<sent type="main" n="32">거셔ᄂᆞᆫ 요ᄉᆞ이 엇지 ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="33">신샹이 죠곰 셩ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="34">이런 일 져런 일 ᄒᆞ야</sent>
+<sent type="main" n="35">심ᄉᆞ 지졍치 못ᄒᆞ오실 듯ᄒᆞ오니</sent>
+<sent type="main" n="36">ᄯᅡ로혀 신샹이 엇지 편ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="37">념념히 노히일 길 업ᄉᆞᆸ</sent>
+<sent type="main" n="38">강동은 겻ᄒᆡ 져믄 아ᄒᆡ들 업지 아니ᄒᆞ나</sent>
+<sent type="main" n="39">뉘가 그려도 위로ᄒᆞ야</sent>
+<sent type="main" n="40">ᄆᆞ음을 누켜 가ᄋᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" n="41">ᄉᆡᆼ각ᄒᆞ올ᄉᆞ록 ᄲᅧ가 어이ᄂᆞᆫ ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="42">무ᄉᆞᆷ 약이나 머그며</sent>
+<sent type="main" n="43">식보 부치나 ᄒᆞᄋᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="44">가지가지 ᄉᆡᆼ각ᄲᅮᆫ이ᄋᆞᆸ</sent>
+<sent type="main" n="45">며ᄂᆞ리ᄂᆞᆫ 그ᄉᆞ이 다려와ᄉᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="46">집 모양 죠곰 일워 의뢰가 ᄭᅫ히 되ᄋᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="47">이리 츅슈ᄒᆞ올 ᄲᅮᆫ이오며</sent>
+<sent type="main" n="48">범ᄇᆡᆨ을 보오니 과연 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="49">도모지 인도ᄒᆞ야 가르치기의 잇ᄉᆞ오니</sent>
+<sent type="main" n="50">거셔 혼ᄌᆞ 츄슈러 가시ᄂᆞᆫ 일 오쟉 심녁이 쓰이ᄋᆞᆸ</sent>
+<sent type="main" n="51">도모지 문운이연이와 인녁을 엇지 아니 드리올가 보ᄋᆞᆸ</sent>
+<sent type="main" n="52">산샥이 갓다왓다 ᄒᆞᄋᆞᆸ더니</sent>
+<sent type="main" n="53">그ᄉᆞ이 엇지ᄒᆞ야ᄉᆞᆸᄂᆞᆫ고</sent>
+<sent type="main" n="54">념녀 브리지 못ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="55">나ᄂᆞᆫ 아직 별 탈 업시 지내여 가ᄋᆞᆸ고</sent>
+<sent type="main" n="56">아ᄅᆡ 것들도 갑쇠 알코 나온 후ᄂᆞᆫ 아직 무양들ᄒᆞ오나</sent>
+<sent type="main" n="57">뇽ᄂᆡ가 죵시 ᄭᅫ히 건졍치 아니ᄒᆞ야 이리 동동ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="58">마ᄎᆞᆷ 강경이 션편 잇ᄉᆞᆸ기</sent>
+<sent type="main" n="59">두어 ᄌᆞ 안신만 이리 부치ᄋᆞᆸ</sent>
+<sent type="main" n="60">임인 ᄉᆞ월 초구일 샹쟝</sent>
+</letter>
+
+<img n="030">https://kohico.kr/_media/image/이미지_파일_폴더명/030.jpg</img>
+<letter n="030" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="envelop1-1" n="01">샹장 근봉</sent>
+<sent type="main" n="01">경득 편과 경호 편의 년ᄒᆞ야 뎍ᄉᆞ오시니</sent>
+<sent type="main" n="02">보ᄋᆞᆸ고 든든ᄒᆞ오나</sent>
+<sent type="main" n="03">이일학으로 미령이 지내신다 ᄒᆞ오니</sent>
+<sent type="main" n="04">놀납고 념녀 측냥업ᄉᆞᆸ</sent>
+<sent type="main" n="05">그져 학질이라도 게셔 근녁의 견ᄃᆡ기 어러올ᄃᆡ</sent>
+<sent type="main" n="06">하믈면 이 증은 졸연 이각이 어렵ᄉᆞ온 거시오니</sent>
+<sent type="main" n="07">엇지 이긔여 갈가 보ᄋᆞᆸ</sent>
+<sent type="main" n="08">편지 ᄒᆞ실 젹의 엇지 졔직날 감셰가 잇다 ᄒᆞ오시니</sent>
+<sent type="main" n="09">그후 ᄯᅩ 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="10">각ᄉᆡᆨ으로 념녀 동동ᄒᆞ와 일시도 브리올 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="11">졸연이 쇼식도 듯지 못ᄒᆞ올 터이오니</sent>
+<sent type="main" n="12">ᄋᆡ가 엇지 아니 쓰이ᄋᆞᆸ</sent>
+<sent type="main" n="13">이 동안은 범졀 엇더ᄒᆞ시고</sent>
+<sent type="main" n="14">즉시 이각이 되어ᄉᆞᆸᄂᆞᆫ가</sent>
+<sent type="main" n="15">요요히 심녀만 되ᄋᆞᆸ</sent>
+<sent type="main" n="16">어ᄂᆡ듯 겨을 되오니</sent>
+<sent type="main" n="17">대되 일양들 지내ᄋᆞᆸ고</sent>
+<sent type="main" n="18">게셔 ᄭᅫ히 나으신 쇼식 일야로 기다리ᄋᆞᆸ</sent>
+<sent type="main" n="19">나ᄂᆞᆫ 별 큰 탈 업시 잇ᄉᆞ오나</sent>
+<sent type="main" n="20">홀연 피풍이 발ᄒᆞ야</sent>
+<sent type="main" n="21">편쳬의 아니 난 ᄃᆡ 업셔</sent>
+<sent type="main" n="22">쇼양이 대단ᄒᆞ야</sent>
+<sent type="main" n="23">밤의 잠을 못 쟈고</sent>
+<sent type="main" n="24">이리 신고ᄒᆞ오니</sent>
+<sent type="main" n="25">글노 무슨 념녀 잇ᄂᆞᆫ 병은 아니나</sent>
+<sent type="main" n="26">몸의만 괴롭기 못 견ᄃᆡ개ᄉᆞ오니</sent>
+<sent type="main" n="27">오십여 년의 알아 못 본 병을 다 알노라고</sent>
+<sent type="main" n="28">이리 격그란 일이오니 엇지ᄒᆞᆯ가 보ᄋᆞᆸ</sent>
+<sent type="main" n="29">아쇼의 수환들은 그만치 낫다 ᄒᆞ니 다ᄒᆡᆼ이오며</sent>
+<sent type="main" n="30">경향의 여러 곳 다 일향 무양들 ᄒᆞ다 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="31">면면히 경경ᄒᆞ오며</sent>
+<sent type="main" n="32">경득 편 보낸 의복과 찬슈ᄂᆞᆫ</sent>
+<sent type="main" n="33">일일히 바다 이십 일이 못 되어 온 거시오니</sent>
+<sent type="main" n="34">별노 샹ᄒᆞ 것 업ᄉᆞᆸ고</sent>
+<sent type="main" n="35">죠히 먹ᄉᆞᆸ</sent>
+<sent type="main" n="36">여긔ᄂᆞᆫ 즉금가지 쇼음 것슬 석 입지 못ᄒᆞ오니</sent>
+<sent type="main" n="37">아마도 이번 온 웃시 죠곰 둣거워</sent>
+<sent type="main" n="38">그ᄃᆡ로 입기 어렵ᄉᆞ올 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="39">봄 인편의ᄂᆞᆫ 바지을 석 얄게 ᄒᆞ야 보내게 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="40">여긔 잇ᄂᆞᆫ 누비바지가 다 명지것시오니</sent>
+<sent type="main" n="41">명지바지 참아 입기 어려워</sent>
+<sent type="main" n="42">겹바지을 ᄭᅧ입어ᄉᆞ오니</sent>
+<sent type="main" n="43">별노 누비것 ᄯᅩ ᄒᆞᆯ 묘리ᄂᆞᆫ 업고</sent>
+<sent type="main" n="44">얄은 쇼음 ᄒᆞᆫ 벌을 누비것쳐로 무명바지의 두어 ᄒᆞ나 ᄒᆞ야 보내오면</sent>
+<sent type="main" n="45">ᄆᆞ음 편히 입개ᄉᆞᆸ</sent>
+<sent type="main" n="46">찬슈ᄂᆞᆫ 아지 그만ᄒᆞ면 아니 먹ᄉᆞᆸ</sent>
+<sent type="main" n="47">요ᄉᆞ이ᄂᆞᆫ 날이 치운 ᄯᆡ오니</sent>
+<sent type="main" n="48">고기 맛도 여름과 다르와</sent>
+<sent type="main" n="49">엇지 어더 보오며</sent>
+<sent type="main" n="50">지령도 담은 것 맛시 먹게 되어</sent>
+<sent type="main" n="51">과동을 념녀 업개ᄉᆞᆸ</sent>
+<sent type="main" n="52">졔일 기름이 극귀ᄒᆞ오니</sent>
+<sent type="main" n="53">훗 션편의 기름을 ᄆᆡ양 어더 보내기 ᄇᆞ라ᄋᆞᆸ</sent>
+<sent type="main" n="54">아ᄒᆡᄂᆞᆫ 셔산 갓다 ᄒᆞ더니</sent>
+<sent type="main" n="55">즉시 도라와ᄉᆞᆸ</sent>
+<sent type="main" n="56">듕계ᄂᆞᆫ 괄지지여 구어도 단단ᄒᆞ오니</sent>
+<sent type="main" n="57">ᄋᆡᄃᆞᇣᄉᆞᆸ 갑쇠을 밧고와 보내고 시부ᄃᆡ</sent>
+<sent type="main" n="58">과연 보내고ᄂᆞᆫ 아쇠온 일 만ᄉᆞ와</sent>
+<sent type="main" n="59">경득을 도로 보내ᄋᆞᆸ만ᄂᆞᆫ</sent>
+<sent type="main" n="60">념녀ᄂᆞᆫ 무궁ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="61">비통 일양 심ᄒᆞ야 겨요 그리ᄋᆞᆸ</sent>
+<sent type="main" n="62">임인 십월 초삼일 샹쟝</sent>
+</letter>
+
+<img n="031">https://kohico.kr/_media/image/이미지_파일_폴더명/031.jpg</img>
+<letter n="031" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="envelop1-1" n="01">샹장 녜산 근봉</sent>
+<sent type="main" n="01">경득 회편은 어ᄂᆡ ᄯᆡ 드러갓ᄉᆞᆸ</sent>
+<sent type="main" n="02">그 후로ᄂᆞᆫ 션편이 거ᄂᆡ가 막히여</sent>
+<sent type="main" n="03">쇼식을 오ᄅᆡ 못 듯ᄌᆞ오니</sent>
+<sent type="main" n="04">어ᄂᆡ듯 동지가 지격ᄒᆞ온ᄃᆡ</sent>
+<sent type="main" n="05">미령ᄒᆞ오심 엇더ᄒᆞ오시ᄋᆞᆸ</sent>
+<sent type="main" n="06">그 증이 졸연 이각이 어렵ᄉᆞ오나</sent>
+<sent type="main" n="07">이 동안 가감 동졍이 엇더ᄒᆞ오시고</sent>
+<sent type="main" n="08">발셔 석 달이 너머ᄉᆞ오니</sent>
+<sent type="main" n="09">원긔 범졀이 오쟉 ᄑᆡᄒᆞ와 겨오시랴</sent>
+<sent type="main" n="10">이리 외오셔 동동 념녀 엇더타 ᄒᆞ올 길이 업ᄉᆞ오며</sent>
+<sent type="main" n="11">침식 범ᄇᆡᆨ은 엇더ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="12">이 동안은 무ᄉᆞᆷ 약을 ᄌᆞ시며</sent>
+<sent type="main" n="13">아조 위셕ᄒᆞ야 지내ᄋᆞᆸ</sent>
+<sent type="main" n="14">간졀ᄒᆞᆫ 심녀 가ᄉᆞ록 지경치 못ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="15">강동은 요ᄉᆞ이 엇더ᄒᆞ오며</sent>
+<sent type="main" n="16">한졀을 당ᄒᆞ야 슉증이 의구이 빈빈 발쟉ᄒᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="17">죵죵 념녀 경경ᄒᆞᄋᆞᆸ고</sent>
+<sent type="main" n="18">ᄋᆞ쇼들은 별고나 다시 업ᄉᆞᆸ</sent>
+<sent type="main" n="19">나ᄂᆞᆫ 아직 ᄒᆞᆫ 모양이오나</sent>
+<sent type="main" n="20">피풍으로 쇼양이 지금가지 낫지 못ᄒᆞ야</sent>
+<sent type="main" n="21">밤을 ᄆᆡ양 새와 나오니</sent>
+<sent type="main" n="22">갓득 변변치 아니ᄒᆞᆫ 잠을 더고나 못 자고</sent>
+<sent type="main" n="23">실노 어렵ᄉᆞ오나 식음 범ᄇᆡᆨ은 별노 못ᄒᆞ지 아니ᄒᆞ오니</sent>
+<sent type="main" n="24">아니 견ᄃᆡ여 가ᄋᆞᆸ</sent>
+<sent type="main" n="25">게셔 병환으로 쥬쇼의 동동ᄒᆞ야 쇼식지 셕셕 듯지 못ᄒᆞ오니</sent>
+<sent type="main" n="26">더고나 됴민 훈쟉ᄒᆞ야 못 견ᄃᆡ들 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="27">하쇽들은 다 일양이오니 다ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="28">식ᄉᆞ도 겨을 후ᄂᆞᆫ 육미도 어더 맛보오니</sent>
+<sent type="main" n="29">그리 져리 ᄒᆞ야</sent>
+<sent type="main" n="30">이 겨을은 ᄯᅩ 므ᄉᆞ이 넘기올 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="31">인편이 하 업ᄉᆞᆸ기</sent>
+<sent type="main" n="32">쥬셩의나 므ᄉᆞᆷ 인편 이실지</sent>
+<sent type="main" n="33">대강 두어 ᄌᆞ 안부만 이리 부치오니</sent>
+<sent type="main" n="34">ᄭᅫ히 평복이 되신 쇼식 이리 날로 기ᄃᆞᆯ이ᄋᆞᆸ</sent>
+<sent type="main" n="35">그 ᄉᆞ이 경초션 편으로 응당 므어시나</sent>
+<sent type="main" n="36">부쳐 겨실 듯ᄒᆞ오나</sent>
+<sent type="main" n="37">병환듕 심녀 되어 겨실 일 이리 념녀오며</sent>
+<sent type="main" n="38">셔올셔들은 엇지들 지내고</sent>
+<sent type="main" n="39">미동셔 동졀을 당ᄒᆞ야 오쟉ᄒᆞ오시랴</sent>
+<sent type="main" n="40">이치일 길이 업ᄉᆞᆸ</sent>
+<sent type="main" n="41">비통은 일양 고주ᄒᆞ와</sent>
+<sent type="main" n="42">겨요 이리 그리ᄋᆞᆸ</sent>
+<sent type="main" n="43">임인 지월 십ᄉᆞ일 샹장</sent>
+<sent type="main" n="44">ᄉᆡᆼ진이 지격ᄒᆞ오시니</sent>
+<sent type="main" n="45">아ᄒᆡ들ᄒᆞ고 ᄒᆞᆫ가지로 지내오실 일 요요히 셔 ᄉᆡᆼ각ᄲᅮᆫ이ᄋᆞᆸ</sent>
+</letter>
+
+<img n="032">https://kohico.kr/_media/image/이미지_파일_폴더명/032.jpg</img>
+<letter n="032" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="envelop1-1" n="01">샹장 뇽산 근봉</sent>
+<sent type="main" n="01">젼편 편지 부치옷 것이 인편의 ᄒᆞᆫ가지로 갈 듯ᄒᆞ오며</sent>
+<sent type="main" n="02">그 ᄉᆞ이 ᄉᆡ 본관 오ᄂᆞᆫ 편의 녕뉴의 편지 보오니</sent>
+<sent type="main" n="03">이 ᄉᆞ이 년ᄒᆞ야 병환을 ᄯᅥ지 못ᄒᆞ오시고</sent>
+<sent type="main" n="04">일양 진퇴ᄒᆞ시나 보오니</sent>
+<sent type="main" n="05">발셔 여러 달을 미뉴ᄒᆞ오셔</sent>
+<sent type="main" n="06">근녁 범ᄇᆡᆨ이 오쟉ᄒᆞ와 겨오시개ᄉᆞᆸ</sent>
+<sent type="main" n="07">우녹젼을 ᄌᆞ시나 보오니</sent>
+<sent type="main" n="08">그 약의나 ᄭᅫ히 동뎡이 겨시올지</sent>
+<sent type="main" n="09">원외셔 심녀 초졀ᄒᆞᄋᆞᆸ기 형용 못ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="10">나ᄂᆞᆫ 젼편 모양이오며</sent>
+<sent type="main" n="11">그져 쇼양으로 못 견ᄃᆡ개ᄉᆞᆸ</sent>
+<sent type="main" n="12">갑솨을 아니 보내올 길 업셔 이리 보내오나</sent>
+<sent type="main" n="13">그 가ᄂᆞᆫ 모양 ᄎᆞᆷ측ᄒᆞ오니</sent>
+<sent type="main" n="14">ᄀᆡᆨ듕의 ᄯᅩ 일층 심회을 뎡치 못ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="15">급히 ᄯᅥ나 보내기</sent>
+<sent type="main" n="16">다ᄅᆞᆫ ᄉᆞ연 길개 못ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="17">임인 지월 십팔일 샹장</sent>
+</letter>
+
+<img n="033">https://kohico.kr/_media/image/이미지_파일_폴더명/033.jpg</img>
+<letter n="033" sender="김정희(시아버지)" writer="김정희(시아버지)" receiver="풍천임씨(며느리)" year="1843">
+<sent type="main" n="01">곤젼 승하ᄂᆞᆫ 무ᄉᆞᆷ 말ᄉᆞᆷ들을 ᄒᆞ리</sent>
+<sent type="main" n="02">쳔니 ᄒᆡ외의 더옥 망극ᄒᆞ ᄲᅮᆫ이로다</sent>
+<sent type="main" n="03">하츄 이후로 왕ᄂᆡ가 막히여</sent>
+<sent type="main" n="04">일졀 쇼식 들을 길이 업더니</sent>
+<sent type="main" n="05">하인 오ᄂᆞᆫ ᄃᆡ 편지들 보고</sent>
+<sent type="main" n="06">대되 어린 거들ᄒᆞ고 일양 지내ᄂᆞᆫ 일 다ᄒᆡᆼ이면</sent>
+<sent type="main" n="07">쇼샹이 격월ᄒᆞ나 여녜이 지내지 못ᄒᆞ니 더옥 비결ᄒᆞ다</sent>
+<sent type="main" n="08">강동은 그ᄉᆞ이 나려와 지내ᄂᆞᆫ가</sent>
+<sent type="main" n="09">범ᄇᆡᆨ 됴치 셔올 갓지 못ᄒᆞᆯ 거시니 이리 동동ᄒᆞ다</sent>
+<sent type="main" n="10">나ᄂᆞᆫ 비통가 담쳬로 먹지 못ᄒᆞ기</sent>
+<sent type="main" n="11">죵시 ᄭᅫ치 아니ᄒᆞ니 민망ᄒᆞ다</sent>
+<sent type="main" n="12">회편의 두어 ᄌᆞ 이리 그리니</sent>
+<sent type="main" n="13">쳥파ᄃᆡᆨ의 각쟝 못ᄒᆞ니</sent>
+<sent type="main" n="14">ᄒᆞᆷ긔 보아라</sent>
+<sent type="main" n="15">겨묘 십월 초십일 구</sent>
+</letter>
+
+<img n="034">https://kohico.kr/_media/image/이미지_파일_폴더명/034.jpg</img>
+<letter n="034" sender="김정희(시아버지)" writer="김정희(시아버지)" receiver="풍천임씨(며느리)" year="1844">
+<sent type="envelop1-1" n="01">며ᄂᆞ리 봉</sent>
+<sent type="main" n="01">본ᄉᆡᆼ 존고 샹변은 통곡 밧 므ᄉᆞᆷ 말을 ᄒᆞ리</sent>
+<sent type="main" n="02">쥬년지간의 두 곳즈로 샹ᄉᆞ을 당ᄒᆞ기</sent>
+<sent type="main" n="03">남의 업ᄂᆞᆫ 졍니 듯 븡통 효졀ᄒᆞ기 오쟉ᄒᆞ랴</sent>
+<sent type="main" n="04">비렴 ᄀᆞ이업ᄉᆞ며</sent>
+<sent type="main" n="05">즉시 분곡도 못 ᄒᆞ야실 듯ᄒᆞ니</sent>
+<sent type="main" n="06">더욱 결확ᄒᆞ랴 일컷ᄂᆞᆫ다</sent>
+<sent type="main" n="07">우리개 대샹 담졔 지나씨나</sent>
+<sent type="main" n="08">네의 내외ᄂᆞᆫ ᄯᅩ 변녜을 당ᄒᆞ야</sent>
+<sent type="main" n="09">여녜히 지내지도 못ᄒᆞ고</sent>
+<sent type="main" n="10">졍경이 보ᄂᆞᆫ 듯ᄒᆞ다</sent>
+<sent type="main" n="11">그 ᄉᆞ이 슌산을 ᄒᆞ고 아들을 나하ᄯᅡ ᄒᆞ니</sent>
+<sent type="main" n="12">죵손의 경ᄉᆞ 우리 집의 쳐음으로 보니</sent>
+<sent type="main" n="13">됴죵이 권우ᄒᆞ오신 듯</sent>
+<sent type="main" n="14">네 몸의 와셔 져리 유공 유복ᄒᆞ야 죵셕의 광채가 되니</sent>
+<sent type="main" n="15">문운이 ᄎᆞᄎᆞ 열녀 가ᄂᆞᆫ 듯 원외의셔 더옥 경ᄒᆡᆼᄒᆞ고</sent>
+<sent type="main" n="16">오히려 즉시 보지 못ᄒᆞᄂᆞᆫ 것슨 궁금ᄒᆞ나 엇지ᄒᆞ리</sent>
+<sent type="main" n="17">아ᄒᆡ ᄉᆡᆼ긴 거시 비범ᄒᆞ다 ᄒᆞ오니</sent>
+<sent type="main" n="18">ᄆᆞ음의 더고나 구지 든든ᄒᆞ다</sent>
+<sent type="main" n="19">아ᄒᆡ 나기을 납원 그믐날이라 ᄒᆞ니</sent>
+<sent type="main" n="20">그 날이 쳔은 샹길일이니</sent>
+<sent type="main" n="21">그도 우연치 아니ᄒᆞ야</sent>
+<sent type="main" n="22">ᄉᆡᆼ가 션친이 쳔은일 나오셔</sent>
+<sent type="main" n="23">쇼명가지 은 ᄌᆞ을 너허 지어 겨오시더니</sent>
+<sent type="main" n="24">이 아ᄒᆡ가 ᄯᅩ 이러ᄒᆞ니</sent>
+<sent type="main" n="25">아니 긔이 신통ᄒᆞ온 일이냐</sent>
+<sent type="main" n="26">일흠을 쳔은이라 지어 보내니 그리 불너라</sent>
+<sent type="main" n="27">봄이 다 되고 날이 챵화ᄒᆞ니</sent>
+<sent type="main" n="28">산후 범졀이 무양ᄒᆞ고</sent>
+<sent type="main" n="29">어린 것 년ᄒᆞ야 잘 잇ᄂᆞᆫ야</sent>
+<sent type="main" n="30">부ᄃᆡ 죠심죠심ᄒᆞ야 기르게 ᄒᆞ야라</sent>
+<sent type="main" n="31">나ᄂᆞᆫ 구챵으로 오ᄅᆡ 신고ᄒᆞ니 민망ᄒᆞ다</sent>
+<sent type="main" n="32">겨요 그린다</sent>
+<sent type="main" n="33">갑진 삼월 초뉵일 구</sent>
+</letter>
+
+<img n="035">https://kohico.kr/_media/image/이미지_파일_폴더명/035.jpg</img>
+<letter n="035" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1840">
+<sent type="main" n="01">침ᄎᆡ을 어더 먹을 길이 업고</sent>
+<sent type="main" n="02">ᄯᅩ ᄉᆡ오졋과 과국은 무가ᄂᆡ하오니</sent>
+<sent type="main" n="03">그거시 민망ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="04">거긔 졋무우나 어더 보내개 ᄒᆞ고</sent>
+<sent type="main" n="05">졋국도 ᄒᆞᆫ두 병 어더 샹치 아니ᄒᆞ개 부치면 죠흘 듯ᄒᆞ오나</sent>
+<sent type="main" n="06">쳔니 밧긔셔 엇지 그런 거슬 운젼ᄒᆞ야 먹을 길이 잇ᄉᆞᆸ</sent>
+<sent type="main" n="07">의복은 가지고 온 거시 과동은 되개ᄉᆞ오나</sent>
+<sent type="main" n="08">츈의을 ᄒᆞ야</sent>
+<sent type="main" n="09">뎡월 즈음이라도 부치거나</sent>
+<sent type="main" n="10">겨을 인편이라도 잇거든</sent>
+<sent type="main" n="11">미리 보내ᄂᆞᆫ 거시 죠흘 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="12">봄 된 후의 옷슬 보내여셔ᄂᆞᆫ</sent>
+<sent type="main" n="13">ᄯᆡ 밋지 못 올 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="14">거긔 츄슈 범ᄇᆡᆨ을 무ᄉᆞ이 다ᄒᆞ야 거두어ᄉᆞᆸ</sent>
+<sent type="main" n="15">여긔셔 긴 옷슬 뎐혀 입고 잇개ᄉᆞ오니</sent>
+<sent type="main" n="16">긴 옷슬 넉넉이 보내ᄋᆞᆸ</sent>
+<sent type="main" n="17">ᄲᅡᆫ긴 옷시 무방ᄒᆞ고</sent>
+<sent type="main" n="18">즉금이라도 ᄒᆞᆫ 벌 두엇다ᄂᆞᆫ 차렵거시 챠마 더워</sent>
+<sent type="main" n="19">아직도 더 둑거온 옷슨 입을 길이 업슬 듯ᄒᆞ오니</sent>
+<sent type="main" n="20">츈의라도 부ᄃᆡ 얄ᄭᅦ ᄒᆞ되</sent>
+<sent type="main" n="21">양차렵으로 ᄒᆞ고</sent>
+<sent type="main" n="22">ᄲᅡᆫ누비 져고리 바지 갓튼 거시 죠흘 듯ᄒᆞᄋᆞᆸ</sent>
+</letter>
+
+<img n="036">https://kohico.kr/_media/image/이미지_파일_폴더명/036.jpg</img>
+<letter n="036" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1840-1842">
+<sent type="main" n="01">븍어 죠흔 거슬로 셔올 구ᄒᆞᆯ넌지 ᄒᆞ야</sent>
+<sent type="main" n="02">두어 ᄭᅫ ᄇᆡ 오ᄂᆞᆫ 편의 잘 부치개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="03">팔도의 다 인ᄂᆞᆫ 거시 여긔 업ᄉᆞ오니</sent>
+<sent type="main" n="04">그도 아니 고이ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="05">여긔ᄂᆞᆫ 븍어 명ᄐᆡ라 말을 듯지도 못ᄒᆞ여ᄉᆞᆸ더니다</sent>
+</letter>
+
+<img n="037">https://kohico.kr/_media/image/이미지_파일_폴더명/037.jpg</img>
+<letter n="037" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="main" n="01">편지 봉ᄒᆞᆯ ᄎᆞ의 니문의 샹ᄉᆞ 쇼식을 드르니 놀납고</sent>
+<sent type="main" n="02">며ᄂᆞ리 뎡니을 ᄉᆡᆼ각ᄒᆞ니</sent>
+<sent type="main" n="03">남의 업ᄂᆞᆫ 듯 참연참연ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="04">항듕의셔 흰거시나 엇지ᄒᆞ야 입혀ᄉᆞᆸ</sent>
+<sent type="main" n="05">오ᄌᆞᆨ 걱뎡ᄒᆞ야ᄉᆞᆸ</sent>
+</letter>
+
+<img n="038">https://kohico.kr/_media/image/이미지_파일_폴더명/038.jpg</img>
+<letter n="038" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1841">
+<sent type="main" n="01">겨을 옷슨 엇지ᄒᆞ야 부치ᄋᆞᆸ</sent>
+<sent type="main" n="02">다님 ᄒᆞ나 졉어 보내개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="03">슈슈 엿슬 고아 보내개 ᄒᆞ되</sent>
+<sent type="main" n="04">너흘 약ᄌᆡ을 어더 ᄒᆞᆫᄃᆡ 너허 고오개 ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="05">ᄇᆡᆨ합 白合 二兩 천문동 天門冬 二兩 길경 吉更 一兩 계피 桂皮 三戔 귤피 橘皮 三戔을 셔올 구ᄒᆞ야 오ᄋᆞᆸ</sent>
+<sent type="main" n="06">右細末 糖 一斗 調和 再熬</sent>
+</letter>
+
+<img n="039">https://kohico.kr/_media/image/이미지_파일_폴더명/039.jpg</img>
+<letter n="039" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="main" n="01">갑쇠가 시졀병으로 알아 지내더니</sent>
+<sent type="main" n="02">무ᄉᆞ이 츌쟝을 시겨 즉금은 념녀을 놋ᄒᆞ오나</sent>
+<sent type="main" n="03">그ᄉᆞ이 그러 심녀 엇지 다 뎍ᄉᆞᆸ</sent>
+<sent type="main" n="04">한의도 구병 식이노라 즉시 못 보내고</sent>
+<sent type="main" n="05">인ᄌᆞ야 보내오며</sent>
+<sent type="main" n="06">이 동ᄂᆡ의도 ᄎᆞᄎᆞ 죠곰 건뎡ᄒᆞ야 가니 ᄒᆡᆼ이ᄋᆞᆸ</sent>
+<sent type="main" n="07">츄시가 죽다 ᄒᆞ니</sent>
+<sent type="main" n="08">여러 ᄒᆡ 복ᄉᆞᄒᆞ던 거시 블샹ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="09">져부치나 잇든 거시ᄋᆞᆸ</sent>
+</letter>
+
+<img n="040">https://kohico.kr/_media/image/이미지_파일_폴더명/040.jpg</img>
+<letter n="040" sender="김정희(남편)" writer="김정희(남편)" receiver="예안이씨(아내)" year="1842">
+<sent type="main" n="01">며ᄂᆞ리 글시을 보오니 화려ᄒᆞ다</sent>
+<sent type="main" n="02">제 친히 쓴 거시면 긔특ᄒᆞ개ᄉᆞᆸ</sent>
+<sent type="main" n="03">강동의 편지의 놈이 내외을 ᄯᅡ로 내여</sent>
+<sent type="main" n="04">각뎡식을 ᄒᆞ쟈 ᄒᆞ야ᄉᆞ오니</sent>
+<sent type="main" n="05">방ᄉᆞ 변통ᄒᆞᄋᆞᆸᄂᆞᆫᄃᆡ</sent>
+<sent type="main" n="06">ᄯᅡ로 내기ᄂᆞᆫ 못 ᄒᆞᆯ 묘리 업스나</sent>
+<sent type="main" n="07">아직 각뎡식은 부질업ᄉᆞ올 듯ᄒᆞ오니</sent>
+<sent type="main" n="08">엇지ᄒᆞ야 이리 긔별ᄒᆞᆫ 말ᄉᆞᆷ이온지</sent>
+<sent type="main" n="09">므슨 긔미 조짐을 보고 그리ᄒᆞ온 일이ᄋᆞᆸ</sent>
+<sent type="main" n="10">의ᄉᆞ가 ᄇᆡᆨ츌ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="11">더고나 그러쇼록 그쳐로 버릇ᄒᆞᆯ 길 업ᄉᆞ니</sent>
+<sent type="main" n="12">방ᄉᆞᄂᆞᆫ 옴기되</sent>
+<sent type="main" n="13">각뎡은 아직 부질업ᄉᆞᆸ</sent>
+<sent type="main" n="14">이번의 나려온 민어ᄂᆞᆫ 젼 것보다 마히 낫ᄌᆞ와 먹개ᄉᆞᆸ</sent>
+<sent type="main" n="15">기름을 여긔셔 더고 어더 쓸 슈가 업시 극귀ᄒᆞ오니</sent>
+<sent type="main" n="16">ᄇᆡ편 갓튼 ᄃᆡ 기름 말이 부치더면 죠흘 번ᄒᆞ와ᄉᆞᆸ</sent>
+<sent type="main" n="17">거번 부친 날근 의복은 셔올노셔 날여오면</sent>
+<sent type="main" n="18">그 ᄉᆞ이 아마 못 갓ᄉᆞ올 듯ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="19">무명바지 둘 보내오며</sent>
+<sent type="main" n="20">마ᄎᆞᆷ 무혈복 열두 개 ᄉᆡᆼ겨ᄉᆞᆸ기 보내ᄋᆞᆸ</sent>
+<sent type="main" n="21">ᄌᆞ시 츄심ᄒᆞᄋᆞᆸ</sent>
+<sent type="main" n="22">오포 두 쳡도 보내ᄋᆞᆸ</sent>
+<sent type="main" n="23">놈의 아쳑은 년ᄒᆞ야 고이ᄒᆞ오며</sent>
+<sent type="main" n="24">놈의 ᄃᆡᆨ은 편지을 보ᄃᆡ</sent>
+<sent type="main" n="25">놈의 편지ᄂᆞᆫ 아니 부쳐ᄉᆞ오니 고이ᄒᆞᄋᆞᆸ</sent>
+</letter>
+</doc>
+

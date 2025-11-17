@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">한청문감</title>
+<title lang="chi">漢淸文鑑</title>
+<full_name>한청문감</full_name>
+<nikl_name>한청문감</nikl_name>
+<general_name>한청문감</general_name>
+<another_name></another_name>
+<abbre>[고] ;[디] ;[우] ;[이] ;[표] ;</abbre>
+<version>프랑스MF본</version>
+<volume n="5"/>
+<author></author>
+<date>18세기후기</date><!--1778?-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title></title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/11/08</date>
+<respStmt>
+<resp>입력자</resp><name>성우철</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01a">
+<img n="01a">https://kohico.kr/_media/image/18세기후기_한청문감/01a.jpg</img>
+<sent type="title" lang="chi" page="01a" n="01">漢淸文鑑 卷五</sent>
+<sent type="title2" lang="chi" page="01a" n="02">無功部 下 四類</sent>
+<sent type="title3" lang="chi" page="01a" n="03">軍器類 七則</sent> 
+<sent type="main" lang="chi" page="01a" n="04">器械</sent>
+<sent type="main" lang="kor" page="01a" n="04">器械</sent><!--'器械'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="01a" n="05">盔</sent>
+<sent type="main" lang="kor" page="01a" n="05">투구</sent>
+<sent type="main" lang="chi" page="01a" n="06">遮耳</sent>
+<sent type="main" lang="kor" page="01a" n="06">투구 좌우 드림</sent>
+<sent type="main" lang="chi" page="01a" n="07">護項</sent>
+<sent type="main" lang="kor" page="01a" n="07">투구 풍챠</sent>
+<sent type="main" lang="chi" page="01a" n="08">盔尾</sent>
+<sent type="main" lang="kor" page="01a" n="08">투구 뒷 드림</sent>
+<sent type="main" lang="chi" page="01a" n="09">盔簷</sent>
+<sent type="main" lang="kor" page="01a" n="09">투구 앏 젼</sent>
+</pages>
+
+<pages n="01b">
+<img n="01b">https://kohico.kr/_media/image/18세기후기_한청문감/01b.jpg</img>
+<sent type="main" lang="chi" page="01b" n="01">掩額</sent>
+<sent type="main" lang="kor" page="01b" n="01">투구에 니마 덥흔 쇠</sent>
+<sent type="main" lang="chi" page="01b" n="02">盔樑</sent>
+<sent type="main" lang="kor" page="01b" n="02">투구ㅅ ᄆᆞᄅᆞ 쇠</sent>
+<sent type="main" lang="chi" page="01b" n="03">盔頂上托子</sent>
+<sent type="main" lang="kor" page="01b" n="03">투구 우ᄒᆡ 박은 둥근 쇠</sent>
+<sent type="main" lang="chi" page="01b" n="04">頂盤</sent>
+<sent type="main" lang="kor" page="01b" n="04">둥근 쇠 우ᄒᆡ 밧침 쇠</sent>
+<sent type="main" lang="chi" page="01b" n="05">盔頂上管子</sent>
+<sent type="main" lang="kor" page="01b" n="05">투구 샹모 ᄭᅩᆺᄂᆞᆫ 통</sent>
+<sent type="main" lang="chi" page="01b" n="06">盔纓</sent>
+<sent type="main" lang="kor" page="01b" n="06">투구 샹모</sent>
+<sent type="main" lang="chi" page="01b" n="07">盔纓頂</sent>
+<sent type="main" lang="kor" page="01b" n="07">투구 우ᄒᆡ 삼지창 밧침 쇠</sent>
+</pages>
+
+<pages n="02a">
+<img n="02a">https://kohico.kr/_media/image/18세기후기_한청문감/02a.jpg</img>
+<sent type="main" lang="chi" page="02a" n="01">盔襯帽</sent>
+<sent type="main" lang="kor" page="02a" n="01">투구 감토</sent>
+<sent type="main" lang="chi" page="02a" n="02">甲</sent>
+<sent type="main" lang="kor" page="02a" n="02">갑옷</sent>
+<sent type="main" lang="chi" page="02a" n="03">暗甲</sent>
+<sent type="main" lang="kor" page="02a" n="03">驍騎所着之甲</sent>
+<sent type="main" lang="chi" page="02a" n="04">護甲</sent>
+<sent type="main" lang="kor" page="02a" n="04">護心甲</sent>
+<sent type="main" lang="chi" page="02a" n="05">甲身</sent>
+<sent type="main" lang="kor" page="02a" n="05">갑옷 웃동</sent>
+<sent type="main" lang="chi" page="02a" n="06">綿甲</sent>
+<sent type="main" lang="kor" page="02a" n="06">플 소음 갑옷</sent>
+<sent type="main" lang="chi" page="02a" n="07">絮甲</sent>
+<sent type="main" lang="kor" page="02a" n="07">소옴 갑옷</sent>
+<sent type="main" lang="chi" page="02a" n="08">護肩</sent>
+<sent type="main" lang="kor" page="02a" n="08">갑옷 엇게 덥ᄂᆞᆫ 것</sent>
+</pages>
+
+<pages n="02b">
+<img n="02b">https://kohico.kr/_media/image/18세기후기_한청문감/02b.jpg</img>
+<sent type="main" lang="chi" page="02b" n="01">鴈翅</sent>
+<sent type="main" lang="kor" page="02b" n="01">護肩 뒤ᄒᆡ 붓친 쇠 아ᄅᆡ 세 조각 쇠</sent>
+<sent type="main" lang="chi" page="02b" n="02">鴈翅上鐵</sent>
+<sent type="main" lang="kor" page="02b" n="02">護肩 뒤ᄒᆡ 우ᄒᆡ 붓친 쇠</sent>
+<sent type="main" lang="chi" page="02b" n="03">鴈翅下鐵</sent>
+<sent type="main" lang="kor" page="02b" n="03">護肩 뒤ᄒᆡ 아ᄅᆡ 붓친 쇠</sent>
+<sent type="main" lang="chi" page="02b" n="04">護心鏡</sent>
+<sent type="main" lang="kor" page="02b" n="04">護心鏡</sent><!--'護心鏡'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="02b" n="05">甲袖</sent>
+<sent type="main" lang="kor" page="02b" n="05">갑옷 ᄉᆞ매</sent>
+<sent type="main" lang="chi" page="02b" n="06">亮袖</sent>
+<sent type="main" lang="kor" page="02b" n="06">갑옷 ᄉᆞ매 ᄭᅳᆺ동</sent>
+<sent type="main" lang="chi" page="02b" n="07">甲前肩</sent>
+<sent type="main" lang="kor" page="02b" n="07">갑옷 앏 엇기</sent>
+<sent type="main" lang="chi" page="02b-03a" n="08">護脇</sent>
+<sent type="main" lang="kor" page="02b-03a" n="08">갑옷 겻으랑</sent>
+</pages>
+
+<pages n="03a">
+<img n="03a">https://kohico.kr/_media/image/18세기후기_한청문감/03a.jpg</img>
+<sent type="main" lang="chi" page="03a" n="01">遮縫</sent>
+<sent type="main" lang="kor" page="03a" n="01">갑옷 틈 막은 것</sent>
+<sent type="main" lang="chi" page="03a" n="02">甲裙</sent>
+<sent type="main" lang="kor" page="03a" n="02">갑옷 아ᄅᆡㅅ 동</sent>
+<sent type="main" lang="chi" page="03a" n="03">護膝</sent>
+<sent type="main" lang="kor" page="03a" n="03">슬갑</sent>
+<sent type="main" lang="chi" page="03a" n="04">甲葉</sent>
+<sent type="main" lang="kor" page="03a" n="04">갑옷 린을</sent>
+<sent type="main" lang="chi" page="03a" n="05">甲裙明葉</sent>
+<sent type="main" lang="kor" page="03a" n="05">갑옷 아ᄅᆡᆺ동에 박은 광친 린을</sent>
+<sent type="main" lang="chi" page="03a" n="06">一排甲葉</sent>
+<sent type="main" lang="kor" page="03a" n="06">린을 ᄒᆞᆫ 층</sent>
+<sent type="main" lang="chi" page="03a" n="07">甲釘</sent>
+<sent type="main" lang="kor" page="03a" n="07">린을에 박은 광두졍</sent>
+</pages>
+
+<pages n="03b">
+<img n="03b">https://kohico.kr/_media/image/18세기후기_한청문감/03b.jpg</img>
+<sent type="main" lang="chi" page="03b" n="01">盔牌子</sent>
+<sent type="main" lang="kor" page="03b" n="01">盔之後垂各隨八旗之色而書其姓名官職以爲表識</sent>
+<sent type="main" lang="chi" page="03b" n="02">盔甲罩</sent>
+<sent type="main" lang="kor" page="03b" n="02">盔甲 우비</sent><!--'盔甲'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="03b" n="03">號帽</sent>
+<sent type="main" lang="kor" page="03b" n="03">票帽</sent>
+<sent type="main" lang="chi" page="03b" n="04">號衣</sent>
+<sent type="main" lang="kor" page="03b" n="04">票衣</sent>
+<sent type="main" lang="chi" page="03b" n="05">虎帽</sent>
+<sent type="main" lang="kor" page="03b" n="05">綠旗軍所着之帽作以虎頭形</sent>
+<sent type="main" lang="chi" page="03b" n="06">虎衣</sent>
+<sent type="main" lang="kor" page="03b" n="06">綠旗軍所着之衣</sent>
+</pages>
+
+<pages n="04a">
+<img n="04a">https://kohico.kr/_media/image/18세기후기_한청문감/04a.jpg</img>
+<sent type="main" lang="chi" page="04a" n="01">虎裙</sent>
+<sent type="main" lang="kor" page="04a" n="01">綠旗軍所着之裙</sent>
+<sent type="main" lang="chi" page="04a" n="02">虎袴</sent>
+<sent type="main" lang="kor" page="04a" n="02">綠旗軍所着之袴</sent>
+<sent type="main" lang="chi" page="04a" n="03">弓</sent>
+<sent type="main" lang="kor" page="04a" n="03">활</sent>
+<sent type="main" lang="chi" page="04a" n="04">纏筋弓</sent>
+<sent type="main" lang="kor" page="04a" n="04">힘 올린 활</sent>
+<sent type="main" lang="chi" page="04a" n="05">通角弓</sent>
+<sent type="main" lang="kor" page="04a" n="05">좀ᄭᆞ지 ᄲᅮᆯ로 ᄆᆡᆫ든 활</sent>
+<sent type="main" lang="chi" page="04a" n="06">長角弓</sent>
+<sent type="main" lang="kor" page="04a" n="06">고재ᄭᆞ지 ᄲᅮᆯ 붓친 활</sent>
+</pages>
+
+<pages n="04b">
+<img n="04b">https://kohico.kr/_media/image/18세기후기_한청문감/04b.jpg</img>
+<sent type="main" lang="chi" page="04b" n="01">牛蹄弓</sent>
+<sent type="main" lang="kor" page="04b" n="01">ᄉᆈ굽으로 무어 붓친 활</sent>
+<sent type="main" lang="chi" page="04b" n="02">魚腮弓</sent>
+<sent type="main" lang="kor" page="04b" n="02">고래 아감이 ᄲᅧ로 ᄆᆡᆫ든 활</sent>
+<sent type="main" lang="chi" page="04b" n="03">通面弓</sent>
+<sent type="main" lang="kor" page="04b" n="03">왼 ᄲᅮᆯ로 내 무은 활</sent>
+<sent type="main" lang="chi" page="04b" n="04">吸水弓</sent>
+<sent type="main" lang="kor" page="04b" n="04">궁소에 구무 ᄯᅮᆯ어 믈 마시ᄂᆞᆫ 활</sent>
+<sent type="main" lang="chi" page="04b" n="05">木弓</sent>
+<sent type="main" lang="kor" page="04b" n="05">나모 활</sent>
+<sent type="main" lang="chi" page="04b" n="06">弩弓</sent>
+<sent type="main" lang="kor" page="04b" n="06">소뇌</sent>
+</pages>
+
+<pages n="05a">
+<img n="05a">https://kohico.kr/_media/image/18세기후기_한청문감/05a.jpg</img>
+<sent type="main" lang="chi" page="05a" n="01">雙機弩</sent>
+<sent type="main" lang="kor" page="05a" n="01">두 고동 ᄒᆞᆫ 소뇌</sent>
+<sent type="main" lang="chi" page="05a" n="02">彈弓</sent>
+<sent type="main" lang="kor" page="05a" n="02">탄ᄌᆞ 활</sent>
+<sent type="main" lang="chi" page="05a" n="03">披箭</sent>
+<sent type="main" lang="kor" page="05a" n="03">셔부ᄌᆞ ○ 翎直而鏃厚用於射獸</sent>
+<sent type="main" lang="chi" page="05a" n="04">尖披箭</sent>
+<sent type="main" lang="kor" page="05a" n="04">披箭之尖鏃者</sent>
+<sent type="main" lang="chi" page="05a" n="05">齊披箭</sent>
+<sent type="main" lang="kor" page="05a" n="05">幹與鏃麤細相等者</sent>
+<sent type="main" lang="chi" page="05a" n="06">月牙披箭</sent>
+<sent type="main" lang="kor" page="05a" n="06">鏃如半月形者</sent>
+<sent type="main" lang="chi" page="05a-05b" n="07">叉披箭</sent>
+<sent type="main" lang="kor" page="05a-05b" n="07">鏃如叉形者</sent>
+</pages>
+
+<pages n="05b">
+<img n="05b">https://kohico.kr/_media/image/18세기후기_한청문감/05b.jpg</img>
+<sent type="main" lang="chi" page="05b" n="01">燕尾披箭</sent>
+<sent type="main" lang="kor" page="05b" n="01">鏃如燕尾形者</sent>
+<sent type="main" lang="chi" page="05b" n="02">小披箭</sent>
+<sent type="main" lang="kor" page="05b" n="02">披箭之鏃小者</sent>
+<sent type="main" lang="chi" page="05b" n="03">抹角披箭</sent>
+<sent type="main" lang="kor" page="05b" n="03">鏃如刀刃形者</sent>
+<sent type="main" lang="chi" page="05b" n="04">梳脊披箭</sent>
+<sent type="main" lang="kor" page="05b" n="04">鏃如梳背形者</sent>
+<sent type="main" lang="chi" page="05b" n="05">哨子披箭</sent>
+<sent type="main" lang="kor" page="05b" n="05">箭鏃四面有面有孔者</sent>
+<sent type="main" lang="chi" page="05b-06a" n="06">銹鐵披箭</sent>
+<sent type="main" lang="kor" page="05b-06a" n="06">鏃鐵生銹之箭用於射虎</sent><!--鏃鐵生銹之箭用於^射虎-->
+</pages>
+
+<pages n="06a">
+<img n="06a">https://kohico.kr/_media/image/18세기후기_한청문감/06a.jpg</img>
+<sent type="main" lang="chi" page="06a" n="01">榛子哨披箭</sent>
+<sent type="main" lang="kor" page="06a" n="01">鏃如榛子形者</sent>
+<sent type="main" lang="chi" page="06a" n="02">射虎弩箭</sent>
+<sent type="main" lang="kor" page="06a" n="02">射虎之手弩鏃上有倒鉤</sent>
+<sent type="main" lang="chi" page="06a" n="03">大披箭</sent>
+<sent type="main" lang="kor" page="06a" n="03">形如齊披箭而差大者</sent>
+<sent type="main" lang="chi" page="06a" n="04">哨箭</sent>
+<sent type="main" lang="kor" page="06a" n="04">帿箭以骨爲鏃者</sent>
+<sent type="main" lang="chi" page="06a" n="05">長哨箭</sent>
+<sent type="main" lang="kor" page="06a" n="05">箭鏃之上圓下方有四孔者</sent>
+</pages>
+
+<pages n="06b">
+<img n="06b">https://kohico.kr/_media/image/18세기후기_한청문감/06b.jpg</img>
+<sent type="main" lang="chi" page="06b" n="01">牛角哨箭</sent>
+<sent type="main" lang="kor" page="06b" n="01">帿箭之以牛角爲鏃者</sent>
+<sent type="main" lang="chi" page="06b" n="02">把箭</sent>
+<sent type="main" lang="kor" page="06b" n="02">柳葉箭</sent>
+<sent type="main" lang="chi" page="06b" n="03">射遠把箭</sent>
+<sent type="main" lang="kor" page="06b" n="03">柳葉箭之細者用於武試</sent>
+<sent type="main" lang="chi" page="06b" n="04">梅針箭</sent>
+<sent type="main" lang="kor" page="06b" n="04">箭鏃之有兩刃者用於戰場</sent>
+<sent type="main" lang="chi" page="06b" n="05">鎗頭箭</sent>
+<sent type="main" lang="kor" page="06b" n="05">箭鏃之如鎗形者</sent>
+<sent type="main" lang="chi" page="06b" n="06">火燎桿箭</sent>
+<sent type="main" lang="kor" page="06b" n="06">箭幹之刮皮煨火者</sent>
+</pages>
+
+<pages n="07a">
+<img n="07a">https://kohico.kr/_media/image/18세기후기_한청문감/07a.jpg</img>
+<sent type="main" lang="chi" page="07a" n="01">角頭箭</sent>
+<sent type="main" lang="kor" page="07a" n="01">以角爲鏃之長箭</sent>
+<sent type="main" lang="chi" page="07a" n="02">長披箭</sent>
+<sent type="main" lang="kor" page="07a" n="02">長箭之鏃大者</sent>
+<sent type="main" lang="chi" page="07a" n="03">快箭</sent>
+<sent type="main" lang="kor" page="07a" n="03">ᄀᆞᄂᆞᆫ 대</sent>
+<sent type="main" lang="chi" page="07a" n="04">尖頭箭</sent>
+<sent type="main" lang="kor" page="07a" n="04">箭鏃尖短可以射鳥者</sent>
+<sent type="main" lang="chi" page="07a" n="05">兎兒叉箭</sent>
+<sent type="main" lang="kor" page="07a" n="05">거리살 ○ 鏃有四叉如虎爪形者可射雉兎</sent>
+<sent type="main" lang="chi" page="07a" n="06">骲頭</sent>
+<sent type="main" lang="kor" page="07a" n="06">고도리</sent>
+<sent type="main" lang="chi" page="07a-7b" n="07">四方骲頭</sent><!--四^方骲頭-->
+<sent type="main" lang="kor" page="07a-7b" n="07">骲頭之四稜者</sent>
+</pages>
+
+<pages n="07b">
+<img n="07b">https://kohico.kr/_media/image/18세기후기_한청문감/07b.jpg</img>
+<sent type="main" lang="chi" page="07b" n="01">尖骲頭</sent>
+<sent type="main" lang="kor" page="07b" n="01">骲頭之尖者</sent>
+<sent type="main" lang="chi" page="07b" n="02">馬箭骲頭</sent>
+<sent type="main" lang="kor" page="07b" n="02">骲頭之用於騎射者</sent>
+<sent type="main" lang="chi" page="07b" n="03">鼓子骲頭</sent>
+<sent type="main" lang="kor" page="07b" n="03">방혁 쏘ᄂᆞᆫ 고도리</sent>
+<sent type="main" lang="chi" page="07b" n="04">馬箭尖骲頭</sent>
+<sent type="main" lang="kor" page="07b" n="04">骲頭有兩面前有五稜稜上有孔後有一脊脊上有齒者</sent>
+</pages>
+
+<pages n="08a">
+<img n="08a">https://kohico.kr/_media/image/18세기후기_한청문감/08a.jpg</img>
+<sent type="main" lang="chi" page="08a" n="01">無眼骲頭</sent>
+<sent type="main" lang="kor" page="08a" n="01">骲頭之無孔者</sent>
+<sent type="main" lang="chi" page="08a" n="02">射魚叉箭</sent>
+<sent type="main" lang="kor" page="08a" n="02">箭鏃之有五叉者用於射魚</sent>
+<sent type="main" lang="chi" page="08a" n="03">水箭</sent>
+<sent type="main" lang="kor" page="08a" n="03">箭翎之纏線者用射水鳥</sent>
+<sent type="main" lang="chi" page="08a" n="04">鴨嘴箭</sent>
+<sent type="main" lang="kor" page="08a" n="04">鏃如鴨嘴者用射水鳥</sent>
+<sent type="main" lang="chi" page="08a" n="05">墩子箭</sent>
+<sent type="main" lang="kor" page="08a" n="05">無鏃箭</sent>
+<sent type="main" lang="chi" page="08a" n="06">有翎無鐵箭</sent>
+<sent type="main" lang="kor" page="08a" n="06">有翎無鏃之箭</sent>
+</pages>
+
+<pages n="08b">
+<img n="08b">https://kohico.kr/_media/image/18세기후기_한청문감/08b.jpg</img>
+<sent type="main" lang="chi" page="08b" n="01">蓬矢</sent>
+<sent type="main" lang="kor" page="08b" n="01">ᄲᆡ양 살</sent>
+<sent type="main" lang="chi" page="08b" n="02">一枝</sent>
+<sent type="main" lang="kor" page="08b" n="02">箭之一根爲之一枝</sent><!--'一枝'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="08b" n="03">大刀</sent>
+<sent type="main" lang="kor" page="08b" n="03">月刀</sent>
+<sent type="main" lang="chi" page="08b" n="04">挑刀</sent>
+<sent type="main" lang="kor" page="08b" n="04">大刀之長桿者</sent>
+<sent type="main" lang="chi" page="08b" n="05">腰刀</sent>
+<sent type="main" lang="kor" page="08b" n="05">環刀</sent>
+<sent type="main" lang="chi" page="08b" n="06">玲瓏刀</sent>
+<sent type="main" lang="kor" page="08b" n="06">긔화ᄒᆞᆫ 환도</sent>
+<sent type="main" lang="chi" page="08b" n="07">庫刀</sent>
+<sent type="main" lang="kor" page="08b" n="07">寶刀之藏于武庫者</sent>
+<sent type="main" lang="chi" page="08b-09a" n="08">斬馬刀</sent><!--斬^馬刀-->
+<sent type="main" lang="kor" page="08b-09a" n="08">陣上斬馬足之刀</sent>
+</pages>
+
+<pages n="09a">
+<img n="09a">https://kohico.kr/_media/image/18세기후기_한청문감/09a.jpg</img>
+<sent type="main" lang="chi" page="09a" n="01">牌刀</sent>
+<sent type="main" lang="kor" page="09a" n="01">舞干時所用之刀</sent>
+<sent type="main" lang="chi" page="09a" n="02">順刀</sent>
+<sent type="main" lang="kor" page="09a" n="02">短劒</sent>
+<sent type="main" lang="chi" page="09a" n="03">劒</sent>
+<sent type="main" lang="kor" page="09a" n="03">兩刃刀</sent>
+<sent type="main" lang="chi" page="09a" n="04">攮子</sent>
+<sent type="main" lang="kor" page="09a" n="04">七首</sent>
+<sent type="main" lang="chi" page="09a" n="05">小刀</sent>
+<sent type="main" lang="kor" page="09a" n="05">칼</sent>
+<sent type="main" lang="chi" page="09a" n="06">刀上小叉</sent>
+<sent type="main" lang="kor" page="09a" n="06">刀鞘上所揷之小叉</sent>
+<sent type="main" lang="chi" page="09a" n="07">鎗</sent>
+<sent type="main" lang="kor" page="09a" n="07">鎗</sent><!--'鎗'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="09b">
+<img n="09b">https://kohico.kr/_media/image/18세기후기_한청문감/09b.jpg</img>
+<sent type="main" lang="chi" page="09b" n="01">鉤鐮鎗</sent>
+<sent type="main" lang="kor" page="09b" n="01">鎗刃上有倒鉤者</sent>
+<sent type="main" lang="chi" page="09b" n="02">手鎗</sent>
+<sent type="main" lang="kor" page="09b" n="02">先鋒所用之短鎗</sent>
+<sent type="main" lang="chi" page="09b" n="03">戈</sent>
+<sent type="main" lang="kor" page="09b" n="03">單枝爲戈</sent><!--'戈'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09b" n="04">戟</sent>
+<sent type="main" lang="kor" page="09b" n="04">雙枝爲戟</sent><!--'戟'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="09b" n="05">鞭</sent>
+<sent type="main" lang="kor" page="09b" n="05">鐵鞭</sent>
+<sent type="main" lang="chi" page="09b" n="06">鐗</sent>
+<sent type="main" lang="kor" page="09b" n="06">鐵鞭之有四稜者</sent>
+<sent type="main" lang="chi" page="09b" n="07">鐵尺</sent>
+<sent type="main" lang="kor" page="09b" n="07">鐵鞭之類</sent>
+<sent type="main" lang="chi" page="09b" n="08">斧</sent>
+<sent type="main" lang="kor" page="09b" n="08">도ᄎᆡ</sent>
+</pages>
+
+<pages n="10a">
+<img n="10a">https://kohico.kr/_media/image/18세기후기_한청문감/10a.jpg</img>
+<sent type="main" lang="chi" page="10a" n="01">鉞</sent>
+<sent type="main" lang="kor" page="10a" n="01">斧屬形如半月</sent>
+<sent type="main" lang="chi" page="10a" n="02">叉</sent>
+<sent type="main" lang="kor" page="10a" n="02">쇠 곳챵이</sent>
+<sent type="main" lang="chi" page="10a" n="03">刃子</sent>
+<sent type="main" lang="kor" page="10a" n="03">通稱 ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="10a" n="04">有刃</sent>
+<sent type="main" lang="kor" page="10a" n="04">ᄂᆞᆯ 잇ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="10a" n="05">快</sent>
+<sent type="main" lang="kor" page="10a" n="05">通稱 드다</sent>
+<sent type="main" lang="chi" page="10a" n="06">鈍</sent>
+<sent type="main" lang="kor" page="10a" n="06">通稱 므되다</sent>
+<sent type="main" lang="chi" page="10a" n="07">刀背</sent>
+<sent type="main" lang="kor" page="10a" n="07">칼ㅅ등</sent>
+<sent type="main" lang="chi" page="10a" n="08">尖子</sent>
+<sent type="main" lang="kor" page="10a" n="08">通稱 ᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="10a" n="09">有尖</sent>
+<sent type="main" lang="kor" page="10a" n="09">ᄭᅳᆺ 잇ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="10a" n="10">𨰭子</sent>
+<sent type="main" lang="kor" page="10a" n="10">창에 쵹</sent>
+</pages>
+
+<pages n="10b">
+<img n="10b">https://kohico.kr/_media/image/18세기후기_한청문감/10b.jpg</img>
+<sent type="main" lang="chi" page="10b" n="01">虎鎗划子</sent>
+<sent type="main" lang="kor" page="10b" n="01">虎鎗에 ᄀᆞᄅᆞ ᄆᆡᆫ 나모</sent>
+<sent type="main" lang="chi" page="10b" n="02">把子</sent>
+<sent type="main" lang="kor" page="10b" n="02">通稱 ᄌᆞᄅᆞ</sent>
+<sent type="main" lang="chi" page="10b" n="03">棒</sent>
+<sent type="main" lang="kor" page="10b" n="03">몽동이</sent>
+<sent type="main" lang="chi" page="10b" n="04">單手棒</sent>
+<sent type="main" lang="kor" page="10b" n="04">ᄒᆞᆫ 손으로 쓰ᄂᆞᆫ 몽동이</sent>
+<sent type="main" lang="chi" page="10b" n="05">棍</sent>
+<sent type="main" lang="kor" page="10b" n="05">도리매</sent>
+<sent type="main" lang="chi" page="10b" n="06">梢子棍</sent>
+<sent type="main" lang="kor" page="10b" n="06">도리ᄭᅢ</sent>
+<sent type="main" lang="chi" page="10b" n="07">籐牌</sent>
+<sent type="main" lang="kor" page="10b" n="07">방패</sent>
+</pages>
+
+<pages n="11a">
+<img n="11a">https://kohico.kr/_media/image/18세기후기_한청문감/11a.jpg</img>
+<sent type="main" lang="chi" page="11a" n="01">拐子</sent>
+<sent type="main" lang="kor" page="11a" n="01">메</sent>
+<sent type="main" lang="chi" page="11a" n="02">雲梯</sent>
+<sent type="main" lang="kor" page="11a" n="02">구룸 ᄃᆞ리</sent>
+<sent type="main" lang="chi" page="11a" n="03">鹿角</sent>
+<sent type="main" lang="kor" page="11a" n="03">거마적</sent>
+<sent type="main" lang="chi" page="11a" n="04">渡水皮混沌</sent>
+<sent type="main" lang="kor" page="11a" n="04">믈 건널 제 쓰ᄂᆞᆫ 즘ᄉᆡᆼ의 통 가족</sent>
+<sent type="main" lang="chi" page="11a" n="05">水帶</sent>
+<sent type="main" lang="kor" page="11a" n="05">着油籐器渡水時用</sent>
+</pages>
+
+<pages n="11b">
+<img n="11b">https://kohico.kr/_media/image/18세기후기_한청문감/11b.jpg</img>
+<sent type="main" lang="chi" page="11b" n="01">礮</sent>
+<sent type="main" lang="kor" page="11b" n="01">대연고</sent>
+<sent type="main" lang="chi" page="11b" n="02">鳥鎗</sent>
+<sent type="main" lang="kor" page="11b" n="02">됴춍</sent>
+<sent type="main" lang="chi" page="11b" n="03">三眼銃</sent>
+<sent type="main" lang="kor" page="11b" n="03">三穴銃</sent>
+<sent type="main" lang="chi" page="11b" n="04">自來火鎗</sent>
+<sent type="main" lang="kor" page="11b" n="04">放火鐵端夾火石撞火門鐵而自生火之銃</sent>
+<sent type="main" lang="chi" page="11b" n="05">風鎗</sent>
+<sent type="main" lang="kor" page="11b" n="05">밋ᄯᅩᆼ으로 ᄇᆞ람 녀허 마초여 노히ᄂᆞᆫ 춍</sent>
+</pages>
+
+<pages n="12a">
+<img n="12a">https://kohico.kr/_media/image/18세기후기_한청문감/12a.jpg</img>
+<sent type="main" lang="chi" page="12a" n="01">線鎗</sent>
+<sent type="main" lang="kor" page="12a" n="01">比鳥鎗尖而長用於漁獵</sent>
+<sent type="main" lang="chi" page="12a" n="02">鎗斗</sent>
+<sent type="main" lang="kor" page="12a" n="02">춍 머리에 ᄆᆞᆰ은 쇠</sent>
+<sent type="main" lang="chi" page="12a" n="03">鎗星</sent>
+<sent type="main" lang="kor" page="12a" n="03">춍 부리에 ᄆᆞᆰ은 쇠</sent>
+<sent type="main" lang="chi" page="12a" n="04">鎗堂內裝藥處</sent>
+<sent type="main" lang="kor" page="12a" n="04">춍 귀 약통</sent>
+<sent type="main" lang="chi" page="12a" n="05">火箭</sent>
+<sent type="main" lang="kor" page="12a" n="05">신긔젼</sent>
+<sent type="main" lang="chi" page="12a" n="06">火藥</sent>
+<sent type="main" lang="kor" page="12a" n="06">火藥</sent><!--'火藥'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="12a" n="07">烘藥</sent>
+<sent type="main" lang="kor" page="12a" n="07">귀약</sent>
+</pages>
+
+<pages n="12b">
+<img n="12b">https://kohico.kr/_media/image/18세기후기_한청문감/12b.jpg</img>
+<sent type="main" lang="chi" page="12b" n="01">鉛子</sent>
+<sent type="main" lang="kor" page="12b" n="01">텰환</sent>
+<sent type="main" lang="chi" page="12b" n="02">鐵沙子</sent>
+<sent type="main" lang="kor" page="12b" n="02">믓즘ᄉᆡᆼ ᄡᅩᄂᆞᆫ ᄌᆞᆫ 쳘환</sent>
+<sent type="main" lang="chi" page="12b" n="03">藥信</sent>
+<sent type="main" lang="kor" page="12b" n="03">火門藥線放大砲時用</sent>
+<sent type="main" lang="chi" page="12b" n="04">火繩</sent>
+<sent type="main" lang="kor" page="12b" n="04">火繩</sent><!--'火繩'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="12b" n="05">烘藥葫蘆</sent>
+<sent type="main" lang="kor" page="12b" n="05">귀 약통</sent>
+<sent type="main" lang="chi" page="12b" n="06">火藥葫蘆</sent>
+<sent type="main" lang="kor" page="12b" n="06">火藥桶</sent>
+<sent type="main" lang="chi" page="12b" n="07">九龍袋</sent>
+<sent type="main" lang="kor" page="12b" n="07">화약 담ᄂᆞᆫ 아홉 간 남ᄂᆞᆯ개</sent>
+</pages>
+
+<pages n="13a">
+<img n="13a">https://kohico.kr/_media/image/18세기후기_한청문감/13a.jpg</img>
+<sent type="main" lang="chi" page="13a" n="01">棉簾</sent>
+<sent type="main" lang="kor" page="13a" n="01">戰船戰車에 치ᄂᆞᆫ 휘쟝</sent>
+<sent type="main" lang="chi" page="13a" n="02">畵角</sent>
+<sent type="main" lang="kor" page="13a" n="02">畵角 ○ 軍中吹以催兵收兵</sent><!--'畵角'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="13a" n="03">纛</sent>
+<sent type="main" lang="kor" page="13a" n="03">大旗 ○ 驍騎之纛旗幅四方護軍之纛旗幅三角</sent>
+<sent type="main" lang="chi" page="13a" n="04">旗</sent>
+<sent type="main" lang="kor" page="13a" n="04">軍士之手旗</sent>
+<sent type="main" lang="chi" page="13a" n="05">纛旗幅</sent>
+<sent type="main" lang="kor" page="13a" n="05">通稱 旗幅</sent>
+<sent type="main" lang="chi" page="13a" n="06">蜈蚣纛</sent>
+<sent type="main" lang="kor" page="13a" n="06">旗邊幅之剪成鉅齒形者</sent>
+<sent type="main" lang="chi" page="13a-13b" n="07">旄</sent>
+<sent type="main" lang="kor" page="13a-13b" n="07">節之類以牛毛注於竿首者</sent>
+</pages>
+
+<pages n="13b">
+<img n="13b">https://kohico.kr/_media/image/18세기후기_한청문감/13b.jpg</img>
+<sent type="main" lang="chi" page="13b" n="01">纛纓</sent>
+<sent type="main" lang="kor" page="13b" n="01">大旗上紅纓</sent>
+<sent type="main" lang="chi" page="13b" n="02">纛頂</sent>
+<sent type="main" lang="kor" page="13b" n="02">纛頭三枝鎗</sent>
+<sent type="main" lang="chi" page="13b" n="03">梆子</sent>
+<sent type="main" lang="kor" page="13b" n="03">木析之類軍中擊以警衆者</sent>
+<sent type="main" lang="chi" page="13b" n="04">麻搭</sent>
+<sent type="main" lang="kor" page="13b" n="04">長桿繫麻浸水救火之具</sent>
+<sent type="main" lang="chi" page="13b" n="05">擠桶</sent>
+<sent type="main" lang="kor" page="13b" n="05">救火水車</sent>
+<sent type="title3" lang="chi" page="13b" n="06">製造軍器類 四則</sent>
+</pages>
+
+<pages n="14a">
+<img n="14a">https://kohico.kr/_media/image/18세기후기_한청문감/14a.jpg</img>
+<sent type="main" lang="chi" page="14a" n="01">砍弓胎</sent>
+<sent type="main" lang="kor" page="14a" n="01">궁소 ᄆᆡᆫ드다</sent>
+<sent type="main" lang="chi" page="14a" n="02">安弓弰</sent>
+<sent type="main" lang="kor" page="14a" n="02">고재 부치다</sent>
+<sent type="main" lang="chi" page="14a" n="03">鋪筋</sent>
+<sent type="main" lang="kor" page="14a" n="03">힘 놋타</sent>
+<sent type="main" lang="chi" page="14a" n="04">釘弓面</sent>
+<sent type="main" lang="kor" page="14a" n="04">ᄲᅮᆯ 부치다</sent>
+<sent type="main" lang="chi" page="14a" n="05">釘弓弝</sent>
+<sent type="main" lang="kor" page="14a" n="05">좀 박다</sent>
+<sent type="main" lang="chi" page="14a" n="06">黏弓墊</sent>
+<sent type="main" lang="kor" page="14a" n="06">도고리 부치다</sent>
+<sent type="main" lang="chi" page="14a" n="07">打磨弓面</sent>
+<sent type="main" lang="kor" page="14a" n="07">ᄲᅮᆯ 빗 내다</sent>
+</pages>
+
+<pages n="14b">
+<img n="14b">https://kohico.kr/_media/image/18세기후기_한청문감/14b.jpg</img>
+<sent type="main" lang="chi" page="14b" n="01">下鰾</sent>
+<sent type="main" lang="kor" page="14b" n="01">부레 소로다</sent>
+<sent type="main" lang="chi" page="14b" n="02">畵樺皮</sent>
+<sent type="main" lang="kor" page="14b" n="02">봇 닙히다</sent>
+<sent type="main" lang="chi" page="14b" n="03">配弓弦</sent>
+<sent type="main" lang="kor" page="14b" n="03">시위 언ㅅ다</sent>
+<sent type="main" lang="chi" page="14b" n="04">纏筋</sent>
+<sent type="main" lang="kor" page="14b" n="04">힘 감다</sent>
+<sent type="main" lang="chi" page="14b" n="05">輭處鋪筋</sent>
+<sent type="main" lang="kor" page="14b" n="05">무른 ᄃᆡ 힘 더 놋타</sent>
+<sent type="main" lang="chi" page="14b" n="06">帮貼折處</sent>
+<sent type="main" lang="kor" page="14b" n="06">활에 돈 나모 붓치다</sent>
+<sent type="main" lang="chi" page="14b" n="07">重貼壞處</sent>
+<sent type="main" lang="kor" page="14b" n="07">通稱 샹ᄒᆞᆫ ᄃᆡ ᄊᆞ붓치다</sent>
+</pages>
+
+<pages n="15a">
+<img n="15a">https://kohico.kr/_media/image/18세기후기_한청문감/15a.jpg</img>
+<sent type="main" lang="chi" page="15a" n="01">上弓</sent>
+<sent type="main" lang="kor" page="15a" n="01">도지게로 활 짓다</sent>
+<sent type="main" lang="chi" page="15a" n="02">搬上弓</sent>
+<sent type="main" lang="kor" page="15a" n="02">무롭흐로 활 짓다</sent>
+<sent type="main" lang="chi" page="15a" n="03">腿彆上弓</sent>
+<sent type="main" lang="kor" page="15a" n="03">다리에 ᄭᅵ이고 활 짓다</sent>
+<sent type="main" lang="chi" page="15a" n="04">端弓</sent>
+<sent type="main" lang="kor" page="15a" n="04">활 좀 잡다</sent>
+<sent type="main" lang="chi" page="15a" n="05">彈絃試弓</sent>
+<sent type="main" lang="kor" page="15a" n="05">시위 토겨 보다</sent>
+<sent type="main" lang="chi" page="15a" n="06">卸弓</sent>
+<sent type="main" lang="kor" page="15a" n="06">활 지우다</sent>
+<sent type="main" lang="chi" page="15a" n="07">飜身</sent>
+<sent type="main" lang="kor" page="15a" n="07">활 뒤쳐지다</sent>
+</pages>
+
+<pages n="15b">
+<img n="15b">https://kohico.kr/_media/image/18세기후기_한청문감/15b.jpg</img>
+<sent type="main" lang="chi" page="15b" n="01">摺身</sent>
+<sent type="main" lang="kor" page="15b" n="01">활 욱이다</sent>
+<sent type="main" lang="chi" page="15b" n="02">弓彆</sent>
+<sent type="main" lang="kor" page="15b" n="02">시위 눅다</sent>
+<sent type="main" lang="chi" page="15b" n="03">弓飽</sent>
+<sent type="main" lang="kor" page="15b" n="03">시위 져르다</sent>
+<sent type="main" lang="chi" page="15b" n="04">弓挺</sent>
+<sent type="main" lang="kor" page="15b" n="04">활동 발라 다 긋지 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="15b" n="05">弓硬</sent>
+<sent type="main" lang="kor" page="15b" n="05">활 세다</sent>
+<sent type="main" lang="chi" page="15b" n="06">弓輭</sent>
+<sent type="main" lang="kor" page="15b" n="06">활 무르다</sent>
+<sent type="main" lang="chi" page="15b" n="07">弓沒底子</sent>
+<sent type="main" lang="kor" page="15b" n="07">활 물러 과히 드러오다</sent>
+<sent type="main" lang="chi" page="15b" n="08">弓有底子</sent>
+<sent type="main" lang="kor" page="15b" n="08">활 세여 들어오지 아니타</sent>
+<sent type="main" lang="chi" page="15b" n="09">弓半邊輭</sent>
+<sent type="main" lang="kor" page="15b" n="09">활 ᄒᆞᆫ 편 무르다</sent>
+</pages>
+
+<pages n="16a">
+<img n="16a">https://kohico.kr/_media/image/18세기후기_한청문감/16a.jpg</img>
+<sent type="main" lang="chi" page="16a" n="01">弓半邊硬</sent>
+<sent type="main" lang="kor" page="16a" n="01">활 ᄒᆞᆫ 편 세다</sent>
+<sent type="main" lang="chi" page="16a" n="02">弓歪</sent>
+<sent type="main" lang="kor" page="16a" n="02">활 고재 비우다</sent>
+<sent type="main" lang="chi" page="16a" n="03">弓弝膀子</sent>
+<sent type="main" lang="kor" page="16a" n="03">좀 두 녑</sent>
+<sent type="main" lang="chi" page="16a" n="04">箭溜子</sent>
+<sent type="main" lang="kor" page="16a" n="04">좀피에 세워 부친 가족</sent>
+<sent type="main" lang="chi" page="16a" n="05">弓胎兩身</sent>
+<sent type="main" lang="kor" page="16a" n="05">활 냥 편에 붓친 ᄲᅮᆯ</sent>
+<sent type="main" lang="chi" page="16a" n="06">弓弰揷口</sent>
+<sent type="main" lang="kor" page="16a" n="06">활에 엄소</sent>
+<sent type="main" lang="chi" page="16a" n="07">弓腦</sent>
+<sent type="main" lang="kor" page="16a" n="07">활 고자 부친 곳</sent>
+<sent type="main" lang="chi" page="16a" n="08">弓弰揷口凹處</sent>
+<sent type="main" lang="kor" page="16a" n="08">도고리 뒤 아귀</sent>
+</pages>
+
+<pages n="16b">
+<img n="16b">https://kohico.kr/_media/image/18세기후기_한청문감/16b.jpg</img>
+<sent type="main" lang="chi" page="16b" n="01">弓弰</sent>
+<sent type="main" lang="kor" page="16b" n="01">활 고자</sent>
+<sent type="main" lang="chi" page="16b" n="02">弰頭</sent>
+<sent type="main" lang="kor" page="16b" n="02">고자ᄭᅳᆺ 시위 언ᄂᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="03">扣子</sent>
+<sent type="main" lang="kor" page="16b" n="03">살 오ᄂᆡ</sent>
+<sent type="main" lang="chi" page="16b" n="04">弓墊子</sent>
+<sent type="main" lang="kor" page="16b" n="04">도고리</sent>
+<sent type="main" lang="chi" page="16b" n="05">弓弦</sent>
+<sent type="main" lang="kor" page="16b" n="05">활 시위</sent>
+<sent type="main" lang="chi" page="16b" n="06">弦挌搭</sent>
+<sent type="main" lang="kor" page="16b" n="06">시위 ᄆᆡ듭</sent>
+<sent type="main" lang="chi" page="16b" n="07">弓拿子</sent>
+<sent type="main" lang="kor" page="16b" n="07">도지게</sent>
+<sent type="main" lang="chi" page="16b" n="08">弓套子</sent>
+<sent type="main" lang="kor" page="16b" n="08">활집</sent>
+</pages>
+
+<pages n="17a">
+<img n="17a">https://kohico.kr/_media/image/18세기후기_한청문감/17a.jpg</img>
+<sent type="main" lang="chi" page="17a" n="01">推荒桿</sent>
+<sent type="main" lang="kor" page="17a" n="01">살ㅅ대 것목 치다</sent>
+<sent type="main" lang="chi" page="17a" n="02">煨箭桿</sent>
+<sent type="main" lang="kor" page="17a" n="02">살ㅅ대 굽다</sent>
+<sent type="main" lang="chi" page="17a" n="03">端箭桿</sent>
+<sent type="main" lang="kor" page="17a" n="03">살ㅅ대 잡다</sent>
+<sent type="main" lang="chi" page="17a" n="04">挑箭扣</sent>
+<sent type="main" lang="kor" page="17a" n="04">오ᄂᆡ ᄑᆡ다</sent>
+<sent type="main" lang="chi" page="17a" n="05">安箭鐵</sent>
+<sent type="main" lang="kor" page="17a" n="05">살쵹 수메 박다</sent>
+<sent type="main" lang="chi" page="17a" n="06">下鰾安箭信子</sent>
+<sent type="main" lang="kor" page="17a" n="06">쵹 수메에 부레 칠ᄒᆞ여 박다</sent>
+<sent type="main" lang="chi" page="17a-17b" n="07">安骲頭</sent>
+<sent type="main" lang="kor" page="17a-17b" n="07">고도리에 살ㅅ대 맛초다</sent>
+</pages>
+
+<pages n="17b">
+<img n="17b">https://kohico.kr/_media/image/18세기후기_한청문감/17b.jpg</img>
+<sent type="main" lang="chi" page="17b" n="01">刮箭桿兩頭</sent>
+<sent type="main" lang="kor" page="17b" n="01">살ㅅ대 두 ᄭᅳᆺ ᄭᅡᆨ다</sent>
+<sent type="main" lang="chi" page="17b" n="02">信扣纏筋</sent>
+<sent type="main" lang="kor" page="17b" n="02">살 밋흘 힘으로 감다</sent>
+<sent type="main" lang="chi" page="17b" n="03">砑平</sent>
+<sent type="main" lang="kor" page="17b" n="03">힘 감은 ᄃᆡ 닥다</sent>
+<sent type="main" lang="chi" page="17b" n="04">刮箭桿</sent>
+<sent type="main" lang="kor" page="17b" n="04">살ㅅ대 긁다</sent>
+<sent type="main" lang="chi" page="17b" n="05">莝草打磨</sent>
+<sent type="main" lang="kor" page="17b" n="05">속새질ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="17b" n="06">裹樺皮</sent>
+<sent type="main" lang="kor" page="17b" n="06">살 오ᄂᆡ에 봇 ᄊᆞ다</sent>
+</pages>
+
+<pages n="18a">
+<img n="18a">https://kohico.kr/_media/image/18세기후기_한청문감/18a.jpg</img>
+<sent type="main" lang="chi" page="18a" n="01">纏絨</sent>
+<sent type="main" lang="kor" page="18a" n="01">살 오ᄂᆡ에 실 감다</sent>
+<sent type="main" lang="chi" page="18a" n="02">畵桃皮</sent>
+<sent type="main" lang="kor" page="18a" n="02">살에 도피 닙히다</sent>
+<sent type="main" lang="chi" page="18a" n="03">擰箭翎</sent>
+<sent type="main" lang="kor" page="18a" n="03">살 짓 부치다</sent>
+<sent type="main" lang="chi" page="18a" n="04">砑箭翎</sent>
+<sent type="main" lang="kor" page="18a" n="04">살 짓 조로다</sent>
+<sent type="main" lang="chi" page="18a" n="05">捻箭桿</sent>
+<sent type="main" lang="kor" page="18a" n="05">살ㅅ대 돌녀 보다</sent>
+<sent type="main" lang="chi" page="18a" n="06">捻着直</sent>
+<sent type="main" lang="kor" page="18a" n="06">도롬 잘 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="18a" n="07">火燎箭桿</sent>
+<sent type="main" lang="kor" page="18a" n="07">살ㅅ대 싸 굽다</sent>
+</pages>
+
+<pages n="18b">
+<img n="18b">https://kohico.kr/_media/image/18세기후기_한청문감/18b.jpg</img>
+<sent type="main" lang="chi" page="18b" n="01">接箭桿</sent>
+<sent type="main" lang="kor" page="18b" n="01">부러진 살ㅅ 대 닛다</sent>
+<sent type="main" lang="chi" page="18b" n="02">打磨見新</sent>
+<sent type="main" lang="kor" page="18b" n="02">ᄂᆞᆰ은 살ㅅ대 닥다</sent>
+<sent type="main" lang="chi" page="18b" n="03">揷箭</sent>
+<sent type="main" lang="kor" page="18b" n="03">ᄯᅡᄒᆡ 살 ᄭᅩᆺ다</sent>
+<sent type="main" lang="chi" page="18b" n="04">𨰭上釘橫釘</sent>
+<sent type="main" lang="kor" page="18b" n="04">ᄌᆞᄅᆞ에 빈혀 박다</sent>
+<sent type="main" lang="chi" page="18b" n="05">釘結實</sent>
+<sent type="main" lang="kor" page="18b" n="05">ᄃᆞᆫᄃᆞᆫ이 박다</sent>
+<sent type="main" lang="chi" page="18b" n="06">兎兒叉上圓鼓肚</sent>
+<sent type="main" lang="kor" page="18b" n="06">虎爪 부친 나모</sent>
+</pages>
+
+<pages n="19a">
+<img n="19a">https://kohico.kr/_media/image/18세기후기_한청문감/19a.jpg</img>
+<sent type="main" lang="chi" page="19a" n="01">兎兒叉上哨子</sent>
+<sent type="main" lang="kor" page="19a" n="01">거리 살 ᄭᅳᆺᄒᆡ 믈린 고도리</sent>
+<sent type="main" lang="chi" page="19a" n="02">兎兒叉上鐵挌搭</sent>
+<sent type="main" lang="kor" page="19a" n="02">虎爪 ᄭᅳᆺᄒᆡ 부친 쇠</sent>
+<sent type="main" lang="chi" page="19a" n="03">箭鐵寬肩</sent>
+<sent type="main" lang="kor" page="19a" n="03">살쵹 너ᄅᆞᆫ 편</sent>
+<sent type="main" lang="chi" page="19a" n="04">箭鐵兩刃</sent>
+<sent type="main" lang="kor" page="19a" n="04">살쵹 두 편 ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="19a" n="05">箭鐵脊</sent>
+<sent type="main" lang="kor" page="19a" n="05">살쵹 ᄆᆞᄅᆞ</sent>
+<sent type="main" lang="chi" page="19a" n="06">梅針箭鐵挺</sent>
+<sent type="main" lang="kor" page="19a" n="06">살쵹과 수메 두 ᄉᆞ이</sent>
+<sent type="main" lang="chi" page="19a" n="07">箭鐵信子</sent>
+<sent type="main" lang="kor" page="19a" n="07">살쵹 수메</sent>
+</pages>
+
+<pages n="19b">
+<img n="19b">https://kohico.kr/_media/image/18세기후기_한청문감/19b.jpg</img>
+<sent type="main" lang="chi" page="19b" n="01">箭鐵信根</sent>
+<sent type="main" lang="kor" page="19b" n="01">살쵹 수메 밋</sent>
+<sent type="main" lang="chi" page="19b" n="02">一副箭翎</sent>
+<sent type="main" lang="kor" page="19b" n="02">살 짓 ᄒᆞᆫ 부</sent>
+<sent type="main" lang="chi" page="19b" n="03">一披箭翎</sent>
+<sent type="main" lang="kor" page="19b" n="03">살 짓 ᄒᆞᆫ ᄶᅩᆨ</sent>
+<sent type="main" lang="chi" page="19b" n="04">搬指</sent>
+<sent type="main" lang="kor" page="19b" n="04">각지</sent>
+<sent type="main" lang="chi" page="19b" n="05">準</sent>
+<sent type="main" lang="kor" page="19b" n="05">무겁엣 표</sent>
+<sent type="main" lang="chi" page="19b" n="06">箭把子</sent>
+<sent type="main" lang="kor" page="19b" n="06">관혁</sent>
+<sent type="main" lang="chi" page="19b" n="07">布把子</sent>
+<sent type="main" lang="kor" page="19b" n="07">布帿</sent>
+<sent type="main" lang="chi" page="19b" n="08">鼓子</sent>
+<sent type="main" lang="kor" page="19b" n="08">방혁</sent>
+</pages>
+
+<pages n="20a">
+<img n="20a">https://kohico.kr/_media/image/18세기후기_한청문감/20a.jpg</img>
+<sent type="main" lang="chi" page="20a" n="01">紅心</sent>
+<sent type="main" lang="kor" page="20a" n="01">관</sent>
+<sent type="main" lang="chi" page="20a" n="02">法子</sent>
+<sent type="main" lang="kor" page="20a" n="02">관혁 가온ᄃᆡ 구무에 북 ᄃᆞᄂᆞᆫ 틀</sent>
+<sent type="main" lang="chi" page="20a" n="03">法口</sent>
+<sent type="main" lang="kor" page="20a" n="03">관혁 가온ᄃᆡ 구무</sent>
+<sent type="main" lang="chi" page="20a" n="04">箭攩子</sent>
+<sent type="main" lang="kor" page="20a" n="04">관혁 뒤에 살 막ᄂᆞᆫ 것</sent>
+<sent type="main" lang="chi" page="20a" n="05">馬箭帽子</sent>
+<sent type="main" lang="kor" page="20a" n="05">긔추 관혁에 쓰인 것</sent>
+<sent type="main" lang="chi" page="20a" n="06">刀護手</sent>
+<sent type="main" lang="kor" page="20a" n="06">양마 쇠</sent>
+<sent type="main" lang="chi" page="20a" n="07">刀呑口</sent>
+<sent type="main" lang="kor" page="20a" n="07">ᄂᆞᆯ 밋ᄒᆡ 닙힌 쇠</sent>
+</pages>
+
+<pages n="20b">
+<img n="20b">https://kohico.kr/_media/image/18세기후기_한청문감/20b.jpg</img>
+<sent type="main" lang="chi" page="20b" n="01">刀把頂束</sent>
+<sent type="main" lang="kor" page="20b" n="01">칼 ᄌᆞᄅᆞ 웃막이</sent>
+<sent type="main" lang="chi" page="20b" n="02">刀把束</sent>
+<sent type="main" lang="kor" page="20b" n="02">칼 ᄌᆞᄅᆞ 아ᄅᆡㅅ막이</sent>
+<sent type="main" lang="chi" page="20b" n="03">刀鞘</sent>
+<sent type="main" lang="kor" page="20b" n="03">칼집</sent>
+<sent type="main" lang="chi" page="20b" n="04">釘刀根鐵</sent>
+<sent type="main" lang="kor" page="20b" n="04">칼 수메에 빈혀ㅅ 쇠</sent>
+<sent type="main" lang="chi" page="20b" n="05">刀鞘中束</sent>
+<sent type="main" lang="kor" page="20b" n="05">칼집 가온ᄃᆡ 가락지</sent>
+<sent type="main" lang="chi" page="20b" n="06">刀鞘底束</sent>
+<sent type="main" lang="kor" page="20b" n="06">칼집 ᄭᅳᆺ 마구리</sent>
+<sent type="main" lang="chi" page="20b" n="07">鞘上雙眼束樑</sent>
+<sent type="main" lang="kor" page="20b" n="07">칼집 ᄭᅮ민 긴 쇠</sent>
+</pages>
+
+<pages n="21a">
+<img n="21a">https://kohico.kr/_media/image/18세기후기_한청문감/21a.jpg</img>
+<sent type="main" lang="chi" page="21a" n="01">yaodaoxizi 腰刀繫子</sent>
+<sent type="main" lang="kor" page="21a" n="01"> K#환도 ᄭᅵᆫ</sent>
+<sent type="title3" lang="chi" page="21a" n="02">撒袋弓靫類 一則</sent>
+<sent type="main" lang="chi" page="21a" n="03">sadai 撒袋</sent>
+<sent type="main" lang="kor" page="21a" n="03"> K#살 동개</sent>
+<sent type="main" lang="chi" page="21a" n="04">shuaicha 摔靫</sent>
+<sent type="main" lang="kor" page="21a" n="04"> K#살 동개에 붓흔 젹은 동개</sent>
+<sent type="main" lang="chi" page="21a" n="05">sadaineichenge 撒袋內襯格</sent>
+<sent type="main" lang="kor" page="21a" n="05"> K#동개 속에 살 ᄭᅩᆺᄂᆞᆫ 담</sent>
+<sent type="main" lang="chi" page="21a" n="06">gongcha 弓靫</sent>
+<sent type="main" lang="kor" page="21a" n="06"> K#활 동개</sent>
+</pages>
+
+<pages n="21b">
+<img n="21b">https://kohico.kr/_media/image/18세기후기_한청문감/21b.jpg</img>
+<sent type="main" lang="chi" page="21b" n="01">鞓帶</sent>
+<sent type="main" lang="kor" page="21b" n="01">동개 ᄭᅵᆫ</sent>
+<sent type="main" lang="chi" page="21b" n="02">襯帶</sent>
+<sent type="main" lang="kor" page="21b" n="02">腰帶</sent>
+<sent type="main" lang="chi" page="21b" n="03">飾件</sent>
+<sent type="main" lang="kor" page="21b" n="03">通稱 장식</sent>
+<sent type="main" lang="chi" page="21b" n="04">帶鉤</sent>
+<sent type="main" lang="kor" page="21b" n="04">동개 ᄭᅵᆫ에 갈구리</sent>
+<sent type="main" lang="chi" page="21b" n="05">帶鉤眼錢</sent>
+<sent type="main" lang="kor" page="21b" n="05">동개 ᄭᅵᆫ ᄌᆞ무ᄂᆞᆫ 쇠</sent>
+<sent type="main" lang="chi" page="21b" n="06">蝙蝠飾件</sent>
+<sent type="main" lang="kor" page="21b" n="06">동개에 ᄭᅵᆫ ᄆᆡᄂᆞᆫ 쇠</sent>
+<sent type="main" lang="chi" page="21b" n="07">兜底飾件</sent>
+<sent type="main" lang="kor" page="21b" n="07">동개 밋ᄒᆡ 박은 긴 쇠</sent>
+</pages>
+
+<pages n="22a">
+<img n="22a">https://kohico.kr/_media/image/18세기후기_한청문감/22a.jpg</img>
+<sent type="main" lang="chi" page="22a" n="01">中間飾件</sent>
+<sent type="main" lang="kor" page="22a" n="01">동개 가온ᄃᆡ 장식</sent>
+<sent type="main" lang="chi" page="22a" n="02">箭眼飾件</sent>
+<sent type="main" lang="kor" page="22a" n="02">살 ᄭᅩᆺᄂᆞᆫ 구무 아ᄅᆡ 박ᄂᆞᆫ 세 조각 쇠</sent>
+<sent type="main" lang="chi" page="22a" n="03">鳥翅環</sent>
+<sent type="main" lang="kor" page="22a" n="03">동개 골희</sent>
+<sent type="main" lang="chi" page="22a" n="04">背的箭桶</sent>
+<sent type="main" lang="kor" page="22a" n="04">등에 지ᄂᆞᆫ 젼동</sent>
+<sent type="main" lang="chi" page="22a" n="05">箭桶</sent>
+<sent type="main" lang="kor" page="22a" n="05">가족 箭桶</sent><!--'箭桶'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="22a" n="06">小箭桶</sent>
+<sent type="main" lang="kor" page="22a" n="06">小箭桶</sent><!--'小箭桶'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="22b">
+<img n="22b">https://kohico.kr/_media/image/18세기후기_한청문감/22b.jpg</img>
+<sent type="main" lang="chi" page="22b" n="01">箭罩</sent>
+<sent type="main" lang="kor" page="22b" n="01">살 우비</sent>
+<sent type="main" lang="chi" page="22b" n="02">弓罩</sent>
+<sent type="main" lang="kor" page="22b" n="02">활 우비</sent>
+<sent type="title3" lang="chi" page="22b" n="03">鞍轡類 二則</sent>
+<sent type="main" lang="chi" page="22b" n="04">鞍</sent>
+<sent type="main" lang="kor" page="22b" n="04">기르마</sent>
+<sent type="main" lang="chi" page="22b" n="05">方腦鞍</sent>
+<sent type="main" lang="kor" page="22b" n="05">가지 뮌틋ᄒᆞᆫ 기르마</sent>
+<sent type="main" lang="chi" page="22b" n="06">尖腦鞍</sent>
+<sent type="main" lang="kor" page="22b" n="06">가지 ᄲᅭ죡ᄒᆞᆫ 기르마</sent>
+<sent type="main" lang="chi" page="22b-23a" n="07">架鞍</sent>
+<sent type="main" lang="kor" page="22b-23a" n="07">어린 아ᄒᆡ ᄐᆞᄂᆞᆫ 기르마</sent><!--어린 아ᄒᆡ ᄐᆞᄂᆞᆫ 기르^마-->
+</pages>
+
+<pages n="23a">
+<img n="23a">https://kohico.kr/_media/image/18세기후기_한청문감/23a.jpg</img>
+<sent type="main" lang="chi" page="23a" n="01">車鞍</sent>
+<sent type="main" lang="kor" page="23a" n="01">술위 메오ᄂᆞᆫ 기르마</sent>
+<sent type="main" lang="chi" page="23a" n="02">馱鞍</sent>
+<sent type="main" lang="kor" page="23a" n="02">짐 기르마</sent>
+<sent type="main" lang="chi" page="23a" n="03">弔屉鞍</sent>
+<sent type="main" lang="kor" page="23a" n="03">ᄧᅡᆨ 언치ᄒᆞᆫ 기르마</sent>
+<sent type="main" lang="chi" page="23a" n="04">鞍翅</sent>
+<sent type="main" lang="kor" page="23a" n="04">둥울</sent>
+<sent type="main" lang="chi" page="23a" n="05">鞍喬</sent>
+<sent type="main" lang="kor" page="23a" n="05">기르마 가지</sent>
+<sent type="main" lang="chi" page="23a" n="06">後鞍喬</sent>
+<sent type="main" lang="kor" page="23a" n="06">기르마 뒤ㅅ 가지</sent>
+<sent type="main" lang="chi" page="23a-23b" n="07">鞍縵</sent>
+<sent type="main" lang="kor" page="23a-23b" n="07">기르마 안 편 뷘 곳</sent><!--기르마 안 ^ 편 뷘 곳-->
+</pages>
+
+<pages n="23b">
+<img n="23b">https://kohico.kr/_media/image/18세기후기_한청문감/23b.jpg</img>
+<sent type="main" lang="chi" page="23b" n="01">車鞍上鐵柱</sent>
+<sent type="main" lang="kor" page="23b" n="01">기르마에 걸피 거ᄂᆞᆫ 기동 쇠</sent>
+<sent type="main" lang="chi" page="23b" n="02">鞍板過樑皮</sent>
+<sent type="main" lang="kor" page="23b" n="02">걸피</sent>
+<sent type="main" lang="chi" page="23b" n="03">鐵攝子</sent>
+<sent type="main" lang="kor" page="23b" n="03">등피 혀 쇠</sent>
+<sent type="main" lang="chi" page="23b" n="04">拴鞍板皮條</sent>
+<sent type="main" lang="kor" page="23b" n="04">앏뒤 가지에 둥울 ᄆᆡᆫ 가족</sent>
+<sent type="main" lang="chi" page="23b" n="05">稍繩</sent>
+<sent type="main" lang="kor" page="23b" n="05">간지개</sent>
+<sent type="main" lang="chi" page="23b" n="06">肚帶</sent>
+<sent type="main" lang="kor" page="23b" n="06">ᄇᆡㅅ 대</sent>
+</pages>
+
+<pages n="24a">
+<img n="24a">https://kohico.kr/_media/image/18세기후기_한청문감/24a.jpg</img>
+<sent type="main" lang="chi" page="24a" n="01">弔肚</sent>
+<sent type="main" lang="kor" page="24a" n="01">뒤 ᄇᆡㅅ대</sent>
+<sent type="main" lang="chi" page="24a" n="02">扯肚</sent>
+<sent type="main" lang="kor" page="24a" n="02">ᄇᆡㅅ대 ᄌᆞ르ᄂᆞᆫ 가족</sent>
+<sent type="main" lang="chi" page="24a" n="03">肚帶鏟子</sent>
+<sent type="main" lang="kor" page="24a" n="03">ᄇᆡㅅ대 골희에 혀 쇠</sent>
+<sent type="main" lang="chi" page="24a" n="04">小鏟子</sent>
+<sent type="main" lang="kor" page="24a" n="04">쥬피 혀 쇠</sent>
+<sent type="main" lang="chi" page="24a" n="05">鞍座子</sent>
+<sent type="main" lang="kor" page="24a" n="05">안ᄌᆞ</sent>
+<sent type="main" lang="chi" page="24a" n="06">韂</sent>
+<sent type="main" lang="kor" page="24a" n="06">ᄃᆞ래</sent>
+<sent type="main" lang="chi" page="24a" n="07">鐙磨</sent>
+<sent type="main" lang="kor" page="24a" n="07">져광피</sent>
+<sent type="main" lang="chi" page="24a-24b" n="08">韂托</sent><!--韂^托-->
+<sent type="main" lang="kor" page="24a-24b" n="08">담으로 션 두른 ᄃᆞ래</sent>
+</pages>
+
+<pages n="24b">
+<img n="24b">https://kohico.kr/_media/image/18세기후기_한청문감/24b.jpg</img>
+<sent type="main" lang="chi" page="24b" n="01">屉</sent>
+<sent type="main" lang="kor" page="24b" n="01">언치</sent>
+<sent type="main" lang="chi" page="24b" n="02">駱駝屉</sent>
+<sent type="main" lang="kor" page="24b" n="02">약ᄃᆡ 언치</sent>
+<sent type="main" lang="chi" page="24b" n="03">鞍籠</sent>
+<sent type="main" lang="kor" page="24b" n="03">鞍籠</sent><!--'鞍籠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="24b" n="04">鐙</sent>
+<sent type="main" lang="kor" page="24b" n="04">등ᄌᆞ</sent>
+<sent type="main" lang="chi" page="24b" n="05">鐙盤</sent>
+<sent type="main" lang="kor" page="24b" n="05">등ᄌᆞ 바탕</sent>
+<sent type="main" lang="chi" page="24b" n="06">鐙樑</sent>
+<sent type="main" lang="kor" page="24b" n="06">등ᄌᆞ 줄기</sent>
+<sent type="main" lang="chi" page="24b" n="07">鐙孔</sent>
+<sent type="main" lang="kor" page="24b" n="07">등ᄌᆞ 구무</sent>
+<sent type="main" lang="chi" page="24b" n="08">鐙上雲頭</sent>
+<sent type="main" lang="kor" page="24b" n="08">등ᄌᆞ 운두</sent>
+</pages>
+
+<pages n="25a">
+<img n="25a">https://kohico.kr/_media/image/18세기후기_한청문감/25a.jpg</img>
+<sent type="main" lang="chi" page="25a" n="01">轡</sent>
+<sent type="main" lang="kor" page="25a" n="01">구레</sent>
+<sent type="main" lang="chi" page="25a" n="02">搭腦</sent>
+<sent type="main" lang="kor" page="25a" n="02">구레 ᄭᅩᆨ듸거리</sent>
+<sent type="main" lang="chi" page="25a" n="03">兜口</sent>
+<sent type="main" lang="kor" page="25a" n="03">쟈감이</sent>
+<sent type="main" lang="chi" page="25a" n="04">鼻花</sent>
+<sent type="main" lang="kor" page="25a" n="04">앏 솟동</sent>
+<sent type="main" lang="chi" page="25a" n="05">腮花</sent>
+<sent type="main" lang="kor" page="25a" n="05">구레 녑 쇠</sent>
+<sent type="main" lang="chi" page="25a" n="06">鐵拉扯</sent>
+<sent type="main" lang="kor" page="25a" n="06">구레 녑 다림 쇠</sent>
+<sent type="main" lang="chi" page="25a" n="07">提嚼</sent>
+<sent type="main" lang="kor" page="25a" n="07">마함 골희에 다림 쇠</sent>
+<sent type="main" lang="chi" page="25a" n="08">嚼子</sent>
+<sent type="main" lang="kor" page="25a" n="08">마함</sent>
+</pages>
+
+<pages n="25b">
+<img n="25b">https://kohico.kr/_media/image/18세기후기_한청문감/25b.jpg</img>
+<sent type="main" lang="chi" page="25b" n="01">拴蘸鐵</sent>
+<sent type="main" lang="kor" page="25b" n="01">마함 골희에 혁 ᄆᆡᄂᆞᆫ 쇠</sent>
+<sent type="main" lang="chi" page="25b" n="02">蘸水</sent>
+<sent type="main" lang="kor" page="25b" n="02">혁 ᄆᆡᄂᆞᆫ 가족</sent>
+<sent type="main" lang="chi" page="25b" n="03">扯手</sent>
+<sent type="main" lang="kor" page="25b" n="03">혁</sent>
+<sent type="main" lang="chi" page="25b" n="04">偏韁</sent>
+<sent type="main" lang="kor" page="25b" n="04">곳비</sent>
+<sent type="main" lang="chi" page="25b" n="05">押韁</sent>
+<sent type="main" lang="kor" page="25b" n="05">겻 곳비</sent>
+<sent type="main" lang="chi" page="25b" n="06">攀胸</sent>
+<sent type="main" lang="kor" page="25b" n="06">가ᄉᆞᆷ거리</sent>
+<sent type="main" lang="chi" page="25b" n="07">緹胸</sent>
+<sent type="main" lang="kor" page="25b" n="07">쥬락</sent>
+<sent type="main" lang="chi" page="25b-26a" n="08">鞦</sent>
+<sent type="main" lang="kor" page="25b-26a" n="08">후거리</sent>
+</pages>
+
+<pages n="26a">
+<img n="26a">https://kohico.kr/_media/image/18세기후기_한청문감/26a.jpg</img>
+<sent type="main" lang="chi" page="26a" n="01">輭鞦</sent>
+<sent type="main" lang="kor" page="26a" n="01">된밀치</sent>
+<sent type="main" lang="chi" page="26a" n="02">鞦稍鐵牌</sent>
+<sent type="main" lang="kor" page="26a" n="02">후거리 ᄆᆡᄂᆞᆫ 가족</sent>
+<sent type="main" lang="chi" page="26a" n="03">鞦稍</sent>
+<sent type="main" lang="kor" page="26a" n="03">후거리 ᄭᅳᆺᄒᆡ 가족</sent>
+<sent type="main" lang="chi" page="26a" n="04">鞦根鉤鐵</sent>
+<sent type="main" lang="kor" page="26a" n="04">후거리 밋ᄒᆡ 갈고리</sent>
+<sent type="main" lang="chi" page="26a" n="05">鞦稍飾件</sent>
+<sent type="main" lang="kor" page="26a" n="05">후거리 ᄭᅳᆺᄒᆡ 장식</sent>
+<sent type="main" lang="chi" page="26a" n="06">抛糞</sent>
+<sent type="main" lang="kor" page="26a" n="06">밋막이</sent>
+<sent type="main" lang="chi" page="26a" n="07">鞦鋦子</sent>
+<sent type="main" lang="kor" page="26a" n="07">밀치 ᄃᆞᆫ 골희</sent>
+</pages>
+
+<pages n="26b">
+<img n="26b">https://kohico.kr/_media/image/18세기후기_한청문감/26b.jpg</img>
+<sent type="main" lang="chi" page="26b" n="01">玲瓏飾件</sent>
+<sent type="main" lang="kor" page="26b" n="01">긔화ᄒᆞᆫ 장식</sent>
+<sent type="main" lang="chi" page="26b" n="02">常行飾件</sent>
+<sent type="main" lang="kor" page="26b" n="02">좀 장식</sent>
+<sent type="main" lang="chi" page="26b" n="03">泡子飾件</sent>
+<sent type="main" lang="kor" page="26b" n="03">둥근 장식</sent>
+<sent type="main" lang="chi" page="26b" n="04">斜飾件</sent>
+<sent type="main" lang="kor" page="26b" n="04">욱은 장식</sent>
+<sent type="main" lang="chi" page="26b" n="05">平飾件</sent>
+<sent type="main" lang="kor" page="26b" n="05">평면 장식</sent>
+<sent type="main" lang="chi" page="26b" n="06">鞦轡靫子</sent>
+<sent type="main" lang="kor" page="26b" n="06">쥬피</sent>
+</pages>
+
+<pages n="27a">
+<img n="27a">https://kohico.kr/_media/image/18세기후기_한청문감/27a.jpg</img>
+<sent type="main" lang="chi" page="27a" n="01">鞭子</sent>
+<sent type="main" lang="kor" page="27a" n="01">通稱 채</sent>
+<sent type="main" lang="chi" page="27a" n="02">鞭桿</sent>
+<sent type="main" lang="kor" page="27a" n="02">채ㅅ대</sent>
+<sent type="main" lang="chi" page="27a" n="03">鞭穗</sent>
+<sent type="main" lang="kor" page="27a" n="03">채열</sent>
+<sent type="main" lang="chi" page="27a" n="04">挽手</sent>
+<sent type="main" lang="kor" page="27a" n="04">채ㅅ긴</sent>
+</pages>
+
+<pages n="28a">
+<img n="28a">https://kohico.kr/_media/image/18세기후기_한청문감/28a.jpg</img>
+<sent type="title2" lang="chi" page="28a" n="01">人部一 六類</sent>
+<sent type="title3" lang="chi" page="28a" n="01">人類 五則</sent>
+<sent type="main" lang="chi" page="28a" n="02">人</sent>
+<sent type="main" lang="kor" page="28a" n="02">사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="28a" n="03">漢人</sent>
+<sent type="main" lang="kor" page="28a" n="03">漢人</sent><!--'漢人'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="28a" n="04">高麗人</sent>
+<sent type="main" lang="kor" page="28a" n="04">朝鮮人</sent>
+<sent type="main" lang="chi" page="28a" n="05">滿洲</sent>
+<sent type="main" lang="kor" page="28a" n="05">太祖高皇帝姓愛新覺羅其先世居于長白山至高皇帝處于白山之東吾音會俄多里城建國号曰滿洲後徒赫圖阿刺卽今之興京也旁居諸部之或平或附者共六十六皆爲滿洲</sent><!--마지막의 '滿洲'는 반복 부호로 표기되어 있음--> 
+</pages>
+
+<pages n="28b">
+<img n="28b">https://kohico.kr/_media/image/18세기후기_한청문감/28b.jpg</img>
+<sent type="main" lang="chi" page="28b" n="01">滿洲臣僕</sent>
+<sent type="main" lang="kor" page="28b" n="01">野人之最後歸順者</sent>
+<sent type="main" lang="chi" page="28b" n="02">蒙古</sent>
+<sent type="main" lang="kor" page="28b" n="02">蒙古</sent><!--'蒙古'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="28b" n="03">民</sent>
+<sent type="main" lang="kor" page="28b" n="03">天下之人通謂之民</sent><!--'民'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="28b" n="04">百姓</sent>
+<sent type="main" lang="kor" page="28b" n="04">天下之人姓族甚繁故謂之百姓</sent><!--'百姓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="28b" n="05">黎民</sent>
+<sent type="main" lang="kor" page="28b" n="05">黎民卽黔首之意</sent><!--'黎民'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="28b" n="06">君子</sent>
+<sent type="main" lang="kor" page="28b" n="06">君子</sent><!--'君子'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="29a">
+<img n="29a">https://kohico.kr/_media/image/18세기후기_한청문감/29a.jpg</img>
+<sent type="main" lang="chi" page="29a" n="01">賢者</sent>
+<sent type="main" lang="kor" page="29a" n="01">어진 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="29a" n="02">大丈夫</sent>
+<sent type="main" lang="kor" page="29a" n="02">大丈夫</sent><!--'大丈夫'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="29a" n="03">隱士</sent>
+<sent type="main" lang="kor" page="29a" n="03">隱士</sent><!--'隱士'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="29a" n="04">儒</sent>
+<sent type="main" lang="kor" page="29a" n="04">션ᄇᆡ</sent>
+<sent type="main" lang="chi" page="29a" n="05">大儒</sent>
+<sent type="main" lang="kor" page="29a" n="05">큰 션ᄇᆡ</sent>
+<sent type="main" lang="chi" page="29a" n="06">文人</sent>
+<sent type="main" lang="kor" page="29a" n="06">글ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="29a" n="07">師傅</sent>
+<sent type="main" lang="kor" page="29a" n="07">通稱 스ᄉᆡᆼ</sent>
+<sent type="main" lang="chi" page="29a" n="08">徒弟</sent>
+<sent type="main" lang="kor" page="29a" n="08">通稱 弟子</sent>
+<sent type="main" lang="chi" page="29a" n="09">學生</sent>
+<sent type="main" lang="kor" page="29a" n="09">學徒</sent>
+</pages>
+
+<pages n="29b">
+<img n="29b">https://kohico.kr/_media/image/18세기후기_한청문감/29b.jpg</img>
+<sent type="main" lang="chi" page="29b" n="01">幕賓</sent>
+<sent type="main" lang="kor" page="29b" n="01">書記</sent>
+<sent type="main" lang="chi" page="29b" n="02">太監</sent>
+<sent type="main" lang="kor" page="29b" n="02">宦官</sent>
+<sent type="main" lang="chi" page="29b" n="03">當差人</sent>
+<sent type="main" lang="kor" page="29b" n="03">구실ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="29b" n="04">書吏</sent>
+<sent type="main" lang="kor" page="29b" n="04">書吏</sent><!--'書吏'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="29b" n="05">供事</sent>
+<sent type="main" lang="kor" page="29b" n="05">供給事役之人</sent>
+<sent type="main" lang="chi" page="29b" n="06">兵丁</sent>
+<sent type="main" lang="kor" page="29b" n="06">兵丁</sent><!--'兵丁'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="29b" n="07">校尉</sent>
+<sent type="main" lang="kor" page="29b" n="07">擡輦轎執儀仗者</sent>
+<sent type="main" lang="chi" page="29b-30a" n="08">舍人</sent><!--舍^人-->
+<sent type="main" lang="kor" page="29b-30a" n="08">倉內差役之人</sent>
+</pages>
+
+<pages n="30a">
+<img n="30a">https://kohico.kr/_media/image/18세기후기_한청문감/30a.jpg</img>
+<sent type="main" lang="chi" page="30a" n="01">皂隸</sent>
+<sent type="main" lang="kor" page="30a" n="01">ᄉᆞ령</sent>
+<sent type="main" lang="chi" page="30a" n="02">門子</sent>
+<sent type="main" lang="kor" page="30a" n="02">통인</sent>
+<sent type="main" lang="chi" page="30a" n="03">小馬</sent>
+<sent type="main" lang="kor" page="30a" n="03">各衙門看護官人之馬匹者</sent>
+<sent type="main" lang="chi" page="30a" n="04">夥伴</sent>
+<sent type="main" lang="kor" page="30a" n="04">通稱 동임</sent>
+<sent type="main" lang="chi" page="30a" n="05">傳事人</sent>
+<sent type="main" lang="kor" page="30a" n="05">傳報事情之人</sent>
+<sent type="main" lang="chi" page="30a" n="06">跑報人</sent>
+<sent type="main" lang="kor" page="30a" n="06">走報軍中事情之人</sent>
+<sent type="main" lang="chi" page="30a" n="07">馬牌子</sent>
+<sent type="main" lang="kor" page="30a" n="07">驛卒</sent>
+<sent type="main" lang="chi" page="30a-30b" n="08">走遞夫</sent><!--走^遞夫-->
+<sent type="main" lang="kor" page="30a-30b" n="08">步撥</sent>
+</pages>
+
+<pages n="30b">
+<img n="30b">https://kohico.kr/_media/image/18세기후기_한청문감/30b.jpg</img>
+<sent type="main" lang="chi" page="30b" n="01">承差</sent>
+<sent type="main" lang="kor" page="30b" n="01">通稱 差役</sent>
+<sent type="main" lang="chi" page="30b" n="02">捕役</sent>
+<sent type="main" lang="kor" page="30b" n="02">도적 잡ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="30b" n="03">庫丁</sent>
+<sent type="main" lang="kor" page="30b" n="03">各庫差役</sent>
+<sent type="main" lang="chi" page="30b" n="04">巡捕</sent>
+<sent type="main" lang="kor" page="30b" n="04">巡撿軍</sent>
+<sent type="main" lang="chi" page="30b" n="05">打更人</sent>
+<sent type="main" lang="kor" page="30b" n="05">更点軍</sent>
+<sent type="main" lang="chi" page="30b" n="06">仵作</sent>
+<sent type="main" lang="kor" page="30b" n="06">撿屍ᄒᆞᄂᆞᆫ 놈</sent>
+<sent type="main" lang="chi" page="30b" n="07">穩婆</sent>
+<sent type="main" lang="kor" page="30b" n="07">撿屍女 ○ 又 收生婆</sent>
+<sent type="main" lang="chi" page="30b" n="08">花戶</sent>
+<sent type="main" lang="kor" page="30b" n="08">倉內米穀斗量之人</sent>
+<sent type="main" lang="chi" page="30b" n="09">網戶</sent>
+<sent type="main" lang="kor" page="30b" n="09">漁夫</sent>
+</pages>
+
+<pages n="31a">
+<img n="31a">https://kohico.kr/_media/image/18세기후기_한청문감/31a.jpg</img>
+<sent type="main" lang="chi" page="31a" n="01">車戶</sent>
+<sent type="main" lang="kor" page="31a" n="01">預備官車之人</sent>
+<sent type="main" lang="chi" page="31a" n="02">車夫</sent>
+<sent type="main" lang="kor" page="31a" n="02">赶車之人</sent>
+<sent type="main" lang="chi" page="31a" n="03">經紀</sent>
+<sent type="main" lang="kor" page="31a" n="03">通稱 즈름</sent>
+<sent type="main" lang="chi" page="31a" n="04">人牙子</sent>
+<sent type="main" lang="kor" page="31a" n="04">人口 買賣ᄒᆞᄂᆞᆫ 즈름</sent>
+<sent type="main" lang="chi" page="31a" n="05">爐頭</sent>
+<sent type="main" lang="kor" page="31a" n="05">플무아치</sent>
+<sent type="main" lang="chi" page="31a" n="06">衩夫</sent>
+<sent type="main" lang="kor" page="31a" n="06">濬川役軍</sent>
+<sent type="main" lang="chi" page="31a" n="07">水手</sent>
+<sent type="main" lang="kor" page="31a" n="07">사공</sent>
+<sent type="main" lang="chi" page="31a" n="08">水脚役</sent>
+<sent type="main" lang="kor" page="31a" n="08">船上卜物擡扛之人</sent>
+</pages>
+
+<pages n="31b">
+<img n="31b">https://kohico.kr/_media/image/18세기후기_한청문감/31b.jpg</img>
+<sent type="main" lang="chi" page="31b" n="01">搭綵匠</sent>
+<sent type="main" lang="kor" page="31b" n="01">가유 ᄭᅮ미ᄂᆞᆫ 놈</sent>
+<sent type="main" lang="chi" page="31b" n="02">翻跳夫</sent>
+<sent type="main" lang="kor" page="31b" n="02">船上支橋之人</sent>
+<sent type="main" lang="chi" page="31b" n="03">牌頭</sent>
+<sent type="main" lang="kor" page="31b" n="03">十家統之首</sent>
+<sent type="main" lang="chi" page="31b" n="04">農夫</sent>
+<sent type="main" lang="kor" page="31b" n="04">農夫</sent><!--'農夫'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="31b" n="05">莊頭</sent>
+<sent type="main" lang="kor" page="31b" n="05">ᄆᆞ름</sent>
+<sent type="main" lang="chi" page="31b" n="06">園頭</sent>
+<sent type="main" lang="kor" page="31b" n="06">원두한이</sent>
+<sent type="main" lang="chi" page="31b" n="07">園戶</sent>
+<sent type="main" lang="kor" page="31b" n="07">동산직이</sent>
+<sent type="main" lang="chi" page="31b" n="08">工人</sent>
+<sent type="main" lang="kor" page="31b" n="08">通稱 役軍</sent>
+<sent type="main" lang="chi" page="31b" n="09">長工</sent>
+<sent type="main" lang="kor" page="31b" n="09">ᄒᆡㅅ 공젼 밧ᄂᆞᆫ 놈</sent>
+</pages>
+
+<pages n="32a">
+<img n="32a">https://kohico.kr/_media/image/18세기후기_한청문감/32a.jpg</img>
+<sent type="main" lang="chi" page="32a" n="01">短工</sent>
+<sent type="main" lang="kor" page="32a" n="01">날 공젼 밧ᄂᆞᆫ 놈</sent>
+<sent type="main" lang="chi" page="32a" n="02">僱工</sent>
+<sent type="main" lang="kor" page="32a" n="02">僱工</sent><!--'僱工'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="32a" n="03">匠人</sent>
+<sent type="main" lang="kor" page="32a" n="03">通稱 匠人</sent><!--'匠人'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="32a" n="04">木匠</sent>
+<sent type="main" lang="kor" page="32a" n="04">木手</sent>
+<sent type="main" lang="chi" page="32a" n="05">艌匠</sent>
+<sent type="main" lang="kor" page="32a" n="05">ᄇᆡ 틈 몌오ᄂᆞᆫ 놈</sent>
+<sent type="main" lang="chi" page="32a" n="06">瓦匠</sent>
+<sent type="main" lang="kor" page="32a" n="06">瓦匠</sent><!--'瓦匠'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="32a" n="07">商人</sent>
+<sent type="main" lang="kor" page="32a" n="07">通稱 商賈</sent>
+<sent type="main" lang="chi" page="32a" n="08">買賣人</sent>
+<sent type="main" lang="kor" page="32a" n="08">흥졍아치</sent>
+</pages>
+
+<pages n="32b">
+<img n="32b">https://kohico.kr/_media/image/18세기후기_한청문감/32b.jpg</img>
+<sent type="main" lang="chi" page="32b" n="01">販子</sent>
+<sent type="main" lang="kor" page="32b" n="01">도보 쟝ᄉᆞ</sent>
+<sent type="main" lang="chi" page="32b" n="02">打牲人</sent>
+<sent type="main" lang="kor" page="32b" n="02">산장이</sent>
+<sent type="main" lang="chi" page="32b" n="03">鷹把式</sent>
+<sent type="main" lang="kor" page="32b" n="03">슈왈ᄶᅵ</sent>
+<sent type="main" lang="chi" page="32b" n="04">樹戶</sent>
+<sent type="main" lang="kor" page="32b" n="04">나모 심으ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="32b" n="05">樵夫</sent>
+<sent type="main" lang="kor" page="32b" n="05">樵夫</sent><!--'樵夫'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="32b" n="06">放馬人</sent>
+<sent type="main" lang="kor" page="32b" n="06">牧子</sent>
+<sent type="main" lang="chi" page="32b" n="07">牛羊吏</sent>
+<sent type="main" lang="kor" page="32b" n="07">祭享牲畜喂養之人</sent>
+<sent type="main" lang="chi" page="32b" n="08">廚子</sent>
+<sent type="main" lang="kor" page="32b" n="08">슉슈</sent>
+</pages>
+
+<pages n="33a">
+<img n="33a">https://kohico.kr/_media/image/18세기후기_한청문감/33a.jpg</img>
+<sent type="main" lang="chi" page="33a" n="01">喇嘛</sent>
+<sent type="main" lang="kor" page="33a" n="01">西番僧</sent>
+<sent type="main" lang="chi" page="33a" n="02">女喇嘛</sent>
+<sent type="main" lang="kor" page="33a" n="02">西番女僧</sent>
+<sent type="main" lang="chi" page="33a" n="03">道士</sent>
+<sent type="main" lang="kor" page="33a" n="03">道士</sent><!--'道士'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="33a" n="04">女冠</sent>
+<sent type="main" lang="kor" page="33a" n="04">女道士</sent>
+<sent type="main" lang="chi" page="33a" n="05">和尙</sent>
+<sent type="main" lang="kor" page="33a" n="05">즁</sent>
+<sent type="main" lang="chi" page="33a" n="06">尼僧</sent>
+<sent type="main" lang="kor" page="33a" n="06">승</sent>
+<sent type="main" lang="chi" page="33a" n="07">師兄</sent>
+<sent type="main" lang="kor" page="33a" n="07">僧道徒弟相呼之稱</sent>
+</pages>
+
+<pages n="33b">
+<img n="33b">https://kohico.kr/_media/image/18세기후기_한청문감/33b.jpg</img>
+<sent type="main" lang="chi" page="33b" n="01">師弟</sent>
+<sent type="main" lang="kor" page="33b" n="01">僧道徒弟自稱之語</sent>
+<sent type="main" lang="chi" page="33b" n="02">施主</sent>
+<sent type="main" lang="kor" page="33b" n="02">施主</sent><!--'施主'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="33b" n="03">醫生</sent>
+<sent type="main" lang="kor" page="33b" n="03">의원</sent>
+<sent type="main" lang="chi" page="33b" n="04">獸醫</sent>
+<sent type="main" lang="kor" page="33b" n="04">즘ᄉᆡᆼ 병 고치ᄂᆞᆫ 이</sent>
+<sent type="main" lang="chi" page="33b" n="05">祝神人</sent>
+<sent type="main" lang="kor" page="33b" n="05">무당</sent>
+<sent type="main" lang="chi" page="33b" n="06">媒人</sent>
+<sent type="main" lang="kor" page="33b" n="06">즁ᄆᆡ</sent>
+<sent type="main" lang="chi" page="33b" n="07">干証</sent>
+<sent type="main" lang="kor" page="33b" n="07">證人</sent>
+<sent type="main" lang="chi" page="33b" n="08">中保人</sent>
+<sent type="main" lang="kor" page="33b" n="08">保人</sent>
+<sent type="main" lang="chi" page="33b-34a" n="09">縴手</sent>
+<sent type="main" lang="kor" page="33b-34a" n="09">쳥쵹ᄒᆞ여 주ᄂᆞᆫ 놈</sent>
+
+</pages>
+
+<pages n="34a">
+<img n="34a">https://kohico.kr/_media/image/18세기후기_한청문감/34a.jpg</img>
+<sent type="main" lang="chi" page="34a" n="01">籌命人</sent>
+<sent type="main" lang="kor" page="34a" n="01">팔ᄌᆞ 보ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="02">相面人</sent>
+<sent type="main" lang="kor" page="34a" n="02">샹 보ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="03">法術人</sent>
+<sent type="main" lang="kor" page="34a" n="03">환슐ᄒᆞᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="04">樂人</sent>
+<sent type="main" lang="kor" page="34a" n="04">풍류아치</sent>
+<sent type="main" lang="chi" page="34a" n="05">說書人</sent>
+<sent type="main" lang="kor" page="34a" n="05">니아기 ᄎᆡᆨ 니르ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="06">會唱人</sent>
+<sent type="main" lang="kor" page="34a" n="06">노ᄅᆡ 브르ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="34a" n="07">戱子</sent>
+<sent type="main" lang="kor" page="34a" n="07">戲子</sent><!--'戲子'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="34a" n="08">歌童</sent>
+<sent type="main" lang="kor" page="34a" n="08">歌童</sent><!--'歌童'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="34b">
+<img n="34b">https://kohico.kr/_media/image/18세기후기_한청문감/34b.jpg</img>
+<sent type="main" lang="chi" page="34b" n="01">奴僕</sent>
+<sent type="main" lang="kor" page="34b" n="01">ᄉᆞ나ᄒᆡ 죵</sent>
+<sent type="main" lang="chi" page="34b" n="02">使婢</sent>
+<sent type="main" lang="kor" page="34b" n="02">계집 죵</sent>
+<sent type="main" lang="chi" page="34b" n="03">長隨</sent>
+<sent type="main" lang="kor" page="34b" n="03">漢官之跟隨</sent>
+<sent type="main" lang="chi" page="34b" n="04">跟馬人</sent>
+<sent type="main" lang="kor" page="34b" n="04">구죵</sent>
+<sent type="main" lang="chi" page="34b" n="05">牽馬人</sent>
+<sent type="main" lang="kor" page="34b" n="05">ᄆᆞᆯ 구죵</sent>
+<sent type="main" lang="chi" page="34b" n="06">散跟奴僕</sent>
+<sent type="main" lang="kor" page="34b" n="06">허도래 구죵</sent>
+<sent type="main" lang="chi" page="34b" n="07">一輩奴</sent>
+<sent type="main" lang="kor" page="34b" n="07">自己爲人奴者</sent>
+<sent type="main" lang="chi" page="34b" n="08">兩輩奴</sent>
+<sent type="main" lang="kor" page="34b" n="08">父子爲人奴者</sent>
+<sent type="main" lang="chi" page="34b-35a" n="09">三輩奴</sent>
+<sent type="main" lang="kor" page="34b-35a" n="09">祖子孫爲人奴者</sent><!--祖子孫爲人奴^者-->
+</pages>
+
+<pages n="35a">
+<img n="35a">https://kohico.kr/_media/image/18세기후기_한청문감/35a.jpg</img>
+<sent type="main" lang="chi" page="35a" n="01">四輩奴</sent>
+<sent type="main" lang="kor" page="35a" n="01">四代奴 ○ 至五代奴始爲眞滿洲</sent>
+<sent type="main" lang="chi" page="35a" n="02">家生子</sent>
+<sent type="main" lang="kor" page="35a" n="02">집의셔 난 것</sent>
+<sent type="main" lang="chi" page="35a" n="03">世僕</sent>
+<sent type="main" lang="kor" page="35a" n="03">ᄃᆡ ᄂᆞ린 죵</sent>
+<sent type="main" lang="chi" page="35a" n="04">擄來人</sent>
+<sent type="main" lang="kor" page="35a" n="04">被擄ᄒᆞ여 온 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35a" n="05">刺客</sent>
+<sent type="main" lang="kor" page="35a" n="05">刺客</sent><!--'刺客'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="35a" n="06">奸細</sent>
+<sent type="main" lang="kor" page="35a" n="06">軍中細作</sent>
+<sent type="main" lang="chi" page="35a" n="07">送信人</sent>
+<sent type="main" lang="kor" page="35a" n="07">探知人</sent>
+<sent type="main" lang="chi" page="35a" n="08">逃人</sent>
+<sent type="main" lang="kor" page="35a" n="08">도망ᄒᆞᆫ 사ᄅᆞᆷ</sent>
+</pages>
+
+<pages n="35b">
+<img n="35b">https://kohico.kr/_media/image/18세기후기_한청문감/35b.jpg</img>
+<sent type="main" lang="chi" page="35b" n="01">乞丐</sent>
+<sent type="main" lang="kor" page="35b" n="01">거ᄋᆞ지</sent>
+<sent type="main" lang="chi" page="35b" n="02">男人</sent>
+<sent type="main" lang="kor" page="35b" n="02">ᄉᆞ나ᄒᆡ</sent>
+<sent type="main" lang="chi" page="35b" n="03">女人</sent>
+<sent type="main" lang="kor" page="35b" n="03">계집</sent>
+<sent type="main" lang="chi" page="35b" n="04">人口</sent>
+<sent type="main" lang="kor" page="35b" n="04">人口</sent><!--'人口'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="35b" n="05">家口</sent>
+<sent type="main" lang="kor" page="35b" n="05">집 소솔</sent>
+<sent type="main" lang="chi" page="35b" n="06">衆人</sent>
+<sent type="main" lang="kor" page="35b" n="06">衆人</sent><!--'衆人'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="35b" n="07">白丁</sent>
+<sent type="main" lang="kor" page="35b" n="07">신역 업슨 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35b" n="08">閑人</sent>
+<sent type="main" lang="kor" page="35b" n="08">노ᄂᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35b" n="09">閑散</sent>
+<sent type="main" lang="kor" page="35b" n="09">벼ᄉᆞᆯ 作散ᄒᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="35b" n="10">成對人</sent>
+<sent type="main" lang="kor" page="35b" n="10">夫妻 ᄀᆞ즌 사ᄅᆞᆷ</sent>
+</pages>
+
+<pages n="36a">
+<img n="36a">https://kohico.kr/_media/image/18세기후기_한청문감/36a.jpg</img>
+<sent type="main" lang="chi" page="36a" n="01">鰥</sent>
+<sent type="main" lang="kor" page="36a" n="01">老而無妻曰鰥</sent><!--'鰥'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36a" n="02">寡</sent>
+<sent type="main" lang="kor" page="36a" n="02">父亡之女曰寡</sent><!--'寡'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36a" n="03">獨</sent>
+<sent type="main" lang="kor" page="36a" n="03">老而無子曰獨</sent><!--'獨'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36a" n="04">孤</sent>
+<sent type="main" lang="kor" page="36a" n="04">幼而無父曰孤</sent><!--'孤'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36a" n="05">孤苦人</sent>
+<sent type="main" lang="kor" page="36a" n="05">孤獨窮苦之人</sent>
+<sent type="main" lang="chi" page="36a" n="06">單身</sent>
+<sent type="main" lang="kor" page="36a" n="06">홋몸</sent>
+<sent type="main" lang="chi" page="36a" n="07">孤立人</sent>
+<sent type="main" lang="kor" page="36a" n="07">孤子無依之人</sent>
+<sent type="title3" lang="chi" page="36a" n="08">人倫類 二則</sent>
+</pages>
+
+<pages n="36b">
+<img n="36b">https://kohico.kr/_media/image/18세기후기_한청문감/36b.jpg</img>
+<sent type="main" lang="chi" page="36b" n="01">高祖</sent>
+<sent type="main" lang="kor" page="36b" n="01">高祖</sent><!--'高祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="02">gaozumu 高祖母</sent>
+<sent type="main" lang="kor" page="36b" n="02">高祖母</sent><!--'高祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="03">曾祖</sent>
+<sent type="main" lang="kor" page="36b" n="03">曾祖</sent><!--'曾祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="04">曾祖母</sent>
+<sent type="main" lang="kor" page="36b" n="04">曾祖母</sent><!--'曾祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="05">親祖</sent>
+<sent type="main" lang="kor" page="36b" n="05">親祖</sent><!--'親祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="06">親祖母</sent>
+<sent type="main" lang="kor" page="36b" n="06">親祖母</sent><!--'親祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="07">祖</sent>
+<sent type="main" lang="kor" page="36b" n="07">祖</sent><!--'祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="08">祖母</sent>
+<sent type="main" lang="kor" page="36b" n="08">祖母</sent><!--'祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="09">衆祖</sent>
+<sent type="main" lang="kor" page="36b" n="09">衆祖</sent><!--'衆祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="10">衆祖母</sent>
+<sent type="main" lang="kor" page="36b" n="10">衆祖母</sent><!--'衆祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="36b" n="11">親</sent>
+<sent type="main" lang="kor" page="36b" n="11">어버이</sent>
+<sent type="main" lang="chi" page="36b" n="12">父</sent>
+<sent type="main" lang="kor" page="36b" n="12"> K#\父\</sent><!--'父'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="37a">
+<img n="37a">https://kohico.kr/_media/image/18세기후기_한청문감/37a.jpg</img>
+<sent type="main" lang="chi" page="37a" n="01">母</sent>
+<sent type="main" lang="kor" page="37a" n="01">母</sent><!--'母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="02">爹</sent>
+<sent type="main" lang="kor" page="37a" n="02">呼父曰爹</sent><!--'爹'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="03">娘</sent>
+<sent type="main" lang="kor" page="37a" n="03">呼母曰娘</sent><!--'娘'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="04">繼母</sent>
+<sent type="main" lang="kor" page="37a" n="04">繼母</sent><!--'繼母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="05">養父</sent>
+<sent type="main" lang="kor" page="37a" n="05">養父</sent><!--'養父'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="06">養母</sent>
+<sent type="main" lang="kor" page="37a" n="06">養母</sent><!--'養母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="07">公公</sent>
+<sent type="main" lang="kor" page="37a" n="07">싀아비</sent>
+<sent type="main" lang="chi" page="37a" n="08">婆婆</sent>
+<sent type="main" lang="kor" page="37a" n="08">싀어미</sent>
+<sent type="main" lang="chi" page="37a" n="09">乳父</sent>
+<sent type="main" lang="kor" page="37a" n="09">乳父</sent><!--'乳父'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="10">乳母</sent>
+<sent type="main" lang="kor" page="37a" n="10">乳母</sent><!--'乳母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37a" n="11">奶母</sent>
+<sent type="main" lang="kor" page="37a" n="11">乳母 尊稱</sent>
+</pages>
+
+<pages n="37b">
+<img n="37b">https://kohico.kr/_media/image/18세기후기_한청문감/37b.jpg</img>
+<sent type="main" lang="chi" page="37b" n="01">奶公</sent>
+<sent type="main" lang="kor" page="37b" n="01">乳父 尊稱</sent>
+<sent type="main" lang="chi" page="37b" n="02">伯父</sent>
+<sent type="main" lang="kor" page="37b" n="02">伯父</sent><!--''는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b" n="03">bomu 伯母</sent>
+<sent type="main" lang="kor" page="37b" n="03">伯母</sent><!--'伯母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b" n="04">叔父</sent>
+<sent type="main" lang="kor" page="37b" n="04">叔父</sent><!--'叔父'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b" n="05">嬸母</sent>
+<sent type="main" lang="kor" page="37b" n="05">叔母</sent>
+<sent type="main" lang="chi" page="37b" n="06">夫</sent>
+<sent type="main" lang="kor" page="37b" n="06">지아비</sent>
+<sent type="main" lang="chi" page="37b" n="07">妻</sent>
+<sent type="main" lang="kor" page="37b" n="07">안ᄒᆡ</sent>
+<sent type="main" lang="chi" page="37b" n="08">結髮夫妻</sent>
+<sent type="main" lang="kor" page="37b" n="08">結髮夫妻</sent><!--'結髮夫妻'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b" n="09">妾</sent>
+<sent type="main" lang="kor" page="37b" n="09">妾</sent><!--'妾'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b" n="10">兄</sent>
+<sent type="main" lang="kor" page="37b" n="10">兄</sent><!--'兄'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="37b-38a" n="11">嫂</sent>
+<sent type="main" lang="kor" page="37b-38a" n="11">형수</sent>
+</pages>
+
+<pages n="38a">
+<img n="38a">https://kohico.kr/_media/image/18세기후기_한청문감/38a.jpg</img>
+<sent type="main" lang="chi" page="38a" n="01">從弟兄</sent>
+<sent type="main" lang="kor" page="38a" n="01">四寸兄弟</sent>
+<sent type="main" lang="chi" page="38a" n="02">再從弟兄</sent>
+<sent type="main" lang="kor" page="38a" n="02">六寸兄弟</sent>
+<sent type="main" lang="chi" page="38a" n="03">三從弟兄</sent>
+<sent type="main" lang="kor" page="38a" n="03">八寸兄弟</sent>
+<sent type="main" lang="chi" page="38a" n="04">族弟兄</sent>
+<sent type="main" lang="kor" page="38a" n="04">十寸兄弟</sent>
+<sent type="main" lang="chi" page="38a" n="05">大伯</sent>
+<sent type="main" lang="kor" page="38a" n="05">ᄆᆞᆺ 싀아ᄌᆞ비</sent>
+<sent type="main" lang="chi" page="38a" n="06">弟</sent>
+<sent type="main" lang="kor" page="38a" n="06">아ᄋᆞ</sent>
+<sent type="main" lang="chi" page="38a" n="07">弟婦</sent>
+<sent type="main" lang="kor" page="38a" n="07">뎨수</sent>
+<sent type="main" lang="chi" page="38a" n="08">小叔</sent>
+<sent type="main" lang="kor" page="38a" n="08">아ᄋᆞ 싀아ᄌᆞ비</sent>
+<sent type="main" lang="chi" page="38a" n="09">妯娌</sent>
+<sent type="main" lang="kor" page="38a" n="09">계집 동셰</sent>
+</pages>
+
+<pages n="38b">
+<img n="38b">https://kohico.kr/_media/image/18세기후기_한청문감/38b.jpg</img>
+<sent type="main" lang="chi" page="38b" n="01">子</sent>
+<sent type="main" lang="kor" page="38b" n="01">ᄌᆞ식</sent>
+<sent type="main" lang="chi" page="38b" n="02">姪輩</sent>
+<sent type="main" lang="kor" page="38b" n="02">子侄行</sent>
+<sent type="main" lang="chi" page="38b" n="03">媳婦</sent>
+<sent type="main" lang="kor" page="38b" n="03">며ᄂᆞ리</sent>
+<sent type="main" lang="chi" page="38b" n="04">童養媳婦</sent>
+<sent type="main" lang="kor" page="38b" n="04">민며ᄂᆞ리</sent>
+<sent type="main" lang="chi" page="38b" n="05">姪兒</sent>
+<sent type="main" lang="kor" page="38b" n="05">兄弟之子</sent>
+<sent type="main" lang="chi" page="38b" n="06">姪婦</sent>
+<sent type="main" lang="kor" page="38b" n="06">兄弟之子婦</sent>
+<sent type="main" lang="chi" page="38b" n="07">堂姪</sent>
+<sent type="main" lang="kor" page="38b" n="07">從兄弟之子</sent>
+<sent type="main" lang="chi" page="38b" n="08">從堂姪</sent>
+<sent type="main" lang="kor" page="38b" n="08">再從兄弟之子</sent>
+<sent type="main" lang="chi" page="38b" n="09">衆子</sent>
+<sent type="main" lang="kor" page="38b" n="09">ᄌᆞ식들</sent>
+<sent type="main" lang="chi" page="38b" n="10">頭生</sent>
+<sent type="main" lang="kor" page="38b" n="10">첫 ᄌᆞ식</sent>
+</pages>
+
+<pages n="39a">
+<img n="39a">https://kohico.kr/_media/image/18세기후기_한청문감/39a.jpg</img>
+<sent type="main" lang="chi" page="39a" n="01">長子</sent>
+<sent type="main" lang="kor" page="39a" n="01">ᄆᆞᆺ 아ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="39a" n="02">次子</sent>
+<sent type="main" lang="kor" page="39a" n="02">버금 아ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="39a" n="03">老生子</sent>
+<sent type="main" lang="kor" page="39a" n="03">ᄭᅳᆺᄒᆡ 아ᄃᆞᆯ</sent>
+<sent type="main" lang="chi" page="39a" n="04">養子</sent>
+<sent type="main" lang="kor" page="39a" n="04">養子</sent><!--'養子'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39a" n="05">孫</sent>
+<sent type="main" lang="kor" page="39a" n="05">孫</sent><!--'孫'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39a" n="06">曾孫</sent>
+<sent type="main" lang="kor" page="39a" n="06">曾孫</sent><!--'曾孫'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39a" n="07">玄孫</sent>
+<sent type="main" lang="kor" page="39a" n="07">玄孫</sent><!--'玄孫'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39a" n="08">衆孫</sent>
+<sent type="main" lang="kor" page="39a" n="08">손ᄌᆞ들</sent>
+<sent type="main" lang="chi" page="39a" n="09">子嗣</sent>
+<sent type="main" lang="kor" page="39a" n="09">後嗣</sent>
+<sent type="main" lang="chi" page="39a" n="10">族</sent>
+<sent type="main" lang="kor" page="39a" n="10">同姓</sent>
+<sent type="main" lang="chi" page="39a" n="11">同族</sent>
+<sent type="main" lang="kor" page="39a" n="11">同姓之人</sent>
+</pages>
+
+<pages n="39b">
+<img n="39b">https://kohico.kr/_media/image/18세기후기_한청문감/39b.jpg</img>
+<sent type="main" lang="chi" page="39b" n="01">一支</sent>
+<sent type="main" lang="kor" page="39b" n="01">族之一派</sent>
+<sent type="main" lang="chi" page="39b" n="02">族黨衆多</sent>
+<sent type="main" lang="kor" page="39b" n="02">겨ᄅᆡ 만타</sent>
+<sent type="main" lang="chi" page="39b" n="03">姓</sent>
+<sent type="main" lang="kor" page="39b" n="03">姓</sent><!--'姓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39b" n="04">姓氏</sent>
+<sent type="main" lang="kor" page="39b" n="04">姓氏</sent><!--'姓氏'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39b" n="05">同姓</sent>
+<sent type="main" lang="kor" page="39b" n="05">同姓</sent><!--'同姓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="39b" n="06">輩數</sent>
+<sent type="main" lang="kor" page="39b" n="06">ᄃᆡㅅ수</sent>
+<sent type="main" lang="chi" page="39b" n="07">近</sent>
+<sent type="main" lang="kor" page="39b" n="07">通稱 ᄀᆞᆺ갑다</sent>
+<sent type="main" lang="chi" page="39b" n="08">遠</sent>
+<sent type="main" lang="kor" page="39b" n="08">通稱 머다</sent>
+<sent type="main" lang="chi" page="39b" n="09">疎遠</sent>
+<sent type="main" lang="kor" page="39b" n="09">疎遠ᄒᆞ다</sent><!--'疎遠'은 반복 부호로 표기되어 있음-->
+<sent type="title3" lang="chi" page="39b" n="10">親戚類 一則</sent>
+</pages>
+
+<pages n="40a">
+<img n="40a">https://kohico.kr/_media/image/18세기후기_한청문감/40a.jpg</img>
+<sent type="main" lang="chi" page="40a" n="01">親</sent>
+<sent type="main" lang="kor" page="40a" n="01">이셩 겨ᄅᆡ</sent>
+<sent type="main" lang="chi" page="40a" n="02">親戚</sent>
+<sent type="main" lang="kor" page="40a" n="02">親戚</sent><!--'親戚'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="40a" n="03">長輩</sent>
+<sent type="main" lang="kor" page="40a" n="03">어룬</sent>
+<sent type="main" lang="chi" page="40a" n="04">外祖</sent>
+<sent type="main" lang="kor" page="40a" n="04">外祖</sent><!--'外祖'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="40a" n="05">外祖母</sent>
+<sent type="main" lang="kor" page="40a" n="05">外祖母</sent><!--'外祖母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="40a" n="06">丈人</sent>
+<sent type="main" lang="kor" page="40a" n="06">쳐부</sent>
+<sent type="main" lang="chi" page="40a" n="07">丈母</sent>
+<sent type="main" lang="kor" page="40a" n="07">쳐모</sent>
+<sent type="main" lang="chi" page="40a" n="08">姑</sent>
+<sent type="main" lang="kor" page="40a" n="08">고모</sent>
+<sent type="main" lang="chi" page="40a" n="09">姑父</sent>
+<sent type="main" lang="kor" page="40a" n="09">고모부</sent>
+<sent type="main" lang="chi" page="40a" n="10">舅舅</sent>
+<sent type="main" lang="kor" page="40a" n="10">외삼촌</sent>
+<sent type="main" lang="chi" page="40a" n="11">舅母</sent>
+<sent type="main" lang="kor" page="40a" n="11">외삼촌의 쳐</sent>
+<sent type="main" lang="chi" page="40a" n="12">大姨父</sent>
+<sent type="main" lang="kor" page="40a" n="12">큰 이모부</sent>
+</pages>
+
+<pages n="40b">
+<img n="40b">https://kohico.kr/_media/image/18세기후기_한청문감/40b.jpg</img>
+<sent type="main" lang="chi" page="40b" n="01">大姨母</sent>
+<sent type="main" lang="kor" page="40b" n="01">큰 이모</sent>
+<sent type="main" lang="chi" page="40b" n="02">姨父</sent>
+<sent type="main" lang="kor" page="40b" n="02">이모부</sent>
+<sent type="main" lang="chi" page="40b" n="03">姨母</sent>
+<sent type="main" lang="kor" page="40b" n="03">姨母</sent><!--'姨母'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="40b" n="04">姐姐</sent>
+<sent type="main" lang="kor" page="40b" n="04">ᄆᆞᆺ누의</sent>
+<sent type="main" lang="chi" page="40b" n="05">姐夫</sent>
+<sent type="main" lang="kor" page="40b" n="05">ᄆᆞᆺᄆᆡ부</sent>
+<sent type="main" lang="chi" page="40b" n="06">連襟</sent>
+<sent type="main" lang="kor" page="40b" n="06">ᄉᆞ나ᄒᆡ 동셰</sent>
+<sent type="main" lang="chi" page="40b" n="07">妹子</sent>
+<sent type="main" lang="kor" page="40b" n="07">아ᄋᆞ누의</sent>
+<sent type="main" lang="chi" page="40b" n="08">妹夫</sent>
+<sent type="main" lang="kor" page="40b" n="08">妹夫</sent><!--'妹夫'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="40b" n="09">小姨夫</sent>
+<sent type="main" lang="kor" page="40b" n="09">아ᄋᆞ동셰</sent>
+<sent type="main" lang="chi" page="40b" n="10">大姨</sent>
+<sent type="main" lang="kor" page="40b" n="10">쳐형</sent>
+</pages>
+
+<pages n="41a">
+<img n="41a">https://kohico.kr/_media/image/18세기후기_한청문감/41a.jpg</img>
+<sent type="main" lang="chi" page="41a" n="01">大姑</sent>
+<sent type="main" lang="kor" page="41a" n="01">ᄆᆞᆺ싀누이</sent>
+<sent type="main" lang="chi" page="41a" n="02">小姑</sent>
+<sent type="main" lang="kor" page="41a" n="02">아ᄋᆞ싀누이</sent>
+<sent type="main" lang="chi" page="41a" n="03">小妗</sent>
+<sent type="main" lang="kor" page="41a" n="03">아ᄋᆞ오라븨 쳐</sent>
+<sent type="main" lang="chi" page="41a" n="04">小姨</sent>
+<sent type="main" lang="kor" page="41a" n="04">쳐뎨</sent>
+<sent type="main" lang="chi" page="41a" n="05">妻兄</sent>
+<sent type="main" lang="kor" page="41a" n="05">ᄆᆞᆺ쳐남</sent>
+<sent type="main" lang="chi" page="41a" n="06">妻嫂</sent>
+<sent type="main" lang="kor" page="41a" n="06">ᄆᆞᆺ쳐남의 쳐</sent>
+<sent type="main" lang="chi" page="41a" n="07">妻弟</sent>
+<sent type="main" lang="kor" page="41a" n="07">아ᄋᆞ쳐남</sent>
+<sent type="main" lang="chi" page="41a" n="08">妻弟婦</sent>
+<sent type="main" lang="kor" page="41a" n="08">아ᄋᆞ쳐남의 처</sent>
+<sent type="main" lang="chi" page="41a" n="09">女兒</sent>
+<sent type="main" lang="kor" page="41a" n="09">ᄯᆞᆯ ○ 又 通稱 계집아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="41a" n="10">長女</sent>
+<sent type="main" lang="kor" page="41a" n="10">ᄆᆞᆺᄯᆞᆯ</sent>
+<sent type="main" lang="chi" page="41a" n="11">女婿</sent>
+<sent type="main" lang="kor" page="41a" n="11">사회</sent>
+<sent type="main" lang="chi" page="41a" n="12">贅婿</sent>
+<sent type="main" lang="kor" page="41a" n="12">ᄃᆞ린 사회</sent>
+</pages>
+
+<pages n="41b">
+<img n="41b">https://kohico.kr/_media/image/18세기후기_한청문감/41b.jpg</img>
+<sent type="main" lang="chi" page="41b" n="01">姑表親</sent>
+<sent type="main" lang="kor" page="41b" n="01">內外從之親</sent>
+<sent type="main" lang="chi" page="41b" n="02">姑表</sent>
+<sent type="main" lang="kor" page="41b" n="02">內外從</sent>
+<sent type="main" lang="chi" page="41b" n="03">外甥</sent>
+<sent type="main" lang="kor" page="41b" n="03">ᄉᆡᆼ질</sent>
+<sent type="main" lang="chi" page="41b" n="04">外孫</sent>
+<sent type="main" lang="kor" page="41b" n="04">外孫</sent><!--'外孫'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="41b" n="05">姑舅兩姨孫</sent>
+<sent type="main" lang="kor" page="41b" n="05">이셩 죵손</sent>
+<sent type="main" lang="chi" page="41b" n="06">姑表結親</sent>
+<sent type="main" lang="kor" page="41b" n="06">즁표 혼인ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41b" n="07">娘家</sent>
+<sent type="main" lang="kor" page="41b" n="07">계집의 본가</sent>
+<sent type="main" lang="chi" page="41b" n="08">娘家去</sent>
+<sent type="main" lang="kor" page="41b" n="08">歸寧ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="41b-42a" n="09">親家</sent><!--親^家-->
+<sent type="main" lang="kor" page="41b-42a" n="09">사돈</sent>
+</pages>
+
+<pages n="42a">
+<img n="42a">https://kohico.kr/_media/image/18세기후기_한청문감/42a.jpg</img>
+<sent type="title3" lang="chi" page="42a" n="01">朋友類 一則</sent>
+<sent type="main" lang="chi" page="42a" n="02">朋友</sent>
+<sent type="main" lang="kor" page="42a" n="02">벗</sent>
+<sent type="main" lang="chi" page="42a" n="03">交友</sent>
+<sent type="main" lang="kor" page="42a" n="03">벗 사괴다</sent>
+<sent type="main" lang="chi" page="42a" n="04">密友</sent>
+<sent type="main" lang="kor" page="42a" n="04">친밀ᄒᆞᆫ 벗</sent>
+<sent type="main" lang="chi" page="42a" n="05">好友</sent>
+<sent type="main" lang="kor" page="42a" n="05">됴흔 벗</sent>
+<sent type="main" lang="chi" page="42a" n="06">賓友</sent>
+<sent type="main" lang="kor" page="42a" n="06">나그ᄂᆡ</sent>
+<sent type="main" lang="chi" page="42a" n="07">女友</sent>
+<sent type="main" lang="kor" page="42a" n="07">猶言女伴</sent>
+<sent type="main" lang="chi" page="42a" n="08">黨類</sent>
+<sent type="main" lang="kor" page="42a" n="08">黨類</sent><!--'黨類'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="42a-42b" n="09">同類</sent>
+<sent type="main" lang="kor" page="42a-42b" n="09">同類</sent><!--'同類'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="42b">
+<img n="42b">https://kohico.kr/_media/image/18세기후기_한청문감/42b.jpg</img>
+<sent type="title3" lang="chi" page="42b" n="01">老少類 二則</sent>
+<sent type="main" lang="chi" page="42b" n="02">老</sent>
+<sent type="main" lang="kor" page="42b" n="02">늙다</sent>
+<sent type="main" lang="chi" page="42b" n="03">到老</sent>
+<sent type="main" lang="kor" page="42b" n="03">늙도록</sent>
+<sent type="main" lang="chi" page="42b" n="04">年紀</sent>
+<sent type="main" lang="kor" page="42b" n="04">나</sent>
+<sent type="main" lang="chi" page="42b" n="05">同歲</sent>
+<sent type="main" lang="kor" page="42b" n="05">동갑</sent>
+<sent type="main" lang="chi" page="42b" n="06">有年紀</sent>
+<sent type="main" lang="kor" page="42b" n="06">나 만타</sent>
+<sent type="main" lang="chi" page="42b" n="07">上年紀了</sent>
+<sent type="main" lang="kor" page="42b" n="07">즁년 되다</sent>
+<sent type="main" lang="chi" page="42b" n="08">年紀漸老</sent>
+<sent type="main" lang="kor" page="42b" n="08">늙어 가다</sent>
+<sent type="main" lang="chi" page="42b" n="09">長者</sent>
+<sent type="main" lang="kor" page="42b" n="09">노셩ᄒᆞᆫ 사ᄅᆞᆷ</sent>
+<sent type="main" lang="chi" page="42b" n="10">老翁</sent>
+<sent type="main" lang="kor" page="42b" n="10">老翁</sent><!--'老翁'은 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="43a">
+<img n="43a">https://kohico.kr/_media/image/18세기후기_한청문감/43a.jpg</img>
+<sent type="main" lang="chi" page="43a" n="01">老嫗</sent>
+<sent type="main" lang="kor" page="43a" n="01">老嫗</sent><!--'老嫗'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="43a" n="02">老兄</sent>
+<sent type="main" lang="kor" page="43a" n="02">朋輩 尊稱</sent>
+<sent type="main" lang="chi" page="43a" n="03">命長</sent>
+<sent type="main" lang="kor" page="43a" n="03">목숨 기다</sent>
+<sent type="main" lang="chi" page="43a" n="04">壽</sent>
+<sent type="main" lang="kor" page="43a" n="04">壽</sent><!--'壽'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="43a" n="05">有壽</sent>
+<sent type="main" lang="kor" page="43a" n="05">高年尊稱之謂</sent>
+<sent type="main" lang="chi" page="43a" n="06">康健</sent>
+<sent type="main" lang="kor" page="43a" n="06">老而筋力不衰</sent>
+<sent type="main" lang="chi" page="43a" n="07">强壯</sent>
+<sent type="main" lang="kor" page="43a" n="07">老而志氣益壯</sent>
+<sent type="main" lang="chi" page="43a" n="08">眼花</sent>
+<sent type="main" lang="kor" page="43a" n="08">눈 흐리다</sent>
+<sent type="main" lang="chi" page="43a" n="09">耳遲</sent>
+<sent type="main" lang="kor" page="43a" n="09">귀 먹다</sent>
+</pages>
+
+<pages n="43b">
+<img n="43b">https://kohico.kr/_media/image/18세기후기_한청문감/43b.jpg</img>
+<sent type="main" lang="chi" page="43b" n="01">沒牙</sent>
+<sent type="main" lang="kor" page="43b" n="01">니 ᄲᅡ지다</sent>
+<sent type="main" lang="chi" page="43b" n="02">鬚髮斑白</sent>
+<sent type="main" lang="kor" page="43b" n="02">반ᄇᆡᆨ</sent>
+<sent type="main" lang="chi" page="43b" n="03">鬚髮全白了</sent>
+<sent type="main" lang="kor" page="43b" n="03">허여케 셰다</sent>
+<sent type="main" lang="chi" page="43b" n="04">鬚髮黃了</sent>
+<sent type="main" lang="kor" page="43b" n="04">셰여 다시 누루다</sent>
+<sent type="main" lang="chi" page="43b" n="05">有了皺紋</sent>
+<sent type="main" lang="kor" page="43b" n="05">늙어 살 지픠다</sent>
+<sent type="main" lang="chi" page="43b" n="06">衰憊</sent>
+<sent type="main" lang="kor" page="43b" n="06">衰憊ᄒᆞ다</sent><!--'衰憊'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="43b" n="07">腰圭了</sent>
+<sent type="main" lang="kor" page="43b" n="07">허리 굽다</sent>
+<sent type="main" lang="chi" page="43b" n="08">抽抽了</sent>
+<sent type="main" lang="kor" page="43b" n="08">등 굽다</sent>
+<sent type="main" lang="chi" page="43b-44a" n="09">顚倒了</sent><!--顚^倒了-->
+<sent type="main" lang="kor" page="43b-44a" n="09">老昏ᄒᆞ여 言語 顚錯ᄒᆞ다</sent>
+</pages>
+
+<pages n="44a">
+<img n="44a">https://kohico.kr/_media/image/18세기후기_한청문감/44a.jpg</img>
+<sent type="main" lang="chi" page="44a" n="01">絮叨了</sent>
+<sent type="main" lang="kor" page="44a" n="01">ᄒᆞᆫ 말 되ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="02">老了搖頭</sent>
+<sent type="main" lang="kor" page="44a" n="02">늙어 마리 흔드다</sent>
+<sent type="main" lang="chi" page="44a" n="03">老衰邁了</sent>
+<sent type="main" lang="kor" page="44a" n="03">老衰ᄒᆞ여 가다</sent>
+<sent type="main" lang="chi" page="44a" n="04">誖晦了</sent>
+<sent type="main" lang="kor" page="44a" n="04">망녕 젓다</sent>
+<sent type="main" lang="chi" page="44a" n="05">退縮了</sent>
+<sent type="main" lang="kor" page="44a" n="05">氣力 減ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="06">昏憒</sent>
+<sent type="main" lang="kor" page="44a" n="06">老昏ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44a" n="07">老朽</sent>
+<sent type="main" lang="kor" page="44a" n="07">늙어 杇敗ᄒᆞ다</sent>
+</pages>
+
+<pages n="44b">
+<img n="44b">https://kohico.kr/_media/image/18세기후기_한청문감/44b.jpg</img>
+<sent type="main" lang="chi" page="44b" n="01">軟癱了</sent>
+<sent type="main" lang="kor" page="44b" n="01">老憊無力之謂</sent>
+<sent type="main" lang="chi" page="44b" n="02">少</sent>
+<sent type="main" lang="kor" page="44b" n="02">졈다</sent>
+<sent type="main" lang="chi" page="44b" n="03">壯年</sent>
+<sent type="main" lang="kor" page="44b" n="03">壯年</sent><!--'壯年'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="44b" n="04">成丁</sent>
+<sent type="main" lang="kor" page="44b" n="04">壯丁 되다</sent>
+<sent type="main" lang="chi" page="44b" n="05">未成丁</sent>
+<sent type="main" lang="kor" page="44b" n="05">壯丁 못 되다</sent>
+<sent type="main" lang="chi" page="44b" n="06">conghui 聰慧</sent>
+<sent type="main" lang="kor" page="44b" n="06"> K#\聰慧\</sent>
+<sent type="main" lang="chi" page="44b" n="07">weijinglaoku 未經勞苦</sent>
+<sent type="main" lang="kor" page="44b" n="07"> K#일 격지 못 ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="44b" n="08">you 幼</sent>
+<sent type="main" lang="kor" page="44b" n="08"> K#稚少之稱</sent>
+<sent type="main" lang="chi" page="44b" n="09">ruzi 孺子</sent>
+<sent type="main" lang="kor" page="44b" n="09"> K#동ᄌᆞ</sent>
+</pages>
+
+<pages n="45a">
+<img n="45a">https://kohico.kr/_media/image/18세기후기_한청문감/45a.jpg</img>
+<sent type="main" lang="chi" page="45a" n="01">食乳小兒</sent>
+<sent type="main" lang="kor" page="45a" n="01">졋 먹ᄂᆞᆫ 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="45a" n="02">赤子</sent>
+<sent type="main" lang="kor" page="45a" n="02">ᄀᆞᆺ 난 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="45a" n="03">沒生子</sent>
+<sent type="main" lang="kor" page="45a" n="03">遺腹子</sent>
+<sent type="main" lang="chi" page="45a" n="04">雙生</sent>
+<sent type="main" lang="kor" page="45a" n="04">雙生</sent><!--'雙生'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="kor" page="45a" n="05"> K#愛小兒詞</sent><!--한어 표제어 없음-->
+<sent type="main" lang="chi" page="45a" n="06">體重</sent>
+<sent type="main" lang="kor" page="45a" n="06">몸 무겁다</sent>
+<sent type="main" lang="chi" page="45a" n="07">福胎</sent>
+<sent type="main" lang="kor" page="45a" n="07">귀ᄒᆞᆫ 아ᄒᆡ 尊稱</sent>
+<sent type="main" lang="chi" page="45a" n="08">靈透</sent>
+<sent type="main" lang="kor" page="45a" n="08">通稱 伶俐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45a" n="09">伶俐</sent>
+<sent type="main" lang="kor" page="45a" n="09">伶俐ᄒᆞ다</sent><!--'伶俐ᄒᆞ다'는 '上同'으로 표기되어 있음-->
+<sent type="main" lang="chi" page="45a-45b" n="10">討人嫌</sent><!--討人^嫌-->
+<sent type="main" lang="kor" page="45a-45b" n="10">즈즐ᄒᆞ다</sent>
+</pages>
+
+<pages n="45b">
+<img n="45b">https://kohico.kr/_media/image/18세기후기_한청문감/45b.jpg</img>
+<sent type="main" lang="chi" page="45b" n="01">精壯</sent>
+<sent type="main" lang="kor" page="45b" n="01">精壯</sent><!--'精壯'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="45b" n="02">言行早</sent>
+<sent type="main" lang="kor" page="45b" n="02">말과 거름이 일으다</sent>
+<sent type="main" lang="chi" page="45b" n="03">未出花小兒</sent>
+<sent type="main" lang="kor" page="45b" n="03">역질 못ᄒᆞᆫ 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="45b" n="04">身小</sent>
+<sent type="main" lang="kor" page="45b" n="04">톄쇼ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="45b" n="05">不大長</sent>
+<sent type="main" lang="kor" page="45b" n="05">ᄀᆞ장 ᄌᆞ라지 아니타</sent>
+<sent type="main" lang="chi" page="45b" n="06">弱小</sent>
+<sent type="main" lang="kor" page="45b" n="06">주울드다</sent>
+<sent type="main" lang="chi" page="45b" n="07">不見長</sent>
+<sent type="main" lang="kor" page="45b" n="07">ᄌᆞ라기 ᄆᆞᆺ퇴다</sent>
+<sent type="main" lang="chi" page="45b" n="08">初生身小</sent>
+<sent type="main" lang="kor" page="45b" n="08">ᄀᆞᆺ 난 아ᄒᆡ 몸 젹다</sent>
+</pages>
+
+<pages n="46a">
+<img n="46a">https://kohico.kr/_media/image/18세기후기_한청문감/46a.jpg</img>
+<sent type="main" lang="chi" page="46a" n="01">乳兒漸長</sent>
+<sent type="main" lang="kor" page="46a" n="01">아ᄒᆡ 부러 가다</sent>
+<sent type="main" lang="chi" page="46a" n="02">小兒顯長</sent>
+<sent type="main" lang="kor" page="46a" n="02">아ᄒᆡ 顯然이 ᄌᆞ라다</sent>
+<sent type="main" lang="chi" page="46a" n="03">漸漸長</sent>
+<sent type="main" lang="kor" page="46a" n="03">졈졈 ᄌᆞ라다</sent>
+<sent type="main" lang="chi" page="46a" n="04">出調了</sent>
+<sent type="main" lang="kor" page="46a" n="04">몌ᄎᆞ 에엿부다</sent>
+<sent type="main" lang="chi" page="46a" n="05">長足</sent>
+<sent type="main" lang="kor" page="46a" n="05">아ᄒᆡ ᄲᅧᄃᆡ 여무다</sent>
+<sent type="main" lang="chi" page="46a" n="06">筋骨長足</sent>
+<sent type="main" lang="kor" page="46a" n="06">근골이 ᄃᆞᆫᄃᆞᆫᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46a" n="07">出息了</sent>
+<sent type="main" lang="kor" page="46a" n="07">몌ᄎᆞ다</sent>
+<sent type="main" lang="chi" page="46a-46b" n="08">長了</sent>
+<sent type="main" lang="kor" page="46a-46b" n="08">通稱 ᄌᆞ라다</sent>
+</pages>
+
+<pages n="46b">
+<img n="46b">https://kohico.kr/_media/image/18세기후기_한청문감/46b.jpg</img>
+<sent type="main" lang="chi" page="46b" n="01">xiaoercaixueli 小兒纔學立</sent>
+<sent type="main" lang="kor" page="46b" n="01"> K#아ᄒᆡ 셔기ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="02">xiaoercaihuizou 小兒纔會走</sent>
+<sent type="main" lang="kor" page="46b" n="02"> K#아ᄒᆡ 것기ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="03">sajiao 撒嬌</sent>
+<sent type="main" lang="kor" page="46b" n="03"> K#이릐ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="04">laoqi 老氣</sent>
+<sent type="main" lang="kor" page="46b" n="04"> K#아ᄒᆡ 老成ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="46b" n="05">haiqi 孩氣</sent>
+<sent type="main" lang="kor" page="46b" n="05"> K#미거히 구다</sent>
+<sent type="main" lang="chi" page="46b" n="06">salai 撒賴</sent>
+<sent type="main" lang="kor" page="46b" n="06"> K#아ᄒᆡ 보채다</sent>
+<sent type="main" lang="chi" page="46b" n="07">fangdiao 放刁</sent>
+<sent type="main" lang="kor" page="46b" n="07"> K#!아ᄒᆡ 보채다</sent><!--'아ᄒᆡ 보채다'는 '上同'으로 표기되어 있음-->
+<sent type="main" lang="chi" page="46b" n="08">rensheng 認生</sent>
+<sent type="main" lang="kor" page="46b" n="08"> K#아ᄒᆡ ᄂᆞᆺ 서러ᄒᆞ다</sent>
+</pages>
+
+<pages n="47a">
+<img n="47a">https://kohico.kr/_media/image/18세기후기_한청문감/47a.jpg</img>
+<sent type="main" lang="chi" page="47a" n="01">小兒大方</sent>
+<sent type="main" lang="kor" page="47a" n="01">아ᄒᆡ 쥰혹 업다</sent>
+<sent type="main" lang="chi" page="47a" n="02">小兒倚仗父母行</sent>
+<sent type="main" lang="kor" page="47a" n="02">아ᄒᆡ 셰 쓰다</sent>
+<sent type="main" lang="chi" page="47a" n="03">啕氣</sent>
+<sent type="main" lang="kor" page="47a" n="03">저즈레ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="47a" n="04">賴皮子</sent>
+<sent type="main" lang="kor" page="47a" n="04">보채ᄂᆞᆫ 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="47a" n="05">肯哭</sent>
+<sent type="main" lang="kor" page="47a" n="05">우룸쟉이</sent>
+<sent type="main" lang="chi" page="47a" n="06">流鼻涕小兒</sent>
+<sent type="main" lang="kor" page="47a" n="06">코 흘리ᄂᆞᆫ 아ᄒᆡ</sent>
+<sent type="main" lang="chi" page="47a" n="07">尿精</sent>
+<sent type="main" lang="kor" page="47a" n="07">오좀 ᄡᆞ기</sent>
+<sent type="main" lang="chi" page="47a" n="08">屎精</sent>
+<sent type="main" lang="kor" page="47a" n="08">ᄯᅩᆼ ᄡᆞ기</sent>
+</pages>
+
+<pages n="47b">
+<img n="47b">https://kohico.kr/_media/image/18세기후기_한청문감/47b.jpg</img>
+<sent type="title3" lang="chi" page="47b" n="01">人身類 八則</sent>
+<sent type="main" lang="chi" page="47b" n="02">身</sent>
+<sent type="main" lang="kor" page="47b" n="02">몸</sent>
+<sent type="main" lang="chi" page="47b" n="03">原身</sent>
+<sent type="main" lang="kor" page="47b" n="03">왼몸</sent>
+<sent type="main" lang="chi" page="47b" n="04">像原身</sent>
+<sent type="main" lang="kor" page="47b" n="04">셩졍이 제 모양 ᄀᆞᆺ다</sent>
+<sent type="main" lang="chi" page="47b" n="05">單身</sent>
+<sent type="main" lang="kor" page="47b" n="05">單身</sent><!--'單身'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="47b" n="06">赤身</sent>
+<sent type="main" lang="kor" page="47b" n="06">赤身</sent><!--'赤身'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="47b" n="07">空身</sent>
+<sent type="main" lang="kor" page="47b" n="07">뷘 몸</sent>
+<sent type="main" lang="chi" page="47b" n="08">身量大</sent>
+<sent type="main" lang="kor" page="47b" n="08">몸 크다</sent>
+<sent type="main" lang="chi" page="47b" n="09">身量小</sent>
+<sent type="main" lang="kor" page="47b" n="09">몸 젹다</sent>
+<sent type="main" lang="chi" page="47b" n="10">頭</sent>
+<sent type="main" lang="kor" page="47b" n="10">마리</sent>
+<sent type="main" lang="chi" page="47b-48a" n="11">頭角</sent>
+<sent type="main" lang="kor" page="47b-48a" n="11">마리 좌우편</sent>
+</pages>
+
+<pages n="48a">
+<img n="48a">https://kohico.kr/_media/image/18세기후기_한청문감/48a.jpg</img>
+<sent type="main" lang="chi" page="48a" n="01">顖門</sent>
+<sent type="main" lang="kor" page="48a" n="01">쉿 구무</sent>
+<sent type="main" lang="chi" page="48a" n="02">額</sent>
+<sent type="main" lang="kor" page="48a" n="02">니마</sent>
+<sent type="main" lang="chi" page="48a" n="03">皺紋</sent>
+<sent type="main" lang="kor" page="48a" n="03">通稱 살금</sent>
+<sent type="main" lang="chi" page="48a" n="04">鬢角</sent>
+<sent type="main" lang="kor" page="48a" n="04">살ᄶᅧᆨ</sent>
+<sent type="main" lang="chi" page="48a" n="05">爭食窩</sent>
+<sent type="main" lang="kor" page="48a" n="05">니통소</sent>
+<sent type="main" lang="chi" page="48a" n="06">腦後髮際</sent>
+<sent type="main" lang="kor" page="48a" n="06">腦後髮際</sent><!--'腦後髮際'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="48a" n="07">頭皮</sent>
+<sent type="main" lang="kor" page="48a" n="07">마리 가족</sent>
+<sent type="main" lang="chi" page="48a" n="08">頭髮</sent>
+<sent type="main" lang="kor" page="48a" n="08">마리 털</sent>
+<sent type="main" lang="chi" page="48a" n="09">汗毛</sent>
+<sent type="main" lang="kor" page="48a" n="09">몸에 털</sent>
+<sent type="main" lang="chi" page="48a" n="10">辮子</sent>
+<sent type="main" lang="kor" page="48a" n="10">호송치</sent>
+</pages>
+
+<pages n="48b">
+<img n="48b">https://kohico.kr/_media/image/18세기후기_한청문감/48b.jpg</img>
+<sent type="main" lang="chi" page="48b" n="01">水鬢</sent>
+<sent type="main" lang="kor" page="48b" n="01">계집의 살젹</sent>
+<sent type="main" lang="chi" page="48b" n="02">匝髻</sent>
+<sent type="main" lang="kor" page="48b" n="02">계집의 샹토</sent>
+<sent type="main" lang="chi" page="48b" n="03">頭髮分道</sent>
+<sent type="main" lang="kor" page="48b" n="03">ᄀᆞ림ᄌᆞ</sent>
+<sent type="main" lang="chi" page="48b" n="04">頭髮旋窩</sent>
+<sent type="main" lang="kor" page="48b" n="04">마리 가마</sent>
+<sent type="main" lang="chi" page="48b" n="05">髮稀短</sent>
+<sent type="main" lang="kor" page="48b" n="05">마리 털 성긔고 져르다</sent>
+<sent type="main" lang="chi" page="48b" n="06">脫頂</sent>
+<sent type="main" lang="kor" page="48b" n="06">압 뮈다</sent>
+<sent type="main" lang="chi" page="48b" n="07">寬額</sent>
+<sent type="main" lang="kor" page="48b" n="07">니마 훤츨ᄒᆞ다</sent>
+<sent type="main" lang="chi" page="48b" n="08">頭尖</sent>
+<sent type="main" lang="kor" page="48b" n="08">마리 ᄲᆞ다</sent>
+</pages>
+
+<pages n="49a">
+<img n="49a">https://kohico.kr/_media/image/18세기후기_한청문감/49a.jpg</img>
+<sent type="main" lang="chi" page="49a" n="01">前奔顱</sent>
+<sent type="main" lang="kor" page="49a" n="01">니마 내미다</sent>
+<sent type="main" lang="chi" page="49a" n="02">後奔顱</sent>
+<sent type="main" lang="kor" page="49a" n="02">ᄭᅩᆨ뒤 내미다</sent>
+<sent type="main" lang="chi" page="49a" n="03">臉</sent>
+<sent type="main" lang="kor" page="49a" n="03">ᄂᆞᆺ</sent>
+<sent type="main" lang="chi" page="49a" n="04">顴</sent>
+<sent type="main" lang="kor" page="49a" n="04">광ᄃᆡᄲᅧ</sent>
+<sent type="main" lang="chi" page="49a" n="05">腮</sent>
+<sent type="main" lang="kor" page="49a" n="05">ᄲᅣᆷ</sent>
+<sent type="main" lang="chi" page="49a" n="06">腮根</sent>
+<sent type="main" lang="kor" page="49a" n="06">보죠개</sent>
+<sent type="main" lang="chi" page="49a" n="07">裡腮</sent>
+<sent type="main" lang="kor" page="49a" n="07">ᄲᅣᆷ 안ᄶᅡᆨ</sent>
+<sent type="main" lang="chi" page="49a" n="08">眼</sent>
+<sent type="main" lang="kor" page="49a" n="08">눈</sent>
+<sent type="main" lang="chi" page="49a" n="09">眼珠</sent>
+<sent type="main" lang="kor" page="49a" n="09">눈망올</sent>
+<sent type="main" lang="chi" page="49a" n="10">瞳人</sent>
+<sent type="main" lang="kor" page="49a" n="10">눈엣 동ᄌᆞ</sent>
+<sent type="main" lang="chi" page="49a-49b" n="11">眼角</sent><!--眼^角-->
+<sent type="main" lang="kor" page="49a-49b" n="11">눈초리</sent>
+</pages>
+
+<pages n="49b">
+<img n="49b">https://kohico.kr/_media/image/18세기후기_한청문감/49b.jpg</img>
+<sent type="main" lang="chi" page="49b" n="01">眼邊</sent>
+<sent type="main" lang="kor" page="49b" n="01">눈시욹</sent>
+<sent type="main" lang="chi" page="49b" n="02">眼睫毛</sent>
+<sent type="main" lang="kor" page="49b" n="02">속눈섭</sent>
+<sent type="main" lang="chi" page="49b" n="03">眼胞</sent>
+<sent type="main" lang="kor" page="49b" n="03">눈두에</sent>
+<sent type="main" lang="chi" page="49b" n="04">眼眶</sent>
+<sent type="main" lang="kor" page="49b" n="04">눈어엿</sent>
+<sent type="main" lang="chi" page="49b" n="05">眉</sent>
+<sent type="main" lang="kor" page="49b" n="05">눈섭</sent>
+<sent type="main" lang="chi" page="49b" n="06">眉間</sent>
+<sent type="main" lang="kor" page="49b" n="06">兩眉間</sent>
+<sent type="main" lang="chi" page="49b" n="07">耳</sent>
+<sent type="main" lang="kor" page="49b" n="07">귀</sent>
+<sent type="main" lang="chi" page="49b" n="08">耳朶</sent>
+<sent type="main" lang="kor" page="49b" n="08">귀어엿</sent>
+<sent type="main" lang="chi" page="49b" n="09">耳輪</sent>
+<sent type="main" lang="kor" page="49b" n="09">귀ㅅ박회</sent>
+</pages>
+
+<pages n="50a">
+<img n="50a">https://kohico.kr/_media/image/18세기후기_한청문감/50a.jpg</img>
+<sent type="main" lang="chi" page="50a" n="01">耳背</sent>
+<sent type="main" lang="kor" page="50a" n="01">귀ㅅ등</sent>
+<sent type="main" lang="chi" page="50a" n="02">耳垂</sent>
+<sent type="main" lang="kor" page="50a" n="02">귀ㅅᄲᅮᆯ</sent>
+<sent type="main" lang="chi" page="50a" n="03">耳門</sent>
+<sent type="main" lang="kor" page="50a" n="03">耳門</sent><!--'耳門'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="50a" n="04">耳竅</sent>
+<sent type="main" lang="kor" page="50a" n="04">귀ㅅ구무</sent>
+<sent type="main" lang="chi" page="50a" n="05">耳環眼</sent>
+<sent type="main" lang="kor" page="50a" n="05">귀엿골 ᄃᆞᄂᆞᆫ 구무</sent>
+<sent type="main" lang="chi" page="50a" n="06">耳根</sent>
+<sent type="main" lang="kor" page="50a" n="06">귀 뒤ㅅ 밋</sent>
+<sent type="main" lang="chi" page="50a" n="07">耳底</sent>
+<sent type="main" lang="kor" page="50a" n="07">귀 안ㅅ 바닥</sent>
+<sent type="main" lang="chi" page="50a" n="08">鼻</sent>
+<sent type="main" lang="kor" page="50a" n="08">코</sent>
+<sent type="main" lang="chi" page="50a" n="09">鼻根</sent>
+<sent type="main" lang="kor" page="50a" n="09">산근</sent>
+<sent type="main" lang="chi" page="50a" n="10">鼻樑</sent>
+<sent type="main" lang="kor" page="50a" n="10">코ㅅᄆᆞᄅᆞ</sent>
+<sent type="main" lang="chi" page="50a" n="11">鼻準</sent>
+<sent type="main" lang="kor" page="50a" n="11">코ㅅ긋</sent>
+<sent type="main" lang="chi" page="50a-50b" n="12">鼻柱</sent><!--鼻^柱-->
+<sent type="main" lang="kor" page="50a-50b" n="12">코ㅅ구무 기동</sent>
+</pages>
+
+<pages n="50b">
+<img n="50b">https://kohico.kr/_media/image/18세기후기_한청문감/50b.jpg</img>
+<sent type="main" lang="chi" page="50b" n="01">鼻孔</sent>
+<sent type="main" lang="kor" page="50b" n="01">코ㅅ구무</sent>
+<sent type="main" lang="chi" page="50b" n="02">鼻翅</sent>
+<sent type="main" lang="kor" page="50b" n="02">코ㅅ방울</sent>
+<sent type="main" lang="chi" page="50b" n="03">鼻窪</sent>
+<sent type="main" lang="kor" page="50b" n="03">코ㅅ방울 겻 우목ᄒᆞᆫ 곳</sent>
+<sent type="main" lang="chi" page="50b" n="04">口</sent>
+<sent type="main" lang="kor" page="50b" n="04">입</sent>
+<sent type="main" lang="chi" page="50b" n="05">口角</sent>
+<sent type="main" lang="kor" page="50b" n="05">입아귀</sent>
+<sent type="main" lang="chi" page="50b" n="06">唇</sent>
+<sent type="main" lang="kor" page="50b" n="06">입시울</sent>
+<sent type="main" lang="chi" page="50b" n="07">人中</sent>
+<sent type="main" lang="kor" page="50b" n="07">人中</sent><!--'人中'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="50b-51a" n="08">唇下窪處</sent>
+<sent type="main" lang="kor" page="50b-51a" n="08">아ᄅᆡ 입시울 밋ᄒᆡ 우목ᄒᆞᆫ 곳</sent><!--아ᄅᆡ 입시^울 밋ᄒᆡ 우목ᄒᆞᆫ 곳-->
+</pages>
+
+<pages n="51a">
+<img n="51a">https://kohico.kr/_media/image/18세기후기_한청문감/51a.jpg</img>
+<sent type="main" lang="chi" page="51a" n="01">舌</sent>
+<sent type="main" lang="kor" page="51a" n="01">혀</sent>
+<sent type="main" lang="chi" page="51a" n="02">咽喉</sent>
+<sent type="main" lang="kor" page="51a" n="02">목구무</sent>
+<sent type="main" lang="chi" page="51a" n="03">重舌</sent>
+<sent type="main" lang="kor" page="51a" n="03">목졋</sent>
+<sent type="main" lang="chi" page="51a" n="04">ya 牙</sent>
+<sent type="main" lang="kor" page="51a" n="04">니</sent>
+<sent type="main" lang="chi" page="51a" n="05">門牙</sent>
+<sent type="main" lang="kor" page="51a" n="05">앏니</sent>
+<sent type="main" lang="chi" page="51a" n="06">虎牙</sent>
+<sent type="main" lang="kor" page="51a" n="06">송곳니</sent>
+<sent type="main" lang="chi" page="51a" n="07">大牙</sent>
+<sent type="main" lang="kor" page="51a" n="07">아금니</sent>
+<sent type="main" lang="chi" page="51a" n="08">包牙</sent>
+<sent type="main" lang="kor" page="51a" n="08">엄니</sent>
+<sent type="main" lang="chi" page="51a" n="09">重牙</sent>
+<sent type="main" lang="kor" page="51a" n="09">덧니</sent>
+</pages>
+
+<pages n="51b">
+<img n="51b">https://kohico.kr/_media/image/18세기후기_한청문감/51b.jpg</img>
+<sent type="main" lang="chi" page="51b" n="01">牙縫</sent>
+<sent type="main" lang="kor" page="51b" n="01">니ㅅ 삿</sent>
+<sent type="main" lang="chi" page="51b" n="02">牙床</sent>
+<sent type="main" lang="kor" page="51b" n="02">니 박히인 곳</sent>
+<sent type="main" lang="chi" page="51b" n="03">牙花</sent>
+<sent type="main" lang="kor" page="51b" n="03">니ㅅ무음</sent>
+<sent type="main" lang="chi" page="51b" n="04">牙縫肉</sent>
+<sent type="main" lang="kor" page="51b" n="04">니ㅅ ᄉᆞ이에 ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="51b" n="05">巧舌</sent>
+<sent type="main" lang="kor" page="51b" n="05">입 하ᄂᆞᆯ</sent>
+<sent type="main" lang="chi" page="51b" n="06">牙關</sent>
+<sent type="main" lang="kor" page="51b" n="06">니 아귀</sent>
+<sent type="main" lang="chi" page="51b" n="07">下頦</sent>
+<sent type="main" lang="kor" page="51b" n="07">ᄐᆞᆨ</sent>
+<sent type="main" lang="chi" page="51b" n="08">鬍鬚</sent>
+<sent type="main" lang="kor" page="51b" n="08">나롯</sent>
+<sent type="main" lang="chi" page="51b" n="09">連鬢鬍</sent>
+<sent type="main" lang="kor" page="51b" n="09">구레 나롯</sent>
+<sent type="main" lang="chi" page="51b" n="10">髭鬚</sent>
+<sent type="main" lang="kor" page="51b" n="10">아ᄅᆡ 입시울엣 나롯</sent>
+</pages>
+
+<pages n="52a">
+<img n="52a">https://kohico.kr/_media/image/18세기후기_한청문감/52a.jpg</img>
+<sent type="main" lang="chi" page="52a" n="01">綹</sent>
+<sent type="main" lang="kor" page="52a" n="01">鬚髮之一根爲綹</sent><!--'綹'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="52a" n="02">脖</sent>
+<sent type="main" lang="kor" page="52a" n="02">더숙이</sent>
+<sent type="main" lang="chi" page="52a" n="03">脖項</sent>
+<sent type="main" lang="kor" page="52a" n="03">목</sent>
+<sent type="main" lang="chi" page="52a" n="04">食嗓</sent>
+<sent type="main" lang="kor" page="52a" n="04">목 쥴ㅅᄃᆡ</sent>
+<sent type="main" lang="chi" page="52a" n="05">氣嗓</sent>
+<sent type="main" lang="kor" page="52a" n="05">숨통</sent>
+<sent type="main" lang="chi" page="52a" n="06">結喉</sent>
+<sent type="main" lang="kor" page="52a" n="06">념쥬 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="52a" n="07">嗓根</sent>
+<sent type="main" lang="kor" page="52a" n="07">멱</sent>
+<sent type="main" lang="chi" page="52a" n="08">嗓窩</sent>
+<sent type="main" lang="kor" page="52a" n="08">목 우묵ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="52a" n="09">脖頸</sent>
+<sent type="main" lang="kor" page="52a" n="09">목 부출</sent>
+</pages>
+
+<pages n="52b">
+<img n="52b">https://kohico.kr/_media/image/18세기후기_한청문감/52b.jpg</img>
+<sent type="main" lang="chi" page="52b" n="01">肩</sent>
+<sent type="main" lang="kor" page="52b" n="01">엇게</sent>
+<sent type="main" lang="chi" page="52b" n="02">肩膀</sent>
+<sent type="main" lang="kor" page="52b" n="02">ᄑᆞᆯ</sent>
+<sent type="main" lang="chi" page="52b" n="03">手</sent>
+<sent type="main" lang="kor" page="52b" n="03">손</sent>
+<sent type="main" lang="chi" page="52b" n="04">肘</sent>
+<sent type="main" lang="kor" page="52b" n="04">ᄑᆞᆯㅅ독</sent>
+<sent type="main" lang="chi" page="52b" n="05">手背</sent>
+<sent type="main" lang="kor" page="52b" n="05">손ㅅ등</sent>
+<sent type="main" lang="chi" page="52b" n="06">手掌</sent>
+<sent type="main" lang="kor" page="52b" n="06">손ㅅ바당</sent>
+<sent type="main" lang="chi" page="52b" n="07">指</sent>
+<sent type="main" lang="kor" page="52b" n="07">手足之指</sent><!--'指'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="52b" n="08">大指</sent>
+<sent type="main" lang="kor" page="52b" n="08">手足之大指</sent><!--'大指'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="52b" n="09">食指</sent>
+<sent type="main" lang="kor" page="52b" n="09">手之第二指</sent>
+<sent type="main" lang="chi" page="52b" n="10">中指</sent>
+<sent type="main" lang="kor" page="52b" n="10">第三指</sent>
+<sent type="main" lang="chi" page="52b-53a" n="11">無名指</sent><!--無名^指-->
+<sent type="main" lang="kor" page="52b-53a" n="11">第四指</sent>
+</pages>
+
+<pages n="53a">
+<img n="53a">https://kohico.kr/_media/image/18세기후기_한청문감/53a.jpg</img>
+<sent type="main" lang="chi" page="53a" n="01">小指</sent>
+<sent type="main" lang="kor" page="53a" n="01">第五指</sent>
+<sent type="main" lang="chi" page="53a" n="02">六指</sent>
+<sent type="main" lang="kor" page="53a" n="02">뉵가락</sent>
+<sent type="main" lang="chi" page="53a" n="03">手丫</sent>
+<sent type="main" lang="kor" page="53a" n="03">손ㅅ 삿</sent>
+<sent type="main" lang="chi" page="53a" n="04">手足紋</sent>
+<sent type="main" lang="kor" page="53a" n="04">손발ㅅ 금</sent>
+<sent type="main" lang="chi" page="53a" n="05">拳</sent>
+<sent type="main" lang="kor" page="53a" n="05">주머귀</sent>
+<sent type="main" lang="chi" page="53a" n="06">指甲</sent>
+<sent type="main" lang="kor" page="53a" n="06">手足指甲</sent><!--'指甲'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="53a" n="07">指甲根</sent>
+<sent type="main" lang="kor" page="53a" n="07">手足指甲之根</sent>
+<sent type="main" lang="chi" page="53a" n="08">胸膛</sent>
+<sent type="main" lang="kor" page="53a" n="08">胸膛</sent><!--'胸膛'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="53a" n="09">心坎</sent>
+<sent type="main" lang="kor" page="53a" n="09">가ᄉᆞᆷ</sent>
+<sent type="main" lang="chi" page="53a" n="10">奶頭</sent>
+<sent type="main" lang="kor" page="53a" n="10">졋</sent>
+</pages>
+
+<pages n="53b">
+<img n="53b">https://kohico.kr/_media/image/18세기후기_한청문감/53b.jpg</img>
+<sent type="main" lang="chi" page="53b" n="01">奶頭嘴</sent>
+<sent type="main" lang="kor" page="53b" n="01">졋ᄭᅩᆨ지</sent>
+<sent type="main" lang="chi" page="53b" n="02">心窩</sent>
+<sent type="main" lang="kor" page="53b" n="02">명치</sent>
+<sent type="main" lang="chi" page="53b" n="03">胳肢窩</sent>
+<sent type="main" lang="kor" page="53b" n="03">겨드랑</sent>
+<sent type="main" lang="chi" page="53b" n="04">肚</sent>
+<sent type="main" lang="kor" page="53b" n="04">ᄇᆡ</sent>
+<sent type="main" lang="chi" page="53b" n="05">小肚</sent>
+<sent type="main" lang="kor" page="53b" n="05">아ᄅᆡᆺ ᄇᆡ</sent>
+<sent type="main" lang="chi" page="53b" n="06">臍</sent>
+<sent type="main" lang="kor" page="53b" n="06">ᄇᆡㅅ곱</sent>
+<sent type="main" lang="chi" page="53b" n="07">肚囊</sent>
+<sent type="main" lang="kor" page="53b" n="07">ᄇᆡㅅ 구레</sent>
+<sent type="main" lang="chi" page="53b" n="08">背</sent>
+<sent type="main" lang="kor" page="53b" n="08">등</sent>
+<sent type="main" lang="chi" page="53b" n="09">腰</sent>
+<sent type="main" lang="kor" page="53b" n="09">허리</sent>
+</pages>
+
+<pages n="54a">
+<img n="54a">https://kohico.kr/_media/image/18세기후기_한청문감/54a.jpg</img>
+<sent type="main" lang="chi" page="54a" n="01">兩肋窪處</sent>
+<sent type="main" lang="kor" page="54a" n="01">가리ᄲᅧ 두 편 우묵ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="54a" n="02">脇下軟處</sent>
+<sent type="main" lang="kor" page="54a" n="02">ᄌᆞᆫ허리</sent>
+<sent type="main" lang="chi" page="54a" n="03">胯</sent>
+<sent type="main" lang="kor" page="54a" n="03">궁둥이</sent>
+<sent type="main" lang="chi" page="54a" n="04">腰眼</sent>
+<sent type="main" lang="kor" page="54a" n="04">볼기 우 두 편 오목ᄒᆞᆫ ᄃᆡ</sent>
+<sent type="main" lang="chi" page="54a" n="05">尾骨兩旁</sent>
+<sent type="main" lang="kor" page="54a" n="05">옹문이 두 편</sent>
+<sent type="main" lang="chi" page="54a" n="06">臀</sent>
+<sent type="main" lang="kor" page="54a" n="06">볼기</sent>
+<sent type="main" lang="chi" page="54a" n="07">臀肉</sent>
+<sent type="main" lang="kor" page="54a" n="07">볼기ᄶᅡᆨ</sent>
+<sent type="main" lang="chi" page="54a" n="08">腿</sent>
+<sent type="main" lang="kor" page="54a" n="08">발 ○ 腿猶言脚自腿至足通謂之腿</sent><!--뒤쪽의 '腿'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="54a" n="09">大腿</sent>
+<sent type="main" lang="kor" page="54a" n="09">넙덕다리</sent>
+</pages>
+
+<pages n="54b">
+<img n="54b">https://kohico.kr/_media/image/18세기후기_한청문감/54b.jpg</img>
+<sent type="main" lang="chi" page="54b" n="01">胯襠</sent>
+<sent type="main" lang="kor" page="54b" n="01">다리 삿</sent>
+<sent type="main" lang="chi" page="54b" n="02">馬面裡邊</sent>
+<sent type="main" lang="kor" page="54b" n="02">싄다리 안ᄶᅡᆨ</sent>
+<sent type="main" lang="chi" page="54b" n="03">馬面</sent>
+<sent type="main" lang="kor" page="54b" n="03">싄다리</sent>
+<sent type="main" lang="chi" page="54b" n="04">脚面</sent>
+<sent type="main" lang="kor" page="54b" n="04">발ㅅ등</sent>
+<sent type="main" lang="chi" page="54b" n="05">攬筋</sent>
+<sent type="main" lang="kor" page="54b" n="05">죵아리</sent>
+<sent type="main" lang="chi" page="54b" n="06">脚根</sent>
+<sent type="main" lang="kor" page="54b" n="06">발ㅅ 뒤측</sent>
+<sent type="main" lang="chi" page="54b" n="07">脚底</sent>
+<sent type="main" lang="kor" page="54b" n="07">발ㅅ바당</sent>
+<sent type="main" lang="chi" page="54b" n="08">骨</sent>
+<sent type="main" lang="kor" page="54b" n="08">ᄲᅧ</sent>
+<sent type="main" lang="chi" page="54b" n="09">骨節</sent>
+<sent type="main" lang="kor" page="54b" n="09">骨節</sent><!--'骨節'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="54b" n="10">腦骨</sent>
+<sent type="main" lang="kor" page="54b" n="10">텬령개</sent>
+</pages>
+
+<pages n="55a">
+<img n="55a">https://kohico.kr/_media/image/18세기후기_한청문감/55a.jpg</img>
+<sent type="main" lang="chi" page="55a" n="01">枕骨</sent>
+<sent type="main" lang="kor" page="55a" n="01">枕骨</sent><!--'枕骨'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="55a" n="02">腦精骨</sent>
+<sent type="main" lang="kor" page="55a" n="02">쉿 구무 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55a" n="03">脖頸骨</sent>
+<sent type="main" lang="kor" page="55a" n="03">목 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55a" n="04">鎖子骨</sent>
+<sent type="main" lang="kor" page="55a" n="04">胸坎上骨</sent>
+<sent type="main" lang="chi" page="55a" n="05">胸尖骨</sent>
+<sent type="main" lang="kor" page="55a" n="05">心窩正中骨</sent>
+<sent type="main" lang="chi" page="55a" n="06">胸岔小骨</sent>
+<sent type="main" lang="kor" page="55a" n="06">胸左右肋骨</sent>
+<sent type="main" lang="chi" page="55a" n="07">胸岔骨</sent>
+<sent type="main" lang="kor" page="55a" n="07">心窩下兩枝骨</sent>
+<sent type="main" lang="chi" page="55a" n="08">肋</sent>
+<sent type="main" lang="kor" page="55a" n="08">가리 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55a-55b" n="09">短肋</sent>
+<sent type="main" lang="kor" page="55a-55b" n="09">近胸肋骨</sent><!--近胸^肋骨-->
+</pages>
+
+<pages n="55b">
+<img n="55b">https://kohico.kr/_media/image/18세기후기_한청문감/55b.jpg</img>
+<sent type="main" lang="chi" page="55b" n="01">軟肋</sent>
+<sent type="main" lang="kor" page="55b" n="01">腰眼邊肋骨</sent>
+<sent type="main" lang="chi" page="55b" n="02">琵琶骨</sent>
+<sent type="main" lang="kor" page="55b" n="02">쥭지 ᄡᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="03">肩骨</sent>
+<sent type="main" lang="kor" page="55b" n="03">엇게 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="04">棒子骨</sent>
+<sent type="main" lang="kor" page="55b" n="04">ᄑᆞᆯ 웃동 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="05">連細骨</sent>
+<sent type="main" lang="kor" page="55b" n="05">ᄑᆞᆯ 아ᄅᆡᆺ동 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="06">腰節骨</sent>
+<sent type="main" lang="kor" page="55b" n="06">등ᄆᆞᄅᆞ ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="07">尾骨</sent>
+<sent type="main" lang="kor" page="55b" n="07">옹문이 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="55b" n="08">尾骨尖</sent>
+<sent type="main" lang="kor" page="55b" n="08">옹문이 ᄭᅳᆺ</sent>
+</pages>
+
+<pages n="56a">
+<img n="56a">https://kohico.kr/_media/image/18세기후기_한청문감/56a.jpg</img>
+<sent type="main" lang="chi" page="56a" n="01">胯骨</sent>
+<sent type="main" lang="kor" page="56a" n="01">궁둥이 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56a" n="02">胯骨軸</sent>
+<sent type="main" lang="kor" page="56a" n="02">胯腿相連處</sent>
+<sent type="main" lang="chi" page="56a" n="03">大腿骨</sent>
+<sent type="main" lang="kor" page="56a" n="03">넙덕다리 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56a" n="04">膝盖骨</sent>
+<sent type="main" lang="kor" page="56a" n="04">쟝긔 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56a" n="05">小腿骨</sent>
+<sent type="main" lang="kor" page="56a" n="05">죵아리 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56a" n="06">踝骨</sent>
+<sent type="main" lang="kor" page="56a" n="06">발 회목 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56a" n="07">外踝</sent>
+<sent type="main" lang="kor" page="56a" n="07">회목 밧 편</sent>
+<sent type="main" lang="chi" page="56a" n="08">裡踝</sent>
+<sent type="main" lang="kor" page="56a" n="08">회목 안 편</sent>
+<sent type="main" lang="chi" page="56a-56b" n="09">腿樑高處</sent><!--腿樑^高處-->
+<sent type="main" lang="kor" page="56a-56b" n="09">쟝긔 ᄲᅧ 아ᄅᆡ 놉흔 ᄃᆡ</sent>
+</pages>
+
+<pages n="56b">
+<img n="56b">https://kohico.kr/_media/image/18세기후기_한청문감/56b.jpg</img>
+<sent type="main" lang="chi" page="56b" n="01">腿樑</sent>
+<sent type="main" lang="kor" page="56b" n="01">졍강 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56b" n="02">核桃骨</sent>
+<sent type="main" lang="kor" page="56b" n="02">복쇼아 ᄲᅧ</sent>
+<sent type="main" lang="chi" page="56b" n="03">脆骨</sent>
+<sent type="main" lang="kor" page="56b" n="03">凡骨尖之色白而軟者</sent>
+<sent type="main" lang="chi" page="56b" n="04">骨糟</sent>
+<sent type="main" lang="kor" page="56b" n="04">骨中凝血</sent>
+<sent type="main" lang="chi" page="56b" n="05">皮</sent>
+<sent type="main" lang="kor" page="56b" n="05">가족</sent>
+<sent type="main" lang="chi" page="56b" n="06">毛孔</sent>
+<sent type="main" lang="kor" page="56b" n="06">털 구무</sent>
+<sent type="main" lang="chi" page="56b" n="07">包絡嫩皮</sent>
+<sent type="main" lang="kor" page="56b" n="07">발 기름</sent>
+<sent type="main" lang="chi" page="56b-57a" n="08">肉核</sent>
+<sent type="main" lang="kor" page="56b-57a" n="08">身上皮肉之凸起處</sent>
+</pages>
+
+<pages n="57a">
+<img n="57a">https://kohico.kr/_media/image/18세기후기_한청문감/57a.jpg</img>
+<sent type="main" lang="chi" page="57a" n="00">肉</sent>
+<sent type="main" lang="kor" page="57a" n="00">ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="57a" n="00">䯡子肉</sent>
+<sent type="main" lang="kor" page="57a" n="00">슈죡에ㅅ ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="57a" n="00">裡脊肉</sent>
+<sent type="main" lang="kor" page="57a" n="00">가리 ᄲᅧㅅ ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="57a" n="00">羅截肉</sent>
+<sent type="main" lang="kor" page="57a" n="00">발 기름에ㅅ ᄉᆞᆯ</sent>
+<sent type="main" lang="chi" page="57a" n="00">油</sent>
+<sent type="main" lang="kor" page="57a" n="00">기름</sent>
+<sent type="main" lang="chi" page="57a" n="00">鞔肚油</sent>
+<sent type="main" lang="kor" page="57a" n="00">쟝 위에ㅅ 기름</sent>
+<sent type="main" lang="chi" page="57a" n="00">筋</sent>
+<sent type="main" lang="kor" page="57a" n="00">힘줄</sent>
+<sent type="main" lang="chi" page="57a" n="00">筋頭</sent>
+<sent type="main" lang="kor" page="57a" n="00">힘줄 ᄭᅳᆺ</sent>
+</pages>
+
+<pages n="57b">
+<img n="57b">https://kohico.kr/_media/image/18세기후기_한청문감/57b.jpg</img>
+<sent type="main" lang="chi" page="57b" n="01">腦子</sent>
+<sent type="main" lang="kor" page="57b" n="01">마리ㅅ골</sent>
+<sent type="main" lang="chi" page="57b" n="02">脊髓</sent>
+<sent type="main" lang="kor" page="57b" n="02">등ㅅ골</sent>
+<sent type="main" lang="chi" page="57b" n="03">骨髓</sent>
+<sent type="main" lang="kor" page="57b" n="03">骨髓</sent><!--'骨髓'는 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="57b" n="04">津液</sent>
+<sent type="main" lang="kor" page="57b" n="04">津液</sent><!--'津液'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="57b" n="05">心</sent>
+<sent type="main" lang="kor" page="57b" n="05">념통</sent>
+<sent type="main" lang="chi" page="57b" n="06">肺</sent>
+<sent type="main" lang="kor" page="57b" n="06">부화</sent>
+<sent type="main" lang="chi" page="57b" n="07">肝</sent>
+<sent type="main" lang="kor" page="57b" n="07">肝</sent><!--'肝'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="57b" n="08">膽</sent>
+<sent type="main" lang="kor" page="57b" n="08">쓸개</sent>
+<sent type="main" lang="chi" page="57b" n="09">脾</sent>
+<sent type="main" lang="kor" page="57b" n="09">만화</sent>
+</pages>
+
+<pages n="58a">
+<img n="58a">https://kohico.kr/_media/image/18세기후기_한청문감/58a.jpg</img>
+<sent type="main" lang="chi" page="58a" n="01">胃</sent>
+<sent type="main" lang="kor" page="58a" n="01">양</sent>
+<sent type="main" lang="chi" page="58a" n="02">胃口</sent>
+<sent type="main" lang="kor" page="58a" n="02">양 부리</sent>
+<sent type="main" lang="chi" page="58a" n="03">腸</sent>
+<sent type="main" lang="kor" page="58a" n="03">챵ᄌᆞ</sent>
+<sent type="main" lang="chi" page="58a" n="04">小腸</sent>
+<sent type="main" lang="kor" page="58a" n="04">小膓</sent><!--'小膓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="58a" n="05">大腸</sent>
+<sent type="main" lang="kor" page="58a" n="05">大膓</sent><!--'大膓'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="58a" n="06">臟</sent>
+<sent type="main" lang="kor" page="58a" n="06">五臟之臟</sent><!--뒤쪽의 '臟'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="58a" n="07">腑</sent>
+<sent type="main" lang="kor" page="58a" n="07">六腑之腑</sent><!--뒤쪽의 '腑'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="58a" n="08">三焦</sent>
+<sent type="main" lang="kor" page="58a" n="08">三焦</sent><!--'三焦'는 반복 부호로 표기되어 있음-->
+</pages>
+
+<pages n="58b">
+<img n="58b">https://kohico.kr/_media/image/18세기후기_한청문감/58b.jpg</img>
+<sent type="main" lang="chi" page="58b" n="01">腎</sent>
+<sent type="main" lang="kor" page="58b" n="01">콩ᄑᆞᆺ</sent>
+<sent type="main" lang="chi" page="58b" n="02">尿胞</sent>
+<sent type="main" lang="kor" page="58b" n="02">오좀 통</sent>
+<sent type="main" lang="chi" page="58b" n="03">大腸頭</sent>
+<sent type="main" lang="kor" page="58b" n="03">큰 챵ᄌᆞ ᄭᅳᆺ</sent>
+<sent type="main" lang="chi" page="58b" n="04">肛</sent>
+<sent type="main" lang="kor" page="58b" n="04">항문</sent>
+<sent type="main" lang="chi" page="58b" n="05">血</sent>
+<sent type="main" lang="kor" page="58b" n="05">피</sent>
+<sent type="main" lang="chi" page="58b" n="06">血道</sent>
+<sent type="main" lang="kor" page="58b" n="06">피ㅅ대</sent>
+<sent type="main" lang="chi" page="58b" n="07">脉</sent>
+<sent type="main" lang="kor" page="58b" n="07">脉</sent><!--'脉'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="58b" n="08">脖項跳脉</sent>
+<sent type="main" lang="kor" page="58b" n="08">목 두 편 동ᄆᆡᆨ</sent>
+<sent type="main" lang="chi" page="58b" n="09">氣管</sent>
+<sent type="main" lang="kor" page="58b" n="09">숨통</sent>
+</pages>
+
+<pages n="59a">
+<img n="59a">https://kohico.kr/_media/image/18세기후기_한청문감/59a.jpg</img>
+<sent type="main" lang="chi" page="59a" n="01">精</sent>
+<sent type="main" lang="kor" page="59a" n="01">精神之精</sent><!--뒤쪽의 '精'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59a" n="02">液</sent>
+<sent type="main" lang="kor" page="59a" n="02">津液之液</sent><!--뒤쪽의 '液'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59a" n="03">呼吸氣</sent>
+<sent type="main" lang="kor" page="59a" n="03">숨</sent>
+<sent type="main" lang="chi" page="59a" n="04">氣</sent>
+<sent type="main" lang="kor" page="59a" n="04">긔운 ○ 又 김</sent>
+<sent type="main" lang="chi" page="59a" n="05">魂</sent>
+<sent type="main" lang="kor" page="59a" n="05">陽氣爲魂</sent><!--'魂'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59a" n="06">魄</sent>
+<sent type="main" lang="kor" page="59a" n="06">陰液爲魄</sent><!--'魄'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59a" n="07">汗</sent>
+<sent type="main" lang="kor" page="59a" n="07">ᄯᆞᆷ</sent>
+<sent type="main" lang="chi" page="59a" n="08">大汗</sent>
+<sent type="main" lang="kor" page="59a" n="08">大汗</sent><!--'大汗'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59a" n="09">手足汗</sent>
+<sent type="main" lang="kor" page="59a" n="09">슈죡에ㅅ ᄯᆞᆷ</sent>
+<sent type="main" lang="chi" page="59a-59b" n="10">汗微出</sent>
+<sent type="main" lang="kor" page="59a-59b" n="10">ᄯᆞᆷ 젹이 나다</sent><!--ᄯᆞᆷ 젹^이 나다-->
+</pages>
+
+<pages n="59b">
+<img n="59b">https://kohico.kr/_media/image/18세기후기_한청문감/59b.jpg</img>
+<sent type="main" lang="chi" page="59b" n="01">汗大出</sent>
+<sent type="main" lang="kor" page="59b" n="01">ᄯᆞᆷ 만히 나다</sent>
+<sent type="main" lang="chi" page="59b" n="02">汗濕透</sent>
+<sent type="main" lang="kor" page="59b" n="02">ᄯᆞᆷ ᄇᆡ다</sent>
+<sent type="main" lang="chi" page="59b" n="03">唾沫</sent>
+<sent type="main" lang="kor" page="59b" n="03">춤</sent>
+<sent type="main" lang="chi" page="59b" n="04">吐唾沫</sent>
+<sent type="main" lang="kor" page="59b" n="04">춤 밧다</sent>
+<sent type="main" lang="chi" page="59b" n="05">痰</sent>
+<sent type="main" lang="kor" page="59b" n="05">痰</sent><!--'痰'은 반복 부호로 표기되어 있음-->
+<sent type="main" lang="chi" page="59b" n="06">喀痰</sent>
+<sent type="main" lang="kor" page="59b" n="06">담 밧다</sent>
+<sent type="main" lang="chi" page="59b" n="07">沫子</sent>
+<sent type="main" lang="kor" page="59b" n="07">ᄆᆞᆰ은 춤</sent>
+<sent type="main" lang="chi" page="59b" n="08">漦水</sent>
+<sent type="main" lang="kor" page="59b" n="08">뉘우춤</sent>
+<sent type="main" lang="chi" page="59b" n="09">眼淚</sent>
+<sent type="main" lang="kor" page="59b" n="09">눈믈</sent>
+</pages>
+
+<pages n="60a">
+<img n="60a">https://kohico.kr/_media/image/18세기후기_한청문감/60a.jpg</img>
+<sent type="main" lang="chi" page="60a" n="01">眼眵</sent>
+<sent type="main" lang="kor" page="60a" n="01">눈ㅅ곱</sent>
+<sent type="main" lang="chi" page="60a" n="02">生眵</sent>
+<sent type="main" lang="kor" page="60a" n="02">눈ㅅ곱 ᄭᅵ이다</sent>
+<sent type="main" lang="chi" page="60a" n="03">流眵淚</sent>
+<sent type="main" lang="kor" page="60a" n="03">눈믈과 눈ㅅ곱 흐ᄅᆞ다</sent>
+<sent type="main" lang="chi" page="60a" n="04">耳塞</sent>
+<sent type="main" lang="kor" page="60a" n="04">귀여지</sent>
+<sent type="main" lang="chi" page="60a" n="05">麩皮</sent>
+<sent type="main" lang="kor" page="60a" n="05">비듬</sent>
+<sent type="main" lang="chi" page="60a" n="06">鼻涕</sent>
+<sent type="main" lang="kor" page="60a" n="06">코ㅅ믈</sent>
+<sent type="main" lang="chi" page="60a" n="07">擤鼻涕</sent>
+<sent type="main" lang="kor" page="60a" n="07">코 푸다</sent>
+<sent type="main" lang="chi" page="60a" n="08">尿</sent>
+<sent type="main" lang="kor" page="60a" n="08">오좀</sent>
+<sent type="main" lang="chi" page="60a" n="09">出小恭</sent>
+<sent type="main" lang="kor" page="60a" n="09">오좀 누다</sent>
+<sent type="main" lang="chi" page="60a-60b" n="10">屎</sent>
+<sent type="main" lang="kor" page="60a-60b" n="10">ᄯᅩᆼ</sent>
+</pages>
+
+<pages n="60b">
+<img n="60b">https://kohico.kr/_media/image/18세기후기_한청문감/60b.jpg</img>
+<sent type="main" lang="chi" page="60b" n="01">出大恭</sent>
+<sent type="main" lang="kor" page="60b" n="01">ᄯᅩᆼ 누다</sent>
+<sent type="main" lang="chi" page="60b" n="02">出恭</sent>
+<sent type="main" lang="kor" page="60b" n="02">뒤 보다</sent>
+<sent type="main" lang="chi" page="60b" n="03">小兒屎</sent>
+<sent type="main" lang="kor" page="60b" n="03">아ᄒᆡ ᄯᅩᆼ</sent>
+<sent type="main" lang="chi" page="60b" n="04">小兒撒屎</sent>
+<sent type="main" lang="kor" page="60b" n="04">아ᄒᆡ ᄯᅩᆼ 누다</sent>
+</pages>
+</doc>
+
