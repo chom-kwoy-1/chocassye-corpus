@@ -16,14 +16,24 @@ def confirm_page(conn, book_name, image_file, page_name):
         section = None
 
     cur = conn.cursor()
-    cur.execute("""
-                SELECT section, page, html
-                FROM sentences
-                WHERE filename = %s
-                  AND section = %s
-                  AND page LIKE %s
-                ORDER BY number_in_book
-                """, (book_name, section, f"%{page_name}%"))
+    if section is None:
+        cur.execute("""
+                    SELECT section, page, html
+                    FROM sentences
+                    WHERE filename = %s
+                      AND section IS NULL
+                      AND page LIKE %s
+                    ORDER BY number_in_book
+                    """, (book_name, f"%{page_name}%"))
+    else:
+        cur.execute("""
+                    SELECT section, page, html
+                    FROM sentences
+                    WHERE filename = %s
+                      AND section = %s
+                      AND page LIKE %s
+                    ORDER BY number_in_book
+                    """, (book_name, section, f"%{page_name}%"))
 
     texts = cur.fetchall()
     cur.close()
@@ -92,7 +102,9 @@ def main():
         if page_name == "":
             continue
         cur_pages = page_name.split("-")
-        prefix = re.split(r"(\d+)", cur_pages[0])[0]
+        splits = re.split(r"(\d+)", cur_pages[0])
+        prefix = splits[0]
+        cur_pages[0] = "".join(splits[1:])
         if section is not None:
             prefix = f"{section}+{prefix}"
         for page in cur_pages:
