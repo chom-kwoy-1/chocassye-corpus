@@ -168,7 +168,7 @@ def main():
 
     for i, image_path in enumerate(image_files):
         # Copy the image to the new directory with the new name
-        new_image_path = pathlib.Path(new_dir_name) / f'{i+1}+{page_names[i]}.jpg'
+        new_image_path = pathlib.Path(new_dir_name) / (f'{i+1}+{page_names[i]}' + image_path.suffix)
         shutil.copy(image_path, new_image_path)
 
     print("Renaming complete.")
@@ -179,7 +179,7 @@ def main():
         for i, image_path in enumerate(image_files):
             shutil.move(image_path, backup_dir / image_path.name)
         for i, image_path in enumerate(image_files):
-            name = f'{i+1}+{page_names[i]}.jpg'
+            name = f'{i+1}+{page_names[i]}' + image_path.suffix
             new_image_path = pathlib.Path(new_dir_name) / name
             shutil.move(new_image_path, image_dir / name)
         new_dir_name.rmdir()
