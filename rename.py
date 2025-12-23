@@ -2,7 +2,6 @@ import pathlib
 import shutil
 import psycopg2
 import argparse
-import re
 import subprocess
 import rich
 from natsort import natsorted
@@ -18,29 +17,29 @@ def confirm_page(conn, book_name, image_file, page_name):
     cur = conn.cursor()
     if section is None:
         cur.execute("""
-                    SELECT section, page, html
+                    SELECT section, page_start, page_end, html
                     FROM sentences
                     WHERE filename = %s
                       AND section IS NULL
-                      AND page LIKE %s
+                      AND (page_start LIKE %s OR page_end LIKE %s)
                     ORDER BY number_in_book
-                    """, (book_name, f"%{page_name}%"))
+                    """, (book_name, f"%{page_name}%", f"%{page_name}%"))
     else:
         cur.execute("""
-                    SELECT section, page, html
+                    SELECT section, page_start, page_end, html
                     FROM sentences
                     WHERE filename = %s
                       AND section = %s
-                      AND page LIKE %s
+                      AND (page_start LIKE %s OR page_end LIKE %s)
                     ORDER BY number_in_book
-                    """, (book_name, section, f"%{page_name}%"))
+                    """, (book_name, section, f"%{page_name}%", f"%{page_name}%"))
 
     texts = cur.fetchall()
     cur.close()
 
     print(f"Contents of page {page_name} of book {book_name}:")
-    for section, page, text in texts[:5]:
-        print(f"Sec {section} page {page}: {text}")
+    for section, page_start, page_end, text in texts[:5]:
+        print(f"Sec {section} page {page_start}-{page_end}: {text}")
 
 
     proc = subprocess.Popen(["gwenview", image_file],
@@ -89,32 +88,21 @@ def main():
 
     cur = conn.cursor()
     cur.execute("""
-        SELECT section, page FROM sentences 
+        SELECT section, page_start, page_end FROM sentences 
             WHERE filename = %s
             ORDER BY number_in_book
     """, (book_name,))
 
     page_names = []
-    for section, page_name in cur:
-        if page_name is None:
-            continue
-        page_name = page_name.strip()
-        if page_name == "":
-            continue
-        cur_pages = page_name.split("-")
-        splits = re.split(r"(\d+)", cur_pages[0])
-        prefix = splits[0]
-        cur_pages[0] = "".join(splits[1:])
-        if section is not None:
-            prefix = f"{section}+{prefix}"
-        for page in cur_pages:
-            if page in args.ignore_pages:
+    for section, page_start, page_end in cur:
+        pages = [page_start, page_end]
+        for page in pages:
+            if page is None:
                 continue
-            page = re.sub(r"^0+", "", page)  # remove leading zeros
-            page = prefix + page
-            if len(page_names) > 0 and page in page_names:
-                continue
-            page_names.append(page)
+            if section is not None:
+                page = f"{section}+{page}"
+            if page not in page_names:
+                page_names.append(page)
 
     cur.close()
 
