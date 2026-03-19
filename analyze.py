@@ -98,6 +98,7 @@ def tokenize_mc(reading: str) -> str:
         .replace('zy', 'ʑ')
         .replace('ny', 'ɲ')
         .replace('ng', 'ŋ')
+        .replace('y', 'j')
     )
     if 'h' in initial[1:]:
         initial = initial.replace('h', 'ʰ')
