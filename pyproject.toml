@@ -1,0 +1,9 @@
+[project]
+name = "chocassye-corpus"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "lingpy>=2.6.13",
+    "lingrex>=1.4.2",
+]
