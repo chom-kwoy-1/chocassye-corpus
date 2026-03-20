@@ -41,7 +41,7 @@ class Reading:
     rhyme_group: str
     division: str
     open_closed: str
-    zhongniu: str
+    chongniu: str
     tone: str
     fanqie: str
 
@@ -52,7 +52,7 @@ class _ReadingData:
     rhyme_group: str
     division: str
     open_closed: str
-    zhongniu: str
+    chongniu: str
     tone: str
     fanqie: str
 
@@ -176,7 +176,7 @@ def _read_mc_data_files(dir_path: str) -> dict[str, list[_ReadingData]]:
                         rhyme_group=rm.group(2),
                         division=rm.group(3),
                         open_closed=rm.group(4),
-                        zhongniu=rm.group(7) or "",
+                        chongniu=rm.group(7) or "",
                         tone=rm.group(5),
                         fanqie=rm.group(6),
                     )
@@ -203,12 +203,14 @@ def _get_mc_final(
     rhyme_group: str,
     open_closed: str,
     division: str,
-    zhongniu: str,
+    chongniu: str,
     tone: str,
 ) -> Final | None:
     data = _MC_CHECKED_TONE_FINALS_DATA if tone == "入" else _MC_FINALS_DATA
+    chongniu = "重鈕三" if chongniu else ""
     for key in [
-        rhyme_group + zhongniu + division + open_closed,
+        rhyme_group + chongniu + open_closed,
+        rhyme_group + chongniu,
         rhyme_group + division + open_closed,
         rhyme_group + division,
         rhyme_group + open_closed,
@@ -232,7 +234,7 @@ def getMCData(char: str) -> list[Reading] | None:
             record.rhyme_group,
             record.open_closed,
             record.division,
-            record.zhongniu,
+            record.chongniu,
             record.tone,
         )
         if initial is None or final is None:
@@ -243,7 +245,7 @@ def getMCData(char: str) -> list[Reading] | None:
                 record.rhyme_group,
                 record.division,
                 record.open_closed,
-                record.zhongniu,
+                record.chongniu,
             )
         readings.append(
             Reading(
@@ -252,7 +254,7 @@ def getMCData(char: str) -> list[Reading] | None:
                 rhyme_group=record.rhyme_group,
                 division=record.division,
                 open_closed=record.open_closed,
-                zhongniu=record.zhongniu,
+                chongniu=record.chongniu,
                 tone=record.tone,
                 fanqie=record.fanqie,
             )
@@ -260,7 +262,14 @@ def getMCData(char: str) -> list[Reading] | None:
     return readings
 
 
-def getMCReconstructions(author: str, include_tone: bool, spaced: bool) -> dict[str, list[str]]:
+CHONGNIU_RHYME_GROUPS = "支脂祭眞質仙薛宵侵緝鹽葉庚陌清昔幽"
+
+def getMCReconstructions(
+        author: str,
+        include_tone: bool,
+        spaced: bool,
+        chongniu: str | None = None,
+) -> dict[str, list[str]]:
     result = {}
     for char in _MIDDLE_CHINESE_DATA.keys():
         readings = getMCData(char)
@@ -270,8 +279,30 @@ def getMCReconstructions(author: str, include_tone: bool, spaced: bool) -> dict[
             initial = getattr(reading.initial, author)
             final = getattr(reading.final, author)
             if author == 'baxter':
+                is_chongniu_initial = initial in ['p', 'ph', 'b', 'm', 'k', 'kh', 'g', 'ng', "'", 'x', 'h']
+                if reading.rhyme_group in CHONGNIU_RHYME_GROUPS:
+                    if not is_chongniu_initial:
+                        # ignore chongniu for not applicable initials
+                        final = re.sub('^ji(?=e)', 'j', final)
+                        final = re.sub('^jwi(?=e)', 'jw', final)
+                        final = re.sub('^ji', 'i', final)
                 if 'y' in initial and final.startswith("j"):
                     final = final[1:]
+                if reading.rhyme_group in CHONGNIU_RHYME_GROUPS and is_chongniu_initial:
+                    if chongniu is None:
+                        pass
+                    elif chongniu == "medial":
+                        # Replace chongniu-III with medial glides
+                        chongniu_IV = 'ji' in final or 'jwi' in final
+                        final = re.sub('^ji(?=e)', 'j', final)
+                        final = re.sub('^jwi(?=e)', 'jw', final)
+                        final = re.sub('^ji', 'i', final)
+                        if not chongniu_IV:
+                            final = re.sub('^j', 'ɨ̯', final)
+                            if 'ɨ̯' not in final:
+                                final = 'ɨ̯' + final
+                    elif chongniu == "vowel":
+                        raise NotImplementedError("vowel chongniu not implemented yet")
             if spaced:
                 recon = initial + " " + final
             else:
@@ -285,3 +316,5 @@ def getMCReconstructions(author: str, include_tone: bool, spaced: bool) -> dict[
                 result[char] = []
             result[char].append(recon)
     return result
+
+# getMCReconstructions('baxter', include_tone=True, spaced=False, chongniu='medial')

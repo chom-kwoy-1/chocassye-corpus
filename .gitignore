@@ -1,3 +1,5 @@
 .idea/
 .venv/
 outputs/*.tsv
+__pycache__/*
+*.pyc

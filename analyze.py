@@ -104,12 +104,14 @@ def tokenize_mc(reading: str) -> str:
         initial = initial.replace('h', 'ʰ')
     final = final.replace('ng', 'ŋ')
     final = " ".join(final)
-    return initial + " " + final
+    final = final.replace('ɨ ̯', 'ɨ̯')
+    result = initial + " " + final
+    return result
 
 
 def write_wordlist():
     mk_words = read_hanja_csv()
-    mc_words = getMCReconstructions('baxter', False, True)
+    mc_words = getMCReconstructions('baxter', False, True, chongniu='medial')
 
     # extract overlapping words with only 1 reading in each system
     overlap = {}
@@ -162,4 +164,4 @@ def analyze():
 
 if __name__ == "__main__":
     write_wordlist()
-    analyze()
+    #analyze()
