@@ -263,7 +263,7 @@ def getMCData(char: str) -> list[Reading] | None:
 
 
 CHONGNIU_RHYME_GROUPS = "支脂祭眞質仙薛宵侵緝鹽葉"
-SEMI_CHONGNIU_RHYME_GROUPS = CHONGNIU_RHYME_GROUPS + "庚陌清昔幽"
+SEMI_CHONGNIU_RHYME_GROUPS = CHONGNIU_RHYME_GROUPS + "諄庚陌清昔幽"
 
 def getMCReconstructions(
         author: str,
@@ -291,6 +291,7 @@ def getMCReconstructions(
                         final = re.sub('^ji(?=e)', 'j', final)
                         final = re.sub('^jwi(?=e)', 'jw', final)
                         final = re.sub('^ji', 'i', final)
+                        final = re.sub('^jwi', 'wi', final)
                 if 'y' in initial and final.startswith("j"):
                     final = final[1:]
                 if is_semi_chongniu_rhyme_group and is_chongniu_initial:
@@ -302,6 +303,7 @@ def getMCReconstructions(
                         final = re.sub('^ji(?=e)', 'j', final)
                         final = re.sub('^jwi(?=e)', 'jw', final)
                         final = re.sub('^ji', 'i', final)
+                        final = re.sub('^jwi', 'wi', final)
                         if not chongniu_IV:
                             final = re.sub('^j', 'ɨ̯', final)
                             if 'ɨ̯' not in final:
