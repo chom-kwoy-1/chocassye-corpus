@@ -262,7 +262,8 @@ def getMCData(char: str) -> list[Reading] | None:
     return readings
 
 
-CHONGNIU_RHYME_GROUPS = "支脂祭眞質仙薛宵侵緝鹽葉庚陌清昔幽"
+CHONGNIU_RHYME_GROUPS = "支脂祭眞質仙薛宵侵緝鹽葉"
+SEMI_CHONGNIU_RHYME_GROUPS = CHONGNIU_RHYME_GROUPS + "庚陌清昔幽"
 
 def getMCReconstructions(
         author: str,
@@ -280,7 +281,11 @@ def getMCReconstructions(
             final = getattr(reading.final, author)
             if author == 'baxter':
                 is_chongniu_initial = initial in ['p', 'ph', 'b', 'm', 'k', 'kh', 'g', 'ng', "'", 'x', 'h']
-                if reading.rhyme_group in CHONGNIU_RHYME_GROUPS:
+                is_semi_chongniu_rhyme_group = (
+                    reading.rhyme_group in SEMI_CHONGNIU_RHYME_GROUPS and
+                    reading.division == '三'
+                )
+                if is_semi_chongniu_rhyme_group:
                     if not is_chongniu_initial:
                         # ignore chongniu for not applicable initials
                         final = re.sub('^ji(?=e)', 'j', final)
@@ -288,7 +293,7 @@ def getMCReconstructions(
                         final = re.sub('^ji', 'i', final)
                 if 'y' in initial and final.startswith("j"):
                     final = final[1:]
-                if reading.rhyme_group in CHONGNIU_RHYME_GROUPS and is_chongniu_initial:
+                if is_semi_chongniu_rhyme_group and is_chongniu_initial:
                     if chongniu is None:
                         pass
                     elif chongniu == "medial":
