@@ -21,6 +21,7 @@ class Initial:
 
 @dataclass
 class Final:
+    number: int
     group: str
     names: list[str]
     division: int
@@ -86,6 +87,7 @@ def _read_finals_csv(
         table: list[Final] = []
         for row in reader:
             final = Final(
+                number=int(row["No"]),
                 group=row["Group"],
                 names=[name.strip() for name in row["Name"].split("/")],
                 division=int(row["Div"]),

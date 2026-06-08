@@ -1,11 +1,12 @@
 import csv
 import ast
 import re
+from itertools import groupby
 
 from lingpy import LexStat, Alignments, prosodic_string
 from lingrex import CoPaR
 
-from middleChinese import getMCReconstructions
+from middleChinese import getMCReconstructions, getMCData, Reading, Final
 
 
 def normalize_reading(reading: str) -> str:
@@ -26,7 +27,7 @@ def read_hanja_csv() -> dict[str, set[str]]:
             readings = [normalize_reading(r) for r in ast.literal_eval(row['s'])]
             if hanja not in result:
                 result[hanja] = set()
-            result[hanja].update(readings)
+                result[hanja].update(readings)
     return result
 
 
@@ -109,21 +110,81 @@ def tokenize_mc(reading: str) -> str:
     return result
 
 
-def write_wordlist():
+def get_overlap():
     mk_words = read_hanja_csv()
     mc_words = getMCReconstructions('baxter', False, True, chongniu='medial')
 
     # extract overlapping words with only 1 reading in each system
     overlap = {}
     for hanja, mk_readings in mk_words.items():
-        if len(mk_readings) != 1:
-            continue
         mc_readings = mc_words.get(hanja)
         if mc_readings is None or len(mc_readings) != 1:
             continue
         overlap[hanja] = (mk_readings.pop(), mc_readings.pop())
 
     print(len(overlap), "overlapping characters with exactly 1 reading in each system")
+
+    return overlap
+
+
+def analyze_overlap():
+    overlap = get_overlap()
+
+    mc_finals = {}
+
+    initial_types = {
+        "脣音 / bilabial": "脣音",
+        "舌頭音 / alveolar": "(半)舌音",
+        "半舌音": "(半)舌音",
+        "舌上音 / retroflex": "(半)舌音",
+        "齒頭音 / dental": "齒頭音",
+        "正齒音 / retroflex": "莊組",
+        "正齒音 / post-alveolar": "章組",
+        "牙音 / velar": "牙喉音",
+        "喉音 / glottal": "牙喉音",
+        "以母": "以母",
+        "半齒音": "日母",
+    }
+
+    results = {}
+    for i, (hanja, (mk_reading, mc_reading)) in enumerate(overlap.items(), 1):
+        reading, = getMCData(hanja)
+        mk_reading = mk_reading.replace('ᆐ', 'ywey').replace('[]', '')
+        mk_final = re.fullmatch(r'[^wyaeiou]*([wyaeiou]+.*)', mk_reading)[1]
+        mc_final = "/".join(reading.final.names)
+        mc_finals[reading.final.number] = mc_final
+        key = (reading.final.number, initial_types[reading.initial.type])
+        results[key] = results.get(key, dict())
+        results[key][mk_final] = results[key].get(mk_final, 0) + 1
+
+    with open("outputs/mcmktable.tsv", "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f, delimiter="\t")
+        initial_groups = [key for key, _ in groupby(initial_types.values())]
+        writer.writerow(["MC Final No", "MC Final", *initial_groups])
+        for final_no in range(1, 161):
+            if final_no not in mc_finals:
+                writer.writerow([final_no, "-"] + ["-"] * len(initial_groups))
+                continue
+            row = [final_no, mc_finals[final_no]]
+            for initial_type in initial_groups:
+                key = (final_no, initial_type)
+                if key in results:
+                    data = list(sorted(results[key].items(), key=lambda item: item[1], reverse=True))
+                    if sum(freq for _, freq in data) >= 5:
+                        data = [
+                            (char, freq) for char, freq in data
+                            if freq > 1
+                        ]
+                    row.append(",".join([f"{k}({v})" for k, v in data]))
+                else:
+                    row.append("-")
+            writer.writerow(row)
+
+    print(results)
+
+
+def write_wordlist():
+    overlap = get_overlap()
 
     # store into tsv file
     # in LingPy's TSV format with columns for ID, DOCULECT (language), CONCEPT, TOKENS (space-segmented IPA), and crucially COGID (cognate set IDs) and ALIGNMENT.
@@ -163,5 +224,6 @@ def analyze():
 
 
 if __name__ == "__main__":
-    write_wordlist()
+    analyze_overlap()
+    # write_wordlist()
     #analyze()
