@@ -146,7 +146,7 @@ def analyze_overlap():
         "半齒音": "日母",
     }
 
-    results = {}
+    mk_results = {}  # (final_number, initial_type) -> dict[mk_final, list[hanja]]
     for i, (hanja, (mk_reading, mc_reading)) in enumerate(overlap.items(), 1):
         reading, = getMCData(hanja)
         mk_reading = mk_reading.replace('ᆐ', 'ywey').replace('[]', '')
@@ -154,33 +154,49 @@ def analyze_overlap():
         mc_final = "/".join(reading.final.names)
         mc_finals[reading.final.number] = mc_final
         key = (reading.final.number, initial_types[reading.initial.type])
-        results[key] = results.get(key, dict())
-        results[key][mk_final] = results[key].get(mk_final, 0) + 1
+        mk_results[key] = mk_results.get(key, dict())
+        words = mk_results[key].get(mk_final, [])
+        words.append(hanja)
+        mk_results[key][mk_final] = words
 
     with open("outputs/mcmktable.tsv", "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f, delimiter="\t")
         initial_groups = [key for key, _ in groupby(initial_types.values())]
         writer.writerow(["MC Final No", "MC Final", *initial_groups])
+
         for final_no in range(1, 161):
+
+            # nothing in this row
             if final_no not in mc_finals:
                 writer.writerow([final_no, "-"] + ["-"] * len(initial_groups))
                 continue
+
             row = [final_no, mc_finals[final_no]]
+
             for initial_type in initial_groups:
                 key = (final_no, initial_type)
-                if key in results:
-                    data = list(sorted(results[key].items(), key=lambda item: item[1], reverse=True))
-                    if sum(freq for _, freq in data) >= 5:
+                if key in mk_results:
+                    data: list[tuple[str, list[str]]] = list(
+                        sorted(mk_results[key].items(), key=lambda item: len(item[1]), reverse=True)
+                    )
+
+                    # filter out single occurrences if more than 5 words in this category
+                    occurrences = sum(len(words) for _, words in data)
+                    if occurrences >= 5:
                         data = [
-                            (char, freq) for char, freq in data
-                            if freq > 1
+                            (mk_final, words) for mk_final, words in data
+                            if len(words) > 1
                         ]
-                    row.append(",".join([f"{k}({v})" for k, v in data]))
+
+                    row.append(",".join(f"{mk_final}({len(words)})" for mk_final, words in data))
+
                 else:
+                    # nothing here
                     row.append("-")
+
             writer.writerow(row)
 
-    print(results)
+    print(mk_results)
 
 
 def write_wordlist():
