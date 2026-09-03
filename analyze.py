@@ -146,6 +146,7 @@ def analyze_overlap():
         "半齒音": "日母",
     }
 
+    mc_distribution = {}
     mc_words = getMCReconstructions('baxter', False, True, chongniu='medial')
     for hanja, baxters in mc_words.items():
         readings = getMCData(hanja)
@@ -153,6 +154,8 @@ def analyze_overlap():
             for reading in readings:
                 mc_final = "/".join(reading.final.names)
                 mc_finals[reading.final.number] = mc_final
+                key = (reading.final.number, initial_types[reading.initial.type])
+                mc_distribution[key] = 1
 
     mk_results = {}  # (final_number, initial_type) -> dict[mk_final, list[hanja]]
     for i, (hanja, (mk_reading, mc_reading)) in enumerate(overlap.items(), 1):
@@ -200,7 +203,12 @@ def analyze_overlap():
 
                 else:
                     # nothing here
-                    row.append("-")
+                    if key in mc_distribution:
+                        # MK reading data incomplete
+                        row.append("?")
+                    else:
+                        # no MC words belong here
+                        row.append("-")
 
             writer.writerow(row)
 
