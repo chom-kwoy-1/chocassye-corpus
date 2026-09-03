@@ -1,12 +1,14 @@
 import csv
 import ast
 import re
+import unicodedata
 from itertools import groupby
 
 from lingpy import LexStat, Alignments, prosodic_string
 from lingrex import CoPaR
 
 from middleChinese import getMCReconstructions, getMCData, Reading, Final
+import yale
 
 
 def normalize_reading(reading: str) -> str:
@@ -199,7 +201,7 @@ def analyze_overlap():
                             if len(words) > 1
                         ]
 
-                    row.append(",".join(f"{mk_final}({len(words)})" for mk_final, words in data))
+                    row.append(",".join(f"{yale_to_hangul(mk_final)}({len(words)})" for mk_final, words in data))
 
                 else:
                     # nothing here
@@ -211,6 +213,27 @@ def analyze_overlap():
                         row.append("-")
 
             writer.writerow(row)
+
+
+def yale_to_hangul(x: str) -> str:
+    result = "ᄋ"
+    x = x.replace('ng', 'G')
+    for length in [4, 3, 2, 1]:
+        for yale_str, hangul in yale.Y2H_VOWELS.items():
+            if len(yale_str) == length:
+                if x.startswith(yale_str):
+                    x = x[len(yale_str):]
+                    result += hangul
+                    break
+    for length in [4, 3, 2, 1]:
+        for yale_str, hangul in yale.Y2H_FINALS.items():
+            if len(yale_str) == length:
+                if x.startswith(yale_str):
+                    x = x[len(yale_str):]
+                    result += hangul
+                    break
+    result = unicodedata.normalize("NFC", result)
+    return result
 
 
 def write_wordlist():
