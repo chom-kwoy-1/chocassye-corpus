@@ -81,7 +81,7 @@ def _read_initials_csv(file_path: str) -> dict[str, Initial]:
 
 def _read_finals_csv(
     file_path: str,
-) -> tuple[dict[str, Final], dict[str, Final]]:
+) -> dict[str, Final]:
     with open(file_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         table: list[Final] = []
@@ -107,27 +107,7 @@ def _read_finals_csv(
         for name in final.names:
             name_map[name] = final
 
-    baxter_to_final: dict[str, Final] = {}
-    for final in table:
-        baxter_to_final[final.baxter] = final
-
-    checked_tone_map: dict[str, Final] = {}
-    for final in table:
-
-        def _add_to_map(son_baxter: str) -> None:
-            son_counterpart = baxter_to_final.get(son_baxter)
-            if son_counterpart is not None:
-                for name in son_counterpart.names:
-                    checked_tone_map[name] = final
-
-        if final.baxter.endswith("p"):
-            _add_to_map(final.baxter[:-1] + "m")
-        elif final.baxter.endswith("t"):
-            _add_to_map(final.baxter[:-1] + "n")
-        elif final.baxter.endswith("k"):
-            _add_to_map(final.baxter[:-1] + "ng")
-
-    return name_map, checked_tone_map
+    return name_map
 
 
 def _read_mc_data_files(dir_path: str) -> dict[str, list[_ReadingData]]:
@@ -193,9 +173,14 @@ def _read_mc_data_files(dir_path: str) -> dict[str, list[_ReadingData]]:
 
 rootdir = pathlib.Path(__file__).parent
 _MC_INITIALS_DATA = _read_initials_csv(str(rootdir / "MCinitials.csv"))
-_MC_FINALS_DATA, _MC_CHECKED_TONE_FINALS_DATA = _read_finals_csv(str(rootdir / "MCfinals.csv"))
+_MC_FINALS_DATA = _read_finals_csv(str(rootdir / "MCfinals.csv"))
 _MIDDLE_CHINESE_DATA = _read_mc_data_files(str(rootdir / "MCData/"))
-
+_CHECKED_TONE_COUNTERPARTS = {
+    '東': '屋', '冬': '沃', '鍾': '燭', '江': '覺', '真': '質', '眞': '質', '臻': '櫛', '諄': '術', '痕': '麧', '魂': '沒',
+    '欣': '迄', '文': '物', '寒': '曷', '桓': '末', '元': '月', '刪': '黠', '山': '鎋', '仙': '薛', '先': '屑', '唐': '鐸',
+    '陽': '藥', '庚': '陌', '耕': '麥', '清': '昔', '青': '錫', '登': '德', '蒸': '職', '侵': '緝', '談': '盍', '嚴': '業',
+    '凡': '乏', '銜': '狎', '咸': '洽', '鹽': '葉', '添': '帖', '覃': '合',
+}
 
 def _get_mc_initial(rhyme_group: str) -> Initial | None:
     return _MC_INITIALS_DATA.get(rhyme_group)
@@ -208,17 +193,18 @@ def _get_mc_final(
     chongniu: str,
     tone: str,
 ) -> Final | None:
-    data = _MC_CHECKED_TONE_FINALS_DATA if tone == "入" else _MC_FINALS_DATA
-    chongniu = "重鈕三" if chongniu else ""
-    for key in [
+    chongniu = "重鈕三" if chongniu else division
+    candidates = [
         rhyme_group + chongniu + open_closed,
         rhyme_group + chongniu,
         rhyme_group + division + open_closed,
-        rhyme_group + division,
         rhyme_group + open_closed,
+        rhyme_group + division,
         rhyme_group,
-    ]:
-        result = data.get(key)
+    ]
+    for key_ in candidates:
+        key = (_CHECKED_TONE_COUNTERPARTS.get(key_[0], key_[0]) if tone == "入" else key_[0]) + key_[1:]
+        result = _MC_FINALS_DATA.get(key)
         if result is not None:
             return result
     return None
@@ -325,5 +311,3 @@ def getMCReconstructions(
                 result[char] = []
             result[char].append(recon)
     return result
-
-# getMCReconstructions('baxter', include_tone=True, spaced=False, chongniu='medial')
